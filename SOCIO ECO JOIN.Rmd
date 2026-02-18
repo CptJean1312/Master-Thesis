@@ -1,0 +1,116 @@
+---
+title: "Socio Eco"
+output: html_document
+date: "2025-12-09"
+---
+
+```{r, silent=TRUE}
+library(terra)      # Reading and manipulating raster data
+library(sf)         # Reading and manipulating vector data
+library(dplyr)      # Manipulating data.frames
+library(ggplot2)    # Visualization
+library(spatstat)   # Point Pattern Analysis
+library(ggplot2)    # data visualizatio
+library(tidyr)      # data wrangling package: change from wide to long format
+library(dplyr)      # data manipulation: mutate
+library(gridExtra)  # plot multiple ggplot graphs
+library(caret)      # cross-validation
+library(mapview)    # Map visualization
+library(gstat)      # geostatistics
+library(stars)      # spatial-temporal data
+library(abind)
+library(spdep)      # Diagnosing spatial dependence
+library(spatialreg) # Spatial lag and spatial error model
+library(readxl)
+library(raster)
+library(ggcorrplot)
+library(reshape2)
+library(pracma)
+library(data.table)
+library(stringr)
+library(readr)
+```
+
+Typen sauber & reproduzierbar konvertieren
+```{r}
+gpkg_in  <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/SOCIOECONOMIC.nosync/FINAL LAYER EXPOSURE.gpkg"
+
+layer_in <- "gemeinden_elbe_final_landonly_exposure"
+
+EXPO <- st_read(gpkg_in, layer = layer_in, quiet = TRUE)
+```
+
+```{r}
+head(EXPO)
+```
+
+```{r}
+summary(EXPO)
+```
+
+
+leere srings zu NAs
+```{r}
+EXPO <- EXPO %>%
+  mutate(across(where(is.character), ~na_if(str_trim(.x), "")))
+```
+
+_year Spalten → integer
+```{r}
+year_cols <- names(EXPO)[str_detect(names(EXPO), "_year$")]
+
+EXPO <- EXPO %>%
+  mutate(across(all_of(year_cols), as.integer))
+```
+
+SocioEco-Spalten → numeric
+```{r}
+keep_text <- c(
+  "Objektidentifikator","Geofaktor_GF","Besondere_Gebiete_BSG","Länderkürzel_LKZ",
+  "Verwaltungssitz_SDV_ARS","GeografischerName_GEN","Bezeichnung",
+  "Land","Regierungsbezirk","Kreis","Gemeinde",
+  "mun_name","AGS","Gemeindeschlüssel_AGS","Gemeindeschlüssel_AGS_2"
+)
+
+char_cols <- names(EXPO)[sapply(EXPO, is.character)]
+num_candidate_cols <- setdiff(char_cols, keep_text)
+
+EXPO <- EXPO %>%
+  mutate(across(all_of(num_candidate_cols), ~parse_number(.x)))
+```
+
+AGS final vereinheitlichen
+```{r}
+EXPO <- EXPO %>%
+  mutate(
+    AGS_final = coalesce(Gemeindeschlüssel_AGS, AGS, Gemeindeschlüssel_AGS_2),
+    AGS_final = str_pad(as.character(AGS_final), 8, pad="0")
+  )
+```
+
+```{r}
+summary(EXPO)
+```
+
+
+```{r}
+# Shares müssen in [0,1] liegen
+summary(EXPO$share_flood_total)
+```
+```{r}
+# Keine Gemeinde >100 % überflutet
+sum(EXPO$share_flood_total > 1, na.rm = TRUE)
+
+```
+
+```{r}
+# Optional: Gemeinden ohne Bevölkerung
+sum(EXPO$pop_total == 0, na.rm = TRUE)
+```
+```{r}
+out_gpkg  <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/SOCIOECONOMIC.nosync/FINAL LAYER EXPOSURE.gpkg"
+out_layer <- "gemeinden_elbe_final_landonly_exposure_cleanNA"
+
+st_write(EXPO, out_gpkg, layer = out_layer, delete_layer = TRUE, quiet = TRUE)
+```
+

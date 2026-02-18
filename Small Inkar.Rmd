@@ -1,0 +1,340 @@
+---
+title: "SMALL INKAR"
+output: html_document
+date: "2025-11-29"
+---
+
+```{r, silent=TRUE}
+library(terra)      # Reading and manipulating raster data
+library(sf)         # Reading and manipulating vector data
+library(dplyr)      # Manipulating data.frames
+library(ggplot2)    # Visualization
+library(spatstat)   # Point Pattern Analysis
+library(ggplot2)    # data visualizatio
+library(tidyr)      # data wrangling package: change from wide to long format
+library(dplyr)      # data manipulation: mutate
+library(gridExtra)  # plot multiple ggplot graphs
+library(caret)      # cross-validation
+library(mapview)    # Map visualization
+library(gstat)      # geostatistics
+library(stars)      # spatial-temporal data
+library(abind)
+library(spdep)      # Diagnosing spatial dependence
+library(spatialreg) # Spatial lag and spatial error model
+library(readxl)
+library(raster)
+library(ggcorrplot)
+library(reshape2)
+library(pracma)
+```
+
+Load Data Table Library for more efficient look at huge CSV Dataset (6.7GB INKAR DATASET)
+```{r}
+library(data.table)
+```
+
+load file
+```{r}
+file <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/SOCIOECONOMIC.nosync/Downloads/inkar_2025/inkar_2025.csv"
+
+inkar_big <- fread(file, encoding = "UTF-8", sep = ";", quote = "")
+```
+
+```{r}
+str(inkar_big)
+```
+
+```{r}
+head(inkar_big)
+```
+
+```{r}
+dim(inkar_big)
+```
+Welche Bereiche / Raumbezüge gibt es?
+```{r}
+inkar_big[, .N, by = .(Bereich, Raumbezug)][order(Bereich, Raumbezug)]
+```
+Welche Indikatoren?
+```{r}
+inkar_big[, .(unique(Kuerzel), unique(Indikator))]
+```
+checken, wie die Raumbezug-Bezeichnungen genau heißen...
+```{r}
+unique(inkar_big$Raumbezug)
+```
+Nur Inkar Tabelle von Deutschland & Gemeinden
+```{r}
+inkar_gemeinde <- inkar_big[Bereich == "LRB" & Raumbezug == "Gemeinden"]
+```
+
+Nur Inkar Tabelle mit ELBE Bundesländern nach AGS 
+01 SH, 02 HH, 03 NI, 09 BY, 11 BE, 12 BB, 13 MV, 14 SN, 15 ST, 16 TH
+```{r}
+elbe_bl <- c("01","02","03","09","11","12","13","14","15","16")
+dt_elbe <- inkar_gemeinde[substr(Kennziffer, 1, 2) %in% elbe_bl]
+```
+
+PRO GEMEINDE & INDIKATOR IMMER NEUESTES JAHR ----
+```{r}
+setorder(dt_elbe, Kennziffer, Kuerzel, -Zeitbezug)
+
+dt_latest <- dt_elbe[, .SD[1], by = .(Kennziffer, Kuerzel)]
+```
+
+WIDE Pivot für Werte
+```{r}
+dt_values <- dcast(dt_latest, Kennziffer + Name ~ Kuerzel, value.var = "Wert")
+```
+
+WIDE Pivot für Jahre, damit immer letztes erhoben jahr angezegt wird in dem der datensatz erhoben wurde
+```{r}
+dt_years <- dcast(dt_latest, Kennziffer + Name ~ Kuerzel, value.var = "Zeitbezug")
+```
+
+Suffix "_year" für Jahres-Spalten
+```{r}
+year_cols <- setdiff(colnames(dt_years), c("Kennziffer", "Name"))
+setnames(dt_years, old = year_cols, new = paste0(year_cols, "_year"))
+```
+
+Merge
+```{r}
+dt_final <- merge(dt_values, dt_years, by = c("Kennziffer", "Name"), all = TRUE)
+```
+
+```{r}
+str(dt_final)
+```
+
+```{r}
+fwrite(dt_final, "/Users/maxi_161/Desktop/UNI/inkar_elbe_final.csv")
+```
+
+
+CLEAN UP DATASET
+```{r}
+clean_dt <- dt_final
+
+```
+
+```{r}
+head(clean_dt)
+```
+
+```{r}
+str(clean_dt)
+```
+Patterns für relevante Variablen definieren
+```{r}
+colnames(clean_dt)
+```
+1) Werte-Spalten, die wir behalten wollen
+```{r}
+value_keep <- c(
+  "Kennziffer", "Name",
+  
+  # Armut & Sozialleistungen
+  "a_ALGII_SGBII", "a_BG1P", "a_BG5um", "a_BGKind", "a_Unterkunft_SGBII",
+  "alo", "a_aloLang",
+  "q_alo_u25_einw", "q_alo_ü55_einw",
+  
+  # Einkommen / Steuerkraft / Kaufkraft
+  "q_einkst_bev", "q_kaufkraft", "q_gewst_bev", "d_steuereinnahme",
+  
+  # Bevölkerung & Altersstruktur
+  "xbev", "xbevf", "xbevm", "bev_korr",
+  "a_bev0003", "a_bev0306", "a_bev0618", "a_bev1825",
+  "a_bev2530", "a_bev3050", "a_bev5065",
+  "a_bev6575", "a_bev65um", "a_bev75um",
+  
+  # Demografische Dynamik / Migration
+  "i_saldo_nat", "i_wans",
+  
+  # Dependency Ratios
+  "ewf_1565_ges", "q_abhg_alt", "q_abhg_jung", "r_ewf_jungalt",
+  
+  # Haushaltsstruktur
+  "q_HH", "q_HH1", "a_hh_kind",
+  
+  # Haushaltseinkommen & Bildung / Studierende
+  "a_hheink_hoch", "a_hheink_mittel", "a_hheink_niedrig",
+  "q_stud", "q_stud_1825", "q_stud_fh",
+  
+  # Gesundheit
+  "q_allgemeinärzte_bev", "q_hausarzt_bev",
+  "q_internist_bev", "q_kinderarzt_kinder", "q_ärzte_bev",
+  
+  # Digitale Infrastruktur
+  "a_bb_1000Mbits", "a_bb_100Mbits", "a_bb_50Mbits", "a_bb_4G",
+  
+  # Versorgung / Erreichbarkeit
+  "m_G02_SUP_DIST", "m_Q01_APO_DIST",
+  "m_Q07_HA_DIST", "m_OEV20_DIST", "m_P01_PRIM_DIST",
+  
+  # Dichte / Exposition
+  "q_bev_fl", "q_bevsva_qkm"
+)
+
+
+```
+
+2) Für alle diese Variablen auch *_year-Spalten mitnehmen (falls vorhanden)
+```{r}
+year_keep <- paste0(setdiff(value_keep, c("Kennziffer", "Name")), "_year")
+
+
+```
+
+3) Finale Keep-Liste = Werte + ggf. vorhandene Year-Spalten
+```{r}
+keep_cols <- intersect(c(value_keep, year_keep), colnames(clean_dt))
+```
+
+4) Datensatz reduzieren
+
+```{r}
+SocioEco <- clean_dt[, ..keep_cols]
+```
+
+5) Kennziffer in AGS umbenennen (für QGIS)
+```{r}
+setnames(SocioEco, "Kennziffer", "AGS")
+```
+
+ALle Lennzifern für leserlichkiet umbenennen!
+```{r}
+#1) Rename map: old -> new
+rename_map <- c(
+  # IDs
+  "AGS" = "AGS",
+  "Name" = "mun_name",
+
+  # Poverty / welfare
+  "a_ALGII_SGBII"      = "share_alg2_sgb2",
+  "a_BG1P"             = "share_bg_single_parent",
+  "a_BG5um"            = "share_bg_5plus",
+  "a_BGKind"           = "share_bg_with_children",
+  "a_Unterkunft_SGBII" = "share_sgb2_with_housing_costs",
+
+  # Unemployment
+  "alo"                = "unemp_count",
+  "a_aloLang"          = "share_longterm_unemp",
+  "q_alo_u25_einw"      = "unemp_u25_per_1000",
+  "q_alo_ü55_einw"      = "unemp_55plus_per_1000",
+
+  # Income / fiscal capacity
+  "q_einkst_bev"       = "income_tax_per_capita",
+  "q_kaufkraft"        = "purchasing_power",
+  "q_gewst_bev"        = "trade_tax_per_capita",
+  "d_steuereinnahme"   = "tax_revenue_total",
+
+  # Population
+  "xbev"               = "pop_total",
+  "xbevf"              = "pop_female",
+  "xbevm"              = "pop_male",
+  "bev_korr"           = "pop_corrected",
+
+  # Age shares
+  "a_bev0003"          = "share_age_0_3",
+  "a_bev0306"          = "share_age_3_6",
+  "a_bev0618"          = "share_age_6_18",
+  "a_bev1825"          = "share_age_18_25",
+  "a_bev2530"          = "share_age_25_30",
+  "a_bev3050"          = "share_age_30_50",
+  "a_bev5065"          = "share_age_50_65",
+  "a_bev6575"          = "share_age_65_75",
+  "a_bev65um"          = "share_age_65plus",
+  "a_bev75um"          = "share_age_75plus",
+
+  # Demographic dynamics
+  "i_saldo_nat"        = "natural_pop_change",
+  "i_wans"             = "migration_balance",
+
+  # Dependency / working-age
+  "ewf_1565_ges"       = "working_age_15_65_count",
+  "q_abhg_alt"         = "old_age_dependency",
+  "q_abhg_jung"        = "youth_dependency",
+  "r_ewf_jungalt"      = "young_old_ratio",
+
+  # Household structure
+  "q_HH"               = "households_total",
+  "q_HH1"              = "share_single_households",
+  "a_hh_kind"          = "share_households_with_children",
+
+  # Household income groups + education proxy
+  "a_hheink_hoch"      = "share_hh_income_high",
+  "a_hheink_mittel"    = "share_hh_income_medium",
+  "a_hheink_niedrig"   = "share_hh_income_low",
+  "q_stud"             = "students_total_per_1000",
+  "q_stud_1825"        = "students_18_25_per_1000",
+  "q_stud_fh"          = "students_fh_per_1000",
+
+  # Health care access
+  "q_allgemeinärzte_bev" = "gp_general_per_1000",
+  "q_hausarzt_bev"       = "gp_primary_per_1000",
+  "q_internist_bev"      = "internists_per_1000",
+  "q_kinderarzt_kinder"  = "pediatricians_per_1000_children",
+  "q_ärzte_bev"          = "doctors_total_per_1000",
+
+  # Digital infrastructure
+  "a_bb_1000Mbits"     = "share_bb_1000mbit",
+  "a_bb_100Mbits"      = "share_bb_100mbit",
+  "a_bb_50Mbits"       = "share_bb_50mbit",
+  "a_bb_4G"             = "share_4g",
+
+  # Accessibility / distances
+  "m_G02_SUP_DIST"     = "dist_supermarket_m",
+  "m_Q01_APO_DIST"     = "dist_pharmacy_m",
+  "m_Q07_HA_DIST"      = "dist_gp_m",
+  "m_OEV20_DIST"       = "dist_public_transport_m",
+  "m_P01_PRIM_DIST"    = "dist_primary_school_m",
+
+  # Density / exposure
+  "q_bev_fl"           = "pop_density_per_km2",
+  "q_bevsva_qkm"       = "employment_density_per_km2"
+)
+
+# 2) Apply renaming (keeps everything else unchanged)
+old <- names(rename_map)
+new <- unname(rename_map)
+idx <- match(old, names(SocioEco))
+names(SocioEco)[idx[!is.na(idx)]] <- new[!is.na(idx)]
+
+# 3) Rename the *_year columns automatically too:
+# e.g., a_ALGII_SGBII_year -> share_alg2_sgb2_year
+for (i in seq_along(rename_map)) {
+  old_year <- paste0(names(rename_map)[i], "_year")
+  new_year <- paste0(rename_map[i], "_year")
+  if (old_year %in% names(SocioEco)) names(SocioEco)[names(SocioEco) == old_year] <- new_year
+}
+```
+
+```{r}
+
+```
+
+
+
+```{r}
+str(SocioEco)
+```
+
+```{r}
+fwrite(SocioEco, "inkar_elbe_core_MAIN.csv")
+```
+
+
+
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```

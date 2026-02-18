@@ -1,0 +1,475 @@
+---
+title: "FINAL"
+author: "Maxi Ahl"
+date: "2026-02-05"
+output: html_document
+---
+
+```{r,silent=TRUE}
+library(terra)      # Reading and manipulating raster data
+library(sf)         # Reading and manipulating vector data
+library(dplyr)      # Manipulating data.frames
+library(ggplot2)    # Visualization
+library(spatstat)   # Point Pattern Analysis
+library(ggplot2)    # data visualizatio
+library(tidyr)      # data wrangling package: change from wide to long format
+library(dplyr)      # data manipulation: mutate
+library(gridExtra)  # plot multiple ggplot graphs
+library(caret)      # cross-validation
+library(mapview)    # Map visualization
+library(gstat)      # geostatistics
+library(stars)      # spatial-temporal data
+library(abind)
+library(spdep)      # Diagnosing spatial dependence
+library(spatialreg) # Spatial lag and spatial error model
+library(readxl)
+library(raster)
+library(ggcorrplot)
+library(reshape2)
+library(pracma)
+library(data.table)
+library(stringr)
+library(readr)
+library(corrplot)
+library(broom)
+library(spatialreg)
+```
+
+
+LOAD IN FINAL GPKG
+```{r}
+FULL <- st_read("/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg")
+
+glimpse(FULL)
+```
+
+CHECKS
+Protection
+```{r}
+summary(FULL$share_protected)
+```
+
+Exposure
+```{r}
+summary(FULL$exposure_share_flood_total)
+```
+
+Kombination
+```{r}
+cor(FULL$share_protected,
+    FULL$exposure_share_flood_total,
+    use="complete.obs")
+```
+
+Residual Risk
+```{r}
+FULL <- FULL %>%
+  mutate(
+    residual_risk =
+      exposure_share_flood_total * (1 - share_protected)
+  )
+```
+
+```{r}
+summary(FULL$residual_risk)
+```
+
+```{r}
+head(FULL)
+```
+
+```{r}
+vars <- FULL |>
+  sf::st_drop_geometry() |>
+  dplyr::select(
+    exposure_share_alg2_sgb2,
+    exposure_share_sgb2_with_housing_costs,
+    exposure_share_longterm_unemp,
+    exposure_unemp_u25_per_1000,
+    exposure_purchasing_power,
+    exposure_tax_revenue_total,
+    exposure_share_age_65plus,
+    exposure_share_age_0_3,
+    exposure_natural_pop_change,
+    exposure_migration_balance,
+    exposure_old_age_dependency,
+    exposure_share_single_households,
+    exposure_share_hh_income_low,
+    exposure_students_total_per_1000,
+    exposure_doctors_total_per_1000,
+    exposure_gp_primary_per_1000,
+    exposure_share_bb_100mbit,
+    exposure_share_4g,
+    exposure_dist_public_transport_m,
+    exposure_dist_pharmacy_m,
+    exposure_pop_density_per_km2
+  ) |>
+  dplyr::mutate(
+    dplyr::across(dplyr::everything(), ~ readr::parse_number(as.character(.x)))
+  )
+
+cor_mat <- cor(vars, use = "pairwise.complete.obs")
+corrplot::corrplot(cor_mat, method = "color", type = "upper", tl.cex = 0.7)
+```
+
+
+
+RESIDUAL RISK CONCEPT
+Zone 1 = offizielles Überschwemmungsgebiet
+
+→ regelmäßig betroffen
+→ gesetzlich festgesetzt
+→ ohne Schutzmaßnahme
+
+Zone 3 = hochwassergeschütztes Gebiet
+
+→ liegt hinter Deichen
+→ wäre ohne Deich im Überflutungsgebiet
+→ wird aber in Extremereignissen modelliert
+
+Unprotected flood exposure   = zone1
+Protected flood exposure     = zone3
+Total flood exposure         = zone1 + zone2 + zone3
+
+
+# 1) Make sure zone shares exist and NAs are 0
+
+```{r}
+FULL <- FULL %>%
+  mutate(
+    exposure_share_flood_total = if_else(is.na(exposure_share_flood_total), 0, exposure_share_flood_total),
+    exposure_share_flood_zone1 = if_else(is.na(exposure_share_flood_zone1), 0, exposure_share_flood_zone1),
+    exposure_share_flood_zone2 = if_else(is.na(exposure_share_flood_zone2), 0, exposure_share_flood_zone2),
+    exposure_share_flood_zone3 = if_else(is.na(exposure_share_flood_zone3), 0, exposure_share_flood_zone3)
+  )
+```
+
+# 2) Define core outcomes
+```{r}
+FULL <- FULL %>%
+  mutate(
+    share_total_hazard = exposure_share_flood_total,
+    share_unprotected  = exposure_share_flood_zone1,
+    share_informational = exposure_share_flood_zone2,
+    share_protected_hazard = exposure_share_flood_zone3,
+
+    # Residual risk (supervisor-consistent): what is unprotected in HQ100
+    residual_risk = share_unprotected,
+
+    # How much of the hazard footprint is classified as protected (avoid /0)
+    protection_share_of_hazard = if_else(
+      share_total_hazard > 0,
+      share_protected_hazard / share_total_hazard,
+      NA_real_
+    )
+  )
+
+```
+
+# 3) Sanity checks
+```{r}
+summary(FULL$share_total_hazard)
+```
+
+```{r}
+summary(FULL$share_unprotected)
+```
+
+```{r}
+summary(FULL$share_protected_hazard)
+```
+
+```{r}
+summary(FULL$protection_share_of_hazard)
+```
+
+# Optional quick check: do zone parts roughly add up to total?
+```{r}
+check_diff <- FULL %>%
+  st_drop_geometry() %>%
+  transmute(
+    diff = share_total_hazard - (share_unprotected + share_informational + share_protected_hazard)
+  )
+
+summary(check_diff$diff)
+```
+
+
+WIDE PCA (Principal Component Analysis)
+# 1. Extract all socio-economic vars
+```{r}
+names(FULL)
+```
+
+```{r}
+wide_pca_vars <- FULL %>%
+  sf::st_drop_geometry() %>%
+  dplyr::select(
+
+    # Poverty / Welfare
+    exposure_share_alg2_sgb2,
+    exposure_share_bg_single_parent,
+    exposure_share_bg_5plus,
+    exposure_share_bg_with_children,
+    exposure_share_sgb2_with_housing_costs,
+
+    # Unemployment
+    exposure_share_longterm_unemp,
+    exposure_unemp_u25_per_1000,
+    exposure_unemp_55plus_per_1000,
+
+    # Income / Fiscal
+    exposure_income_tax_per_capita,
+    exposure_purchasing_power,
+    exposure_trade_tax_per_capita,
+    exposure_tax_revenue_total,
+
+    # Demography
+    exposure_share_age_0_3,
+    exposure_share_age_3_6,
+    exposure_share_age_6_18,
+    exposure_share_age_18_25,
+    exposure_share_age_25_30,
+    exposure_share_age_30_50,
+    exposure_share_age_50_65,
+    exposure_share_age_65_75,
+    exposure_share_age_65plus,
+    exposure_share_age_75plus,
+
+    # Population dynamics
+    exposure_natural_pop_change,
+    exposure_migration_balance,
+
+    # Dependency
+    exposure_old_age_dependency,
+    exposure_youth_dependency,
+    exposure_young_old_ratio,
+
+    # Household
+    exposure_share_single_households,
+    exposure_share_households_with_children,
+
+    # Income / education
+    exposure_share_hh_income_high,
+    exposure_share_hh_income_medium,
+    exposure_share_hh_income_low,
+    exposure_students_total_per_1000,
+    exposure_students_18_25_per_1000,
+    exposure_students_fh_per_1000,
+
+    # Health
+    exposure_gp_general_per_1000,
+    exposure_gp_primary_per_1000,
+    exposure_internists_per_1000,
+    exposure_pediatricians_per_1000_children,
+    exposure_doctors_total_per_1000,
+
+    # Digital
+    exposure_share_bb_1000mbit,
+    exposure_share_bb_100mbit,
+    exposure_share_bb_50mbit,
+    exposure_share_4g,
+
+    # Accessibility
+    exposure_dist_supermarket_m,
+    exposure_dist_pharmacy_m,
+    exposure_dist_gp_m,
+    exposure_dist_public_transport_m,
+    exposure_dist_primary_school_m,
+
+    # Density
+    exposure_pop_density_per_km2,
+    exposure_employment_density_per_km2
+  ) %>%
+  mutate(across(everything(), as.numeric)) %>%
+  rename_with(~ stringr::str_remove(.x, "^exposure_"))
+```
+
+```{r}
+names(wide_pca_vars)
+```
+
+```{r}
+wide_pca_clean <- wide_pca_vars %>% drop_na()
+wide_pca_scaled <- scale(wide_pca_clean)
+
+wide_pca <- prcomp(wide_pca_scaled)
+
+summary(wide_pca)
+round(wide_pca$rotation[,1:5], 3)
+```
+
+
+# ---- PCA Loadings Table ----
+```{r}
+loadings <- as.data.frame(wide_pca$rotation)
+loadings$variable <- rownames(loadings)
+
+# Long format
+loadings_long <- loadings %>%
+  pivot_longer(
+    cols = starts_with("PC"),
+    names_to = "PC",
+    values_to = "loading"
+  ) %>%
+  mutate(abs_loading = abs(loading))
+
+# Top 8 variables per PC
+top_loadings <- loadings_long %>%
+  group_by(PC) %>%
+  arrange(desc(abs_loading)) %>%
+  slice_head(n = 8) %>%
+  ungroup()
+
+# View
+top_loadings %>%
+  arrange(PC, desc(abs_loading))
+```
+
+# ---- Scree Plot ----
+
+```{r}
+pca_var <- wide_pca$sdev^2
+pca_var_prop <- pca_var / sum(pca_var)
+
+scree_df <- data.frame(
+  PC = seq_along(pca_var),
+  Eigenvalue = pca_var,
+  Variance = pca_var_prop,
+  Cumulative = cumsum(pca_var_prop)
+)
+
+ggplot(scree_df, aes(x = PC, y = Eigenvalue)) +
+  geom_line() +
+  geom_point() +
+  geom_hline(yintercept = 1, linetype = "dashed", color = "red") +
+  labs(
+    title = "Scree Plot (Kaiser Criterion)",
+    x = "Principal Component",
+    y = "Eigenvalue"
+  ) +
+  theme_minimal()
+```
+Kaiser-Kriterium (Standard)
+```{r}
+scree_df %>%
+  filter(Eigenvalue > 1)
+```
+Cumulative Variance Check
+```{r}
+scree_df %>%
+  filter(Cumulative <= 0.7)
+```
+
+
+Hauptindex: PC1–PC8
+Sensitivity: PC1–PC12
+
+Hauptversion (PC1–PC8):
+
+```{r}
+
+```
+
+```{r}
+# --- PCA scores back into FULL (matches the drop_na rows) ---
+
+# which rows were kept for PCA?
+rows_kept <- complete.cases(wide_pca_vars)   # logical vector length nrow(FULL)
+
+# create empty PC columns in FULL
+k <- ncol(wide_pca$x)                        # number of PCs (51)
+pc_names <- paste0("PC", 1:k)
+
+FULL[, pc_names] <- NA_real_
+
+# fill only the kept rows with the PCA scores
+FULL[rows_kept, pc_names] <- wide_pca$x
+```
+
+```{r}
+names(FULL)[grepl("^PC\\d+$", names(FULL))] |> head()
+summary(FULL$PC1)
+sum(!is.na(FULL$PC1))
+```
+
+
+INDEX BAUEN (Hauptindex PC1–PC8)
+```{r}
+k_main <- 8
+weights_main <- scree_df$Variance[1:k_main]
+names(weights_main) <- paste0("PC", 1:k_main)
+
+pc_mat <- FULL |>
+  sf::st_drop_geometry() |>
+  dplyr::select(dplyr::all_of(names(weights_main))) |>
+  as.matrix()
+
+FULL$vuln_index_main <- as.numeric(pc_mat %*% weights_main)
+summary(FULL$vuln_index_main)
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
+```{r}
+
+```
+
