@@ -408,53 +408,248 @@ pc_mat <- FULL |>
 FULL$vuln_index_main <- as.numeric(pc_mat %*% weights_main)
 summary(FULL$vuln_index_main)
 ```
+standardisieren, damit es “schön” ist (Mean 0, SD 1):
+
+
 
 ```{r}
-
+FULL$vuln_index_main_z <- as.numeric(scale(FULL$vuln_index_main))
+summary(FULL$vuln_index_main_z)
 ```
-
+Analyse-DF + ein paar Safety-Fixes
 ```{r}
+# working copy without geometry for regressions
+df <- FULL |>
+  sf::st_drop_geometry() |>
+  mutate(
+    vuln = vuln_index_main_z,                 # dein Index (z)
+    prot = share_protected,                   # protection share of municipality
+    risk = residual_risk                      # outcome
+  ) |>
+  filter(!is.na(vuln), !is.na(prot), !is.na(risk))
 
+summary(df$risk)
+summary(df$vuln)
+summary(df$prot)
+
+# optional: logit-transform risk if it’s a share in [0,1]
+# (only if you want; otherwise keep linear)
+df <- df |>
+  mutate(
+    risk_eps = pmin(pmax(risk, 1e-6), 1 - 1e-6),
+    logit_risk = log(risk_eps / (1 - risk_eps))
+  )
 ```
+B) Regression: Protection + Vulnerability (inkl. Interaction)
 
+B1) Baseline OLS (linear)
 ```{r}
+m1 <- lm(risk ~ vuln + prot, data = df)
+m2 <- lm(risk ~ vuln * prot, data = df)   # interaction
 
+summary(m1)
+summary(m2)
+
+# nice table-like output
+broom::tidy(m2, conf.int = TRUE)
+broom::glance(m2)
 ```
-
+B2) Wenn du “Shares” sauberer modellieren willst: logit(risk)
 ```{r}
-
+m2_logit <- lm(logit_risk ~ vuln * prot, data = df)
+summary(m2_logit)
+broom::tidy(m2_logit, conf.int = TRUE)
 ```
-
+B3) Quick plots für Results (Interpretation)
 ```{r}
+# partial relationship plots
+ggplot(df, aes(vuln, risk)) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(method = "lm", se = TRUE) +
+  theme_minimal()
 
+ggplot(df, aes(prot, risk)) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(method = "lm", se = TRUE) +
+  theme_minimal()
 ```
+B4) Spatial dependence check: Moran’s I auf Residuen
 
+Wir testen, ob OLS Residuen räumlich autokorreliert sind → dann Spatial Model.
 ```{r}
+# geometry back for spatial diagnostics
+sf_dat <- FULL |>
+  mutate(
+    vuln = vuln_index_main_z,
+    prot = share_protected,
+    risk = residual_risk
+  ) |>
+  filter(!is.na(vuln), !is.na(prot), !is.na(risk))
 
+# neighbors (queen contiguity)
+nb <- poly2nb(sf_dat, queen = TRUE)
+
+# weights
+lw <- nb2listw(nb, style = "W", zero.policy = TRUE)
+
+# residuals from OLS interaction model
+ols <- lm(risk ~ vuln * prot, data = sf::st_drop_geometry(sf_dat))
+e <- resid(ols)
+
+moran.test(e, lw, zero.policy = TRUE)
 ```
-
+B5) Spatial regression: SAR (lag) und SEM (error)
 ```{r}
+# SAR (spatial lag model)
+sar <- spatialreg::lagsarlm(risk ~ vuln * prot, data = sf_dat, listw = lw, zero.policy = TRUE)
+summary(sar)
 
+# SEM (spatial error model)
+sem <- spatialreg::errorsarlm(risk ~ vuln * prot, data = sf_dat, listw = lw, zero.policy = TRUE)
+summary(sem)
+
+# compare AIC
+AIC(ols, sar, sem)
 ```
+C) Spatial clustering (Hotspots)
 
+C1) Local Moran (LISA) für residual_risk
 ```{r}
+lisa <- localmoran(sf_dat$risk, lw, zero.policy = TRUE)
 
+sf_dat$lisa_I <- lisa[, "Ii"]
+sf_dat$lisa_p <- lisa[, "Pr(z != E(Ii))"]
+
+# simple hotspot flag (p < 0.05 and positive Ii)
+sf_dat$hotspot <- sf_dat$lisa_p < 0.05 & sf_dat$lisa_I > 0
+table(sf_dat$hotspot, useNA = "ifany")
 ```
-
+Map:
 ```{r}
-
+ggplot(sf_dat) +
+  geom_sf(aes(fill = hotspot), color = NA) +
+  theme_minimal()
 ```
+D) Map all PCs (und/oder Top 4)
 
 ```{r}
+pc_to_map <- paste0("PC", 1:4)
 
+p_list <- lapply(pc_to_map, function(pc) {
+  ggplot(FULL) +
+    geom_sf(aes(fill = .data[[pc]]), color = NA) +
+    labs(title = pc) +
+    theme_minimal()
+})
+
+# show one by one
+p_list[[1]]
+p_list[[2]]
+p_list[[3]]
+p_list[[4]]
 ```
-
+PC-Scores für ALLE Gemeinden berechnen (ohne drop_na-Desaster)
 ```{r}
+# 1) Basis: gleiche Variablen wie im PCA
+wide_pca_vars <- FULL %>%
+  sf::st_drop_geometry() %>%
+  dplyr::select(
+    # Poverty / Welfare
+    exposure_share_alg2_sgb2,
+    exposure_share_bg_single_parent,
+    exposure_share_bg_5plus,
+    exposure_share_bg_with_children,
+    exposure_share_sgb2_with_housing_costs,
 
+    # Unemployment
+    exposure_share_longterm_unemp,
+    exposure_unemp_u25_per_1000,
+    exposure_unemp_55plus_per_1000,
+
+    # Income / Fiscal
+    exposure_income_tax_per_capita,
+    exposure_purchasing_power,
+    exposure_trade_tax_per_capita,
+    exposure_tax_revenue_total,
+
+    # Demography
+    exposure_share_age_0_3,
+    exposure_share_age_3_6,
+    exposure_share_age_6_18,
+    exposure_share_age_18_25,
+    exposure_share_age_25_30,
+    exposure_share_age_30_50,
+    exposure_share_age_50_65,
+    exposure_share_age_65_75,
+    exposure_share_age_65plus,
+    exposure_share_age_75plus,
+
+    # Population dynamics
+    exposure_natural_pop_change,
+    exposure_migration_balance,
+
+    # Dependency
+    exposure_old_age_dependency,
+    exposure_youth_dependency,
+    exposure_young_old_ratio,
+
+    # Household
+    exposure_share_single_households,
+    exposure_share_households_with_children,
+
+    # Income / education
+    exposure_share_hh_income_high,
+    exposure_share_hh_income_medium,
+    exposure_share_hh_income_low,
+    exposure_students_total_per_1000,
+    exposure_students_18_25_per_1000,
+    exposure_students_fh_per_1000,
+
+    # Health
+    exposure_gp_general_per_1000,
+    exposure_gp_primary_per_1000,
+    exposure_internists_per_1000,
+    exposure_pediatricians_per_1000_children,
+    exposure_doctors_total_per_1000,
+
+    # Digital
+    exposure_share_bb_1000mbit,
+    exposure_share_bb_100mbit,
+    exposure_share_bb_50mbit,
+    exposure_share_4g,
+
+    # Accessibility
+    exposure_dist_supermarket_m,
+    exposure_dist_pharmacy_m,
+    exposure_dist_gp_m,
+    exposure_dist_public_transport_m,
+    exposure_dist_primary_school_m,
+
+    # Density
+    exposure_pop_density_per_km2,
+    exposure_employment_density_per_km2
+  ) %>%
+  dplyr::mutate(dplyr::across(dplyr::everything(), as.numeric)) %>%
+  dplyr::rename_with(~ stringr::str_remove(.x, "^exposure_"))
+
+
+# 2) Imputation statt drop_na: median pro Variable (robust & simpel)
+impute_median <- function(x) { x[is.na(x)] <- median(x, na.rm = TRUE); x }
+wide_pca_imp <- wide_pca_vars %>%
+  dplyr::mutate(dplyr::across(dplyr::everything(), impute_median))
+
+# 3) PCA auf imputierten Daten (alles gleiche Länge wie FULL)
+wide_pca_scaled <- scale(wide_pca_imp)
+wide_pca <- prcomp(wide_pca_scaled)
+
+# 4) PC Scores für ALLE Zeilen (N = 2542)
+pc_scores <- as.data.frame(wide_pca$x)
+names(pc_scores) <- paste0("PC", seq_len(ncol(pc_scores)))
 ```
+2) PC-Spalten an FULL dranhängen
 
 ```{r}
-
+FULL <- dplyr::bind_cols(FULL, pc_scores)
 ```
 
 ```{r}
