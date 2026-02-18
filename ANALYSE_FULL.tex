@@ -1,0 +1,2110 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={FINAL},
+  pdfauthor={Maxi Ahl},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{FINAL}
+\author{Maxi Ahl}
+\date{2026-02-05}
+
+\begin{document}
+\maketitle
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(terra)      }\CommentTok{\# Reading and manipulating raster data}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## terra 1.8.60
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(sf)         }\CommentTok{\# Reading and manipulating vector data}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Linking to GEOS 3.13.0, GDAL 3.8.5, PROJ 9.5.1; sf_use_s2() is TRUE
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(dplyr)      }\CommentTok{\# Manipulating data.frames}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'dplyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:terra':
+## 
+##     intersect, union
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggplot2)    }\CommentTok{\# Visualization}
+\FunctionTok{library}\NormalTok{(spatstat)   }\CommentTok{\# Point Pattern Analysis}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: spatstat.data
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.univar
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.univar 3.1-4
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.geom
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.geom 3.5-0
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'spatstat.geom'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:terra':
+## 
+##     area, delaunay, is.empty, rescale, rotate, shift, where.max,
+##     where.min
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.random
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.random 3.4-1
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.explore
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: nlme
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'nlme'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:dplyr':
+## 
+##     collapse
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.explore 3.5-2
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.model
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: rpart
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.model 3.4-0
+\end{verbatim}
+
+\begin{verbatim}
+## Loading required package: spatstat.linnet
+\end{verbatim}
+
+\begin{verbatim}
+## spatstat.linnet 3.3-1
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## spatstat 3.4-0 
+## For an introduction to spatstat, type 'beginner'
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggplot2)    }\CommentTok{\# data visualizatio}
+\FunctionTok{library}\NormalTok{(tidyr)      }\CommentTok{\# data wrangling package: change from wide to long format}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'tidyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:terra':
+## 
+##     extract
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(dplyr)      }\CommentTok{\# data manipulation: mutate}
+\FunctionTok{library}\NormalTok{(gridExtra)  }\CommentTok{\# plot multiple ggplot graphs}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'gridExtra'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:dplyr':
+## 
+##     combine
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(caret)      }\CommentTok{\# cross{-}validation}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: lattice
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'lattice'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.model':
+## 
+##     panel.histogram
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.explore':
+## 
+##     panel.histogram
+\end{verbatim}
+
+\begin{verbatim}
+## Registered S3 method overwritten by 'pROC':
+##   method   from            
+##   plot.roc spatstat.explore
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(mapview)    }\CommentTok{\# Map visualization}
+\FunctionTok{library}\NormalTok{(gstat)      }\CommentTok{\# geostatistics}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'gstat'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.explore':
+## 
+##     idw
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(stars)      }\CommentTok{\# spatial{-}temporal data}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: abind
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(abind)}
+\FunctionTok{library}\NormalTok{(spdep)      }\CommentTok{\# Diagnosing spatial dependence}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: spData
+\end{verbatim}
+
+\begin{verbatim}
+## To access larger datasets in this package, install the spDataLarge
+## package with: `install.packages('spDataLarge',
+## repos='https://nowosad.github.io/drat/', type='source')`
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(spatialreg) }\CommentTok{\# Spatial lag and spatial error model}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: Matrix
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'Matrix'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:tidyr':
+## 
+##     expand, pack, unpack
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'spatialreg'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:spdep':
+## 
+##     get.ClusterOption, get.coresOption, get.mcOption,
+##     get.VerboseOption, get.ZeroPolicyOption, set.ClusterOption,
+##     set.coresOption, set.mcOption, set.VerboseOption,
+##     set.ZeroPolicyOption
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(readxl)}
+\FunctionTok{library}\NormalTok{(raster)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: sp
+\end{verbatim}
+
+\begin{verbatim}
+## 
+## Attaching package: 'raster'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:nlme':
+## 
+##     getData
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:dplyr':
+## 
+##     select
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggcorrplot)}
+\FunctionTok{library}\NormalTok{(reshape2)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'reshape2'
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:tidyr':
+## 
+##     smiths
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(pracma)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'pracma'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:Matrix':
+## 
+##     expm, lu, tril, triu
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.explore':
+## 
+##     rat
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.geom':
+## 
+##     quad
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.univar':
+## 
+##     integral
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:terra':
+## 
+##     size
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(data.table)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'data.table'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:reshape2':
+## 
+##     dcast, melt
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:raster':
+## 
+##     shift
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:spatstat.geom':
+## 
+##     shift
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:dplyr':
+## 
+##     between, first, last
+\end{verbatim}
+
+\begin{verbatim}
+## The following object is masked from 'package:terra':
+## 
+##     shift
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(stringr)}
+\FunctionTok{library}\NormalTok{(readr)}
+\FunctionTok{library}\NormalTok{(corrplot)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## corrplot 0.95 loaded
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(broom)}
+\FunctionTok{library}\NormalTok{(spatialreg)}
+\end{Highlighting}
+\end{Shaded}
+
+LOAD IN FINAL GPKG
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{FULL }\OtherTok{\textless{}{-}} \FunctionTok{st\_read}\NormalTok{(}\StringTok{"/Users/maxi\_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden\_elbe\_final\_full.gpkg"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Reading layer `gemeinden_elbe_final_full' from data source 
+##   `/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg' 
+##   using driver `GPKG'
+## Simple feature collection with 2542 features and 169 fields
+## Geometry type: MULTIPOLYGON
+## Dimension:     XY
+## Bounding box:  xmin: 426205.6 ymin: 5414251 xmax: 919430.9 ymax: 6033815
+## Projected CRS: ETRS89 / UTM zone 32N
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{glimpse}\NormalTok{(FULL)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Rows: 2,542
+## Columns: 170
+## $ OBJECTID                                      <dbl> 2, 2, 2, 2, 2, 2, 2, 2, ~
+## $ id                                            <dbl> 2, 4, 5, 7, 8, 9, 10, 11~
+## $ Objektidentifikator                           <chr> "DEBKGVG200000009", "DEB~
+## $ Geofaktor_GF                                  <chr> "mit Struktur Land", "mi~
+## $ GF                                            <int> 4, 4, 4, 4, 4, 4, 4, 4, ~
+## $ Besondere_Gebiete_BSG                         <chr> "Deutschland", "Deutschl~
+## $ BSG                                           <int> 1, 1, 1, 1, 1, 1, 1, 1, ~
+## $ Länderkürzel_LKZ                              <chr> "SH", "SH", "SH", "SH", ~
+## $ Gemeindeschlüssel_AGS                         <chr> "01002000", "01004000", ~
+## $ Verwaltungssitz_SDV_ARS                       <chr> "010020000000", "0100400~
+## $ GeografischerName_GEN                         <chr> "Kiel", "Neumünster", "B~
+## $ Bezeichnung                                   <chr> "Stadt", "Stadt", "Stadt~
+## $ Identifikator_IBZ                             <int> 60, 60, 61, 64, 64, 64, ~
+## $ Land                                          <chr> "01", "01", "01", "01", ~
+## $ Regierungsbezirk                              <chr> "0", "0", "0", "0", "0",~
+## $ Kreis                                         <chr> "02", "04", "51", "51", ~
+## $ Gemeinde                                      <chr> "000", "000", "011", "00~
+## $ mun_area_basin_m2                             <dbl> 41170207, 71631911, 4985~
+## $ protfid                                       <dbl> 1, 2, 3, 4, NA, 5, 6, 7,~
+## $ protsum_prot_area_m2                          <dbl> 309267.1096, 975722.5016~
+## $ share_protected                               <dbl> 0.0075119153, 0.01362133~
+## $ exposure_fid                                  <dbl> 479, 1453, 600, 574, 598~
+## $ exposure_OBJECTID                             <dbl> 2, 2, 2, 2, 2, 2, 2, 2, ~
+## $ exposure_id                                   <dbl> 2, 4, 5, 7, 8, 9, 10, 11~
+## $ exposure_Objektidentifikator                  <chr> "DEBKGVG200000009", "DEB~
+## $ exposure_Geofaktor_GF                         <chr> "mit Struktur Land", "mi~
+## $ exposure_GF                                   <int> 4, 4, 4, 4, 4, 4, 4, 4, ~
+## $ exposure_Besondere_Gebiete_BSG                <chr> "Deutschland", "Deutschl~
+## $ exposure_BSG                                  <int> 1, 1, 1, 1, 1, 1, 1, 1, ~
+## $ exposure_Länderkürzel_LKZ                     <chr> "SH", "SH", "SH", "SH", ~
+## $ exposure_Verwaltungssitz_SDV_ARS              <chr> "010020000000", "0100400~
+## $ exposure_GeografischerName_GEN                <chr> "Kiel", "Neumünster", "B~
+## $ exposure_Bezeichnung                          <chr> "Stadt", "Stadt", "Stadt~
+## $ exposure_Identifikator_IBZ                    <int> 60, 60, 61, 64, 64, 64, ~
+## $ exposure_Land                                 <chr> "01", "01", "01", "01", ~
+## $ exposure_Regierungsbezirk                     <chr> "0", "0", "0", "0", "0",~
+## $ exposure_Kreis                                <chr> "02", "04", "51", "51", ~
+## $ exposure_Gemeinde                             <chr> "000", "000", "011", "00~
+## $ exposure_mun_area_basin_m2                    <dbl> 41170207, 71631911, 4985~
+## $ exposure_AGS                                  <chr> "01002000", "01004000", ~
+## $ exposure_mun_name                             <chr> "Kiel, Landeshauptstadt"~
+## $ exposure_share_alg2_sgb2                      <dbl> 36.87, 38.35, 38.79, 41.~
+## $ exposure_share_bg_single_parent               <dbl> 57.06, 55.31, 55.17, 41.~
+## $ exposure_share_bg_5plus                       <dbl> 7.49, 7.13, 8.97, 0.00, ~
+## $ exposure_share_bg_with_children               <dbl> 32.43, 35.28, 35.86, 33.~
+## $ exposure_share_sgb2_with_housing_costs        <dbl> 41.91, 38.08, 36.09, 32.~
+## $ exposure_unemp_count                          <dbl> 10581, 3604, 392, 10, 5,~
+## $ exposure_share_longterm_unemp                 <dbl> 35.22, 37.71, 24.49, 20.~
+## $ exposure_unemp_u25_per_1000                   <dbl> 2.76, 4.50, 4.73, 1.72, ~
+## $ exposure_unemp_55plus_per_1000                <dbl> 6.05, 6.11, 3.60, 1.59, ~
+## $ exposure_income_tax_per_capita                <dbl> 482.25, 424.01, 510.43, ~
+## $ exposure_purchasing_power                     <dbl> 26792.26, 27680.96, 3129~
+## $ exposure_trade_tax_per_capita                 <dbl> 1049.63, 924.10, 1942.04~
+## $ exposure_tax_revenue_total                    <dbl> 1722.74, 1568.64, 2657.4~
+## $ exposure_pop_total                            <dbl> 251751, 79461, 12736, 59~
+## $ exposure_pop_female                           <dbl> 128671, 40017, 6285, 293~
+## $ exposure_pop_male                             <dbl> 123080, 39444, 6451, 297~
+## $ exposure_pop_corrected                        <dbl> 251751, 79461, 12736, 59~
+## $ exposure_share_age_0_3                        <dbl> 2.55, 2.59, 2.21, 2.37, ~
+## $ exposure_share_age_3_6                        <dbl> 2.51, 2.58, 2.50, 0.85, ~
+## $ exposure_share_age_6_18                       <dbl> 9.89, 10.96, 10.60, 9.15~
+## $ exposure_share_age_18_25                      <dbl> 10.42, 7.84, 6.77, 7.29,~
+## $ exposure_share_age_25_30                      <dbl> 9.52, 6.18, 4.92, 6.10, ~
+## $ exposure_share_age_30_50                      <dbl> 26.28, 24.35, 21.75, 21.~
+## $ exposure_share_age_50_65                      <dbl> 19.53, 22.56, 24.26, 31.~
+## $ exposure_share_age_65_75                      <dbl> 9.42, 11.15, 13.58, 14.0~
+## $ exposure_share_age_65plus                     <dbl> 19.30, 22.94, 26.99, 21.~
+## $ exposure_share_age_75plus                     <dbl> 9.88, 11.79, 13.41, 7.29~
+## $ exposure_natural_pop_change                   <dbl> -2.90, -7.20, -8.91, 0.0~
+## $ exposure_migration_balance                    <dbl> 9.04, 14.46, 12.96, 33.9~
+## $ exposure_working_age_15_65_count              <dbl> 171806, 50816, 7711, 406~
+## $ exposure_old_age_dependency                   <dbl> 28.29, 35.87, 44.59, 31.~
+## $ exposure_youth_dependency                     <dbl> 18.25, 20.50, 20.58, 14.~
+## $ exposure_young_old_ratio                      <dbl> 71.19, 69.52, 54.81, 42.~
+## $ exposure_households_total                     <dbl> 1.85, 1.98, 1.97, 2.03, ~
+## $ exposure_share_single_households              <dbl> 53.94, 46.70, 43.96, 35.~
+## $ exposure_share_households_with_children       <dbl> 20.95, 26.47, 24.96, 22.~
+## $ exposure_share_hh_income_high                 <dbl> 20.04, 24.21, 27.08, 27.~
+## $ exposure_share_hh_income_medium               <dbl> 49.17, 49.35, 46.33, 51.~
+## $ exposure_share_hh_income_low                  <dbl> 30.79, 26.44, 26.60, 21.~
+## $ exposure_students_total_per_1000              <dbl> 138.19, 0.00, 0.00, 0.00~
+## $ exposure_students_18_25_per_1000              <dbl> 132.67, 0.00, 0.00, 0.00~
+## $ exposure_students_fh_per_1000                 <dbl> 32.87, 0.00, 0.00, 0.00,~
+## $ exposure_gp_general_per_1000                  <dbl> 3.96, 2.79, 2.36, 0.00, ~
+## $ exposure_gp_primary_per_1000                  <dbl> 6.44, 5.71, 4.73, 0.00, ~
+## $ exposure_internists_per_1000                  <dbl> 1.72, 1.65, 2.36, 0.00, ~
+## $ exposure_pediatricians_per_1000_children      <dbl> 7.93, 6.77, 18.37, 0.00,~
+## $ exposure_doctors_total_per_1000               <dbl> 22.63, 15.09, 18.13, 0.0~
+## $ exposure_share_bb_1000mbit                    <dbl> 94.95, 97.79, 97.56, 78.~
+## $ exposure_share_bb_100mbit                     <dbl> 98.86, 98.74, 98.42, 78.~
+## $ exposure_share_bb_50mbit                      <dbl> 99.13, 98.95, 98.69, 78.~
+## $ exposure_share_4g                             <dbl> 100, 100, 100, 100, 100,~
+## $ exposure_dist_supermarket_m                   <dbl> 424.34, 528.51, 1237.69,~
+## $ exposure_dist_pharmacy_m                      <dbl> 473.49, 679.39, 1335.38,~
+## $ exposure_dist_gp_m                            <dbl> 357.93, 800.85, 1098.14,~
+## $ exposure_dist_public_transport_m              <dbl> 183.46, 175.44, 537.14, ~
+## $ exposure_dist_primary_school_m                <dbl> 554.93, 671.77, 1395.09,~
+## $ exposure_pop_density_per_km2                  <dbl> 2121.80, 1108.86, 195.31~
+## $ exposure_employment_density_per_km2           <dbl> 3229.41, 1711.92, 307.10~
+## $ exposure_share_alg2_sgb2_year                 <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_share_bg_single_parent_year          <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_share_bg_5plus_year                  <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_share_bg_with_children_year          <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_share_sgb2_with_housing_costs_year   <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_unemp_count_year                     <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_longterm_unemp_year            <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_unemp_u25_per_1000_year              <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_unemp_55plus_per_1000_year           <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_income_tax_per_capita_year           <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_purchasing_power_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_trade_tax_per_capita_year            <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_tax_revenue_total_year               <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_pop_total_year                       <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_pop_female_year                      <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_pop_male_year                        <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_pop_corrected_year                   <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_0_3_year                   <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_3_6_year                   <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_6_18_year                  <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_18_25_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_25_30_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_30_50_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_50_65_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_65_75_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_65plus_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_age_75plus_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_natural_pop_change_year              <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_migration_balance_year               <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_working_age_15_65_count_year         <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_old_age_dependency_year              <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_youth_dependency_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_young_old_ratio_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_households_total_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_single_households_year         <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_households_with_children_year  <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_hh_income_high_year            <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_hh_income_medium_year          <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_hh_income_low_year             <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_students_total_per_1000_year         <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_students_18_25_per_1000_year         <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_students_fh_per_1000_year            <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_gp_general_per_1000_year             <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_gp_primary_per_1000_year             <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_internists_per_1000_year             <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_pediatricians_per_1000_children_year <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_doctors_total_per_1000_year          <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_share_bb_1000mbit_year               <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_bb_100mbit_year                <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_bb_50mbit_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_share_4g_year                        <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_dist_supermarket_m_year              <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_dist_pharmacy_m_year                 <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_dist_gp_m_year                       <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_dist_public_transport_m_year         <int> 2022, 2022, 2022, 2022, ~
+## $ exposure_dist_primary_school_m_year           <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_pop_density_per_km2_year             <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_employment_density_per_km2_year      <int> 2023, 2023, 2023, 2023, ~
+## $ exposure_fid_2                                <dbl> NA, 504, NA, NA, NA, NA,~
+## $ exposure_Gemeindeschlüssel_AGS_2              <chr> NA, "01004000", NA, NA, ~
+## $ exposure_flood_area_total_m2                  <dbl> NA, 665483.5, NA, NA, NA~
+## $ exposure_flood_area_zone1_m2                  <dbl> NA, 665483.5, NA, NA, NA~
+## $ exposure_flood_area_zone2_m2                  <dbl> NA, 0, NA, NA, NA, NA, N~
+## $ exposure_flood_area_zone3_m2                  <dbl> NA, 0, NA, NA, NA, NA, N~
+## $ exposure_mun_area_m2                          <dbl> 41170207, 71631911, 4985~
+## $ exposure_share_flood_total                    <dbl> 0.000000000, 0.009290322~
+## $ exposure_share_flood_zone1                    <dbl> 0.000000000, 0.009290322~
+## $ exposure_share_flood_zone2                    <dbl> 0, 0, 0, 0, 0, 0, 0, 0, ~
+## $ exposure_share_flood_zone3                    <dbl> 0, 0, 0, 0, 0, 0, 0, 0, ~
+## $ exposure_AGS_final                            <chr> "01002000", "01004000", ~
+## $ geom                                          <MULTIPOLYGON [m]> MULTIPOLYGO~
+\end{verbatim}
+
+CHECKS Protection
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{share\_protected)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+## 0.000000 0.000000 0.004147 0.011048 0.015796 0.274057
+\end{verbatim}
+
+Exposure
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{exposure\_share\_flood\_total)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+## 0.000000 0.000000 0.000000 0.026289 0.008896 0.994807
+\end{verbatim}
+
+Kombination
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cor}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{share\_protected,}
+\NormalTok{    FULL}\SpecialCharTok{$}\NormalTok{exposure\_share\_flood\_total,}
+    \AttributeTok{use=}\StringTok{"complete.obs"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 0.01894241
+\end{verbatim}
+
+Residual Risk
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{FULL }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}
+    \AttributeTok{residual\_risk =}
+\NormalTok{      exposure\_share\_flood\_total }\SpecialCharTok{*}\NormalTok{ (}\DecValTok{1} \SpecialCharTok{{-}}\NormalTok{ share\_protected)}
+\NormalTok{  )}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{residual\_risk)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+## 0.000000 0.000000 0.000000 0.025971 0.008744 0.994807
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{head}\NormalTok{(FULL)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Simple feature collection with 6 features and 170 fields
+## Geometry type: MULTIPOLYGON
+## Dimension:     XY
+## Bounding box:  xmin: 501147.4 ymin: 5970993 xmax: 574615.6 ymax: 6029068
+## Projected CRS: ETRS89 / UTM zone 32N
+##   OBJECTID id Objektidentifikator      Geofaktor_GF GF Besondere_Gebiete_BSG
+## 1        2  2    DEBKGVG200000009 mit Struktur Land  4           Deutschland
+## 2        2  4    DEBKGVG20000000B mit Struktur Land  4           Deutschland
+## 3        2  5    DEBKGVG20000000C mit Struktur Land  4           Deutschland
+## 4        2  7    DEBKGVG20000000E mit Struktur Land  4           Deutschland
+## 5        2  8    DEBKGVG20000000F mit Struktur Land  4           Deutschland
+## 6        2  9    DEBKGVG20000000G mit Struktur Land  4           Deutschland
+##   BSG Länderkürzel_LKZ Gemeindeschlüssel_AGS Verwaltungssitz_SDV_ARS
+## 1   1               SH              01002000            010020000000
+## 2   1               SH              01004000            010040000000
+## 3   1               SH              01051011            010510011011
+## 4   1               SH              01051003            010515163003
+## 5   1               SH              01051010            010515163010
+## 6   1               SH              01051012            010515163012
+##   GeografischerName_GEN Bezeichnung Identifikator_IBZ Land Regierungsbezirk
+## 1                  Kiel       Stadt                60   01                0
+## 2            Neumünster       Stadt                60   01                0
+## 3           Brunsbüttel       Stadt                61   01                0
+## 4               Averlak    Gemeinde                64   01                0
+## 5              Brickeln    Gemeinde                64   01                0
+## 6              Buchholz    Gemeinde                64   01                0
+##   Kreis Gemeinde mun_area_basin_m2 protfid protsum_prot_area_m2 share_protected
+## 1    02      000          41170207       1          309267.1096     0.007511915
+## 2    04      000          71631911       2          975722.5016     0.013621338
+## 3    51      011          49858782       3          171845.7299     0.003446649
+## 4    51      003           9022409       4             332.4127     0.000036843
+## 5    51      010           6020824      NA                   NA     0.000000000
+## 6    51      012          14568133       5           15463.1221     0.001061435
+##   exposure_fid exposure_OBJECTID exposure_id exposure_Objektidentifikator
+## 1          479                 2           2             DEBKGVG200000009
+## 2         1453                 2           4             DEBKGVG20000000B
+## 3          600                 2           5             DEBKGVG20000000C
+## 4          574                 2           7             DEBKGVG20000000E
+## 5          598                 2           8             DEBKGVG20000000F
+## 6          603                 2           9             DEBKGVG20000000G
+##   exposure_Geofaktor_GF exposure_GF exposure_Besondere_Gebiete_BSG exposure_BSG
+## 1     mit Struktur Land           4                    Deutschland            1
+## 2     mit Struktur Land           4                    Deutschland            1
+## 3     mit Struktur Land           4                    Deutschland            1
+## 4     mit Struktur Land           4                    Deutschland            1
+## 5     mit Struktur Land           4                    Deutschland            1
+## 6     mit Struktur Land           4                    Deutschland            1
+##   exposure_Länderkürzel_LKZ exposure_Verwaltungssitz_SDV_ARS
+## 1                        SH                     010020000000
+## 2                        SH                     010040000000
+## 3                        SH                     010510011011
+## 4                        SH                     010515163003
+## 5                        SH                     010515163010
+## 6                        SH                     010515163012
+##   exposure_GeografischerName_GEN exposure_Bezeichnung
+## 1                           Kiel                Stadt
+## 2                     Neumünster                Stadt
+## 3                    Brunsbüttel                Stadt
+## 4                        Averlak             Gemeinde
+## 5                       Brickeln             Gemeinde
+## 6                       Buchholz             Gemeinde
+##   exposure_Identifikator_IBZ exposure_Land exposure_Regierungsbezirk
+## 1                         60            01                         0
+## 2                         60            01                         0
+## 3                         61            01                         0
+## 4                         64            01                         0
+## 5                         64            01                         0
+## 6                         64            01                         0
+##   exposure_Kreis exposure_Gemeinde exposure_mun_area_basin_m2 exposure_AGS
+## 1             02               000                   41170207     01002000
+## 2             04               000                   71631911     01004000
+## 3             51               011                   49858782     01051011
+## 4             51               003                    9022409     01051003
+## 5             51               010                    6020824     01051010
+## 6             51               012                   14568133     01051012
+##        exposure_mun_name exposure_share_alg2_sgb2
+## 1 Kiel, Landeshauptstadt                    36.87
+## 2      Neumünster, Stadt                    38.35
+## 3     Brunsbüttel, Stadt                    38.79
+## 4                Averlak                    41.76
+## 5               Brickeln                    44.25
+## 6               Buchholz                    37.01
+##   exposure_share_bg_single_parent exposure_share_bg_5plus
+## 1                           57.06                    7.49
+## 2                           55.31                    7.13
+## 3                           55.17                    8.97
+## 4                           41.67                    0.00
+## 5                           83.33                    0.00
+## 6                           38.10                    4.76
+##   exposure_share_bg_with_children exposure_share_sgb2_with_housing_costs
+## 1                           32.43                                  41.91
+## 2                           35.28                                  38.08
+## 3                           35.86                                  36.09
+## 4                           33.33                                  32.66
+## 5                           16.67                                  35.82
+## 6                           57.14                                  37.69
+##   exposure_unemp_count exposure_share_longterm_unemp
+## 1                10581                         35.22
+## 2                 3604                         37.71
+## 3                  392                         24.49
+## 4                   10                         20.00
+## 5                    5                         40.00
+## 6                   17                         23.53
+##   exposure_unemp_u25_per_1000 exposure_unemp_55plus_per_1000
+## 1                        2.76                           6.05
+## 2                        4.50                           6.11
+## 3                        4.73                           3.60
+## 4                        1.72                           1.59
+## 5                        5.00                           6.45
+## 6                        0.88                           1.78
+##   exposure_income_tax_per_capita exposure_purchasing_power
+## 1                         482.25                  26792.26
+## 2                         424.01                  27680.96
+## 3                         510.43                  31299.81
+## 4                         523.32                  29081.87
+## 5                         545.22                  23963.12
+## 6                         451.45                  28209.55
+##   exposure_trade_tax_per_capita exposure_tax_revenue_total exposure_pop_total
+## 1                       1049.63                    1722.74             251751
+## 2                        924.10                    1568.64              79461
+## 3                       1942.04                    2657.43              12736
+## 4                         94.05                     754.04                590
+## 5                        219.48                     890.24                185
+## 6                        183.53                     759.58                990
+##   exposure_pop_female exposure_pop_male exposure_pop_corrected
+## 1              128671            123080                 251751
+## 2               40017             39444                  79461
+## 3                6285              6451                  12736
+## 4                 293               297                    590
+## 5                  84               101                    185
+## 6                 476               514                    990
+##   exposure_share_age_0_3 exposure_share_age_3_6 exposure_share_age_6_18
+## 1                   2.55                   2.51                    9.89
+## 2                   2.59                   2.58                   10.96
+## 3                   2.21                   2.50                   10.60
+## 4                   2.37                   0.85                    9.15
+## 5                   1.62                   1.08                    8.65
+## 6                   2.42                   2.12                   11.72
+##   exposure_share_age_18_25 exposure_share_age_25_30 exposure_share_age_30_50
+## 1                    10.42                     9.52                    26.28
+## 2                     7.84                     6.18                    24.35
+## 3                     6.77                     4.92                    21.75
+## 4                     7.29                     6.10                    21.53
+## 5                     7.57                     4.86                    26.49
+## 6                     7.68                     5.45                    21.72
+##   exposure_share_age_50_65 exposure_share_age_65_75 exposure_share_age_65plus
+## 1                    19.53                     9.42                     19.30
+## 2                    22.56                    11.15                     22.94
+## 3                    24.26                    13.58                     26.99
+## 4                    31.36                    14.07                     21.36
+## 5                    30.27                    10.27                     19.46
+## 6                    26.87                    11.72                     22.02
+##   exposure_share_age_75plus exposure_natural_pop_change
+## 1                      9.88                       -2.90
+## 2                     11.79                       -7.20
+## 3                     13.41                       -8.91
+## 4                      7.29                        0.00
+## 5                      9.19                       -5.21
+## 6                     10.30                       -6.00
+##   exposure_migration_balance exposure_working_age_15_65_count
+## 1                       9.04                           171806
+## 2                      14.46                            50816
+## 3                      12.96                             7711
+## 4                      33.90                              406
+## 5                     -37.84                              134
+## 6                      -6.06                              648
+##   exposure_old_age_dependency exposure_youth_dependency
+## 1                       28.29                     18.25
+## 2                       35.87                     20.50
+## 3                       44.59                     20.58
+## 4                       31.03                     14.29
+## 5                       26.87                     11.19
+## 6                       33.64                     19.14
+##   exposure_young_old_ratio exposure_households_total
+## 1                    71.19                      1.85
+## 2                    69.52                      1.98
+## 3                    54.81                      1.97
+## 4                    42.86                      2.03
+## 5                   100.00                      2.06
+## 6                    87.67                      2.23
+##   exposure_share_single_households exposure_share_households_with_children
+## 1                            53.94                                   20.95
+## 2                            46.70                                   26.47
+## 3                            43.96                                   24.96
+## 4                            35.74                                   22.68
+## 5                            31.11                                   27.78
+## 6                            36.04                                   35.59
+##   exposure_share_hh_income_high exposure_share_hh_income_medium
+## 1                         20.04                           49.17
+## 2                         24.21                           49.35
+## 3                         27.08                           46.33
+## 4                         27.49                           51.20
+## 5                         23.33                           41.11
+## 6                         25.00                           50.00
+##   exposure_share_hh_income_low exposure_students_total_per_1000
+## 1                        30.79                           138.19
+## 2                        26.44                             0.00
+## 3                        26.60                             0.00
+## 4                        21.31                             0.00
+## 5                        35.56                             0.00
+## 6                        25.00                             0.00
+##   exposure_students_18_25_per_1000 exposure_students_fh_per_1000
+## 1                           132.67                         32.87
+## 2                             0.00                          0.00
+## 3                             0.00                          0.00
+## 4                             0.00                          0.00
+## 5                             0.00                          0.00
+## 6                             0.00                          0.00
+##   exposure_gp_general_per_1000 exposure_gp_primary_per_1000
+## 1                         3.96                         6.44
+## 2                         2.79                         5.71
+## 3                         2.36                         4.73
+## 4                         0.00                         0.00
+## 5                         0.00                         0.00
+## 6                         0.00                         0.00
+##   exposure_internists_per_1000 exposure_pediatricians_per_1000_children
+## 1                         1.72                                     7.93
+## 2                         1.65                                     6.77
+## 3                         2.36                                    18.37
+## 4                         0.00                                     0.00
+## 5                         0.00                                     0.00
+## 6                         0.00                                     0.00
+##   exposure_doctors_total_per_1000 exposure_share_bb_1000mbit
+## 1                           22.63                      94.95
+## 2                           15.09                      97.79
+## 3                           18.13                      97.56
+## 4                            0.00                      78.54
+## 5                            0.00                      91.76
+## 6                            0.00                      89.51
+##   exposure_share_bb_100mbit exposure_share_bb_50mbit exposure_share_4g
+## 1                     98.86                    99.13               100
+## 2                     98.74                    98.95               100
+## 3                     98.42                    98.69               100
+## 4                     78.54                    78.54               100
+## 5                     91.76                    91.76               100
+## 6                     92.19                    92.19               100
+##   exposure_dist_supermarket_m exposure_dist_pharmacy_m exposure_dist_gp_m
+## 1                      424.34                   473.49             357.93
+## 2                      528.51                   679.39             800.85
+## 3                     1237.69                  1335.38            1098.14
+## 4                     2505.12                  6034.96            3010.15
+## 5                     2494.91                  2836.56            2533.04
+## 6                     2997.77                  2945.03            2889.18
+##   exposure_dist_public_transport_m exposure_dist_primary_school_m
+## 1                           183.46                         554.93
+## 2                           175.44                         671.77
+## 3                           537.14                        1395.09
+## 4                           318.72                        3088.75
+## 5                          1673.98                        2533.04
+## 6                           604.87                        3002.75
+##   exposure_pop_density_per_km2 exposure_employment_density_per_km2
+## 1                      2121.80                             3229.41
+## 2                      1108.86                             1711.92
+## 3                       195.31                              307.10
+## 4                        65.12                               73.29
+## 5                        30.48                               32.13
+## 6                        67.99                               75.89
+##   exposure_share_alg2_sgb2_year exposure_share_bg_single_parent_year
+## 1                          2022                                 2022
+## 2                          2022                                 2022
+## 3                          2022                                 2022
+## 4                          2022                                 2022
+## 5                          2022                                 2022
+## 6                          2022                                 2022
+##   exposure_share_bg_5plus_year exposure_share_bg_with_children_year
+## 1                         2022                                 2022
+## 2                         2022                                 2022
+## 3                         2022                                 2022
+## 4                         2022                                 2022
+## 5                         2022                                 2022
+## 6                         2022                                 2022
+##   exposure_share_sgb2_with_housing_costs_year exposure_unemp_count_year
+## 1                                        2022                      2023
+## 2                                        2022                      2023
+## 3                                        2022                      2023
+## 4                                        2022                      2023
+## 5                                        2022                      2023
+## 6                                        2022                      2023
+##   exposure_share_longterm_unemp_year exposure_unemp_u25_per_1000_year
+## 1                               2023                             2023
+## 2                               2023                             2023
+## 3                               2023                             2023
+## 4                               2023                             2023
+## 5                               2023                             2023
+## 6                               2023                             2023
+##   exposure_unemp_55plus_per_1000_year exposure_income_tax_per_capita_year
+## 1                                2023                                2023
+## 2                                2023                                2023
+## 3                                2023                                2023
+## 4                                2023                                2023
+## 5                                2023                                2023
+## 6                                2023                                2023
+##   exposure_purchasing_power_year exposure_trade_tax_per_capita_year
+## 1                           2023                               2023
+## 2                           2023                               2023
+## 3                           2023                               2023
+## 4                           2023                               2023
+## 5                           2023                               2023
+## 6                           2023                               2023
+##   exposure_tax_revenue_total_year exposure_pop_total_year
+## 1                            2023                    2023
+## 2                            2023                    2023
+## 3                            2023                    2023
+## 4                            2023                    2023
+## 5                            2023                    2023
+## 6                            2023                    2023
+##   exposure_pop_female_year exposure_pop_male_year exposure_pop_corrected_year
+## 1                     2023                   2023                        2023
+## 2                     2023                   2023                        2023
+## 3                     2023                   2023                        2023
+## 4                     2023                   2023                        2023
+## 5                     2023                   2023                        2023
+## 6                     2023                   2023                        2023
+##   exposure_share_age_0_3_year exposure_share_age_3_6_year
+## 1                        2023                        2023
+## 2                        2023                        2023
+## 3                        2023                        2023
+## 4                        2023                        2023
+## 5                        2023                        2023
+## 6                        2023                        2023
+##   exposure_share_age_6_18_year exposure_share_age_18_25_year
+## 1                         2023                          2023
+## 2                         2023                          2023
+## 3                         2023                          2023
+## 4                         2023                          2023
+## 5                         2023                          2023
+## 6                         2023                          2023
+##   exposure_share_age_25_30_year exposure_share_age_30_50_year
+## 1                          2023                          2023
+## 2                          2023                          2023
+## 3                          2023                          2023
+## 4                          2023                          2023
+## 5                          2023                          2023
+## 6                          2023                          2023
+##   exposure_share_age_50_65_year exposure_share_age_65_75_year
+## 1                          2023                          2023
+## 2                          2023                          2023
+## 3                          2023                          2023
+## 4                          2023                          2023
+## 5                          2023                          2023
+## 6                          2023                          2023
+##   exposure_share_age_65plus_year exposure_share_age_75plus_year
+## 1                           2023                           2023
+## 2                           2023                           2023
+## 3                           2023                           2023
+## 4                           2023                           2023
+## 5                           2023                           2023
+## 6                           2023                           2023
+##   exposure_natural_pop_change_year exposure_migration_balance_year
+## 1                             2022                            2023
+## 2                             2022                            2023
+## 3                             2022                            2023
+## 4                             2022                            2023
+## 5                             2022                            2023
+## 6                             2022                            2023
+##   exposure_working_age_15_65_count_year exposure_old_age_dependency_year
+## 1                                  2023                             2023
+## 2                                  2023                             2023
+## 3                                  2023                             2023
+## 4                                  2023                             2023
+## 5                                  2023                             2023
+## 6                                  2023                             2023
+##   exposure_youth_dependency_year exposure_young_old_ratio_year
+## 1                           2023                          2023
+## 2                           2023                          2023
+## 3                           2023                          2023
+## 4                           2023                          2023
+## 5                           2023                          2023
+## 6                           2023                          2023
+##   exposure_households_total_year exposure_share_single_households_year
+## 1                           2023                                  2023
+## 2                           2023                                  2023
+## 3                           2023                                  2023
+## 4                           2023                                  2023
+## 5                           2023                                  2023
+## 6                           2023                                  2023
+##   exposure_share_households_with_children_year
+## 1                                         2023
+## 2                                         2023
+## 3                                         2023
+## 4                                         2023
+## 5                                         2023
+## 6                                         2023
+##   exposure_share_hh_income_high_year exposure_share_hh_income_medium_year
+## 1                               2023                                 2023
+## 2                               2023                                 2023
+## 3                               2023                                 2023
+## 4                               2023                                 2023
+## 5                               2023                                 2023
+## 6                               2023                                 2023
+##   exposure_share_hh_income_low_year exposure_students_total_per_1000_year
+## 1                              2023                                  2023
+## 2                              2023                                  2023
+## 3                              2023                                  2023
+## 4                              2023                                  2023
+## 5                              2023                                  2023
+## 6                              2023                                  2023
+##   exposure_students_18_25_per_1000_year exposure_students_fh_per_1000_year
+## 1                                  2023                               2023
+## 2                                  2023                               2023
+## 3                                  2023                               2023
+## 4                                  2023                               2023
+## 5                                  2023                               2023
+## 6                                  2023                               2023
+##   exposure_gp_general_per_1000_year exposure_gp_primary_per_1000_year
+## 1                              2022                              2022
+## 2                              2022                              2022
+## 3                              2022                              2022
+## 4                              2022                              2022
+## 5                              2022                              2022
+## 6                              2022                              2022
+##   exposure_internists_per_1000_year
+## 1                              2022
+## 2                              2022
+## 3                              2022
+## 4                              2022
+## 5                              2022
+## 6                              2022
+##   exposure_pediatricians_per_1000_children_year
+## 1                                          2022
+## 2                                          2022
+## 3                                          2022
+## 4                                          2022
+## 5                                          2022
+## 6                                          2022
+##   exposure_doctors_total_per_1000_year exposure_share_bb_1000mbit_year
+## 1                                 2022                            2023
+## 2                                 2022                            2023
+## 3                                 2022                            2023
+## 4                                 2022                            2023
+## 5                                 2022                            2023
+## 6                                 2022                            2023
+##   exposure_share_bb_100mbit_year exposure_share_bb_50mbit_year
+## 1                           2023                          2023
+## 2                           2023                          2023
+## 3                           2023                          2023
+## 4                           2023                          2023
+## 5                           2023                          2023
+## 6                           2023                          2023
+##   exposure_share_4g_year exposure_dist_supermarket_m_year
+## 1                   2023                             2023
+## 2                   2023                             2023
+## 3                   2023                             2023
+## 4                   2023                             2023
+## 5                   2023                             2023
+## 6                   2023                             2023
+##   exposure_dist_pharmacy_m_year exposure_dist_gp_m_year
+## 1                          2023                    2023
+## 2                          2023                    2023
+## 3                          2023                    2023
+## 4                          2023                    2023
+## 5                          2023                    2023
+## 6                          2023                    2023
+##   exposure_dist_public_transport_m_year exposure_dist_primary_school_m_year
+## 1                                  2022                                2023
+## 2                                  2022                                2023
+## 3                                  2022                                2023
+## 4                                  2022                                2023
+## 5                                  2022                                2023
+## 6                                  2022                                2023
+##   exposure_pop_density_per_km2_year exposure_employment_density_per_km2_year
+## 1                              2023                                     2023
+## 2                              2023                                     2023
+## 3                              2023                                     2023
+## 4                              2023                                     2023
+## 5                              2023                                     2023
+## 6                              2023                                     2023
+##   exposure_fid_2 exposure_Gemeindeschlüssel_AGS_2 exposure_flood_area_total_m2
+## 1             NA                             <NA>                           NA
+## 2            504                         01004000                     665483.5
+## 3             NA                             <NA>                           NA
+## 4             NA                             <NA>                           NA
+## 5             NA                             <NA>                           NA
+## 6             NA                             <NA>                           NA
+##   exposure_flood_area_zone1_m2 exposure_flood_area_zone2_m2
+## 1                           NA                           NA
+## 2                     665483.5                            0
+## 3                           NA                           NA
+## 4                           NA                           NA
+## 5                           NA                           NA
+## 6                           NA                           NA
+##   exposure_flood_area_zone3_m2 exposure_mun_area_m2 exposure_share_flood_total
+## 1                           NA             41170207                0.000000000
+## 2                            0             71631911                0.009290322
+## 3                           NA             49858782                0.000000000
+## 4                           NA              9022409                0.000000000
+## 5                           NA              6020824                0.000000000
+## 6                           NA             14568133                0.000000000
+##   exposure_share_flood_zone1 exposure_share_flood_zone2
+## 1                0.000000000                          0
+## 2                0.009290322                          0
+## 3                0.000000000                          0
+## 4                0.000000000                          0
+## 5                0.000000000                          0
+## 6                0.000000000                          0
+##   exposure_share_flood_zone3 exposure_AGS_final                           geom
+## 1                          0           01002000 MULTIPOLYGON (((573558.9 60...
+## 2                          0           01004000 MULTIPOLYGON (((565128.4 60...
+## 3                          0           01051011 MULTIPOLYGON (((510965.6 59...
+## 4                          0           01051003 MULTIPOLYGON (((514085.4 59...
+## 5                          0           01051010 MULTIPOLYGON (((516838.7 59...
+## 6                          0           01051012 MULTIPOLYGON (((512973.9 59...
+##   residual_risk
+## 1   0.000000000
+## 2   0.009163775
+## 3   0.000000000
+## 4   0.000000000
+## 5   0.000000000
+## 6   0.000000000
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{vars }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{|\textgreater{}}
+\NormalTok{  sf}\SpecialCharTok{::}\FunctionTok{st\_drop\_geometry}\NormalTok{() }\SpecialCharTok{|\textgreater{}}
+\NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(}
+\NormalTok{    exposure\_share\_alg2\_sgb2,}
+\NormalTok{    exposure\_share\_sgb2\_with\_housing\_costs,}
+\NormalTok{    exposure\_share\_longterm\_unemp,}
+\NormalTok{    exposure\_unemp\_u25\_per\_1000,}
+\NormalTok{    exposure\_purchasing\_power,}
+\NormalTok{    exposure\_tax\_revenue\_total,}
+\NormalTok{    exposure\_share\_age\_65plus,}
+\NormalTok{    exposure\_share\_age\_0\_3,}
+\NormalTok{    exposure\_natural\_pop\_change,}
+\NormalTok{    exposure\_migration\_balance,}
+\NormalTok{    exposure\_old\_age\_dependency,}
+\NormalTok{    exposure\_share\_single\_households,}
+\NormalTok{    exposure\_share\_hh\_income\_low,}
+\NormalTok{    exposure\_students\_total\_per\_1000,}
+\NormalTok{    exposure\_doctors\_total\_per\_1000,}
+\NormalTok{    exposure\_gp\_primary\_per\_1000,}
+\NormalTok{    exposure\_share\_bb\_100mbit,}
+\NormalTok{    exposure\_share\_4g,}
+\NormalTok{    exposure\_dist\_public\_transport\_m,}
+\NormalTok{    exposure\_dist\_pharmacy\_m,}
+\NormalTok{    exposure\_pop\_density\_per\_km2}
+\NormalTok{  ) }\SpecialCharTok{|\textgreater{}}
+\NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{mutate}\NormalTok{(}
+\NormalTok{    dplyr}\SpecialCharTok{::}\FunctionTok{across}\NormalTok{(dplyr}\SpecialCharTok{::}\FunctionTok{everything}\NormalTok{(), }\SpecialCharTok{\textasciitilde{}}\NormalTok{ readr}\SpecialCharTok{::}\FunctionTok{parse\_number}\NormalTok{(}\FunctionTok{as.character}\NormalTok{(.x)))}
+\NormalTok{  )}
+
+\NormalTok{cor\_mat }\OtherTok{\textless{}{-}} \FunctionTok{cor}\NormalTok{(vars, }\AttributeTok{use =} \StringTok{"pairwise.complete.obs"}\NormalTok{)}
+\NormalTok{corrplot}\SpecialCharTok{::}\FunctionTok{corrplot}\NormalTok{(cor\_mat, }\AttributeTok{method =} \StringTok{"color"}\NormalTok{, }\AttributeTok{type =} \StringTok{"upper"}\NormalTok{, }\AttributeTok{tl.cex =} \FloatTok{0.7}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\pandocbounded{\includegraphics[keepaspectratio]{ANALYSE_FULL_files/figure-latex/unnamed-chunk-9-1.pdf}}
+
+RESIDUAL RISK CONCEPT Zone 1 = offizielles Überschwemmungsgebiet
+
+→ regelmäßig betroffen → gesetzlich festgesetzt → ohne Schutzmaßnahme
+
+Zone 3 = hochwassergeschütztes Gebiet
+
+→ liegt hinter Deichen → wäre ohne Deich im Überflutungsgebiet → wird
+aber in Extremereignissen modelliert
+
+Unprotected flood exposure = zone1 Protected flood exposure = zone3
+Total flood exposure = zone1 + zone2 + zone3
+
+\section{1) Make sure zone shares exist and NAs are
+0}\label{make-sure-zone-shares-exist-and-nas-are-0}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{FULL }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}
+    \AttributeTok{exposure\_share\_flood\_total =} \FunctionTok{if\_else}\NormalTok{(}\FunctionTok{is.na}\NormalTok{(exposure\_share\_flood\_total), }\DecValTok{0}\NormalTok{, exposure\_share\_flood\_total),}
+    \AttributeTok{exposure\_share\_flood\_zone1 =} \FunctionTok{if\_else}\NormalTok{(}\FunctionTok{is.na}\NormalTok{(exposure\_share\_flood\_zone1), }\DecValTok{0}\NormalTok{, exposure\_share\_flood\_zone1),}
+    \AttributeTok{exposure\_share\_flood\_zone2 =} \FunctionTok{if\_else}\NormalTok{(}\FunctionTok{is.na}\NormalTok{(exposure\_share\_flood\_zone2), }\DecValTok{0}\NormalTok{, exposure\_share\_flood\_zone2),}
+    \AttributeTok{exposure\_share\_flood\_zone3 =} \FunctionTok{if\_else}\NormalTok{(}\FunctionTok{is.na}\NormalTok{(exposure\_share\_flood\_zone3), }\DecValTok{0}\NormalTok{, exposure\_share\_flood\_zone3)}
+\NormalTok{  )}
+\end{Highlighting}
+\end{Shaded}
+
+\section{2) Define core outcomes}\label{define-core-outcomes}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{FULL }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}
+    \AttributeTok{share\_total\_hazard =}\NormalTok{ exposure\_share\_flood\_total,}
+    \AttributeTok{share\_unprotected  =}\NormalTok{ exposure\_share\_flood\_zone1,}
+    \AttributeTok{share\_informational =}\NormalTok{ exposure\_share\_flood\_zone2,}
+    \AttributeTok{share\_protected\_hazard =}\NormalTok{ exposure\_share\_flood\_zone3,}
+
+    \CommentTok{\# Residual risk (supervisor{-}consistent): what is unprotected in HQ100}
+    \AttributeTok{residual\_risk =}\NormalTok{ share\_unprotected,}
+
+    \CommentTok{\# How much of the hazard footprint is classified as protected (avoid /0)}
+    \AttributeTok{protection\_share\_of\_hazard =} \FunctionTok{if\_else}\NormalTok{(}
+\NormalTok{      share\_total\_hazard }\SpecialCharTok{\textgreater{}} \DecValTok{0}\NormalTok{,}
+\NormalTok{      share\_protected\_hazard }\SpecialCharTok{/}\NormalTok{ share\_total\_hazard,}
+      \ConstantTok{NA\_real\_}
+\NormalTok{    )}
+\NormalTok{  )}
+\end{Highlighting}
+\end{Shaded}
+
+\section{3) Sanity checks}\label{sanity-checks}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{share\_total\_hazard)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+## 0.000000 0.000000 0.000000 0.026289 0.008896 0.994807
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{share\_unprotected)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+## 0.000000 0.000000 0.000000 0.025804 0.008518 0.994807
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{share\_protected\_hazard)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##      Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+## 0.0000000 0.0000000 0.0000000 0.0001219 0.0000000 0.1163415
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{protection\_share\_of\_hazard)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+## 0.00000 0.00000 0.00000 0.00335 0.00000 1.00000    1640
+\end{verbatim}
+
+\section{Optional quick check: do zone parts roughly add up to
+total?}\label{optional-quick-check-do-zone-parts-roughly-add-up-to-total}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{check\_diff }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{st\_drop\_geometry}\NormalTok{() }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{transmute}\NormalTok{(}
+    \AttributeTok{diff =}\NormalTok{ share\_total\_hazard }\SpecialCharTok{{-}}\NormalTok{ (share\_unprotected }\SpecialCharTok{+}\NormalTok{ share\_informational }\SpecialCharTok{+}\NormalTok{ share\_protected\_hazard)}
+\NormalTok{  )}
+
+\FunctionTok{summary}\NormalTok{(check\_diff}\SpecialCharTok{$}\NormalTok{diff)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##       Min.    1st Qu.     Median       Mean    3rd Qu.       Max. 
+## -1.388e-17  0.000e+00  0.000e+00  2.252e-20  0.000e+00  5.551e-17
+\end{verbatim}
+
+WIDE PCA (Principal Component Analysis) \# 1. Extract all socio-economic
+vars
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{names}\NormalTok{(FULL)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   [1] "OBJECTID"                                     
+##   [2] "id"                                           
+##   [3] "Objektidentifikator"                          
+##   [4] "Geofaktor_GF"                                 
+##   [5] "GF"                                           
+##   [6] "Besondere_Gebiete_BSG"                        
+##   [7] "BSG"                                          
+##   [8] "Länderkürzel_LKZ"                             
+##   [9] "Gemeindeschlüssel_AGS"                        
+##  [10] "Verwaltungssitz_SDV_ARS"                      
+##  [11] "GeografischerName_GEN"                        
+##  [12] "Bezeichnung"                                  
+##  [13] "Identifikator_IBZ"                            
+##  [14] "Land"                                         
+##  [15] "Regierungsbezirk"                             
+##  [16] "Kreis"                                        
+##  [17] "Gemeinde"                                     
+##  [18] "mun_area_basin_m2"                            
+##  [19] "protfid"                                      
+##  [20] "protsum_prot_area_m2"                         
+##  [21] "share_protected"                              
+##  [22] "exposure_fid"                                 
+##  [23] "exposure_OBJECTID"                            
+##  [24] "exposure_id"                                  
+##  [25] "exposure_Objektidentifikator"                 
+##  [26] "exposure_Geofaktor_GF"                        
+##  [27] "exposure_GF"                                  
+##  [28] "exposure_Besondere_Gebiete_BSG"               
+##  [29] "exposure_BSG"                                 
+##  [30] "exposure_Länderkürzel_LKZ"                    
+##  [31] "exposure_Verwaltungssitz_SDV_ARS"             
+##  [32] "exposure_GeografischerName_GEN"               
+##  [33] "exposure_Bezeichnung"                         
+##  [34] "exposure_Identifikator_IBZ"                   
+##  [35] "exposure_Land"                                
+##  [36] "exposure_Regierungsbezirk"                    
+##  [37] "exposure_Kreis"                               
+##  [38] "exposure_Gemeinde"                            
+##  [39] "exposure_mun_area_basin_m2"                   
+##  [40] "exposure_AGS"                                 
+##  [41] "exposure_mun_name"                            
+##  [42] "exposure_share_alg2_sgb2"                     
+##  [43] "exposure_share_bg_single_parent"              
+##  [44] "exposure_share_bg_5plus"                      
+##  [45] "exposure_share_bg_with_children"              
+##  [46] "exposure_share_sgb2_with_housing_costs"       
+##  [47] "exposure_unemp_count"                         
+##  [48] "exposure_share_longterm_unemp"                
+##  [49] "exposure_unemp_u25_per_1000"                  
+##  [50] "exposure_unemp_55plus_per_1000"               
+##  [51] "exposure_income_tax_per_capita"               
+##  [52] "exposure_purchasing_power"                    
+##  [53] "exposure_trade_tax_per_capita"                
+##  [54] "exposure_tax_revenue_total"                   
+##  [55] "exposure_pop_total"                           
+##  [56] "exposure_pop_female"                          
+##  [57] "exposure_pop_male"                            
+##  [58] "exposure_pop_corrected"                       
+##  [59] "exposure_share_age_0_3"                       
+##  [60] "exposure_share_age_3_6"                       
+##  [61] "exposure_share_age_6_18"                      
+##  [62] "exposure_share_age_18_25"                     
+##  [63] "exposure_share_age_25_30"                     
+##  [64] "exposure_share_age_30_50"                     
+##  [65] "exposure_share_age_50_65"                     
+##  [66] "exposure_share_age_65_75"                     
+##  [67] "exposure_share_age_65plus"                    
+##  [68] "exposure_share_age_75plus"                    
+##  [69] "exposure_natural_pop_change"                  
+##  [70] "exposure_migration_balance"                   
+##  [71] "exposure_working_age_15_65_count"             
+##  [72] "exposure_old_age_dependency"                  
+##  [73] "exposure_youth_dependency"                    
+##  [74] "exposure_young_old_ratio"                     
+##  [75] "exposure_households_total"                    
+##  [76] "exposure_share_single_households"             
+##  [77] "exposure_share_households_with_children"      
+##  [78] "exposure_share_hh_income_high"                
+##  [79] "exposure_share_hh_income_medium"              
+##  [80] "exposure_share_hh_income_low"                 
+##  [81] "exposure_students_total_per_1000"             
+##  [82] "exposure_students_18_25_per_1000"             
+##  [83] "exposure_students_fh_per_1000"                
+##  [84] "exposure_gp_general_per_1000"                 
+##  [85] "exposure_gp_primary_per_1000"                 
+##  [86] "exposure_internists_per_1000"                 
+##  [87] "exposure_pediatricians_per_1000_children"     
+##  [88] "exposure_doctors_total_per_1000"              
+##  [89] "exposure_share_bb_1000mbit"                   
+##  [90] "exposure_share_bb_100mbit"                    
+##  [91] "exposure_share_bb_50mbit"                     
+##  [92] "exposure_share_4g"                            
+##  [93] "exposure_dist_supermarket_m"                  
+##  [94] "exposure_dist_pharmacy_m"                     
+##  [95] "exposure_dist_gp_m"                           
+##  [96] "exposure_dist_public_transport_m"             
+##  [97] "exposure_dist_primary_school_m"               
+##  [98] "exposure_pop_density_per_km2"                 
+##  [99] "exposure_employment_density_per_km2"          
+## [100] "exposure_share_alg2_sgb2_year"                
+## [101] "exposure_share_bg_single_parent_year"         
+## [102] "exposure_share_bg_5plus_year"                 
+## [103] "exposure_share_bg_with_children_year"         
+## [104] "exposure_share_sgb2_with_housing_costs_year"  
+## [105] "exposure_unemp_count_year"                    
+## [106] "exposure_share_longterm_unemp_year"           
+## [107] "exposure_unemp_u25_per_1000_year"             
+## [108] "exposure_unemp_55plus_per_1000_year"          
+## [109] "exposure_income_tax_per_capita_year"          
+## [110] "exposure_purchasing_power_year"               
+## [111] "exposure_trade_tax_per_capita_year"           
+## [112] "exposure_tax_revenue_total_year"              
+## [113] "exposure_pop_total_year"                      
+## [114] "exposure_pop_female_year"                     
+## [115] "exposure_pop_male_year"                       
+## [116] "exposure_pop_corrected_year"                  
+## [117] "exposure_share_age_0_3_year"                  
+## [118] "exposure_share_age_3_6_year"                  
+## [119] "exposure_share_age_6_18_year"                 
+## [120] "exposure_share_age_18_25_year"                
+## [121] "exposure_share_age_25_30_year"                
+## [122] "exposure_share_age_30_50_year"                
+## [123] "exposure_share_age_50_65_year"                
+## [124] "exposure_share_age_65_75_year"                
+## [125] "exposure_share_age_65plus_year"               
+## [126] "exposure_share_age_75plus_year"               
+## [127] "exposure_natural_pop_change_year"             
+## [128] "exposure_migration_balance_year"              
+## [129] "exposure_working_age_15_65_count_year"        
+## [130] "exposure_old_age_dependency_year"             
+## [131] "exposure_youth_dependency_year"               
+## [132] "exposure_young_old_ratio_year"                
+## [133] "exposure_households_total_year"               
+## [134] "exposure_share_single_households_year"        
+## [135] "exposure_share_households_with_children_year" 
+## [136] "exposure_share_hh_income_high_year"           
+## [137] "exposure_share_hh_income_medium_year"         
+## [138] "exposure_share_hh_income_low_year"            
+## [139] "exposure_students_total_per_1000_year"        
+## [140] "exposure_students_18_25_per_1000_year"        
+## [141] "exposure_students_fh_per_1000_year"           
+## [142] "exposure_gp_general_per_1000_year"            
+## [143] "exposure_gp_primary_per_1000_year"            
+## [144] "exposure_internists_per_1000_year"            
+## [145] "exposure_pediatricians_per_1000_children_year"
+## [146] "exposure_doctors_total_per_1000_year"         
+## [147] "exposure_share_bb_1000mbit_year"              
+## [148] "exposure_share_bb_100mbit_year"               
+## [149] "exposure_share_bb_50mbit_year"                
+## [150] "exposure_share_4g_year"                       
+## [151] "exposure_dist_supermarket_m_year"             
+## [152] "exposure_dist_pharmacy_m_year"                
+## [153] "exposure_dist_gp_m_year"                      
+## [154] "exposure_dist_public_transport_m_year"        
+## [155] "exposure_dist_primary_school_m_year"          
+## [156] "exposure_pop_density_per_km2_year"            
+## [157] "exposure_employment_density_per_km2_year"     
+## [158] "exposure_fid_2"                               
+## [159] "exposure_Gemeindeschlüssel_AGS_2"             
+## [160] "exposure_flood_area_total_m2"                 
+## [161] "exposure_flood_area_zone1_m2"                 
+## [162] "exposure_flood_area_zone2_m2"                 
+## [163] "exposure_flood_area_zone3_m2"                 
+## [164] "exposure_mun_area_m2"                         
+## [165] "exposure_share_flood_total"                   
+## [166] "exposure_share_flood_zone1"                   
+## [167] "exposure_share_flood_zone2"                   
+## [168] "exposure_share_flood_zone3"                   
+## [169] "exposure_AGS_final"                           
+## [170] "geom"                                         
+## [171] "residual_risk"                                
+## [172] "share_total_hazard"                           
+## [173] "share_unprotected"                            
+## [174] "share_informational"                          
+## [175] "share_protected_hazard"                       
+## [176] "protection_share_of_hazard"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{wide\_pca\_vars }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{\%\textgreater{}\%}
+\NormalTok{  sf}\SpecialCharTok{::}\FunctionTok{st\_drop\_geometry}\NormalTok{() }\SpecialCharTok{\%\textgreater{}\%}
+\NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(}
+
+    \CommentTok{\# Poverty / Welfare}
+\NormalTok{    exposure\_share\_alg2\_sgb2,}
+\NormalTok{    exposure\_share\_bg\_single\_parent,}
+\NormalTok{    exposure\_share\_bg\_5plus,}
+\NormalTok{    exposure\_share\_bg\_with\_children,}
+\NormalTok{    exposure\_share\_sgb2\_with\_housing\_costs,}
+
+    \CommentTok{\# Unemployment}
+\NormalTok{    exposure\_share\_longterm\_unemp,}
+\NormalTok{    exposure\_unemp\_u25\_per\_1000,}
+\NormalTok{    exposure\_unemp\_55plus\_per\_1000,}
+
+    \CommentTok{\# Income / Fiscal}
+\NormalTok{    exposure\_income\_tax\_per\_capita,}
+\NormalTok{    exposure\_purchasing\_power,}
+\NormalTok{    exposure\_trade\_tax\_per\_capita,}
+\NormalTok{    exposure\_tax\_revenue\_total,}
+
+    \CommentTok{\# Demography}
+\NormalTok{    exposure\_share\_age\_0\_3,}
+\NormalTok{    exposure\_share\_age\_3\_6,}
+\NormalTok{    exposure\_share\_age\_6\_18,}
+\NormalTok{    exposure\_share\_age\_18\_25,}
+\NormalTok{    exposure\_share\_age\_25\_30,}
+\NormalTok{    exposure\_share\_age\_30\_50,}
+\NormalTok{    exposure\_share\_age\_50\_65,}
+\NormalTok{    exposure\_share\_age\_65\_75,}
+\NormalTok{    exposure\_share\_age\_65plus,}
+\NormalTok{    exposure\_share\_age\_75plus,}
+
+    \CommentTok{\# Population dynamics}
+\NormalTok{    exposure\_natural\_pop\_change,}
+\NormalTok{    exposure\_migration\_balance,}
+
+    \CommentTok{\# Dependency}
+\NormalTok{    exposure\_old\_age\_dependency,}
+\NormalTok{    exposure\_youth\_dependency,}
+\NormalTok{    exposure\_young\_old\_ratio,}
+
+    \CommentTok{\# Household}
+\NormalTok{    exposure\_share\_single\_households,}
+\NormalTok{    exposure\_share\_households\_with\_children,}
+
+    \CommentTok{\# Income / education}
+\NormalTok{    exposure\_share\_hh\_income\_high,}
+\NormalTok{    exposure\_share\_hh\_income\_medium,}
+\NormalTok{    exposure\_share\_hh\_income\_low,}
+\NormalTok{    exposure\_students\_total\_per\_1000,}
+\NormalTok{    exposure\_students\_18\_25\_per\_1000,}
+\NormalTok{    exposure\_students\_fh\_per\_1000,}
+
+    \CommentTok{\# Health}
+\NormalTok{    exposure\_gp\_general\_per\_1000,}
+\NormalTok{    exposure\_gp\_primary\_per\_1000,}
+\NormalTok{    exposure\_internists\_per\_1000,}
+\NormalTok{    exposure\_pediatricians\_per\_1000\_children,}
+\NormalTok{    exposure\_doctors\_total\_per\_1000,}
+
+    \CommentTok{\# Digital}
+\NormalTok{    exposure\_share\_bb\_1000mbit,}
+\NormalTok{    exposure\_share\_bb\_100mbit,}
+\NormalTok{    exposure\_share\_bb\_50mbit,}
+\NormalTok{    exposure\_share\_4g,}
+
+    \CommentTok{\# Accessibility}
+\NormalTok{    exposure\_dist\_supermarket\_m,}
+\NormalTok{    exposure\_dist\_pharmacy\_m,}
+\NormalTok{    exposure\_dist\_gp\_m,}
+\NormalTok{    exposure\_dist\_public\_transport\_m,}
+\NormalTok{    exposure\_dist\_primary\_school\_m,}
+
+    \CommentTok{\# Density}
+\NormalTok{    exposure\_pop\_density\_per\_km2,}
+\NormalTok{    exposure\_employment\_density\_per\_km2}
+\NormalTok{  ) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}\FunctionTok{across}\NormalTok{(}\FunctionTok{everything}\NormalTok{(), as.numeric)) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{rename\_with}\NormalTok{(}\SpecialCharTok{\textasciitilde{}}\NormalTok{ stringr}\SpecialCharTok{::}\FunctionTok{str\_remove}\NormalTok{(.x, }\StringTok{"\^{}exposure\_"}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{names}\NormalTok{(wide\_pca\_vars)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##  [1] "share_alg2_sgb2"                 "share_bg_single_parent"         
+##  [3] "share_bg_5plus"                  "share_bg_with_children"         
+##  [5] "share_sgb2_with_housing_costs"   "share_longterm_unemp"           
+##  [7] "unemp_u25_per_1000"              "unemp_55plus_per_1000"          
+##  [9] "income_tax_per_capita"           "purchasing_power"               
+## [11] "trade_tax_per_capita"            "tax_revenue_total"              
+## [13] "share_age_0_3"                   "share_age_3_6"                  
+## [15] "share_age_6_18"                  "share_age_18_25"                
+## [17] "share_age_25_30"                 "share_age_30_50"                
+## [19] "share_age_50_65"                 "share_age_65_75"                
+## [21] "share_age_65plus"                "share_age_75plus"               
+## [23] "natural_pop_change"              "migration_balance"              
+## [25] "old_age_dependency"              "youth_dependency"               
+## [27] "young_old_ratio"                 "share_single_households"        
+## [29] "share_households_with_children"  "share_hh_income_high"           
+## [31] "share_hh_income_medium"          "share_hh_income_low"            
+## [33] "students_total_per_1000"         "students_18_25_per_1000"        
+## [35] "students_fh_per_1000"            "gp_general_per_1000"            
+## [37] "gp_primary_per_1000"             "internists_per_1000"            
+## [39] "pediatricians_per_1000_children" "doctors_total_per_1000"         
+## [41] "share_bb_1000mbit"               "share_bb_100mbit"               
+## [43] "share_bb_50mbit"                 "share_4g"                       
+## [45] "dist_supermarket_m"              "dist_pharmacy_m"                
+## [47] "dist_gp_m"                       "dist_public_transport_m"        
+## [49] "dist_primary_school_m"           "pop_density_per_km2"            
+## [51] "employment_density_per_km2"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{wide\_pca\_clean }\OtherTok{\textless{}{-}}\NormalTok{ wide\_pca\_vars }\SpecialCharTok{\%\textgreater{}\%} \FunctionTok{drop\_na}\NormalTok{()}
+\NormalTok{wide\_pca\_scaled }\OtherTok{\textless{}{-}} \FunctionTok{scale}\NormalTok{(wide\_pca\_clean)}
+
+\NormalTok{wide\_pca }\OtherTok{\textless{}{-}} \FunctionTok{prcomp}\NormalTok{(wide\_pca\_scaled)}
+
+\FunctionTok{summary}\NormalTok{(wide\_pca)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Importance of components:
+##                           PC1    PC2     PC3     PC4     PC5     PC6     PC7
+## Standard deviation     2.8690 2.6185 1.85881 1.73450 1.49418 1.46733 1.43521
+## Proportion of Variance 0.1614 0.1344 0.06775 0.05899 0.04378 0.04222 0.04039
+## Cumulative Proportion  0.1614 0.2958 0.36358 0.42257 0.46635 0.50857 0.54896
+##                            PC8     PC9   PC10    PC11    PC12   PC13    PC14
+## Standard deviation     1.34403 1.27640 1.2140 1.13674 1.09139 1.0300 1.01226
+## Proportion of Variance 0.03542 0.03194 0.0289 0.02534 0.02336 0.0208 0.02009
+## Cumulative Proportion  0.58438 0.61632 0.6452 0.67056 0.69391 0.7147 0.73480
+##                           PC15    PC16    PC17    PC18    PC19    PC20    PC21
+## Standard deviation     0.99417 0.98409 0.94880 0.94503 0.89118 0.86380 0.86222
+## Proportion of Variance 0.01938 0.01899 0.01765 0.01751 0.01557 0.01463 0.01458
+## Cumulative Proportion  0.75418 0.77317 0.79082 0.80833 0.82391 0.83854 0.85311
+##                          PC22    PC23    PC24    PC25    PC26   PC27   PC28
+## Standard deviation     0.7889 0.78162 0.75302 0.73629 0.72584 0.6924 0.6546
+## Proportion of Variance 0.0122 0.01198 0.01112 0.01063 0.01033 0.0094 0.0084
+## Cumulative Proportion  0.8653 0.87730 0.88842 0.89905 0.90938 0.9188 0.9272
+##                           PC29    PC30    PC31    PC32    PC33    PC34    PC35
+## Standard deviation     0.64785 0.60120 0.59267 0.54527 0.54153 0.51965 0.50382
+## Proportion of Variance 0.00823 0.00709 0.00689 0.00583 0.00575 0.00529 0.00498
+## Cumulative Proportion  0.93541 0.94249 0.94938 0.95521 0.96096 0.96626 0.97123
+##                           PC36    PC37    PC38    PC39    PC40    PC41    PC42
+## Standard deviation     0.49605 0.49070 0.46980 0.42472 0.41308 0.37213 0.35337
+## Proportion of Variance 0.00482 0.00472 0.00433 0.00354 0.00335 0.00272 0.00245
+## Cumulative Proportion  0.97606 0.98078 0.98511 0.98864 0.99199 0.99470 0.99715
+##                           PC43    PC44    PC45   PC46    PC47    PC48     PC49
+## Standard deviation     0.28013 0.18181 0.10567 0.1019 0.08031 0.07541 0.001418
+## Proportion of Variance 0.00154 0.00065 0.00022 0.0002 0.00013 0.00011 0.000000
+## Cumulative Proportion  0.99869 0.99934 0.99956 0.9998 0.99989 1.00000 1.000000
+##                             PC50      PC51
+## Standard deviation     0.0008076 0.0005325
+## Proportion of Variance 0.0000000 0.0000000
+## Cumulative Proportion  1.0000000 1.0000000
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{round}\NormalTok{(wide\_pca}\SpecialCharTok{$}\NormalTok{rotation[,}\DecValTok{1}\SpecialCharTok{:}\DecValTok{5}\NormalTok{], }\DecValTok{3}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##                                    PC1    PC2    PC3    PC4    PC5
+## share_alg2_sgb2                  0.174  0.083  0.140 -0.042  0.049
+## share_bg_single_parent           0.103  0.025  0.025 -0.023  0.025
+## share_bg_5plus                  -0.094 -0.032 -0.029  0.018 -0.016
+## share_bg_with_children          -0.125 -0.052 -0.016  0.047 -0.014
+## share_sgb2_with_housing_costs   -0.160 -0.107 -0.155  0.022 -0.053
+## share_longterm_unemp             0.089 -0.050  0.036 -0.048  0.037
+## unemp_u25_per_1000               0.048 -0.141 -0.024 -0.048 -0.003
+## unemp_55plus_per_1000            0.143 -0.114  0.035 -0.102  0.068
+## income_tax_per_capita           -0.256  0.030 -0.198  0.113 -0.056
+## purchasing_power                -0.215 -0.049 -0.141  0.177  0.000
+## trade_tax_per_capita            -0.035 -0.012 -0.022 -0.051  0.101
+## tax_revenue_total               -0.061 -0.010 -0.046 -0.041  0.091
+## share_age_0_3                   -0.200  0.053  0.054 -0.031 -0.044
+## share_age_3_6                   -0.157  0.076  0.215 -0.005  0.048
+## share_age_6_18                  -0.125  0.084  0.352  0.011  0.090
+## share_age_18_25                 -0.187 -0.089 -0.116 -0.125 -0.041
+## share_age_25_30                 -0.193 -0.080 -0.149 -0.118 -0.085
+## share_age_30_50                 -0.185  0.096  0.251 -0.098  0.039
+## share_age_50_65                  0.073  0.167 -0.310  0.051 -0.165
+## share_age_65_75                  0.287 -0.011  0.019  0.046  0.071
+## share_age_65plus                 0.277 -0.166 -0.043  0.095  0.086
+## share_age_75plus                 0.155 -0.255 -0.088  0.107  0.066
+## natural_pop_change              -0.154  0.149  0.061 -0.069 -0.046
+## migration_balance               -0.022 -0.091  0.022  0.029  0.004
+## old_age_dependency               0.267 -0.166 -0.003  0.104  0.103
+## youth_dependency                -0.117  0.047  0.392  0.045  0.109
+## young_old_ratio                 -0.183 -0.029  0.119 -0.058  0.054
+## share_single_households          0.052 -0.254 -0.132 -0.100  0.001
+## share_households_with_children  -0.120  0.245  0.194  0.027  0.004
+## share_hh_income_high            -0.233 -0.037 -0.194  0.154 -0.037
+## share_hh_income_medium           0.113  0.071  0.173 -0.043  0.014
+## share_hh_income_low              0.202 -0.013  0.100 -0.161  0.036
+## students_total_per_1000         -0.029 -0.113 -0.003 -0.482 -0.097
+## students_18_25_per_1000         -0.028 -0.114 -0.003 -0.472 -0.094
+## students_fh_per_1000            -0.018 -0.087 -0.008 -0.445 -0.101
+## gp_general_per_1000              0.042 -0.104  0.158  0.127 -0.514
+## gp_primary_per_1000              0.045 -0.127  0.180  0.125 -0.531
+## internists_per_1000              0.007 -0.157  0.018 -0.036  0.052
+## pediatricians_per_1000_children  0.015 -0.147  0.021  0.001  0.064
+## doctors_total_per_1000           0.034 -0.198  0.173  0.075 -0.445
+## share_bb_1000mbit               -0.213 -0.107 -0.149  0.045  0.004
+## share_bb_100mbit                -0.090 -0.140 -0.026  0.093  0.074
+## share_bb_50mbit                 -0.075 -0.123 -0.015  0.099  0.054
+## share_4g                        -0.023 -0.037 -0.029  0.015 -0.017
+## dist_supermarket_m               0.065  0.265 -0.105 -0.083 -0.111
+## dist_pharmacy_m                  0.079  0.267 -0.091 -0.074 -0.168
+## dist_gp_m                        0.062  0.264 -0.175 -0.114  0.026
+## dist_public_transport_m          0.086  0.163 -0.139 -0.097 -0.114
+## dist_primary_school_m            0.080  0.244 -0.158 -0.088 -0.110
+## pop_density_per_km2             -0.111 -0.216  0.022 -0.104  0.086
+## employment_density_per_km2      -0.107 -0.220  0.023 -0.126  0.084
+\end{verbatim}
+
+\section{---- PCA Loadings Table ----}\label{pca-loadings-table--}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{loadings }\OtherTok{\textless{}{-}} \FunctionTok{as.data.frame}\NormalTok{(wide\_pca}\SpecialCharTok{$}\NormalTok{rotation)}
+\NormalTok{loadings}\SpecialCharTok{$}\NormalTok{variable }\OtherTok{\textless{}{-}} \FunctionTok{rownames}\NormalTok{(loadings)}
+
+\CommentTok{\# Long format}
+\NormalTok{loadings\_long }\OtherTok{\textless{}{-}}\NormalTok{ loadings }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{pivot\_longer}\NormalTok{(}
+    \AttributeTok{cols =} \FunctionTok{starts\_with}\NormalTok{(}\StringTok{"PC"}\NormalTok{),}
+    \AttributeTok{names\_to =} \StringTok{"PC"}\NormalTok{,}
+    \AttributeTok{values\_to =} \StringTok{"loading"}
+\NormalTok{  ) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{mutate}\NormalTok{(}\AttributeTok{abs\_loading =} \FunctionTok{abs}\NormalTok{(loading))}
+
+\CommentTok{\# Top 8 variables per PC}
+\NormalTok{top\_loadings }\OtherTok{\textless{}{-}}\NormalTok{ loadings\_long }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(PC) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(abs\_loading)) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{slice\_head}\NormalTok{(}\AttributeTok{n =} \DecValTok{8}\NormalTok{) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{ungroup}\NormalTok{()}
+
+\CommentTok{\# View}
+\NormalTok{top\_loadings }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(PC, }\FunctionTok{desc}\NormalTok{(abs\_loading))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## # A tibble: 408 x 4
+##    variable              PC    loading abs_loading
+##    <chr>                 <chr>   <dbl>       <dbl>
+##  1 share_age_65_75       PC1     0.287       0.287
+##  2 share_age_65plus      PC1     0.277       0.277
+##  3 old_age_dependency    PC1     0.267       0.267
+##  4 income_tax_per_capita PC1    -0.256       0.256
+##  5 share_hh_income_high  PC1    -0.233       0.233
+##  6 purchasing_power      PC1    -0.215       0.215
+##  7 share_bb_1000mbit     PC1    -0.213       0.213
+##  8 share_hh_income_low   PC1     0.202       0.202
+##  9 youth_dependency      PC10    0.295       0.295
+## 10 share_age_18_25       PC10   -0.290       0.290
+## # i 398 more rows
+\end{verbatim}
+
+\section{---- Scree Plot ----}\label{scree-plot--}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{pca\_var }\OtherTok{\textless{}{-}}\NormalTok{ wide\_pca}\SpecialCharTok{$}\NormalTok{sdev}\SpecialCharTok{\^{}}\DecValTok{2}
+\NormalTok{pca\_var\_prop }\OtherTok{\textless{}{-}}\NormalTok{ pca\_var }\SpecialCharTok{/} \FunctionTok{sum}\NormalTok{(pca\_var)}
+
+\NormalTok{scree\_df }\OtherTok{\textless{}{-}} \FunctionTok{data.frame}\NormalTok{(}
+  \AttributeTok{PC =} \FunctionTok{seq\_along}\NormalTok{(pca\_var),}
+  \AttributeTok{Eigenvalue =}\NormalTok{ pca\_var,}
+  \AttributeTok{Variance =}\NormalTok{ pca\_var\_prop,}
+  \AttributeTok{Cumulative =} \FunctionTok{cumsum}\NormalTok{(pca\_var\_prop)}
+\NormalTok{)}
+
+\FunctionTok{ggplot}\NormalTok{(scree\_df, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ PC, }\AttributeTok{y =}\NormalTok{ Eigenvalue)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_line}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{geom\_hline}\NormalTok{(}\AttributeTok{yintercept =} \DecValTok{1}\NormalTok{, }\AttributeTok{linetype =} \StringTok{"dashed"}\NormalTok{, }\AttributeTok{color =} \StringTok{"red"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}
+    \AttributeTok{title =} \StringTok{"Scree Plot (Kaiser Criterion)"}\NormalTok{,}
+    \AttributeTok{x =} \StringTok{"Principal Component"}\NormalTok{,}
+    \AttributeTok{y =} \StringTok{"Eigenvalue"}
+\NormalTok{  ) }\SpecialCharTok{+}
+  \FunctionTok{theme\_minimal}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\pandocbounded{\includegraphics[keepaspectratio]{ANALYSE_FULL_files/figure-latex/unnamed-chunk-22-1.pdf}}
+Kaiser-Kriterium (Standard)
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{scree\_df }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{filter}\NormalTok{(Eigenvalue }\SpecialCharTok{\textgreater{}} \DecValTok{1}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    PC Eigenvalue   Variance Cumulative
+## 1   1   8.231194 0.16139596  0.1613960
+## 2   2   6.856454 0.13444027  0.2958362
+## 3   3   3.455169 0.06774841  0.3635846
+## 4   4   3.008498 0.05899015  0.4225748
+## 5   5   2.232577 0.04377602  0.4663508
+## 6   6   2.153056 0.04221678  0.5085676
+## 7   7   2.059820 0.04038863  0.5489562
+## 8   8   1.806412 0.03541984  0.5843761
+## 9   9   1.629189 0.03194488  0.6163209
+## 10 10   1.473761 0.02889727  0.6452182
+## 11 11   1.292180 0.02533686  0.6705551
+## 12 12   1.191124 0.02335538  0.6939104
+## 13 13   1.060865 0.02080127  0.7147117
+## 14 14   1.024661 0.02009139  0.7348031
+\end{verbatim}
+
+Cumulative Variance Check
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{scree\_df }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{filter}\NormalTok{(Cumulative }\SpecialCharTok{\textless{}=} \FloatTok{0.7}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    PC Eigenvalue   Variance Cumulative
+## 1   1   8.231194 0.16139596  0.1613960
+## 2   2   6.856454 0.13444027  0.2958362
+## 3   3   3.455169 0.06774841  0.3635846
+## 4   4   3.008498 0.05899015  0.4225748
+## 5   5   2.232577 0.04377602  0.4663508
+## 6   6   2.153056 0.04221678  0.5085676
+## 7   7   2.059820 0.04038863  0.5489562
+## 8   8   1.806412 0.03541984  0.5843761
+## 9   9   1.629189 0.03194488  0.6163209
+## 10 10   1.473761 0.02889727  0.6452182
+## 11 11   1.292180 0.02533686  0.6705551
+## 12 12   1.191124 0.02335538  0.6939104
+\end{verbatim}
+
+Hauptindex: PC1--PC8 Sensitivity: PC1--PC12
+
+Hauptversion (PC1--PC8):
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# {-}{-}{-} PCA scores back into FULL (matches the drop\_na rows) {-}{-}{-}}
+
+\CommentTok{\# which rows were kept for PCA?}
+\NormalTok{rows\_kept }\OtherTok{\textless{}{-}} \FunctionTok{complete.cases}\NormalTok{(wide\_pca\_vars)   }\CommentTok{\# logical vector length nrow(FULL)}
+
+\CommentTok{\# create empty PC columns in FULL}
+\NormalTok{k }\OtherTok{\textless{}{-}} \FunctionTok{ncol}\NormalTok{(wide\_pca}\SpecialCharTok{$}\NormalTok{x)                        }\CommentTok{\# number of PCs (51)}
+\NormalTok{pc\_names }\OtherTok{\textless{}{-}} \FunctionTok{paste0}\NormalTok{(}\StringTok{"PC"}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k)}
+
+\NormalTok{FULL[, pc\_names] }\OtherTok{\textless{}{-}} \ConstantTok{NA\_real\_}
+
+\CommentTok{\# fill only the kept rows with the PCA scores}
+\NormalTok{FULL[rows\_kept, pc\_names] }\OtherTok{\textless{}{-}}\NormalTok{ wide\_pca}\SpecialCharTok{$}\NormalTok{x}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{names}\NormalTok{(FULL)[}\FunctionTok{grepl}\NormalTok{(}\StringTok{"\^{}PC}\SpecialCharTok{\textbackslash{}\textbackslash{}}\StringTok{d+$"}\NormalTok{, }\FunctionTok{names}\NormalTok{(FULL))] }\SpecialCharTok{|\textgreater{}} \FunctionTok{head}\NormalTok{()}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] "PC1" "PC2" "PC3" "PC4" "PC5" "PC6"
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{PC1)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##     Min.  1st Qu.   Median     Mean  3rd Qu.     Max.     NA's 
+## -15.1750  -2.0345   0.4999   0.0000   2.0759  11.2285       78
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{sum}\NormalTok{(}\SpecialCharTok{!}\FunctionTok{is.na}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{PC1))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 2464
+\end{verbatim}
+
+INDEX BAUEN (Hauptindex PC1--PC8)
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{k\_main }\OtherTok{\textless{}{-}} \DecValTok{8}
+\NormalTok{weights\_main }\OtherTok{\textless{}{-}}\NormalTok{ scree\_df}\SpecialCharTok{$}\NormalTok{Variance[}\DecValTok{1}\SpecialCharTok{:}\NormalTok{k\_main]}
+\FunctionTok{names}\NormalTok{(weights\_main) }\OtherTok{\textless{}{-}} \FunctionTok{paste0}\NormalTok{(}\StringTok{"PC"}\NormalTok{, }\DecValTok{1}\SpecialCharTok{:}\NormalTok{k\_main)}
+
+\NormalTok{pc\_mat }\OtherTok{\textless{}{-}}\NormalTok{ FULL }\SpecialCharTok{|\textgreater{}}
+\NormalTok{  sf}\SpecialCharTok{::}\FunctionTok{st\_drop\_geometry}\NormalTok{() }\SpecialCharTok{|\textgreater{}}
+\NormalTok{  dplyr}\SpecialCharTok{::}\FunctionTok{select}\NormalTok{(dplyr}\SpecialCharTok{::}\FunctionTok{all\_of}\NormalTok{(}\FunctionTok{names}\NormalTok{(weights\_main))) }\SpecialCharTok{|\textgreater{}}
+  \FunctionTok{as.matrix}\NormalTok{()}
+
+\NormalTok{FULL}\SpecialCharTok{$}\NormalTok{vuln\_index\_main }\OtherTok{\textless{}{-}} \FunctionTok{as.numeric}\NormalTok{(pc\_mat }\SpecialCharTok{\%*\%}\NormalTok{ weights\_main)}
+\FunctionTok{summary}\NormalTok{(FULL}\SpecialCharTok{$}\NormalTok{vuln\_index\_main)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+## -5.4120 -0.3824  0.0670  0.0000  0.4290  1.8095      78
+\end{verbatim}
+
+\end{document}
