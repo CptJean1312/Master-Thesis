@@ -233,3 +233,135 @@ print(AIC(m_ols, sar, sem))
 # ---- 10) Outputs you’ll likely want to save ----
 # saveRDS(FULL, "analysis/FULL_with_PCs_and_index.rds")
 # write.csv(sf::st_drop_geometry(FULL), "tables/municipality_results.csv", row.names = FALSE)
+# ============================================================
+# 11) OUTPUTS: save tables + plots + key model results
+# ============================================================
+
+# ---- A) output folders ----
+out_dir <- "outputs"
+dir.create(out_dir, showWarnings = FALSE)
+dir.create(file.path(out_dir, "plots"), showWarnings = FALSE, recursive = TRUE)
+dir.create(file.path(out_dir, "tables"), showWarnings = FALSE, recursive = TRUE)
+dir.create(file.path(out_dir, "maps"), showWarnings = FALSE, recursive = TRUE)
+
+save_plot <- function(p, filename, w = 8, h = 5) {
+  ggplot2::ggsave(
+    filename = file.path(out_dir, "plots", filename),
+    plot = p, width = w, height = h, dpi = 300
+  )
+}
+
+save_table <- function(x, filename) {
+  readr::write_csv(x, file.path(out_dir, "tables", filename))
+}
+
+# ---- B) Scree plots ----
+scree_plot <- ggplot(scree_df, aes(x = PC, y = Eigenvalue)) +
+  geom_line() +
+  geom_point() +
+  geom_hline(yintercept = 1, linetype = "dashed") +
+  labs(title = "Scree Plot (Kaiser Criterion)", x = "PC", y = "Eigenvalue") +
+  theme_minimal()
+
+cumvar_plot <- ggplot(scree_df, aes(x = PC, y = Cumulative)) +
+  geom_line() +
+  geom_point() +
+  geom_hline(yintercept = 0.7, linetype = "dashed") +
+  labs(title = "Cumulative Variance Explained", x = "PC", y = "Cumulative variance") +
+  theme_minimal()
+
+save_plot(scree_plot, "scree_kaiser.png")
+save_plot(cumvar_plot, "cumulative_variance.png")
+save_table(scree_df, "scree_table.csv")
+
+# ---- C) Top loadings table (export) ----
+loadings <- as.data.frame(wide_pca$rotation)
+loadings$variable <- rownames(loadings)
+
+top_loadings <- loadings %>%
+  tidyr::pivot_longer(cols = starts_with("PC"), names_to = "PC", values_to = "loading") %>%
+  mutate(abs_loading = abs(loading)) %>%
+  group_by(PC) %>%
+  arrange(desc(abs_loading)) %>%
+  slice_head(n = 8) %>%
+  ungroup() %>%
+  arrange(as.integer(str_remove(PC, "PC")), desc(abs_loading))
+
+save_table(top_loadings, "pca_top_loadings_top8_per_pc.csv")
+
+# ---- D) Regression results (export tidy + glance) ----
+save_table(ols_tidy, "regression_ols_interaction_tidy.csv")
+save_table(as.data.frame(ols_fit), "regression_ols_interaction_fit.csv")
+
+# ---- E) Interaction plot (interpretable result!) ----
+# show predicted risk over vuln at 3 levels of protection
+prot_q <- quantile(df$prot, probs = c(0.25, 0.5, 0.75), na.rm = TRUE)
+newdat <- expand.grid(
+  vuln = seq(min(df$vuln), max(df$vuln), length.out = 200),
+  prot = as.numeric(prot_q)
+)
+newdat$pred <- predict(m_ols, newdata = newdat)
+
+interaction_plot <- ggplot(newdat, aes(x = vuln, y = pred, group = prot)) +
+  geom_line() +
+  labs(title = "Predicted residual risk by vulnerability (3 protection levels)",
+       x = "Vulnerability index (z)", y = "Predicted residual risk",
+       subtitle = "Lines: protection at 25%, 50%, 75% quantiles") +
+  theme_minimal()
+
+save_plot(interaction_plot, "interaction_predicted_risk.png", w = 8, h = 5)
+
+# ---- F) Spatial diagnostics outputs ----
+moran_tbl <- tibble(
+  statistic = unname(moran_res$statistic),
+  p_value = moran_res$p.value,
+  estimate_I = unname(moran_res$estimate[["Moran I statistic"]])
+)
+save_table(moran_tbl, "moransI_ols_residuals.csv")
+
+# model comparison
+aic_tbl <- tibble(
+  model = c("OLS", "SAR_lag", "SEM_error"),
+  AIC = c(AIC(m_ols), AIC(sar), AIC(sem))
+)
+save_table(aic_tbl, "model_aic_comparison.csv")
+
+# ---- G) Maps: vuln index + risk + PCs 1–4 ----
+map_vuln <- ggplot(FULL) +
+  geom_sf(aes(fill = vuln_index_main_z), color = NA) +
+  labs(title = "Vulnerability index (z)", fill = "vuln (z)") +
+  theme_minimal()
+
+map_risk <- ggplot(FULL) +
+  geom_sf(aes(fill = residual_risk), color = NA) +
+  labs(title = "Residual risk (definition locked in script)", fill = "risk") +
+  theme_minimal()
+
+save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7)
+save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7)
+
+for (pc in paste0("PC", 1:4)) {
+  p <- ggplot(FULL) +
+    geom_sf(aes(fill = .data[[pc]]), color = NA) +
+    labs(title = paste("Map of", pc), fill = pc) +
+    theme_minimal()
+  save_plot(p, paste0("map_", pc, ".png"), w = 9, h = 7)
+}
+
+# ---- H) Hotspots (Local Moran / LISA) map ----
+lisa <- spdep::localmoran(sf_dat$risk, lw, zero.policy = TRUE)
+sf_dat$lisa_I <- lisa[, "Ii"]
+sf_dat$lisa_p <- lisa[, "Pr(z != E(Ii))"]
+sf_dat$hotspot <- sf_dat$lisa_p < 0.05 & sf_dat$lisa_I > 0
+
+hotspot_map <- ggplot(sf_dat) +
+  geom_sf(aes(fill = hotspot), color = NA) +
+  labs(title = "Hotspots of residual risk (Local Moran, p<0.05)", fill = "hotspot") +
+  theme_minimal()
+
+save_plot(hotspot_map, "map_hotspots_lisa.png", w = 9, h = 7)
+save_table(sf::st_drop_geometry(sf_dat) %>% select(lisa_I, lisa_p, hotspot),
+           "lisa_hotspot_flags.csv")
+
+# ---- I) Save the final object for reuse ----
+saveRDS(FULL, file.path(out_dir, "FULL_with_PCs_index.rds"))
