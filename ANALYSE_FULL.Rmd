@@ -646,13 +646,15 @@ wide_pca <- prcomp(wide_pca_scaled)
 pc_scores <- as.data.frame(wide_pca$x)
 names(pc_scores) <- paste0("PC", seq_len(ncol(pc_scores)))
 ```
+
 2) PC-Spalten an FULL dranhängen
 
 ```{r}
 FULL <- dplyr::bind_cols(FULL, pc_scores)
 ```
 
-```{r}
+
+``{r}
 
 ```
 
