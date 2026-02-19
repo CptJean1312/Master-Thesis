@@ -24,11 +24,22 @@ suppressPackageStartupMessages({
 gpkg_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg"
 
 FULL <- sf::st_read(gpkg_path, quiet = TRUE)
+# ---- 1b) Elbe preprocessing (robust overlay) ----
 elbe_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/PHYSISCH.nosync/RIGHT PROJECTION/Elbe.gpkg"
 ELBE <- sf::st_read(elbe_path, quiet = TRUE)
+# Drop Z/M dimensions (can break plotting in some setups)
+ELBE <- sf::st_zm(ELBE, drop = TRUE, what = "ZM")
+# Ensure valid geometry
+ELBE <- sf::st_make_valid(ELBE)
+# CRS match
+if (is.na(sf::st_crs(ELBE))) {
+  stop("ELBE layer has no CRS. Please assign the correct CRS before transforming.")
+}
 if (sf::st_crs(ELBE) != sf::st_crs(FULL)) {
   ELBE <- sf::st_transform(ELBE, sf::st_crs(FULL))
 }
+# If Elbe is MULTILINESTRING, cast to LINESTRING for consistent plotting
+ELBE <- suppressWarnings(sf::st_cast(ELBE, "LINESTRING"))
 
 # ---- 2) Define hazard outcomes (HQ100 zones) ----
 FULL <- FULL %>%
@@ -257,7 +268,7 @@ print(AIC(m_ols, sar, sem))
 
 # ---- helper: clean map theme ----
 map_theme <- function() {
-  theme_minimal() +
+  ggplot2::theme_minimal() +
     theme(
       panel.grid.major = element_blank(),
       panel.grid.minor = element_blank()
@@ -271,9 +282,9 @@ dir.create(file.path(out_dir, "plots"), showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(out_dir, "tables"), showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(out_dir, "maps"), showWarnings = FALSE, recursive = TRUE)
 
-save_plot <- function(p, filename, w = 8, h = 5) {
+save_plot <- function(p, filename, w = 8, h = 5, subdir = "plots") {
   ggplot2::ggsave(
-    filename = file.path(out_dir, "plots", filename),
+    filename = file.path(out_dir, subdir, filename),
     plot = p, width = w, height = h, dpi = 300
   )
 }
@@ -369,8 +380,8 @@ map_risk <- ggplot(FULL) +
   labs(title = "Residual risk (HQ100, zone 1)", fill = "risk share") +
   map_theme()
 
-save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7)
-save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7)
+save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7, subdir = "maps")
+save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7, subdir = "maps")
 
 # PCs 1–4 maps
 for (pc in paste0("PC", 1:4)) {
@@ -381,42 +392,81 @@ for (pc in paste0("PC", 1:4)) {
     labs(title = paste("Map of", pc), fill = pc) +
     map_theme()
 
-  save_plot(p, paste0("map_", pc, ".png"), w = 9, h = 7)
+  save_plot(p, paste0("map_", pc, ".png"), w = 9, h = 7, subdir = "maps")
 }
 
-## ---- H) Local Moran (LISA) classes ----
+# ---- H) Local Moran (LISA): hotspot flag + cluster classes ----
 x <- sf_dat$risk
 x_lag <- spdep::lag.listw(lw, x, zero.policy = TRUE)
 
 lisa <- spdep::localmoran(x, lw, zero.policy = TRUE)
+
+# robustly find the p-value column (spdep versions differ)
+p_col <- grep("^Pr\\(", colnames(lisa), value = TRUE)
+if (length(p_col) == 0) {
+  p_col <- grep("^Pr", colnames(lisa), value = TRUE)
+}
+if (length(p_col) == 0) stop("Could not find p-value column in localmoran output.")
+
 sf_dat$lisa_I <- lisa[, "Ii"]
-sf_dat$lisa_p <- lisa[, "Pr(z != E(Ii))"]
+sf_dat$lisa_p <- lisa[, p_col[1]]
 
 # center values
 x_c <- x - mean(x, na.rm = TRUE)
 lag_c <- x_lag - mean(x_lag, na.rm = TRUE)
 
+# hotspot flag (your old logic): significant & positive local I
+sf_dat$hotspot <- !is.na(sf_dat$lisa_p) & (sf_dat$lisa_p < 0.05) & (sf_dat$lisa_I > 0)
+
+# cluster classes
 sf_dat$lisa_class <- "Not significant"
-sig <- sf_dat$lisa_p < 0.05
+sig <- !is.na(sf_dat$lisa_p) & (sf_dat$lisa_p < 0.05)
 
 sf_dat$lisa_class[sig & x_c > 0 & lag_c > 0] <- "High-High"
 sf_dat$lisa_class[sig & x_c < 0 & lag_c < 0] <- "Low-Low"
 sf_dat$lisa_class[sig & x_c > 0 & lag_c < 0] <- "High-Low"
 sf_dat$lisa_class[sig & x_c < 0 & lag_c > 0] <- "Low-High"
 
+# enforce stable legend order
+sf_dat$lisa_class <- factor(
+  sf_dat$lisa_class,
+  levels = c("High-High", "Low-Low", "High-Low", "Low-High", "Not significant")
+)
+
 lisa_map <- ggplot(sf_dat) +
   geom_sf(aes(fill = lisa_class), color = NA) +
   geom_sf(data = ELBE, linewidth = 0.35) +
   coord_sf(datum = NA) +
-  labs(title = "LISA clusters of residual risk (Local Moran, p<0.05)", fill = "Cluster") +
+  labs(
+    title = "LISA clusters of residual risk (Local Moran, p<0.05)",
+    subtitle = "Categories: High-High / Low-Low are clusters; High-Low / Low-High are spatial outliers",
+    fill = "Cluster"
+  ) +
   map_theme()
 
-save_plot(lisa_map, "map_lisa_clusters.png", w = 9, h = 7)
+save_plot(lisa_map, "map_lisa_clusters.png", w = 9, h = 7, subdir = "maps")
+
+# also export a simple hotspot map for quick communication
+hotspot_map <- ggplot(sf_dat) +
+  geom_sf(aes(fill = hotspot), color = NA) +
+  geom_sf(data = ELBE, linewidth = 0.35) +
+  coord_sf(datum = NA) +
+  labs(title = "Hotspots of residual risk (Local Moran, p<0.05)", fill = "hotspot") +
+  map_theme()
+
+save_plot(hotspot_map, "map_hotspots_lisa.png", w = 9, h = 7, subdir = "maps")
 
 save_table(
-  sf::st_drop_geometry(sf_dat) %>% select(lisa_I, lisa_p, lisa_class),
+  sf::st_drop_geometry(sf_dat) %>% select(lisa_I, lisa_p, hotspot, lisa_class),
   "lisa_clusters.csv"
 )
 
----- I) Save the final object for reuse ----
+#---- I) Save the final object for reuse ----
 saveRDS(FULL, file.path(out_dir, "FULL_with_PCs_index.rds"))
+
+
+
+
+
+
+
