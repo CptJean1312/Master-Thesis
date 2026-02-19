@@ -16,6 +16,7 @@ suppressPackageStartupMessages({
   library(broom)
   library(spdep)
   library(spatialreg)
+  library(tibble)
 })
 
 # ---- 1) Load data ----
@@ -23,6 +24,11 @@ suppressPackageStartupMessages({
 gpkg_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg"
 
 FULL <- sf::st_read(gpkg_path, quiet = TRUE)
+elbe_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/PHYSISCH.nosync/RIGHT PROJECTION/Elbe.gpkg"
+ELBE <- sf::st_read(elbe_path, quiet = TRUE)
+if (sf::st_crs(ELBE) != sf::st_crs(FULL)) {
+  ELBE <- sf::st_transform(ELBE, sf::st_crs(FULL))
+}
 
 # ---- 2) Define hazard outcomes (HQ100 zones) ----
 FULL <- FULL %>%
@@ -188,6 +194,18 @@ idx12 <- build_index(FULL, k = 12, scree_tbl = scree_df)
 FULL$vuln_index_sens12 <- idx12$raw
 FULL$vuln_index_sens12_z <- idx12$z
 
+# ---- 6b) lock index direction: higher = more vulnerable ----
+# Use ALG2 share as anchor (should be positively related to vulnerability)
+anchor_cor <- cor(FULL$vuln_index_main_z, FULL$share_alg2_sgb2, use = "complete.obs")
+
+if (!is.na(anchor_cor) && anchor_cor < 0) {
+  FULL$vuln_index_main_z <- -FULL$vuln_index_main_z
+  FULL$vuln_index_main   <- -FULL$vuln_index_main
+  message("Vulnerability index flipped so that higher = more vulnerable (anchor cor was negative).")
+} else {
+  message("Vulnerability index direction OK (anchor cor >= 0).")
+}
+
 # ---- 7) Regression block (OLS + optional spatial) ----
 df <- FULL %>%
   sf::st_drop_geometry() %>%
@@ -236,6 +254,15 @@ print(AIC(m_ols, sar, sem))
 # ============================================================
 # 11) OUTPUTS: save tables + plots + key model results
 # ============================================================
+
+# ---- helper: clean map theme ----
+map_theme <- function() {
+  theme_minimal() +
+    theme(
+      panel.grid.major = element_blank(),
+      panel.grid.minor = element_blank()
+    )
+}
 
 # ---- A) output folders ----
 out_dir <- "outputs"
@@ -329,39 +356,67 @@ save_table(aic_tbl, "model_aic_comparison.csv")
 # ---- G) Maps: vuln index + risk + PCs 1–4 ----
 map_vuln <- ggplot(FULL) +
   geom_sf(aes(fill = vuln_index_main_z), color = NA) +
+  geom_sf(data = ELBE, linewidth = 0.35) +
+  coord_sf(datum = NA) +
   labs(title = "Vulnerability index (z)", fill = "vuln (z)") +
-  theme_minimal()
+  map_theme()
 
+# Risk Map
 map_risk <- ggplot(FULL) +
   geom_sf(aes(fill = residual_risk), color = NA) +
-  labs(title = "Residual risk (definition locked in script)", fill = "risk") +
-  theme_minimal()
+  geom_sf(data = ELBE, linewidth = 0.35) +
+  coord_sf(datum = NA) +
+  labs(title = "Residual risk (HQ100, zone 1)", fill = "risk share") +
+  map_theme()
 
 save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7)
 save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7)
 
+# PCs 1–4 maps
 for (pc in paste0("PC", 1:4)) {
   p <- ggplot(FULL) +
     geom_sf(aes(fill = .data[[pc]]), color = NA) +
+    geom_sf(data = ELBE, linewidth = 0.3) +
+    coord_sf(datum = NA) +
     labs(title = paste("Map of", pc), fill = pc) +
-    theme_minimal()
+    map_theme()
+
   save_plot(p, paste0("map_", pc, ".png"), w = 9, h = 7)
 }
 
-# ---- H) Hotspots (Local Moran / LISA) map ----
-lisa <- spdep::localmoran(sf_dat$risk, lw, zero.policy = TRUE)
+## ---- H) Local Moran (LISA) classes ----
+x <- sf_dat$risk
+x_lag <- spdep::lag.listw(lw, x, zero.policy = TRUE)
+
+lisa <- spdep::localmoran(x, lw, zero.policy = TRUE)
 sf_dat$lisa_I <- lisa[, "Ii"]
 sf_dat$lisa_p <- lisa[, "Pr(z != E(Ii))"]
-sf_dat$hotspot <- sf_dat$lisa_p < 0.05 & sf_dat$lisa_I > 0
 
-hotspot_map <- ggplot(sf_dat) +
-  geom_sf(aes(fill = hotspot), color = NA) +
-  labs(title = "Hotspots of residual risk (Local Moran, p<0.05)", fill = "hotspot") +
-  theme_minimal()
+# center values
+x_c <- x - mean(x, na.rm = TRUE)
+lag_c <- x_lag - mean(x_lag, na.rm = TRUE)
 
-save_plot(hotspot_map, "map_hotspots_lisa.png", w = 9, h = 7)
-save_table(sf::st_drop_geometry(sf_dat) %>% select(lisa_I, lisa_p, hotspot),
-           "lisa_hotspot_flags.csv")
+sf_dat$lisa_class <- "Not significant"
+sig <- sf_dat$lisa_p < 0.05
 
-# ---- I) Save the final object for reuse ----
+sf_dat$lisa_class[sig & x_c > 0 & lag_c > 0] <- "High-High"
+sf_dat$lisa_class[sig & x_c < 0 & lag_c < 0] <- "Low-Low"
+sf_dat$lisa_class[sig & x_c > 0 & lag_c < 0] <- "High-Low"
+sf_dat$lisa_class[sig & x_c < 0 & lag_c > 0] <- "Low-High"
+
+lisa_map <- ggplot(sf_dat) +
+  geom_sf(aes(fill = lisa_class), color = NA) +
+  geom_sf(data = ELBE, linewidth = 0.35) +
+  coord_sf(datum = NA) +
+  labs(title = "LISA clusters of residual risk (Local Moran, p<0.05)", fill = "Cluster") +
+  map_theme()
+
+save_plot(lisa_map, "map_lisa_clusters.png", w = 9, h = 7)
+
+save_table(
+  sf::st_drop_geometry(sf_dat) %>% select(lisa_I, lisa_p, lisa_class),
+  "lisa_clusters.csv"
+)
+
+---- I) Save the final object for reuse ----
 saveRDS(FULL, file.path(out_dir, "FULL_with_PCs_index.rds"))
