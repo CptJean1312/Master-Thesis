@@ -38,7 +38,12 @@ dir.create(file.path(out_dir, "maps"), showWarnings = FALSE, recursive = TRUE)
 save_plot <- function(p, filename, w = 8, h = 5, subdir = "plots") {
   ggsave(
     filename = file.path(out_dir, subdir, filename),
-    plot = p, width = w, height = h, dpi = 300
+    plot = p,
+    width = w,
+    height = h,
+    dpi = 300,
+    bg = "white",
+    limitsize = FALSE
   )
 }
 
@@ -46,11 +51,21 @@ save_table <- function(x, filename) {
   readr::write_csv(x, file.path(out_dir, "tables", filename))
 }
 
-map_theme <- function() {
-  theme_minimal() +
+map_theme <- function(base_size = 11) {
+  theme_void(base_size = base_size) +
     theme(
-      panel.grid.major = element_blank(),
-      panel.grid.minor = element_blank()
+      plot.background  = element_rect(fill = "white", color = NA),
+      panel.background = element_rect(fill = "white", color = NA),
+
+      legend.position  = "right",
+      legend.title     = element_text(size = base_size),
+      legend.text      = element_text(size = base_size - 1),
+      legend.background = element_rect(fill = "white", color = NA),
+      legend.key        = element_rect(fill = "white", color = NA),
+
+      plot.title    = element_text(face = "bold", size = base_size + 2, hjust = 0),
+      plot.subtitle = element_text(size = base_size, hjust = 0),
+      plot.caption  = element_text(size = base_size - 2, hjust = 0)
     )
 }
 
@@ -275,8 +290,25 @@ sf_dat <- FULL %>%
   mutate(vuln = vuln_index_main_z, prot = share_protected, risk = residual_risk) %>%
   filter(!is.na(vuln), !is.na(prot), !is.na(risk))
 
-nb <- spdep::poly2nb(sf_dat, queen = TRUE)
-lw <- spdep::nb2listw(nb, style = "W", zero.policy = TRUE)
+# ---- weights: try contiguity, fall back to k-nearest neighbours if needed ----
+make_listw <- function(sf_polys, queen = TRUE, snap = 50, k = 4) {
+  nb1 <- spdep::poly2nb(sf_polys, queen = queen, snap = snap)
+  has_islands <- any(spdep::card(nb1) == 0)
+  n_subgraphs <- tryCatch({
+    length(spdep::n.comp.nb(nb1)$comp.id)
+  }, error = function(e) NA_integer_)
+
+  if (isTRUE(has_islands) || (!is.na(n_subgraphs) && n_subgraphs > 1)) {
+    message("Neighbour warning (islands/subgraphs). Using k-nearest neighbours (k=", k, ") on centroids.")
+    ctr <- sf::st_coordinates(sf::st_centroid(sf::st_geometry(sf_polys)))
+    nb_knn <- spdep::knn2nb(spdep::knearneigh(ctr, k = k))
+    return(spdep::nb2listw(nb_knn, style = "W", zero.policy = TRUE))
+  }
+
+  spdep::nb2listw(nb1, style = "W", zero.policy = TRUE)
+}
+
+lw <- make_listw(sf_dat, queen = TRUE, snap = 50, k = 4)
 
 e <- resid(lm(risk ~ vuln * prot, data = sf::st_drop_geometry(sf_dat)))
 moran_res <- spdep::moran.test(e, lw, zero.policy = TRUE)
@@ -295,13 +327,13 @@ scree_plot <- ggplot(scree_df, aes(x = PC, y = Eigenvalue)) +
   geom_line() + geom_point() +
   geom_hline(yintercept = 1, linetype = "dashed") +
   labs(title = "Scree Plot (Kaiser)", x = "PC", y = "Eigenvalue") +
-  theme_minimal()
+  theme_classic()
 
 cumvar_plot <- ggplot(scree_df, aes(x = PC, y = Cumulative)) +
   geom_line() + geom_point() +
   geom_hline(yintercept = 0.7, linetype = "dashed") +
   labs(title = "Cumulative Variance", x = "PC", y = "Cumulative") +
-  theme_minimal()
+  theme_classic()
 
 save_plot(scree_plot, "scree_kaiser.png")
 save_plot(cumvar_plot, "cumulative_variance.png")
@@ -326,12 +358,17 @@ save_table(top_loadings, "pca_top_loadings_top8_per_pc.csv")
 save_table(ols_tidy, "regression_ols_interaction_tidy.csv")
 save_table(as.data.frame(ols_fit), "regression_ols_interaction_fit.csv")
 
+#
 # Maps (with Elbe overlay)
 map_vuln <- ggplot(FULL) +
   geom_sf(aes(fill = vuln_index_main_z), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
   coord_sf(datum = NA) +
-  labs(title = "Vulnerability index (z)", fill = "vuln") +
+  labs(
+    title = "Socio-economic vulnerability index (PCA-weighted)",
+    subtitle = "Municipality-level z-score (higher = more vulnerable)",
+    fill = "Index (z)"
+  ) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
 
@@ -339,7 +376,11 @@ map_risk <- ggplot(FULL) +
   geom_sf(aes(fill = residual_risk), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
   coord_sf(datum = NA) +
-  labs(title = "Residual risk (HQ100 zone 1 share)", fill = "risk") +
+  labs(
+    title = "Unprotected flood exposure (HQ100)",
+    subtitle = "Share of municipality area in official floodplain (Zone 1)",
+    fill = "Share"
+  ) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
 
@@ -386,11 +427,26 @@ sf_dat$lisa_class <- factor(sf_dat$lisa_class,
   levels = c("High-High", "Low-Low", "High-Low", "Low-High", "Not significant")
 )
 
+#
 lisa_map <- ggplot(sf_dat) +
   geom_sf(aes(fill = lisa_class), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
   coord_sf(datum = NA) +
-  labs(title = "LISA clusters of residual risk (p<0.05)", fill = "Cluster") +
+  scale_fill_manual(
+    values = c(
+      "High-High" = "#d73027",
+      "Low-Low" = "#4575b4",
+      "High-Low" = "#fdae61",
+      "Low-High" = "#74add1",
+      "Not significant" = "grey85"
+    ),
+    drop = FALSE
+  ) +
+  labs(
+    title = "Local Moran’s I clusters of unprotected flood exposure",
+    subtitle = "p < 0.05; based on queen contiguity (fallback: kNN if needed)",
+    fill = "Cluster"
+  ) +
   map_theme()
 
 save_plot(lisa_map, "map_lisa_clusters.png", w = 9, h = 7, subdir = "maps")
