@@ -1,0 +1,235 @@
+# ============================================================
+# Elbe Flood Risk & Justice Analysis — CLEAN PIPELINE
+# Author: Maxi Ahl
+# Date: 2026-02-19
+# Purpose: Reproducible PCA-based vulnerability index + regression + spatial diagnostics
+# ============================================================
+
+# ---- 0) Libraries ----
+suppressPackageStartupMessages({
+  library(sf)
+  library(dplyr)
+  library(tidyr)
+  library(stringr)
+  library(ggplot2)
+  library(readr)
+  library(broom)
+  library(spdep)
+  library(spatialreg)
+})
+
+# ---- 1) Load data ----
+# NOTE: adjust path once; keep everything else path-independent.
+gpkg_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg"
+
+FULL <- sf::st_read(gpkg_path, quiet = TRUE)
+
+# ---- 2) Define hazard outcomes (HQ100 zones) ----
+FULL <- FULL %>%
+  mutate(
+    exposure_share_flood_total = if_else(is.na(exposure_share_flood_total), 0, exposure_share_flood_total),
+    exposure_share_flood_zone1 = if_else(is.na(exposure_share_flood_zone1), 0, exposure_share_flood_zone1),
+    exposure_share_flood_zone2 = if_else(is.na(exposure_share_flood_zone2), 0, exposure_share_flood_zone2),
+    exposure_share_flood_zone3 = if_else(is.na(exposure_share_flood_zone3), 0, exposure_share_flood_zone3)
+  ) %>%
+  mutate(
+    share_total_hazard      = exposure_share_flood_total,
+    share_unprotected       = exposure_share_flood_zone1,
+    share_informational     = exposure_share_flood_zone2,
+    share_protected_hazard  = exposure_share_flood_zone3,
+
+    # supervisor-consistent interpretation in your notes:
+    residual_risk = share_unprotected,
+
+    protection_share_of_hazard = if_else(
+      share_total_hazard > 0,
+      share_protected_hazard / share_total_hazard,
+      NA_real_
+    )
+  )
+
+# quick consistency check
+check_diff <- FULL %>%
+  sf::st_drop_geometry() %>%
+  transmute(diff = share_total_hazard - (share_unprotected + share_informational + share_protected_hazard))
+
+stopifnot(is.finite(mean(check_diff$diff, na.rm = TRUE)))
+
+# ---- 3) Wide PCA inputs (socio-economic indicators) ----
+wide_pca_vars <- FULL %>%
+  sf::st_drop_geometry() %>%
+  dplyr::select(
+    # Poverty / Welfare
+    exposure_share_alg2_sgb2,
+    exposure_share_bg_single_parent,
+    exposure_share_bg_5plus,
+    exposure_share_bg_with_children,
+    exposure_share_sgb2_with_housing_costs,
+
+    # Unemployment
+    exposure_share_longterm_unemp,
+    exposure_unemp_u25_per_1000,
+    exposure_unemp_55plus_per_1000,
+
+    # Income / Fiscal
+    exposure_income_tax_per_capita,
+    exposure_purchasing_power,
+    exposure_trade_tax_per_capita,
+    exposure_tax_revenue_total,
+
+    # Demography
+    exposure_share_age_0_3,
+    exposure_share_age_3_6,
+    exposure_share_age_6_18,
+    exposure_share_age_18_25,
+    exposure_share_age_25_30,
+    exposure_share_age_30_50,
+    exposure_share_age_50_65,
+    exposure_share_age_65_75,
+    exposure_share_age_65plus,
+    exposure_share_age_75plus,
+
+    # Population dynamics
+    exposure_natural_pop_change,
+    exposure_migration_balance,
+
+    # Dependency
+    exposure_old_age_dependency,
+    exposure_youth_dependency,
+    exposure_young_old_ratio,
+
+    # Household
+    exposure_share_single_households,
+    exposure_share_households_with_children,
+
+    # Income / education
+    exposure_share_hh_income_high,
+    exposure_share_hh_income_medium,
+    exposure_share_hh_income_low,
+    exposure_students_total_per_1000,
+    exposure_students_18_25_per_1000,
+    exposure_students_fh_per_1000,
+
+    # Health
+    exposure_gp_general_per_1000,
+    exposure_gp_primary_per_1000,
+    exposure_internists_per_1000,
+    exposure_pediatricians_per_1000_children,
+    exposure_doctors_total_per_1000,
+
+    # Digital
+    exposure_share_bb_1000mbit,
+    exposure_share_bb_100mbit,
+    exposure_share_bb_50mbit,
+    exposure_share_4g,
+
+    # Accessibility
+    exposure_dist_supermarket_m,
+    exposure_dist_pharmacy_m,
+    exposure_dist_gp_m,
+    exposure_dist_public_transport_m,
+    exposure_dist_primary_school_m,
+
+    # Density
+    exposure_pop_density_per_km2,
+    exposure_employment_density_per_km2
+  ) %>%
+  mutate(across(everything(), as.numeric)) %>%
+  rename_with(~ stringr::str_remove(.x, "^exposure_"))
+
+# ---- 4) PCA with median imputation (keeps ALL municipalities) ----
+impute_median <- function(x) { x[is.na(x)] <- median(x, na.rm = TRUE); x }
+
+wide_pca_imp <- wide_pca_vars %>%
+  mutate(across(everything(), impute_median))
+
+wide_pca_scaled <- scale(wide_pca_imp)
+
+wide_pca <- prcomp(wide_pca_scaled)
+
+# attach PC scores back into FULL
+pc_scores <- as.data.frame(wide_pca$x)
+names(pc_scores) <- paste0("PC", seq_len(ncol(pc_scores)))
+FULL <- bind_cols(FULL, pc_scores)
+
+# ---- 5) Scree table (for weights + reporting) ----
+pca_var <- wide_pca$sdev^2
+pca_var_prop <- pca_var / sum(pca_var)
+
+scree_df <- tibble(
+  PC = seq_along(pca_var),
+  Eigenvalue = pca_var,
+  Variance = pca_var_prop,
+  Cumulative = cumsum(pca_var_prop)
+)
+
+# ---- 6) Vulnerability index (main + sensitivity) ----
+build_index <- function(dat, k, scree_tbl) {
+  w <- scree_tbl$Variance[1:k]
+  names(w) <- paste0("PC", 1:k)
+
+  pc_mat <- dat %>%
+    sf::st_drop_geometry() %>%
+    dplyr::select(all_of(names(w))) %>%
+    as.matrix()
+
+  idx <- as.numeric(pc_mat %*% w)
+  z <- as.numeric(scale(idx))
+  list(raw = idx, z = z)
+}
+
+# main (PC1–PC8)
+idx8 <- build_index(FULL, k = 8, scree_tbl = scree_df)
+FULL$vuln_index_main <- idx8$raw
+FULL$vuln_index_main_z <- idx8$z
+
+# sensitivity (PC1–PC12)
+idx12 <- build_index(FULL, k = 12, scree_tbl = scree_df)
+FULL$vuln_index_sens12 <- idx12$raw
+FULL$vuln_index_sens12_z <- idx12$z
+
+# ---- 7) Regression block (OLS + optional spatial) ----
+df <- FULL %>%
+  sf::st_drop_geometry() %>%
+  transmute(
+    vuln = vuln_index_main_z,
+    prot = share_protected,
+    risk = residual_risk
+  ) %>%
+  filter(!is.na(vuln), !is.na(prot), !is.na(risk))
+
+m_ols <- lm(risk ~ vuln * prot, data = df)
+ols_tidy <- broom::tidy(m_ols, conf.int = TRUE)
+ols_fit  <- broom::glance(m_ols)
+
+print(summary(m_ols))
+print(ols_tidy)
+
+# ---- 8) Spatial autocorrelation diagnostic (Moran’s I on OLS residuals) ----
+sf_dat <- FULL %>%
+  mutate(
+    vuln = vuln_index_main_z,
+    prot = share_protected,
+    risk = residual_risk
+  ) %>%
+  filter(!is.na(vuln), !is.na(prot), !is.na(risk))
+
+nb <- spdep::poly2nb(sf_dat, queen = TRUE)
+lw <- spdep::nb2listw(nb, style = "W", zero.policy = TRUE)
+
+e <- resid(lm(risk ~ vuln * prot, data = sf::st_drop_geometry(sf_dat)))
+moran_res <- spdep::moran.test(e, lw, zero.policy = TRUE)
+
+print(moran_res)
+
+# ---- 9) Optional spatial models (only interpret if Moran’s I suggests dependence) ----
+sar <- spatialreg::lagsarlm(risk ~ vuln * prot, data = sf_dat, listw = lw, zero.policy = TRUE)
+sem <- spatialreg::errorsarlm(risk ~ vuln * prot, data = sf_dat, listw = lw, zero.policy = TRUE)
+
+print(summary(sar))
+print(summary(sem))
+print(AIC(m_ols, sar, sem))
+
+# ---- 10) Outputs you’ll likely want to save ----
+# saveRDS(FULL, "analysis/FULL_with_PCs_and_index.rds")
+# write.csv(sf::st_drop_geometry(FULL), "tables/municipality_results.csv", row.names = FALSE)
