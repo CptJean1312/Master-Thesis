@@ -17,6 +17,7 @@ suppressPackageStartupMessages({
   library(spdep)
   library(spatialreg)
   library(tibble)
+  library(ggspatial)
 })
 
 options(scipen = 999)
@@ -52,8 +53,11 @@ save_table <- function(x, filename) {
 }
 
 map_theme <- function(base_size = 11) {
-  theme_void(base_size = base_size) +
+  theme_minimal(base_size = base_size) +
     theme(
+      panel.grid.major = element_line(color = "grey85", linewidth = 0.3),
+      panel.grid.minor = element_blank(),
+
       plot.background  = element_rect(fill = "white", color = NA),
       panel.background = element_rect(fill = "white", color = NA),
 
@@ -67,6 +71,24 @@ map_theme <- function(base_size = 11) {
       plot.subtitle = element_text(size = base_size, hjust = 0),
       plot.caption  = element_text(size = base_size - 2, hjust = 0)
     )
+}
+
+map_annotations <- function() {
+  list(
+    annotation_north_arrow(
+      location = "tl",
+      which_north = "true",
+      style = north_arrow_fancy_orienteering,
+      height = unit(1.2, "cm"),
+      width = unit(1.2, "cm")
+    ),
+    annotation_scale(
+      location = "bl",
+      width_hint = 0.25,
+      line_width = 0.6,
+      text_cex = 0.7
+    )
+  )
 }
 
 # ============================================================
@@ -363,7 +385,8 @@ save_table(as.data.frame(ols_fit), "regression_ols_interaction_fit.csv")
 map_vuln <- ggplot(FULL) +
   geom_sf(aes(fill = vuln_index_main_z), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
-  coord_sf(datum = NA) +
+  coord_sf(crs = 25832) +
+  map_annotations() +
   labs(
     title = "Socio-economic vulnerability index (PCA-weighted)",
     subtitle = "Municipality-level z-score (higher = more vulnerable)",
@@ -375,7 +398,8 @@ map_vuln <- ggplot(FULL) +
 map_risk <- ggplot(FULL) +
   geom_sf(aes(fill = residual_risk), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
-  coord_sf(datum = NA) +
+  coord_sf(crs = 25832) +
+  map_annotations() +
   labs(
     title = "Unprotected flood exposure (HQ100)",
     subtitle = "Share of municipality area in official floodplain (Zone 1)",
@@ -391,7 +415,8 @@ for (pc in paste0("PC", 1:4)) {
   p <- ggplot(FULL) +
     geom_sf(aes(fill = .data[[pc]]), color = NA) +
     geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.3) +
-    coord_sf(datum = NA) +
+    coord_sf(crs = 25832) +
+    map_annotations() +
     labs(title = paste("Map of", pc), fill = pc) +
     scale_fill_viridis_c(option = "C") +
     map_theme()
@@ -431,7 +456,8 @@ sf_dat$lisa_class <- factor(sf_dat$lisa_class,
 lisa_map <- ggplot(sf_dat) +
   geom_sf(aes(fill = lisa_class), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
-  coord_sf(datum = NA) +
+  coord_sf(crs = 25832) +
+  map_annotations() +
   scale_fill_manual(
     values = c(
       "High-High" = "#d73027",
