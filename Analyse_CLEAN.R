@@ -69,7 +69,7 @@ map_theme <- function(base_size = 11) {
 
       plot.title    = element_text(face = "bold", size = base_size + 2, hjust = 0),
       plot.subtitle = element_text(size = base_size, hjust = 0),
-      plot.caption  = element_text(size = base_size - 2, hjust = 0)
+      plot.caption  = element_text(size = base_size - 3, hjust = 1)
     )
 }
 
@@ -389,8 +389,9 @@ map_vuln <- ggplot(FULL) +
   map_annotations() +
   labs(
     title = "Socio-economic vulnerability index (PCA-weighted)",
-    subtitle = "Municipality-level z-score (higher = more vulnerable)",
-    fill = "Index (z)"
+    subtitle = "Composite index based on income, unemployment, demography, accessibility",
+    fill = "Index (z)",
+    caption = "Source: BfG, BBSR (INKAR), RKI (GISD). Own processing."
   ) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
@@ -403,7 +404,8 @@ map_risk <- ggplot(FULL) +
   labs(
     title = "Unprotected flood exposure (HQ100)",
     subtitle = "Share of municipality area in official floodplain (Zone 1)",
-    fill = "Share"
+    fill = "Share",
+    caption = "Source: BfG flood hazard data. Own processing."
   ) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
@@ -412,12 +414,32 @@ save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7, subdir = "maps"
 save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7, subdir = "maps")
 
 for (pc in paste0("PC", 1:4)) {
+
+  pc_titles <- c(
+    PC1 = "PC1: Socio-economic disadvantage & welfare dependency",
+    PC2 = "PC2: Urbanisation, density & accessibility",
+    PC3 = "PC3: Demographic ageing & dependency",
+    PC4 = "PC4: Education, students & human capital"
+  )
+
+  pc_subtitles <- c(
+    PC1 = "High loadings: ALG II, low income, unemployment, single households",
+    PC2 = "High loadings: population density, transport access, broadband",
+    PC3 = "High loadings: 65+, old-age dependency, low youth share",
+    PC4 = "High loadings: students, higher income, education indicators"
+  )
+
   p <- ggplot(FULL) +
     geom_sf(aes(fill = .data[[pc]]), color = NA) +
     geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.3) +
     coord_sf(crs = 25832) +
     map_annotations() +
-    labs(title = paste("Map of", pc), fill = pc) +
+    labs(
+      title = pc_titles[[pc]],
+      subtitle = pc_subtitles[[pc]],
+      fill = pc,
+      caption = "Source: INKAR (BBSR). PCA-based component scores. Own processing."
+    ) +
     scale_fill_viridis_c(option = "C") +
     map_theme()
 
@@ -470,8 +492,9 @@ lisa_map <- ggplot(sf_dat) +
   ) +
   labs(
     title = "Local Moran’s I clusters of unprotected flood exposure",
-    subtitle = "p < 0.05; based on queen contiguity (fallback: kNN if needed)",
-    fill = "Cluster"
+    subtitle = "Spatial clusters of Zone 1 exposure (p < 0.05)",
+    fill = "Cluster",
+    caption = "Source: BfG flood hazard data. Spatial analysis in R. Own processing."
   ) +
   map_theme()
 
