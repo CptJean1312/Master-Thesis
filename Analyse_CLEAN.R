@@ -396,6 +396,7 @@ map_vuln <- ggplot(FULL) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
 
+
 map_risk <- ggplot(FULL) +
   geom_sf(aes(fill = residual_risk), color = NA) +
   geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
@@ -412,6 +413,27 @@ map_risk <- ggplot(FULL) +
 
 save_plot(map_vuln, "map_vulnerability_index.png", w = 9, h = 7, subdir = "maps")
 save_plot(map_risk, "map_residual_risk.png", w = 9, h = 7, subdir = "maps")
+
+# Zone 1 – Zone 3 (requested quick diagnostic)
+# Note: Zone 3 is sparse in the current BfG basin-wide dataset; interpret with caution.
+FULL <- FULL %>%
+  mutate(zone1_minus_zone3 = share_unprotected - share_protected_hazard)
+
+map_zone1_minus_zone3 <- ggplot(FULL) +
+  geom_sf(aes(fill = zone1_minus_zone3), color = NA) +
+  geom_sf(data = ELBE, inherit.aes = FALSE, color = "black", linewidth = 0.35) +
+  coord_sf(crs = 25832) +
+  map_annotations() +
+  labs(
+    title = "Zone 1 – Zone 3 (HQ100)",
+    subtitle = "Difference in municipal area shares: official floodplain (Zone 1) minus protected area (Zone 3)",
+    fill = "Share diff",
+    caption = "Source: BfG flood hazard data (zones). Own processing. Zone 3 is sparse in the current dataset."
+  ) +
+  scale_fill_gradient2(midpoint = 0, name = "Share diff") +
+  map_theme()
+
+save_plot(map_zone1_minus_zone3, "map_zone1_minus_zone3.png", w = 9, h = 7, subdir = "maps")
 
 for (pc in paste0("PC", 1:4)) {
 
