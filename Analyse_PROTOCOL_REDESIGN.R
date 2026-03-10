@@ -493,7 +493,6 @@ MUN <- MUN %>%
     v_dep_longterm_unemp = exposure_share_longterm_unemp,
     v_dep_unemp_u25 = exposure_unemp_u25_per_1000,
     v_dep_purchasing_power = -exposure_purchasing_power,
-    v_dep_income_tax = -exposure_income_tax_per_capita,
     v_dep_income_low = exposure_share_hh_income_low,
 
     v_age_65plus = exposure_share_age_65plus,
@@ -503,12 +502,12 @@ MUN <- MUN %>%
     v_house_single_parent = exposure_share_bg_single_parent,
     v_house_single = exposure_share_single_households,
 
-    v_access_supermarket = exposure_dist_supermarket_m,
     v_access_pharmacy = exposure_dist_pharmacy_m,
     v_access_gp = exposure_dist_gp_m,
     v_access_pt = exposure_dist_public_transport_m,
-    v_access_doctors = -exposure_doctors_total_per_1000,
-    v_access_broadband = -exposure_share_bb_100mbit,
+    v_opt_doctors = -exposure_doctors_total_per_1000,
+    v_opt_supermarket = exposure_dist_supermarket_m,
+    v_opt_broadband = -exposure_share_bb_100mbit,
 
     ctl_density_log = log1p(exposure_pop_density_per_km2),
     ctl_pop_log = log1p(exposure_pop_total),
@@ -522,19 +521,18 @@ indicator_map <- tribble(
   "v_dep_longterm_unemp", "exposure_share_longterm_unemp", "exposure_share_longterm_unemp_year",
   "v_dep_unemp_u25", "exposure_unemp_u25_per_1000", "exposure_unemp_u25_per_1000_year",
   "v_dep_purchasing_power", "exposure_purchasing_power", "exposure_purchasing_power_year",
-  "v_dep_income_tax", "exposure_income_tax_per_capita", "exposure_income_tax_per_capita_year",
   "v_dep_income_low", "exposure_share_hh_income_low", "exposure_share_hh_income_low_year",
   "v_age_65plus", "exposure_share_age_65plus", "exposure_share_age_65plus_year",
   "v_age_75plus", "exposure_share_age_75plus", "exposure_share_age_75plus_year",
   "v_age_old_dep", "exposure_old_age_dependency", "exposure_old_age_dependency_year",
   "v_house_single_parent", "exposure_share_bg_single_parent", "exposure_share_bg_single_parent_year",
   "v_house_single", "exposure_share_single_households", "exposure_share_single_households_year",
-  "v_access_supermarket", "exposure_dist_supermarket_m", "exposure_dist_supermarket_m_year",
   "v_access_pharmacy", "exposure_dist_pharmacy_m", "exposure_dist_pharmacy_m_year",
   "v_access_gp", "exposure_dist_gp_m", "exposure_dist_gp_m_year",
   "v_access_pt", "exposure_dist_public_transport_m", "exposure_dist_public_transport_m_year",
-  "v_access_doctors", "exposure_doctors_total_per_1000", "exposure_doctors_total_per_1000_year",
-  "v_access_broadband", "exposure_share_bb_100mbit", "exposure_share_bb_100mbit_year"
+  "v_opt_doctors", "exposure_doctors_total_per_1000", "exposure_doctors_total_per_1000_year",
+  "v_opt_supermarket", "exposure_dist_supermarket_m", "exposure_dist_supermarket_m_year",
+  "v_opt_broadband", "exposure_share_bb_100mbit", "exposure_share_bb_100mbit_year"
 )
 
 year_audit <- indicator_map %>%
@@ -559,7 +557,6 @@ domain_specs <- list(
     "v_dep_longterm_unemp",
     "v_dep_unemp_u25",
     "v_dep_purchasing_power",
-    "v_dep_income_tax",
     "v_dep_income_low"
   ),
   age = c(
@@ -572,12 +569,9 @@ domain_specs <- list(
     "v_house_single"
   ),
   access = c(
-    "v_access_supermarket",
     "v_access_pharmacy",
     "v_access_gp",
-    "v_access_pt",
-    "v_access_doctors",
-    "v_access_broadband"
+    "v_access_pt"
   )
 )
 
@@ -609,7 +603,13 @@ MUN <- MUN %>%
 # 8) Full PCA sensitivity with selected relevant components
 # ============================================================
 
-candidate_vars <- unique(unlist(domain_specs))
+optional_vars <- c(
+  "v_opt_doctors",
+  "v_opt_supermarket",
+  "v_opt_broadband"
+)
+
+candidate_vars <- unique(c(unlist(domain_specs), optional_vars))
 candidate_df <- MUN %>%
   sf::st_drop_geometry() %>%
   dplyr::select(all_of(candidate_vars)) %>%
@@ -619,7 +619,7 @@ candidate_scaled <- scale(candidate_df)
 full_pca <- prcomp(candidate_scaled)
 
 anchor_components <- intersect(
-  c("v_dep_alg2", "v_dep_longterm_unemp", "v_dep_purchasing_power", "v_dep_income_tax"),
+  c("v_dep_alg2", "v_dep_sgb2_housing", "v_dep_longterm_unemp", "v_dep_purchasing_power"),
   colnames(candidate_scaled)
 )
 anchor_score <- rowMeans(candidate_scaled[, anchor_components, drop = FALSE], na.rm = TRUE)

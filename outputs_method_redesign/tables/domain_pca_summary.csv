@@ -1,5 +1,5 @@
 domain,n_vars,method,pc1_variance,kept_variables
-deprivation,7,PC1,0.4205063173362583,v_dep_alg2; v_dep_sgb2_housing; v_dep_longterm_unemp; v_dep_unemp_u25; v_dep_purchasing_power; v_dep_income_tax; v_dep_income_low
+deprivation,6,PC1,0.38126696309969976,v_dep_alg2; v_dep_sgb2_housing; v_dep_longterm_unemp; v_dep_unemp_u25; v_dep_purchasing_power; v_dep_income_low
 age,3,PC1,0.9048192473677674,v_age_65plus; v_age_75plus; v_age_old_dep
 household,2,PC1,0.5005614805273833,v_house_single_parent; v_house_single
-access,6,PC1,0.5137183841736732,v_access_supermarket; v_access_pharmacy; v_access_gp; v_access_pt; v_access_doctors; v_access_broadband
+access,3,PC1,0.7128571984409541,v_access_pharmacy; v_access_gp; v_access_pt

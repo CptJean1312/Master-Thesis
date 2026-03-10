@@ -13,6 +13,7 @@ Der zentrale Unterschied zum alten Stand ist:
   - Haushalts- und Sozialstruktur
   - alltagsbezogene Erreichbarkeit und adaptive Kapazitaet
 - GISD wird bewusst noch nicht verwendet. Es bleibt fuer einen spaeteren Validierungs- oder Robustheitsschritt reserviert.
+- Die finale Variablenauswahl folgt jetzt dem zuletzt abgestimmten Excel-Stand: Kernindex, optionale Sensitivitaetsvariablen und ausgeschlossene Kontextindikatoren sind explizit getrennt.
 
 ## Konzeptuelle Basis
 
@@ -54,7 +55,6 @@ Verwendete Variablen:
 - `exposure_share_longterm_unemp`
 - `exposure_unemp_u25_per_1000`
 - `exposure_purchasing_power` (invertiert)
-- `exposure_income_tax_per_capita` (invertiert)
 - `exposure_share_hh_income_low`
 
 Begruendung:
@@ -112,25 +112,35 @@ Literaturbasis:
 
 Verwendete Variablen:
 
-- `exposure_dist_supermarket_m`
-- `exposure_dist_pharmacy_m`
-- `exposure_dist_gp_m`
 - `exposure_dist_public_transport_m`
-- `exposure_doctors_total_per_1000` (invertiert)
-- `exposure_share_bb_100mbit` (invertiert)
+- `exposure_dist_gp_m`
+- `exposure_dist_pharmacy_m`
 
 Begruendung:
 
 - Diese Gruppe operationalisiert keine Armut, sondern alltagspraktische Anpassungs- und Bewaeltigungskapazitaet.
-- Lange Wege zu Grundversorgung und OePNV deuten auf geringere Alltagsresilienz und schlechtere Erreichbarkeit von Hilfs- und Gesundheitsinfrastruktur hin.
-- Arztversorgung pro 1000 Einwohner ist ein grober, aber plausibler Health-Capacity-Proxy.
-- Breitband ist konzeptionell der schwaechste, aber noch vertretbare Indikator in dieser Gruppe: Er dient als Proxy fuer Informationszugang, digitale Erreichbarkeit und administrative/kommunikative Handlungsfaehigkeit.
+- Lange Wege zu OePNV, hausarztlicher Versorgung und Apotheke deuten auf geringere Alltagsresilienz und schlechtere Erreichbarkeit von Hilfs- und Gesundheitsinfrastruktur hin.
+- Die reduzierte Fassung dieser Domäne vermeidet, dass der Kernindex zu stark laendliche Versorgungsstruktur oder allgemeine Infrastrukturmodernisierung abbildet.
 
 Literaturbasis:
 
 - IPCC AR6 WGII Chapter 1
 - Rufat et al. (2015)
 - Hinkel (2011)
+
+## Optionale Robustheitsvariablen
+
+Die folgenden Variablen werden bewusst nicht im Hauptindex verwendet, aber fuer Sensitivitaetschecks im Code vorgehalten:
+
+- `exposure_doctors_total_per_1000` (invertiert)
+- `exposure_dist_supermarket_m`
+- `exposure_share_bb_100mbit` (invertiert)
+
+Begruendung:
+
+- Alle drei Variablen sind inhaltlich plausibel, aber konzeptionell indirekter als die Kernindikatoren.
+- Sie koennen teilweise laendliche Lage, Versorgungsorganisation oder generelle Infrastrukturmodernisierung mitabbilden.
+- Genau deshalb eignen sie sich besser fuer Robustheitsanalysen als fuer den definitorischen Kern des Hauptindex.
 
 ## Was bewusst nicht im neuen Hauptindex ist
 
@@ -141,6 +151,7 @@ Die folgenden Variablentypen wurden im Redesign bewusst nicht in den Hauptindex 
 - `exposure_pop_total`
 - `exposure_tax_revenue_total`
 - `exposure_trade_tax_per_capita`
+- `exposure_income_tax_per_capita`
 - viele fein aufgeloeste Altersgruppen
 - mehrere parallele Einkommens- oder Breitbandstufen
 - mehrere hoch ueberlappende Arzt-Spezialisierungen
@@ -151,6 +162,7 @@ Begruendung:
 
 - Dichte und Bevoelkerung sind eher Siedlungs- bzw. Raumstruktur als soziale Vulnerabilitaet im engeren Sinn. Deshalb werden sie als Kontrollvariablen verwendet, nicht als Indexbestandteil.
 - Fiskalvariablen auf Gemeindeebene sagen eher etwas ueber kommunale Struktur als ueber household-level vulnerability.
+- Auch `income_tax_per_capita` ist eher ein allgemeiner Wohlstands- bzw. Strukturindikator und fuegt dem Kernset neben Kaufkraft und Niedrigeinkommensanteil keinen zwingenden Zusatznutzen hinzu.
 - Viele Alters-, Einkommens- und Infrastrukturvariablen sind mathematisch oder inhaltlich redundant. Sie wuerden in einer globalen PCA vor allem Urbanitaet und Datenskalierung verstaerken.
 - Studierendenvariablen sind fuer das Flood-Vulnerability-Konstrukt in deinem Setting zu ambivalent.
 - Bevoelkerungsdynamik und Migration sind interessante Kontextindikatoren, aber keine sauberen Kernmarker fuer Vulnerabilitaet in dieser Arbeit.
@@ -259,6 +271,7 @@ Warum:
 
 - Das schafft eine konsistente Richtung fuer die spaetere Aggregation.
 - Gleichzeitig wird explizit dokumentiert, was jede Variable inhaltlich bedeuten soll.
+- Dabei wird zwischen Kernvariablen fuer den Hauptindex und optionalen Robustheitsvariablen fuer Sensitivitaetslaeufe getrennt.
 
 ### Schritt 6: Year-Audit
 
@@ -299,7 +312,7 @@ Warum:
 
 Was:
 
-- zweite, datengetriebene Verdichtung ueber das reduzierte Gesamtset
+- zweite, datengetriebene Verdichtung ueber das reduzierte Kernset plus optionale Robustheitsvariablen
 - nur als Sensitivitaetsindex
 
 Warum:
@@ -366,4 +379,3 @@ Wenn du diese Logik in die Arbeit uebernimmst, ist der wichtigste argumentative 
 - Der Vulnerabilitaetsindex soll nicht "alles Soziale" abbilden.
 - Er soll nur diejenigen sozialen Merkmale abbilden, die in der Flood-Vulnerability-Literatur konsistent mit erhoehter Sensitivitaet oder verringerter Anpassungs- und Bewaeltigungskapazitaet verbunden sind.
 - Darum wurde die Indikatorzahl bewusst reduziert, in Domänen geordnet und transparent aggregiert.
-
