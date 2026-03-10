@@ -33,7 +33,6 @@ set.seed(42)
 
 mun_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_final_full.gpkg"
 elbe_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/PHYSISCH.nosync/RIGHT PROJECTION/Elbe.gpkg"
-gisd_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/SOCIOECONOMIC.nosync/GISD_Bund_Gemeinde.csv"
 eu_prot_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/EU_Flood_Maps/Flood_protection/peseta4_protection_nuts3.shp"
 agg1_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/AGG1_flood_by_zone_depth.gpkg"
 
@@ -353,38 +352,7 @@ save_table(
 )
 
 # ============================================================
-# 4) GISD integration
-# ============================================================
-
-GISD <- readr::read_csv(gisd_path, show_col_types = FALSE) %>%
-  mutate(
-    AGS_final = str_pad(as.character(gemeinde_id), width = 8, side = "left", pad = "0")
-  ) %>%
-  group_by(AGS_final) %>%
-  slice_max(order_by = year, n = 1, with_ties = FALSE) %>%
-  ungroup() %>%
-  transmute(
-    AGS_final,
-    gisd_year = year,
-    gisd_score,
-    gisd_5,
-    gisd_10,
-    gisd_k
-  )
-
-MUN <- MUN %>%
-  left_join(GISD, by = "AGS_final")
-
-gisd_anchor <- safe_cor(MUN$gisd_score, MUN$exposure_share_alg2_sgb2)
-if (!is.na(gisd_anchor) && gisd_anchor < 0) {
-  MUN$gisd_score <- -MUN$gisd_score
-}
-
-MUN <- MUN %>%
-  mutate(gisd_score_z = z_num(gisd_score))
-
-# ============================================================
-# 5) EU flood protection integration (NUTS3)
+# 4) EU flood protection integration (NUTS3)
 # ============================================================
 
 EU_PROT <- sf::st_read(eu_prot_path, quiet = TRUE) %>%
@@ -434,7 +402,7 @@ MUN$eu_protection_class <- factor(
 )
 
 # ============================================================
-# 6) Depth-weighted sensitivity from municipality x zone x depth
+# 5) Depth-weighted sensitivity from municipality x zone x depth
 # ============================================================
 
 depth_lookup <- tibble(
@@ -515,7 +483,7 @@ depth_diag <- MUN %>%
 save_table(depth_diag, "depth_metric_diagnostics.csv")
 
 # ============================================================
-# 7) Indicator engineering for revised vulnerability modelling
+# 6) Indicator engineering for revised vulnerability modelling
 # ============================================================
 
 MUN <- MUN %>%
@@ -581,7 +549,7 @@ year_audit <- indicator_map %>%
 save_table(year_audit, "indicator_year_audit.csv")
 
 # ============================================================
-# 8) Domain PCA vulnerability index
+# 7) Domain PCA vulnerability index
 # ============================================================
 
 domain_specs <- list(
@@ -638,7 +606,7 @@ MUN <- MUN %>%
   )
 
 # ============================================================
-# 9) Full PCA sensitivity with selected relevant components
+# 8) Full PCA sensitivity with selected relevant components
 # ============================================================
 
 candidate_vars <- unique(unlist(domain_specs))
@@ -707,30 +675,22 @@ save_table(pc_tbl, "selected_pca_component_table.csv")
 save_table(selected_loadings, "selected_pca_top_loadings.csv")
 
 # ============================================================
-# 10) Validation and descriptive justice tables
+# 9) Validation and descriptive justice tables
 # ============================================================
 
 validation_tbl <- tibble(
-  index = c("domain_main", "selected_pca", "gisd"),
-  cor_with_gisd = c(
-    safe_cor(MUN$vuln_index_domain_z, MUN$gisd_score_z),
-    safe_cor(MUN$vuln_index_selected_pca_z, MUN$gisd_score_z),
-    1
-  ),
+  index = c("domain_main", "selected_pca"),
   cor_with_alg2 = c(
     safe_cor(MUN$vuln_index_domain_z, MUN$exposure_share_alg2_sgb2),
-    safe_cor(MUN$vuln_index_selected_pca_z, MUN$exposure_share_alg2_sgb2),
-    safe_cor(MUN$gisd_score_z, MUN$exposure_share_alg2_sgb2)
+    safe_cor(MUN$vuln_index_selected_pca_z, MUN$exposure_share_alg2_sgb2)
   ),
   cor_with_longterm_unemp = c(
     safe_cor(MUN$vuln_index_domain_z, MUN$exposure_share_longterm_unemp),
-    safe_cor(MUN$vuln_index_selected_pca_z, MUN$exposure_share_longterm_unemp),
-    safe_cor(MUN$gisd_score_z, MUN$exposure_share_longterm_unemp)
+    safe_cor(MUN$vuln_index_selected_pca_z, MUN$exposure_share_longterm_unemp)
   ),
   cor_with_zone1_share = c(
     safe_cor(MUN$vuln_index_domain_z, MUN$risk_zone1_share),
-    safe_cor(MUN$vuln_index_selected_pca_z, MUN$risk_zone1_share),
-    safe_cor(MUN$gisd_score_z, MUN$risk_zone1_share)
+    safe_cor(MUN$vuln_index_selected_pca_z, MUN$risk_zone1_share)
   )
 )
 
@@ -739,8 +699,7 @@ save_table(validation_tbl, "vulnerability_validation.csv")
 descriptive_df <- MUN %>%
   sf::st_drop_geometry() %>%
   mutate(
-    vuln_q = ntile(vuln_index_domain_z, 5),
-    gisd_q = if_else(!is.na(gisd_score_z), ntile(gisd_score_z, 5), NA_integer_)
+    vuln_q = ntile(vuln_index_domain_z, 5)
   )
 
 by_vuln_q <- descriptive_df %>%
@@ -777,7 +736,7 @@ bfg_vs_eu <- descriptive_df %>%
 save_table(bfg_vs_eu, "bfg_zone3_vs_eu_protection.csv")
 
 # ============================================================
-# 11) Two-part models + spatial sensitivity
+# 10) Two-part models + spatial sensitivity
 # ============================================================
 
 analysis_df <- descriptive_df %>%
@@ -789,7 +748,6 @@ analysis_df <- descriptive_df %>%
     exposed = as.integer(risk_zone1_share > 0),
     vuln = vuln_index_domain_z,
     vuln_pca = vuln_index_selected_pca_z,
-    gisd = gisd_score_z,
     eu_protection = eu_protection_years_z,
     density = z_num(ctl_density_log),
     population = z_num(ctl_pop_log),
@@ -813,12 +771,6 @@ m_presence <- glm(
   family = binomial()
 )
 
-m_presence_gisd <- glm(
-  exposed ~ gisd + eu_protection + density + population + mun_area + state_model,
-  data = analysis_df,
-  family = binomial()
-)
-
 m_amount <- lm(
   log_zone1_share ~ vuln + eu_protection + density + population + mun_area + state_model,
   data = analysis_df %>% filter(exposed == 1)
@@ -831,8 +783,6 @@ m_depth <- lm(
 
 save_table(broom::tidy(m_presence, conf.int = TRUE), "model_presence_logit_domain.csv")
 save_table(broom::glance(m_presence), "model_presence_logit_domain_fit.csv")
-save_table(broom::tidy(m_presence_gisd, conf.int = TRUE), "model_presence_logit_gisd.csv")
-save_table(broom::glance(m_presence_gisd), "model_presence_logit_gisd_fit.csv")
 save_table(broom::tidy(m_amount, conf.int = TRUE), "model_amount_lm_domain.csv")
 save_table(broom::glance(m_amount), "model_amount_lm_domain_fit.csv")
 save_table(broom::tidy(m_depth, conf.int = TRUE), "model_depth_lm_domain.csv")
@@ -898,7 +848,7 @@ if (!is.null(sem)) aic_tbl <- bind_rows(aic_tbl, tibble(model = "SEM_error", AIC
 save_table(aic_tbl, "model_aic_comparison_redesign.csv")
 
 # ============================================================
-# 12) LISA clusters
+# 11) LISA clusters
 # ============================================================
 
 x <- spatial_sf$risk
@@ -934,7 +884,7 @@ save_table(
 )
 
 # ============================================================
-# 13) Plots and maps
+# 12) Plots and maps
 # ============================================================
 
 scree_plot <- ggplot(pc_tbl, aes(x = seq_along(PC), y = eigenvalue)) +
@@ -986,7 +936,7 @@ map_vuln <- ggplot(MUN) +
     title = "Revised vulnerability index",
     subtitle = "Theory-led domain PCA: deprivation, age, household, access",
     fill = "Index (z)",
-    caption = "Source: INKAR, GISD, own processing."
+    caption = "Source: INKAR, own processing."
   ) +
   map_theme()
 
@@ -1090,7 +1040,7 @@ for (dom in names(domain_results)) {
 }
 
 # ============================================================
-# 14) Optional land-use detection
+# 13) Optional land-use detection
 # ============================================================
 
 landuse_candidates <- list.files(
@@ -1121,7 +1071,7 @@ if (length(landuse_candidates) == 0) {
 }
 
 # ============================================================
-# 15) Save enriched dataset + method notes
+# 14) Save enriched dataset + method notes
 # ============================================================
 
 saveRDS(MUN, file.path(out_dir, "FULL_protocol_redesign.rds"))
@@ -1132,6 +1082,7 @@ save_note(
     "Sensitivity vulnerability index: vuln_index_selected_pca_z",
     "Main exposure outcome: risk_zone1_share (BfG HQ100 Zone 1 share)",
     "Protection context in models: EU NUTS3 protection standard (eu_protection_years)",
+    "GISD is intentionally excluded from this script and reserved for a later validation/sensitivity stage.",
     "BfG Zone 3 retained only as diagnostic because of known inconsistency.",
     "Depth-weighted exposure excludes depth classes 6 and 7 from the depth score and reports them separately as unknown-depth share.",
     "Two-part models are the primary non-spatial inference layer because Zone 1 share is strongly zero-inflated.",

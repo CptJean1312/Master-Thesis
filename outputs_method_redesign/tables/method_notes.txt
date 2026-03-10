@@ -2,6 +2,7 @@ Main vulnerability index: vuln_index_domain_z
 Sensitivity vulnerability index: vuln_index_selected_pca_z
 Main exposure outcome: risk_zone1_share (BfG HQ100 Zone 1 share)
 Protection context in models: EU NUTS3 protection standard (eu_protection_years)
+GISD is intentionally excluded from this script and reserved for a later validation/sensitivity stage.
 BfG Zone 3 retained only as diagnostic because of known inconsistency.
 Depth-weighted exposure excludes depth classes 6 and 7 from the depth score and reports them separately as unknown-depth share.
 Two-part models are the primary non-spatial inference layer because Zone 1 share is strongly zero-inflated.
