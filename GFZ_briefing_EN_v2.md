@@ -1,6 +1,28 @@
 # INKAR Indicator
 
-# 1. What is the INKAR dataset in this project?
+# 1. What does the Master's thesis do?
+
+The thesis examines the social distribution of flood exposure and socio-economic vulnerability in the German part of the Elbe river basin, with a particular focus on questions of flood-protection justice.
+
+In substantive terms, the project combines three components:
+
+- a flood-hazard and exposure component based on BfG HQ100 flood data
+- a socio-economic vulnerability component based on municipality-level INKAR indicators
+- a protection-context component, currently informed by EU flood-protection data because the BfG Zone 3 information is not sufficiently consistent for the Elbe case
+
+The central analytical question is whether municipalities with higher socio-economic vulnerability are also more exposed to flood hazards, and whether this exposure is distributed unevenly across different social contexts.
+
+Methodologically, the project combines:
+
+- GIS-based spatial preprocessing and area calculations
+- municipality-level socio-economic data harmonisation
+- principal component analysis for vulnerability structure
+- index construction
+- regression and spatial diagnostics
+
+The current redesign keeps the overall project goal unchanged, but improves the socio-economic operationalisation by moving from a very broad exploratory PCA to a more selective and theory-led vulnerability design.
+
+# 2. What is the INKAR dataset in this project?
 
 For the socio-economic side of the thesis, the BBSR INKAR 2025 dataset was used. The raw file is a large CSV in long format.
 
@@ -11,7 +33,7 @@ For the socio-economic side of the thesis, the BBSR INKAR 2025 dataset was used.
 
 For this project, the dataset is therefore not Elbe-specific from the beginning. It only becomes Elbe-specific through the later spatial filtering.
 
-# 2. INKAR: municipal indicators available in all 16 federal states
+# 3. INKAR: municipal indicators available in all 16 federal states
 
 ## Scope
 
@@ -55,7 +77,7 @@ Interpretation for the meeting:
 - on the socio-economic side, the INKAR framework is in principle transferable across Germany
 - the stronger limitation is not the existence of the indicators, but the completeness of municipality-level data and, even more importantly, the hazard and protection side of the overall flood-justice framework
 
-# 3. Which INKAR subset was used for the thesis?
+# 4. Which INKAR subset was used for the thesis?
 
 First, the municipal INKAR subset relevant for the project was defined by filtering:
 
@@ -78,7 +100,7 @@ The resulting Elbe subset contains:
 - `176` indicators
 - reference years from `1995` to `2024`
 
-# 4. Variable naming logic in the project
+# 5. Variable naming logic in the project
 
 Three naming layers should be kept apart clearly:
 
@@ -92,7 +114,7 @@ For the meeting, the safest presentation order is:
 - then the official INKAR indicator name
 - then, if needed, the internal project label
 
-# 5. INKAR variables used for the first wide PCA in Version 1
+# 6. INKAR variables used for the first wide PCA in Version 1
 
 The first wide PCA in `Analyse_CLEAN.R` used a broad municipality-level variable pool. It was intentionally exploratory and much wider than the final redesign.
 
@@ -126,7 +148,7 @@ Method in the first wide PCA:
 - variance-weighted aggregation of these components
 - sign anchoring using `ALG II / SGB II` so that higher values indicate higher vulnerability
 
-# 6. Kept variables in the redesigned main index
+# 7. Kept variables in the redesigned main index
 
 ## `a_ALGII_SGBII`
 
@@ -255,7 +277,7 @@ Method in the first wide PCA:
 - literature-based justification: Access to medication and health infrastructure affects recovery and coping capacity during and after flood events. (IPCC AR6 WGII)
 - transformation: none
 
-# 7. Optional variables for sensitivity / robustness checks
+# 8. Optional variables for sensitivity / robustness checks
 
 ## `q_ärzte_bev`
 
@@ -284,7 +306,7 @@ Method in the first wide PCA:
 - literature-based justification: No explicit literature note was entered in the Excel table. Conceptually, this variable is retained only as an optional robustness indicator rather than as a core index component.
 - transformation: if used, invert so that lower broadband coverage indicates higher vulnerability
 
-# 8. Excluded variables
+# 9. Excluded variables
 
 ## `q_bev_fl`
 
@@ -374,7 +396,7 @@ Method in the first wide PCA:
 - literature-based justification: Population growth or decline does not directly reflect vulnerability.
 - reason for exclusion: indirect indicator
 
-# 9. Why the first wide PCA was used at the beginning
+# 10. Why the first wide PCA was used at the beginning
 
 The first wide PCA was used as an exploratory starting point.
 
@@ -393,7 +415,7 @@ In methodological terms, the first version did the following:
 - variance-weighted aggregation of the retained PCs
 - sign anchoring with `ALG II / SGB II`
 
-# 10. What I learned from the first wide PCA
+# 11. What I learned from the first wide PCA
 
 The first wide PCA was useful, but mainly as an exploratory step.
 
@@ -409,7 +431,7 @@ What became clear from that first version:
 - fiscal and settlement-structure variables can enter the same statistical space as social vulnerability indicators even though they are not the same thing
 - the resulting index is harder to defend conceptually in a meeting because the retained components are less transparent substantively
 
-# 11. What the redesigned PCA now does
+# 12. What the redesigned PCA now does
 
 The redesigned workflow keeps PCA, but uses it in a more selective and theory-led way.
 
@@ -435,7 +457,7 @@ Technical implementation:
 - aggregation of domain scores into the redesigned main index
 - additional reduced-set `selected_pca` only as robustness check
 
-# 12. What the redesigned PCA says now
+# 13. What the redesigned PCA says now
 
 The redesigned version gives a cleaner and more defensible interpretation.
 
@@ -458,12 +480,39 @@ Meeting interpretation:
 - it uses PCA more carefully and more transparently
 - the redesigned index is easier to defend because it is more clearly tied to interpretable vulnerability dimensions
 
-# 13. Short meeting message
+# 14. Can the INKAR-based vulnerability framework be scaled up to Germany?
+
+On the socio-economic side, the short answer is: yes, in principle.
+
+Why:
+
+- the INKAR indicators used here are not specific to the Elbe basin
+- the municipality-level INKAR framework exists at a Germany-wide scale
+- `173` out of `176` municipality-level indicators are present in all 16 federal states
+- the main socio-economic logic of deprivation, demographic sensitivity, household structure and accessibility can therefore be transferred beyond the Elbe case
+
+What this means in practice:
+
+- a Germany-wide vulnerability index based on INKAR is feasible
+- the redesigned indicator selection is actually better suited for upscaling than the first wide PCA, because it is conceptually narrower and less dependent on highly local or structurally ambiguous variables
+
+What still limits full project upscaling:
+
+- the hazard side would need nationally consistent flood-exposure data
+- the protection side would need nationally comparable protection information
+- municipality-level completeness is still weaker than simple state-level indicator presence
+
+So the careful formulation for the meeting is:
+
+- the INKAR-based socio-economic vulnerability component is, in principle, scalable to Germany
+- the full flood-justice framework is only scalable if the hazard and protection data can also be standardised nationally
+
+# 15. Short meeting message
 
 A short summary line for the meeting could be:
 
 "The first version used a broad exploratory wide PCA to understand the overall structure of the socio-economic indicator space. The redesigned version keeps PCA, but applies it to a reduced and theory-led indicator set organised into domains. This makes the final vulnerability index more interpretable and more defensible, while still retaining a data-reduction step. On the socio-economic side, the framework is in principle transferable across Germany; the stronger limitation lies in the hazard and protection data, not in the INKAR variables themselves."
 
-# 14. Is anything still missing?
+# 16. Is anything still missing?
 
 Substantively, almost nothing. The one point that should remain visible in the final PDF is the `a_BG1P` caveat, because the official INKAR name and the current project rename do not match.
