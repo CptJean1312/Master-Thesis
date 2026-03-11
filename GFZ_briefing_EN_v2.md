@@ -306,7 +306,114 @@ Method in the first wide PCA:
 - literature-based justification: No explicit literature note was entered in the Excel table. Conceptually, this variable is retained only as an optional robustness indicator rather than as a core index component.
 - transformation: if used, invert so that lower broadband coverage indicates higher vulnerability
 
-# 9. Excluded variables
+# 9. Proposed nationwide shortlist for a Germany-wide INKAR index
+
+If the socio-economic component is to be scaled up to Germany, the strongest option is not to restrict the index to variables with absolute AGS-level completeness only. That would leave a candidate pool that is too structural and too weak in substantive vulnerability terms.
+
+A better option is a pragmatic nationwide shortlist:
+
+- variables that are present in all 16 federal states
+- variables with very high AGS-level availability
+- variables that still capture meaningful vulnerability dimensions
+
+## `a_ALGII_SGBII`
+
+- official INKAR indicator: `ALG II-Leistungen an SGBII`
+- project label: `share_alg2_sgb2`
+- nationwide AGS coverage: about `96.8%`
+- why it belongs in a nationwide shortlist: strong deprivation marker, available in all 16 federal states, conceptually central for vulnerability
+
+## `a_Unterkunft_SGBII`
+
+- official INKAR indicator: `Leistungen für Unterkunft an SGBII`
+- project label: `share_sgb2_with_housing_costs`
+- nationwide AGS coverage: about `96.8%`
+- why it belongs in a nationwide shortlist: housing-related welfare dependence complements the general transfer-dependence indicator and remains broadly available
+
+## `a_aloLang`
+
+- official INKAR indicator: `Langzeitarbeitslose`
+- project label: `share_longterm_unemp`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: captures persistent labour-market exclusion and is substantively stronger than purely structural labour-market variables
+
+## `q_alo_u25_einw`
+
+- official INKAR indicator: `Jüngere Arbeitslose`
+- project label: `unemp_u25_per_1000`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: adds a labour-market fragility dimension and remains broadly available nationwide
+
+## `q_kaufkraft`
+
+- official INKAR indicator: `Kaufkraft`
+- project label: `purchasing_power`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: one of the clearest economic-capacity indicators in INKAR, with excellent nationwide coverage
+
+## `a_hheink_niedrig`
+
+- official INKAR indicator: `Haushalte mit niedrigem Einkommen`
+- project label: `share_hh_income_low`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: directly captures low-income household structure and complements welfare- and labour-market indicators well
+
+## `a_bev65um`
+
+- official INKAR indicator: `Einwohner 65 Jahre und älter`
+- project label: `share_age_65plus`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: ageing is a core vulnerability dimension and this indicator has both conceptual relevance and very strong coverage
+
+## `a_bev75um`
+
+- official INKAR indicator: `Einwohner 75 Jahre und älter`
+- project label: `share_age_75plus`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: captures a more sensitive high-age population group and remains widely available nationwide
+
+## `q_abhg_alt`
+
+- official INKAR indicator: `Abhängigenquote Alte`
+- project label: `old_age_dependency`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: adds a structural ageing burden dimension and has strong empirical availability
+
+## `q_HH1`
+
+- official INKAR indicator: `Einpersonenhaushalte`
+- project label: `share_single_households`
+- nationwide AGS coverage: about `98.2%`
+- why it belongs in a nationwide shortlist: one of the most interpretable household-structure proxies and more robust than several alternative social-structure variables
+
+## `m_OEV20_DIST`
+
+- official INKAR indicator: `Entfernung zur ÖV Haltestelle`
+- project label: `dist_public_transport_m`
+- nationwide AGS coverage: about `98.8%`
+- why it belongs in a nationwide shortlist: gives a practical accessibility dimension with very high availability and clear relevance for mobility and service access
+
+## `m_Q07_HA_DIST`
+
+- official INKAR indicator: `Entfernung zum Hausarzt`
+- project label: `dist_gp_m`
+- nationwide AGS coverage: about `98.9%`
+- why it belongs in a nationwide shortlist: strong accessibility and health-services proxy with almost complete nationwide municipality coverage
+
+## `m_Q01_APO_DIST`
+
+- official INKAR indicator: `Entfernung zur Apotheke`
+- project label: `dist_pharmacy_m`
+- nationwide AGS coverage: about `98.9%`
+- why it belongs in a nationwide shortlist: complements GP access and adds a practical health-infrastructure dimension with excellent coverage
+
+Short interpretation:
+
+- this shortlist is currently the best compromise between nationwide data availability and substantive vulnerability relevance
+- it is much stronger conceptually than a shortlist based only on fully complete variables
+- it is also a better basis for national scaling than the first wide PCA variable pool, because it reduces redundancy and structural overreach
+
+# 10. Excluded variables
 
 ## `q_bev_fl`
 
@@ -396,7 +503,7 @@ Method in the first wide PCA:
 - literature-based justification: Population growth or decline does not directly reflect vulnerability.
 - reason for exclusion: indirect indicator
 
-# 10. Why the first wide PCA was used at the beginning
+# 11. Why the first wide PCA was used at the beginning
 
 The first wide PCA was used as an exploratory starting point.
 
@@ -415,7 +522,7 @@ In methodological terms, the first version did the following:
 - variance-weighted aggregation of the retained PCs
 - sign anchoring with `ALG II / SGB II`
 
-# 11. What I learned from the first wide PCA
+# 12. What I learned from the first wide PCA
 
 The first wide PCA was useful, but mainly as an exploratory step.
 
@@ -431,7 +538,7 @@ What became clear from that first version:
 - fiscal and settlement-structure variables can enter the same statistical space as social vulnerability indicators even though they are not the same thing
 - the resulting index is harder to defend conceptually in a meeting because the retained components are less transparent substantively
 
-# 12. What the redesigned PCA now does
+# 13. What the redesigned PCA now does
 
 The redesigned workflow keeps PCA, but uses it in a more selective and theory-led way.
 
@@ -457,7 +564,7 @@ Technical implementation:
 - aggregation of domain scores into the redesigned main index
 - additional reduced-set `selected_pca` only as robustness check
 
-# 13. What the redesigned PCA says now
+# 14. What the redesigned PCA says now
 
 The redesigned version gives a cleaner and more defensible interpretation.
 
@@ -480,7 +587,7 @@ Meeting interpretation:
 - it uses PCA more carefully and more transparently
 - the redesigned index is easier to defend because it is more clearly tied to interpretable vulnerability dimensions
 
-# 14. Can the INKAR-based vulnerability framework be scaled up to Germany?
+# 15. Can the INKAR-based vulnerability framework be scaled up to Germany?
 
 On the socio-economic side, the short answer is: yes, in principle.
 
@@ -489,7 +596,7 @@ Why:
 - the INKAR indicators used here are not specific to the Elbe basin
 - the municipality-level INKAR framework exists at a Germany-wide scale
 - `173` out of `176` municipality-level indicators are present in all 16 federal states
-- the main socio-economic logic of deprivation, demographic sensitivity, household structure and accessibility can therefore be transferred beyond the Elbe case
+- the proposed nationwide shortlist retains variables that are both substantively meaningful and empirically available at very high AGS-level coverage
 
 What this means in practice:
 
@@ -507,12 +614,12 @@ So the careful formulation for the meeting is:
 - the INKAR-based socio-economic vulnerability component is, in principle, scalable to Germany
 - the full flood-justice framework is only scalable if the hazard and protection data can also be standardised nationally
 
-# 15. Short meeting message
+# 16. Short meeting message
 
 A short summary line for the meeting could be:
 
 "The first version used a broad exploratory wide PCA to understand the overall structure of the socio-economic indicator space. The redesigned version keeps PCA, but applies it to a reduced and theory-led indicator set organised into domains. This makes the final vulnerability index more interpretable and more defensible, while still retaining a data-reduction step. On the socio-economic side, the framework is in principle transferable across Germany; the stronger limitation lies in the hazard and protection data, not in the INKAR variables themselves."
 
-# 16. Is anything still missing?
+# 17. Is anything still missing?
 
 Substantively, almost nothing. The one point that should remain visible in the final PDF is the `a_BG1P` caveat, because the official INKAR name and the current project rename do not match.
