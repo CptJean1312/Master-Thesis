@@ -1,0 +1,33 @@
+Kuerzel,states_with_data,all_states_present,full_coverage_all_states,min_state_coverage,mean_state_coverage,max_state_coverage,states_below_95,states_below_100,municipalities_with_value_total,municipalities_total,official_short,official_name,main_dimension,sub_dimension,period_gemeinden,period_kreise
+alo,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Arbeitslose,Zahl der Arbeitslosen insgesamt,Absolutzahlen,,1998-2023,1995-2023
+bev_korr,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bevölkerung (mit BBSR-Zensuskorrekturen),Zensuskorrigierte Zahl der Einwohner insgesamt,Absolutzahlen,,1995-2023,1995-2023
+xbev,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bevölkerung gesamt,Zahl der Einwohner insgesamt,Absolutzahlen,,1995-2023,1995-2023
+xbevm,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bevölkerung männlich,Zahl der männlichen Einwohner,Absolutzahlen,,1995-2023,1995-2023
+xbevf,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bevölkerung weiblich,Zahl der weiblichen Einwohner,Absolutzahlen,,1995-2023,1995-2023
+TN23-kataster_qkm,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bodenfläche gesamt qkm,Katasterfläche in km²,Absolutzahlen,,2016-2023,2016-2023
+ewf_1565_ges,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Erwerbsfähige Bevölkerung (15 bis unter 65 Jahre),Zahl der Einwohner im Alter von 15 bis unter 65 Jahren,Absolutzahlen,,2001-2023,1995-2023
+sva,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Sozialversicherungspflichtig Beschäftigte am Arbeitsort,Zahl der sozialversicherungspflichtig Beschäftigten am Arbeitsort insgesamt,Absolutzahlen,,1997-2023,1997-2023
+svw,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Sozialversicherungspflichtig Beschäftigte am Wohnort,Zahl der sozialversicherungspflichtig Beschäftigten am Wohnort insgesamt,Absolutzahlen,,1997-2023,1997-2023
+a_gb_Frauen,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (Frauen),Anteil der geringfügig entlohnten weiblichen Beschäftigten an den geringfügig entlohnten Beschäftigten am Arbeitsort in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_gb_Männer,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (Männer),Anteil der geringfügig entlohnten männlichen Beschäftigten an den geringfügig entlohnten Beschäftigten in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_gb_nj,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (Nebenverdienst),Anteil der geringfügig entlohnten Beschäftigten im Nebenjob an den geringfügig entlohnten Beschäftigten in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_gb_nj_prBv,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (Nebenverdienst) an den Beschäftigungsverhältnissen,Anteil der geringfügig entlohnten Beschäftigten am Arbeitsort im Nebenjob an den privatrechtlichen Beschäftigungsverhältnissen in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_gb_knj_prBv,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (ausschließlich) an den Beschäftigungsverhältnissen,Anteil der geringfügig entlohnten Beschäftigten am Arbeitsort (ausschließlich) an den privatrechtlichen Beschäftigungsverhältnissen in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_gb_knj,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs (ausschließlich) an geringfügig Beschäftigten,Anteil der geringfügig entlohnten Beschäftigten am Arbeitsort (ausschließlich) an den geringfügig entlohnten Beschäftigten in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_Minijobs,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Anteil Minijobs an den Beschäftigungsverhältnissen,Anteil der geringfügig entlohnten Beschäftigten am Arbeitsort an den privatrechtlichen Beschäftigungsverhältnissen in %,Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,,2003-2023
+a_ausp_svw,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Auspendler,Anteil der Auspendler an den SV Beschäftigten am Wohnort in %,Erreichbarkeit,Verkehr und Erreichbarkeit - Pendler,1997-2023,1997-2023
+a_bb_1000Mbits,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s,Anteil der Haushalte mit einer Bandbreitenverfügbarkeit (leitungsgebunden) mit mindestens 1.000 Mbit/s in %,Erreichbarkeit,,2020-2023,2020-2023
+a_bb_100Mbits,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bandbreitenverfügbarkeit mindestens 100 Mbit/s,Anteil der Haushalte mit einer Bandbreitenverfügbarkeit (leitungsgebunden) mit mindestens 100 Mbit/s in %,Erreichbarkeit,,2017-2023,2017-2023
+a_bb_50Mbits,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Bandbreitenverfügbarkeit mindestens 50 Mbit/s,Anteil der Haushalte mit einer Bandbreitenverfügbarkeit (leitungsgebunden) mit mindestens 50 Mbit/s in %,Erreichbarkeit,,2017-2023,2017-2023
+i_fz_mz,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Erreichbarkeit von Mittelzentren,Durchschn. Pkw-Fahrzeit zum nächsten Mittel- oder Oberzentrum in Minuten,Erreichbarkeit,,2021,2021
+i_fz_oz,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Erreichbarkeit von Oberzentren,Durchschn. Pkw-Fahrzeit zum nächsten Oberzentrum in Minuten,Erreichbarkeit,,2021,2021
+a_erh,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Erholungsfläche,Anteil Erholungsfläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+v_suvfl_vorjahr,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Flächenneuinanspruchnahme,Änderung der Siedlungs- und Verkehrsfläche an der Gesamtfläche im Vergleich zum Vorjahr,Flächennutzung,,2017-2023,2017-2023
+a_freifläche,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Freifläche,Anteil Freifläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+a_landwirtschaft,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Landwirtschaftsfläche,Anteil Landwirtschaftsfläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+a_naturnah,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Naturnähere Fläche,Anteil naturnähere Fläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+a_suv_fl,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Siedlungs- und Verkehrsfläche,Anteil der Siedlungs- und Verkehrsfläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+a_wald,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Waldfläche,Anteil Waldfläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+a_wasser,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Wasserfläche,Anteil Wasserfläche an der Fläche in %,Flächennutzung,,2016-2023,2016-2023
+q_bevsva_qkm,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Einwohner-Arbeitsplatz-Dichte,Einwohner und Beschäftigte je km²,Siedlungsstruktur,,1996-2023,1996-2023
+q_bev_fl,16,TRUE,TRUE,1,1,1,0,0,10978,10978,Einwohnerdichte,Einwohner je km²,Siedlungsstruktur,,1996-2023,1996-2023

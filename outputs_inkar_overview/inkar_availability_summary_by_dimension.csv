@@ -1,0 +1,26 @@
+main_dimension,sub_dimension,n_indicators_present_all_states,n_full_coverage_all_states,mean_min_state_coverage,mean_mean_state_coverage
+Absolutzahlen,,9,9,1,1
+Arbeitslosigkeit,Arbeitslosigkeit - Allgemein,2,0,0.922800718132855,0.992990777505361
+Arbeitslosigkeit,Arbeitslosigkeit - Altersgruppen,12,0,0.922800718132855,0.992963763328321
+Arbeitslosigkeit,Arbeitslosigkeit - Struktur,11,0,0.922800718132855,0.992854462013529
+Bauen und Wohnen,Bauen und Wohnen - Baulandmarkt und Bautätigkeit,9,0,0.922800718132855,0.990313381582858
+Bauen und Wohnen,Bauen und Wohnen - Gebäude- und Wohnungsbestand,6,0,0.922800718132855,0.99286927983586
+Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit - Atypische Beschäftigung,7,7,1,1
+Beschäftigung und Erwerbstätigkeit,Beschäftigung und Erwerbstätigkeit – Struktur,5,0,0.922800718132855,0.992977810700382
+Bevölkerung,Bevölkerung - Natürliche Bevölkerungsbewegungen,3,0,0.922800718132855,0.992990777505361
+Bevölkerung,Bevölkerung – Altersstruktur,17,0,0.922800718132855,0.99297170867451
+Bevölkerung,Bevölkerung – Bevölkerungsstruktur,9,0,0.922800718132855,0.99294307450165
+Bevölkerung,Bevölkerung – Wanderungen,1,0,0.922800718132855,0.992990777505361
+Bildung,Bildung – Ausbildungsangebot,7,0,0.399619320946114,0.549731207207564
+Erreichbarkeit,Verkehr und Erreichbarkeit - Pendler,6,1,0.935667265110712,0.994047706650461
+Erreichbarkeit,Verkehr und Erreichbarkeit - Straßenverkehr,3,0,0.922800718132855,0.992925943480465
+Erreichbarkeit,,18,5,0.960502692998205,0.99660446806702
+Flächennutzung,,12,8,0.980504101101841,0.998194259386188
+Medizinische Versorgung,,5,0,0.922800718132855,0.992857977846709
+Privateinkommen und private Schulden,,5,0,0.922800718132855,0.99286927983586
+Siedlungsstruktur,,5,2,0.953680430879713,0.995721567901516
+Sozialleistungen,Sozialleistungen - Transferleistungen,2,0,0.922351885098743,0.986105258969315
+Sozialleistungen,Sozialleistungen – Bedarfsgemeinschaften,10,0,0.922441651705566,0.986355184938233
+Wirtschaft,Wirtschaft – Fremdenverkehr,3,0,0.672711705757989,0.857163673256904
+Öffentliche Finanzen,,5,0,0.922800718132855,0.992990777505361
+,,1,0,0.995192307692308,0.999361284249143
