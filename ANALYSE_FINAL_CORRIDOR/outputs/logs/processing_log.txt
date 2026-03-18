@@ -1,0 +1,9 @@
+2026-03-18 15:26:39 | Loading corridor municipalities ... 
+2026-03-18 15:26:39 | Corridor municipalities loaded:  835 
+2026-03-18 15:26:39 | Loading municipal exposure table ... 
+2026-03-18 15:26:39 | Exposure rows loaded:  835 
+2026-03-18 15:26:39 | RP100 exposure joined successfully. 
+2026-03-18 15:26:39 | Index direction OK. 
+2026-03-18 15:26:39 | Building study area map ... 
+2026-03-18 15:26:46 | Corridor PCA pipeline finished successfully. 
+2026-03-18 15:26:46 | Final analysis GPKG:  /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/outputs/gpkg/corridor_wide_pca_rp100_analysis.gpkg 
