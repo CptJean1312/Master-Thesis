@@ -1,0 +1,7 @@
+"raster_name","output_file","status"
+"floodmap_EFAS_RP010_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP010_C_25832_elbe_basin.tif","written"
+"floodmap_EFAS_RP020_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP020_C_25832_elbe_basin.tif","written"
+"floodmap_EFAS_RP050_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP050_C_25832_elbe_basin.tif","written"
+"floodmap_EFAS_RP100_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP100_C_25832_elbe_basin.tif","skipped_existing"
+"floodmap_EFAS_RP200_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP200_C_25832_elbe_basin.tif","written"
+"floodmap_EFAS_RP500_C","/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/outputs_eu_flood_25832/floodmap_EFAS_RP500_C_25832_elbe_basin.tif","skipped_existing"
