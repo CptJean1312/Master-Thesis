@@ -1,0 +1,10 @@
+2026-03-18 13:18:34 | Loading municipality layer ... 
+2026-03-18 13:18:34 | Max difference between geometry area and existing mun_area_basin_m2:  1243568.289  m2 
+2026-03-18 13:18:34 | Municipalities loaded:  2542 
+2026-03-18 13:18:34 | AGS column used:  AGS 
+2026-03-18 13:18:34 | Name column used:  mun_name 
+2026-03-18 13:18:34 | Loading flood rasters ... 
+2026-03-18 13:18:34 | All rasters share the same CRS, extent, and resolution. 
+2026-03-18 13:18:34 | Raster resolution:  100 x 100  m 
+2026-03-18 13:18:36 | Deriving municipality corridor from RP500 valid flood-depth pixels ... 
+2026-03-18 13:22:53 | Corridor municipalities retained:  851 
