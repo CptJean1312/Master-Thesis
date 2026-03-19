@@ -1,0 +1,177 @@
+Kuerzel,Indikator
+TN23-kataster_qkm,Bodenfläche gesamt qkm
+a_ALGII_SGBII,ALG II-Leistungen an SGBII
+a_BG1P,Einpersonen-Bedarfsgemeinschaften
+a_BG5um,Große Bedarfsgemeinschaften
+a_BGKind,Bedarfsgemeinschaften mit Kindern
+a_G02_SUP_ANT,Nahversorgung Supermarkt/Discounter
+a_Minijobs,Anteil Minijobs an den Beschäftigungsverhältnissen
+a_OEV20_ANT,Nahversorgung ÖV Haltestelle
+a_P01_PRIM_ANT,Nahversorgung Grundschule
+a_Q01_APO_ANT,Nahversorgung Apotheke
+a_Q07_HA_ANT,Nahversorgung Hausarzt
+a_Unterkunft_SGBII,Leistungen für Unterkunft an SGBII
+a_aloLang,Langzeitarbeitslose
+a_aloLang_f,Weibliche Langzeitarbeitslose
+a_aloLang_m,Männliche Langzeitarbeitslose
+a_alo_ausländer,Ausländische Arbeitslose
+a_alo_ausländer_f,Ausländische weibliche Arbeitslose
+a_alo_ausländer_m,Ausländische männliche Arbeitslose
+a_alo_experte,Arbeitslose mit Anforderungsniveau Experte
+a_alo_f,Arbeitslose Frauen
+a_alo_fachkraft,Arbeitslose mit Anforderungsniveau Fachkraft
+a_alo_helfer,Arbeitslose mit Anforderungsniveau Helfer
+a_alo_m,Arbeitslose Männer
+a_alo_oAusb,Arbeitslose ohne Ausbildung
+a_alo_spezialist,Arbeitslose mit Anforderungsniveau Spezialist
+a_alo_u25,Anteil jüngere Arbeitslose
+a_alo_u25_f,Anteil weibliche jüngere Arbeitslose
+a_alo_u25_m,Anteil männliche jüngere Arbeitslose
+a_alo_ü55,Anteil ältere Arbeitslose
+a_alo_ü55_f,Anteil weibliche ältere Arbeitslose
+a_alo_ü55_m,Anteil männliche ältere Arbeitslose
+a_ausp_svw,Auspendler
+a_bb_1000Mbits,Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s
+a_bb_100Mbits,Bandbreitenverfügbarkeit mindestens 100 Mbit/s
+a_bb_4G,Arbeitslosigkeit
+a_bb_50Mbits,Bandbreitenverfügbarkeit mindestens 50 Mbit/s
+a_bev0003,Einwohner unter 3 Jahren
+a_bev0306,Einwohner von 3 bis unter 6 Jahren
+a_bev0618,Einwohner von 6 bis unter 18 Jahren
+a_bev1825,Einwohner von 18 bis unter 25 Jahren
+a_bev1825_f,"Einwohner von 18 bis unter 25 Jahren, Frauen"
+a_bev2530,Einwohner von 25 bis unter 30 Jahren
+a_bev2530_f,"Einwohner von 25 bis unter 30 Jahren, Frauen"
+a_bev3050,Einwohner von 30 bis unter 50 Jahren
+a_bev5065,Einwohner von 50 bis unter 65 Jahren
+a_bev6575,Einwohner von 65 bis unter 75 Jahren
+a_bev6575_f,"Einwohner von 65 bis unter 75 Jahren, Frauen"
+a_bev65um,Einwohner 65 Jahre und älter
+a_bev65um_f,"Einwohner 65 Jahre und älter, Frauen"
+a_bev75um,Einwohner 75 Jahre und älter
+a_bev75um_f,"Einwohner 75 Jahre und älter, Frauen"
+a_bevMZ,Bevölkerung in Mittelzentren
+a_bevOZ,Bevölkerung in Oberzentren
+a_bev_0006,Einwohner unter 6 Jahre
+a_bevd150_,Ländlichkeit
+a_bevf,Frauenanteil
+a_bevf_2040,Frauenanteil 20 bis unter 40 Jahre
+a_einp_sva,Einpendler
+a_erh,Erholungsfläche
+a_ewfBG,Erwerbsfähige Leistungsberechtigte
+a_ewfBG_55um_,Ältere erwerbsfähige Leistungsberechtigte
+a_ewfBG_allein,Alleinerziehende erwerbsfähige Leistungsberechtigte
+a_ewfBG_f,Erwerbsfähige Leistungsberechtigte (Frauen)
+a_ewfBG_u25_,Junge erwerbsfähige Leistungsberechtigte
+a_fert_wg12,Neue Ein- und Zweifamilienhäuser
+a_fert_wo12,Neubauwohnungen in Ein- und Zweifamilienhäusern
+a_fert_wohn,Fertiggestellte Wohnungen je Wohnung im Bestand
+a_freifläche,Freifläche
+a_gb_Frauen,Anteil Minijobs (Frauen)
+a_gb_Männer,Anteil Minijobs (Männer)
+a_gb_knj,Anteil Minijobs (ausschließlich) an geringfügig Beschäftigten
+a_gb_knj_prBv,Anteil Minijobs (ausschließlich) an den Beschäftigungsverhältnissen
+a_gb_nj,Anteil Minijobs (Nebenverdienst)
+a_gb_nj_prBv,Anteil Minijobs (Nebenverdienst) an den Beschäftigungsverhältnissen
+a_geb_bev,Geborene
+a_gen_wo12,Baugenehmigungen für Wohnungen in Ein- und Zweifamilienhäusern
+a_gen_wo3um,Baugenehmigungen für Wohnungen in Mehrfamilienhäusern
+a_gest_bev,Gestorbene
+a_hh_kind,Haushalte mit Kindern
+a_hheink_hoch,Haushalte mit hohem Einkommen
+a_hheink_mittel,Haushalte mit mittlerem Einkommen
+a_hheink_niedrig,Haushalte mit niedrigem Einkommen
+a_landwirtschaft,Landwirtschaftsfläche
+a_naturnah,Naturnähere Fläche
+a_pend150,Pendler mit Arbeitsweg 150 km und mehr
+a_pend300,Pendler mit Arbeitsweg 300 km und mehr
+a_pend50,Pendler mit Arbeitsweg 50 km und mehr
+a_stud_1,Studierende im 1. Semester
+a_stud_a,Ausländische Studierende
+a_stud_m,Männliche Studierende
+a_stud_w,Weibliche Studierende
+a_suv_fl,Siedlungs- und Verkehrsfläche
+a_wald,Waldfläche
+a_wasser,Wasserfläche
+a_wg_wo12,Ein- und Zweifamilienhäuser
+a_wg_wo3um,Mehrfamilienhäuser
+a_wo_r12,Ein- und Zweiraumwohnungen
+a_wo_r5um,5- und mehr Raum-Wohnungen
+a_wo_wg12,Wohnungen in Ein- und Zweifamilienhäusern
+a_wo_wg3um,Wohnungen in Mehrfamilienhäusern
+alo,Arbeitslose
+bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen)
+d_steuereinnahme,Steuereinnahmen
+e10_bev,Bevölkerungsentwicklung (10 Jahre)
+e5_bev,Bevölkerungsentwicklung (5 Jahre)
+ewf_1565_ges,Erwerbsfähige Bevölkerung (15 bis unter 65 Jahre)
+i_fz_mz,Erreichbarkeit von Mittelzentren
+i_fz_oz,Erreichbarkeit von Oberzentren
+i_saldo_nat,Natürlicher Saldo
+i_wans,Gesamtwanderungssaldo
+m_ErrAir_bev,Erreichbarkeit von Flughäfen
+m_ErrBAB_bev,Erreichbarkeit von Autobahnen
+m_ErrIC_bev,Erreichbarkeit von IC/EC/ICE-Bahnhöfen
+m_G02_SUP_DIST,Entfernung zum Supermarkt/Discounter
+m_OEV20_DIST,Entfernung zur ÖV Haltestelle
+m_P01_PRIM_DIST,Entfernung zur Grundschule
+m_Q01_APO_DIST,Entfernung zur Apotheke
+m_Q07_HA_DIST,Entfernung zum Hausarzt
+m_bev_alter,Durchschnittsalter der Bevölkerung
+m_übern,Verweildauer in Beherbergungsbetrieben
+q_HH,Haushaltsgröße
+q_HH1,Einpersonenhaushalte
+q_PBG_bev,Personen in Bedarfsgemeinschaften
+q_abhg_alt,Abhängigenquote Alte
+q_abhg_jung,Abhängigenquote Junge
+q_allgemeinärzte_bev,Allgemeinärzte
+q_alo_u25_einw,Jüngere Arbeitslose
+q_alo_u25_einw_f,Weibliche jüngere Arbeitslose
+q_alo_u25_einw_m,Männliche jüngere Arbeitslose
+q_alo_ü55_einw,Ältere Arbeitslose
+q_alo_ü55_einw_f,Weibliche ältere Arbeitslose
+q_alo_ü55_einw_m,Männliche ältere Arbeitslose
+q_bev_fl,Einwohnerdichte
+q_bevsva_qkm,Einwohner-Arbeitsplatz-Dichte
+q_einkst_bev,Einkommensteuer
+q_einzelhandelskaufkraft,Einzelhandelsrelevante Kaufkraft
+q_erhfl_bev,Erholungsfläche je Einwohner
+q_ew_suv_qkm,Siedlungsdichte in km²
+q_fert_wo12_bev,Neubauwohnungen in Ein- und Zweifamilienhäusern je Einwohner
+q_fert_wo3um_bev,Neubauwohnungen in Mehrfamilienhäusern je Einwohner
+q_fert_wo_bev,Neubauwohnungen je Einwohner
+q_freifläche_bev,Freifläche je Einwohner
+q_gen_wo_ew,Baugenehmigungen für Wohnungenje Einwohner
+q_gest_bev,Steuerkraft
+q_gewst_bev,Gewerbesteuer
+q_hausarzt_bev,Hausärzte
+q_internist_bev,Internisten
+q_investZ,Zuweisungen für Investitionsfördermaßnahmen
+q_kaufkraft,Kaufkraft
+q_kinderarzt_kinder,Kinderärzte
+q_naturnah_bev,Naturnähere Fläche je Einwohner
+q_newfBGu15_bev,Kinderarmut
+q_pendlersaldo,Pendlersaldo
+q_sach,Ausgaben für Sachinvestitionen
+q_schlafg_bev,Schlafgelegenheiten in Beherbergungsbetrieben
+q_schlüsselzuw,Schlüsselzuweisungen
+q_stud,Studierende
+q_stud_1825,Studierende je 100 Einwohner 18 bis 25 Jahre
+q_stud_fh,Studierende an FH
+q_svw,Beschäftigtenquote
+q_svw_f,Beschäftigtenquote Frauen
+q_svw_m,Beschäftigtenquote Männer
+q_svw_ü55,Quote ältere Beschäftigte
+q_umsst,Umsatzsteuer
+q_unf_bev,Straßenverkehrsunfälle
+q_vunp_bev,Verunglückte im Straßenverkehr
+q_vunpt_bev,Getötete im Straßenverkehr
+q_ärzte_bev,Ärzte
+q_übern_bev,Gästeübernachtungen in Beherbergungsbetrieben
+r_ewf_jungalt,Verhältnis junge zu alte Erwerbsfähige
+sva,Sozialversicherungspflichtig Beschäftigte am Arbeitsort
+svw,Sozialversicherungspflichtig Beschäftigte am Wohnort
+v_suvfl_vorjahr,Flächenneuinanspruchnahme
+xbev,Bevölkerung gesamt
+xbevf,Bevölkerung weiblich
+xbevm,Bevölkerung männlich

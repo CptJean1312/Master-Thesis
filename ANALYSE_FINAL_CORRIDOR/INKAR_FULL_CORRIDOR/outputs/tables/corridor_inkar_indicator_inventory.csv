@@ -1,0 +1,177 @@
+Kuerzel,Indikator,n_non_missing,n_missing,coverage_pct,min_year,max_year
+TN23-kataster_qkm,Bodenfläche gesamt qkm,834,1,99.88,2023,2023
+a_G02_SUP_ANT,Nahversorgung Supermarkt/Discounter,834,1,99.88,2023,2023
+a_Minijobs,Anteil Minijobs an den Beschäftigungsverhältnissen,834,1,99.88,2020,2023
+a_OEV20_ANT,Nahversorgung ÖV Haltestelle,834,1,99.88,2022,2022
+a_P01_PRIM_ANT,Nahversorgung Grundschule,834,1,99.88,2023,2023
+a_Q01_APO_ANT,Nahversorgung Apotheke,834,1,99.88,2023,2023
+a_Q07_HA_ANT,Nahversorgung Hausarzt,834,1,99.88,2023,2023
+a_aloLang,Langzeitarbeitslose,834,1,99.88,2021,2023
+a_aloLang_f,Weibliche Langzeitarbeitslose,834,1,99.88,2007,2023
+a_aloLang_m,Männliche Langzeitarbeitslose,834,1,99.88,2013,2023
+a_alo_ausländer,Ausländische Arbeitslose,834,1,99.88,2021,2023
+a_alo_ausländer_f,Ausländische weibliche Arbeitslose,834,1,99.88,2007,2023
+a_alo_ausländer_m,Ausländische männliche Arbeitslose,834,1,99.88,2013,2023
+a_alo_experte,Arbeitslose mit Anforderungsniveau Experte,834,1,99.88,2021,2023
+a_alo_f,Arbeitslose Frauen,834,1,99.88,2021,2023
+a_alo_fachkraft,Arbeitslose mit Anforderungsniveau Fachkraft,834,1,99.88,2021,2023
+a_alo_helfer,Arbeitslose mit Anforderungsniveau Helfer,834,1,99.88,2021,2023
+a_alo_m,Arbeitslose Männer,834,1,99.88,2021,2023
+a_alo_oAusb,Arbeitslose ohne Ausbildung,834,1,99.88,2021,2023
+a_alo_spezialist,Arbeitslose mit Anforderungsniveau Spezialist,834,1,99.88,2021,2023
+a_alo_u25,Anteil jüngere Arbeitslose,834,1,99.88,2021,2023
+a_alo_u25_f,Anteil weibliche jüngere Arbeitslose,834,1,99.88,2007,2023
+a_alo_u25_m,Anteil männliche jüngere Arbeitslose,834,1,99.88,2013,2023
+a_alo_ü55,Anteil ältere Arbeitslose,834,1,99.88,2021,2023
+a_alo_ü55_f,Anteil weibliche ältere Arbeitslose,834,1,99.88,2007,2023
+a_alo_ü55_m,Anteil männliche ältere Arbeitslose,834,1,99.88,2013,2023
+a_ausp_svw,Auspendler,834,1,99.88,2023,2023
+a_bb_1000Mbits,Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s,834,1,99.88,2022,2023
+a_bb_100Mbits,Bandbreitenverfügbarkeit mindestens 100 Mbit/s,834,1,99.88,2023,2023
+a_bb_4G,Arbeitslosigkeit,834,1,99.88,2023,2023
+a_bb_50Mbits,Bandbreitenverfügbarkeit mindestens 50 Mbit/s,834,1,99.88,2023,2023
+a_bev0003,Einwohner unter 3 Jahren,834,1,99.88,2023,2023
+a_bev0306,Einwohner von 3 bis unter 6 Jahren,834,1,99.88,2023,2023
+a_bev0618,Einwohner von 6 bis unter 18 Jahren,834,1,99.88,2023,2023
+a_bev1825,Einwohner von 18 bis unter 25 Jahren,834,1,99.88,2023,2023
+a_bev1825_f,"Einwohner von 18 bis unter 25 Jahren, Frauen",834,1,99.88,2022,2023
+a_bev2530,Einwohner von 25 bis unter 30 Jahren,834,1,99.88,2023,2023
+a_bev2530_f,"Einwohner von 25 bis unter 30 Jahren, Frauen",834,1,99.88,2022,2023
+a_bev3050,Einwohner von 30 bis unter 50 Jahren,834,1,99.88,2023,2023
+a_bev5065,Einwohner von 50 bis unter 65 Jahren,834,1,99.88,2023,2023
+a_bev6575,Einwohner von 65 bis unter 75 Jahren,834,1,99.88,2023,2023
+a_bev6575_f,"Einwohner von 65 bis unter 75 Jahren, Frauen",834,1,99.88,2023,2023
+a_bev65um,Einwohner 65 Jahre und älter,834,1,99.88,2023,2023
+a_bev65um_f,"Einwohner 65 Jahre und älter, Frauen",834,1,99.88,2023,2023
+a_bev75um,Einwohner 75 Jahre und älter,834,1,99.88,2023,2023
+a_bev75um_f,"Einwohner 75 Jahre und älter, Frauen",834,1,99.88,2023,2023
+a_bevMZ,Bevölkerung in Mittelzentren,834,1,99.88,2023,2023
+a_bevOZ,Bevölkerung in Oberzentren,834,1,99.88,2023,2023
+a_bev_0006,Einwohner unter 6 Jahre,834,1,99.88,2023,2023
+a_bevd150_,Ländlichkeit,834,1,99.88,2023,2023
+a_bevf,Frauenanteil,834,1,99.88,2023,2023
+a_bevf_2040,Frauenanteil 20 bis unter 40 Jahre,834,1,99.88,2023,2023
+a_einp_sva,Einpendler,834,1,99.88,2012,2023
+a_erh,Erholungsfläche,834,1,99.88,2023,2023
+a_fert_wohn,Fertiggestellte Wohnungen je Wohnung im Bestand,834,1,99.88,2023,2023
+a_freifläche,Freifläche,834,1,99.88,2023,2023
+a_gb_Frauen,Anteil Minijobs (Frauen),834,1,99.88,2020,2023
+a_gb_Männer,Anteil Minijobs (Männer),834,1,99.88,2020,2023
+a_gb_knj,Anteil Minijobs (ausschließlich) an geringfügig Beschäftigten,834,1,99.88,2020,2023
+a_gb_knj_prBv,Anteil Minijobs (ausschließlich) an den Beschäftigungsverhältnissen,834,1,99.88,2020,2023
+a_gb_nj,Anteil Minijobs (Nebenverdienst),834,1,99.88,2020,2023
+a_gb_nj_prBv,Anteil Minijobs (Nebenverdienst) an den Beschäftigungsverhältnissen,834,1,99.88,2020,2023
+a_geb_bev,Geborene,834,1,99.88,2021,2022
+a_gest_bev,Gestorbene,834,1,99.88,2023,2023
+a_hh_kind,Haushalte mit Kindern,834,1,99.88,2023,2023
+a_hheink_hoch,Haushalte mit hohem Einkommen,834,1,99.88,2023,2023
+a_hheink_mittel,Haushalte mit mittlerem Einkommen,834,1,99.88,2023,2023
+a_hheink_niedrig,Haushalte mit niedrigem Einkommen,834,1,99.88,2023,2023
+a_landwirtschaft,Landwirtschaftsfläche,834,1,99.88,2023,2023
+a_naturnah,Naturnähere Fläche,834,1,99.88,2023,2023
+a_pend150,Pendler mit Arbeitsweg 150 km und mehr,834,1,99.88,2023,2023
+a_pend300,Pendler mit Arbeitsweg 300 km und mehr,834,1,99.88,2023,2023
+a_pend50,Pendler mit Arbeitsweg 50 km und mehr,834,1,99.88,2023,2023
+a_suv_fl,Siedlungs- und Verkehrsfläche,834,1,99.88,2023,2023
+a_wald,Waldfläche,834,1,99.88,2023,2023
+a_wasser,Wasserfläche,834,1,99.88,2023,2023
+a_wg_wo12,Ein- und Zweifamilienhäuser,834,1,99.88,2023,2023
+a_wg_wo3um,Mehrfamilienhäuser,834,1,99.88,2023,2023
+a_wo_r12,Ein- und Zweiraumwohnungen,834,1,99.88,2023,2023
+a_wo_r5um,5- und mehr Raum-Wohnungen,834,1,99.88,2023,2023
+a_wo_wg12,Wohnungen in Ein- und Zweifamilienhäusern,834,1,99.88,2023,2023
+a_wo_wg3um,Wohnungen in Mehrfamilienhäusern,834,1,99.88,2023,2023
+alo,Arbeitslose,834,1,99.88,2023,2023
+bev_korr,Bevölkerung (mit BBSR-Zensuskorrekturen),834,1,99.88,2023,2023
+d_steuereinnahme,Steuereinnahmen,834,1,99.88,2023,2023
+e10_bev,Bevölkerungsentwicklung (10 Jahre),834,1,99.88,2023,2023
+e5_bev,Bevölkerungsentwicklung (5 Jahre),834,1,99.88,2023,2023
+ewf_1565_ges,Erwerbsfähige Bevölkerung (15 bis unter 65 Jahre),834,1,99.88,2023,2023
+i_fz_mz,Erreichbarkeit von Mittelzentren,834,1,99.88,2021,2021
+i_fz_oz,Erreichbarkeit von Oberzentren,834,1,99.88,2021,2021
+i_saldo_nat,Natürlicher Saldo,834,1,99.88,2021,2022
+i_wans,Gesamtwanderungssaldo,834,1,99.88,2023,2023
+m_ErrAir_bev,Erreichbarkeit von Flughäfen,834,1,99.88,2024,2024
+m_ErrBAB_bev,Erreichbarkeit von Autobahnen,834,1,99.88,2024,2024
+m_ErrIC_bev,Erreichbarkeit von IC/EC/ICE-Bahnhöfen,834,1,99.88,2024,2024
+m_G02_SUP_DIST,Entfernung zum Supermarkt/Discounter,834,1,99.88,2023,2023
+m_OEV20_DIST,Entfernung zur ÖV Haltestelle,834,1,99.88,2022,2022
+m_P01_PRIM_DIST,Entfernung zur Grundschule,834,1,99.88,2023,2023
+m_Q01_APO_DIST,Entfernung zur Apotheke,834,1,99.88,2023,2023
+m_Q07_HA_DIST,Entfernung zum Hausarzt,834,1,99.88,2023,2023
+m_bev_alter,Durchschnittsalter der Bevölkerung,834,1,99.88,2023,2023
+q_HH,Haushaltsgröße,834,1,99.88,2023,2023
+q_HH1,Einpersonenhaushalte,834,1,99.88,2023,2023
+q_PBG_bev,Personen in Bedarfsgemeinschaften,834,1,99.88,2022,2022
+q_abhg_alt,Abhängigenquote Alte,834,1,99.88,2023,2023
+q_abhg_jung,Abhängigenquote Junge,834,1,99.88,2023,2023
+q_allgemeinärzte_bev,Allgemeinärzte,834,1,99.88,2022,2022
+q_alo_u25_einw,Jüngere Arbeitslose,834,1,99.88,2023,2023
+q_alo_u25_einw_f,Weibliche jüngere Arbeitslose,834,1,99.88,2016,2023
+q_alo_u25_einw_m,Männliche jüngere Arbeitslose,834,1,99.88,2023,2023
+q_alo_ü55_einw,Ältere Arbeitslose,834,1,99.88,2023,2023
+q_alo_ü55_einw_f,Weibliche ältere Arbeitslose,834,1,99.88,2023,2023
+q_alo_ü55_einw_m,Männliche ältere Arbeitslose,834,1,99.88,2023,2023
+q_bev_fl,Einwohnerdichte,834,1,99.88,2023,2023
+q_bevsva_qkm,Einwohner-Arbeitsplatz-Dichte,834,1,99.88,2022,2023
+q_einkst_bev,Einkommensteuer,834,1,99.88,2023,2023
+q_einzelhandelskaufkraft,Einzelhandelsrelevante Kaufkraft,834,1,99.88,2023,2023
+q_erhfl_bev,Erholungsfläche je Einwohner,834,1,99.88,2023,2023
+q_ew_suv_qkm,Siedlungsdichte in km²,834,1,99.88,2023,2023
+q_fert_wo12_bev,Neubauwohnungen in Ein- und Zweifamilienhäusern je Einwohner,834,1,99.88,2023,2023
+q_fert_wo3um_bev,Neubauwohnungen in Mehrfamilienhäusern je Einwohner,834,1,99.88,2023,2023
+q_fert_wo_bev,Neubauwohnungen je Einwohner,834,1,99.88,2023,2023
+q_freifläche_bev,Freifläche je Einwohner,834,1,99.88,2023,2023
+q_gen_wo_ew,Baugenehmigungen für Wohnungenje Einwohner,834,1,99.88,2023,2023
+q_gest_bev,Steuerkraft,834,1,99.88,2023,2023
+q_gewst_bev,Gewerbesteuer,834,1,99.88,2023,2023
+q_hausarzt_bev,Hausärzte,834,1,99.88,2022,2022
+q_internist_bev,Internisten,834,1,99.88,2022,2022
+q_kaufkraft,Kaufkraft,834,1,99.88,2023,2023
+q_kinderarzt_kinder,Kinderärzte,834,1,99.88,2022,2022
+q_naturnah_bev,Naturnähere Fläche je Einwohner,834,1,99.88,2023,2023
+q_newfBGu15_bev,Kinderarmut,834,1,99.88,2022,2022
+q_pendlersaldo,Pendlersaldo,834,1,99.88,2012,2023
+q_schlafg_bev,Schlafgelegenheiten in Beherbergungsbetrieben,834,1,99.88,2021,2023
+q_stud,Studierende,834,1,99.88,2023,2023
+q_stud_1825,Studierende je 100 Einwohner 18 bis 25 Jahre,834,1,99.88,2022,2023
+q_stud_fh,Studierende an FH,834,1,99.88,2023,2023
+q_svw,Beschäftigtenquote,834,1,99.88,2023,2023
+q_svw_f,Beschäftigtenquote Frauen,834,1,99.88,2023,2023
+q_svw_m,Beschäftigtenquote Männer,834,1,99.88,2023,2023
+q_svw_ü55,Quote ältere Beschäftigte,834,1,99.88,2018,2020
+q_umsst,Umsatzsteuer,834,1,99.88,2023,2023
+q_unf_bev,Straßenverkehrsunfälle,834,1,99.88,2023,2023
+q_vunp_bev,Verunglückte im Straßenverkehr,834,1,99.88,2023,2023
+q_vunpt_bev,Getötete im Straßenverkehr,834,1,99.88,2023,2023
+q_ärzte_bev,Ärzte,834,1,99.88,2022,2022
+q_übern_bev,Gästeübernachtungen in Beherbergungsbetrieben,834,1,99.88,2021,2023
+r_ewf_jungalt,Verhältnis junge zu alte Erwerbsfähige,834,1,99.88,2023,2023
+sva,Sozialversicherungspflichtig Beschäftigte am Arbeitsort,834,1,99.88,2022,2023
+svw,Sozialversicherungspflichtig Beschäftigte am Wohnort,834,1,99.88,2023,2023
+v_suvfl_vorjahr,Flächenneuinanspruchnahme,834,1,99.88,2023,2023
+xbev,Bevölkerung gesamt,834,1,99.88,2023,2023
+xbevf,Bevölkerung weiblich,834,1,99.88,2023,2023
+xbevm,Bevölkerung männlich,834,1,99.88,2023,2023
+a_gen_wo12,Baugenehmigungen für Wohnungen in Ein- und Zweifamilienhäusern,828,7,99.16,2004,2023
+a_gen_wo3um,Baugenehmigungen für Wohnungen in Mehrfamilienhäusern,828,7,99.16,2004,2023
+a_fert_wg12,Neue Ein- und Zweifamilienhäuser,827,8,99.04,2003,2023
+a_ALGII_SGBII,ALG II-Leistungen an SGBII,825,10,98.8,2021,2022
+a_Unterkunft_SGBII,Leistungen für Unterkunft an SGBII,825,10,98.8,2021,2022
+a_ewfBG,Erwerbsfähige Leistungsberechtigte,823,12,98.56,2021,2022
+a_ewfBG_55um_,Ältere erwerbsfähige Leistungsberechtigte,823,12,98.56,2021,2022
+a_ewfBG_allein,Alleinerziehende erwerbsfähige Leistungsberechtigte,823,12,98.56,2021,2022
+a_ewfBG_f,Erwerbsfähige Leistungsberechtigte (Frauen),823,12,98.56,2021,2022
+a_ewfBG_u25_,Junge erwerbsfähige Leistungsberechtigte,823,12,98.56,2021,2022
+a_BG1P,Einpersonen-Bedarfsgemeinschaften,822,13,98.44,2021,2022
+a_BG5um,Große Bedarfsgemeinschaften,822,13,98.44,2021,2022
+a_BGKind,Bedarfsgemeinschaften mit Kindern,822,13,98.44,2021,2022
+a_fert_wo12,Neubauwohnungen in Ein- und Zweifamilienhäusern,818,17,97.96,2015,2023
+m_übern,Verweildauer in Beherbergungsbetrieben,373,462,44.67,2009,2023
+q_sach,Ausgaben für Sachinvestitionen,251,584,30.06,2019,2020
+q_investZ,Zuweisungen für Investitionsfördermaßnahmen,248,587,29.7,2019,2020
+q_schlüsselzuw,Schlüsselzuweisungen,245,590,29.34,2020,2020
+a_stud_1,Studierende im 1. Semester,33,802,3.95,2023,2023
+a_stud_a,Ausländische Studierende,33,802,3.95,2023,2023
+a_stud_m,Männliche Studierende,33,802,3.95,2023,2023
+a_stud_w,Weibliche Studierende,33,802,3.95,2023,2023

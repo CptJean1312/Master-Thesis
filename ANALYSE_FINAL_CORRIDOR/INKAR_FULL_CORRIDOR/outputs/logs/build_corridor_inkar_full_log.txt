@@ -1,0 +1,8 @@
+2026-03-19 11:43:58 | Loading corridor municipalities.
+2026-03-19 11:43:59 | Corridor municipalities loaded:  835
+2026-03-19 11:43:59 | Reading original INKAR raw CSV.
+2026-03-19 11:44:27 | Filtered INKAR long rows for corridor:  2076895
+2026-03-19 11:44:27 | Latest municipality x indicator rows retained:  141217  across  834  municipalities and  176  indicators.
+2026-03-19 11:44:28 | Wrote GPKG:  /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/gpkg/corridor_full_inkar_original_codes.gpkg
+2026-03-19 11:44:28 | Wrote indicator inventory and headline tables.
+2026-03-19 11:44:28 | Pair check a_ALGII_SGBII vs a_Unterkunft_SGBII: n_complete= 825 , correlation= -0.702834
