@@ -198,6 +198,28 @@ old51_codes <- c(
   "q_bev_fl", "q_bevsva_qkm"
 )
 
+thesis_candidate_codes <- c(
+  "a_ALGII_SGBII",
+  "a_aloLang",
+  "q_alo_u25_einw",
+  "q_alo_ü55_einw",
+  "a_Minijobs",
+  "q_kaufkraft",
+  "a_hheink_niedrig",
+  "a_bev65um",
+  "q_HH1",
+  "a_hh_kind",
+  "a_ewfBG_allein",
+  "m_G02_SUP_DIST",
+  "m_Q01_APO_DIST",
+  "m_Q07_HA_DIST",
+  "m_OEV20_DIST",
+  "m_P01_PRIM_DIST",
+  "q_ärzte_bev",
+  "a_bb_100Mbits",
+  "a_bb_4G"
+)
+
 curated_codes <- c(
   "a_ALGII_SGBII",
   "a_aloLang",
@@ -220,6 +242,9 @@ curated_codes <- c(
 
 if (length(setdiff(old51_codes, names(full_corridor))) > 0) {
   stop("Some original wide-PCA variables are missing in the full corridor table.")
+}
+if (length(setdiff(thesis_candidate_codes, names(full_corridor))) > 0) {
+  stop("Some thesis-candidate variables are missing in the full corridor table.")
 }
 if (length(setdiff(curated_codes, names(full_corridor))) > 0) {
   stop("Some curated variables are missing in the full corridor table.")
@@ -248,11 +273,18 @@ sgbii_review <- c("a_BG1P", "a_BG5um", "a_BGKind", "a_ewfBG", "a_ewfBG_allein")
 tourism_context <- c("m_übern", "q_schlafg_bev", "q_übern_bev")
 public_finance <- c("q_sach", "q_investZ", "q_schlüsselzuw")
 landuse_context <- c("a_freifläche", "a_landwirtschaft", "a_naturnah", "a_wald", "a_wasser", "a_suv_fl", "a_wo_r12", "a_wo_r5um", "a_wg_wo12", "a_wg_wo3um", "a_wo_wg12", "a_wo_wg3um", "a_fert_wg12", "a_fert_wo12", "a_fert_wohn", "a_gen_wo12", "a_gen_wo3um", "a_gest_bev")
+landuse_context <- setdiff(landuse_context, "a_gest_bev")
 dynamics_context <- c("i_saldo_nat", "i_wans", "a_geb_bev", "a_gest_bev")
+
+inventory <- inventory %>%
+  mutate(
+    Indikator = if_else(Kuerzel == "a_bb_4G", "4G-Mobilfunkverfügbarkeit", Indikator)
+  )
 
 review_table <- inventory %>%
   mutate(
     in_old51 = Kuerzel %in% old51_codes,
+    in_thesis_candidate = Kuerzel %in% thesis_candidate_codes,
     in_curated = Kuerzel %in% curated_codes,
     proposed_status = case_when(
       in_curated ~ "core_curated_pca",
@@ -300,6 +332,7 @@ review_table <- inventory %>%
 
 write_csv(review_table, file.path(paths$output_dir, "tables", "corridor_variable_review_table.csv"))
 write_csv(review_table %>% filter(in_old51), file.path(paths$output_dir, "tables", "original_wide51_variable_list.csv"))
+write_csv(review_table %>% filter(in_thesis_candidate), file.path(paths$output_dir, "tables", "thesis_candidate_variable_list.csv"))
 write_csv(review_table %>% filter(in_curated), file.path(paths$output_dir, "tables", "curated_variable_list.csv"))
 
 log_message("Running original 51-variable PCA review bundle.")
@@ -308,16 +341,24 @@ old51_bundle <- run_pca_bundle(full_corridor, old51_codes, "old51", "Original 51
 log_message("Running all-176-variable PCA review bundle.")
 all176_bundle <- run_pca_bundle(full_corridor, all_codes, "all176", "All 176 corridor indicators")
 
+log_message("Running thesis-candidate PCA review bundle.")
+thesis_candidate_bundle <- run_pca_bundle(full_corridor, thesis_candidate_codes, "thesis_candidate", "Thesis-candidate set")
+
 log_message("Running curated PCA review bundle.")
 curated_bundle <- run_pca_bundle(full_corridor, curated_codes, "curated", "Curated vulnerability set")
 
 comparison <- tibble(
-  model = c("original_51", "all_176", "curated"),
-  variables = c(length(old51_codes), length(all_codes), length(curated_codes)),
-  municipalities_used = c(nrow(old51_bundle$data_imputed), nrow(all176_bundle$data_imputed), nrow(curated_bundle$data_imputed)),
-  pc1_variance = c(old51_bundle$scree$variance[1], all176_bundle$scree$variance[1], curated_bundle$scree$variance[1]),
-  pc1_to_pc4_cumulative = c(old51_bundle$scree$cumulative[4], all176_bundle$scree$cumulative[4], curated_bundle$scree$cumulative[4]),
-  pc1_to_pc8_cumulative = c(old51_bundle$scree$cumulative[8], all176_bundle$scree$cumulative[8], curated_bundle$scree$cumulative[min(8, nrow(curated_bundle$scree))])
+  model = c("original_51", "all_176", "thesis_candidate_19", "curated_17"),
+  variables = c(length(old51_codes), length(all_codes), length(thesis_candidate_codes), length(curated_codes)),
+  municipalities_used = c(nrow(old51_bundle$data_imputed), nrow(all176_bundle$data_imputed), nrow(thesis_candidate_bundle$data_imputed), nrow(curated_bundle$data_imputed)),
+  pc1_variance = c(old51_bundle$scree$variance[1], all176_bundle$scree$variance[1], thesis_candidate_bundle$scree$variance[1], curated_bundle$scree$variance[1]),
+  pc1_to_pc4_cumulative = c(old51_bundle$scree$cumulative[4], all176_bundle$scree$cumulative[4], thesis_candidate_bundle$scree$cumulative[4], curated_bundle$scree$cumulative[4]),
+  pc1_to_pc8_cumulative = c(
+    old51_bundle$scree$cumulative[8],
+    all176_bundle$scree$cumulative[8],
+    thesis_candidate_bundle$scree$cumulative[8],
+    curated_bundle$scree$cumulative[min(8, nrow(curated_bundle$scree))]
+  )
 )
 write_csv(comparison, file.path(paths$output_dir, "tables", "pca_model_comparison.csv"))
 
@@ -327,6 +368,7 @@ pair_check <- read_csv(
 )
 
 selected_review_codes <- c(
+  thesis_candidate_codes,
   curated_codes,
   "a_ALGII_SGBII", "a_Unterkunft_SGBII", "a_BG1P", "a_BGKind", "a_BG5um", "a_ewfBG_allein",
   "a_bev65um", "a_bev75um", "q_abhg_alt", "q_HH1", "a_hh_kind", "a_hheink_niedrig",
@@ -445,9 +487,36 @@ report_lines <- c(
   "Interpretation:",
   "- The all-176 PCA is useful as a broad structural diagnostic, not as the main final index.",
   "- The original 51-variable PCA is a cleaner exploratory subset than all 176, but it still contains several duplicated constructs.",
-  "- The curated PCA sacrifices breadth for interpretability and should be the strongest candidate for the main thesis index.",
+  "- The thesis-candidate set is the pragmatic middle ground: broader than the strict curated core, but already cleaned from the most obvious definition conflicts and duplicate blocks.",
+  "- The curated PCA sacrifices breadth for interpretability and remains the strictest option.",
   "",
-  "## 8. Proposed curated variable set for the main vulnerability PCA",
+  "## 8. Thesis-candidate variable set from all available corridor indicators",
+  "",
+  "This is the proposed working set for the thesis right now: broader than the strict 17-variable core, but already cleaned enough to remove the most problematic overlaps.",
+  vapply(seq_len(nrow(selected_review %>% filter(Kuerzel %in% thesis_candidate_codes) %>% arrange(match(Kuerzel, thesis_candidate_codes)))), function(i) {
+    df <- selected_review %>% filter(Kuerzel %in% thesis_candidate_codes) %>% arrange(match(Kuerzel, thesis_candidate_codes))
+    sprintf(
+      "- `%s` — %s | coverage `%s%%` | %s",
+      df$Kuerzel[i],
+      df$Indikator[i],
+      format(df$coverage_pct[i], nsmall = 2),
+      df$handling_note[i]
+    )
+  }, character(1)),
+  "",
+  "Working logic of the thesis-candidate set:",
+  "- it keeps more nuance than the strict curated 17, especially within labour market strain and accessibility;",
+  "- it still removes the clearest duplicates and definition problems;",
+  "- it is broad enough for a meaningful PCA, but much easier to interpret than the old 51-variable block;",
+  "- it avoids keeping several variables that say almost the same thing at the same time.",
+  "",
+  "Thesis-candidate correlation heatmap:",
+  "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/thesis_candidate_correlation_heatmap.png`",
+  "",
+  "Top correlation pairs from the thesis-candidate set:",
+  "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_correlation_pairs.csv`",
+  "",
+  "## 9. Proposed strict curated variable set for the main vulnerability PCA",
   "",
   "These are the proposed core variables for the main interpretable PCA:",
   vapply(seq_len(nrow(selected_review %>% filter(in_curated))), function(i) {
@@ -467,7 +536,7 @@ report_lines <- c(
   "- it reduces compositional over-weighting from nested age, income, physician, and broadband blocks;",
   "- it stays close to the literature-based logic of deprivation, demographic sensitivity, household/social structure, and accessibility/adaptive capacity.",
   "",
-  "## 9. Selected variables that need explicit caution",
+  "## 10. Selected variables that need explicit caution",
   "",
   vapply(seq_len(nrow(selected_review)), function(i) {
     sprintf(
@@ -480,7 +549,7 @@ report_lines <- c(
     )
   }, character(1)),
   "",
-  "## 10. Full corridor variable inventory",
+  "## 11. Full corridor variable inventory",
   "",
   "The complete review table is saved here:",
   "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/corridor_variable_review_table.csv`",
@@ -488,17 +557,154 @@ report_lines <- c(
   "Below, all corridor variables are listed by broad socio-economic dimension with a proposed handling note.",
   "",
   unlist(dimension_lines, use.names = FALSE),
-  "## 11. Recommended next step",
+  "## 12. Recommended next step",
   "",
   "- Keep the original 51-variable PCA as an exploratory comparison / appendix result.",
   "- Use the all-176 PCA only as a diagnostic exercise, not as the main thesis index.",
-  "- Build the main vulnerability index from the curated set, then inspect its loadings and signs carefully.",
+  "- Use the thesis-candidate set as the current working set for substantive thesis analyses.",
+  "- Keep the strict curated 17-variable set as a robustness / interpretability check.",
   "- If needed, we can next turn this directly into a keep/review/drop decision meeting note or a reply draft to the supervisors."
 )
 
 report_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/INKAR_VARIABLE_REVIEW_AND_PCA.md"
 writeLines(report_lines, report_path)
 
+all_inventory_lines <- lapply(split(review_table, review_table$broad_dimension), function(df) {
+  c(
+    sprintf("### %s", unique(df$broad_dimension)),
+    "",
+    sprintf("- Indicators in this block: `%s`", nrow(df)),
+    sprintf("- Median coverage: `%s%%`", format(round(median(df$coverage_pct, na.rm = TRUE), 2), nsmall = 2)),
+    "",
+    vapply(seq_len(nrow(df)), function(i) {
+      sprintf(
+        "- `%s` — %s | coverage `%s%%` | status `%s`",
+        df$Kuerzel[i],
+        df$Indikator[i],
+        format(df$coverage_pct[i], nsmall = 2),
+        df$proposed_status[i]
+      )
+    }, character(1)),
+    ""
+  )
+})
+
+overview_lines <- c(
+  "# INKAR HQ500 OVERVIEW",
+  "",
+  sprintf("Created: `%s`", format(Sys.time(), "%Y-%m-%d %H:%M:%S")),
+  "",
+  "## 1. Study area",
+  "",
+  "The study area is defined as the HQ500 Elbe flood corridor.",
+  "- Municipalities were retained if they intersect the RP500 flood extent derived from the prepared EFAS flood rasters.",
+  "- This replaces the older basin-wide definition and focuses the analysis on municipalities that are actually flood-relevant under an extreme return period.",
+  "- Corridor municipalities in the current geometry layer: `835`.",
+  "- Municipalities with a latest available raw-INKAR record after corridor filtering: `834`.",
+  "- One municipality (`16076094`, Berga-Wünschendorf) remains missing in the current raw-INKAR latest-build table and should be documented explicitly.",
+  "",
+  "Core corridor files:",
+  "- Geometry + all original INKAR codes: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/gpkg/corridor_full_inkar_original_codes.gpkg`",
+  "- Flat table + all original INKAR codes: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/tables/corridor_full_inkar_original_codes.csv`",
+  "",
+  "## 2. All available INKAR variables in the corridor",
+  "",
+  "- Number of original INKAR indicators available in the corridor latest-build table: `176`.",
+  "- Inventory with official names, coverage, and broad dimensions: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/tables/corridor_inkar_indicator_inventory_dimensioned.csv`",
+  "- Short summary by broad dimension: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/tables/corridor_inkar_dimension_summary.csv`",
+  "",
+  "All available corridor indicators grouped by broad dimension:",
+  "",
+  unlist(all_inventory_lines, use.names = FALSE),
+  "## 3. Correlation matrix of all available corridor variables",
+  "",
+  "The full 176-variable correlation matrix is useful as a diagnostic step, not as a final model input on its own.",
+  "- Correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/all176_correlation_heatmap.png`",
+  "- Top absolute correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/all176_top_correlation_pairs.csv`",
+  "",
+  "Why this step matters:",
+  "- it shows where several indicators measure the same underlying construct;",
+  "- it makes compositional counterparts visible;",
+  "- it helps identify definition-sensitive indicators before PCA loadings are interpreted.",
+  "",
+  "## 4. Original 51-variable wide PCA set",
+  "",
+  "The original 51-variable set came from the earlier INKAR preprocessing script and was designed as a broad exploratory screening block.",
+  "- Source logic: one manually assembled selection spanning poverty/welfare, unemployment, demography, dependency, household structure, income groups, health care, digital infrastructure, accessibility, and density.",
+  "- This was a reasonable exploratory starting point because it allowed the covariance structure of a broad vulnerability field to emerge from the data.",
+  "- At the same time, the block was not yet fully cleaned for duplicated constructs or definition conflicts.",
+  "",
+  "Original 51-variable files:",
+  "- Variable list: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/original_wide51_variable_list.csv`",
+  "- Correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/old51_correlation_heatmap.png`",
+  "- Top correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/old51_top_correlation_pairs.csv`",
+  "- Scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/old51_scree.csv`",
+  "",
+  "Main methodological issue with the old 51-variable set:",
+  "- several variables partly say the same thing;",
+  "- nested age blocks over-weight demographic composition;",
+  "- multiple broadband thresholds duplicate one digital-access construct;",
+  "- specialist-specific physician indicators overlap strongly with total physician supply;",
+  "- SGB-II-related indicators include at least one definition-sensitive pair and one naming mismatch (`a_BG1P`).",
+  "",
+  "## 5. Working thesis candidate set from all available variables",
+  "",
+  "This is the recommended working set for the thesis at the current stage: broader than the strict 17-variable core, but cleaned enough to avoid the clearest double-counting problems.",
+  "",
+  vapply(seq_len(length(thesis_candidate_codes)), function(i) {
+    code <- thesis_candidate_codes[i]
+    row <- review_table %>% filter(Kuerzel == code) %>% slice(1)
+    sprintf(
+      "- `%s` — %s | coverage `%s%%` | %s",
+      row$Kuerzel,
+      row$Indikator,
+      format(row$coverage_pct, nsmall = 2),
+      row$handling_note
+    )
+  }, character(1)),
+  "",
+  "Selection logic of the thesis candidate set:",
+  "- keep a broad but interpretable coverage of deprivation, labour-market strain, demographic sensitivity, household/social structure, accessibility, health access, and digital infrastructure;",
+  "- remove direct duplicates or near-duplicates wherever possible;",
+  "- remove variables with clearly problematic definitions for interpretation;",
+  "- keep the set broad enough for PCA while avoiding obvious over-weighting of the same latent construct.",
+  "",
+  "Thesis-candidate files:",
+  "- Variable list: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_variable_list.csv`",
+  "- Correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/thesis_candidate_correlation_heatmap.png`",
+  "- Top correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_correlation_pairs.csv`",
+  "- Scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_scree.csv`",
+  "- Top loadings: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_loadings.csv`",
+  "",
+  "## 6. PCA comparison across all sets",
+  "",
+  comparison_lines,
+  "",
+  "Interpretation:",
+  "- `all 176` is too broad to be the main thesis PCA, but very useful as a structural diagnostic.",
+  "- `original 51` remains useful as an exploratory benchmark and historical reference.",
+  "- `thesis candidate 19` is currently the most balanced working set for the thesis.",
+  "- `curated 17` remains the stricter fallback / robustness set.",
+  "",
+  "## 7. Immediate methodological takeaway",
+  "",
+  "- Yes, the old wide PCA made sense as an exploratory first step.",
+  "- No, it should probably not remain the only final vulnerability index without additional variable curation.",
+  "- The safer thesis strategy is to document three layers clearly:",
+  "  - `all 176` for inventory and structural diagnosis,",
+  "  - `original 51` for exploratory comparison,",
+  "  - `thesis candidate 19` as the main working PCA set.",
+  "",
+  "## 8. Related note",
+  "",
+  "A more detailed review note with additional handling commentary is saved here:",
+  "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/INKAR_VARIABLE_REVIEW_AND_PCA.md`"
+)
+
+overview_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_HQ500_OVERVIEW.md"
+writeLines(overview_lines, overview_path)
+
 writeLines(log_lines, log_path)
 log_message("Wrote report: ", report_path)
+log_message("Wrote overview: ", overview_path)
 log_message("Done.")

@@ -1,6 +1,6 @@
 # INKAR Corridor Variable Review and PCA Note
 
-Created: `2026-03-19 12:09:54`
+Created: `2026-03-19 12:35:14`
 
 ## 1. Why this note exists
 
@@ -66,14 +66,51 @@ Top correlation pairs from the old 51-variable set are saved here:
 Comparison across model versions:
 - `original_51`:  51 variables, 834 municipalities, PC1 variance `16.18%`, cumulative PC1-PC4 `43.40%`, cumulative PC1-PC8 `60.07%`
 - `all_176`: 176 variables, 834 municipalities, PC1 variance `15.14%`, cumulative PC1-PC4 `33.01%`, cumulative PC1-PC8 `44.14%`
-- `curated`:  17 variables, 834 municipalities, PC1 variance `27.65%`, cumulative PC1-PC4 `63.44%`, cumulative PC1-PC8 `83.15%`
+- `thesis_candidate_19`:  19 variables, 834 municipalities, PC1 variance `26.38%`, cumulative PC1-PC4 `55.68%`, cumulative PC1-PC8 `75.43%`
+- `curated_17`:  17 variables, 834 municipalities, PC1 variance `27.65%`, cumulative PC1-PC4 `63.44%`, cumulative PC1-PC8 `83.15%`
 
 Interpretation:
 - The all-176 PCA is useful as a broad structural diagnostic, not as the main final index.
 - The original 51-variable PCA is a cleaner exploratory subset than all 176, but it still contains several duplicated constructs.
-- The curated PCA sacrifices breadth for interpretability and should be the strongest candidate for the main thesis index.
+- The thesis-candidate set is the pragmatic middle ground: broader than the strict curated core, but already cleaned from the most obvious definition conflicts and duplicate blocks.
+- The curated PCA sacrifices breadth for interpretability and remains the strictest option.
 
-## 8. Proposed curated variable set for the main vulnerability PCA
+## 8. Thesis-candidate variable set from all available corridor indicators
+
+This is the proposed working set for the thesis right now: broader than the strict 17-variable core, but already cleaned enough to remove the most problematic overlaps.
+- `a_ALGII_SGBII` — ALG II-Leistungen an SGBII | coverage `98.80%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_aloLang` — Langzeitarbeitslose | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_alo_u25_einw` — Jüngere Arbeitslose | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | Review individually; not obviously required for the core vulnerability index.
+- `a_Minijobs` — Anteil Minijobs an den Beschäftigungsverhältnissen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_kaufkraft` — Kaufkraft | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_hheink_niedrig` — Haushalte mit niedrigem Einkommen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_bev65um` — Einwohner 65 Jahre und älter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_HH1` — Einpersonenhaushalte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_hh_kind` — Haushalte mit Kindern | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
+- `m_G02_SUP_DIST` — Entfernung zum Supermarkt/Discounter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `m_Q01_APO_DIST` — Entfernung zur Apotheke | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `m_Q07_HA_DIST` — Entfernung zum Hausarzt | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `m_OEV20_DIST` — Entfernung zur ÖV Haltestelle | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | Access concept already captured by distance-based measures; use as optional robustness check only.
+- `q_ärzte_bev` — Ärzte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_bb_100Mbits` — Bandbreitenverfügbarkeit mindestens 100 Mbit/s | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | Measures the same digital access construct at multiple thresholds; keep only one representative.
+
+Working logic of the thesis-candidate set:
+- it keeps more nuance than the strict curated 17, especially within labour market strain and accessibility;
+- it still removes the clearest duplicates and definition problems;
+- it is broad enough for a meaningful PCA, but much easier to interpret than the old 51-variable block;
+- it avoids keeping several variables that say almost the same thing at the same time.
+
+Thesis-candidate correlation heatmap:
+- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/thesis_candidate_correlation_heatmap.png`
+
+Top correlation pairs from the thesis-candidate set:
+- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_correlation_pairs.csv`
+
+## 9. Proposed strict curated variable set for the main vulnerability PCA
 
 These are the proposed core variables for the main interpretable PCA:
 - `a_ALGII_SGBII` — ALG II-Leistungen an SGBII | coverage `98.80%` | Keep as core candidate in the curated vulnerability PCA.
@@ -81,10 +118,8 @@ These are the proposed core variables for the main interpretable PCA:
 - `q_alo_u25_einw` — Jüngere Arbeitslose | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_Minijobs` — Anteil Minijobs an den Beschäftigungsverhältnissen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `q_kaufkraft` — Kaufkraft | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `q_einkst_bev` — Einkommensteuer | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hheink_niedrig` — Haushalte mit niedrigem Einkommen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bev65um` — Einwohner 65 Jahre und älter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `q_abhg_alt` — Abhängigenquote Alte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `q_HH1` — Einpersonenhaushalte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hh_kind` — Haushalte mit Kindern | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `m_G02_SUP_DIST` — Entfernung zum Supermarkt/Discounter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
@@ -93,6 +128,8 @@ These are the proposed core variables for the main interpretable PCA:
 - `m_OEV20_DIST` — Entfernung zur ÖV Haltestelle | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `q_ärzte_bev` — Ärzte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bb_100Mbits` — Bandbreitenverfügbarkeit mindestens 100 Mbit/s | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_einkst_bev` — Einkommensteuer | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_abhg_alt` — Abhängigenquote Alte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 
 Why this curated set is stronger:
 - it keeps one representative for each main vulnerability mechanism instead of several near-duplicates;
@@ -100,30 +137,33 @@ Why this curated set is stronger:
 - it reduces compositional over-weighting from nested age, income, physician, and broadband blocks;
 - it stays close to the literature-based logic of deprivation, demographic sensitivity, household/social structure, and accessibility/adaptive capacity.
 
-## 9. Selected variables that need explicit caution
+## 10. Selected variables that need explicit caution
 
 - `a_ALGII_SGBII` — ALG II-Leistungen an SGBII | coverage `98.80%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_aloLang` — Langzeitarbeitslose | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `q_alo_u25_einw` — Jüngere Arbeitslose | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
+- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `a_Minijobs` — Anteil Minijobs an den Beschäftigungsverhältnissen | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `q_kaufkraft` — Kaufkraft | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
-- `q_einkst_bev` — Einkommensteuer | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hheink_niedrig` — Haushalte mit niedrigem Einkommen | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bev65um` — Einwohner 65 Jahre und älter | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
-- `q_abhg_alt` — Abhängigenquote Alte | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `q_HH1` — Einpersonenhaushalte | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hh_kind` — Haushalte mit Kindern | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
+- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `review_sgbii_specific_household_measure` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
 - `m_G02_SUP_DIST` — Entfernung zum Supermarkt/Discounter | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `m_Q01_APO_DIST` — Entfernung zur Apotheke | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `m_Q07_HA_DIST` — Entfernung zum Hausarzt | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `m_OEV20_DIST` — Entfernung zur ÖV Haltestelle | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
+- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | status `review_redundant_access_measure` | Access concept already captured by distance-based measures; use as optional robustness check only.
 - `q_ärzte_bev` — Ärzte | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bb_100Mbits` — Bandbreitenverfügbarkeit mindestens 100 Mbit/s | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
+- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
+- `q_einkst_bev` — Einkommensteuer | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
+- `q_abhg_alt` — Abhängigenquote Alte | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_Unterkunft_SGBII` — Leistungen für Unterkunft an SGBII | coverage `98.80%` | status `drop_overlap_with_algii` | Conceptually overlaps with a_ALGII_SGBII and is difficult to interpret as an independent vulnerability signal.
 - `a_BG1P` — Einpersonen-Bedarfsgemeinschaften | coverage `98.44%` | status `drop_definition_mismatch` | Officially this is Einpersonen-Bedarfsgemeinschaften, not single-parent households; the old label was misleading.
 - `a_BGKind` — Bedarfsgemeinschaften mit Kindern | coverage `98.44%` | status `review_sgbii_specific_household_measure` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
 - `a_BG5um` — Große Bedarfsgemeinschaften | coverage `98.44%` | status `review_sgbii_specific_household_measure` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
-- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `review_sgbii_specific_household_measure` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
 - `a_bev75um` — Einwohner 75 Jahre und älter | coverage `99.88%` | status `drop_nested_age_block` | Nested age-composition block; retaining many of these together overweights the same demographic structure.
 - `a_bb_50Mbits` — Bandbreitenverfügbarkeit mindestens 50 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
 - `a_bb_1000Mbits` — Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
@@ -131,7 +171,7 @@ Why this curated set is stronger:
 - `q_bev_fl` — Einwohnerdichte | coverage `99.88%` | status `context_or_control_only` | Useful as descriptive context or control, but not as part of the main vulnerability index.
 - `q_bevsva_qkm` — Einwohner-Arbeitsplatz-Dichte | coverage `99.88%` | status `context_or_control_only` | Useful as descriptive context or control, but not as part of the main vulnerability index.
 
-## 10. Full corridor variable inventory
+## 11. Full corridor variable inventory
 
 The complete review table is saved here:
 - `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/corridor_variable_review_table.csv`
@@ -188,7 +228,7 @@ Below, all corridor variables are listed by broad socio-economic dimension with 
 - `a_bevf` — Frauenanteil | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `a_bevf_2040` — Frauenanteil 20 bis unter 40 Jahre | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `a_geb_bev` — Geborene | coverage `99.88%` | status `context_demographic_dynamics` | Demographic dynamics may be reported descriptively, but are not core vulnerability dimensions here.
-- `a_gest_bev` — Gestorbene | coverage `99.88%` | status `context_land_use` | Land-use and housing context variable, not a direct social-vulnerability indicator.
+- `a_gest_bev` — Gestorbene | coverage `99.88%` | status `context_demographic_dynamics` | Demographic dynamics may be reported descriptively, but are not core vulnerability dimensions here.
 - `e10_bev` — Bevölkerungsentwicklung (10 Jahre) | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `e5_bev` — Bevölkerungsentwicklung (5 Jahre) | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `m_bev_alter` — Durchschnittsalter der Bevölkerung | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
@@ -228,7 +268,7 @@ Below, all corridor variables are listed by broad socio-economic dimension with 
 - `m_Q07_HA_DIST` — Entfernung zum Hausarzt | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `q_ärzte_bev` — Ärzte | coverage `99.88%` | status `core_curated_pca` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bb_1000Mbits` — Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
-- `a_bb_4G` — Arbeitslosigkeit | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
+- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
 - `a_bb_50Mbits` — Bandbreitenverfügbarkeit mindestens 50 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure` | Measures the same digital access construct at multiple thresholds; keep only one representative.
 - `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | status `review_redundant_access_measure` | Access concept already captured by distance-based measures; use as optional robustness check only.
 - `q_allgemeinärzte_bev` — Allgemeinärzte | coverage `99.88%` | status `drop_duplicate_health_measure` | Specialist-specific supply measure; keep total physician availability instead.
@@ -362,9 +402,10 @@ Below, all corridor variables are listed by broad socio-economic dimension with 
 - `q_svw_m` — Beschäftigtenquote Männer | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 - `q_svw_ü55` — Quote ältere Beschäftigte | coverage `99.88%` | status `review_not_in_curated_set` | Review individually; not obviously required for the core vulnerability index.
 
-## 11. Recommended next step
+## 12. Recommended next step
 
 - Keep the original 51-variable PCA as an exploratory comparison / appendix result.
 - Use the all-176 PCA only as a diagnostic exercise, not as the main thesis index.
-- Build the main vulnerability index from the curated set, then inspect its loadings and signs carefully.
+- Use the thesis-candidate set as the current working set for substantive thesis analyses.
+- Keep the strict curated 17-variable set as a robustness / interpretability check.
 - If needed, we can next turn this directly into a keep/review/drop decision meeting note or a reply draft to the supervisors.
