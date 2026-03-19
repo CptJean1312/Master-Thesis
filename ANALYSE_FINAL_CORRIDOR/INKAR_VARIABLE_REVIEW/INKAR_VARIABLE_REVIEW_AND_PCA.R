@@ -200,13 +200,17 @@ old51_codes <- c(
 
 thesis_candidate_codes <- c(
   "a_ALGII_SGBII",
+  "q_newfBGu15_bev",
   "a_aloLang",
   "q_alo_u25_einw",
   "q_alo_ü55_einw",
   "a_Minijobs",
+  "q_svw",
   "q_kaufkraft",
+  "q_einkst_bev",
   "a_hheink_niedrig",
   "a_bev65um",
+  "a_bev_0006",
   "q_HH1",
   "a_hh_kind",
   "a_ewfBG_allein",
@@ -216,8 +220,15 @@ thesis_candidate_codes <- c(
   "m_OEV20_DIST",
   "m_P01_PRIM_DIST",
   "q_ärzte_bev",
-  "a_bb_100Mbits",
+  "a_bb_50Mbits",
   "a_bb_4G"
+)
+
+student_sensitivity_codes <- c(
+  thesis_candidate_codes,
+  "q_stud",
+  "q_stud_1825",
+  "q_stud_fh"
 )
 
 curated_codes <- c(
@@ -245,6 +256,9 @@ if (length(setdiff(old51_codes, names(full_corridor))) > 0) {
 }
 if (length(setdiff(thesis_candidate_codes, names(full_corridor))) > 0) {
   stop("Some thesis-candidate variables are missing in the full corridor table.")
+}
+if (length(setdiff(student_sensitivity_codes, names(full_corridor))) > 0) {
+  stop("Some student-sensitivity variables are missing in the full corridor table.")
 }
 if (length(setdiff(curated_codes, names(full_corridor))) > 0) {
   stop("Some curated variables are missing in the full corridor table.")
@@ -285,12 +299,14 @@ review_table <- inventory %>%
   mutate(
     in_old51 = Kuerzel %in% old51_codes,
     in_thesis_candidate = Kuerzel %in% thesis_candidate_codes,
+    in_student_sensitivity = Kuerzel %in% student_sensitivity_codes,
     in_curated = Kuerzel %in% curated_codes,
     proposed_status = case_when(
       in_curated ~ "core_curated_pca",
+      in_thesis_candidate ~ "core_thesis_candidate",
+      Kuerzel %in% education_context ~ "student_sensitivity_only",
       Kuerzel == "a_Unterkunft_SGBII" ~ "drop_overlap_with_algii",
       Kuerzel == "a_BG1P" ~ "drop_definition_mismatch",
-      Kuerzel %in% education_context ~ "review_education_context",
       Kuerzel %in% education_low_coverage ~ "drop_low_coverage",
       coverage_pct < 90 ~ "drop_low_coverage",
       Kuerzel %in% subgroup_redundant ~ "drop_redundant_subgroup",
@@ -309,9 +325,10 @@ review_table <- inventory %>%
     ),
     handling_note = case_when(
       in_curated ~ "Keep as core candidate in the curated vulnerability PCA.",
+      in_thesis_candidate ~ "Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.",
+      Kuerzel %in% education_context ~ "Use only in a student-sensitivity PCA. These variables mainly capture university-town structure rather than core municipality-level social vulnerability.",
       Kuerzel == "a_Unterkunft_SGBII" ~ "Conceptually overlaps with a_ALGII_SGBII and is difficult to interpret as an independent vulnerability signal.",
       Kuerzel == "a_BG1P" ~ "Officially this is Einpersonen-Bedarfsgemeinschaften, not single-parent households; the old label was misleading.",
-      Kuerzel %in% education_context ~ "Student concentration may be analytically interesting, but it mainly captures university-center structure rather than core social vulnerability.",
       Kuerzel %in% education_low_coverage | coverage_pct < 90 ~ "Too sparse in the corridor sample for a stable main PCA.",
       Kuerzel %in% subgroup_redundant ~ "Specific subgroup breakdown of a broader indicator; likely to duplicate the same latent dimension.",
       Kuerzel %in% age_composition ~ "Nested age-composition block; retaining many of these together overweights the same demographic structure.",
@@ -333,6 +350,7 @@ review_table <- inventory %>%
 write_csv(review_table, file.path(paths$output_dir, "tables", "corridor_variable_review_table.csv"))
 write_csv(review_table %>% filter(in_old51), file.path(paths$output_dir, "tables", "original_wide51_variable_list.csv"))
 write_csv(review_table %>% filter(in_thesis_candidate), file.path(paths$output_dir, "tables", "thesis_candidate_variable_list.csv"))
+write_csv(review_table %>% filter(in_student_sensitivity & Kuerzel %in% student_sensitivity_codes), file.path(paths$output_dir, "tables", "student_sensitivity_variable_list.csv"))
 write_csv(review_table %>% filter(in_curated), file.path(paths$output_dir, "tables", "curated_variable_list.csv"))
 
 log_message("Running original 51-variable PCA review bundle.")
@@ -344,19 +362,23 @@ all176_bundle <- run_pca_bundle(full_corridor, all_codes, "all176", "All 176 cor
 log_message("Running thesis-candidate PCA review bundle.")
 thesis_candidate_bundle <- run_pca_bundle(full_corridor, thesis_candidate_codes, "thesis_candidate", "Thesis-candidate set")
 
+log_message("Running student-sensitivity PCA review bundle.")
+student_sensitivity_bundle <- run_pca_bundle(full_corridor, student_sensitivity_codes, "student_sensitivity", "Thesis candidate plus student sensitivity set")
+
 log_message("Running curated PCA review bundle.")
 curated_bundle <- run_pca_bundle(full_corridor, curated_codes, "curated", "Curated vulnerability set")
 
 comparison <- tibble(
-  model = c("original_51", "all_176", "thesis_candidate_19", "curated_17"),
-  variables = c(length(old51_codes), length(all_codes), length(thesis_candidate_codes), length(curated_codes)),
-  municipalities_used = c(nrow(old51_bundle$data_imputed), nrow(all176_bundle$data_imputed), nrow(thesis_candidate_bundle$data_imputed), nrow(curated_bundle$data_imputed)),
-  pc1_variance = c(old51_bundle$scree$variance[1], all176_bundle$scree$variance[1], thesis_candidate_bundle$scree$variance[1], curated_bundle$scree$variance[1]),
-  pc1_to_pc4_cumulative = c(old51_bundle$scree$cumulative[4], all176_bundle$scree$cumulative[4], thesis_candidate_bundle$scree$cumulative[4], curated_bundle$scree$cumulative[4]),
+  model = c("original_51", "all_176", "thesis_candidate_23", "student_sensitivity_26", "curated_17"),
+  variables = c(length(old51_codes), length(all_codes), length(thesis_candidate_codes), length(student_sensitivity_codes), length(curated_codes)),
+  municipalities_used = c(nrow(old51_bundle$data_imputed), nrow(all176_bundle$data_imputed), nrow(thesis_candidate_bundle$data_imputed), nrow(student_sensitivity_bundle$data_imputed), nrow(curated_bundle$data_imputed)),
+  pc1_variance = c(old51_bundle$scree$variance[1], all176_bundle$scree$variance[1], thesis_candidate_bundle$scree$variance[1], student_sensitivity_bundle$scree$variance[1], curated_bundle$scree$variance[1]),
+  pc1_to_pc4_cumulative = c(old51_bundle$scree$cumulative[4], all176_bundle$scree$cumulative[4], thesis_candidate_bundle$scree$cumulative[4], student_sensitivity_bundle$scree$cumulative[4], curated_bundle$scree$cumulative[4]),
   pc1_to_pc8_cumulative = c(
     old51_bundle$scree$cumulative[8],
     all176_bundle$scree$cumulative[8],
     thesis_candidate_bundle$scree$cumulative[8],
+    student_sensitivity_bundle$scree$cumulative[8],
     curated_bundle$scree$cumulative[min(8, nrow(curated_bundle$scree))]
   )
 )
@@ -369,6 +391,7 @@ pair_check <- read_csv(
 
 selected_review_codes <- c(
   thesis_candidate_codes,
+  student_sensitivity_codes,
   curated_codes,
   "a_ALGII_SGBII", "a_Unterkunft_SGBII", "a_BG1P", "a_BGKind", "a_BG5um", "a_ewfBG_allein",
   "a_bev65um", "a_bev75um", "q_abhg_alt", "q_HH1", "a_hh_kind", "a_hheink_niedrig",
@@ -488,6 +511,7 @@ report_lines <- c(
   "- The all-176 PCA is useful as a broad structural diagnostic, not as the main final index.",
   "- The original 51-variable PCA is a cleaner exploratory subset than all 176, but it still contains several duplicated constructs.",
   "- The thesis-candidate set is the pragmatic middle ground: broader than the strict curated core, but already cleaned from the most obvious definition conflicts and duplicate blocks.",
+  "- The student-sensitivity set adds the student concentration indicators only as a robustness run, not as part of the main thesis PCA.",
   "- The curated PCA sacrifices breadth for interpretability and remains the strictest option.",
   "",
   "## 8. Thesis-candidate variable set from all available corridor indicators",
@@ -516,7 +540,16 @@ report_lines <- c(
   "Top correlation pairs from the thesis-candidate set:",
   "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_correlation_pairs.csv`",
   "",
-  "## 9. Proposed strict curated variable set for the main vulnerability PCA",
+  "## 9. Student sensitivity block",
+  "",
+  "Because student populations can be socio-economically precarious but are also strongly tied to urban university locations, student indicators are not included in the main thesis-candidate PCA.",
+  "- Instead, they are added only in a dedicated sensitivity run.",
+  "- Student sensitivity variable list: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_variable_list.csv`",
+  "- Student sensitivity correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/student_sensitivity_correlation_heatmap.png`",
+  "- Student sensitivity top correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_top_correlation_pairs.csv`",
+  "- Student sensitivity scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_scree.csv`",
+  "",
+  "## 10. Proposed strict curated variable set for the main vulnerability PCA",
   "",
   "These are the proposed core variables for the main interpretable PCA:",
   vapply(seq_len(nrow(selected_review %>% filter(in_curated))), function(i) {
@@ -536,7 +569,7 @@ report_lines <- c(
   "- it reduces compositional over-weighting from nested age, income, physician, and broadband blocks;",
   "- it stays close to the literature-based logic of deprivation, demographic sensitivity, household/social structure, and accessibility/adaptive capacity.",
   "",
-  "## 10. Selected variables that need explicit caution",
+  "## 11. Selected variables that need explicit caution",
   "",
   vapply(seq_len(nrow(selected_review)), function(i) {
     sprintf(
@@ -549,7 +582,7 @@ report_lines <- c(
     )
   }, character(1)),
   "",
-  "## 11. Full corridor variable inventory",
+  "## 12. Full corridor variable inventory",
   "",
   "The complete review table is saved here:",
   "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/corridor_variable_review_table.csv`",
@@ -557,11 +590,12 @@ report_lines <- c(
   "Below, all corridor variables are listed by broad socio-economic dimension with a proposed handling note.",
   "",
   unlist(dimension_lines, use.names = FALSE),
-  "## 12. Recommended next step",
+  "## 13. Recommended next step",
   "",
   "- Keep the original 51-variable PCA as an exploratory comparison / appendix result.",
   "- Use the all-176 PCA only as a diagnostic exercise, not as the main thesis index.",
   "- Use the thesis-candidate set as the current working set for substantive thesis analyses.",
+  "- Use the student-sensitivity run only as a robustness check for how strongly university-center structure changes the PCA.",
   "- Keep the strict curated 17-variable set as a robustness / interpretability check.",
   "- If needed, we can next turn this directly into a keep/review/drop decision meeting note or a reply draft to the supervisors."
 )
@@ -676,26 +710,42 @@ overview_lines <- c(
   "- Scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_scree.csv`",
   "- Top loadings: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_loadings.csv`",
   "",
-  "## 6. PCA comparison across all sets",
+  "Student variables are intentionally excluded from this main set and are handled only in a separate sensitivity PCA.",
+  "",
+  "## 6. Student sensitivity block",
+  "",
+  "- Student sensitivity variable list: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_variable_list.csv`",
+  "- Student sensitivity correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/student_sensitivity_correlation_heatmap.png`",
+  "- Student sensitivity top correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_top_correlation_pairs.csv`",
+  "- Student sensitivity scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_scree.csv`",
+  "",
+  "Rationale:",
+  "- student populations can be economically precarious;",
+  "- but at municipality scale, student indicators also capture university-center structure very strongly;",
+  "- therefore they are better treated as a sensitivity block than as part of the main thesis index.",
+  "",
+  "## 7. PCA comparison across all sets",
   "",
   comparison_lines,
   "",
   "Interpretation:",
   "- `all 176` is too broad to be the main thesis PCA, but very useful as a structural diagnostic.",
   "- `original 51` remains useful as an exploratory benchmark and historical reference.",
-  "- `thesis candidate 19` is currently the most balanced working set for the thesis.",
+  "- `thesis candidate 23` is currently the most balanced working set for the thesis.",
+  "- `student sensitivity 26` shows what changes once student concentration variables are allowed into the PCA.",
   "- `curated 17` remains the stricter fallback / robustness set.",
   "",
-  "## 7. Immediate methodological takeaway",
+  "## 8. Immediate methodological takeaway",
   "",
   "- Yes, the old wide PCA made sense as an exploratory first step.",
   "- No, it should probably not remain the only final vulnerability index without additional variable curation.",
   "- The safer thesis strategy is to document three layers clearly:",
   "  - `all 176` for inventory and structural diagnosis,",
   "  - `original 51` for exploratory comparison,",
-  "  - `thesis candidate 19` as the main working PCA set.",
+  "  - `thesis candidate 23` as the main working PCA set,",
+  "  - `student sensitivity 26` as an additional robustness run.",
   "",
-  "## 8. Related note",
+  "## 9. Related note",
   "",
   "A more detailed review note with additional handling commentary is saved here:",
   "- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/INKAR_VARIABLE_REVIEW_AND_PCA.md`"

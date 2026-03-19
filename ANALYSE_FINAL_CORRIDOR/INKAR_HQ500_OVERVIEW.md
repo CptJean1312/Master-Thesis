@@ -1,6 +1,6 @@
 # INKAR HQ500 OVERVIEW
 
-Created: `2026-03-19 12:35:14`
+Created: `2026-03-19 14:55:55`
 
 ## 1. Study area
 
@@ -68,7 +68,7 @@ All available corridor indicators grouped by broad dimension:
 - `a_bev75um_f` — Einwohner 75 Jahre und älter, Frauen | coverage `99.88%` | status `drop_redundant_subgroup`
 - `a_bevMZ` — Bevölkerung in Mittelzentren | coverage `99.88%` | status `review_not_in_curated_set`
 - `a_bevOZ` — Bevölkerung in Oberzentren | coverage `99.88%` | status `review_not_in_curated_set`
-- `a_bev_0006` — Einwohner unter 6 Jahre | coverage `99.88%` | status `review_not_in_curated_set`
+- `a_bev_0006` — Einwohner unter 6 Jahre | coverage `99.88%` | status `core_thesis_candidate`
 - `a_bevd150_` — Ländlichkeit | coverage `99.88%` | status `review_not_in_curated_set`
 - `a_bevf` — Frauenanteil | coverage `99.88%` | status `review_not_in_curated_set`
 - `a_bevf_2040` — Frauenanteil 20 bis unter 40 Jahre | coverage `99.88%` | status `review_not_in_curated_set`
@@ -93,9 +93,9 @@ All available corridor indicators grouped by broad dimension:
 - Indicators in this block: `7`
 - Median coverage: `3.95%`
 
-- `q_stud` — Studierende | coverage `99.88%` | status `review_education_context`
-- `q_stud_1825` — Studierende je 100 Einwohner 18 bis 25 Jahre | coverage `99.88%` | status `review_education_context`
-- `q_stud_fh` — Studierende an FH | coverage `99.88%` | status `review_education_context`
+- `q_stud` — Studierende | coverage `99.88%` | status `student_sensitivity_only`
+- `q_stud_1825` — Studierende je 100 Einwohner 18 bis 25 Jahre | coverage `99.88%` | status `student_sensitivity_only`
+- `q_stud_fh` — Studierende an FH | coverage `99.88%` | status `student_sensitivity_only`
 - `a_stud_1` — Studierende im 1. Semester | coverage `3.95%` | status `drop_low_coverage`
 - `a_stud_a` — Ausländische Studierende | coverage `3.95%` | status `drop_low_coverage`
 - `a_stud_m` — Männliche Studierende | coverage `3.95%` | status `drop_low_coverage`
@@ -113,9 +113,9 @@ All available corridor indicators grouped by broad dimension:
 - `m_Q07_HA_DIST` — Entfernung zum Hausarzt | coverage `99.88%` | status `core_curated_pca`
 - `q_ärzte_bev` — Ärzte | coverage `99.88%` | status `core_curated_pca`
 - `a_bb_1000Mbits` — Bandbreitenverfügbarkeit mindestens 1.000 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure`
-- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | status `drop_duplicate_digital_measure`
-- `a_bb_50Mbits` — Bandbreitenverfügbarkeit mindestens 50 Mbit/s | coverage `99.88%` | status `drop_duplicate_digital_measure`
-- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | status `review_redundant_access_measure`
+- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | status `core_thesis_candidate`
+- `a_bb_50Mbits` — Bandbreitenverfügbarkeit mindestens 50 Mbit/s | coverage `99.88%` | status `core_thesis_candidate`
+- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | status `core_thesis_candidate`
 - `q_allgemeinärzte_bev` — Allgemeinärzte | coverage `99.88%` | status `drop_duplicate_health_measure`
 - `q_hausarzt_bev` — Hausärzte | coverage `99.88%` | status `drop_duplicate_health_measure`
 - `q_internist_bev` — Internisten | coverage `99.88%` | status `drop_duplicate_health_measure`
@@ -192,14 +192,14 @@ All available corridor indicators grouped by broad dimension:
 - `q_gewst_bev` — Gewerbesteuer | coverage `99.88%` | status `drop_complement_or_context`
 - `a_ewfBG` — Erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `review_sgbii_specific_household_measure`
 - `a_ewfBG_55um_` — Ältere erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `drop_redundant_subgroup`
-- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `review_sgbii_specific_household_measure`
+- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `core_thesis_candidate`
 - `a_ewfBG_f` — Erwerbsfähige Leistungsberechtigte (Frauen) | coverage `98.56%` | status `drop_redundant_subgroup`
 - `a_ewfBG_u25_` — Junge erwerbsfähige Leistungsberechtigte | coverage `98.56%` | status `drop_redundant_subgroup`
 - `q_PBG_bev` — Personen in Bedarfsgemeinschaften | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_einzelhandelskaufkraft` — Einzelhandelsrelevante Kaufkraft | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_gest_bev` — Steuerkraft | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_investZ` — Zuweisungen für Investitionsfördermaßnahmen | coverage `29.70%` | status `drop_low_coverage`
-- `q_newfBGu15_bev` — Kinderarmut | coverage `99.88%` | status `review_not_in_curated_set`
+- `q_newfBGu15_bev` — Kinderarmut | coverage `99.88%` | status `core_thesis_candidate`
 - `q_sach` — Ausgaben für Sachinvestitionen | coverage `30.06%` | status `drop_low_coverage`
 - `q_schlüsselzuw` — Schlüsselzuweisungen | coverage `29.34%` | status `drop_low_coverage`
 - `q_umsst` — Umsatzsteuer | coverage `99.88%` | status `review_not_in_curated_set`
@@ -212,7 +212,7 @@ All available corridor indicators grouped by broad dimension:
 - `a_aloLang` — Langzeitarbeitslose | coverage `99.88%` | status `core_curated_pca`
 - `q_alo_u25_einw` — Jüngere Arbeitslose | coverage `99.88%` | status `core_curated_pca`
 - `a_Minijobs` — Anteil Minijobs an den Beschäftigungsverhältnissen | coverage `99.88%` | status `core_curated_pca`
-- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | status `review_not_in_curated_set`
+- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | status `core_thesis_candidate`
 - `r_ewf_jungalt` — Verhältnis junge zu alte Erwerbsfähige | coverage `99.88%` | status `drop_nested_age_block`
 - `a_aloLang_f` — Weibliche Langzeitarbeitslose | coverage `99.88%` | status `drop_redundant_subgroup`
 - `a_aloLang_m` — Männliche Langzeitarbeitslose | coverage `99.88%` | status `drop_redundant_subgroup`
@@ -242,7 +242,7 @@ All available corridor indicators grouped by broad dimension:
 - `q_alo_u25_einw_m` — Männliche jüngere Arbeitslose | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_alo_ü55_einw_f` — Weibliche ältere Arbeitslose | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_alo_ü55_einw_m` — Männliche ältere Arbeitslose | coverage `99.88%` | status `review_not_in_curated_set`
-- `q_svw` — Beschäftigtenquote | coverage `99.88%` | status `review_not_in_curated_set`
+- `q_svw` — Beschäftigtenquote | coverage `99.88%` | status `core_thesis_candidate`
 - `q_svw_f` — Beschäftigtenquote Frauen | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_svw_m` — Beschäftigtenquote Männer | coverage `99.88%` | status `review_not_in_curated_set`
 - `q_svw_ü55` — Quote ältere Beschäftigte | coverage `99.88%` | status `review_not_in_curated_set`
@@ -283,24 +283,28 @@ Main methodological issue with the old 51-variable set:
 This is the recommended working set for the thesis at the current stage: broader than the strict 17-variable core, but cleaned enough to avoid the clearest double-counting problems.
 
 - `a_ALGII_SGBII` — ALG II-Leistungen an SGBII | coverage `98.80%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_newfBGu15_bev` — Kinderarmut | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `a_aloLang` — Langzeitarbeitslose | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `q_alo_u25_einw` — Jüngere Arbeitslose | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | Review individually; not obviously required for the core vulnerability index.
+- `q_alo_ü55_einw` — Ältere Arbeitslose | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `a_Minijobs` — Anteil Minijobs an den Beschäftigungsverhältnissen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_svw` — Beschäftigtenquote | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `q_kaufkraft` — Kaufkraft | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `q_einkst_bev` — Einkommensteuer | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hheink_niedrig` — Haushalte mit niedrigem Einkommen | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_bev65um` — Einwohner 65 Jahre und älter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
+- `a_bev_0006` — Einwohner unter 6 Jahre | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `q_HH1` — Einpersonenhaushalte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `a_hh_kind` — Haushalte mit Kindern | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | Potentially informative, but highly specific to SGB II household composition and hard to generalize.
+- `a_ewfBG_allein` — Alleinerziehende erwerbsfähige Leistungsberechtigte | coverage `98.56%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `m_G02_SUP_DIST` — Entfernung zum Supermarkt/Discounter | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `m_Q01_APO_DIST` — Entfernung zur Apotheke | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `m_Q07_HA_DIST` — Entfernung zum Hausarzt | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
 - `m_OEV20_DIST` — Entfernung zur ÖV Haltestelle | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | Access concept already captured by distance-based measures; use as optional robustness check only.
+- `m_P01_PRIM_DIST` — Entfernung zur Grundschule | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 - `q_ärzte_bev` — Ärzte | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `a_bb_100Mbits` — Bandbreitenverfügbarkeit mindestens 100 Mbit/s | coverage `99.88%` | Keep as core candidate in the curated vulnerability PCA.
-- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | Measures the same digital access construct at multiple thresholds; keep only one representative.
+- `a_bb_50Mbits` — Bandbreitenverfügbarkeit mindestens 50 Mbit/s | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
+- `a_bb_4G` — 4G-Mobilfunkverfügbarkeit | coverage `99.88%` | Keep in the wider thesis-candidate PCA set; broad enough for a wide PCA, but cleaner than the original 51-variable block.
 
 Selection logic of the thesis candidate set:
 - keep a broad but interpretable coverage of deprivation, labour-market strain, demographic sensitivity, household/social structure, accessibility, health access, and digital infrastructure;
@@ -315,29 +319,46 @@ Thesis-candidate files:
 - Scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_scree.csv`
 - Top loadings: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/thesis_candidate_top_loadings.csv`
 
-## 6. PCA comparison across all sets
+Student variables are intentionally excluded from this main set and are handled only in a separate sensitivity PCA.
+
+## 6. Student sensitivity block
+
+- Student sensitivity variable list: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_variable_list.csv`
+- Student sensitivity correlation heatmap: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/plots/student_sensitivity_correlation_heatmap.png`
+- Student sensitivity top correlation pairs: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_top_correlation_pairs.csv`
+- Student sensitivity scree table: `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/outputs/tables/student_sensitivity_scree.csv`
+
+Rationale:
+- student populations can be economically precarious;
+- but at municipality scale, student indicators also capture university-center structure very strongly;
+- therefore they are better treated as a sensitivity block than as part of the main thesis index.
+
+## 7. PCA comparison across all sets
 
 - `original_51`:  51 variables, 834 municipalities, PC1 variance `16.18%`, cumulative PC1-PC4 `43.40%`, cumulative PC1-PC8 `60.07%`
 - `all_176`: 176 variables, 834 municipalities, PC1 variance `15.14%`, cumulative PC1-PC4 `33.01%`, cumulative PC1-PC8 `44.14%`
-- `thesis_candidate_19`:  19 variables, 834 municipalities, PC1 variance `26.38%`, cumulative PC1-PC4 `55.68%`, cumulative PC1-PC8 `75.43%`
+- `thesis_candidate_23`:  23 variables, 834 municipalities, PC1 variance `24.21%`, cumulative PC1-PC4 `54.81%`, cumulative PC1-PC8 `72.60%`
+- `student_sensitivity_26`:  26 variables, 834 municipalities, PC1 variance `22.14%`, cumulative PC1-PC4 `54.59%`, cumulative PC1-PC8 `72.14%`
 - `curated_17`:  17 variables, 834 municipalities, PC1 variance `27.65%`, cumulative PC1-PC4 `63.44%`, cumulative PC1-PC8 `83.15%`
 
 Interpretation:
 - `all 176` is too broad to be the main thesis PCA, but very useful as a structural diagnostic.
 - `original 51` remains useful as an exploratory benchmark and historical reference.
-- `thesis candidate 19` is currently the most balanced working set for the thesis.
+- `thesis candidate 23` is currently the most balanced working set for the thesis.
+- `student sensitivity 26` shows what changes once student concentration variables are allowed into the PCA.
 - `curated 17` remains the stricter fallback / robustness set.
 
-## 7. Immediate methodological takeaway
+## 8. Immediate methodological takeaway
 
 - Yes, the old wide PCA made sense as an exploratory first step.
 - No, it should probably not remain the only final vulnerability index without additional variable curation.
 - The safer thesis strategy is to document three layers clearly:
   - `all 176` for inventory and structural diagnosis,
   - `original 51` for exploratory comparison,
-  - `thesis candidate 19` as the main working PCA set.
+  - `thesis candidate 23` as the main working PCA set,
+  - `student sensitivity 26` as an additional robustness run.
 
-## 8. Related note
+## 9. Related note
 
 A more detailed review note with additional handling commentary is saved here:
 - `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_VARIABLE_REVIEW/INKAR_VARIABLE_REVIEW_AND_PCA.md`
