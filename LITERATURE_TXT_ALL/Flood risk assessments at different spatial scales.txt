@@ -1,0 +1,1270 @@
+[[PAGE 1]]
+ORIGINAL ARTICLE
+Flood risk assessments at different spatial scales
+H. de Moel 1 & B. Jongman 1 & H. Kreibich2 & B. Merz 2 &
+E. Penning-Rowsell3 & P. J . Wa rd1
+Received: 21 August 2014 / Accepted: 8 April 2015 / Published online: 22 May 2015
+# The Author(s) 2015. This article is published with open access at Springerlink.com
+Abstract Managing flood risk, i.e. both the hazard and the potential consequences, is an
+important aspect of adapting to global change and has gained much traction in recent decades.
+As a result, a priori flood risk assessments have become an important part of flood manage-
+ment practices. Many methodologies have been set up, ranging from global risk assessments
+for the world as a whole, to local assessments for a particular stretch of a river/coast or small
+town. Most assessment frameworks generally follow a similar approach, but there are also
+notable differences between assessments at different spatial scales. This review article exam-
+ines these differences, for instance those related to the methodology, use of assessments and
+uncertainties. From this review, future research needs are identified in order to improve flood
+risk assessments at different scales. At global/continental scale, there is a clear need for
+harmonised information on flood defences to improve assessments. Furthermore, inclusions
+of indirect economic effects at the macro-/meso-scale would give a better indication of the total
+effects of catastrophic flooding. At the meso-/micro-scale, there is an urgent need to improve
+our understanding of the effects of flooding on critical infrastructures, given their importance
+to society, the economy, emergency management and reconstruction. An overarching theme at
+all scales is the validation of flood risk assessments, which is often limited. More detailed post-
+disaster information would allow for improved calibration, validation and thus performance of
+flood risk models. Lastly, the link between spatial scales also deserves attention, for instance
+up- or downscaling methodologies.
+Keywords Flood risk. Adaptation. Risk assessment. Spatial scales
+Mitig Adapt Strateg Glob Change (2015) 20:865–890
+DOI 10.1007/s11027-015-9654-z
+* H. de Moel
+hans.de.moel@vu.nl
+1 Institute for Environmental Studies, VU University, Amsterdam, Netherlands
+2 GFZ German Research Centre for Geosciences, Helmholtz Centre Potsdam, Potsdam, Germany
+3 Flood Hazard Research Centre, Middlesex University, London, UK
+
+[[PAGE 2]]
+1 Introduction
+Time and again, floods around the world illustrate the devastating impact they can have on
+societies. In October 2012 super storm Sandy wreaked havoc in New Y ork and New Jersey,
+United States of America (USA) causing roughly US$60 billion damage (Aerts et al. 2013a,
+b), and in June 2013 central Europe saw floods in the Elbe and Danube basins, causing a loss
+of approximately €12 billion and dozens of fatalities (Schröter et al. 2015;M u n i c h2013).
+Managing this risk is important from both a societal and economic perspective in order to
+reduce damages and losses and to minimise or avoid human suffering. With risk being a
+combination of the hazard and its potential consequences, flood risk can thus be managed by
+reducing the probability or magnitude of a flood (the hazard) or by reducing the consequences
+it may cause. In the last couple of decades, the concept of managing flood risk has gained
+much traction (Hooijer et al. 2004;P e t r o we ta l .2006; V an Alphen and V an Beek2006;I P C C
+2012;U N I S D R2013), which is exemplified by the European Floods Directive, which was
+adopted in 2007 (2007/60/EC). This approach of managing risk takes a more holistic view, by
+explicitly covering all aspects (e.g. prevention, mitigation, preparation, response, recovery) of
+the disaster management cycle (Lumbruso 2007; De Moel and Aerts 2008; Kreibich et al.
+2014), instead of focussing mainly on flood prevention. As such, flood risk management is
+becoming an important process for adapting to a constantly changing environment due to, for
+instance, climate change, population growth and economic change.
+Adequate management of floods is reliant on a priori assessments of flood events and their
+consequences. Such assessments give insights into what can be expected, and thereby open up
+the discussion on how to tackle such situations. Moreover, such assessment frameworks can be
+used to evaluate measures in a standardised way, support decision-making on possible
+measures that can be taken and prioritise areas where action is required. Over the past couple
+of decades, a large amount of research has focused on developing such flood assessments at
+various spatial scales, for a variety of purposes. Whilst the central approach is quite general
+between different assessments, there are notable differences in terms of methodology and the
+use of those assessments. Such differences are the result of many factors, including data
+availability and the applicability of methods at different scales. However, with increasing
+computational capacity and a wider availability of detailed data, opportunities are arising to
+enable the scaling up of detailed methods to larger scales or to start using global methods for
+more local purposes in data scarce regions. For this, it is necessary to understand the different
+methodologies, limitations and uses of flood risk assessments at different spatial scales.
+This review paper aims to provide an overview of the current state and development of
+quantitative flood risk assessments at different scales and to facilitate learning from assessments
+at different scales. In the remainder of this review, we will first provide a general framework of
+flood risk assessments and then address the methods, limitations and uses of assessments at four
+different scales (supra-national, macro, meso, micro). An overview of assessment characteris-
+tics at different scales will then be discussed before providing the main lessons learned and
+identifying future research needs for different scales and for flood risk assessments generally.
+2 Flood risk assessments
+Assessing flood risk is an interdisciplinary task, combining various sources and types of
+information and models. Such assessments attempt to estimate, a priori, what possible flood
+866 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 3]]
+events may look like (i.e. flood extent and inundation depth), how probable they are and what
+are the possible consequences of such a flood may be. In engineering and natural sciences, the
+conceptual framework followed is that risk is a function of hazard, exposure and vulnerability
+(Kron 2002; UNISDR 2013), though concepts are sometimes differently interpreted by
+different researchers (Klijn et al. 2015).
+Flood risk assessments start with an assessment of the flood hazard, which indicates the
+probability and intensity of a possible event (hazard assessment; e.g. Pappenberger et al.2012;
+Alfieri et al. 2013). This hazard information can be overlaid with socio-economic information,
+such as land use data, building datasets, information on population, regional gross domestic
+product (GDP), etc. Doing so will give an indication of what is actually exposed to flooding
+(i.e. exposure assessment; e.g. Jongman et al. 2012a). Information on the exposure can be
+combined with information on the vulnerability of such assets (for instance through damage
+curves) and the hazard characteristics to estimate the potential damage (damage assessment;
+e.g. Kreibich and Thieken 2008; De Moel and Aerts 2011). A generalised procedure to
+estimate direct monetary damage consists of the following: (1) Classification of elements at
+risk by pooling them into homogeneous classes. (2) Exposure analysis and asset assessment by
+describing the number and type of elements at risk and by estimating their asset value. (3)
+Susceptibility (or vulnerability) analysis by relating the relative damage of the elements at risk
+to the flood impact (Merz et al.2010a, b). When total damages are calculated for several events
+with different probabilities, an expected annual damage can be calculated, usually referred to
+as risk (risk assessment; e.g. Aerts et al. 2013a, b;F a l t e re ta l .2015a)( F i g .1). Note that there
+are various other factors that influence flood risk, which may or may not be included in flood
+risk assessment as they are sometimes difficult to include in a quantitative analysis. Such
+factors include warning time, preparedness, social and economic resistance, health, etc.
+2.1 Hazard
+Generally, flood assessments start with assessing the possible danger of the physical flooding
+itself or flood hazard. There are many dimensions (duration, velocity, debris, water depth, etc.)
+to the flood hazard, which makes this far from straightforward. Moreover, the methodology for
+such an assessment depends very much on the scale and specific characteristics, such as the
+geographic setting and the presence of defensive structures, the purpose of the assessment and
+the available data. The basis of each hazard assessment is, however, adequate observational
+data. Such observational data can be based on recorded flood events (i.e. derived from satellite
+imagery—Schumann et al. 2009; Schumann and Di Baldassarre 2010) but often entails time
+series of precipitation, river discharge, water levels at the coast, etc. Such time series,
+sometimes extended using stochastic weather generators (e.g. Te Linde et al. 2010a; Falter
+et al. 2015a; Ailliot et al. 2015), are subsequently used to derive probabilities and correspond-
+ing magnitudes of possible events. This can be done directly using frequency analyses to
+derive return periods for certain water levels (e.g. D ’Onofrio et al. 1999) or discharges (e.g.
+Cunnane 1988). However, observational data, or data derived from observations (e.g. inter-
+polated maps such as Adam and Lettenmaier 2003;H a r r i se ta l .2013), can also be used as
+inputs in simulation models (hydrological and hydraulic models) which represent the flood
+generation processes in catchments and river systems. A typical example is the use of observed
+rainfall data as input for a hydrological catchment model. Such approaches have the advantage
+that hazard parameters can be estimated in space more easily, although there is also a variety of
+regional flood frequency analysis approaches with the aim of estimating flood hazard at
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 867
+
+[[PAGE 4]]
+ungauged locations based directly on observed flood data (Hosking and Wallis 1997). Much
+more information is required in the simulation model approach though, most importantly
+detailed topographic, but also land cover and soil characteristics. Besides allowing for more
+complete spatial coverage, using models also allows one to estimate various dimensions of the
+flood hazard that can be important for the potential consequences and decision-making, such
+as water depth (e.g. for determining damage to buildings), flow velocity (e.g. for determining
+damage to bridges; e.g. Kreibich et al. 2009), the rate of rise (e.g. for estimating fatalities), the
+flood volume (e.g. for designing flood retention measures) and the duration of inundation (e.g.
+for determining damage to agricultural crops; e.g. Tapia-Silva et al. 2011).
+2.2 Consequences
+After the hazard assessment has been carried out, the hazard data (for example, a map of
+inundation extent and depth) can be combined with information on the exposure (i.e. the
+Fig. 1 Conceptual overview of general flood assessment (Merz and Thieken 2004)
+868 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 5]]
+people, property, systems or other elements assets present in the hazard zones that can be
+subjected to potential losses; UNISDR 2013). This can take various forms, but often datasets
+on population, land use, buildings, etc. are used in this respect (Wünsch et al.2009), or remote
+sensing data is utilised (Gerl et al. 2014). Such exposure assessments can be binary (i.e.
+affected or not affected the flood —Jongman et al. 2012a), or can involve various gradations,
+for instance, by taking various water depths into account (De Moel et al.2011). Such exposure
+estimates usually relate to physical assets and people. However, also other exposure infor-
+mation can be incorporated, such as cultural values (using datasets on monuments and/or
+cultural heritage sites), parameters associated with indirect effects (using for instance
+exposure of infrastructure networks or GDP production) or long-term changes in exposure
+(related to population growth and economic development; e.g. Elmer et al. 2012;
+Tapia-Silva et al. 2011).
+Many flood assessments estimate the direct consequences in monetary terms (Merz et al.
+2010a). By doing so, different types of consequences are expressed in a single figure (e.g.
+euros/dollars/£), which allows for easy comparisons, for instance, between areas, over time,
+with other hazards or comparative evaluations of the effect of different measures (in terms of
+how much damage is reduced). Many flood damage assessments rely on water depth as main
+indicator of the hazard, though sometimes distinctions are made based on, for instance, the
+duration of flood (e.g. the ‘Multi-Coloured Manual’ in the United Kingdom (UK) Penning-
+Rowsell et al. 2013) or the flow velocity (e.g. HAZUS in the USA Scawthorn et al.2006). This
+is usually done by differentiating different damage curves or combining different hazard
+characteristics into a new indicator (e.g. estimating the stability of buildings using velocity-
+stage-damage curves; Middelmann-Fernandes2010). This is different, however, for damage to
+agricultural crops, for which the time of flooding (i.e. season) and the duration are decisive as
+opposed to water depth (Tapia-Silva et al. 2011).
+The most commonly used approach to assess direct damages is based on depth-damage
+curves (Smith 1994;M e r ze ta l .2007). Such curves denote the vulnerability to flooding by
+relating the water depth to the damage this will cause to a specific type of asset, economic
+sector or land use category (see e.g. Merz et al. 2004; Freni et al. 2010;D eM o e la n d
+Aerts 2011). However, not all approaches are based on damage curves. For example,
+Booysen et al. ( 1999) used questionnaires to estimate damages to industries in a case study
+area. Such an approach is particularly useful for categories that are very heterogeneous and
+need specific details (such as industrial land use). In addition, some multi-parameter
+models have been developed including: a conceptual model in the UK (Nicholas et al.
+2001), a multi-variate regression model to estimate losses in private households in Japan
+(Zhai et al. 2005) and rule based models for loss estimation to companies and private
+households in Germany (Kreibich et al. 2010; Elmer et al. 2010). Such multi-parameter
+methods have the advantage that additional important factors that are often difficult to
+predict (e.g. warning time, contamination and resilience) can sometimes still be included in
+the assessment.
+The development of probabilistic damage models seems to be an innovative enhancement,
+since they inherently provide quantitative information about model uncertainty. Probabilistic
+models using bagging decision trees or Bayesian networks have been successfully validated
+(V ogel et al. 2013; Merz et al. 2013; Schröter et al. 2014). These approaches have the
+advantage that more variables (than just inundation depth) can be included in the damage
+assessment and have shown the importance of factors like contamination, precaution and
+duration of the inundation (Thieken et al. 2005;M e r ze ta l .2013).
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 869
+
+[[PAGE 6]]
+2.3 Risk
+When several damage assessments are performed for events with different probabilities, the
+results can be combined to derive an estimate of the monetary risk per year, also known as
+expected annual damage (EAD) or (average) annual loss (AAL). This is done by integrating
+the damage estimates over their probability of occurrence and corresponds graphically to the
+area underneath an exceedance-probability loss (EPL) curve (Meyer et al. 2009;W a r de ta l .
+2011). Note that the probability used to integrate (i.e. the probability axis of an EPL curve) has
+to be associated with the probability of a certain amount of damage occurring, which is not
+necessarily the same as the probability associated with certain hydraulic conditions such as
+water levels (see e.g. Aerts et al. 2013a, b). Often the hazard probability is directly used
+though.
+Such risk assessments thus combine the consequences of flood events of different magni-
+tudes. They provide input for various follow-up activities, most notably cost-benefit analyses
+of measures (e.g. Saint-Geours et al. 2013) but also setting insurance schemes and premiums
+(e.g. Aerts and Botzen 2011). Whilst damage per year (which equals the integral under the
+EPL; Fig. 1) is a rather objective indicator for risk, it should be noted that it may not be
+appropriate for all circumstance as two situations with the same damage per year are not
+necessarily the same (Merz et al.2009) because the shape of the risk curve can be different and
+is also an important characteristic of risk (see e.g. Bouwer 2010; Foudi et al. 2015). For
+instance, a situation with high probabilities, but low damage (no levees, few or adapted
+buildings) and a situation with low probabilities but high damage (many buildings protected
+by levees) could have the same expected annual damage. However, such situations are still
+perceived differently by various actors (insurers, society; e.g. Seifert et al. 2013). The first
+situation relates to relatively small events occurring frequently, which are easier to handle by
+emergency services and to cover by insurance, whilst the second situation entails very rare, but
+more catastrophic, events that could be very difficult to control and would instantly be a huge
+financial burden.
+2.4 Types of consequences
+When assessing potential consequences of flooding, it is of course of key importance which
+consequences are considered and which ones are not (Meyer et al. 2013;K r e i b i c he ta l .2014).
+Generally, consequences of natural disasters are differentiated into four groups, based on two
+criteria: direct vs. indirect consequences and tangible vs. intangible consequences (e.g.
+Messner et al. 2007; Jonkman et al. 2008). Direct consequences relate directly to the area
+and time of the flood event, whilst indirect consequences are often associated with conse-
+quences occurring outside the flooded area, or after the flood event. Tangible and intangible
+consequences refer to effects that can be monetized (tangible) and effects that are much more
+elusive to quantify or even monetize.
+Recently, it has been recognised that catastrophic floods can have substantial effects on the
+economy, also outside the area affected and after the flood event (Okuyama and Santos 2014).
+Estimating these economic losses is far from straightforward, as even fewer observed data are
+available than for direct losses. Flood losses in one area or sector will affect other areas and
+sectors. Therefore, economic models are usually used, such as input-output or general equi-
+librium models (Rose and Liao 2005; Steenge and Bockarjova 2007; Hallegatte 2008;L ie ta l .
+2013). Alternatively, a certain percentage of the direct damages can be taken as an indication of
+870 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 7]]
+indirect losses, often based on the relevant modelling studies. Such estimates typically range
+from 30 up to 100 % of the direct damages and is generally thought to increase with the
+severity of the flood event (Hallegatte2008;K o k se ta l .2014a, b). Some empirical evidence on
+indirect losses is provided by Toyoda ( 2008), who estimated the indirect losses of the great
+earthquake in Kobe in 1995 at roughly the same size (i.e. 100 %) as the direct losses. Such
+indirect economic losses are very case and site specific though.
+2.5 Uncertainty
+As with any quantitative modelling assessment, flood risk assessments are surrounded by
+uncertainties (Merz and Thieken 2005; 2009). The nature of this uncertainty can result from
+different types of uncertainty. Broadly speaking, this can be aleatory, epistemic or ontological
+uncertainty. Aleatory uncertainty relates to natural variation in the system (such as variation in
+rainfall over time, or spatial variation in roughness characteristics) and can in principle not be
+reduced. Epistemic uncertainty relates to inadequate knowledge of the system, resulting in the
+analyst having to make assumptions on how the system works. This uncertainty can, theoret-
+ically, be reduced with increased knowledge of the system, although this is in practice
+sometimes not easy. Lastly, ontological uncertainty refers to factors missing out of the analysis,
+i.e. incompleteness. This could be considered a subset of epistemic uncertainty, but it is much
+more difficult to include in formal uncertainty analyses.
+3 Assessments at different scales
+Different scales call for different methods when it comes to assessing flood risks. In addition,
+assessments at different scales have different uses. In this section, we will touch upon these
+different scales. Drawing upon examples from international literature, the characteristics of the
+flood hazard assessment will be described, as well as the way consequences are assessed,
+which uncertainties are important and for what the assessments at different scales are used for.
+We distinguish the supra-national, macro-, meso- and micro-scale. Obviously, the distinc-
+tion between these scales is subjective. The supra-national scale concerns assessments of the
+entire globe or continent, encompassing a plethora of countries and river basins. The macro-
+scale refers to assessments of entire countries, for which usually consistent (national) data are
+present, but consists of many watersheds. The meso-scale is generally sub-national, referring
+to a certain province, watershed or large city. The micro-scale is the smallest scale considered,
+which relates to a town or specific river stretch.
+3.1 Supra-national (global, continental) scale
+3.1.1 Importance and use
+Over the last decade, there has been an increased demand from diverse stakeholders for flood
+risk assessments at continental to global scales. For instance, the United Nations International
+Strategy for Disaster Risk Reduction (UNISDR) now coordinates the production of the two-
+yearly Global Assessment Report (GAR) on Disaster Risk Reduction (UNISDR 2009, 2011,
+2013). Continental flood risk assessments are important in Europe to support climate change
+adaptation policies (V an Renssen 2013) and develop robust public disaster relief funds
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 871
+
+[[PAGE 8]]
+(Hochrainer et al. 2010). As disaster risk modelling capabilities improve continuously, appli-
+cability and interest in global scale flood risk assessment is also increasing. For example,
+international financing institutes need strategic assessments of flood risk at the global scale for
+developing risk profiles and deciding where to invest in risk reduction activities, the (re-)
+insurance industry requires global scale assessments to assess their current and future risk
+portfolios, multi-national companies are interested in global scale risk assessments to identify
+possible risks in their supply chains and intra-national institutes can use the data for monitoring
+progress in risk reduction activities, such as those related to the implementation of the Hyogo
+Framework for Action (UNISDR 2007).
+3.1.2 Method
+An increasing number of scientific efforts have contributed to the understanding of trends in
+flood risk and the modelling of current and future risk at continental and global scales. Several
+studies (e.g. Barredo 2009; Bouwer 2011; Neumayer and Barthel 2011) have directly analysed
+past trends in flood losses. Generally, these studies have found that observed disaster losses
+have increased over the last half-century, with changes in exposure (e.g. wealth and population
+growth) being the main driver (IPCC 2012;M e r ze ta l . 2012;K u n d z e w i c ze ta l .2013).
+However, Gall et al. (2011) found evidence of non-exposure driven increases in disaster losses
+(of various natural hazards) in the USA over the period 1960 –2009, pointing to changes in
+hazard frequency/intensity as possible drivers of risk.
+In recent years, several models have been developed to assess flood hazards, potential
+damages and risk at large scales. Methods have been developed and applied to assess flood
+hazard (Pappenberger et al. 2012; Rojas et al. 2012), exposure (Jongman et al. 2012a)a n d / o r
+flood risk (Dilley et al. 2005; Hirabayashi et al. 2013; Feyen et al. 2012;W a r de ta l .2013,
+2014; Winsemius et al. 2013; Arnell and Lloyd-Hughes 2014) at continental and global scales.
+Some of these have been combined with projections of changes in hazard and/or exposure to
+assess the potential change in flood risk (or flood exposure) in the future (e.g. Jongman et al.
+2012a; Hirabayashi et al. 2013; Rojas et al. 2013; Arnell and Lloyd-Hughes 2014;J o n g m a n
+et al. 2014). The risk of coastal flooding has been assessed similarly on a global scale, by
+modelling storm surges heights, determining potential inundation areas using elevation
+data and using macro-economic and population data to determine the exposure in major
+coastal cities (e.g. Nicholls et al. 2008; Hallegatte et al. 2013). The results of the latter
+studies show that the increase in exposure to coastal flooding alone could lead to an
+eightfold increase in losses, with climate change potentially adding further to the increase
+in risk.
+3.1.3 Uncertainty and validation
+The accurate representation of vulnerability and flood protection has been the largest obstacle
+in large-scale flood risk assessment (Jongman et al. 2012a; Feyen et al. 2012). First efforts to
+include flood protection measures in risk assessment have been presented on European
+(Jongman et al. 2014) and global (Hallegatte et al. 2013,W a r de ta l . 2013) scales. These
+studies show that the flood protection standards assumed in the modelling process have a large
+effect on the computed risk estimates, which illustrates the benefits of adaptation but also
+highlights that this ontological uncertainty in flood protection levels can strongly affect model
+outcomes. In addition, new research suggests that natural ecosystems should be incorporated
+872 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 9]]
+as important means of protection against coastal (Arkema et al. 2013) and river (Stuerck et al.
+2014)f l o o d s .
+V alidation of global and continental flood assessments is generally difficult as the scale is
+much larger than that of a single event. Given the rarity of flood events, establishing a meaningful
+compilation of relevant events with a full geographic spread would require hundreds of years of
+detailed observations of flood events, during which boundary conditions change (i.e. encroach-
+ment of floodplain, river training, weirs) (Lammersen et al.2002). Theoretically, it is possible to
+derive observed estimates of global or continental flood risk using comprehensive databases of
+historical damaging events. This may not be available for all areas and would require the
+integration and harmonisation of databases from many different sources, for instance re-
+insurers and national governments. The glob al data bases NatCatSERVICE from Munich Re
+(www.munichre.com) and EM-DA T database
+1 are the most well-known databases that strive
+towards such a goal. An overview of event-speci fic databases for natural hazards on global,
+regional or national scale is provided by Tschoegl et al. (2006)a n dU N D P(2013).
+3.2 Macro (national) scale
+3.2.1 Importance and use
+Many countries have flood maps for their main cities and other vulnerable areas, particularly in
+Europe where this is stipulated by the European Union (EU) Floods Directive (2007/60/EC).
+This is much less common in developing countries though. In some countries, flood risk
+assessments have been performed at the national scale, meaning that a cartographic represen-
+tation of flood information across the whole country has been developed, with a controlled
+degree of consistency in terms of accuracy and coverage. Such national scale assessments have
+a range of aims. In the USA, the national flood assessments have been performed to demarcate
+the limits of their national insurance programme (Burby 2001; Michel-Kerjan and Kunreuther
+2011). In the UK, the national flood mapping programme has been designed to alert the public
+as to the risks that they face in their locality —by a web-based release of the maps —and to
+identify the total risk facing the country, in order to determine investment priorities and scale of
+government grant for flood risk management measures (Environment Agency 2009). In the
+Netherlands, decision-making on risk management strategies and assessing climate change
+impacts are the core reasons for the national flood risk mapping programme (such as
+Waterveiligheid 21e Eeuw;K i n d2011). In France, the identification of risk areas across the
+nation is fundamentally concerned with controlling development in such areas and also for
+investment prioritisation.
+The different objectives of such national assessments generally lead to different scales
+within the national programme. For instance, national-scale climate change assessments are
+often quite broadbrush (Evans et al. 2004; Adaptation Sub-Committee 2012). Because in
+France, national maps are related to controlling local developments, a considerably greater
+level of detail is required —not least because decisions made based on that information are
+likely to be contested. The purpose of a national flood map does not only affect detail but also
+the indicators to be mapped. For project prioritisation, a number of return periods need to be
+represented on the map (Penning-Rowsell et al. 2013), whereas for spatial planning, just the
+flood extent of a design return period may be sufficient (DCLG 2010). This, then, raises the
+1 http://www.emdat.be/
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 873
+
+[[PAGE 10]]
+question what information the national flood maps should contain. Ideally, they should map
+extent (which is common) but also flood depths, velocities and similar information for future
+flood risks if climate change is exacerbating the hazard. The UK ’sm o s tr e c e n tn a t i o n a lf l o o d
+modelling is seeking to achieve this level of detail but this is likely to be expensive when
+applied nationwide.
+3.2.2 Method
+In terms of methodology, different approaches can be found. Sometimes, risk assessments
+at this scale are performed all at once, using a single model, applied nationwide (see Hall
+et al. ( 2003, 2005) and Evans et al. ( 2004) for the UK). In these cases, the consistency of
+the results between areas may be high, but the resources needed to model floods across a
+whole country are not to be underestimated. Moreover, given the large area, it is usually
+not possible to cover the entire territory with 2D hydraulic modelling and more simplified
+approaches are used, similarly to supra-national scale assessments. In order to estimate
+consequences, land use maps are used and combined with stage-damage curves, similar to
+meso-scale assessments. The resolution of such assessments is generally in the order of
+magnitude of 100- to1000-m grid cells. Another approach is to compile national flood
+maps bottom up as a composite of locally available information or as an aggregation of
+various meso-scale assessments (e.g. FLORIS in the Netherlands; RWS-DWW 2005).
+Whilst this increases the detail of the information and correspondingly enhances potential
+uses of a national-scale assessment, there is likely to be more inconsistency across the
+country.
+3.2.3 Uncertainty and validation
+Like supra-national flood assessments, verification or validation of the results is an issue with
+national assessments. No country is likely to have records of flood extent and other details of
+floods of long recurrence interval across the whole country. Therefore, some flood information
+is likely to be simulated and unverified and indeed unverifiable. One of the few examples from
+10 or more years ago is for Hungary (Evans et al. 2000), where the country ’s floodplains
+constitute 22.3 % of its area (compared to, for instance, 4.8 % in the UK) (Evans et al. 2000).
+The results of that study show that the potential 100-year event losses could be as high as 8 %
+of GDP or 35 % of the country ’s annual public expenditure budget: very high figures and a
+threat to that country’s economy. Subsequent more detailed analysis of an intensively modelled
+Hungarian hot spot, showed that the national-scale results overestimated risk there by a factor
+of two (Evans et al. 2000).
+Similarly, a detailed analysis of the UK national flood risk assessment, as conducted in
+2008, also suggests that it exaggerates the flood risk facing the country by some four- or
+fivefold (Penning-Rowsell2013, 2015). This may not matter in terms of prioritisation between
+different locations for investment, where the risk ranking may be the same irrespective of the
+absolute values, but it does lead to doubt as to the value of the risk assessment if the aggregate
+results are in error to this extent. A similar comparison in the USA found that more detailed
+modelling of flood risk areas, in comparison with a broad brush first estimate, showed
+inundated areas reducing in size markedly as more detailed information became available,
+which is problematic when one of the main aims of this mapping is to delimit the extent of risk
+for insurance purposes (Cook and Merwade 2009).
+874 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 11]]
+3.3 Meso (regional) scale
+3.3.1 Importance and use
+There is also a strong need for sub-nationa l flood risk assessments, for example at
+federal state level, for larger river stretches, large cities or on a basin-scale. Such meso-
+scale flood risk assessments are for instance used for regional flood risk management
+and mapping and in the re-insurance industry (e.g. Olsen et al. 1998; Ganoulis 2003).
+For example, in Germany, the federal states are responsible for flood management.
+Thus, many state authorities have undertaken flood hazard and risk assessments for
+their federal state to prioritise investments in structural flood mitigation measures and
+to provide hazard and risk maps for spatia l planning purposes and public awareness
+raising (e.g. Sachsen, Bayern, Baden-Wür ttemberg). Risk maps as presented in the
+Rhine-Atlas (ICPR 2001) are used for risk communication. Moreover, quantitative
+comparisons of different risks within a community or a region are undertaken on the
+basis of consistent risk assessments, such as for the city of Cologne, Germany
+(Grunthal et al. 2006).
+Meso-scale studies are often used to evaluate the effect of certain management measures.
+Examples include the effect of retention areas on failure probabilities (V orogushyn et al.2012)
+and risk (De Kok and Grossmann 2010); restoration of abandoned meanders, a bypass,
+retention and reforestation (Te Linde et al. 2010b); spatial zoning and flood proofing
+(Poussin et al. 2012;D eM o e le ta l . 2014a) and compartmentalisation and zoning (Koks
+et al. 2014a, b). Additionally, meso-scale assessments are often used to explore future
+scenarios, for instance, related to impacts of climate change (Gaslikova et al. 2011), socio-
+economic growth (Bubeck et al. 2011) or both (Te Linde et al. 2011; Elmer et al. 2012).
+3.3.2 Method
+The most common approach for meso-scale hazard assessment is based on the assumption of
+a spatially uniform return period. For example, a 100-year discharge is calculated for the
+entire river network as a basis to model inundation extent and depths (e.g. ICPR 2001;
+Bradbrook et al. 2005). The approach of spatially uniform return periods is very valuable if
+the assessment is used to answer local questions. However, it is misleading when assessing
+large-scale patterns, since it provides an unrealistic picture, overestimating meso-scale flood
+risk. This problem is avoided when a set of spatially consistent synthetic flood events with
+heterogeneous local return periods is generated (e.g. Rodda 2001, 2005;F a l t e re ta l .2015b).
+Such stochastic flood event sets may be developed using multivariate statistical models that
+consider the spatial dependence between gauges (Lamb et al. 2010;K e e fe ta l .2013)o rb y
+starting with stochastic rainfall events (e.g. Rodda 2001). An alternative is a continuous
+modelling of rainfall-runoff, driven by continuous climate data or climate model scenarios
+(Falter et al. 2015b). An advantage of the latter is that hydrological processes influencing the
+runoff are implicitly considered and the complete flood event is consistently modelled for the
+whole catchment.
+Physical processes like storage effects, flood attenuation or channel-floodplain interac-
+tions can be covered via complementing continuous rainfall-runoff modelling with a
+hydrodynamic simulation of inundation areas and water depth (Buchele et al. 2006,D e
+Moel et al. 2009). Recent simplifications of fully hydrodynamic equations and reductions
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 875
+
+[[PAGE 12]]
+of computational model run time like parallelising enable 2D hydrodynamic simulations
+on larger scales. Such new approaches rely on coupled 1D/2D models where the channel
+flow is simulated one-dimensionally and the floodplain flows are simulated two-
+dimensionally with approaches ranging from simple-volume conservative storage-filling
+algorithms to fully dynamic shallow water modelling. Such meso-scale hazard assessments
+have been undertaken, for instance, for the Amazon (Wilson et al. 2007), the Ob
+(Biancamaria et al. 2009), the Pantanal (Da Paz et al. 2011) river basins and a 800-km
+reach of the Niger (Neal et al. 2012). However, due to computational constraints and data
+limitations, detailed hydrodynamic simulations are commonly avoided for meso-scale
+hazard assessments (e.g. ICPR 2001;R o d d a 2005). Often simpler approaches are used
+based on rating curves and water surface intersection with topographic data (e.g. Ward
+et al. 2011).
+Flood damage estimation on the meso-scale is commonly based on land use categories,
+which are connected to particular economic sectors. Exposure estimation needs to provide
+asset values also on the basis of land use units (e.g. Chen et al. 2004; Thieken et al. 2006;
+Wünsch et al. 2009). Losses are then estimated by aggregated sectoral stage-damage
+functions or multi-parameter models (Messner and Meyer 2006;M e r ze ta l . 2010a, b;
+Kreibich et al. 2010; De Moel and Aerts 2011). Flood damage models are normally derived
+from micro-scale data related to single objects (Merz et al. 2010a, b). For instance,
+building-specific damage models are developed on the basis of empirical data collected
+in the aftermath of a flood (e.g. Merz et al. 2004) or on the basis of synthetic data collected
+by what-if analyses investigating which damage is expected in the case of certain flood
+situations (e.g. Penning-Rowsell et al. 2010, 2013, Tebodin 2000). Thus, scaling procedures
+for applications on the basis of land use units at the meso-scale need to be developed. For
+instance, Kreibich et al. ( 2010) developed an up-scaling procedure on the basis of land
+cover and geo-marketing data for flood loss estimation of companies in Germany. Tang
+et al. ( 1992) present an up-scaling procedure for residential, commercial, industrial and
+agricultural damage estimation based on average object areas and land use data for
+Bangkok, Thailand. In some cases, individual object information is used to derive flood
+damage estimates, but often this is done in an aggregated way. For instance, the HAZUS
+and HIS-SSM models both work with object counts (per census block and zip code,
+respectively) that are consequently considered as one unit in the damage calculation
+(Scawthorn et al. 2006; Aerts et al. 2014; Kok et al. 2005).
+3.3.3 Uncertainty and validation
+Uncertainties of meso-scale risk assessments have recently been the subject of various
+studies, addressing mainly aleatory and epistemic uncertainties (Apel et al. 2008,D eM o e l
+et al. 2012; 2014a, b; Freni et al. 2010; Merz and Thieken 2009; Saint-Geours et al. 2013).
+These studies illustrate the substantial uncertainty in absolute damage and risk estimates.
+Important contributors to this overall uncertainty relate to the probability of extreme events,
+the duration of such an event and the damage curves used to calculate the damage (see e.g.
+De Moel et al. 2014b). An important consideration at this scale for embanked regions
+concerns the possible failure of a levee (V orogushyn et al. 2010), especially in areas with
+high safety standards and low elevations. Better validation of damage calculations is
+possible in cases where actual flood events and subsequent damage inventories have taken
+place (e.g. Seifert et al. 2010).
+876 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 13]]
+3.4 Micro (local) scale
+3.4.1 Importance and use
+At the local —micro—scale, flood risk assessments are undertaken with detailed information
+about terrain elevation (e.g. via lidar data), hydraulic structures (e.g. dikes, weirs), building
+location/type/use, etc. Such local flood risk assessments are often undertaken to optimise
+investments via the evaluation of the cost-effectiveness of structural and other measures for
+flood risk reduction. Other purposes are the development of hazard and risk maps supporting
+the development of local flood management concepts and urban planning. Quantitative,
+spatially explicit risk information enables communities, companies and people to prepare for
+disasters (e.g. Takeuchi2001; Merz and Thieken 2004). Examples of flood risk analyses at the
+city scale or even the sub-city scale include Cairns, Australia (Baddiley 2003); Gleisdorf,
+Austria (Neuhold and Nachtnebel 2008); Eilenburg, Germany (Apel et al. 2009); Dresden,
+Germany (Gerl et al. 2014;K r e i b i c he ta l .2011a); New Y ork City, USA (Aerts et al. 2013b;
+2014), Ho Chi Min City, Vietnam (Lasage et al. 2014); Jakarta, Indonesia (Budiyono et al.
+2015) and many more. Particularly, the distinction between meso- and micro-scale is slowly
+fading, with large cities being similar in size to certain regions and developments in computing
+power allowing highly detailed data to be used for larger areas.
+3.4.2 Method
+Hazard assessments are usually carried out using detailed 1D/2D hydraulic modelling (e.g.
+Ernst et al. 2010), for which a large variety of models exists. This can consider hydraulically
+important features like streets, buildings and channels (Aronica et al. 1998). Such models are
+based on solving physical equations for one/two dimensional flow of water, such as the Saint
+V enant equations (Aronica and Lanza2005). Usually a flood frequency analysis is applied to a
+given record of discharge data of the relevant local gauge (e.g. Stedinger et al.1993) to provide
+input for the hydraulic model and associate probabilities to the modelled inundation scenarios.
+Alternatively, rainfall-runoff models can be used to supply input hydrographs for the hydraulic
+model (as in Neuhold and Nachtnebel 2008). These hydraulic models do not only yield
+inundation extents and depths but can also pr ovide additional flood indicators like flow
+velocity and the rate at which the water level rises. These can be important factors in
+determining the consequences of floods. For instance, flow velocity is an important
+parameter when assessing erosion and the collapse of buildings and the rate of rise is
+important when assessing potential fatalities. Modelling of the inundation area can be
+done using a full 2D model or by coupling 1D and 2D calculations in various degrees.
+For instance, the LISFLOOD-FP model links separate 1D channel flow calculations
+with 2D flood propagation calculations using uniform flow formulae (Bates and de
+Roo 2000).
+In micro-scale assessments damage is often evaluated on an object level. For instance, in
+order to estimate the damage of a municipality, damages are calculated for each affected object,
+such as a building, business or school. Building-specific flood damage models are developed
+by collecting flood loss data in the aftermath of a flood or by undertaking synthetic analyses
+using experts, surveys or interviews (Merz et al. 2010a, b). On the basis of such empirical and
+synthetic data, generalised relationships between damage and influencing parameters such as
+flood characteristics and resistance factors are derived (e.g. Green 2003;P e n n i n g - R o w s e l l
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 877
+
+[[PAGE 14]]
+et al. 2010, 2013;K r e i b i c he ta l .2010). Studies have shown that estimations based on stage-
+damage functions may be very uncertain since water depth and building use only explain a part
+of the data variance (Merz et al. 2004;S c h r ö t e re ta l .2014). Whilst conceptually the same as
+meso-scale assessments using depth-damage curves, micro-scale assessments have the poten-
+tial to better differentiate generic classes (e.g. between residential or industrial buildings) as
+there is less heterogeneity in such a class at the micro-scale as opposed to the meso-scale (i.e.
+less variation in types of houses). Moreover, at the micro-scale, there is the possibility for site
+visits and individual inspection to specify or improve damage curves. Neuhold and Nachtnebel
+(2008), for instance, undertook surveys and interviews with chief operating officers for their
+case study in Gleisdorf. In their experience, the interviews helped improve the quality of the
+data underlying depth-damage curves remarkably. However, uncertainty remains relatively
+high, so that the development of probabilistic damage models seem to be an innovative
+enhancement, since they inherently provide quantitative information about the model uncer-
+tainty (V ogel et al. 2013;M e r ze ta l .2013;S c h r ö t e re ta l .2014).
+3.4.3 Uncertainties and validation
+At the micro-scale, epistemic uncertainties with respect to hydraulic modelling become
+apparent. These are usually associated with the selection of the appropriate model parameter-
+ization, the consideration of dikes and dike breaches and the calibration and validation of the
+models (Apel et al. 2009). V alidation of inundation extents is quite common, for instance,
+against RS imagery of observed floods (Schumann et al. 2009; Schumann and Di Baldassarre
+2010). Less common, though more common than at larger scales, is the validation of modelled
+damages at the micro-scale, as observational data are still quite rare (Merz et al. 2010a, b). A
+noticeable exception is Thieken et al. (2008), who validated FLEMOps for five municipalities
+that were affected by the German floods in 1993 and 2002 and also compared their results to
+those found using stage-damage curves from some other models. Similarly, Jongman et al.
+(2012b) employed seven damage models on two cases (Carlisle and Eilenburg) and compared
+them to observed damages for these cases. Specifically for the commercial sector, Seifert et al.
+(2010) validated FLEMOcs. These results show that there is a considerable variation in results
+between damage models and the absolute estimates often compare poorly to the observed
+damages.
+4 Discussion and comparison across scales
+The preceding sections illustrate that there are considerable differences in the methodology and
+purpose of flood risk assessments at different scales (Table 1). Methodology and purpose are
+very much linked. Large-scale (supra-national, macro-) assessments are less detailed in terms
+of lower spatial resolution and generate more generalised information on potential conse-
+quences. However, this does allow for a methodologically consistent assessment over the
+entire area of interest, for instance in the case of national insurance or international re-
+insurance purposes. Table 1 gives an overview of the findings of the preceding section on
+several characteristics at different scales.
+Any assessment is usually limited to modelling a single flooding process, such as flooding
+of a river valley by rising water levels (valley flooding) or the flooding of a large polder area
+by water propagating through it from a single source (such as a dike breach). At the micro- or
+878 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 15]]
+Table 1 Overview of characteristics of assessments at different scales
+Supra-national (global/
+continental)
+Macro (national) Meso (regiona l, province) Micro (local, city)
+Resolution (DEM) 1 –10 km 100 m– 1k m ∼25–100 m ∼1–25 m
+Hazard estimation -Global river flood model
+-Surge heights (coastal)
+-Generic flood model
+-Aggregation of hydraulic simulations
+-Rainfal-runoff plus 2D hydraulic
+modelling or simplification
+-2D hydraulic modelling
+Consequence estimation -Gridded GDP or population
+in flood zone
+-Land use and stage-damage curves -Land use and stage-damage curves -Stage-damage curves for individual
+buildings
+Uncertainty -Presence of flood defences
+important unknown
+(ontological)
+-Inundation modelling at course scale
+(ontological/epistemic)
+-Failure of defences (epistemic)
+-Probability event (aleatory)
+-Damage calculation (epistemic)
+-Hydraulic modelling (epistemic)
+-Failure of defences (epistemic)
+-Probability event (aleatory)
+-Damage calculation (epistemic)
+V alidation Aggregated datasets (EM-DA T,
+NatCatSERVICE)
+Absolute totals seem overestimated Limited to aggregate damages Possible for recent events with
+well-documented damages
+Academic application -Assessment
+-Effect climate change and
+population growth
+-Assessment
+-Effect climate change and population
+growth
+-Effect of measures
+-Future developments
+-Uncertainty analyses
+-Effect of measures
+-Evaluate different strategies
+-V alidation of methodologies
+Societal use -Disaster relief funds
+-Re-insurance
+-Multi-nationals
+-National insurance programme
+-Communication and awareness
+-Controlling local development
+-Prioritisation investments
+-Support planning
+-Communication and awareness
+-Evaluating specific measures
+-Optimise investments
+-Support local management and planning
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 879
+
+[[PAGE 16]]
+meso-scale, this is much less often an issue, as the area under investigation is likely more
+homogeneous. In larger-scale assessments, this can lead to erroneous results for regions where
+another type of flooding process is dominant. For instance, in pan-European studies on river
+flooding (e.g. Alfieri et al. 2013), results for the Netherlands usually do not seem very
+plausible as it is dominated by large polder areas.
+4.1 Flood protection works
+The above issue is also linked to the presence of flood protection works, which seems to be a
+concern at all scales. At a large scale, protection works are usually not included at all, though
+there are some approaches where this is corrected by taking the integral up to a defined
+protection level in the risk calculation (e.g. Feyen et al. 2012;W a r de ta l .2013). A database
+on actual protection levels is however often lacking, though Hallegatte et al. ( 2013)m a d ea
+first attempt for coastal cities and Jongman et al. ( 2014) developed a model to estimate
+protection levels in Europe based on potential damage without protection. At a smaller scale,
+there is often a considerable uncertainty on where or when such a defence may fail. At small
+scales, this can be approached using the so-called fragility curves, which denote the
+probability of failure given certain hydraulic conditions (e.g. V orogushyn et al. 2009). It
+remains uncertain, however, to estimate failure conditions of objects for situations that they
+have never faced, especially given the long length of levees and heterogeneity of their
+composition and subsoil.
+4.1.1 Uncertainty
+Uncertainty plays a role in assessments at all scales. Besides the way protection works are
+addressed, another element that is common across scales relates to uncertainty in the proba-
+bility of hazard events. There is substantial aleatory uncertainty in the (relatively short) time
+series of annual maxima, on which frequency distributions are based that denote the proba-
+bility of an event with a specific magnitude. Model uncertainty is usually an epistemic source,
+for instance, the type of distribution used to characterise the frequency has a considerable
+influence (Xu et al. 2007). This is especially relevant for the assessment of extreme events on
+the basis of short time series, causing large uncertainties in the extrapolation range (Apel et al.
+2008). Further problems might be the violation of the underlying assumptions of stationarity
+and homogeneity of the time series. Epistemic uncertainty associated with flood damage
+estimates results from uncertainty in the estimation of exposed assets (e.g. due to bias in
+spatial disaggregation, uncertainty of asset estimates derived from regional statistics) and from
+uncertainty in the depth-damage functions (e.g. due to transfer of damage functions derived
+from other regions and other flood events, disregard of many damage influencing factors, such
+as flood experience, flood duration or flow velocity) (Merz and Thieken 2009). Most com-
+parative uncertainty analyses have been performed at the micro- and meso-scales, identifying
+key elements that affect risk assessments (e.g. Apel et al. 2008; Merz and Thieken 2009;D e
+Moel et al. 2012, 2014b). The most apparent ontological uncertainty relates to large scales and
+involves the presence of protection works. At smaller scales various sources of epistemic
+uncertainty are important. However, it should be remembered that also at smaller scales
+assessments can easily miss out on important aspects of flood risk, for instance, related to
+specific sectors that may not be included (such as infrastructure), indirect economic effects or
+damage-influencing factors such as experience and the preparedness of the population.
+880 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 17]]
+4.1.2 V alidation
+Another issue that is relevant at all spatial scales concerns the validation of results. V alidation
+of flood risk assessments is sparse, at all scales, mainly due to data limitations. However, the
+need for validation is evident as uncertainties in flood risk estimates are generally found to be
+quite large (Apel et al. 2008;D eM o e le ta l . 2012; 2014a, b; Seifert et al. 2010;P e n n i n g -
+Rowsell 2013, 2015). Moreover, studies using several damage models on a single case that
+include comparisons to observed damage (e.g. Apel et al. 2009; Jongman et al. 2012b)s h o w
+substantial discrepancies and a large range between models. If validation of flood risk
+estimates is sparse, the credibility of such estimates may be harmed. A case in point is the
+apparent overestimation of risk at larger scales (Penning-Rowsell 2013, 2015). Bouwer et al.
+(2009) even found that using a 100-m grid instead of a 25-m grid for the same case study area
+already resulted in damage estimates up to 50 % higher, mainly because the relative share of
+urban land use classes increases at a lower resolution. These studies thus suggest that
+assessments using a higher level of detail result in lower estimates of risk. There can be
+various reasons for this, such as the use of the full value at risk as damage, overestimating the
+fraction of urban land use or using spatially uniform return periods over a large area (larger
+than a single event).
+4.1.3 Vulnerability
+The consequences of flooding mainly relate to physical assets, with vulnerability used in the
+context of how easily assets get damaged by floods (i.e. the depth-damage curves). However,
+the concept of vulnerability can have a much broader meaning in the context of flooding. This
+may also relate to the vulnerability of people (e.g. ill or elderly people) or the recovery capacity
+of households, businesses and society. Such considerations are, however, very rarely included
+in flood risk assessments at any scale. Anecdotal evidence from studies at local to regional
+scales suggests that societies become less vulnerable over time. Also, several studies show that
+people and societies may learn from past disasters (e.g. Burby and French 1981; Wind et al.
+1999;C u t t e re ta l .2008; Kreibich and Thieken 2009; Y amamura2010; Kreibich et al. 2011b),
+and some studies (Hallegatte 2007; Crompton and McAneney 2008) show that damages may
+decrease following a disaster because of behavioural changes and adaptation (Bubeck et al.
+2012). Y et, such temporal dynamics of vulnerability ’s influence on risk are rarely studied
+(except for Peduzzi et al. ( 2012) for tropical cyclone risk). Vulnerability can also relate to the
+functioning of the system instead of the behaviour of individuals. In this case, the functioning
+of critical infrastructure is a key, but has rarely been included in flood risk assessments, usually
+resulting from a lack of knowledge and data of the system. As it has a high importance for
+local policy makers, many activities are starting to investigate this at the local scale, for
+instance, in the wake of Hurricane Sandy (Tsay et al. 2014).
+4.1.4 Linking spatial scales
+V arious issues play a role at all scales and thus warrant attention in future research. However,
+there are also opportunities opening up for up- and downscaling between spatial scales. This is
+driven by increased data availability and increased computing capacity. Where macro-scale
+assessments are usually based on land use categories, there are now various countries with
+datasets of individual buildings. Correspondingly, damage and risk methodologies, formerly
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 881
+
+[[PAGE 18]]
+mainly used at the micro-scale, can in some regions be scaled up to the meso- and macro-
+scales. Building extraction techniques from remote sensing (Ehrlich and Zeug 2010; Freire
+et al. 2010; Gerl et al. 2014) can further push this development by providing building
+footprints across the globe. In the other direction, global flood hazard assessments are
+becoming more and more detailed, allowing for opportunities to downscale. When such global
+flood hazard assessments can be linked to meso-/micro-scale damage calculations, it will
+become possible to perform studies to support flood risk decision-making in areas that lack
+detailed hazard information. This may need further detail in global hazard assessments or a
+smart way to efficiently downscale global hazard information to specific areas. When com-
+bined with emerging global high-resolution datasets on exposure (such as the Global Human
+Settlement Layer (GHSL) from JRC), flood protection (Hallegatte et al. 2013; Jongman et al.
+2014) and damage curves (Huizinga 2007), this also allows for consistent assessment across
+the globe to support global actors such as the Red Cross, World Bank and re-insurers.
+5 Conclusions
+This review addressed methodologies and uses of flood risk assessments at various spatial
+scales. It shows that spatial scale, method and use of assessments are closely linked. At large
+scales (supra-national, macro) geographically consistent assessments of flood risk aid the
+international (re-) insurance industry or can be used to identify risk hotspots by international
+financing institutes in order to prioritise investments. At smaller scales (meso, micro), assess-
+ments can be tailored to a specific basin, city or site in order to directly support decision-
+making in that area by evaluating the (cost-) effectiveness of different types of measures.
+Whilst there are clear differences between scales, boundaries are slowly fading due to
+increased computing power and availability of higher detailed harmonised datasets. In this
+regard, the links between assessments at different scales is also emerging as a promising
+subject. For instance, a well-developed link between the global and meso-/micro-scale would
+enable rapid assessments of flood risk for local policy makers in regions where few data are
+available. The use of global datasets for information on the hazard, exposure and vulnerability
+would also allow for more consistent comparison of flood risk in cities across the globe.
+This review showed that important developments have taken place in recent years in
+developing global flood risk assessments. However, also at other spatial scales, many devel-
+opments are taking place, for instance, at the local level which benefits greatly from the
+increased availability of high-resolution data for the determination of the hazard and conse-
+quences (LiDAR data, databases of buildings and uses). Through this review, important topics
+for further development have been identified. At the supra-national scale (and to a lesser
+degree macro-scale), there is a clear need for the inclusion of flood defences in assessments, for
+which the development of a database on flood defence structures and protection levels is
+necessary, as well as methodologies to incorporate these data. At the macro- and meso-scale
+there are opportunities to broaden assessment from direct effects to also include indirect
+economic effects. For this, better differentiation of the impact of flooding on different sectors
+is necessary in order to be able to directly link results of flood assessments to economic (input-
+output or general equilibrium) models. At the meso-/micro-scale, the topic of critical infra-
+structure (i.e. electricity, gas, water, telecoms networks) is emerging as a key caveat, which has
+a high relevance for policy makers. Insights from other disciplines, for instance, related to
+terrorism (Patterson and Apostolakis2007) or volcanic (Wilson et al. 2012) risks, and network
+882 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 19]]
+models in general (e.g. Dueñas-Osorio et al. 2007; Winkler et al. 2011) could also prove to be
+very useful for flood risk management.
+Lastly, validation of flood risk models is an issue at all scales. Flood risk assessment in
+absolute numbers are surrounded by considerable uncertainties, and some studies have shown
+that validation in real-life cases gives mixed results (e.g. Jongman et al. 2012b). At the same
+time, encouragingly good results have been reported (e.g. Aerts et al.2014). More event-based
+work (as opposed to assuming a uniform return period over a large area) would allow for better
+validation opportunities, but would also require increased efforts in gathering post-disaster
+information on the consequences of actual floods. This would, at the same time, help to
+improve the risk models themselves, for instance, because of better differentiation of depth-
+damage curves and the identification of important contributing categories, such as infrastruc-
+ture damage, the costs of emergency management and temporal relocation.
+Acknowledgments This paper results from the Dutch research programme Knowledge for Climate ( http://
+knowledgeforclimate.climateresearchnetherlands.nl/ ) funded by the Ministry of Infrastructure and the
+Environment and co-subsidised by the Foundation for Applied Water Research (STOW A), Rijkswaterstaat
+Zuid-Holland, the province of Zuid-Holland, the province of Zeeland and the city of Rotterdam.
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International
+License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and repro-
+duction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a
+link to the Creative Commons license, and indicate if changes were made.
+References
+Adam JC, Lettenmaier DP (2003) Adjustment of global gridded precipitation for systematic bias. J Geophys Res
+108:1–14
+Adaptation Sub-Committee (2012) Climate Change —is the UK preparing for flooding and water scarcity?
+Committee on Climate Change, London
+Aerts JCJH, Botzen WJW (2011) Climate change impacts on pricing long-term flood insurance: a comprehensive
+study for the Netherlands. Glob Environ Chang 21:1045–1060
+Aerts JCJH, Botzen WJW , de Moel H, Bowman M (2013a) Cost estimates for flood resilience and protection
+strategies in New Y ork City. Ann N Y Acad Sci 1294:1–104
+Aerts JCJH, Lin N, Botzen WJW , Emanuel K, de Moel H (2013b) Low probability flood-risk modeling for New
+Y ork City. Risk Anal 33(5):772–788
+Aerts JCJH, Botzen WJW , Emanuel K, Lin N, de Moel H, Michel-Kerjan E (2014) Evaluating flood resilience
+strategies for coastal mega-cities. Sci V ol 344:473–475. doi:10.1126/science.1248222
+Ailliot P , Allard D, Monbet V , Naveau P (2015) Stochastic weather generators: an overview of weather type
+models. http://perso.univ-rennes1.fr/valerie.monbet/doc/papiers_pdf/SWGEN_review.pdf
+Alfieri L, Salamon P , Bianchi A, Neal J, Bates P , Feyen L (2013) Advances in pan-European flood hazard
+mapping. Hydrol Process. doi:10.1002/hyp.9947
+Apel H, Merz B, Thieken AH (2008) Quantification of uncertainties in flood risk assessments. Int J River Basin
+Manag 6:149–162
+Apel H, Aronica GT, Kreibich H, Thieken AH (2009) Flood risk analyses—how detailed do we need to be? Nat
+Hazards 49:79–98. doi:10.1007/s11069-008-9277-8
+Arkema KK, Guannel G, V erutes G, Wood SA, Guerry A, Ruckelshaus M, Kareiva P , Lacayo M, Silver JM (2013)
+Coastal habitats shield people and property from sea-level rise and storms. Nat Clim Chang 3:913–918
+Arnell NW , Lloyd-Hughes B (2014) The global-scale impacts of climate change on water resources and flooding
+under new climate and socio-economic scenarios. Clim Chang 122:127 –140. doi: 10.1007/s10584-013-
+0948-4
+Aronica GT, Lanza LG (2005) Drainage efficiency in urban areas: a case study. Hydrol Process 19:1105 –1119
+Aronica G, Nasello C, Tucciarelli T (1998) A 2D multilevel model for flood propagation in flood affected areas.
+ASCE J Water Res Plan Manag 124(4):210–217
+Baddiley P (2003) The flood risk in Cairns. Nat Hazards 30(2):155 –164
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 883
+
+[[PAGE 20]]
+Barredo JI (2009) Normalised flood losses in Europe: 1970 –2006. Nat Hazards Earth Syst Sci 9:97 –104
+Bates PD, de Roo APJ (2000) A simple raster-based model for flood inundation simulation. J Hydrol 236:54–77
+Biancamaria S, Bates PD, Boone A, Mognard NM (2009) Large-scale coupled hydrologic and hydraulic
+modelling of the Ob River in Siberia. J Hydrol 379:136 –150
+Booysen HJ, Viljoen MF , de Villiers duT G (1999) Methodology for the calculation of industrial flood damage
+and its application to an industry in V ereeniging. Water SA 25(1):41–46
+Bouwer LM (2010) Disasters and climate change —analysis and methods for projecting future losses from
+extreme weather. Ph.D. dissertation, Faculty of Earth and Life Science, VU University Amsterdam,
+Netherlands. http://www.ivm.vu.nl/en/Images/bouwer_thesis_print_tcm53-190387.pdf
+Bouwer LM (2011) Have disaster losses increased due to anthropogenic climate change? Bull Am Meteorol Soc
+92:39–46. doi:10.1175/2010BAMS3092.1
+Bouwer LM, Bubeck P , Wagtendonk AJ, Aerts JCJH (2009) Inundation scenarios for flood damage evaluation in
+polder areas. Nat Hazards Earth Syst Sci 9:1995 –2007. doi:10.5194/nhess-9-1995-2009
+Bradbrook K, Waller S, Morris D (2005) National floodplain mapping: datasets and methods —160,000 km in
+12 months. Nat Hazards 36:103–123
+Bubeck P , de Moel H, Bouwer LM, Aerts JCJH (2011) How reliable are projections of future flood damage? Nat
+Hazards Earth Syst Sci 11:3293–3306. doi:10.5194/nhess-11-3293-2011
+Bubeck P , Botzen WJW , Kreibich H, Aerts JCJH (2012) Long-term development and effectiveness of private
+flood mitigation measures: an analysis for the German part of the river Rhine. Nat Hazards Earth Syst Sci 12:
+3507–3518
+Buchele B, Kreibich H, Kron A, Thieken A, Ihringer J, Oberle P , Merz B, Nestmann F D2006] Flood-risk
+mapping: contributions towards an enhanced assessment of extreme events and associated risks. Nat Hazards
+Earth Syst Sci 6:485–503, http://www.nat-hazards-earth-syst-sci.net/6/485/2006
+Budiyono B, Aerts JCJH, Brinkman J, Marfai MA, Ward PJ (2015) Flood risk assessment for delta mega-cities: a
+case study of Jakarta. Nat Hazards 75:389 –413. doi:10.1007/s11069-014-1327-9
+Burby RJ (2001) Flood insurance and floodplain management: the US experience. Glob Environ Chang Part B:
+Environ Hazards 3:111–122. doi:10.1016/S1464-2867(02)00003-7
+Burby RJ, French SP (1981) Coping with floods: the land use management paradox. J Am Plan Assoc 47(3):
+289–300
+Chen K, McAneney J, Blong R, Leigh R, Hunter L, Magill C (2004) Defining area at risk and its effect in
+catastrophe loss estimation: a dasymetric mapping approach. Appl Geogr 24:97–117
+Cook A, Merwade V (2009) Effect of topographic data, geometric configuration and modeling approach on flood
+inundation mapping. J Hydrol 377:131–42
+Crompton RP , McAneney KJ (2008) Normalised Australian insured losses from meteorological hazards: 1967–
+2006. Environ Sci Policy 11:371–378
+Cunnane C (1988) Methods and merits of regional flood frequency analysis. J Hydrol 100(1 –3):269–290
+Cutter SL, Barnes L, Berry M, Burton C, Evans E, Tate E, Webb J (2008) A place-based model for understanding
+community resilience to natural disasters. Glob Environ Chang 18(4):598–606
+D’Onofrio EE, Fiore MME, Romero SI (1999) Return periods of extreme water levels estimated for some
+vulnerable areas of Buenos Aires. Contiental Shelf Res 18(13):1681–1693
+Da Paz AR, Collischonn W , Tucci CEM, Padovani CR (2011) Large-scale modelling of channel flow and
+floodplain inundation dynamics and its application to the Pantanal (Brazil). Hydrol Process 25:1498–15
+ 16
+DCLG (2010) Planning policy statement 25: development and flood risk (revised 2010). Department for
+Communities and Local Government (DCLG), London
+De Kok JL, Grossmann M (2010) Large-scale assessment of flood risk and the effects of mitigation measures
+along the Elbe River. Nat Hazards 52:143–166. doi:10.1007/s11069-009-9363-6
+De Moel H, Aerts JCJH (2008) Integration of flood management and spatial planning in European research. In:
+Timmerman JG, Pahl-Wostl C, Moltgen J (eds) Adaptiveness of IWRM —analysing European IWRM
+research (EU Report series, chapter 9). IW A Publishing, London, pp 129–139
+De Moel H, Aerts JCJH (2011) Effect of uncertainty in land use, damage models and inundation depth on flood
+damage estimates. Nat Hazards 58(1):407–425
+De Moel H, van Alphen J, Aerts JCJH (2009) Flood maps in Europe —methods, availability and use. Nat
+Hazards Earth Syst Sci 9:289–301
+De Moel H, Aerts JCJH, Koomen E (2011) Development of flood exposure in the Netherlands during the 20th
+and 21st century. Glob Environ Chang 21(2):620–627. doi:10.1016/j.gloenvcha.2010.12.005
+De Moel H, Asselman NEM, Aerts JCJH (2012) Uncertainty and sensitivity analysis of coastal flood damage
+estimates in the west of the Netherlands. Nat Hazards Earth Syst Sci 12:1045 –1058
+De Moel H, van Vliet M, Aerts JCJH (2014a) Evaluating the effect of flood damage-reducing measures: a case
+study of the unembanked area of Rotterdam, the Netherlands. Reg Environ Chang 14(3):895 –908. doi:10.
+1007/s10113-013-0420-z
+884 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 21]]
+De Moel H, Bouwer LM, Aerts JCJH (2014b) Uncertainty and sensitivity of flood risk calculations for a dike
+ring in the south of the Netherlands. Sci Total Environ 473 –474(1):224–234
+Dilley M, Chen RS, Deichmann U, Lerner-Lam A, Arnold M, Agwe J, Buys P , Kjekstad O, Lyon B, Y etman G
+(2005) Natural disaster hotspots—a global risk analysis. The World Bank, Washington
+Dueñas-Osorio L, Craig L, Goodno B, Bostrom A (2007) Interdependent response of networked systems. J
+Infrastruct Syst 13(3):185–194
+Ehrlich D, Zeug G (2010) Quantifying the built-up stock from VHR optical satellite imagery for assessing
+disaster risk. Geocarto Int 25(3)
+Elmer F, Thieken AH, Pech I, Kreibich H (2010) Influence of flood frequency on residential building losses. Nat
+Hazards Earth Syst Sci 10:2145–2159
+Elmer F, Hoymann J, Duethmann D, V orogushyn S, Kreibich H (2012) Drivers of flood risk change in residential
+areas. Nat Hazards Earth Syst Sci 12(5):1641–1657
+Environment Agency (2009) Investing for the future: flood and coastal risk management in England.
+Environmental Agency (EA), Bristol
+Ernst J, Dewals BJ, Detrembleur S, Archambeau P , Erpicum S, Pirotton M (2010) Micro-scale flood risk analysis
+based on detailed 2D hydraulic modelling and high resolution geographic data. Nat Hazards 55:1818 –209
+Evans EP , Johnson PJ, Green CH, V arsa E (2000) Risk assessment and programme prioritisation: the Hungary
+flood study. Proceedings of the 35th Annual MAFF Conference of River and Coastal Engineers, London
+Evans EP , Ashley R, Hall JW , Penning-Rowsell EC, Saul A, Sayers PB, Thorne CR, Watkinson A (2004)
+Foresight flood and coastal defence project: scientific summary: volume 1, future risks and their drivers.
+Office of Science and Technology, London
+Falter D, Schröter K, Nguyen D, V orogushyn S, Kreibich H, Hundecha Y , Apel H, Merz B (2015a) Spatially
+coherent flood risk assessment based on long-term continuous simulation with a coupled model chain. J
+Hydrol. doi:10.1016/j.jhydrol.2015.02.021
+Falter D, Dung VN, V orogushyn S, Schröter K, Hundecha Y , Kreibich H, Apel H, Theisselmann F, Merz B
+(2015b) Continuous, large-scale simulation model for flood risk assessments: proof-of-concept. J Flood Risk
+Manag. doi:10.1111/jfr3.12105
+Feyen L, Dankers R, Bódis K, Salamon P , Barredo JI (2012) Fluvial flood risk in Europe in present and future
+climates. Clim Chang 112:47–62
+Foudi S, Osés-Eraso N, Tamayo I (2015) Integrated spatial flood risk assessment: the case of Zaragoza. Land Use
+Policy 42:278–292. doi:10.1016/j.landusepol.2014.080.002
+Freire S, Santos T, Navarro A, Soares F, Dinis J, Afonso N, Fonseca A, Tenedorio JA (2010)
+Extraction of buildings from QuickBird imagery for municipal planning purposes: quality assess-
+ment considering existing mapping standards. In: 30 EARsel symposium —remote sensing for
+science, education and culture, Paris
+Freni G, La Loggia G, Notaro V (2010) Uncertainty in urban flood damage assessment due to urban drainage
+modelling and depth-damage curve estimation. Water Sci Technol 61:2979–2993. doi:10.2166/wst.2010.177
+Gall M, Borden KA, Emrich CT, Cutter SL (2011) The unsustainable trend of natural hazard losses in the United
+States. Sustainability 3:2157–2181
+Ganoulis J (2003) Risk-based floodplain management: a case study from Greece. Intl J River Basin Manag 1(1):
+41–47
+Gaslikova L, Schwerzmann A, Raible CC, Stocker TF (2011) Future storm surge impacts on insurable losses for
+the North Sea region. Nat Hazards Earth Syst Sci 11:1205 –1216
+Gerl TM, Bochow M, Kreibich H (2014) Flood damage modeling on the basis of urban structure mapping using
+high-resolution remote sensing data. Water 6(8):2367–2393
+Green C (2003) Handbook of water economics: principals and practice. Wiley, Chichester
+Grunthal G, Thieken AH, Schwarz J, Radtke KS, Smolka A, Merz B (2006) Comparative risk assessment for the
+city of Cologne—storms, floods, earthquakes. Nat Hazards 38:21–44
+Hall JW , Dawson RJ, Sayers PB, Rosu C, Chatterton JB, Deakin R (2003) A methodology for national-scale
+flood risk assessment. Water Marit Eng 156:235–247
+Hall JW , Sayers PB, Dawson RJ (2005) National-scale assessment of current and future flood risk in England and
+Wales. Nat Hazards 36:147–164
+Hallegatte S (2007) The use of synthetic hurricane tracks in risk analysis and climate change damage assessment.
+JA p p lM e t e o r o lC l i m a t o l4 6 : 1 9 5 6–1966
+Hallegatte S (2008) An adaptive regional input-output model and its application to the assessment of the
+economic cost of Katrina. Risk Anal 28:779 –799. doi:10.1111/j.1539-6924.2008.01046.x
+H
+allegatte S, Green C, Nicholls RJ, Corfee-Morlot J (2013) Future flood losses in major coastal cities. Nat Clim
+Chang 3:802–806
+Harris I, Jones PD, Osborn TJ, Lister DH (2013) Updated high-resolution grids of monthly climatic observa-
+tions—the CRU TS3.10 dataset. Int J Climatol. doi: 10.1002/joc.3711
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 885
+
+[[PAGE 22]]
+Hirabayashi Y , Roobavannan M, Sujan K, Lisako K, Dai Y , Satoshi W , Hyungjun K, Shinjiro K (2013) Global
+flood risk under climate change. Nat Clim Chang 3:816 –821. doi:10.1038/nclimate1911
+Hochrainer S, Linnerooth-Bayer J, Mechler R (2010) The European Union Solidarity Fund. Mitig Adapt Strateg
+Glob Chang 15:797–810
+Hooijer A, Klijn F, Pedroli GBM, V an Os AG (2004) Towards sustainable flood risk management in the Rhine
+and Meuse river basins: synopsis of the findings of Irma-sponge. River Res Appl 20:343–357. doi:10.1002/
+rra.781
+Hosking JRM, Wallis JR (1997) Regional frequency analysis. An approach based on L-Moments. Cambridge
+University Press, p 224
+Huizinga HJ (2007) Flood damage functions for EU member states. Technical report, HKV Consultants
+ICPR (2001) Atlas of flood danger and potential damage due to extreme floods of the Rhine. International
+Commission for the Protection of the Rhine (ICPR), Koblenz
+IPCC (2012) Managing the risks of extreme events and disasters to advance climate change adaptation. A special
+report of working groups I and II of the intergovernmental panel on climate change. Cambridge University
+Press, Cambridge
+Jongman B, Ward PJ, Aerts JCJH (2012a) Global exposure to river and coastal flooding—long term trends and
+changes. Glob Environ Chang 22:823–835. doi:10.1016/j.gloenvcha.2012.07.004
+Jongman B, Kreibich H, Apel H, Barredo JI, Bates PD, Feyen L, Gericke A, Neal J, Aerts JCJH, Ward PJ
+(2012b) Comparative flood damage model assessment: towards a European approach. Nat Hazards Earth
+Syst Sci 12:3733–3752
+Jongman B, Hochrainer-Stigler S, Feyen L, Aerts JCJH, Mechler R, Botzen WJW , Bouwer LM, Pflug G, Rojas
+R, Ward PJ (2014) Increasing stress on disaster risk finance due to large floods. Nat Clim Chang 4:264–268.
+doi:10.1038/NCLIMA TE2124
+Jonkman SN, Bockarjova M, Kok M, Bernardini P (2008) Integrated hydrodynamic and economic modelling of
+flood damage in the Netherlands. Ecol Econ 66:77– 90. doi:10.1016/j.ecolecon.2007.12.022
+Keef C, Tawn JA, Lamb R (2013) Estimating the probability of widespread flood events. Environmetrics 24:13–21
+Kind J D2011] Maatschappelijke kosten-batenanalyse Waterveiligheid 21e eeuw. 1204144-006-ZWS-0012.
+Deltares, Delft, in Dutch
+Klijn F, Kreibich H, De Moel H, Penning-Rowsell E (2015) Adaptive flood risk management planning based on
+a comprehensive flood risk conceptualisation. Mitigation and Adaptation Strategies for Global Change, this
+issue
+Kok M, Huizinga HJ, Vrouwenvelder ACWM, Barendregt A (2005) Standaardmethode2004 - schade en
+slachtoffers als gevolg van overstromingen. DWW-2005-005, RWS Dienst Weg- en Waterbouwkunde.
+(in Dutch)
+Koks EE, de Moel H, Aerts JCJH, Bouwer LM (2014a) Effect of spatial adaptation measures on flood risk: study
+of coastal floods in Belgium. Reg Environ Chang 14(1):413 –425
+Koks EE, Bockarjova M, De Moel H, Aerts JCJH (2014b) Integrated direct and indirect flood risk modeling:
+development and sensitivity analysis. Risk Anal. doi:10.1111/risa.12300
+Kreibich H, Thieken AH (2008). Assessment of damage caused by high groundwater inundation. Water Resour
+Res 44(9). doi:10.1029/2007WR006621
+Kreibich H, Thieken AH (2009) Coping with floods in the city of Dresden, Germany. Nat Hazards 51(3):423 –
+436
+Kreibich H, Piroth K, Seifert I, Maiwald H, Kunert U, Schwarz J, Merz B, Thieken AH (2009) Is flow velocity a
+significant parameter in flood damage modelling? Nat Hazards Earth Syst Sci (NHESS) 9(5):1679 –1692
+Kreibich H, Seifert I, Merz B, Thieken AH (2010) Development of flemocs—a new model for the estimation of
+flood losses in the commercial sector. Hydrol Sci J-J des Sci Hydrol 55:1302–1314. doi:10.1080/02626667.
+2010.529815
+Kreibich H, Meyer S, Diekkrüger B (2011a) Weiterentwicklung von FLEMOps zur Modellierung von
+Grundhochwasserschäden und Wohngebäuden. Hydrol Wasserbewirtsch 55(6):300–309
+Kreibich H, Seifert I, Thieken AH, Lindquist E, Wagner K, Merz B (2011b) Recent changes in flood
+preparedness of private households and businesses in Germany. Reg Environ Chang 11(1):59–71
+Kreibich H, V an den Bergh JCJM, Bouwer LM, Bubeck P , Ciavola P , Green C, Hallegatte S, Logar I, Meyer V ,
+Schwarze R, Thieken AH (2014) Costing natural hazards. Nat Clim Chang 4:303 –306
+Kron W D2002] K
+eynote lecture: flood risk = hazard × exposure × vulnerability. In: Wu B, Wang Z, Wang G,
+Huang G, Fang H, Huang J Deds] Flood defence ‘2002. Science Press, New Y ork, pp 82 –97, Ltd. http://
+www.cws.net.cn/cwsnet/meeting-fanghong/v10108.pdf
+Kundzewicz ZW , Pińskwar I, Brakenridge GR (2013) Large floods in Europe, 1985–2009. Hydrol Sci J 58:1–7
+Lamb R, Keef C, Tawn J, Laeger S, Meadowcroft I, Surendran S, Dunning P , Batstone C (2010) A
+new method to assess the risk of local and widespread flood on rivers and coasts. J Flood Risk
+Manag 3(4):323– 336
+886 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 23]]
+Lammersen R, Engel H, V an de Langemheen W , Buiteveld H (2002) Impact of river training and retention
+measures on flood peaks along the Rhine. J Hydrol 267:115 –124
+Lasage R, V eldkamp TIE, De Moel H, V an TC, Phi HL, V ellinga P , Aerts JCJH (2014) Assessment of the
+effectiveness of flood adaptation strategies for HCMC. Nat Hazards Earth Syst Sci 14:1441 –1457
+Li J, Crawford-Brown D, Syddall M, Guan D (2013) Modeling imbalanced economic recovery following a
+natural disaster using input-output analysis. Risk Anal. doi:10.1111/risa.12040
+Lumbruso D (2007) Review report of operational flood management methods and models. FLOODsite Project
+Report: Integrated Flood Risk Analysis and Management Methodologies. EU Sixth Framework Programme
+Merz B, Thieken AH (2004) Flood risk analysis: concepts and challenges. Österreichische Wasser-und
+Abfallwirtschaft 56(3–4):27–34
+Merz B, Thieken AH (2005) Separating natural and epistemic uncertainty in flood frequency analysis. J Hydrol
+309(1–4):114–132
+Merz B, Thieken AH (2009) Flood risk curves and uncertainty bounds. Nat Hazards 51:437 –458. doi:10.1007/
+s11069-009-9452-6
+Merz B, Kreibich H, Thieken AH, Schmidtke R (2004) Estimation uncertainty of direct monetary flood damage
+to buildings. Nat Hazards Earth Syst Sci 4:153 –163. doi:10.5194/nhess-4-153-2004
+Merz B, Thieken AH, Gocht M (2007) Flood risk mapping at the local scale: concepts and challenges. In: Begum
+S, Stive M, Hall J (eds) Advances in natural and technological hazards research. Springer, Dordrecht, pp
+231–251
+Merz B, Elmer F, Thieken AH (2009) Significance of‘high probability/low damage’ versus ‘low probability/high
+damage’ flood events. Nat Hazards Earth Syst Sci 9:1033 –1046. doi:10.5194/nhess-9-1033-2009
+Merz B, Kreibich H, Schwarze R, Thieken A (2010a) Review article ‘assessment of economic flood damage’.
+Nat Hazards Earth Syst Sci 10:1697 –1724. doi:10.5194/nhess-10-1697-2010
+Merz B, Hall J, Disse M, Schumann A (2010b) Fluvial flood risk management in a changing world. Nat Hazards
+Earth Syst Sci 10:509–527
+Merz B, V orogushyn S, Uhlemann S, Delgado J, Hundecha Y (2012) HESS Opinions‘More efforts and scientific
+rigour are needed to attribute trends in flood time series ’. Hydrol Earth Syst Sci 16(5):1379 –1387
+Merz B, Kreibich H, Lall U (2013) Multi-variate flood damage assessment: a tree-based data-mining approach.
+Nat Hazards Earth Syst Sci 13(1):53 –64
+Messner F, Meyer V (2006) Flood damage, vulnerability and risk perception —challenges for flood damage
+research. In: Schanze J, Zeman E, Marsalek J (eds) Flood risk management: hazards, vulnerability and
+mitigation measures. Springer, Dordrecht, pp 149–169
+Messner F, Pennning Rowsell E, Green C, Meyer V , Tunstall S, V an der V een A (2007) Evaluating flood
+damages: guidance and recommendations on principles and practices. T09-06-01, FLOODsite
+Meyer V , Scheuer S, Haase D (2009) A multicriteria approach for flood risk mapping exemplified at the Mulde
+River, Germany. Nat Hazards 48:17–39. doi:10.1007/s11069-008-9244-4
+Meyer V , Becker N, Markantonis V , Schwarze R, V an den Bergh JCJM, Bouwer LM, Bubeck P , Ciavola P ,
+Genovese E, Green C, Hallegatte S, Kreibich H, Lequeux Q, Logar I, Papyrakis E, Pfurtscheller C, Poussin
+J, Przyluski V , Thieken AH, Viavattene C (2013) Review article: assessing the costs of natural hazards —
+state of the art and knowledge gaps. Nat Hazards Earth Syst Sci 13:1351 –1373
+Michel-Kerjan E, Kunreuther H (2011) Redesigning flood insurance. Science 333:408–409
+Middelmann-Fernandes MH (2010) Flood damage estimation beyond stage-damage functions: an Australian
+ex
+ample. J Flood Risk Manag 3(1):88 –96. doi:10.1111/j.1753-318X.2009.01058x
+Munich Re (2013) Natural catastrophes in the first half year of 2013. Munich Re NatCatSER VICE
+Neal J, Schumann G, Bates P (2012) A subgrid channel model for simulating river hydraulics and floodplain
+inundation over large and data sparse areas. Water Resour Res 48, W11506
+Neuhold C, Nachtnebel HP (2008) Flood risk assessment in an Austrian municipality comprising the evaluation
+of effectiveness and efficiency of flood mitigation measures. In: Flood risk management-research and
+practise. Taylor & Francis Group, London, p 135
+Neumayer E, Barthel F (2011) Normalizing economic loss from natural disasters: a global analysis. Glob Environ
+Chang 21(1):13–24
+Nicholas J, Holt GD, Proverbs D (2001) Towards standardizing the assessment of flood damaged properties in
+the UK. Struct Surv 19:163 –172
+Nicholls RJ, Hanson S, Herweijer C, Patmore N, Hallegatte S, Corfee-Morlot J, Chateau J, Muir-Wood R (2008)
+Ranking port cities with high exposure and vulnerability to climate extremes —exposure estimates. ENV/
+WKP(2007)1, OECD Publishing, Paris
+Okuyama Y , Santos JR (2014) Disaster impact and input-output analysis. Econ Syst Res 26(1):1 –12. doi:10.
+1080/09535314.2013.871505
+Olsen JR, Beling P A, Lambert JH, Haimes YY (1998) Input-output economic evaluation of system of levees. J
+Water Res 124(5):237–245
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 887
+
+[[PAGE 24]]
+Pappenberger E, Dutra E, Wetterhall F, Cloke HL (2012) Deriving global flood hazard maps of fluvial floods
+through a physical model cascade. Nat Hazards Earth Syst Sci 16:4143 –4156
+Patterson SA, Apostolakis GE (2007) Identification of critical locations across multiple infrastructures for
+terrorist actions. Reliab Eng Syst Saf 92(9):1183–1203
+Peduzzi P , Chatenoux B, Dao H, De Bono A, Herold C, Kossin J, Mouton F, Nordbeck O (2012) Global trends in
+tropical cyclone risk. Nat Clim Chang 2:289 –294. doi:10.1038/NCLIMA TE1410
+Penning-Rowsell EC (2013) A ‘realist’ approach to the extent of flood risk in England and Wales. In: Klijn F,
+Schweckendiek T (eds) Comprehensive flood risk management: research for policy and practice. Taylor and
+Francis, London, p 450
+Penning-Rowsell EC (2015) A realistic assessment of fluvial and coastal flood risk in England and Wales. Trans
+Inst Br Geogr 40(1):44–61
+Penning-Rowsell E, Viavattene C, Pardoe J, Chatterton J, Parker D, Morris J (2010) The benefits of flood and
+coastal risk management: A handbook of assessment techniques. Middlesex University Press, London
+Penning-Rowsell EC, Priest S, Parker DJ, Morris J, Tunstall S, Viavattene C, Owen D (2013) Flood and coastal
+erosion risk management: a manual for economic appraisal. Routledge, London
+Petrow T, Thieken AH, Kreibich H, Bahlburg CH, Merz B (2006) Improvements on flood alleviation in
+Germany: lessons learned from the Elbe flood in August 2002. Environ Manag 38:717 –732. doi:10.1007/
+s00267-005-6291-4
+Poussin JK, Bubeck P , Aerts JCJH, Ward PJ (2012) Potential of semi-structural and non-structural adaptation
+strategies to reduce future flood risk: case study for the Meuse. Nat Hazards Earth Syst Sci 12:3455 –3471.
+doi:10.5194/nhess-12-3455-2012
+Rodda HJE (2001) The development of a stochastic rainfall model for UK flood modelling. In: P . Krahe, D.
+Herpetz, (eds.) Generation of hydrometeorological reference conditions for the assessment of flood hazard in
+large river basins. CHR-Report No. I-20, Koblenz
+Rodda HJE (2005) The development and application of a flood risk model for the Czech Republic. Nat Hazards
+36:207–220
+Rojas R, Feyen L, Bianchi A, Dosio A (2012) Assessment of future flood hazard in Europe using a large
+ensemble of bias-corrected regional climate simulations. J Geophys Res 117, D17109. doi: 10.1029/
+2012JD017461
+Rojas R, Feyen L, Watkiss P (2013) Climate change and river floods in the European Union: socio-economic
+consequences and the costs and benefits of adaptation. Glob Environ Chang 23(6):1737–1751. doi:10.1016/
+j.gloenvcha.2013.08.006
+Rose A, Liao SY (2005) Modeling regional economic resilience to disasters: a computable general equilibrium
+analysis of water service disruptions. J Reg Sci 45:75 –112
+RWS-DWW (2005) Flood risks and safety in the Netherlands (Floris). DWW-2006-014, Ministerie van V erkeer
+en Waterstaat. http://www.projectvnk.nl/html/
+Saint-Geours N, Grelot F, Bailly J-S, Lavergne C (2013) Ranking sources of uncertainty in flood damage
+modelling: a case study on the cost-benefit analysis of a flood mitigation project in the Orb Delta, France. J
+Flood Risk Manag. doi:10.1111/jfr3.12068
+Scawthorn C, Flores P , Blais N, Seligson H, Tate E, Chang S, Mifflin E, Thomas W , Murphy J, Jones C,
+Lawrence M (2006) HAZUS-MH flood loss estimation methodology. II: damage and loss assessment. Nat
+Hazards Rev 7(2):72–81
+Schröter K, Kreibich H, V ogel K, Riggelsen C, Scherbaum F, Merz B (2014) How useful are complex flood
+damage models. Water Resour Res 50(4):3378–3395. doi:10.1002/2013WR014396
+Schröter K, Kunz M, Elmer F, Mühr B, Merz B (2015) What made the June 2013 flood in Germany an
+exceptional event? A hydro-meteorological evaluation. Hydrol Earth Syst Sci 19:309–327
+Schumann G, Di Baldassarre G (2010) The direct use of radar satellites for event-specific flood risk mapping.
+Remote Sens Lett 1(2):75–84
+Schumann G, Di Baldassarre G, Bates PD (2009) The utility of space-borne radar to render flood inundation
+maps based on multi-algorithm ensembles. IEEE Trans Geosci Remote Sens 47 8(2):2801 –2807
+Seifert I, Kreibich H, Merz B, Thieken AH (2010) Application and validation of FLEMOcs —af l o o dl o s s
+estimation model for the commercial sector. Hydrol Sci J - J des Sci Hydrol 55(8):1315 –1324
+Seifert I, Botzen WJW , Kreibich H, Aerts JCJH (2013) Influence of flood risk characteristics on flood insurance
+demand: a comparison between Germany and the Netherlands. Nat Hazards Earth Syst Sci 13(7):1691–170
+Smith DI (1994) Flood damage estimation—a
+review of urban stage-damage curves and loss functions. Water SA
+20:231–238
+Stedinger JR, V ogel RM, Foufoula-Georgiou E (1993) Frequency analysis of extreme events. In: Maidment DA
+(ed) Handbook of hydrology, chapter 18. McGraw-Hill, New York
+Steenge AE, Bockarjova M (2007) Thinking about imbalances and rigidities in post-catastrophe economics: an
+input-output based proposition. Econ Syst Res 19(2):205–223
+888 Mitig Adapt Strateg Glob Change (2015) 20:865–890
+
+[[PAGE 25]]
+Stuerck J, Poortinga A, V erburg PH (2014) Mapping ecosystem services: the supply and demand of flood
+regulation services in Europe. Ecol Indic 38:198–211
+Takeuchi K (2001) Increasing vulnerability to extreme floods and societal needs of hydrological forecasting.
+Hydrol Sci J 46(6):869–881
+Tang JCS, V ongvisessomjai S, Sahasakmontri K (1992) Estimation of flood damage cost for Bangkok. Water
+Resour Manag 6:47–56
+Tapia-Silva F-O, Itzerott S, Förster S, Kuhlmann B, Kreibich H (2011) Estimation of flood losses to agricultural
+crops using remote sensing. Phys Chem Earth 36(7 –8):253–265
+Te Linde AH, Aerts JCJH, Bakker AMR, Kwadijk JCJ (2010a) Simulating low probability peak discharges for
+the Rhine basin using resampled climate modeling data. Water Resour Res 46, WR03512. doi: 10.1029/
+2009WR007707
+Te Linde AH, Aerts JCJH, Kwadijk JCJ (2010b) Effectiveness of flood management measures on peak
+discharges in the Rhine basin under climate change. J Flood Risk Manag 3:248 –269. doi:10.1111/j.1753-
+318X.2010.01076.x
+Te Linde AH, Bubeck P , Dekkers JEC, De Moel H, Aerts JCJH (2011) Future flood risk estimates along the river
+Rhine. Nat Hazards Earth Syst Sci 11:459 –473. doi:10.5194/nhess-11-459-2011
+Tebodin (2000) Schadecurves industrie ten gevolge van overstroming. (in Dutch)
+Thieken AH, Müller M, Kreibich H, Merz B (2005) Flood damage and influencing factors: new insights from the
+August 2002 flood in Germany. Water Resour Res 41(12), W12430
+Thieken AH, Petrow T, Kreibich H, Merz B (2006) Insurability and mitigation of flood losses in private
+households in Germany. Risk Anal 26:383–395. doi:10.1111/j.1539-6924.2006.00741
+Thieken AH, Olschewski A, Kreibich H, Kobsch S, Merz B (2008) Development and evaluation of flemops—a
+new flood loss estimation model for the private sector. In: Flood recovery, innovation and response I, WIT
+Press, pp 315–324
+Toyoda (2008) Economic impacts of Kobe earthquake: a quantitative evaluation after 13 years. Proceedings of
+the 5th International ISCRAM Conference, Washington
+Tsay C, Nadibaidze L, Mahnovski S, Howe D (2014) Modeling electric power outage risk from storm tide events
+and climate change impacts. Appendix A to Storm hardening and resiliency collaborative report,
+Consolidated Edison Company of New Y ork, Inc.
+Tschoegl L, Below R, Guha-Sapir D (2006) An analytical review of selected data sets on natural disasters and
+impacts. UNDP/CRED Workshop on Improving Compilation of Reliable Data on Disaster Occurrence and
+Impact, Brussels
+UNDP (2013) A comparative review of country-level and regional disaster loss and damage databases. United
+Nations Development Program (UNDP), New Y ork
+UNISDR (2007) Hyogo framework for action 2005 –2015: building the resilience of nations and
+communities to disasters. United Nations Inte rnational Strategy f or Disaster Reduction
+Secretariat, Geneva
+UNISDR (2009) GAR2009—global assessment report on disaster risk reduction. Risk and poverty in a changing
+climate. United Nations International Strategy for Disaster Reduction Secretariat, Geneva
+UNISDR (2011) GAR 2011 —global assessment report on disaster risk reduction. Revealing risk, redefining
+development. United Nations International Strategy for Disaster Reduction Secretariat, Geneva
+UNISDR (2013) GAR 2013 —global assessment report on disaster risk reduction. From share risk to shared
+value: the business case for disaster risk reduction. United Nations International Strategy for Disaster
+Reduction Secretariat, Geneva
+V an Alphen J, Van Beek E (2006) From flood defence to flood management—prerequisites for sustainable flood
+management. In: V an Alphen J, V an Beek E, Taal M (eds) Floods, from defence to management. Taylor &
+Francis Group, London, pp 11–15
+V an Renssen S (2013) EU adaptation policy sputters and starts. Nat Clim Chang 3:614–615
+V ogel K, Riggelsen C, Scherbaum F, Schröter K, Kreibich H, Merz B (2013) Challenges for Bayesian network
+learning in a flood damage assessment application. ICOSSAR 2013, New Y ork
+V orogushyn S, Merz B, Apel H (2009) Development of dike fragility curves for piping and micro-
+instability breach mechanisms. Nat Hazards Earth Syst Sci 9(4):1383 –1401. doi: 10.5194/nhess-9-
+1383-2009
+V orogushyn S, Merz B, Lindenschmidt KE, Apel H (2010) A new methodology for flood hazard assessment
+considering dike breaches. Water Resour Res 46, W08541. doi:10.1029/2009WR008475
+V orogushyn S, Merz B, Lindenschmidt KE, Kreibich H, Apel HA, Merz B (2012) Analysis of a detention basin
+impact on dike failure probabilities and flood risk for a channel-dike-floodplain system along the river Elbe,
+Germany. J Hydrol 436–4
+37:120 –131
+Ward PJ, De Moel H, Aerts JCJH (2011) How are flood risk estimates affected by the choice of return periods?
+Nat Hazards Earth Syst Sci 11:3181–3195. doi:10.5194/nhess-11-3181-2011
+Mitig Adapt Strateg Glob Change (2015) 20:865–890 889
+
+[[PAGE 26]]
+Ward PJ, Jongman B, Sperna Weiland FC, Bouwman A, V an Beek R, Bierkens M, Ligtvoet W , Winsemius HC
+(2013) Assessing flood risk at the global scale: model setup, results, and sensitivity. Environ Res Lett 8:
+044019. doi:10.1088/1748-9326/8/4/044019
+Ward PJ, Jongman B, Kummu M, Dettinger MD, Sperna Weiland FC, Winsemius HC (2014) Strong influence of
+El Niño Southern Oscillation on flood risk around the world. Proc Natl Acad Sci U S A 111(44):15659 –
+15644. doi:10.1073/pnas.1409822111
+Wilson M, Bates P , Alsdorf D, Forsbert B, Horritt M, Melack J, Frappart F, Famiglietti J (2007) Modeling large-
+scale inundation of Amazonian seasonally flooded wetlands. Geophys Res Lett 34(15), L15404
+Wilson TM, Stewart C, Sword-Daniels V , Leionard GS, Johnston DM, Cole JW , Wardman J, Wilson G, Barnard
+ST (2012) V olcanic ash impacts on critical infrastructure. Phys Chem Earth Parts A/B/C 45–46:5–23. doi:10.
+1016/j.pce.2011.06.006
+Wind HG, Nierop TM, de Blois CJ, Kok JL (1999) Analysis of flood damages from the 1993 and 1995 Meuse
+floods. Water Resour Res 35(11):3459–3465
+Winkler J, Duenas-Osorio L, Stein R, Subramanian D (2011) Interface network models for complex urban
+infrastructure systems. J Infrastruct Syst 17(4):138–150. doi:10.1061/(ASCE)IS.1943-555X.0000068
+Winsemius HC, V an Beek R, Jongman B, Ward PJ, Bouwman A (2013) A framework for global river flood risk
+assessments. Hydrol Earth Syst Sci 17:1871–1892. doi:10.5194/hess-17-1871-2013
+Wünsch A, Hermann U, Kreibich H, Thieken AH (2009) The role of disaggregation of asset values in flood loss
+estimation: a comparison of different modeling approaches at the Mulde River, Germany. Environ Manag
+44(3):524–541
+Xu XP , Booij MJ, Mynett AE (2007) Propagation of discharge uncertainty in a flood damage model for the
+Meuse river. In: Begum S et al (eds) Flood risk management in Europe. pp 293 –310
+Y amamura E (2010) Effects of interactions among social capital, income and learning from experiences of natural
+disasters: a case study from Japan. Reg Stud 44(8):1019 –1032. doi:10.1080/00343400903365144
+Zhai G, Fukuzono T, Ikeda S (2005) Modeling flood damage: case of Tokai Flood 2000. J Am Water Resour As
+41:77–92
+890 Mitig Adapt Strateg Glob Change (2015) 20:865–890

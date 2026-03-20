@@ -1,0 +1,2542 @@
+[[PAGE 1]]
+REVIEW PAPER
+Does the environmental inequality matter? A literature
+review
+Shuai Shao . Liwen Liu . Zhihua Tian
+Received: 24 December 2020 / Accepted: 30 March 2021 / Published online: 13 April 2021
+/C211The Author(s), under exclusive licence to Springer Nature B.V. 2021
+Abstract The environmental inequality theory
+reveals that the risk of environmental pollution
+exposure varies among regions and groups and that
+particular groups face a higher threat of environmental
+pollution. In recent years, studies on the environmen-
+tal inequality issue in developed countries have been
+increasing, while related literature on developing
+countries is very scarce. It has been found that some
+factors, such as race and economic status, have a close
+relationship with the risk of environmental pollution
+exposure faced by individuals. For the ﬁrst time, this
+paper provides an extensive review of existing theo-
+retical and empirical studies on environmental
+inequality. We review, in detail, the evolution of the
+environmental inequality theory, including the deﬁni-
+tion and measurement of environmental inequality.
+Further, we provide a systematic refresher on the main
+performance of environmental inequality, including
+health, education, labor productivity, and real estate
+prices. We also identify several causes of environ-
+mental inequality, such as ethnic differences, eco-
+nomic status, human capital, and household
+registration systems. Finally, we discuss prospects
+for the future research on this issue.
+Keywords Environmental inequality /C1
+Environmental pollution /C1Economic status /C1Human
+capital /C1Public health
+Introduction
+Environmental pollution is a principal by-product
+generated during the rapid development of human
+society and the economy (Li et al., 2021; Shao et al.,
+2020). Environmental pollution not just makes an eco-
+environment exceed its burden limit, but also results in
+high losses in the health and social economy (World
+Health Organization, 2019). Approximately seven
+million deaths every year can be attributed to ambient
+and household air pollution (World Health Organiza-
+tion, 2018). It is estimated that the economic inﬂu-
+ences of outdoor air pollution, including inﬂuences on
+agricultural crop output, health expenditures, and
+labor productivity, will cause global economic costs,
+which will account for 1% of global gross domestic
+product (GDP) by 2060 (OECD, 2016). However, the
+pollution burden is not shared equally among all of the
+S. Shao
+School of Business, East China University of Science and
+Technology, Shanghai 200237, China
+S. Shao /C1L. Liu
+School of Urban and Regional Science, Institute of
+Finance and Economics Research, Shanghai University of
+Finance and Economics, Shanghai 200433, China
+Z. Tian ( &)
+School of Economics, Zhejiang University of Technology,
+Hangzhou 310023, China
+e-mail: tianzhihuas@126.com
+123
+Environ Geochem Health (2022) 44:3133–3156
+https://doi.org/10.1007/s10653-021-00921-2(0123456789().,-volV)( 0123456789().,-volV)
+
+[[PAGE 2]]
+world’s people. Developing countries face a higher
+risk of pollution exposure and thus bear a greater
+pollution burden and losses (Chen et al., 2021;M a
+et al., 2018; World Bank, 2016). To date, studies on
+environmental pollution and its impacts in developing
+countries have tended to focus on examining the
+overall situation and regional differences in environ-
+mental quality with reference to temporal and spatial
+scales (Ai et al., 2020; Tian et al., 2020). Conversely,
+research on how environmental pollution and social
+and economic burdens posed by environmental pollu-
+tion are distributed across different residents has been
+relatively scarce. This is despite the fact that, even in
+the same polluted environment, there has been found
+to be a signiﬁcant difference in the degree and
+probability of residents’ exposure to pollution (Brulle
+& Pellow, 2006; Lanier et al., 2019; Marshall, 2008;
+Padilla et al., 2014; Schu¨le et al., 2017). Accordingly,
+the issue of inequality in environmental pollution
+should arguably receive more attention.
+While the history of environmental inequality has
+not been long in the ﬁeld of contemporary economics
+research, it has recently developed into an important
+topic in environmental economics (Schaeffer &
+Tivadar, 2019). The relevant research includes numer-
+ous topics related to environmental inequality, includ-
+ing its deﬁnition, measurement, differential
+performance, and causes. The study of environmental
+inequality can provide a fresh angle for exploring the
+sustainability of economic development and environ-
+mental equity, indicating that while considering
+economic development, it is essential not only to
+ensure environmental sustainability, but also to con-
+sider environmental fairness for different groups of
+people.
+A series of environmental justice movements which
+took place in the USA in the 1980s aroused environ-
+mental inequality research, which entailed a combi-
+nation of raising awareness of environmental pollution
+and taking afﬁrmative action. Driven by these move-
+ments, people began to pay attention to inequality
+issues related to environmental pollution. In 1982, the
+Warren County Protest broke out in Warren County,
+North Carolina, which was one of the most striking
+pro-environment movements (Szasz & Meuser, 1997).
+Dominated by African-Americans and low-income
+residents, Warren County is one of the most econom-
+ically backward areas in the North Carolina. The
+government had planned to construct a landﬁll in
+Warren County to bury toxic polychlorinated biphe-
+nyls (PCBs) from 14 other counties in the state, which
+was resolutely opposed by local residents. In total,
+more than 500 people were arrested after the protest
+began. The Warren County Protest being directly
+attributed to the social disparity that environmental
+pollution is unequally distributed may be seen as the
+earliest movement to link race with poverty and the
+environmental consequences of industrial wastes
+(Hartley, 1995). In this vein, early studies on envi-
+ronmental inequality focus primarily on environmen-
+tal racism.
+The reports of the US General Accounting Ofﬁce
+(USGAO) and the United Church of Christ (UCC)
+may be seen as highly representative of the early
+research. In 1983, a report issued by the USGAO
+indicated that three-quarters of the waste disposal
+plants in the southeastern USA were situated near
+areas where African-Americans predominantly live
+(Burke, 1993). The racial discrimination in the USA at
+the time made it impossible for minorities, such as
+African-Americans, to obtain the same social status as
+whites, thereby placing an unequal environmental
+burden on minorities. In 1987, the UCC published the
+ﬁndings of its research entitled ‘Toxic Waste and Race
+in the United States.’ This study showed that three
+ethnic minority communities, including Emille, Scot-
+tedville, and Kettleman City, concentrated two-ﬁfths
+of the toxic waste sites in the USA, thus producing so-
+called environmental racism (Bornstein, 1989).
+The key implication of both the USGAO and the
+UCC’s studies is that environmental pollution is
+mainly concentrated in areas with a large proportion
+of minorities, who subsequently bear more serious
+pollution exposure risks. A few years later, Bullard’s
+(1990) seminal in-depth analysis of race and contam-
+inant distribution in the USA,
+Dumping in Dixie:
+Race, Class, and Environmental Quality , underlines
+that, due to long-standing racial discrimination poli-
+cies in the USA, a large number of poisonous
+pollutants are dumped in minority communities,
+reﬂecting the close relationship between race and the
+burden of environmental pollution. Figure 1 shows the
+evolution process of environmental inequality. Since
+the Warren County Protest, studies on environmental
+inequality worldwide have substantially increased
+over the last three decades.
+Compared to developed countries, however, studies
+on environmental inequality in developing countries
+123
+3134 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 3]]
+remain at an early stage (Bell & Ebisu, 2012; Smiley,
+2019). How to make the burden of environmental
+pollution and the allocation of environmental
+resources as fair among the public as possible, to
+realize a trade-off between environmental protection
+and economic growth, has become an urgent issue for
+developing and less-developed countries in the pro-
+cess of socioeconomic sustainable development. Stud-
+ies on environmental inequality undoubtedly play an
+important role in tackling these issues. Environmental
+inequality not only affects the basic living conditions
+of vulnerable groups (Azimi et al., 2019; Hird &
+Reese, 1998; Jerrett, 2009; Ouyang et al., 2018), but
+also leads to social conﬂicts, such as crime and riots
+(Ma, 2010; Samoli et al., 2019). Therefore, the
+enacting of any environmental policy needs to take
+full account of environmental inequality issues. Given
+the current aggravation of environmental pollution
+and the enhancement of people’s environmental
+awareness, it is imperative for academia to fully draw
+on the experience of developed countries and related
+research achievements and conduct a systematic and
+in-depth study of environmental inequality, so as to
+provide the necessary theoretical basis and practical
+guidance for the rational formulation and effective
+implementation of environmental policies in develop-
+ing countries.
+The remainder of the article is structured as follows.
+We ﬁrst identify the concept of environmental
+inequality and suggest ways of measuring environ-
+mental inequality, including unit-based, distance-
+based, and risk-/exposure-based measures. We then
+elaborate on the performance of environmental
+inequality concerning public health, education, labor
+productivity, and real estate price. We further consider
+race, economic status, and other factors that affect
+environmental inequality. We conclude by summariz-
+ing the key arguments and proposing a future research
+agenda.
+Deﬁnition and measurement of environmental
+inequality
+Deﬁnition of environmental inequality
+Despite general recognition that environmental
+inequality has come to be a signiﬁcant concept in the
+ﬁeld of economics (Ferna ´ndez & Wu, 2016; Zhang
+et al., 2018), there is currently no real authoritative
+deﬁnition of environmental inequality in the existing
+literature. As previously stated, environmental
+inequality research began with the environmental
+justice movement, triggered by unequally distributing
+environmental pollution. Subsequently, related studies
+have focused on environmental justice (Banzhaf et al.,
+2019; Davies & Mah, 2020; Holiﬁeld et al., 2017;
+Laurent, 2011; Walker, 2012), which may thus be
+regarded as a pioneer in the notion of environmental
+inequality.
+As deﬁned by a report entitled ‘Environmental
+Equity: Reducing Risks for All Communities,’ which
+1982 1983 1987 1990
+Three ethnic 
+minority 
+communities
+concentrated 
+two-fifths of the toxic 
+waste sites in the 
+USA.
+A large number of 
+poisonous 
+pollutants were
+dumped in 
+minority 
+communities.
+EventsResearch results
+It was the 
+earliest 
+movement to 
+link race with 
+the poverty and 
+environmental 
+consequences of 
+industrial waste.
+The UCC published 
+the findings of its 
+study entitled 
+‘Toxic Waste and 
+Race in the United 
+States’.
+Three-quarters of 
+the waste disposal
+plants in the 
+southeastern U.S.
+were situated near 
+areas where African 
+Americans 
+predominantly live.
+A report was 
+issued by the 
+USGAO.
+Bullard’s book 
+“Dumping in Dixie: 
+Race, Class, and 
+Environmental 
+Quality” was 
+published.
+Warren county 
+protest broke 
+out.
+Fig. 1 Evolution process of
+environmental inequality
+123
+Environ Geochem Health (2022) 44:3133–3156 3135
+
+[[PAGE 4]]
+the US Environmental Protection Agency (EPA)
+published in 1992, environmental justice is a term
+utilized to denote that environmental interests and
+environmental risks are allocated proportionally and
+fairly among populations with different income levels
+and cultural backgrounds (Dobson, 1998). On this
+basis, in 2001, the EPA redeﬁned the environmental
+justice, that is, in the formulation, implementation, and
+enforcement of environmental policies, regulations,
+and laws, in spite of race, color, nationality, or income,
+everyone deserves fair treatment and active participa-
+tion. Speciﬁcally, fair treatment here implies that no
+population, comprising any particular race, minority,
+and socioeconomic group, is constrained to bear
+unequal pollution exposure due to political or eco-
+nomic disempowerment (Mohai et al., 2009).
+However, in reality, environmental injustice is
+common. Existing studies fail to strictly distinguish
+between environmental injustice and environmental
+inequality. Environmental injustice emphasizes the
+inequality of rules and standards. That is, the fact that
+speciﬁc groups have been exposed to more serious
+pollution threats owing to the inequality of rules and
+standards (Ikeme, 2003). On the other hand, the notion
+of environmental inequality underlines inequality in
+actual outcomes and focuses on the link between
+social inequality and bearing an environmental bur-
+den, including any form that results in exposure to a
+more serious pollution burden on speciﬁc groups
+(Pellow, 2000). Environmental injustice and environ-
+mental inequality are usually equivalent, but environ-
+mental inequality is arguably a broader concept, given
+that it may stem from environmental injustice and may
+itself lead to further environmental injustice (Collins
+& Grineski, 2019; Grove et al., 2018). Based on the
+above studies, we deﬁne the environmental inequality
+as that the difference in pollution exposure risks
+between social groups in the context of regional
+differences in environmental burdens. The differences
+in environmental risks among groups are closely
+related to their race, color, national origin, and
+income, and the minority groups bear more serious
+pollution exposure risks.
+Measurement of environmental inequality
+Undertaking a precise measurement of environmental
+inequality is key to conducting relevant research in
+this area, particularly empirical research. In general,
+three approaches have been utilized to measure
+environmental inequality in existing empirical studies:
+unit-based, distance-based, and exposure-/risk-based
+(Ma, 2010; Schoolman & Ma, 2012). To date, some
+scholars have undertaken useful explorations of these
+different measures of environmental inequality.
+Table 1 and Fig. 2 summarize the relevant represen-
+tative literature.
+Unit-based method
+The spatial unit-based method can be said to be a
+classical method used in the study of environmental
+inequality, which focuses on examining whether
+environmental hazards and geographic unit locations
+are consistent, academic circles have thus referred to
+this approach as the spatial coincidence method (Been,
+1995; Greenberg, 1993). The basic logic is that a
+geographical unit (e.g., county, postcode area, and
+census area) containing the environmental hazard is
+selected as a key sample, and a set of geographical unit
+without the environmental hazard is taken as the
+control group; then, the existence of environmental
+inequality is investigated by comparing the demo-
+graphic characteristics between the two groups. A
+large number of scholars using this approach have
+noted a positive link between communities where
+ethnic minorities are concentrated and environmental
+pollution.
+As shown in Table 1, Anderton et al. ( 1994) used
+data samples from US toxic substances treatment,
+storage and disposal facilities (TSDFs) and the related
+population information to measure environmental
+inequality in different geographic units, pointing out
+that there were more TSDFs in areas with a larger
+proportion of Hispanic people. Daniels and Friedman
+(1999) examined the environmental inequality in each
+community using the Toxics Release Inventory (TRI)
+released by the EPA in 1990 and combining the 1990
+US census and county-level commercial model data
+samples, ﬁnding that the proportion of black residents
+was positively correlated with the release of toxic air
+substances. They also note that compared to middle-
+income neighborhoods, lower levels of toxic sub-
+stances are released in high-income and low-income
+communities. Davidson and Anderton ( 2000
+) ana-
+lyzed how dangerous material treatment facilities
+were distributed in space with reference to the
+facilities managed by the Resource Conservation and
+123
+3136 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 5]]
+Table 1 Representative literature on measuring environmental inequality
+Literature Research idea Research
+object
+Data
+sources
+Characteristic or deﬁciency
+Unit-based Greenberg ( 1993) Study environmental inequality
+in the selection of sites for
+unwanted land use
+USA WTEFs Focus on examining whether
+environmental hazards and geographic
+unit locations are consistent
+Anderton et al.
+(1994)
+Measure environmental
+inequality in different
+geographic units
+USA TSDFs
+Been ( 1995) Same as Greenberg ( 1993) USA TSDFs
+Oakes et al.
+(1996)
+Study how hazardous waste
+facilities are distributed in the
+communities
+USA TSDFs
+Anderton et al.
+(1997)
+Same as Anderton et al. ( 1994) USA NPL
+Daniels and
+Friedman (1999)
+Examine the environmental
+inequality in each community
+USA TRI
+Davidson and
+Anderton ( 2000)
+Analyze how dangerous
+material treatment facilities
+are distributed in space
+USA RCRA
+Distance-based Pollock and Vittas
+(1995)
+Study the impact of race on
+environmental inequality
+Florida
+(USA)
+ITR Clarify the speciﬁc locations of polluting
+facilities and fully consider the proximity
+between polluting facilities and the
+nearby population
+Glickman et al.
+(1995)
+Study environmental inequality
+in low-income and minority
+communities
+Pittsburgh
+(USA)
+TRI
+Boer et al. ( 1997) Examine the factors affecting
+environmental inequality
+Los
+Angeles
+(USA)
+TSDFs
+Chakraborty and
+Armstrong
+(1997)
+Same as Glickman et al. ( 1995) USA TRI
+Sheppard et al.
+(1999)
+Examine whether ethnic
+minorities, the poor, and
+children are more vulnerable
+to toxic air chemicals
+USA TRI
+Mohai and Saha
+(2006)
+Study how demographic
+characteristics change with
+increasing distances to the
+TSDFs
+USA TSDFs
+Exposure/risk-
+based
+Ash and Fetter
+(2004
+)
+Study air pollution exposure
+among different groups
+USA RSEI Quantify the health risks associated with
+different types of environmental hazards,
+but do not consider mobile pollution
+sources
+Downey et al.
+(2008)
+Same as Ash and Fetter ( 2004) USA RSEI
+Zwickl et al.
+(2014)
+Analyze how air pollution
+exposure is distributed in
+different areas
+USA RSEI
+Boyce et al.
+(2016)
+Study the distribution of
+industrial air pollution
+exposure
+USA RSEI
+Berman et al.
+(2018)
+Investigate how air pollution
+exposure levels affect student
+attendance
+Baltimore
+(USA)
+RSEI
+WTEFs are abbreviations for Waste-to-Energy Facilities; TSDFs are the abbreviation for treatment, storage and disposal facilities;
+NPL is the abbreviation for National Priorities List; TRI is the abbreviation for toxics release inventory; RCRA is the abbreviation for
+The Resource Conservation and Recovery Act; ITR is the abbreviation of Industrial Toxic Releases; RSEI is the abbreviation of Risk-
+Screening Environmental Indicators
+123
+Environ Geochem Health (2022) 44:3133–3156 3137
+
+[[PAGE 6]]
+Recovery Act (RCRA) and demographic data sam-
+ples. The ﬁndings emphasize that these facilities are
+generally situated closer to communities with a larger
+percentage of minority residents. In addition, in non-
+metropolitan areas, RCRA facilities are frequently
+distributed in communities where a higher proportion
+of black residents live.
+Conversely, other scholars using the same method
+suggest that there is no direct correlation between
+communities where ethnic minorities are concentrated
+and environmental pollution. For instance, Oakes et al.
+(1996) used TSDFs’ data samples published in the
+1992 Environmental Services Directory (ESD) and
+related census data to identify how dangerous waste
+facilities were distributed in communities. The ﬁnd-
+ings highlight that there is no deﬁnitive relationship
+between the communities in which racial and vulner-
+able groups are concentrated and environmental risk.
+Similarly, Anderton et al. ( 1997) used data samples of
+toxic pollution facilities published by the EPA’s
+National Priority List (NPL) and relevant demo-
+graphic information to investigate how toxic pollution
+facilities were distributed across the USA, suggesting
+that toxic pollution facilities were not clearly situated
+in poor or ethnic communities.
+Certain limitations of this method have been
+highlighted. On the one hand, it carries the implicit
+assumption that residents living in geographic units
+with environmental hazards are all subject to the same
+degree of environmental risk, ignoring the possibility
+that different residents could face different
+environmental risks within geographic units. There-
+fore, the method fails to reﬂect environmental
+inequality within spatial units where environmental
+hazards are located. On the other hand, from the
+perspective of space, environmental risk varies with
+spatial distance within geographic units. For example,
+when environmental hazards lie adjacent to the
+boundaries of geographic units, people living in
+nearby geographic units may face greater environ-
+mental risks than people living in other locations
+within them (Mohai & Saha, 2006).
+Distance-based method
+To overcome the disadvantage of the spatial unit-
+based approach, some scholars have employed geo-
+graphic distance-based methods to measure environ-
+mental inequality by mapping the precise locations of
+environmental hazards and measuring their proximity
+to nearby residents (Mohai & Saha, 2006). This
+technique has, in itself, been further categorized. For
+example, by summarizing the application process of
+distance-based methods, Mohai and Saha ( 2006)
+considered that these methods could be divided into
+the following three types: 50% areal containment
+approach, boundary intersection approach, and areal
+apportionment approach.
+The premise of 50% areal containment methods is
+to ﬁnd environmental hazards’ locations and then
+quantify the demographic features of predeﬁned
+geographic units determined by a circle at a certain
+Fig. 2 Representative literature on measuring environmental inequality
+123
+3138 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 7]]
+distance from these hazards. Nevertheless, since the
+geographic unit may actually occupy a large amount of
+space, the circle frequently intersects merely a part of a
+geographic unit instead of entirely covering it. A rule
+of thumb proposed by scholars to determine whether
+to regard a geographic unit as falling within the
+prescribed circle is to include the former which
+overlaps the circle by at least 50% and exclude
+geographic units which overlap the circle by less than
+50%. As shown in Table 1, based on the 50% areal
+containment approach, Mohai and Saha ( 2006) used
+US TSDFs and corresponding demographic data
+samples to examine how demographic characteristics
+changed within different circles of one-mile, two-
+mile, and three-mile radius centered on TSDFs. The
+result indicates that the percentages of the poor and
+ethnic minorities gradually decline with increasing
+distances away from the TSDFs.
+The boundary intersection method does not exclude
+geographic units with less than 50% of overlapping
+areas, which is different from the 50% areal contain-
+ment method. That is, all geographic units that
+partially overlap or are tangential to a circle of
+prescribed distance centering around the environmen-
+tal hazards, are regarded as the areas under investiga-
+tion. By applying the boundary intersection method,
+Pollock and Vittas ( 1995) found that African-Amer-
+ican families lived in places closer to environmental
+pollution sources in Florida. Likewise based on this
+method, Boer et al. ( 1997) took Los Angeles as an
+example to examine the factors affecting environmen-
+tal inequality. The ﬁndings show that poorer commu-
+nities have higher levels of TSDFs. That is, a lower
+economic status is accompanied by higher degrees of
+environmental risk, argued to be because the rich have
+more economic and political rights than the poor to
+reduce environmental negative externalities. By also
+applying the boundary intersection method, Chakra-
+borty and Armstrong (1997) employed US census data
+samples and the locations of hazardous facilities in the
+TRI database, pointing out that more non-whites and
+people under the poverty level inhabited areas with
+larger levels of TRI.
+The areal apportionment approach assembles the
+demographic features of all geographic units that
+overlap circles of a given radius, like the boundary
+intersection method. Nevertheless, there still exist
+signiﬁcant differences between the two methods. The
+boundary intersection method requires that all
+populations in all geographic units overlapped or
+intersected by circles of a certain radius centering
+around environmental hazards are used for statistical
+analysis. Conversely, the areal apportionment method
+adds up each geographic unit’s population that is
+weighted by the percentage of the geographic unit’s
+area that overlaps the circle, as the overall demo-
+graphics within circles of a certain distance from
+environmental hazards, thereby reducing the risk of
+bias that may appear in the estimation of demographic
+characteristics by applying the boundary intersection
+method. For example, using the areal apportionment
+method, Glickman et al. ( 1995) took Pittsburgh as an
+example, arguing that people living in minority and
+low-income areas faced larger levels of environmental
+risk. Similarly based on this method, Sheppard et al.
+(1999) drew a similar conclusion using US census data
+and TRI data samples to examine whether ethnic
+minorities, the poor, and children were more vulner-
+able to toxic air chemicals.
+The strengths of the geographical distance-based
+methods are that they clarify the speciﬁc locations of
+polluting facilities and fully consider the proximity
+between polluting facilities and the nearby population,
+to some extent compensating for the shortcomings of
+the spatial unit-based method. However, in practice,
+the geographical distance-based method has certain
+disadvantages. For example, it only indirectly ana-
+lyzes hazards to human health caused by environmen-
+tal wastes by studying the distribution of pollution
+facilities, regardless of the direct impact of the
+quantity or types of hazardous substances emitted by
+pollution facilities on people. Therefore, people’s
+exposure to environmental hazards cannot be accu-
+rately estimated.
+Risk-/exposure-based method
+Both unit-based and distance-based approaches make
+it difﬁcult to quantify the health risks related to various
+categories of environmental hazards. The risk-/expo-
+sure-based method remedies their limitations (Ash &
+Fetter, 2004). The premise of this idea is to use the
+EPA Risk-Screening Environmental Indicators
+(RSEI) model to identify the toxic air contaminant
+concentration near speciﬁc industrial facilities and
+further to research toxic air pollution exposure among
+different groups in the geographic units. The process
+of obtaining air toxic pollutant concentration data
+123
+Environ Geochem Health (2022) 44:3133–3156 3139
+
+[[PAGE 8]]
+from the RSEI model is as follows: ﬁrstly, relevant
+inﬂuences (e.g., exit gas velocity, chimney height, air
+turbulence, wind direction, wind speed, chemical
+decay, and deposition rate) are comprehensively
+considered in order to identify the annual average
+concentration of air pollutants per square kilometer
+grid unit in each plume model. Secondly, each grid
+cell value in the air pollutant plume model is
+multiplied by the toxic weight of air pollutants.
+Finally, the toxicity-weighted unit values of each air
+pollutant grid in the USA are aggregated to establish a
+grid database of toxicity-weighted air pollutant con-
+centration (Downey et al., 2008).
+This method, too, is not without its limitations. For
+example, in terms of the types of pollution sources, in
+addition to environmental pollution facilities, mobile
+pollution sources (such as pollution emissions from
+automobiles and airplanes) can also be included as
+indicators of environmental hazards (Chakraborty,
+2006). Based on the risk-/exposure-based method, Ash
+and Fetter ( 2004) examined air pollution exposure
+among various groups in the USA using demographic
+data samples and the RSEI model, arguing that low-
+income people and African-Americans frequently
+lived in contaminated communities. Downey et al.
+(2008) studied the environmental inequality in the
+USA using urban population data samples and the
+risk-/exposure-based method, ﬁnding that Hispanic
+people and African-Americans often bore larger air
+pollution exposure than residents of other ethnicities.
+Zwickl et al. ( 2014) explored how air pollution
+exposure was distributed in different regions using
+USA census data samples and the risk-/exposure-
+based method, indicating that African-Americans and
+Hispanics underwent higher air pollution exposure
+than white people in the Midwest with the most serious
+air pollution exposure. Boyce et al. ( 2016) examined
+how industrial air pollution exposure was distributed
+using census data and the RSEI model for the 50 US
+states, highlighting that air pollution exposure levels
+were often larger in areas where ethnic minorities were
+concentrated. By applying the risk-/exposure-based
+method, Berman et al. ( 2018) analyzed how air
+pollution exposure affected student attendance in
+Baltimore City, ﬁnding that air pollution exposure
+had a considerable adverse inﬂuence on this.
+In summary, all three methods described above pay
+close attention to discussing the relationship between
+environmental risk and regional demographic
+characteristics based on a speciﬁc scope in order to
+verify the existence of environmental inequality,
+thereby neglecting the more micro-level aspects of
+environmental inequality. For example, even within
+the same community, the risk of pollution exposure
+may vary greatly for each household. Using census
+data and pollution facility data, some new research
+directly matches each household or individual with
+contaminated facility data to examine whether envi-
+ronmental inequality exists at a more micro-level
+(Currie, Neidell et al., 2009). Household-level versus
+individual-level census data allow researchers to
+control more individual characteristics, thereby cir-
+cumventing or reducing the estimation bias caused by
+a large number of individual-level confounding vari-
+ables when assessing environmental inequality.
+Environmental inequality performance
+Environmental inequality performance, deﬁned as the
+differences between the effects of environmental
+pollution on different groups, has become a topical
+area of research in environmental economics. Numer-
+ous scholars have conducted relevant investigations
+based on the following four aspects: public health,
+education level, labor productivity, and real estate
+price. Table 2 and Fig. 3 summarize the relevant
+representative studies pertaining to environmental
+inequality performance.
+Public health
+Many studies have found that the most direct perfor-
+mance of environmental inequality is that the impacts
+of environmental pollution on health differ across
+populations (Laurian and Funderburg, 2014; Morello-
+Frosch et al., 2011). In particular, some scholars
+suggest that infants are more susceptible to pollution
+exposure. Moreover, maternal exposure to pollution
+during pregnancy can adversely affect fetal develop-
+ment (Tanaka, 2015). For example, using weekly air
+pollution data, Currie and Neidell ( 2005) examined
+how air pollution affected infant health in California,
+considering that air pollution had a harmful inﬂuence
+on infant health and increased the percentage of low
+birth weight and infant death rate and that Hispanic
+mothers often inhabited greatly contaminated areas.
+Currie, Neidell et al. ( 2009) matched information
+123
+3140 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 9]]
+Table 2 Representative literature on environmental inequality performance
+Literature Research
+object
+Research idea Concerned
+aspect
+Main conclusion
+Chay and
+Greenstone
+(2003)
+USA Investigate the impacts of TSPs on infant
+health
+Public
+health
+When TSPs concentration drops by 1%,
+infant death rate decreases by 0.5%
+Currie and
+Neidell
+(2005)
+California
+(USA)
+Study how air pollution affects infant
+health
+Public
+health
+Air pollution has a harmful inﬂuence on
+infant health
+Maantay
+(2007)
+Bronx
+(New
+York)
+Analyze how air pollution affects asthma Public
+health
+People living close to TRI facilities have
+been found to have a probability of
+experiencing asthma of up to 66%
+Currie,
+Neidell
+et al. ( 2009)
+New
+Jersey
+(USA)
+Same as Currie and Neidell ( 2005) Public
+health
+Air pollution is more harmful to the health
+of newborn children of African-American
+and Hispanic mothers
+Agarwal et al.
+(2010)
+USA Study how environmental pollution
+affects infant health
+Public
+health
+TRI facilities can signiﬁcantly increase fetal
+mortality
+Morello-
+Frosch et al.
+(2011)
+USA Study the health effects of exposure to
+environmental pollution and
+vulnerabilities associated with
+socioeconomic conditions
+Public
+health
+Vulnerability of socioeconomic conditions
+may exacerbate the health effects of
+environmental hazards
+Laurian and
+Funderburg
+(2014)
+France Study the locations of waste incinerators
+and their impacts on health
+Public
+health
+Harmful pollution facilities can adversely
+affect health
+Zhao et al.
+(2014)
+China Analyze environmental inequality among
+different groups
+Public
+health
+The biggest victims of environmental
+pollution are villagers in rural poverty
+regions
+Currie et al.
+(
+2015)
+USA Study the effects of the opening or closing
+toxic plants on infant health
+Public
+health
+Plant openings have adverse effects on the
+weight of newborns within one mile
+Chen, Oliva,
+et al. ( 2018)
+China Study how air pollution affects mental
+health
+Public
+health
+Air pollution has the largest inﬂuence on
+the mental health of highly educated
+people
+Pastor et al.
+(2002)
+Los
+Angeles
+(USA)
+Study the distribution of student
+population around dangerous facilities
+Education
+level
+Minority students often go to school near
+dangerous facilities
+Pastor et al.
+(2004)
+Los
+Angeles
+(USA)
+Analyze the relationship between school
+performance and proximity to
+contaminated sites
+Education
+level
+Academic performance scores are
+negatively correlated with proximity to
+major contaminated sites
+Currie,
+Hanushek,
+et al. ( 2009)
+Texas
+(USA)
+Study how air pollution affects school
+absence
+Education
+level
+Higher levels of CO can signiﬁcantly
+increase school absence
+Mohai et al.
+(2011)
+Michigan
+(USA)
+Investigate the relationship between air
+quality and student achievement around
+schools
+Education
+level
+Enrollment rates are the lowest, and the
+percentage of students who do not meet
+national education test standards is the
+highest, when schools are located in areas
+with the worst air pollution
+Lucier et al.
+(2011)
+East Baton
+Rouge
+(USA)
+Same as Pastor et al. ( 2004) Education
+level
+Academic performance is negatively related
+to proximity to major pollution sources
+Lavy et al.
+(2014)
+Israel Analyze how ambient air pollution affects
+college entrance examination scores of
+high school students
+Education
+level
+PM2.5 exposure is negatively correlated
+with the students’ composite scores
+during the examination
+123
+Environ Geochem Health (2022) 44:3133–3156 3141
+
+[[PAGE 10]]
+pertaining to infant mothers’ residences with pollution
+data at the air monitoring sites in New Jersey, noting
+that each additional unit of CO concentration con-
+tributed to an approximately 8% increase in low birth
+weight for the last three months of pregnancy.
+Moreover, each additional unit of CO concentration
+was found to cause an approximate 2.5% increase in
+infant mortality during the ﬁrst two weeks after birth.
+They also found that African-American and Hispanic
+mothers with low levels of education frequently
+inhabited heavily polluted areas and that air pollution
+was more harmful to the health of the newborns of
+these mothers. Using the example of the USA from
+1989 to 2002, Agarwal et al. ( 2010) pointed out that
+African-American mothers often inhabited communi-
+ties near TRI facilities. Furthermore, TRI facilities
+Table 2 continued
+Literature Research
+object
+Research idea Concerned
+aspect
+Main conclusion
+Chen, Guo,
+et al. ( 2018)
+Guangzhou
+(China)
+Investigate how air pollution
+affects student absence
+Education
+level
+Air pollution signiﬁcantly increases student
+absence and the effect continues for at least
+four days
+Zivin and
+Neidell
+(2012)
+California
+(USA)
+Examine how ozone pollution
+affects labor productivity
+Labor
+productivity
+A 10-ppb drop in ozone concentration results
+in a 4.2 percent increase in agricultural
+worker productivity
+Hanna and
+Oliva
+(2015)
+Mexico Analyze the change of nearby labor
+input when a reﬁnery is closed
+Labor
+productivity
+The closure of the reﬁnery results in an
+increase of 1.3 h in weekly work hours
+Chang et al.
+(2016a)
+Shanghai
+and
+Nantong
+(China)
+Analyze how air pollution affects
+productivity of telephone
+operators
+Labor
+productivity
+Higher levels of air pollution decrease labor
+productivity
+Chang et al.
+(2016b)
+Northern
+California
+Study how outdoor air pollution
+affects indoor worker
+productivity
+Labor
+productivity
+When outdoor PM
+2.5 concentration increases,
+workers’ packaging speed signiﬁcantly drops
+He et al.
+(2019)
+Jiangsu and
+Henan
+(China)
+Examine the lagging effects of air
+pollution on worker productivity
+Labor
+productivity
+Air pollution signiﬁcantly reduces labor
+productivity with 25 days of delay
+Michaels and
+Smith
+(1990)
+Boston
+(USA)
+Study how HWS affect real estate
+prices
+Real estate
+price
+HWS has an adverse impact on real estate
+prices
+Kohlhase
+(1991)
+USA Study how toxic pollution facilities
+affect real estate prices
+Real estate
+price
+Toxic polluting facilities can signiﬁcantly
+reduce the prices of nearby homes
+Kiel ( 1995) Boston
+(USA)
+Study the relationship between real
+estate prices and HWS
+Real estate
+price
+Same as Michaels and Smith ( 1990)
+Ihlanfeldt and
+Taylor
+(2004)
+Atlanta and
+Georgia
+(USA)
+Study the impact of HWS on
+commercial and industrial real
+estate prices
+Real estate
+price
+HWS have negative impacts on nearby
+commercial and industrial real estate prices
+Chay and
+Greenstone
+(2005)
+USA Study how air pollution affects
+housing prices
+Real estate
+price
+When TSPs drop by 1-ug/m3, housing prices
+rise by 0.2%-0.4%
+Davis ( 2011) USA Examine housing prices and rents
+in neighborhoods near power
+plants
+Real estate
+price
+The operation of a power plant reduces the
+prices and rents of nearby residential houses
+Currie et al.
+(2015)
+USA Identify the impact of toxic gases
+on housing prices using 1600
+toxic plant openings and closures
+Real estate
+price
+Toxic plant operations decrease housing prices
+by 11 percent within 0.5 mile and negative
+impacts persist even after the plants close
+TSPs are short for total suspended particulates; TRI is an abbreviation for toxics release inventory; HWS is an abbreviation for
+hazardous waste sites
+123
+3142 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 11]]
+signiﬁcantly increased fetal mortality, and carcinogen
+emissions from TRI facilities also adversely affected
+infant health.
+Other authors argue that pollution emissions can
+also have a major inﬂuence on the health of adults who
+live near pollution sources. Maantay ( 2007) used the
+GIS method to identify the relationship between air
+pollution and asthma in Bronx, ﬁnding the degree of
+exposure to environmental pollution to be higher in
+areas where the proportions of the poor and ethnic
+minorities were larger. Furthermore, people living
+near TRI facilities have been found to have a
+probability of experiencing asthma of up to 66%.
+Taking China as an example, Zhao et al. ( 2014) found
+that the biggest victims of environmental pollution
+were villagers in rural poverty regions and that
+industrial pollution shifting away from cities to
+countryside resulted in the emergence of increasing
+numbers of ‘ ‘cancer villages.’ ’
+Furthermore, environmental pollution has been
+found to affect both physical health and mental health.
+For instance, using data pertaining to Chinese urban
+residents, Chen, Oliva et al. ( 2018) examined how air
+pollution affected mental health, ﬁnding that the
+former had the greatest impact on highly educated
+people’s mental health, given their likelihood to take
+on jobs that require high cognitive skills.
+Assessing how environmental pollution affects
+public health is susceptible to interference from
+confounding variables. On the one hand, the
+environmental pollution risks faced by individuals
+are closely related to their income, occupation, and
+other characteristics. On the other hand, personal
+characteristics, such as income and occupation, also
+affect individual medical services and environmental
+pollution avoidance behaviors, thus affecting their
+health status. Confounding variables at the individual
+level may lead to an estimation bias. In response to
+this, some studies have applied ‘ ‘quasi-natural exper-
+iments’ ’ to overcome the endogenous problems caused
+by confounding variables.
+For example, Chay and Greenstone ( 2003) used
+American county-level panel data to study the inﬂu-
+ence of total suspended particulates (TSPs) on infants’
+health. In their paper, they divide each county into sub-
+standard counties (above the maximum limit) and
+standard counties (below the maximum limit), accord-
+ing to the principle of whether the TSP concentration
+exceeds the federal maximum or not. The results show
+that TSP concentration and infant mortality decrease
+signiﬁcantly and the decline of the sub-standard
+counties is signiﬁcantly higher than that of standard
+counties because the 1970 Clean Air Act (CAA)
+Amendments were adopted from 1971 to 1972. A
+further ﬁnding here is that a 1% decrease in TSPs
+concentration is seen to lead to a 0.5% decrease in
+infant death rate. Currie et al. (2015) used the TRI data
+samples published by the US EPA to select residents
+within one mile of toxic plants as an experimental
+group, and residents within 1–2 miles from toxic
+Fig. 3 Representative literature on environmental inequality performance
+123
+Environ Geochem Health (2022) 44:3133–3156 3143
+
+[[PAGE 12]]
+plants as the control group, using the difference-in-
+differences (DID) method for studying the effects of
+the openings or closures of toxic plants on infant
+health. The results show that plant openings have
+adverse effects on the weight of newborns within one
+mile; that is, approximately 3% of the possibility of
+low birth weight is increased due to the emissions of
+toxic substances.
+Education level
+Many studies have shown that environmental inequal-
+ity leads to inequality in education levels, in particular,
+that air pollution has unfavorable inﬂuences on
+adolescents’ attendance rates and test scores (Lavy
+et al., 2014; Pastor et al., 2002, 2004). By endangering
+students’ physical and mental health, environmental
+pollution causes students to be negatively affected in
+the process of acquiring knowledge (Mizen et al.,
+2020; Zhao et al., 2008). Currie, Hanushek et al.
+(2009) employed the difference-in-difference-in-dif-
+ferences method to study how air pollution affected
+school absence in Texas, after dominating many
+variables, such as schools, years, attendance periods,
+precipitation, and temperature. The results show that
+Hispanic and low-income students often undergo
+higher levels of CO, which can signiﬁcantly increase
+school absence. Speciﬁcally, the decrease of days with
+a high CO concentration leads to a drop in absence
+rates of 0.8 percent, indicating that improving the air
+quality has a positive effect on student attendance.
+Mohai et al. (2011) examined the relationship between
+student achievement and air quality around schools in
+Michigan, USA. The results demonstrate that enroll-
+ment rates are the lowest, and the percentage of
+students who do not meet national education test
+standards is the highest, when schools are located in
+areas with the worst air pollution. It has also been
+found that Hispanic and African-American students
+attend schools which are often near industrial pollutant
+sources; thus, their educational quality is more seri-
+ously impaired by air pollution. Lucier et al. ( 2011)
+analyzed the relationship between school record and
+schools’ proximity to polluting facilities in the East
+Baton Rouge (USA), claiming that school record
+declined when there was such proximity. The schools
+attended by poor and minority students are frequently
+near polluting facilities. In addition, when students
+spend most of their time near toxic pollution facilities,
+this has been found to be detrimental to the improve-
+ment of social productivity by restricting human
+capital accumulation. Therefore, policy makers should
+seriously consider reducing the risk brought about by
+the construction of pollution facilities near schools.
+Chen, Guo et al. ( 2018) used data samples on air
+pollution and student absences in Guangzhou to
+research the effect of such pollution on student
+absence by employing the two-stage least squares
+approach, considering that air pollution signiﬁcantly
+increased student absence and that the effect continued
+for at least four days. More importantly, this detri-
+mental impact is found to be considerable even if air
+quality has met governmental standardization.
+Labor productivity
+The inﬂuence of environmental pollution on labor
+productivity has also attracted the attention of several
+researchers. Zivin and Neidell (2012) used a piece-rate
+wage from a large farm in California to measure the
+labor productivity of agricultural workers to examine
+the inﬂuence of ozone contamination on labor pro-
+ductivity, pointing out that farm laborers had exposure
+to more serious pollution than those working indoors.
+Furthermore, they maintain that when ozone concen-
+tration drops by 10 ppb, agricultural worker produc-
+tivity increases by 4.2%, indicating that air pollution
+exposure has evident adverse inﬂuences on labor
+productivity. Thus, governments need to promote
+economic growth by enacting environmental protec-
+tion policies to raise worker productivity. Hanna and
+Oliva ( 2015) analyzed how the nearby labor input
+changed when a large-scale reﬁnery was closed in
+Mexico, suggesting that the closure of the reﬁnery
+resulted in a 19.7 percent drop in sulfur dioxide
+concentration in the surrounding communities and an
+increase of 1.3 h in weekly work hours.
+Air pollution also has an important effect on indoor
+worker productivity. On the one hand, indoor workers
+are exposed directly to air pollution, which penetrates
+buildings. On the other hand, by impairing respiratory
+organs, air pollution leads to a decline in indoor
+worker productivity. Chang et al. (2019) analyzed how
+air pollution affected telephone operators’ productiv-
+ity by taking the call center of Ctrip (Xiecheng) in
+Shanghai and Nantong, China, as an example. The
+authors maintain that by reducing the number of
+wirings that the operator completes every day, higher
+123
+3144 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 13]]
+levels of air pollution can reduce labor productivity.
+Taking Northern California as an example, Chang
+et al. ( 2016) analyzed how outdoor air contamination
+affected indoor workers’ productivity based on a
+dataset from a large-scale pear-packing plant, ﬁnding
+that the increment in outdoor PM 2.5 concentration
+caused an evident decrease in workers’ packaging
+speed. He et al. ( 2019) used data samples from two
+textile factories located in Jiangsu province and Henan
+province, respectively, to identify the lagging effects
+of air contamination on worker productivity, ﬁnding
+that air contamination signiﬁcantly reduced worker
+productivity with 25 days of delay.
+Real estate price
+Existing studies have demonstrated that environmen-
+tal inequality also manifests in the impacts of
+environmental pollution on real estate prices. By
+damaging residents’ quality of life, environmental
+pollution reduces real estate prices (Chen et al., 2013;
+Le Boennec & Salladarre´, 2017). Several researchers
+have found that toxic polluting facilities appearing on
+EPA’s National Priority List (NPL) signiﬁcantly
+decrease nearby residential housing prices (Kiel,
+1995; Kohlhase, 1991; Michaels & Smith, 1990).
+For example, Ihlanfeldt and Taylor ( 2004) used
+data samples from Atlanta and Georgia to study how
+hazardous waste sites (HWS) affected commercial and
+industrial real estate prices, noting that HWS had
+negative impacts on nearby commercial and industrial
+real estate prices. Chay and Greenstone ( 2005)
+analyzed how air pollution affected housing prices
+using the US county-level dataset, ﬁnding that the
+CAA regulations had signiﬁcantly ameliorated air
+quality and that when TSPs dropped by 1-ug/m
+3,
+housing prices rose by 0.2%-0.4%. Davis ( 2011)
+examined housing prices and rents in communities
+near power stations operating in America, pointing out
+that low-income and low-educated people often lived
+close to power plants. In addition, compared with
+communities with analogous housing and demograph-
+ics, housing prices and rents within two miles of power
+plants were found to decrease by 3%-7%, while
+housing prices and rents within one mile experienced a
+larger decrease. Currie et al. ( 2015) used 1600 toxic
+plant openings and closures to recognize how toxic
+gases affected housing prices in America. Based on the
+DID method, the authors divide the relevant areas into
+those close to toxic plants (within 1 mile) and areas far
+from toxic plants (1–2 miles). The results show that
+toxic plant operations decrease housing prices by 11
+percent within 0.5 miles and that these negative
+impacts persist even after the plants close.
+In general, studies to date show that environmental
+pollution exerts impacts on public health, education,
+labor productivity, and real estate prices, thereby
+manifesting environmental inequality to varying
+degrees. A key gap that the current paper has identiﬁed
+here is that the existing research focuses on providing
+the empirical evidence for environmental inequality
+performance, without an in-depth discussion of the
+underlying mechanisms, including the questions of
+how and under what conditions environmental inequal-
+ity produces different performance. Therefore, while
+examining the differential performance of environ-
+mental inequality, a key and beneﬁcial future research
+direction would be to explore the function mechanisms
+and occurrence conditions of this inequality.
+Factors affecting environmental inequality
+With the growth of the public’s environmental
+awareness and the gradual enhancement of self-
+protection consciousness of all social strata, the issue
+of environmental inequality has attracted increasing
+attention from scholars. What are the factors that lead
+to environmental inequality? Existing studies have
+shown that race, economic status, and other factors can
+have signiﬁcant effects on environmental inequality
+(Ash & Fetter, 2004; Tonne et al., 2018). Table 3,
+Figs. 4 and 5 summarize representative studies of the
+causes of environmental inequality.
+Racial difference
+As previously discussed, the notion of environmental
+inequality originates from the US race movement,
+with the initial research focusing on the relationship
+between different ethnic agglomeration areas and the
+distribution of toxic waste treatment plants (Rinquist,
+1997). To date, numerous scholars have studied the
+cause of environmental inequality from the perspec-
+tive of racial difference. Most authors believe that race
+is a crucial factor which leads to environmental
+inequality. In other words, minorities frequently face
+environmental risks, especially African-Americans.
+123
+Environ Geochem Health (2022) 44:3133–3156 3145
+
+[[PAGE 14]]
+Table 3 Representative literature on the causes of environmental inequality
+Literature Research
+object
+Inﬂuencing
+factor
+Main conclusion
+Anderton et al.
+(1994)
+USA Racial
+difference
+Different regions that have established TSDFs or have not are no remarkable
+differences in ethnic composition
+Oakes et al.
+(1996)
+USA Racial
+difference
+TSDFs are not signiﬁcantly more located in minority communities
+Anderton et al.
+(1997)
+USA Racial
+difference
+The distribution of toxic waste treatment plants has little relation to ethnic
+habitation
+Rinquist ( 1997) USA Racial
+difference
+Toxic waste treatment plants are mainly distributed in ethnic minority areas
+Szasz and Meuser
+(1997)
+USA Racial
+difference
+Ethnic minorities often face higher levels of environmental hazards
+Been and Gupta
+(1997)
+USA Racial
+difference
+There is no evident relationship between the distribution of waste treatment
+facilities and the percentage of African-Americans in the community
+Davidson and
+Anderton ( 2000)
+USA Racial
+difference
+Pollutant treatment facilities often locate in working class communities where
+the proportion of minority residents is lower
+Ash and Fetter
+(2004)
+USA Racial
+difference
+African-Americans often inhabit more contaminated cities and more
+contaminated communities within cities
+Buzzelli and
+Jerrett ( 2004)
+Canada Racial
+difference
+Asians and African-Americans do not inhabit communities with severe air
+pollution, while Hispanic people suffer from more severe air pollution
+Downey et al.
+(2008)
+USA Racial
+difference
+Ethnic communities are more prone to experiencing the effects of
+environmental hazards than other communities
+Chakraborty and
+Green ( 2014)
+Australia Racial
+difference
+Industrial pollution emissions are more toxic and larger in communities with a
+larger percentage of indigenous people
+Knibbs and
+Barnett ( 2015)
+Australia Racial
+difference
+Indigenous populations are more exposed to NO 2 than non-indigenous
+populations
+Ru¨ttenauer ( 2018) Germany Racial
+difference
+Exposure to industrial pollution is higher in communities with a large
+percentage of ethnic minorities
+Perlin et al. ( 1995) USA Economic
+status
+Low-income groups are often exposed to greater environmental risk
+Oakes et al.
+(1996)
+USA Economic
+status
+TSDFs are not clearly distributed in poor communities
+Anderton et al.
+(1997)
+USA Economic
+status
+Toxic waste sites do not obviously locate in socioeconomically disadvantaged
+neighborhoods
+Been and Gupta
+(1997)
+USA Economic
+status
+Same as Anderton et al. ( 1997)
+Mitchell and
+Dorling ( 2003)
+England Economic
+status
+High-income people inhabit communities with lower levels of NO 2, while low-
+income people inhabit areas with higher levels of NO 2
+Escobedo et al.
+(2006)
+Santiago
+(Chile)
+Economic
+status
+Groups with lower economic status often inhabit communities with poor
+environmental quality
+Kruize et al.
+(2007)
+Rijnmond
+(Netherlands)
+Economic
+status
+People are vulnerable to air contamination due to their low economic status
+Forastiere et al.
+(2007)
+Rome (Italy) Economic
+status
+People with higher income often undergo more serious air pollution exposure
+Namdeo and
+Stringer ( 2008)
+Leeds
+(England)
+Economic
+status
+Differences in socioeconomic status are the main causes of environmental
+inequality
+Havard et al.
+(2009)
+Strasbourg
+(France)
+Economic
+status
+Groups with middle economic status frequently face higher air contamination
+exposure than other groups
+123
+3146 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 15]]
+Table 3 continued
+Literature Research
+object
+Inﬂuencing
+factor
+Main conclusion
+Ma ( 2010) Henan
+(China)
+Economic
+status
+There is a positive relation between income levels and proximity to
+pollution sources
+Romero et al. ( 2012) Santiago
+(Chile)
+Economic
+status
+Groups with lower economic status often inhabit communities with higher
+environmental risk
+Krellenberg et al.
+(2013)
+Santiago
+(Chile)
+Economic
+status
+Same as Romero et al. ( 2012)
+Chakraborty and
+Green ( 2014)
+Australia Economic
+status
+Same as Perlin et al. ( 1995)
+Knibbs and Barnett
+(2015)
+Australia Economic
+status
+Same as Namdeo and Stringer ( 2008)
+Barrera et al. ( 2016) Santiago
+(Chile)
+Economic
+status
+Same as Escobedo et al. ( 2006)
+Tonne et al. ( 2018) London
+(England)
+Economic
+status
+Compared to high-income households, low-income families often undergo
+higher NO 2 exposure
+Verbeek ( 2019) Ghent
+(Belgium)
+Economic
+status
+Communities with a lower household income often bear air pollution
+exposure
+Jerrett et al. ( 2001) Hamilton
+(Canada)
+Human capital Education levels can be used as a signiﬁcant factor to explain
+environmental inequality
+Mohai and Saha
+(2007)
+USA Human capital Same as Jerrett et al. ( 2001)
+Mohai et al. ( 2009) USA Human capital People with high education levels often inhabit cleaner communities, while
+people with low education levels often inhabit communities closer to
+polluting facilities
+Ma ( 2010) Henan
+(China)
+Human capital Same as Jerrett et al. ( 2001)
+Schoolman and Ma
+(2012)
+Jiangsu
+(China)
+Human capital Same as Jerrett et al. ( 2001)
+Anderton et al. ( 1997) USA Population
+density
+Population density may have an impact on environmental inequality
+Noonan et al. ( 2009) USA Population
+density
+Communities with lower population density often face higher
+environmental pollution exposure
+Ma ( 2010) Henan
+(China)
+Population
+density
+There is a positive correlation between population density and proximity to
+pollution sources
+Schoolman and Ma
+(2012)
+Jiangsu
+(China)
+Population
+density
+Same as Anderton et al. ( 1997)
+Ferna´ndez and Wu
+(2016)
+Santiago
+(Chile)
+Population
+density
+There is no signiﬁcant relationship between population density and
+environmental quality
+Ma ( 2010) Henan
+(China)
+Hukou registry
+system
+Rural residents suffer more serious pollution than urban residents
+Schoolman and Ma
+(2012)
+Jiangsu
+(China)
+Hukou registry
+system
+Urban workers with rural hukou may be more exposed to environmental
+pollution
+Jerrett et al. ( 2001) Hamilton
+(Canada)
+Unemployment
+rate
+Unemployed people often bear higher environmental pollution exposure
+Bakhtsiyarava and
+Nawrotzki ( 2017)
+USA Immigration Mexican immigrants tend to stay away from heavily pollution in low-
+income communities, while they bear disproportionate environmental
+pollution exposure in high-income areas
+TSDFs are abbreviations for treatment, storage, and disposal facilities
+123
+Environ Geochem Health (2022) 44:3133–3156 3147
+
+[[PAGE 16]]
+For example, Szasz and Meuser ( 1997) found that
+ethnic minorities often faced more serious environ-
+mental hazards in America. Ash and Fetter ( 2004)
+used data samples from the EPA’s RSEI and related
+urban census data in the USA to examine air pollution
+exposure across different groups, maintaining that
+African-Americans often inhabited more contami-
+nated cities and more contaminated communities
+within cities. Downey et al. ( 2008) used data from a
+toxic-weighted air pollutant concentration published
+by the US EPA to examine environmental inequality
+between different ethnic communities in 329 metro-
+polises in America, highlighting that ethnic commu-
+nities were more prone to experiencing the effects of
+environmental hazards than other communities. The
+reasons may be that ethnic communities are short of
+political rights to shut down the facilities that pose an
+environmental risk and that racial discrimination in the
+housing market limits ethnic minorities to communi-
+ties that are not welcomed by white people.
+Other countries and regions have also shown
+evidence of environmental inequality caused by ethnic
+issues. Buzzelli and Jerrett ( 2004) used census and air
+pollution data in Canada to examine whether race
+acted a major part in environmental inequality, noting
+that Asians and African-Americans did not inhabit
+communities with severe air contamination, while
+Hispanic people suffered from more serious air
+Fig. 4 Representative literature on the causes of environmental inequality
+Fig. 5 Trends of representative literature on the causes of environmental inequality
+123
+3148 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 17]]
+pollution. Chakraborty and Green ( 2014) used data
+samples of industrial pollution sources and related
+population information in Australia to study how
+industrial air pollution was distributed across different
+groups, ﬁnding that industrial pollution emissions
+were more toxic and larger in communities with larger
+portion of indigenous people. Knibbs and Barnett
+(2015) used census and air pollution data samples to
+study air pollution exposure among different groups in
+Australia, illustrating that indigenous populations
+were more exposed to NO
+2 than non-indigenous
+populations. Ru¨ttenauer ( 2018) used data samples
+pertaining to census and industrial pollution facilities
+in Germany to study the existence and inﬂuencing
+factors of environmental inequality, ﬁnding that
+exposure to industrial contamination was larger in
+communities with high portion of ethnic minorities.
+Meanwhile, a small number of scholars have found
+that race is unrelated to environmental inequality. For
+example, on the basis of the US census data samples,
+Anderton et al. (1994) explored the ethnic composition
+of populations in different regions that had established
+TSDFs or had not, respectively, pointing out that two
+kinds of areas were no remarkable differences in
+ethnic composition. Using the US TSDFs data samples
+and the related census, Oakes et al. ( 1996) analyzed
+the relationship between the allocation of TSDFs and
+the ethnic composition of the population in commu-
+nities, ﬁnding that TSDFs were not signiﬁcantly
+situated in minority areas. Anderton et al. ( 1997) used
+data samples concerning harmful pollution facilities
+appearing on EPA’s NPL and the related demographic
+data to identify the distribution of residents’ charac-
+teristics near toxic waste treatment plants, highlighting
+that the distribution of toxic waste treatment plants had
+little relation to ethnic habitation. Been and Gupta
+(1997) used the sample data of demographic and
+environmental waste treatment facilities in 544 US
+communities from 1970 to 1990, observing that there
+was no signiﬁcant relationship between the distribu-
+tion of waste discharge facilities and the percentage of
+African-Americans in the communities. Davidson and
+Anderton ( 2000) used data samples on pollutant
+treatment facilities managed by the US RCRA and
+the spatial distribution of related population structures,
+ﬁnding that these facilities were often situated in
+working-class communities where the proportion of
+minority residents was lower.
+Economic status
+Other scholars believe that environmental inequality
+mainly stems from differences in socioeconomic
+status (Knibbs & Barnett, 2015; Namdeo & Stringer,
+2008; Tonne et al., 2018). In general, groups with a
+lower economic status frequently inhabit communities
+with a poorer environmental quality (Barrera et al.,
+2016; Escobedo et al., 2006) and with larger environ-
+mental risk (Krellenberg et al., 2013; Romero et al.,
+2012). One reason for this may be that since housing
+costs are lower in areas with poor environmental
+quality (or high environmental risks), such areas may
+be seen as more attractive for those who cannot afford
+high housing rent (Hamilton, 1995). Perlin et al.
+(1995) studied how industrial waste gas discharge was
+distributed in the USA from the perspective of
+residents’ income disparities, arguing that low-income
+groups often faced greater environmental risk. Mitch-
+ell and Dorling ( 2003) used air quality data and
+relevant population information data provided by the
+National Air Quality Strategy (NAQS) in England to
+analyze the distribution of air pollution across differ-
+ent groups, maintaining that high-income people
+inhabited communities with lower levels of NO
+2,
+while low-income people inhabited communities with
+larger levels of NO
+2. Kruize et al. ( 2007) examined
+exposure to air pollution across different groups in
+Rijnmond, arguing that people were vulnerable to air
+contamination due to their low economic status.
+Chakraborty and Green ( 2014) analyzed how the
+sources of industrial pollution were distributed in
+space considering the residents’ economic status in
+Australia, arguing that the lower groups’ economic
+status was, the more seriously groups were affected by
+industrial pollution. Verbeek ( 2019) analyzed the
+relationship between economic status and exposure to
+air contamination in Ghent, pointing out that commu-
+nities with a lower household income often faced more
+air pollution exposure.
+Despite the latter body of research, many scholars
+are skeptical of the idea that lower economic groups
+frequently inhabit communities with poorer environ-
+ment quality (Anderton et al., 1997; Been & Gupta,
+1997). For example, Oakes et al. ( 1996) used TSDFs
+data samples and related census data to analyze the
+relationship between residents’ income levels and
+TSDFs’ locations in America. The results demonstrate
+that TSDFs are not signiﬁcantly distributed in poor
+123
+Environ Geochem Health (2022) 44:3133–3156 3149
+
+[[PAGE 18]]
+communities, implying that there is no prejudice
+relating to economic status in TSDFs site selection.
+Moving beyond the context of the USA, Forastiere
+et al. ( 2007) analyzed the relationship between
+residents’ income and trafﬁc air pollution emissions
+in Rome, ﬁnding that higher-income groups often
+faced more serious air pollution exposure. The authors
+conjecture that the reason for this may be that higher-
+income people who live in cities where trafﬁc is well
+developed in terms of convenient travel are, therefore,
+exposed to more trafﬁc air pollution.
+By utilizing the ordinary least squares (OLS)
+approach and the spatial autoregressive method,
+Havard et al. (2009) analyzed the relationship between
+air pollution and economic status in Strasbourg, noting
+that groups with middle economic status frequently
+faced higher air contamination exposure than other
+groups. This is because, compared with lower-income
+people, middle-income people often inhabit developed
+communities with convenient transportation, where
+air pollution is also more serious; conversely, com-
+pared with higher-income people, middle-income
+people cannot afford to live away from pollution.
+Thus, middle-income people bear the greatest air
+pollution exposure. Ma (2010) studied the relationship
+between the distribution of industrial contamination
+sources and residents’ income in Henan province in
+China. The author maintains that there is a positive
+relationship between income levels and proximity to
+contamination sources, in turn indicating that people
+who receive greater economic beneﬁts from industrial
+production are the ones who suffer from more serious
+environmental pollution. The reason here may be that
+high-income people tend to live near their work place,
+or that they are reluctant to move due to the traditional
+Chinese native complex.
+Human capital and population density
+The impact of human capital on environmental
+inequality has attracted the attention of some scholars.
+The core idea is that education levels can be used as a
+signiﬁcant factor to explain environmental inequality
+(Jerrett et al., 2001; Ma, 2010; Mohai & Saha, 2007;
+Schoolman & Ma, 2012). The reasoning here is that,
+on the one hand, by affecting people’s social and
+economic status, education levels have an effect on
+environmental inequality. On the other hand, educa-
+tion levels can affect individuals’ environmental
+cognition. Individuals with high levels of education
+attainment often adopt positive environmental risk
+avoidance behavior due to a better understanding of
+the harmfulness of environmental pollution (Mohai
+et al., 2009). On the basis of the logistic model, Mohai
+et al. ( 2009) used TRI data samples published by the
+US EPA to analyze the distance between communities
+in which groups with different educational levels live
+and polluting facilities, pointing out that better-
+educated people often lived in cleaner communities,
+while less-educated people frequently inhabited com-
+munities closer to polluting facilities.
+Population density may also have an impact on
+environmental inequality (Anderton et al., 1997;
+Schoolman & Ma, 2012). Population density reﬂects
+the differences in regional natural and social condi-
+tions, such as vegetation cover and green infrastruc-
+ture, thereby contributing to regional environmental
+inequality. Noonan et al. ( 2009) analyzed the distri-
+bution of environmental inequality in space using the
+data samples of hazardous waste facilities published
+by EPA’s NPL, and a logit model, noting that
+communities with lower population density often
+faced higher environmental pollution exposure. This
+ﬁnding implies that natural and social conditions are
+likely to be worse in these areas due to the lack of
+vegetation coverage and green infrastructure, in turn
+leading to worse environmental quality. Ma ( 2010),
+however, drew the opposite conclusion from an
+empirical investigation of environmental inequality
+in Henan province, noting that there existed a positive
+relationship between population density and proximity
+to pollution sources, namely communities with larger
+population density might be closer to pollution
+sources, given the greater distribution of polluting
+enterprises in areas with a higher population density in
+this province. Ferna ´ndez and Wu ( 2016) assessed
+environmental inequality by applying a hierarchical
+multiscale method in Santiago, suggesting that there
+was no evident relationship between population den-
+sity and environmental quality and that wealth effects
+were the dominant ones in interpreting environmental
+inequality.
+Hukou registry system
+Environmental inequality still exists in developing
+countries. Academic research has been conducted to
+explore how the hukou registry system affects urban–
+123
+3150 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 19]]
+rural environmental inequality. Ma ( 2010) maintained
+that rural residents had suffered more serious envi-
+ronmental pollution than urban residents in Henan
+province, which could be attributed to urban planning
+and national policies. For example, with the increase
+in electricity demand, new coal-ﬁred power stations
+often are constructed in rural regions, while they are
+rigorously forbidden in cities and their suburbs (MEP,
+1998). By controlling immigration into and out of
+urban areas, the hukou registry system initially
+appears to maintain social stability (Chan & Zhang,
+1999). However, in reality, this system holds far more
+beneﬁts for urban residents than rural residents in
+many areas, such as education, medical care, employ-
+ment, and cultural activities.
+In addition, urban residents may pay more attention
+to the surrounding environmental quality, which, to
+some degree, raises the risk of pollution exposure for
+rural residents (Liu, 2005; Wu & Treiman, 2004). Due
+to the surplus labor force caused by China’s economic
+reform, a large number of rural inhabitants start
+migrating to cities for ﬁnding work, while the
+restrictions of the hukou registry system leave rural
+migrants in a disadvantageous position (Ma, 2010).
+Using GIS technology, Schoolman and Ma ( 2012)
+analyzed how the hukou registry system affected
+environmental inequality in Jiangsu province. Their
+ﬁndings show that urban workers with rural hukou
+may be disproportionately exposed to environmental
+pollution even if they do not practically work in
+contaminated industries, because contamination treat-
+ment facilities tend to be constructed in the areas
+where rural migrants live.
+Other reasons
+In addition to the aforementioned key factors affecting
+environmental inequality, many researchers have
+studied the effects of environmental inequality from
+other perspectives. For example, Jerrett et al. ( 2001)
+analyzed residents’ air pollution exposure in Hamilton
+from 1985 to 1994 using the OLS and the spatial
+autoregressive method. The results demonstrate that
+the unemployment rate is positively correlated with
+pollution exposure, meaning that unemployed people
+often face more serious environmental pollution.
+Bakhtsiyarava and Nawrotzki ( 2017) studied the
+relationship between environmental inequality and
+immigration at different immigrant wealth levels,
+using the US immigration demographics and the
+EPA’s toxic emissions inventory data from 2005 to
+2011. The authors maintain that Mexican immigrants
+tend to stay away from heavy pollution in low-income
+communities, while they frequently face higher envi-
+ronmental pollution exposure in high-income areas
+due to housing discrimination and lower socioeco-
+nomic status.
+In summary, even though race and economic status
+have been found to be the major factors leading to
+environmental inequality, the extent of their inﬂuence
+varies considerably in line with differences among
+research subjects, the research methods employed, and
+pollution indicators. In addition, there are other factors
+that affect environmental inequality, such as human
+capital, population density, household registration
+system, unemployment rate, and immigration. It is
+worth noting that many factors contributing to envi-
+ronmental inequality cannot be separated from each
+other. In reality, the correlations between these factors
+are complex. For instance, African-Americans face
+higher environmental risk than others, but African-
+Americans often have low socioeconomic status
+characteristics, including high unemployment rate,
+low education level, and low income. Accurately
+identifying the causes of environmental inequality is
+not a simple task.
+In order to test the contribution of a particular factor
+to environmental inequality, many confounding vari-
+ables thus need to be considered. Moreover, the
+existing studies are mainly based on research on
+developed countries, with correspondingly little
+research carried out in developing countries. However,
+this lack of concern does not demonstrate that the issue
+of environmental inequality is not serious in develop-
+ing countries. Therefore, for deepening environmental
+inequality research, we recommend that future
+research place a greater emphasis on this in developing
+countries on the basis of the existing literatures. In
+addition, when doing so, analyses of the causes of
+environmental inequality should be conducted that are
+more in line with the policy systems and realities of
+developing countries, rather than applying bench-
+marks from developed countries.
+123
+Environ Geochem Health (2022) 44:3133–3156 3151
+
+[[PAGE 20]]
+Concluding remarks
+The issue of environmental inequality has been
+present for over three decades and is currently
+receiving widespread academic attention. Yet, the
+existing research still lacks a comprehensive review of
+the literature on environmental inequality. The current
+paper focuses on the deﬁnition, measurement, perfor-
+mance, and causes of environmental inequality in
+order to provide a panorama for future studies of
+environmental inequality. By reviewing environmen-
+tal inequality from various angles, on the basis of the
+notion of environmental justice, this paper explicitly
+deﬁnes the environmental inequality, which reveals
+the differences among different groups exposed to
+environmental pollution.
+As for how to measure environmental inequality,
+the paper highlights the three main methods used in
+existing research: unit-based, distance-based, and
+risk-/exposure-based. Numerous studies have pro-
+vided empirical evidence concerning the performance
+of environmental inequality according to the inﬂu-
+ences of environmental pollution on the health status,
+education level, labor productivity, and real estate
+price among different groups. Raising the issue of
+what are the factors that affect environmental inequal-
+ity could be solved from seven aspects, such as ethnic
+differences, economic status, human capital, popula-
+tion density, household registration system, unem-
+ployment rate, and immigration. Recognizing this, we
+maintain that future studies can be undertaken with
+reference to the following three aspects, based on the
+existing research.
+First, studies can be carried out on improving the
+measures of environmental inequality that are cur-
+rently based on developed countries. The approaches
+we review, encompassing geographic units containing
+environmental hazards, and simple geographic dis-
+tances to complex models of atmospheric pollutant
+concentration, are based on increasingly detailed
+pollution indicators data, such as TSDFs, TRI, and
+RCRA. However, these methods mainly focus on the
+spatial scale, neglecting differences at the individual
+level. Even within the same spatial unit, the distribu-
+tion of environmental risk may differ among different
+individuals or families. Therefore, it would be worth-
+while to examine differences in the environmental risk
+faced by individuals from a more micro-level
+perspective.
+Second, the performance mechanism of environ-
+mental inequality needs to be further investigated. The
+current research on the performance of environmental
+inequality mainly concerns the unfavorable impacts of
+environmental pollution on the health status, educa-
+tion level, labor productivity, and real estate prices
+among various groups, while the performance mech-
+anism itself of environmental inequality has received
+little attention. Therefore, future studies are required
+to more clearly reveal the conditions and mechanisms
+that lead to different performance of environmental
+inequality; this would, in turn, help to engender a
+deeper comprehension of environmental inequality in
+different groups, and its causes.
+Finally, compared to environmental inequality
+research in developed countries, that in the context
+of less-developed countries, is lacking. Subsequent
+research in developing countries faces many limita-
+tions, including theory and data, yet there is still a
+broader research space. On the one hand, the current
+theory of environmental inequality is mainly based on
+empirical facts derived from research in developed
+countries, with existing numerous discrepancy
+between developed and less-developed countries
+according to economic development level, institu-
+tional infrastructure, and statistical system. Thus, the
+problem of whether the theory and measures of
+environmental inequality as they have been applied
+to developed countries can be extended to developing
+countries, merits further exploration.
+On the other hand, a considerable number of less-
+developed countries are undergoing the rapidly
+expanding industrialization and urbanization, suffer-
+ing from serious environmental pollution. Moreover,
+there are many deﬁciencies in developing countries,
+such as institutional infrastructure and social security,
+which are facing serious social inequality. Thus, in
+these cases environmental pollution is combined with
+social inequality, resulting in frequent and complex
+manifestations of environmental inequality, as well as
+serious consequences. There is, therefore, a need to
+systematically examine the causes and consequences
+of environmental inequality in less-developed coun-
+tries, which would further enrich and expand the body
+of environmental inequality research.
+Acknowledgments We acknowledge the ﬁnancial support
+from the National Natural Science Foundation of China (Nos.
+71773075, 71922015, and 72004204), the National Social
+123
+3152 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 21]]
+Science Foundation of China (No. 18ZDA102), Shanghai Soft
+Science Research Program (No. 20692103100), and the
+Humanities Social Sciences Pre-Research Fund of Zhejiang
+University of Technology.
+Authors’ contributions SS done conceptualization,
+supervision, formal analysis, and writing—original draft; LL
+performed formal analysis, visualization, and writing—original
+draft; ZT was involved in conceptualization, supervision, formal
+analysis, and writing—review and editing.
+Funding The National Natural Science Foundation of China
+(Nos. 71773075, 71922015, and 72004204), the National Social
+Science Foundation of China (No. 18ZDA102), Shanghai Soft
+Science Research Program (No. 20692103100), and the
+Humanities Social Sciences Pre-Research Fund of Zhejiang
+University of Technology.
+Declaration
+Conﬂict of interest The author declared that there is no
+conﬂict of interest.
+Consent for publication All the authors consent to participate
+and consent to publish before reference in the manuscript.
+References
+Agarwal, N., Banternghansa, C., & Bui, L. T. M. (2010). Toxic
+exposure in America: Estimating fetal and infant health
+outcomes from 14 years of TRI reporting. Journal of
+Health Economics, 29 (4), 557–574.
+Ai, H., Hu, S., Li, K., & Shao, S. (2020). Environmental regu-
+lation, total factor productivity, and enterprise duration:
+Evidence from China. Business Strategy and the Envi-
+ronment, 26(9), 2284–2296.
+Anderton, D. L., Anderson, A. B., Oakes, J. M., & Fraser, M. R.
+(1994). Environmental equity: The demographics of
+dumping. Demography, 31, 229–248.
+Anderton, D. L., Oakes, J. M., & Egan, K. L. (1997). Environ-
+mental equity in superfund: Demographics of the discovery
+and prioritization of abandoned toxic sites. Evaluation
+Review, 21(1), 3–26.
+Ash, M., & Fetter, T. R. (2004). Who lives on the wrong side of
+the environmental tracks? Social Science Quarterly, 85(2),
+441–462.
+Azimi, M., Feng, F., & Zhou, C. (2019). Air pollution inequality
+and health inequality in China: An empirical study. Envi-
+ronmental Science and Pollution Research, 26 ,
+11962–11974.
+Bakhtsiyarava, M., & Nawrotzki, R. J. (2017). Environmental
+inequality and pollution advantage among immigrants in
+the United States. Applied Geography, 81 , 60–69.
+Banzhaf, S., Ma, L., & Timmins, C. (2019). Environmental
+justice: The economics of race, place, and pollution.
+Journal of Economic Perspectives, 33 (1), 185–208.
+Barrera, F., Reyespaecke, S., & Banzhaf, E. (2016). Indicators
+for green spaces in contrasting urban settings. Ecological
+Indicators, 62, 212–219.
+Been, V. (1995). Analyzing evidence of environmental justice.
+Journal of Land Use & Environmental Law, 11 (1), 1–36.
+Been, V., & Gupta, F. (1997). Coming to the nuisance or going
+to the barrios: A longitudinal analysis of environmental
+justice claims. Ecology Law Quarterly, 24 (1), 1–56.
+Bell, M. L., & Ebisu, K. (2012). Environmental inequality in
+exposures to airborne particulate matter components in the
+united states. Environmental Health Perspectives, 120(12),
+1699–1704.
+Berman, J. D., McCormack, M. C., Koehler, K. A., Connolly, F.,
+Clemons-Erby, D., Davis, M. F., Gummerson, C., Leaf, P.
+J., Jones, T. D., & Curriero, F. C. (2018). School envi-
+ronmental conditions and links to academic performance
+and absenteeism in urban, mid-Atlantic public schools.
+International Journal of Hygiene and Environmental
+Health, 221(5), 800–808.
+Boer, J. T., Pastor, M., Sadd, J. L., & Snyder, L. D. (1997). Is
+there environmental racism: The demographics of haz-
+ardous waste in Los Angeles. Social Science Quarterly,
+78(4), 793–810.
+Bornstein, R. F. (1989). Exposure and affect: Overview and
+meta-analysis of research, 1968–1987. Psychological
+Bulletin, 106(2), 265–289.
+Boyce, J. K., Zwickl, K., & Ash, M. (2016). Measuring envi-
+ronmental inequality. Ecological Economics, 124 ,
+114–123.
+Brulle, R. J., & Pellow, D. N. (2006). Environmental justice:
+Human health and environmental inequalities. Annual
+Review of Public Health, 27 (1), 103–124.
+Bullard, R. D. (1990). Dumping in Dixie: Race, class, and
+environmental quality. . Westview Press.
+Burke, L. M. (1993). Race and environmental equity: A geo-
+graphic analysis in Los Angeles. Geo Info Systems, 3 (9),
+44–50.
+Buzzelli, M., & Jerrett, M. (2004). Racial gradients of ambient
+air pollution exposure in Hamilton, Canada. Environment
+and Planning A, 36 , 1855–1876.
+Chakraborty, J. (2006). Evaluating the environmental justice
+impacts of transportation improvement projects in the US.
+Transportation Research Part D: Transport and Environ-
+ment, 11(5), 315–323.
+Chakraborty, J., & Armstrong, M. P. (1997). Exploring the use
+of buffer analysis for the identiﬁcation of impacted areas in
+environmental equity assessment. Cartography and Geo-
+graphic Information Systems, 24 (3), 145–157.
+Chakraborty, J., & Green, D. (2014). Australia’s ﬁrst national
+level quantitative environmental justice assessment of
+industrial air pollution. Environmental Research Letters,
+9(4), 044010.
+Chan, K. W., & Zhang, L. (1999). The hukou system and rural–
+urban migration in China: Processes and changes. The
+China Quarterly, 160 , 818–855.
+Chang, T., Zivin, J. G., Gross, T., & Neidell, M. (2016). Par-
+ticulate pollution and the productivity of pear packers.
+American Economic Journal: Economic Policy, 8 (3),
+141–169.
+Chang, T., Zivin, J. G., Gross, T., & Neidell, M. (2019). The
+effect of pollution on worker productivity: Evidence from
+123
+Environ Geochem Health (2022) 44:3133–3156 3153
+
+[[PAGE 22]]
+call center workers in China. American Economic Journal:
+Applied Economics, 11 (1), 151–172.
+Chay, K.Y., & Greenstone, M. (2003). Air quality, infant mor-
+tality, and the Clean Air Act of 1970. NBER Working
+Paper No 10053.
+Chay, K. Y., & Greenstone, M. (2005). Does air quality matter?
+Evidence from the housing market. Journal of Political
+Economy, 113(2), 376–424.
+Chen, S., Guo, C., & Huang, X. (2018). Air pollution, student
+health, and school absences: evidence from China. Journal
+of Environmental Economics and Management, 92 ,
+465–497.
+Chen, S., Oliva, P., & Zhang, P. (2018b). Air pollution and
+mental health: Evidence from China. NBER Working
+Paper No 24686.
+Chen, Y., Ebenstein, A., Greenstone, M., & Li, H. (2013).
+Evidence on the impact of sustained exposure to air pol-
+lution on life expectancy from China’s Huai River policy.
+Proceedings of the National Academy of Sciences, 110(32),
+12936–12941.
+Chen, Y., Senthilkuma, N., Shen, H., & Shen, G. (2021).
+Environmental inequality deepened during the COVID-19
+in the developing world. Environmental Science & Tech-
+nology, 55, 7–8.
+Collins, T. W., & Grineski, S. E. (2019). Environmental injus-
+tice and religion: Outdoor air pollution disparities in
+metropolitan Salt Lake City, Utah. Annals of the American
+Association of Geographers, 109 (5), 1597–1617.
+Currie, J., Davis, L., Greenstone, M., & Walker, R. (2015).
+Environmental health risks and housing values: Evidence
+from 1600 toxic plant openings and closings. American
+Economic Review, 105 (2), 678–709.
+Currie, J., Hanushek, E. A., Kahn, E. M., Neidell, M., & Rivkin,
+S. G. (2009). Does pollution increase school absences?
+Review of Economics and Statistics, 91 (4), 682–694.
+Currie, J., & Neidell, M. (2005). Air pollution and infant health:
+What can we learn from California’s recent experience?
+Quarterly Journal of Economics, 120 (3), 1003–1030.
+Currie, J., Neidell, M., & Schmieder, J. F. (2009). Air pollution
+and infant health: Lessons from New Jersey. Journal of
+Health Economics, 28 (3), 688–703.
+Daniels, G., & Friedman, S. (1999). Spatial inequality and the
+distribution of industrial toxic releases: Evidence from the
+1990 TRI. Social Science Quarterly, 80 (2), 244–262.
+Davidson, P., & Anderton, D. L. (2000). Demographics of
+dumping II: A national environmental equity survey and
+the distribution of hazardous materials handlers. Demog-
+raphy, 37(4), 461–466.
+Davies, T., & Mah, A. (2020). Toxic truths environmental jus-
+tice and citizen science in a post-truth age . . Manchester
+University Press.
+Davis, L. W. (2011). The effect of power plants on local housing
+values and rents. Review of Economics and Statistics,
+93(4), 1391–1402.
+Dobson, A. (1998). Justice and the environment: Conceptions of
+environmental sustainability and theories of distributive
+justice. . Oxford University Press.
+Downey, L., Dubois, S., Hawkins, B., & Walker, M. (2008).
+Environmental inequality in metropolitan America. Or-
+ganization & Environment, 21 (3), 270–295.
+Escobedo, F. J., Nowak, D. J., Wagner, J. E., La Maza, C. L.,
+Rodriguez, M., Crane, D. E., & Hernandez, J. (2006). The
+socioeconomics and management of Santiago de Chile’s
+public urban forests. Urban Forestry & Urban Greening,
+4(3–4), 105–114.
+Ferna´ndez, I. C., & Wu, J. (2016). Assessing environmental
+inequalities in the city of Santiago (Chile) with a hierar-
+chical multiscale approach. Applied Geography, 74 ,
+160–169.
+Forastiere, F., Stafoggia, M., Tasco, C., Picciotto, S., Agabiti,
+N., Cesaroni, G., & Perucci, C. A. (2007). Socioeconomic
+status, particulate air pollution, and daily mortality: Dif-
+ferential exposure or differential susceptibility. American
+Journal of Industrial Medicine, 50 (3), 208–216.
+Glickman, T. S., Golding, D., & Hersh, R. (1995). GIS-based
+environmental equity analysis: A case study of TRI facili-
+ties in the Pittsburgh area . . Kluwer Academic.
+Greenberg, M. (1993). Proving environmental inequity in siting
+locally unwanted land uses. Risk: Issues in Health &
+Safety, 4(3), 235–252.
+Grove, M., Ogden, L., Pickett, S., Boone, C., Buckley, G.,
+Locke, D. H., Lord, C., & Hall, B. (2018). The legacy
+effect: Understanding how segregation and environmental
+injustice unfold over time in Baltimore. Annals of the
+American Association of Geographers, 108 (2), 524–537.
+Hamilton, J. T. (1995). Testing for environmental racism:
+Prejudice, proﬁts, political power? Journal of Policy
+Analysis and Management, 14 (1), 107–132.
+Hanna, R., & Oliva, P. (2015). The effect of pollution on labor
+supply: Evidence from a natural experiment in Mexico
+City. Journal of Public Economics, 122 , 68–79.
+Hartley, T. W. (1995). Environmental justice: An environmental
+civil rights value acceptable to all world views. Environ-
+mental Ethics, 17 (3), 277–289.
+Havard, S., Deguen, S., Zmirou-Navier, D., Schillinger, C., &
+Bard, D. (2009). Trafﬁc-related air pollution and socioe-
+conomic status: A spatial autocorrelation study to assess
+environmental equity on a small-area scale. Epidemiology,
+20(2), 223–230.
+He, J., Liu, H., & Salvo, A. (2019). Severe air pollution and
+labor productivity: Evidence from industrial towns in
+China. American Economic Journal: Applied Economics,
+11(1), 173–201.
+Hird, J. A., & Reese, M. (1998). The distribution of environ-
+mental quality: An empirical analysis. Social Science
+Quarterly, 79(4), 693–716.
+Holiﬁeld, R., Chakraborty, J., & Walker, G. (2017). The rout-
+ledge handbook of environmental justice . . Routledge.
+Ihlanfeldt, K. R., & Taylor, L. O. (2004). Externality effects of
+small-scale hazardous waste sites: Evidence from urban
+commercial property markets. Journal of Environmental
+Economics and Management, 47 (1), 117–139.
+Ikeme, J. (2003). Equity, environmental justice and sustain-
+ability: Incomplete approaches in climate change politics.
+Global Environmental Change, 13 (3), 195–206.
+Jerrett, M. (2009). Global geographies of injustice in trafﬁc-
+related air pollution exposure. Epidemiology, 20 (2),
+231–233.
+Jerrett, M., Burnett, R. T., Kanaroglou, P. S., Eyles, J., Finkel-
+stein, N., Giovis, C., & Brook, J. R. (2001). A GIS-envi-
+ronmental justice analysis of particulate air pollution in
+123
+3154 Environ Geochem Health (2022) 44:3133–3156
+
+[[PAGE 23]]
+Hamilton Canada. Environment and Planning A, 33 (6),
+955–973.
+Kiel, K. A. (1995). Measuring the impact of the discovery and
+cleaning of identiﬁed hazardous waste sites on house val-
+ues. Land Economics, 71 (4), 428–435.
+Knibbs, L. D., & Barnett, A. G. (2015). Assessing environ-
+mental inequalities in ambient air pollution across urban
+Australia. Spat Spatiotemporal Epidemiol, 13 , 1–6.
+Kohlhase, J. E. (1991). The impact of toxic waste sites on
+housing values. Journal of Urban Economics, 30 (1), 1–26.
+Krellenberg, K., Mu¨ller, A., Schwarz, A., Ho¨fer, R., & Welz, J.
+(2013). Flood and heat hazards in the Metropolitan Region
+of Santiago de Chile and the socio-economics of exposure.
+Applied Geography, 38 , 86–95.
+Kruize, H., Driessen, P. P., Glasbergen, P., & Van Egmond, K.
+(2007). Environmental equity and the role of public policy:
+Experiences in the Rijnmond region. Environmental
+Management, 40(4), 578–595.
+Lanier, C., Deram, A., Cuny, M. A., Cuny, D., & Occelli, F.
+(2019). Spatial analysis of environmental inequalities
+caused by multiple air pollutants: A cumulative impact
+screening method, applied to the north of France. Ecolog-
+ical Indicators, 99 , 91–100.
+Laurent, E. (2011). Issues in environmental justice within the
+European Union. Ecological Economics, 70 (11),
+1846–1853.
+Laurian, L., & Funderburg, R. (2014). Environmental justice in
+France? A spatio-temporal analysis of incinerator location.
+Journal of Environmental Planning and Management,
+57(3), 424–446.
+Lavy, V., Ebenstein, A., & Roth, S. (2014). The long run human
+capital and economic consequences of high-stakes exami-
+nations. NBER Working Paper No. 20647.
+Le Boennec, R., & Salladarre ´, F. (2017). The impact of air
+pollution and noise on the real estate market. The case of
+the 2013 European Green Capital: Nantes France. Eco-
+logical Economics, 138 , 82–89.
+Li, G., Lu, S., Shao, S., Yang, L., & Zhang, K. (2021). Do
+environmental regulations hamper small enterprises’ mar-
+ket entry? Evidence from China. Business Strategy and the
+Environment, 30(1), 252–266.
+Liu, Z. (2005). Institution and inequality: The hukou system in
+China. Journal of Comparative Economics, 33 (1),
+133–157.
+Lucier, C., Rosofsky, A., London, B., Scharber, H., & Shandra,
+J. M. (2011). Toxic pollution and school performance
+scores: Environmental ascription in East Baton Rouge
+Parish Louisiana. Organization & Environment, 24 (4),
+423–443.
+Ma, C. (2010). Who bears the environmental burden in China:
+An analysis of the distribution of industrial pollution
+sources? Ecological Economics, 69 (9), 1869–1876.
+Ma, J., Liu, B., Mitchell, G., & Dong, G. (2018). A spatial
+analysis of air pollution and environmental inequality in
+Beijing, 2000–2010. Journal of Environmental Planning &
+Management, 62(14), 2437–2458.
+Maantay, J. A. (2007). Asthma and air pollution in the Bronx:
+Methodological and data considerations in using GIS for
+environmental justice and health research. Health & Place,
+13(1), 32–56.
+Marshall, J. D. (2008). Environmental inequality: Air pollution
+exposures in California’s South Coast Air Basin. Atmo-
+spheric Environment, 42 (21), 5499–5503.
+Michaels, R. G., & Smith, V. K. (1990). Market segmentation
+and valuing amenities with hedonic models: The case of
+hazardous waste sites. Journal of Urban Economics, 28(2),
+223–242.
+Ministry of Environmental Protection (MEP) (1998) Ofﬁcial
+Reply of the State Council Concerning Acid Rain Control
+Zone and Sulfur Dioxide Pollution Control Zone.
+Mitchell, G., & Dorling, D. (2003). An environmental justice
+analysis of British air quality. Environment and Planning
+A, 35(5), 909–929.
+Mizen, A., Lyons, J., Milojevic, A., Doherty, R., Wilkinson, P.,
+Carruthers, D., Akbari, A., Lake, I., Davies, G., Sallakh,
+M., Fry, R., Dearden, L., & Rodgers, S. E. (2020). Impact
+of air pollution on educational attainment for respiratory
+health treated students: A cross sectional data linkage
+study. Health & Place, 63 , 102355.
+Mohai, P., Kweon, B., Lee, S., & Ard, K. (2011). Air pollution
+around schools is linked to poorer student health and aca-
+demic performance. Health Affairs, 30 (5), 852–862.
+Mohai, P., Lantz, P. M., Morenoff, J. D., House, J. S., & Mero,
+R. P. (2009). Racial and socioeconomic disparities in res-
+idential proximity to polluting industrial facilities: Evi-
+dence from the Americans’ changing lives study. American
+Journal of Public Health, 99 , 1–23.
+Mohai, P., & Saha, R. (2006). Reassessing racial and socioe-
+conomic disparities in environmental justice research.
+Demography, 43(2), 383–399.
+Mohai, P., & Saha, R. (2007). Racial inequity in the distribution
+of hazardous waste: A national-level reassessment. Social
+Problems, 54(3), 343–370.
+Morello-Frosch, R., Zuk, M., Jerrett, M., Shamasunder, B., &
+Kyle, A. D. (2011). Understanding the cumulative impacts
+of inequalities in environmental health: Implications for
+policy. Health Affairs, 30 (5), 879–887.
+Namdeo, A., & Stringer, C. (2008). Investigating the relation-
+ship between air pollution, health and social deprivation in
+Leeds UK. Environment International, 34 (5), 585–591.
+Noonan, D. S., Turaga, R. M., & Baden, B. M. (2009). Super-
+fund, hedonics, and the scales of environmental justice.
+Environmental Management, 44 (5), 909–920.
+Oakes, J. M., Anderton, D. L., & Anderson, A. B. (1996). A
+longitudinal analysis of environmental equity in commu-
+nities with hazardous waste facilities. Social Science
+Research, 25(2), 125–148.
+OECD. (2016). The economic consequences of outdoor air
+pollution. . OECD Publishing.
+Ouyang, W., Gao, B., Cheng, H., Hao, Z., & Wu, N. (2018).
+Exposure inequality assessment for PM
+2.5 and the potential
+association with environmental health in Beijing. Science
+of the Total Environment, 635 , 769–778.
+Padilla, C. M., Kihal-Talantikite, W., Vieira, V. M., Rossello,
+P., Le Nir, G., Zmirou-Navier, D., & Deguen, S. (2014).
+Air quality and social deprivation in four French
+metropolitan areas: A localized spatio-temporal environ-
+mental inequality analysis. Environmental Research, 134 ,
+315–324.
+Pastor, M., Sadd, J., & Morello-Frosch, R. (2002). Who’s
+minding the kids? Pollution, public schools, and
+123
+Environ Geochem Health (2022) 44:3133–3156 3155
+
+[[PAGE 24]]
+environmental justice in Los Angeles. Social Science
+Quarterly, 83(1), 263–280.
+Pastor, M., Sadd, J., & Morello-Frosch, R. (2004). Reading,
+writing and toxics: Children’s health, academic perfor-
+mance, and environmental justice in Los Angeles. Envi-
+ronment and Planning C: Politics and Space, 22 (2),
+271–290.
+Pellow, D. N. (2000). Environmental inequality formation:
+Toward a theory of environmental injustice. American
+Behavioral Scientist, 43 (4), 581–601.
+Perlin, S. A., Setzer, R. W., Creason, J., & Sexton, K. (1995).
+Distribution of industrial air emissions by income and race
+in the United States: An approach using the toxic release
+inventory. Environmental Science & Technology, 29 (1),
+69–80.
+Pollock, P. H., & Vittas, M. E. (1995). Who bears the burdens of
+environmental pollution: Race, ethnicity, and environ-
+mental equity in Florida. Social Science Quarterly, 76 (2),
+294–310.
+Rinquist, E. J. (1997). Equity and the distribution of environ-
+mental risk: The case of TRI facilities. Social Science
+Quarterly, 78, 811–829.
+Romero, H., Va´squez, A., Fuentes, C., Salgado, M., Schmidt,
+A., & Banzhaf, E. (2012). Assessing urban environmental
+segregation (UES): The case of Santiago de Chile. Eco-
+logical Indicators, 23 , 76–87.
+Ru¨ttenauer, T. (2018). Neighbours matter: A nation-wide small-
+area assessment of environmental inequality in Germany.
+Social Science Research, 70 , 198–211.
+Samoli, E., Stergiopoulou, A., Santana, P., Rodopoulou, S.,
+Mitsakou, C., Dimitroulopoulou, C., Bauwelinck, M., de
+Hoogh, K., Costa, C., Marı ´-Dell’Olmo, M., Corman, D.,
+Vardoulakis, S., & Katsouyanni, K. (2019). Spatial vari-
+ability in air pollution exposure in relation to socioeco-
+nomic indicators in nine European metropolitan areas: A
+study on environmental inequality. Environmental Pollu-
+tion, 249, 345–353.
+Schaeffer, Y., & Tivadar, M. (2019). Measuring environmental
+inequalities: Insights from the residential segregation lit-
+erature. Ecological Economics, 164 , 106329.
+Schoolman, E. D., & Ma, C. (2012). Migration, class and
+environmental inequality: Exposure to pollution in China’s
+Jiangsu Province. Ecological Economics, 75 , 140–151.
+Schu¨le, S. A., Gabriel, K. M., & Bolte, G. (2017). Relationship
+between neighbourhood socioeconomic position and
+neighbourhood public green space availability: An envi-
+ronmental inequality analysis in a large German city
+applying generalized linear models. International Journal
+of Hygiene and Environmental Health, 220 (4), 711–718.
+Shao, S., Hu, Z., Cao, J., Guan, D., & Yang, L. (2020). Envi-
+ronmental regulation and enterprise innovation: A review.
+Business Strategy and the Environment, 29(3), 1465–1478.
+Sheppard, E. R., Leitner, H., Mcmaster, R. B., & Tian, H. O.
+(1999). GIS-based measures of environmental equity:
+Exploring their sensitivity and signiﬁcance. Journal of
+Exposure Analysis & Environmental Epidemiology, 9 (1),
+18–28.
+Smiley, K. T. (2019). A polluting creed: Religion and envi-
+ronmental inequality in the United States. Sociological
+Perspectives, 62(6), 980–1000.
+Szasz, A., & Meuser, M. (1997). Environmental inequalities:
+Literature review and proposals for new directions in
+research and theory. Current Sociology, 45 (3), 99–120.
+Tanaka, S. (2015). Environmental regulations on air pollution in
+China and their impact on infant mortality. Journal of
+Health Economics, 42 , 90–103.
+Tian, Z., Tian, Y., Chen, Y., & Shao, S. (2020). The economic
+consequences of environmental regulation in China: From
+a perspective of the environmental protection admonishing
+talk policy. Business Strategy and the Environment, 29 (4),
+1723–1733.
+Tonne, C., Mila, C., Fecht, D., Alvarez, M., Gulliver, J., Smith,
+J., Beevers, S., Anderson, H. R., & Kelly, F. (2018).
+Socioeconomic and ethnic inequalities in exposure to air
+and noise pollution in London. Environment International,
+115, 170–179.
+Verbeek, T. (2019). Unequal residential exposure to air pollu-
+tion and noise: A geospatial environmental justice analysis
+for Ghent Belgium. SSM-Population Health, 7 , 100340.
+Walker, G. (2012). Environmental justice: Concepts, evidence
+and politics. . Routledge.
+World Bank (2016). The cost of air pollution: Strengthening the
+economic case for action. Washington, DC.
+World Health Organization (2018). 9 Out of 10 people world-
+wide breathe polluted air, but more countries are taking
+action. Available: https://www.who.int/news-room/detail/
+02-05-2018-9-out-of-10-people-worldwide-breathe-
+polluted-air-but-more-countries-are-taking-action.
+World Health Organization (2019). Environmental health
+inequalities in Europe: Second assessment report.
+Wu, X., & Treiman, D. J. (2004). The household registration
+system and social stratiﬁcation in China: 1955–1996. De-
+mography, 41(2), 363–384.
+Zhang, W., Liu, Y., Feng, K., Hubacek, K., Wang, J., Liu, M.,
+Jiang, L., Jiang, H., Liu, N., Zhang, P., Zhou, Y., & Bi, J.
+(2018). Revealing environmental inequality hidden in
+China’s inter-regional trade. Environmental Science &
+Technology, 52(13), 7171–7181.
+Zhao, X., Zhang, S., & Fan, C. (2014). Environmental exter-
+nality and inequality in China: Current status and future
+choices. Environmental Pollution, 190 , 176–179.
+Zhao, Z., Zhang, Z., Wang, Z., Ferm, M., Liang, Y., & Norba¨ck,
+D. (2008). Asthmatic symptoms among pupils in relation to
+winter indoor and outdoor air pollution in schools in
+Taiyuan China. Environmental Health Perspectives,
+116(1), 90–97.
+Zivin, G. J., & Neidell, M. (2012). The impact of pollution on
+worker productivity. American Economic Review, 102 (7),
+3652–3673.
+Zwickl, K., Ash, M., & Boyce, J. K. (2014). Regional variation
+in environmental inequality: Industrial air toxics exposure
+in U.S. cities. Ecological Economics, 107 , 494–509.
+Publisher’s Note Springer Nature remains neutral with
+regard to jurisdictional claims in published maps and
+institutional afﬁliations.
+123
+3156 Environ Geochem Health (2022) 44:3133–3156

@@ -1,0 +1,2314 @@
+[[PAGE 1]]
+Multiple Flood Experiences and Social Resilience: Findings from Three Surveys on
+Households and Companies Exposed to the 2013 Flood in Germany
+CHRISTIAN KUHLICKE,a,c TORSTEN MASSON,b SARAH KIENZLER,e,c TOBIAS SIEG,c,d
+ANNEGRET H. THIEKEN,c AND HEIDI KREIBICHd
+a Helmholtz-Centre for Environmental Research–UFZ, Department Urban and Environmental Sociology, Leipzig, Germany
+b University of Applied Sciences Bielefeld, Department for Social Work, Bielefeld, Germany
+c University of Potsdam, Institute of Environmental Science and Geography, Potsdam, Germany
+d GFZ German Research Centre for Geosciences, Section Hydrology, Telegrafenberg, Potsdam, Germany
+e Department of Environmental Health and Protection of Ecosystems, German Environment Agency (UBA), Berlin, Germany
+(Manuscript received 30 July 2018, in ﬁnal form 20 July 2019)
+ABSTRACT
+Previous studies have explored the consequences of ﬂood events for exposed households and companies by
+focusing on single ﬂood events. Less is known about the consequences of experiencing repeated ﬂood events
+for the resilience of households and companies. In this paper, we therefore explore how multiple ﬂoods
+experience affects the resilience of exposed households and companies. Resilience was made operational
+through individual appraisals of households and companies’ ability to withstand and recover from material as
+well as health and psychological impacts of the 2013 ﬂood in Germany. The paper is based on three different
+datasets including more than 2000 households and 300 companies that were affected by the 2013 ﬂood. The
+surveys revealed that the resilience of households seems to increase, but only with regard to their subjectively
+appraised ability to withstand impacts on mobile goods and equipment (e.g., cars, TV, and radios). In regard
+to the ability of households to withstand overall ﬁnancial consequences of repetitive ﬂoods, evidence for
+nonlinear (quadratic) trends can be found. With regard to psychological and health-related consequences, the
+ﬁndings are mixed but provide tentative evidence for eroding resilience among households. Companies’
+resilience increased with respect to material assets but appears to decrease with respect to ability to recover.
+We conclude by arguing that clear and operational deﬁnitions of resilience are required so that evidence-
+based resilience baselines can be established to assess whether resilience is eroding or improving over time.
+1. Introduction
+The immediate experience of a ﬂood event is often
+associated with enormous ﬁnancial losses and can have
+considerable negative health-related as well as psycho-
+logically distressing consequences resulting in anxiety,
+depression, or posttraumatic stress disorder, among
+others ( Fernandez et al. 2015 ). For companies, ﬂoods
+can cause considerable costs due to business interruption
+as well as direct economic damage to buildings and
+equipment (Chinh et al. 2016). In this sense, ﬂood experi-
+ence may undermine a companies’ economic prosperity or
+the resilience of ﬂood-exposed people, which includes not
+just the immediate pathological consequences but also the
+wider perception of individual agency, emotions attached
+to the place of residency, social ties and networks, and trust
+in responsible institutions (Kuhlicke et al. 2011 ; Tapsell
+and Tunstall 2008; Walker-Springett et al. 2017).
+At the same time, there is a rapidly growing body of
+research showing that ﬂood events also offer an oppor-
+tunity for change: in the aftermath of ﬂood events,
+households, companies, and authorities seem to be more
+inclined to invest in adaptation measures in order to
+mitigate the consequences of future ﬂood events
+(Kreibich et al. 2011 ; Thieken et al. 2007 ) and by doing
+so are often able to reduce the monetary damage caused
+by a subsequent ﬂood event quite effectively ( Bubeck
+et al. 2012b ; Kreibich et al. 2017 ; Kreibich and Thieken
+2009; Thieken et al. 2016b ).
+However, most studies treat single ﬂood events in
+isolation. By relying on a cross-sectional survey design,
+empirical studies usually try to better understand how
+Denotes content that is immediately available upon publica-
+tion as open access.
+Corresponding author : Christian Kuhlicke, christian.kuhlicke@
+ufz.de
+JANUARY 2020 K U H L I C K E E T A L . 63
+DOI: 10.1175/WCAS-D-18-0069.1
+/C2112019 American Meteorological Society. For information regarding reuse of this content and general copyright information, consult the AMS Copyright
+Policy (www.ametsoc.org/PUBSReuseLicenses).
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 2]]
+individuals withstand and recover from the impact of
+single ﬂood events ( Kuhlicke et al. 2011 ). Such event-
+centered studies, however, are hardly able to capture
+feedback effects ( Bubeck et al. 2012b ) or legacy effects
+due to the experience of frequent ﬂood events. There-
+fore, little is known about how a household’s or
+company’s ﬂood history shapes its ability to withstand
+and recover from a ﬂood event. With this study, we would
+like to address this gap in research, which is relevant in
+view of future ﬂood risk. Although there are profound
+regional differences and uncertainties in numerical pro-
+jections of future ﬂood risks ( Kundzewicz et al. 2014), it
+is expected that ﬂood risk tends to increase in the fu-
+ture. The reasons behind this are related to climate
+change (Hirabayashi et al. 2013; Milly et al. 2008)a sw e l l
+as the continuous increase in the population and eco-
+nomic assets in ﬂood-prone areas (Jongman et al. 2012).
+This study explores the cumulative effects of multiple
+ﬂood experience on the resilience of affected house-
+holds and companies. Resilience is understood here as a
+household’s or a company’s ability to withstand and
+recover from the impacts of a natural hazard. More
+speciﬁcally, we focus on how household members as well
+as companies perceive their own ability to withstand
+damage to immobile and mobile objects as well as to
+their psychological and health-related integrity. With
+regard to recovery processes, we focus on how long it
+took households to recover after the ﬂood event (in
+months) and how their household situation changed as a
+result of the ﬂood (i.e., worsened or improved). Com-
+panies were asked how long their business activities
+were interrupted or hampered as a consequence of
+the ﬂood.
+Empirically, the current research focuses on the 2013
+ﬂood in the Elbe and Danube catchments of Germany,
+which was a record-breaking event in hydrological terms
+(Schröter et al. 2015 ). With about EUR 6–8 billion it
+caused considerably lower direct losses than the 2002
+ﬂood, which resulted in damage costs amounting to
+EUR 11.6 billion ( DKKV 2003 , 2015). However, for
+many households and companies, the 2013 ﬂood was the
+second or third ﬂood event that they had experienced
+since 2002. In addition to the 2002 ﬂood, ﬂoods also
+occurred in 1999, 2005, 2006, 2010, and 2011 in the
+Danube and Elbe catchments ( Kienzler et al. 2015). We
+therefore regard the 2013 ﬂood as a possibility for better
+understanding the interrelation of ﬂood experience and
+resilience.
+The current research is based on three different survey
+samples, all of them conducted and collected indepen-
+dently of each other. Acknowledging the differences in
+the ways the surveys were conducted and the different
+interests underlying the surveys, as well as the slightly
+different ways in which questions were asked and how
+answer categories were provided in the surveys, we do
+not strive for a comparison in the strict sense but rather
+look for common trends in our data.
+Starting with a thorough literature review focusing on
+the interrelation between ﬂood experience, adaptation,
+and resilience (chapter 2), we further specify our con-
+ceptual approach to resilience and adaptation as well as
+the methodology underlying the three different samples
+in chapter 3. In chapter 4, we present the empirical re-
+sults and then summarize and discuss the methodologi-
+cal and policy-relevant implications of our ﬁndings in
+chapter 5. More detailed information on the statistical
+analyses is provided in the appendix.
+2. Literature review
+a. Toward an operational deﬁnition of ﬂood resilience
+Resilience is an opalescent term that has multiple
+meanings in different scientiﬁc communities. Most of
+the contemporary work on resilience refers to the deﬁ-
+nition of ecological resilience developed by Holling
+(1973) who integrated three different stability proper-
+ties under the unifying umbrella term resilience; that is,
+recovery (return to status quo after disturbance), re-
+sistance (buffering the impact of a disturbance), and per-
+sistence (staying intact as an id entiﬁable object/subject
+over time) (Grimm and Wissel 1997).
+This deﬁnition and its uncountable variations ( Brand
+and Jax 2007 ; Fisher 2015) have become quite popular,
+not only among ecologists but also among social scien-
+tists ( Cote and Nightingale 2012 ; Hutter et al. 2013 ;
+Kuhlicke 2013 ; Weichselgartner and Kelman 2015 )a s
+well as among scholars working at the boundary be-
+tween society and ecology ( Adger 2000 ; Folke et al.
+2002; Thieken et al. 2014 ; Walker et al. 2004 ).
+As an implication, there is no agreed-upon under-
+standing let alone deﬁnition of resilience both in science
+and practice ( Alexander 2013 ; Weichselgartner and
+Kelman 2015). To give just a few examples, it is debated
+whether resilience is a descriptive or a prescriptive
+concept ( Berkes 2007 ; Kuhlicke 2013 , 2019) and
+whether and how resilience differs from vulnerability
+(Cutter et al. 2008 ; Fekete et al. 2014 ) or adaptive ca-
+pacity ( Gallopín 2006 ). In this sense, resilience has be-
+come an all-encompassing concept overloaded with
+quite diverse stocks of meanings (Jones and Tanner 2017).
+Brand and Jax are therefore concerned that ‘‘both con-
+ceptual clarity and practical relevance of the concept of
+resilience are critically in danger’’ ( Brand and Jax 2007 ,
+p. 1). Similarly, Weichselgartner and Kelman plea for
+more precisely deﬁning and operationalizing resilience
+64 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 3]]
+in order to be able to establish a clear baseline ‘‘against
+which to make decisions regarding the resilience level’’
+(Weichselgartner and Kelman 2015 , p. 10). They con-
+sider this a relevant step forward in order to overcome
+the vagueness of current resilience-based analysis and to
+better connect the concept with ‘‘people’s experience on
+the ground’’ (Weichselgartner and Kelman 2015 , p. 15).
+In this paper, we aim to take on this challenge by
+employing an operational deﬁnition of resilience, which
+draws on debates in natural hazards research (Cutter et al.
+2008). It focuses on how the capacity of households’ and
+companies’ to cope with and recover from the impact of a
+ﬂood is changing in consequence of experiencing multiple
+ﬂoods. Furthermore, we are interested in subjective in-
+terpretations of different dimensions of resilience (Jones
+and Tanner 2017), that means how households and com-
+panies evaluate their own ability to withstand and recover
+from ﬂood-related impacts to immobile and mobile objects
+as well as to their psychological and health-related integrity.
+The relevance of taking such a comprehensive, actor-
+centered perspective on resilience is highlighted by re-
+cent studies. It is apparent that ﬂood events are associated
+with a range of tangible and intangible consequences
+(Bubeck et al. 2017 ; Kuhlicke et al. 2011 ; Thieken et al.
+2016b). Next to monetary impacts ( Kreibich et al. 2014 ;
+Meyer et al. 2013 ), this can include negative effects on
+physical and mental health, i ncluding injuries but also
+psychiatric symptoms (Ahern et al. 2005; Alderman et al.
+2012): an increase in the cases of depression, anxiety, and
+psychosomatic symptoms (headache, bodily pain) and
+a higher probability of posttraumatic stress disorder
+(Bonanno et al. 2010; Stein et al. 2007). Furthermore, re-
+sults indicate that ﬂooding can negatively affects people’s
+psychological well-being (Hudson et al. 2019)a n dl e a d st o
+an increased use of medication (Fernandez et al. 2015). In
+addition, Thieken et al. (2016a) and Reiter et al. (2018)
+found that German households affected by the 2013 Elbe
+ﬂood perceived psychological stress and recovery activities
+more seriously than ﬁnancial losses. These ﬁndings un-
+derline that an approach to resilience is needed that fo-
+cuses on households’ and companies’ perception of their
+own ability to withstand and recover from the different
+kinds of negative consequences of ﬂood events, in-
+cluding not just material aspects but also psychological
+and health-related consequences. At the same time,
+resilience of households and companies depends on
+both prior ﬂood experience as well as on their previous
+adaptive actions.
+b. Multiple ﬂood experience, adaptation, and
+resilience
+In 1962 Robert W. Kates used the expression ‘‘prison
+of experience’’ ( Kates 1962 , p. 140) to highlight how
+future actions are guided by past experiences ( Kuhlicke
+2010, 2015). Since then, studies have increasingly
+focused on the interrelation of ﬂood experience, adap-
+tation, and resilience ( Begg et al. 2017 ; Wachinger et al.
+2013). Previous studies showed that direct ﬂood expe-
+rience can have a positive effect on risk awareness
+(Felgentreff 2003 ; Gotham et al. 2018 ; Lawrence et al.
+2014; Plapp and Werner 2006 ), can result in a higher
+awareness of the potential negative consequences of
+climate change ( Ogunbode et al. 2017 ; Spence et al.
+2011), and can increase the motivation to take adaptive
+actions (Bubeck et al. 2012a ; Grothmann and Reusswig
+2006; Lawrence et al. 2014 ; Zaalberg et al. 2009 ).
+However, ﬂood experience should not be understood as
+the sole driving factor for adaptive behavior; adaptive
+behavior is inﬂuenced by various variables including
+descriptive norms, negative affect, and outcome as well
+as self-efﬁcacy (for an overview, see van Valkengoed
+and Steg 2019 ).
+At the same time, research has shown that personal
+adaptive measures (e.g., measures taken to protect and
+prepare one’s house before a ﬂood event) have positive
+effects on ﬂood related damage as they reduce ﬂood-
+related ﬁnancial damage up to 50% (Kreibich et al. 2015;
+Poussin et al. 2015 ). Furthermore, there is an emerging
+ﬁeld of research researching the nonmaterial beneﬁts of
+individual-level adaptation strategies ( Lamond et al.
+2018) by focusing on how adaptive actions are able to
+prevent negative psychological impacts or to provide a
+greater sense of security ( Hudson et al. 2019 ; Joseph
+et al. 2015 ).
+However, in most cases ﬂood experience is treated in
+isolation. The dominant practice of conducting cross-
+sectional surveys with a focus on single ﬂood events
+usually neglects that adaptive behaviors, ﬂood experi-
+ence, and resilience are not just developing dynamically
+over time, they are also mutually inﬂuencing each other.
+Although it is meanwhile acknowledged that the in-
+terrelation between adaptive behavior and risk aware-
+ness is shaped by feedback effects and recursive
+processes (Siegrist 2013, 2014), little is known about the
+feedback of ﬂood experience on resilience. A study
+conducted by Begg et al. (2017) suggests that perceived
+severity of an actual ﬂood experienced has a signiﬁcant
+inﬂuence on relevant motivational factors shaping the
+willingness to take adaptive actions. Households that
+perceived health and stress-related consequences due to
+the 2013 ﬂood in Germany and that took adaptive
+measure before the 2013 ﬂood report signiﬁcantly lower
+response efﬁcacy as well as lower individual responsi-
+bility after the ﬂood than respondents who im-
+plemented measures but perceived the consequences
+to be less severe.
+JANUARY 2020 K U H L I C K E E T A L . 65
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 4]]
+However, to our knowledge, there is not a single study
+published that focuses on how the frequency of ﬂood
+experience inﬂuences the ability of households and
+companies to withstand and recover from ﬂood events.
+Based on the literature, we can only put forward the
+hypothesis that ﬂood experience might be an important
+factor that enhances the ability of households to with-
+stand ﬂood related impacts and to recover quicker as
+they might have developed some kind of routine-based
+knowledge to cope more effectively with the immediate
+ﬂood situation. At the same time, each ﬂood event might
+also be associated with an enormous physical, mental,
+and collective encumbrance resulting in possibly nega-
+tive effects in the long run. In this sense, multiple ﬂood
+experiences can also be understood as a burden for af-
+fected households. For companies, the situation might
+be different, as they might systematically improve their
+coping and adaptive capacities. However, these are only
+speculative thoughts, as there is no empirical evidence
+available so far. With this study, we address this gap in
+knowledge by providing empirical insights on the in-
+terrelation of multiple ﬂood experience and resilience.
+3. Theoretical constructs and methodology
+a. Theoretical constructs
+This study is based on three different theoretical
+constructs ( Fig. 1 ). Based on Cutter et al. (2008) ,w e
+distinguish conceptually between 1) adaptive actions
+and emergency actions on the one hand and 2) resilience
+on the other hand. 3) The third relevant construct was
+respondents’ prior ﬂood experience. Figure 1 provides a
+model underlying the analysis.
+Individual adaptation and emergency actions are un-
+derstood as actions that aim at preventing or minimizing
+the anticipated or actual negative consequences of future
+ﬂood events. They comprise l ong-term precautionary
+measures such as informative measures (e.g., gathering
+information on ﬂood loss mitigation, joining neighborhood
+ﬂood networks), constructional measures (e.g., adapted
+interior ﬁttings, sealing the cellar) and taking out natural
+hazard insurance. They also include emergency measures
+that are undertaken just before or during a ﬂood event
+such as moving contents upstairs or protecting the
+building against inﬂowing water ( Kreibich and Thieken
+2009). Early warning is an important prerequisite for
+undertaking emergency measures; however, it was not
+part of this study.
+Resilienceis understood as a household’s or a company’s
+ability to withstand and/or recover after a disturbing
+event. While resistance describes the ability to buffer
+the negative consequences of a disturbing event,
+recovery is understood as the ability to return to
+daily life after a disturbing event. More speciﬁcally,
+we operationalized the construct ‘‘withstand’’ how
+households and companies rated the perceived im-
+pacts on immobile and mobile objects as well as to
+households’ respondents psychological and health-
+related integrity. This in cludes information about
+monetary losses (e.g., overall, building, household
+contents, equipment, goods, business interruption) as
+well as information about perceived consequences
+associated with a ﬂood event indicated on ordinal scales
+(overall, building, household contents, material objects,
+sentimental objects, health, mental consequences/stress,
+personal strain, business interruption). The construct
+‘‘recovery’’ was made oper ational by asking house-
+holds how long it took them to recover after the ﬂood
+event (in months) and how their situation changed as
+a result of the ﬂood, whereas companies were asked
+how long their business activities were interrupted or
+hampered.
+Flood experience was taken into account by focusing
+on households’ and companies’ prior ﬂood experience.
+However, we did not analyze the total number of ﬂoods
+experienced, but rather used the 2013 ﬂood as the ref-
+erence event in all samples and grouped respondents for
+which the 2013 ﬂood was the ﬁrst, second or third ﬂood
+event or more.
+We included additional variables, such as sociodemo-
+graphic variables (i.e., age, tenure, gender, and building
+type), companies’ characteristics (size, sector, tenure,
+spatial situation) as well as ﬂood characteristics.
+b. Case study areas
+Empirically, the paper is based on three different sur-
+veys.The surveys were collected in the German states most
+affected by the 2013 ﬂood, among these, the states of
+Saxony (EUR 1.9 billion direct losses in 2013) and
+Bavaria (EUR 1.3 billion direct losses) ( DKKV 2015 ;
+see Fig. 2).
+The 2013 ﬂood caused with about EUR 6–8 billion
+lower direct losses than the 2002 ﬂood, which resulted in
+damage costs amounting to EUR 11.6 billion ( DKKV
+2003, 2015). Damage on the household level usually
+results from demolished building structures as well as
+repair work, including replacing broken windows, re-
+pairing heating systems, etc. In addition, households
+needed to repair or replace damaged contents, such
+as domestic appliances, telephone and computer sys-
+tems, furniture or carpets. Losses for companies re-
+lated also to different aspects refer above all to building
+losses; equipment losses; losses to goods, products, and
+stock; and losses due to business interruption ( Thieken
+et al. 2016b).
+66 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 5]]
+In Germany, private adaptation measures are requested
+by law from ﬂood prone property owners in accordance
+with their resources and capabilities ( Begg et al. 2017 ).
+Flood insurance penetration in Germany has increased
+gradually over recent years ( Surminski and Thieken
+2017), with large regional differences due to past com-
+pulsory ﬂood insurance in the former German Democratic
+Republic and in the federal state of Baden-Wuerttemberg
+(Seifert et al. 2013).
+c. Methodology
+The different surveys were conducted independently
+of each other. Table 1 provides an overview of the dis-
+tribution of the three surveys and their sampling
+procedures.
+Table 2 gives a detailed overview of how the single
+theoretical constructs were made operational in the
+different samples. All surveys addressed the overarching
+conceptual constructs of ‘‘adaptation’’ and ‘‘resilience,’’
+however, there are differences in the items and scales
+used to operationalize the constructs; there are also
+differences in how the single questions were asked and
+what kind of answer categories the surveys provided.
+While in sample 1 households, respondents were asked
+to report about the consequences of all ﬂood events
+experienced, respondents in samples 2 households and
+3 companies were asked to report only about the 2013
+ﬂood. Prior ﬂood experience was taken into account by
+asking respondents whether they had experienced a
+ﬂood before and if yes, how many and when (before
+2013). Furthermore, the extent to which adaptation
+and emergency measures were enquired about differed
+between sample 1 households on the one hand and
+sample 2 households and 3 companies on the other. The
+implications of the outlined differences are discussed
+more in depth in chapter 5).
+Due to the differences in the design of the questionnaires
+and the data collection processes as well as the different
+operationalization of the central constructs/measures,
+we chose not to combine the samples but applied a
+sample-based approach to look for converging evidence
+or discrepancies across the three samples.
+Sample 1 households was collected by employees of
+the Helmholtz Centre for Environmental Research and
+includes households that experienced repetitive ﬂood-
+ing between 2002 and 2013. The survey was distributed
+personally and conducted in the German states of Saxony
+and Bavaria. All towns surveyed have experienced
+at least one ﬂood event, and most of them two or
+even three. Flood risk maps from Z ürs Public (since
+2014 renamed Kompass Naturgefahren; www.kompass-
+naturgefahren.de) and ﬂood risk maps produced by the
+Saxon government were used to identify the affected
+areas in Saxony. For Bavaria, local councils were ap-
+proached to identify areas that experienced ﬂooding in
+2013. These councils provided us with detailed lists of
+those streets that had been affected by ﬂooding in 2013
+and before.
+A total of 6502 questionnaires were distributed per-
+sonally between six and eight months after the 2013
+ﬂood (see Begg et al. 2017 for details). This included a
+prepaid reply envelope and a letter explaining the
+FIG. 1. Theoretical constructs and their relationship.
+JANUARY 2020 K U H L I C K E E T A L . 67
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 6]]
+background of the survey and asking residents to return
+the survey to the Helmholtz-Centre for Environmen-
+tal Research (Zentrum fur Umweltforschung) (UFZ)
+within the next days. In total, 1380 completed surveys
+were returned, which provided an overall response rate
+of 21.2%. Of the 1380 surveys, 990 were completed by
+residents in Saxony (response rate of 21.7%), while 390
+were completed by residents in Bavaria (response rate
+of 20%). 65% of respondents were affected by the 2013
+ﬂood ( N 5 889). Therefore, only these surveys were
+used in this analysis. The questionnaire included de-
+tailed questions about every single ﬂood event experi-
+enced since 2002 in a chronological order to better
+understand the cumulative effects of repeated ﬂood
+experience (1999 was neglected as it was considered as a
+rather minor ﬂood even in comparison to the 2002 and
+subsequent ﬂood events). This included questions about
+ﬁnancial losses, ﬁnancial support, and perceived conse-
+quences. The survey also contained questions about
+adaptation actions and about individual attitudes to the
+distribution of responsibility as well as about decision-
+making processes in ﬂood risk management ( Begg
+et al. 2017 ).
+The dataset sample 2 households was collected un-
+der the responsibility of the University of Potsdam,
+Geoforschungs Zentrum (GFZ) German Research Centre
+for Geosciences and the reinsurance company Deutsche
+Rückversicherung (DKKV 2015; Thieken et al. 2016b ).
+It was based on computer-aided telephone interviews
+(CATI) with residents that suffered from (ﬁnancial)
+property damage due to ﬂooding in 2013 in Germany.
+The interviews were conducted around nine months
+after the ﬂood event. Based on information from af-
+fected districts and municipalities, ﬂood reports, press
+releases, or ﬂood maps [e.g., ZÜRS or ﬂood masks derived
+from satellite data provided by German Aerospace
+Center (Deutschen Zentrum f ür Luft- und Raumfahrt)
+(DLR), Centre for Satellite Based Crisis information;
+http://www.zki.dlr.de/], street lists were compiled, which
+served as a basis for looking up the telephone numbers of
+FIG. 2. Areas affected by the 2013 ﬂood and the number of questionnaires completed.
+68 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 7]]
+potentially affected residents from the public telephone
+directory. All 43 281 searched telephone numbers were
+contacted, from which 16 554 numbers were either not
+recognized or available dur ing the campaign. Another
+16 721 households stated that they had not been affected
+by the ﬂood, with ‘‘affected’’ being deﬁned as having suf-
+fered (ﬁnancial) ﬂood damage. In total 1652 interviews
+were completed between 18 February and 24 March 2014.
+The questionnaire represented a modiﬁed version of
+previous surveys ( Kienzler et al. 2015 ; Kreibich et al.
+2005; Thieken et al. 2017 ). Overall, it addressed a broad
+range of topics such as ﬂood impact characteristics,
+physical and ﬁnancial ﬂood losses to buildings and
+household contents, ﬂood experience and ﬂood aware-
+ness, precautionary measures, early warning, emergency
+measures, evacuation, contamination of the ﬂood water,
+cleanup, recovery of the affected household, general
+characteristics of the building and household contents,
+nonmaterial ﬂood effects (on health), aid and ﬁnancial
+compensation, and sociodemographic variables. At the
+beginning of the interview, the interviewer asked to
+question the person in the household with the best
+knowledge about the ﬂood event.
+The dataset sample 3 companies focused on small
+companies and was also collected by a joint venture
+of the University of Potsdam, GFZ, and Deutsche
+Rückversicherung ( DKKV 2015 ; Thieken et al. 2017 ,
+2016b). The list of affected streets that was compiled for
+sample 2 households formed the basis for generating
+property-speciﬁc random samples of companies (i.e.,
+their telephone numbers). Additional effort was un-
+dertaken to increase the number of large companies in
+the sample. Therefore, expert interviews were un-
+dertaken and ﬂood and press reports were analyzed to
+identify ﬂood-affected large companies. All companies
+irrespective of their size were interviewed between
+May and July 2014 using a standardized survey, which
+resulted in 557 completed interviews. However, for these
+analyses only small companies with #10 employees
+and #EUR 1 million damage ( n 5 328) were selected
+since we assume that smaller companies behave simi-
+larly to households. The person with the most knowl-
+edge about the ﬂood damage was interviewed.
+The questionnaire addressed the following topics:
+ﬂood impact (e.g., water depth, contamination), ﬂood
+warning, emergency measures, evacuation, cleaning up,
+characteristics of and damage to company assets (buildings,
+equipment, goods, products, and stock, etc.), recovery,
+precautionary measures, ﬂood experience and aware-
+ness, and characteristics of the company (sector, number
+of employees, etc.). Further details about the approach,
+partly based on preceding surveys, are published in
+Kreibich et al. (2007) , Thieken et al. (2016a , 2017), and
+Sieg et al. (2017) .
+d. Statistical analysis
+The surveys were coded and analyzed using the sta-
+tistics software SPSS and R Version 3.3.2. For statistical
+analysis, we used correlational analysis (Spearman cor-
+relations) to test for bivariate relationships between
+ﬂood experience and our outcome variables (uptake of
+adaptation and emergency actions, resilience indicators).
+For multivariate relationships, we applied multiple lin-
+ear regression analysis or logistic regression analysis
+for dichotomous outcome variables. We included the
+adoption of adaptation measures (constructional adap-
+tation actions, insurance), the adoption of emergency
+measures and resilience indicators (overall ﬂood con-
+sequences, ﬁnancial damage, property damage, loss of
+material objects, health- and stress-related consequences)
+as dependent variables as well as respondents’ socio-
+demographic characteristics (age, tenure, building type)
+and their previous ﬂood experience as independent
+variables in the analysis. To test for possible nonlinear
+(i.e., quadratic) effects of previously experienced ﬂoods
+on household resilience, we included the number of
+previous ﬂood experiences and its quadratic term in the
+regression ( Miller et al. 2013 ). This strategy has been
+applied in previous research ( Klein et al. 2011 ). Fol-
+lowing Miller et al. (2013) , we mean centered the data
+TABLE 1. Overview of the main commonalities and differences of the samples.
+Sample 1 households Sample 2 households Sample 3 companies
+Survey Personally distributed, prepaid
+reply envelope; two weeks
+later reminder was sent
+Computer-aided telephone
+interviews, lasted between 20
+and 40 min
+Computer-aided telephone
+interviews, lasted on average
+34 min
+Sampling/screening Households surveyed located
+in affected areas
+Only households that had
+suffered ﬁnancial ﬂood losses
+were surveyed
+Only companies that had suffered
+ﬁnancial ﬂood losses were
+surveyed
+Persons addressed Person that had birthday most
+recently before the
+distribution of the survey and
+who is older than 18
+Most competent person in
+households with regard
+to ﬂooding
+Most competent person in
+company with regard to ﬂood
+damage
+J
+ANUARY 2020 K U H L I C K E E T A L . 69
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 8]]
+TABLE 2. Detailed overview on questions and answer categories provided in the samples.
+Sample 1 households Sample 2 households Sample 3 companies
+Prior ﬂood experience
+Affected by a ﬂood? (yes; no; year) /
+2013 as the ﬁrst, second, or third ﬂood
+How often have you been affected by a ﬂood
+before May/June 2013? (number)
+Was this commercial property
+affected by a ﬂood before
+May/June 2013? (number)
+When was the last time you were affected by a
+ﬂood before May/June 2013? (month, year)
+When was the last time this
+commercial property was
+affected by a ﬂood before
+May/June 2013? (month, year)
+Adaptation and emergency actions
+Did you undertake any measure to protect
+your property in the last years (yes; no;
+year; description of measure)
+Which of the following precautionary measures
+have you already implemented before the ﬂood
+event in May/June 2013, have you
+implemented during/after this ﬂood, are you
+planning to implement in the next 6 months ?
+[implemented before the ﬂood; during/after
+the ﬂood; planned within the next 6 months;
+not (yet) intended/not possible; provided list
+of 16 measures with regard to information
+precaution, propert y-level mitigation
+measures, contract insurance, others]—
+multiple answers possible
+When did you implement the
+following precautionary measure:
+xxx
+a. Or are you planning to
+implement the measure in the
+next 6 months, or are you
+currently not intending to
+implement the measure. Please
+provide the year when you have
+implemented the measure, or
+answer ‘‘planned in the next
+6 months,’’ or ‘‘not intended.’’
+Construction measures: Ex-post
+categorization based on the answer
+provided to previous question
+(description of measures)
+Did you, or someone else, undertake emergency
+measures to mitigate damage to the building or
+household contents? I will now quote some of
+these measures. Please tell me what applies to
+you. (provided list of emergency measures:
+safeguard documents and valuables; drive
+vehicles to a ﬂood-safe place; put moveable
+contents upstairs; protect oil tanks; install
+water pump; safeguard domestic animals/pets;
+protect the building against inﬂowing water;
+redirect water ﬂow; switch off gas/electricity;
+gas/electricity was switched off by public
+services; others)—multiple answers possible
+Were damage reduction measures
+undertaken before or during the
+ﬂood in your company; for
+instance, did you try to protect
+goods and material by raising,
+removing, etc. these. Or did you
+try to prevent water from
+entering the building? (yes; no)
+Insured against natural hazards?
+[contracted an insurance in (year); did
+apply for an insurance but did not
+receive one; interested, but too
+expensive; terminated contract, since
+personally not satisﬁed; the insurance
+terminated the contract (year); do not
+want to have one; took other measures;
+others]—multiple answers possible
+Did you undertake any action during the
+ﬂood in order to reduce damage from
+ﬂooding? (yes; no; informed about
+ﬂood, sandbags, put valuables upstairs,
+moved car/motor vehicle out of the
+ﬂood zone, others)—multiple answers
+possible (number of measures taken)
+Did you inform yourself about the ﬂood
+risk before the ﬂood event (yes; no)
+Resilience
+Monetary damage (yes; no; overall sum of
+damage in EUR)
+If you include the cost (material and labor) for all
+necessary repair work at/within the building,
+what was the overall building loss? (sum of
+damage in EUR)
+How high was the total building
+damage? (sum of damage in
+EUR)
+Perception of consequences (for
+the overall household; physical
+consequences; psychological
+consequences, loss of valuable
+objective, loss of sentimental
+objects (Likert-scale from 1–5)
+How do you estimate the total cost for restoring
+your damaged household contents? (sum of
+loss in EUR)
+How high was the total equipment
+damage (without motor
+vehicles)? (sum of damage in
+EUR)
+70 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 9]]
+for the number of previously experienced ﬂoods prior to
+computing the quadratic term.
+4. Results: Flood experience, adaptation, and
+resilience
+a. Sociodemographic characteristics
+The comparison of the main sociodemographic char-
+acteristics of the two different samples related to
+households (samples 1 households and 2 households)
+revealed quite profound differences (see appendix for
+details, Table A2). Sample 2 households is characterized
+by a higher mean age, a higher proportion of female
+respondents, a higher share of homeowners, a higher
+share of detached houses, and a higher share of people
+with lower ﬂood experience. Some of the differences can
+be traced back to differences in the sampling and
+screening procedures of the surveys, as well as the
+techniques of the survey. Telephone surveys are in-
+creasingly hampered by the substitution of landlines by
+mobile phones. Younger adults ( ,30 years), especially,
+tend to live in wireless-only households, leading to an
+underrepresentation of this age group in landline-only
+surveys ( Greenberg and Weiner 2014 ). As a result,
+the average age in sample 2 households is higher than
+in sample 1 households; the latter was based on a
+paper-and-pencil questionnaire (see Table 1 ). Further-
+more, the use of the term ‘‘ﬂood-affected’’ differs across
+the three samples: while sample 1 households uses a
+broad interpretation of ‘‘ﬂood-affected,’’ including res-
+idents that (only) suffered from no power supply or
+trafﬁc disruptions, sample 2 households and 3 companies
+deﬁne ‘‘ﬂood-affected’’ as having suffered (ﬁnancial)
+ﬂood damage. This resulted in high screen-out rates of
+almost 40% (see description of sample 2 households
+above) and probably led to a higher share of home-
+owners—and consequently to a higher share of detached
+and terraced houses—in sample 2 households compared
+to sample 1 households ( Table 3). Finally, the design of
+the surveys differs across the three samples: sample
+1 households was based on a lumped approach focusing
+on hot spot areas that have experienced repeated ﬂood-
+ing, while samples 2 households and 3 companies aimed at
+surveying all areas that were ﬂooded in 2013 including
+regions that had not been affected by the ﬂood of 2002,
+for example, in the federal state of Baden-Wuerttemberg,
+Thuringia, most of Lower Saxony, and some regions in
+Saxony-Anhalt (along the river Saale). Consequently, the
+share of residents that experienced ﬂooding for the ﬁrst
+time is higher in sample 2 households than in sample
+1 households ( Table 3 ). Despite these differences, we
+think that the conceptual commonalities across the three
+samples are sufﬁcient to jointly explore the effect of re-
+peated ﬂooding on adaptation and resilience.
+b. Multiple ﬂood experiences and adaptation
+Based on previous ﬁndings (see section 2), the study is
+based on the hypothesis that the experience of (multi-
+ple) ﬂood events leads to an increasing capacity to act
+before, during and after an event. This assumption
+was tested by analyzing how the number of ﬂoods
+that respondents experienced between 2002 and 2013
+correlates with adaptation actions taken before or dur-
+ing the 2013 ﬂood (see Tables A1–A3 for details).
+TABLE 2. (Continued)
+Sample 1 households Sample 2 households Sample 3 companies
+How long did it take to return to daily life?
+(less than a month; 1–2 months; 3–5
+months; more than 6 months; did not yet
+return; it will never return)
+To what extent the ﬂood event of May/June 2013
+still puts a strain on you? [scale from 1 (it
+doesn’t strain me at all anymore/I feel like
+before the event) to 6 (it strains me still a lot)]
+How high was the total damage to
+goods, products and stock? (sum
+of damage in EUR)
+How did household situation change in
+consequence of the ﬂood?
+(considerably worse than before the
+ﬂood; worse; similar; better)
+I now call you possible damage caused by
+ﬂooding. How serious did you perceive each of
+the witnessed damage types [scale from 1 (not
+serious at all) to 6 (very serious); provided list
+of consequences, e.g.,: health complaints;
+psychological or other forms of stress; damage
+to buildings and household contents; other
+ﬁnancial damage (like cars, outdoor facilities);
+loss of items of special personal signiﬁcance]
+How high were the damage due to
+business interruption? (sum of
+damage in EUR)
+How many months did it take you after the event
+to completely restore your building/household
+contents? (less than a month; 1–2 months;
+3–6 months; more than 6 months)
+How long was the business
+operation interrupted? (time
+in days)
+a Question was stated for 13 different precautionary measures ranging from insurance, to property-level mitigation measures to relocation
+to a ﬂood safe area.
+JANUARY 2020 K U H L I C K E E T A L . 71
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 10]]
+It is noteworthy, that the general percentage of in-
+terviewees who implemented adaptation actions and
+thus responded positively to the questions is higher in
+sample 2 households (see Table 4 ). We attribute this
+difference predominantly to two factors: ﬁrst, the con-
+siderably higher share of homeowners in sample 2
+households—homeowners usually have more possibili-
+ties (particularly in respect to constructional measures)
+and a higher motivation to implement adaptation mea-
+sures ( Bubeck et al. 2012a ,b); second, to the way in
+which the questions were asked in the survey. While in
+sample 1 households, households were openly asked
+about whether and which adaptation actions they had
+taken, sample 2 households provided respondents with a
+prepared list of speciﬁc measures they could choose
+from. This inﬂuences the response behavior. For ex-
+ample, in a survey distributed in 2002, water pumps and
+backﬂow preventers were not included and therefore
+only a few household (less than 5%) mentioned these
+measures. In subsequent surveys, these measures were
+included and more than 20% (backﬂow preventer) and
+even 50%–70% (water pumps) stated they had these
+measures in place ( Kienzler et al. 2015 ).
+Generally, the empirical results indicate a rather ro-
+bust, but modest, signiﬁcant positive correlation be-
+tween ﬂood experience and the adaptation/emergency
+actions of households and companies (for more details
+see Tables A1–A3). There are signiﬁcant correlations in
+all three samples for almost all of the tested variables
+indicating that the more often households experienced a
+(damaging) ﬂood event, the more likely they were to
+take action in order to adapt. In addition, there is also a
+signiﬁcant positive correlation with regard to taking out
+insurance and ﬂood experience among the surveyed
+households. However, while households tend to take out
+insurance after experiencing their ﬁrst ﬂood, their op-
+portunity to do so is decreased after the second ﬂood
+(see Table 3 ). It is often the case that insurance com-
+panies do not insure buildings with prior ﬂood damage,
+or only with high premiums ( Seifert et al. 2013 ), al-
+though the assessment of insurability according to the
+hazard zoning system ZÜRS is gaining more importance
+than the number of previous claims ( DKKV 2015).
+In addition, we conducted a regression analysis to
+investigate which of the tested variables inﬂuence ad-
+aptation actions (see Table 5; for more details see Tables
+A4–A6). For households, this included age, tenure, and
+building type in addition to ﬂood experience. For com-
+panies, this included ﬂood experience, size of the com-
+pany, sector, spatial situation, and tenure.
+The regression analysis for sample 1 households
+revealed that all tested adaptation and emergency
+measures show a positive relationship between ﬂood
+experience and adaptation. There is also a positive re-
+lationship between tenure and adaptation (i.e., home-
+owners adopted adaptation measures more often than
+renters). The analysis for sample 2 households showed
+that being a homeowner and having experienced (mul-
+tiple) ﬂoods before 2013 increases the likelihood for
+households to take adaptation and emergency measures,
+with the exception of taking out ﬂood insurance, which is
+only inﬂuenced by tenure. In addition, both in sample
+1 households and 2 households, age was negatively
+correlated with undertaking emergency measures dur-
+ing the ﬂood and implementing constructional adapta-
+tion measures, respectively (sample 2 households).
+Results for sample 3 companies revealed that ﬂood
+experience has a signiﬁcant positive inﬂuence on adapta-
+tion and emergency actions taken by companies, but again
+not on insurance. The only signiﬁcant inﬂuence on
+the decision to take out natural hazard insurance was
+‘‘tenure,’’ which seems to be plausible, since tenants are
+not likely to insure the respective building of their
+company (although they can insure their contents).
+c. Households: Multiple experience and resilience
+In a ﬁrst step, we analyzed the ability of households to
+withstand damage to immobile objects (i.e., buildings) .
+Figure 3 reveals that ﬁnancial damage to a building fell
+considerably between the ﬁrst and the second ﬂood. The
+third ﬂood was again associated with higher damage
+than the second ﬂood. A drop in the amount of ﬁnancial
+damage thus pointed toward an increased ability of
+households to withstand damage to buildings and other
+rather immobile objects. We attributed the higher ﬁ-
+nancial damage in sample 2 households to the higher
+TABLE 3. Main sociodemographic characteristics of household samples.
+Sample 1 households Sample 2 households
+Age Mean: 56.2 years ( n 5 889) Mean: 59.3 years ( n 5 1328)
+Gender Female/male: 43.2%/56.8% ( n 5 902) Female/male: 59.1%/41.9% ( n 5 1433)
+Tenure Renter/owner: 37.1%/62.9% ( n 5 881) Renter/owner: 17.4%/82.6% ( n 5 1433)
+Building type Detached/row/multifamily house:
+32.7%/16.7%/50.6% (n 5 856)
+Detached/row/multifamily house:
+44.0%/27.9%/28.2% (n 5 1428)
+Flood experience 2013 ﬂood as ﬁrst/second/third 1 ﬂood:
+36.8%/44.7%/18.5% (n 5 889)
+2013 ﬂood as ﬁrst/second/third 1 ﬂood:
+45.8%/31.3%/22.9% (n 5 1433)
+72 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 11]]
+share of homeowners, who usually experience and re-
+port higher ﬁnancial damage.
+The perceived consequences of damage to buildings
+corresponded with reported ﬁnancial damages. How-
+ever, while the ﬁnancial damage for the third ﬂood were
+considerably lower than the ﬁrst ﬂood, the perceived
+consequences reach similar (sample 2 households) or
+even higher values (sample 1 households) with regard to
+the building damage (see Fig. 3).
+There are different reasons for this nonlinear, U-
+shaped pattern. To exclude this U shape from being a
+result of ﬂood characteristics, we tested whether and
+how the ﬁnancial damage correlate with ﬂood charac-
+teristics (i.e., water level and duration). While damage
+to the building correlated positively with both water
+depth and the duration of ﬂooding (see Table A3 ), the
+results also indicated that respondents with more ﬂood
+experience were affected by higher water levels, but still
+reported lower damage. This suggests that the observed
+pattern for ﬁnancial damage with regard to ﬂood expe-
+rience cannot simply be explained by ﬂood characteris-
+tics, but that other variables also inﬂuence the ﬁnancial
+damage for companies and households—a point we re-
+turn to in the discussions section in chapter 5.
+In a second step, we analyzed the ability of households
+to withstand damage to mobile objects (contents) . The
+ability of households to withstand losses to mobile
+objects increased signiﬁcantly between the ﬁrst and
+the second ﬂood experienced (see Fig. 4 ): when the
+2013 ﬂood was the ﬁrst ﬂood experienced, this again
+resulted in the highest values with regard to the loss of
+or damage to mobile objects—whether of ﬁnancial or
+sentimental value. However, thereafter values remained
+on a similar (sample 2 households) or slightly lower level
+(sample 1 households) if the 2013 ﬂood was experienced
+as the third ﬂood.
+In a third step, we analyzed the ability of households to
+withstand negative psychological and health-related conse-
+quences. The ability to withstand the negative psycholog-
+ical and health-related consequences was again different to
+the previously reported ability to withstand damage
+to immobile and mobile objects (seeFig. 3), as it seems to
+decline with ﬂood experience. However, there are also
+profound differences between both samples. In sample
+1 households, there was evidence that health-related
+and—descriptively—psychological consequences follow
+a nonlinear pattern (i.e., consequences are perceived
+as more severe in the case of a third ﬂood) indicating
+an exponential relationship between multiple ﬂood ex-
+periences and stress- and health-related consequences.
+However, in sample 2 households, it was the ﬁrst ﬂood
+that was associated with the highest values, followed by
+the third ﬂood.
+TABLE 4. Adaptation/emergency actions and previous ﬂood experience (2013 as reference ﬂood).
+Sample 1 households Sample 2 households Sample 3 households
+2013 as ... First ﬂood Second ﬂood Third 1 ﬂood First ﬂood Second ﬂood Third 1 ﬂood First ﬂood Second ﬂood Third 1 ﬂood
+Adaptation actions/yes (general) 42.2% 53.8% 70.6% 87.4% 93.3% 93.2% 55.4% 71.6% 75.0%
+n327 n383 n163 n650 n447 n324 n139 n109 n92
+Adaptation actions/yes (constructional) 12.5% 16.4% 35.0% 54.9% 63.6% 78.4% 22.6% 35.8% 39.1%
+n327 n383 n163 n645 n445 n324 n137 n109 n92
+Insurance/yes 35.1% 60.7% 54.3% 53.4% 63.5% 60.6% 24.5% 33.0% 35.9%
+n305 n359 n151 n627 n439 n317 n139 n109 n92
+Emergency actions 2013/yes 90.8% 96.7% 98.1% 90.1% 96.0% 96.6% 79.1% 99.1% 95.7%
+n305 n391 n162 n655 n449 n327 n139 n109 n92
+Informed about risk/yes 52.3% 60.7% 63.6% 51.8% 60.7% 71.9% — — —
+n323 n366 n151 n629 n440 n317
+JANUARY 2020 K U H L I C K E E T A L . 73
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 12]]
+In a fourth step, we analyzed how households were
+able to recover: the time it took for households to return
+to daily life and the relative change of the household
+situation compared to before the ﬂood were positively
+correlated to the number of ﬂoods experienced, at least
+in sample 1 households. Among respondents who ex-
+perienced 2013 as their third ﬂood, 72% ( n 5 161) re-
+ported that it took them three months or longer to return
+to daily life, compared to 67.1% ( n 5 325) who experi-
+enced 2013 as their ﬁrst and 52.7% ( n 5 366) as their
+second ﬂood. Similarly, the share of respondents who
+perceived their household situation to be worse or
+considerably worse compared to their preﬂood situation
+was higher (43.9%, n 5 157) for respondents that ex-
+perienced 2013 as their third ﬂood in comparison to the
+answers provided by respondents from households that
+had experienced less ﬂoods (ﬁrst ﬂood: 29.5%, n 5 312;
+second ﬂood: 29.5%, n 5 353).
+The results of sample 2 households indicate a some-
+what different pattern regarding postimpact recovery.
+The results revealed that respondents who experienced
+ﬂoods for the third time needed signiﬁcantly less time on
+average to completely restore their buildings compared
+to respondents who were affected for the ﬁrst or second
+time. Results on recovery time with respect to house-
+hold contents showed a similar, albeit nonsigniﬁcant
+FIG. 3. Financial damages, their perception, and previous ﬂood experience (2013 reference event).
+TABLE 5. Summary results of regression analysis—adaptation of households and companies. Note: * p , 0.05; ** p , 0.01.
+Dependent variables Age Tenure Building type Sum ﬂood Sum ﬂood 2
+Sample 1 households
+Adaptation measures in general 1** 1**
+Constructional adaptation measures 1** 1**
+Insurance 1** 1**
+Sum of emergency measure 2* 1** 1**
+Sample 2 households
+Adaptation measures in general 1** 1*
+Constructional adaptation measures 2** 1** 1**
+Insurance 1**
+Emergency measure 2* 1** 1**
+Dependent variables Size Sector Ownership Spatial situation Sum ﬂood
+Sample 3 households
+Adaptation measures in general 2** 1** 1**
+Constructional adaptation measures 1*
+Insurance 1*
+Emergency measure 2**
+74 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 13]]
+trend. At this point, however, it must be taken into ac-
+count that the corresponding question regarding re-
+spondents’ recovery was slightly different between
+sample 1 households and 2 households (see Table 2). In
+contrast to sample 1 households, the question in sample
+2 households primarily related to the recovery time of
+material values and was evaluated separately for dam-
+age to building and damage to household contents.
+To further investigate household resilience, we sub-
+mitted the different measures of resilience (ﬁnancial
+damage, perceived consequences, time to recover) to
+multiple regression analysis, including the number of
+ﬂood events experienced as well as the ownership status
+(owner vs tenant), the type of building (detached/
+terraced/multifamily house), age (as covariates), and
+constructional adaptation (yes/no) in the regression. To
+additionally test for nonlinear effects of ﬂood experi-
+ence we also included the squared number of ﬂood
+events experienced (for a similar strategy, see Klein
+et al. 2011 ; Masson and Barth 2019 ).
+For sample 1 households, results of the regression
+analyses generally supported the ﬁndings described
+above (see Table 6 ; for more detailed information see
+Table A5), that is, the relationship between the number
+FIG. 4. Perceived average consequences and previous ﬂood experience (2013 as reference ﬂood).
+TABLE 6. Summary results of regression analysis—adaptation of households. Note: * p , 0.05; ** p , 0.01.
+Dependent variables Age Tenure Building type Sum ﬂood Sum ﬂood 2 Construction adaptation
+Sample 1 households
+Financial damage (Fd) 2** 1**
+Perceived overall consequences 2** 1**
+Perceived damage to building 1** 2** 1**
+Perceived loss of material objects 2** 1**
+Perceived loss of sentimental objects 1* 1** 2** 1** 2*
+Perceived health consequences 2** 2** 1**
+Perceived stress consequences 2*
+Duration to recover 1** 2** 1**
+Dependent variables Age Tenure Building type Sum ﬂood Sum ﬂood 2 Construction adaptation
+Sample 2 households
+Fd to building 1* 1**
+Fd to household content 1** 2** 2**
+Perceived damage to building 1* 2**
+Perceived loss to household content 2** 2**
+Perceived loss of sentimental objects 2** 2**
+Perceived health consequences 2**
+Perceived stress consequences 2**
+Perceived personal strain 1** 2**
+JANUARY 2020 K U H L I C K E E T A L . 75
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 14]]
+of ﬂoods experienced and the resilience measures (ex-
+ception: psychological consequences) are nonlinear,
+corroborating the patterns displayed in Figs. 3 and 4.
+For instance, our ﬁndings indicated a quadratic
+(U shaped) relationship between the number of ﬂoods
+experienced on the one hand and the ﬁnancial damage
+to households and consequences to the building on the
+other. The regression analysis conducted for sample
+2 households revealed that there is a negative relation-
+ship between constructional adaptation and reported
+ﬁnancial damage to household contents, indicating
+that more adapted households also reported lower
+damage. A similar pattern could be observed in sample
+1 households with regard to the loss of sentimental ob-
+jects and adaptation.
+d. Companies: Multiple ﬂood experiences and
+resilience
+Among the companies interviewed, the distributional
+pattern for ﬁnancial damage with regard to buildings
+was different to households (see Fig. 5): companies that
+experienced the 2013 ﬂood as their second ﬂood event
+reported the highest damage on average. Financial
+damage due to business interruptions also resulted in the
+highest values, if 2013 was experienced as the second
+ﬂood. However, both ﬁnancial damage to the building
+and due to business interruption decreased with the
+third ﬂood event. This seems to point toward a weak
+trend that asset damage decrease with increasing expe-
+rience. This trend becomes more robust with respect to
+ﬁnancial damage to mobile equipment and goods. Both
+correlated negatively with the number of ﬂoods expe-
+rienced as damage decreased linearly with each ﬂood
+event. This seems to point to a learning effect after each
+ﬂood event resulting in lower damage.
+Business interruption was shortest for those compa-
+nies who experienced the 2013 ﬂood as their ﬁrst ﬂood.
+The longest business interruptions were suffered by
+companies experiencing the 2013 ﬂood as their second
+ﬂood, whereby the difference between the ﬁrst and the
+second ﬂood were signiﬁcant and the difference be-
+tween the second and third were not. Similar to private
+households, it was also the case that companies with
+more ﬂood experience were affected by higher water
+levels. Thus, the potentially positive effects of more
+experience are counteracted by the negative effects of
+higher hazard magnitudes.
+For this sample, regression analysis revealed no sig-
+niﬁcant relationship between experience and resilience
+(see Table 7). It was mainly the companies’ size that had
+an effect on their resilience.
+5. Discussion
+The three different surveys revealed that there is a
+strong positive correlation between ﬂood experience
+and adaptation among all samples: households and
+companies that had experienced repeated ﬂooding prior
+to 2013 were more likely to invest in adaptation actions
+and were also more capable of mitigating damage during
+the 2013 ﬂood (also by taking emergency actions)
+compared to respondents with less or no previous ﬂood
+experience. Our ﬁndings thus conﬁrm previous research
+on ﬂood experience and adaptation, both for affected
+households and companies.
+Based on our empirical data and the analyses we
+conducted, it is difﬁcult to judge whether increased ad-
+aptation also leads to greater resilience of households
+and companies. Our ﬁndings rather underline that
+resilience is inﬂuenced by many characteristics.
+Prior ﬂood experience shapes the resilience of
+households and companies. Generally speaking, be-
+tween households’ ﬁrst and second experienced ﬂood,
+an increase in resilience can be detected. When 2013 was
+experienced as the second, the ability to withstand
+FIG. 5. Consequences for companies (ﬁnancial damage and
+business interruption).
+TABLE 7. Summary results of regression analysis—adaptation of
+companies. Note: * p , 0.05; ** p , 0.01.
+Dependent variables Size Tenure Sector
+Spatial
+situation
+Sum
+ﬂood
+Sample 3 companies
+Fd do building 1**
+Fd to equipment 1** 2**
+Fd to goods and stocks 1* 2** 2*
+Fd due to business
+interruption
+1**
+Business interruption
+in days
+76 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 15]]
+ﬁnancial damage was higher, as well as the ability to
+withstand damage to immobile and mobile objects.
+Furthermore, the ability to withstand negative psycho-
+logical and health-related consequences increased or
+remained on a similar level. We attribute the difference
+between the ﬁrst and the second ﬂood to a learning ef-
+fect that results in an increased capacity to act upon and
+to cope with the consequences of ﬂooding.
+When households experienced the 2013 ﬂood as their
+third ﬂood, their ability to withstand damage to immo-
+bile objects decreased compared to the second ﬂood.
+Experiencing a third ﬂood seemed to act as a tipping
+point; a preliminary ﬁnding that needs further explora-
+tion in future research. There are different reasons for
+this nonlinear, U-shaped pattern. While damage to the
+building correlated positively with both water depth and
+duration of ﬂooding (see Table A3), the results also in-
+dicated that respondents with more ﬂood experience
+were affected by higher water levels, although they still
+reported lower damage. This suggests that the observed
+pattern for ﬁnancial damage with regard to ﬂood expe-
+rience cannot simply be explained by ﬂood characteris-
+tics. Even if somewhat speculative, the reported higher
+damage for the third ﬂood might also be a result of
+learning effects among respondents of how to account
+for ﬁnancial damage. This could therefore represent a
+reporting bias due to a more realistic assessment of the
+ﬁnancial damage compared to households with less
+ﬂood experience.
+When households experienced the 2013 ﬂood as their
+third ﬂood, their ability to withstand negative psycho-
+logical and health-related consequences also decreased.
+While sample 2 households show a similar U-shape
+pattern as the ﬁnancial damage, the ﬁndings of sample
+1 households reveal an exponential relationship. There
+is evidence that households’ capacity to cope with a
+ﬂood event emotionally and healthwise is undermined,
+if respondents have experienced their third ﬂood. It also
+took households longer to recover and their situation
+was worse or considerably worse compared to before the
+ﬂood (sample 1 households). In our interpretation this
+supports the assumption that experiencing three ﬂoods
+within a relatively short time span can be understood
+as a chronically distressing situation that results in a
+deterioration of human well-being and thus undermines
+the resilience of households (see also research on
+learned helplessness for similar results; Seligman and
+Peterson 2001).
+If households experienced their third ﬂood, their
+ability to withstand damage to mobile objects increased.
+Such objects can be moved without great effort and
+residents report lower losses with each ﬂood event ex-
+perienced. Another ﬁnding of sample 2 households points
+in a similar direction, revealing that respondents who
+experienced the 2013 ﬂood as their third ﬂood, required
+signiﬁcantly less time on average to restore their buildings
+compared to respondents who were affected for the ﬁrst
+or second time. With each ﬂood event experienced,
+households develop certain ﬂood-related capacities that
+help them to reduce damage and restore buildings and
+interiors quicker than for previous ﬂoods. However, the
+result might also indicate that households simply had less
+mobile objects that were exposed to the risk of ﬂooding.
+This, however, is difﬁcult to capture in a survey.
+Companies’ ability to withstand direct ﬁnancial losses
+increases when they experience multiple ﬂood events,
+particularly with regard to mobile goods and equipment.
+However, the negative consequences of business in-
+terruption increase with ﬂood experience. This indicates
+that companies are able to reduce damage to their ma-
+terial assets, but they have difﬁculties to recover from
+the ﬂood event and to return to the same state of busi-
+ness that they were in before the ﬂood occurred.
+With regard to losses of valuable objects, ﬁndings for
+companies were quite similar to the households’ results.
+Furthermore, companies seem to build up experience-
+based capacities with each ﬂood event, reducing the
+vulnerability of mobile equipment and goods. Again, bi-
+variate correlation analysis with respect to sample 3
+companies also supports this relationship as companies
+with multiple ﬂood experiences have signiﬁcantly taken
+adaptation and emergency actions more often. However,
+such companies also experienced higher damage, which
+might have been even higher without adaptation, point-
+ing again to the contingent relationship between adap-
+tation and resilience. Whether this ﬁnding also holds for
+medium-size or large companies still needs to be tested.
+Implications for future research
+Based on our ﬁndings, we ﬁrst suggest that there is a
+need to establish more systematic and evidence-based,
+resilience-related baselines against which the various in-
+terventions of local, regional, and national initiatives or
+the implementation of private (i.e., at the property level)
+or public adaptation measures can be evaluated
+(Weichselgartner and Kelman 2015 ). In many coun-
+tries private actors are asked to take on greater re-
+sponsibility in ﬂood risk management and more generally in
+terms of climate adaptation, by reducing their individual
+risks through their own adaptation actions ( Begg et al.
+2015). It is usually assumed that such actions have positive
+effects (Begg et al. 2017). While our ﬁndings support such
+effects, particularly with re gard to mobile objects (e.g.,
+furniture, cars, and sentimental objects), such simple re-
+lationships are harder to detect with regard to building
+damage, but also with regard toperceived psychological and
+JANUARY 2020 K U H L I C K E E T A L . 77
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 16]]
+TABLE A1. Correlations (Corr) sample 1 households. Note: * p , 0.05; ** p , 0.01. Signiﬁcant correlations are in bold.
+Spearman Adaptation and emergency actions Resilience Sociodemographic
+v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 v11 v12 v13 v14 v15 v16 v17 v18
+v1: Number of ﬂoods
+experienced
+Corr 0.200** 0.188** 0.176** 0.130** 20.089** 20.077 20.036 0.132** 0.090* 0.026 20.185** 20.278** 20.009 0.103** 0.157** 0.003 0.077*
+N 873 873 815 858 840 601 880 670 722 737 510 488 852 822 889 859 894
+Adaptation and
+emergency actions
+V2: Adaptation actions Corr 0.197** 0.452** 0.201** 0.149** 20.252** 20.046 0.019 0.193** 0.076* 0.080* 20.046 20.064 0.070* 0.072* 0.069* 0.219** 20.092**
+N 873 873 795 833 819 586 854 653 704 721 501 478 830 803 860 831 865
+V3: Constructional
+adaptation actions
+Corr 0.180** 0.452** 0.166** 0.084* 20.157** 0.008 0.077* 0.144** 0.079* 0.135** 20.028 20.078 0.045 0.117** 0.047 0.302** 20.193**
+N 873 873 795 833 819 586 854 653 704 721 501 478 830 803 860 831 865
+V4: Insurance Corr 0.189** 0.201** 0.166** 0.091* 20.147** 0.201** 20.028 0.130** 0.130** 0.059 20.111* 20.097* 0.068 20.001 0.159** 0.349** 20.223**
+N 815 795 795 782 763 548 802 610 655 669 465 446 775 745 804 776 808
+V5: Emergency
+actions during
+2013 ﬂood
+Corr 0.133** 0.149** 0.084* 0.091* 20.123** 20.085* 20.046 0.016 20.014 20.023 20.155** 20.186** 20.052 20.070* 0.000 0.095** 20.027
+N 858 833 833 782 803 580 841 642 693 706 489 467 814 786 847 817 851
+V6: Informed about
+ﬂood risk
+Corr 0.139** 0.052 0.105** 0.064
+20.062 20.033 20.095* 20.049 20.103** 20.008 20.019 20.080* 20.117** 20.124** 20.187** 0.049
+N 840 819 819 763 803 567 821 629 677 691 485 467 799 776 828 803 832
+Resilience V7: Financial
+damages
+Corr 20.084* ,051 0.148** 0.200** 0.044 0.016 0.376** 0.209** 0.210** 0.396** 0.261** 0.272** 0.357** 0.248** 20.021 0.294** 20.229**
+N 601 586 586 548 580 567 594 502 516 556 408 395 585 569 592 571 594
+V8: Degree of overall
+perceived Impact
+Corr 20.049 0.078* 0.105** 0.051 0.039 20.038 0.618** 0.472** 0.419** 0.668** 0.468** 0.453** 0.547** 0.303** 0.046 0.204** 20.139**
+N 880 854 854 802 841 821 594 657 708 725 502 481 835 806 867 837 872
+V9: Perceived physical
+and health effects
+Corr 0.122** 0.193** 0.145** 0.129** 20.017 20.032 0.398** 0.542** 0.685** 0.458** 0.402** 0.378** 0.399** 0.334** 0.081* 0.254** 20.201**
+N 670 653 653 610 642 629 502 657 632 623 474 457 657 634 661 638 663
+V10: Perceived
+mental effects
+Corr 0.082* 0.071 0.073 0.125** 0.013 20.013 0.391** 0.493** 0.687** 0.433** 0.420** 0.419** 0.362** 0.338** 0.046 0.243** 20.209**
+N 722 704 704 655 693 677 516 708 632 651 487 467 707 684 713 692 717
+V11: Perceived damage to
+the house/ﬂats/outbuildings
+Corr 0.010 0.073 0.123** 0.070 0.030 20.009 0.633** 0.716** 0.453** 0.436** 0.514** 0.513** 0.598** 0.370** 0.080* 0.276** 20.118**
+N 737 721 721 669 706 691 556 725 623 651 495 472 723 699 725 699 729
+V12: Perceived loss
+of valuables materials
+(car, jewelry, etc.)
+Corr 20.201** 2
+0.046 20.018 20.107* 0.153** 20.025 0.352** 0.569** 0.401** 0.423** 0.531** 0.699** 0.434** 0.340** 0.065 0.109* 20.096*
+N 510 501 501 465 489 485 408 502 474 487 495 446 501 488 504 488 507
+V13: Perceived loss
+of sentimental objects
+(photos, souvenirs, etc.)
+Corr 20.291** 20.060 20.070 20.084 0.175** 20.065 0.382** 0.529** 0.380** 0.419** 0.537** 0.702** 0.445** 0.322** 0.083 0.169** 20.159**
+N 488 478 478 446 467 467 395 481 457 467 472 446 480 466 483 465 483
+V14: Duration to recover Corr 0.018 0.079* 0.036 0.062 0.019 20.032 0.573** 0.588** 0.427** 0.396** 0.603** 0.451** 0.427** 0.402** 0.080* 0.228** 20.120**
+N 852 830 830 775 814 799 585 835 657 707 723 501 480 805 839 812 844
+V15: Change of household
+situation after ﬂood
+Corr 20.091** 20.071* 20.102** ,008 2,067 2,062 20.265** 2.0350** 20.325** 20.327** 20.373** 20.351** 20.324** 20.467** 0.076* 0.140** 20.023
+N 822 803 803 745 786 776 569 806 634 684 699 488 466 805 810 783 814
+Sociodemographic V16: Age of respondent Corr 0.160** 0.065 0.054 0.148** 20.002 20.058 20.026 0.024 0.071 0.030 .091* 0.053 0.080 .070* 2.080* 0.166** 20.054
+N 889 860 860 804 847 828 592 867 661 713 725 504 483 839 810 852 885
+V17:Tenure Corr 2
+0.003 0.219** 0.302** 0.349** 20.095** 0.013 0.531** 0.266** 0.253** 0.236** 0.273** 0.119** 0.174** 0.224** 20.129** 0.160** 20.513**
+N 859 831 831 776 817 803 571 837 638 692 699 488 465 812 783 852 857
+V18: House type Corr 0.083* 20.084* 20.183** 20.221** 0.028 0.076* 20.348** 20.229** 20.202** 20.206** 20.128** 20.102* 20.164** 20.104** 0.015 20.046 20.505**
+N 894 865 865 808 851 832 594 872 663 717 729 507 483 844 814 885 857
+78 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 17]]
+TABLE A2. Correlations (Corr) sample 2 households. Note: * p , 0.05; ** p , 0.01. Signiﬁcant correlations are in bold.
+Adaptation actions Resilience Sociodemographic Flood char.
+Spearman V1 V2 V3 V4 V5 V6 V7 V8 V9 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 V21
+V1: Sum of
+experienced
+ﬂoods
+Corr
+N
+Adaptation and
+emergency
+actions
+V2: Adaptation
+actions
+Corr 0.093**
+N 1421
+V3: Constructional
+adaptation actions
+Corr 0.189** 0.417**
+N 1414 1414
+V4: Insurance Corr 0.071** 0.358** 0.283**
+N 1383 1383 1380
+V5: Emergency actions
+during 2013 ﬂood
+Corr 0.118** 0.096** 0.140** 0.089**
+N 1431 1419 1412 1382
+V6: Informed
+about ﬂood risk
+Corr 0.160** 0.369** 0.369** 0.235** 0.079**
+N 1386 1386 1382 1366 1386
+Resilience V7: Building damage Corr 20.016 0.014 20.029 0.041 0.057 0.033
+N 848 844 840 828 847 827
+V8: Damage to
+household contents
+Corr 20.070* 0.023 20.010 0.101** 0.097** 20.016 0.573**
+N 846 840 834 826 846 822 547
+V9: Perceived personal
+strain due to
+2013 ﬂood
+Corr 0.051 0.008 0.051 0.091** 0.073* 0.026 0.313** 0.271**
+N 1214 1206 1201 1178 1213 1178 764 741
+V10: Perceived
+building damage
+Corr 20.047 0.015 0.021 0.018 0.027 0.007 0.458** 0.350** 0.389**
+N 1282 1276 1270 1242 1281 1248 835 759 1112
+V11: Perceived damage
+to household
+contents
+Corr 20.150** 20.010 20.064* 0.030 20.008 20.032 0.348** 0.510** 0.320** 0.618**
+N 1147 1139 1132 1111 1145 1114 680 827 997 1046
+V12: Perceived health
+effects
+Corr 20.064 20.072 0.021 20.006 0.004 0.045 0.207** 0.129* 0.336** 0.422** 0.453**
+N 603 598 595 584 603 584 382 364 601 572 510
+V13: Perceived
+stress and other
+psychological stress
+Corr 20.058* 20.023 20.038 0.049 0.063* 20.024 0.225** 0.200** 0.417** 0.358** 0.375** 0.474**
+N 1193 1186 1181 1158 1192 1158 753 732 1189 1091 983 578
+V14: Perceived stress
+other ﬁnancial losses
+Corr 20.137** 20.059 20.107** 0.011 20.023 20.030 0.233** 0.277** 0.281** 0.450** 0.551** 0.532** 0.354**
+N 847 840 836 818 847 824 553 554 777 816 773 464 762
+V15: Perceived loss
+of sentimental objects
+Corr 20.196** 20.072* 20.155** 20.046 20.012 20.081* 0.284** 0.350** 0.323** 0.418** 0.565** 0.570** 0.384** 0.521**
+N 757 752 748 732 757 735 461 541 691 704 717 426 682 582
+Sociodemographic V16: Age Corr 0.100** 20.074** 20.081** 20.005 20.044 20.102** 20.089* 20.101** 0.102** 20.010 20.001 0.033 0.006 20.033 0.005
+N 1328 1318 1314 1285 1326 1285 807 796 1134 1194 1064 545 1113 771 682
+V17: Gender Corr 20.057* 20.005 0.001 0.020 20.008 20.030 0.057 0.041 0.126** 0.102** 0.055 0.064 0.131** 0.090** 0.062 0.002
+N 1433 1421 1414 1383 1431 1386 848 846 1214 1282 1147 603 1193 847 757 1328
+V18: Tenure Corr 20.003 0.141** 0.210** 0.177** 0.130** 0.085** 20.033 0.355** 0.105** 0.122** 0.122** 20.051 0.043 0.087* 0.037
+20.004 20.060*
+N 1433 1421 1414 1383 1431 1386 848 846 1214 1282 1147 603 1193 847 757 1328 1433
+V19: Building type Corr 0.020 20.082** 20.102** 20.103** 20.090** 20.061* 0.095** 20.267** 20.125** 2,117** 20.137** 20.055 20.104** 20.189** 2,077* 0.038 0.009 20.491**
+N 1428 1416 1409 1379 1426 1382 846 845 1210 1277 1142 599 1189 843 754 1324 1428 1428
+Flood
+characteristics
+V20: Water level Corr 0.110** 0.018 0.023 0.019 0.086** 0.055* 0.570** 0.436** 0.223** 0.306** 0.235** 0.138** 0.161** 0.142** 0.153** 20.046 20.024 20.026 0.037
+N 1339 1328 1321 1297 1338 1297 812 809 1139 1203 1079 567 1119 794 713 1248 1339 1339 1335
+V21: Flood duration Corr 20.025 0.010 0.000 0.037 0.042 0.012 0.056 0.053 0.083** 0.032 0.081** 0.056 0.064* 0.140** 0.151** 0.071* 0.105** 0.023 20.123** 20.080**
+N 1330 1318 1311 1288 1328 1289 798 800 1126 1197 1069 558 1106 788 706 1238 1330 1330 1325 1264
+JANUARY 2020 K U H L I C K E E T A L . 79
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 18]]
+TABLE A3. Correlations (Corr) sample 3 companies. Note: * p , 0.05; ** p , 0.01. Signiﬁcant correlations are in bold.
+Adaptation actions Resilience Sociodemographic Flood char.
+Spearman V1 V2 V3 V4 V5 V6 V7 V8 V9 V10 V11 V12 V13 V14 V15 V16 V17 V18 V19 V20 V21
+V1: Sum of
+experienced ﬂoods
+Corr
+N
+Adaptation and
+emergency
+actions
+V2: Adaptation actions Corr 0.093**
+N 1421
+V3: Constructional
+adaptation actions
+Corr 0.189** 0.417**
+N 1414 1414
+V4: Insurance Corr 0.071** 0.358** 0.283**
+N 1383 1383 1380
+V5: Emergency actions
+during 2013 ﬂood
+Corr 0.118** 0.096** 0.140** 0.089**
+N 1431 1419 1412 1382
+V6: Informed
+about ﬂood risk
+Corr 0.160** 0.369** 0.369** 0.235** 0.079**
+N 1386 1386 1382 1366 1386
+Resilience V7: Building damage Corr 20.016 0.014 20.029 0.041 0.057 0.033
+N 848 844 840 828 847 827
+V8: Damage to
+household contents
+Corr 20.070* 0.023 20.010 0.101** 0.097** 20.016 0.573**
+N 846 840 834 826 846 822 547
+V9: Perceived personal
+strain due to
+2013 ﬂood
+Corr 0.051 0.008 0.051 0.091** 0.073* 0.026 0.313** 0.271**
+N 1214 1206 1201 1178 1213 1178 764 741
+V10: Perceived
+building damage
+Corr 20.047 0.015 0.021 0.018 0.027 0.007 0.458** 0.350** 0.389**
+N 1282 1276 1270 1242 1281 1248 835 759 1112
+V11: Perceived damage
+to household contents
+Corr 20.150** 20.010 20.064* 0.030 20.008 20.032 0.348** 0.510** 0.320** 0.618**
+N 1147 1139 1132 1111 1145 1114 680 827 997 1046
+V12: Perceived
+health effects
+Corr 20.064 20.072 0.021 20.006 0.004 0.045 0.207** 0.129* 0.336** 0.422** 0.453**
+N 603 598 595 584 603 584 382 364 601 572 510
+V13: Perceived stress
+and other
+psychological stress
+Corr 20.058* 20.023 20.038 0.049 0.063* 20.024 0.225** 0.200** 0.417** 0.358** 0.375** 0.474**
+N 1193 1186 1181 1158 1192 1158 753 732 1189 1091 983 578
+V14: Perceived stress
+other ﬁnancial losses
+Corr 20.137** 20.059 20.107** 0.011 20.023 20.030 0.233** 0.277** 0.281** 0.450** 0.551** 0.532** 0.354**
+N 847 840 836 818 847 824 553 554 777 816 773 464 762
+V15: Perceived loss
+of sentimental objects
+Corr 20.196** 20.072* 20.155** 20.046 20.012 20.081* 0.284** 0.350** 0.323** 0.418** 0.565** 0.570** 0.384** 0.521**
+N 757 752 748 732 757 735 461 541 691 704 717 426 682 582
+Sociodemographic V16: Age Corr 0.100** 20.074** 20.081** 20.005 20.044 20.102** 20.089* 20.101** 0.102** 20.010 20.001 0.033 0.006 20.033 0.005
+N 1328 1318 1314 1285 1326 1285 807 796 1134 1194 1064 545 1113 771 682
+V17: Gender Corr 20.057* 20.005 0.001 0.020 20.008 20.030 0.057 0.041 0.126** 0.102** 0.055 0.064 0.131** 0.090** 0.062 0.002
+N 1433 1421 1414 1383 1431 1386 848 846 1214 1282 1147 603 1193 847 757 1328
+V18: Tenure Corr 20.003 0.141** 0.210** 0.177** 0.130** 0.085** 20.033 0.355** 0.105** 0.122** 0.122** 20.051 0.043 0.087* 0.037 20.004 2
+0.060*
+N 1433 1421 1414 1383 1431 1386 848 846 1214 1282 1147 603 1193 847 757 1328 1433
+V19: Building type Corr 0.020 20.082** 20.102** 20.103** 20.090** 20.061* 0.095** 20.267** 20.125** 20.117** 20.137** 20.055 20.104** 20.189** 20.077* 0.038 0.009 20.491**
+N 1428 1416 1409 1379 1426 1382 846 845 1210 1277 1142 599 1189 843 754 1324 1428 1428
+Flood characteristics V20: Water level Corr 0.110** 0.018 0.023 0.019 0.086** 0.055* 0.570** 0.436** 0.223** 0.306** 0.235** 0.138** 0.161** 0.142** 0.153** 20.046 20.024 20.026 0.037
+N 1339 1328 1321 1297 1338 1297 812 809 1139 1203 1079 567 1119 794 713 1248 1339 1339 1335
+V21: Flood duration Corr 20.025 0.010 0.000 0.037 0.042 0.012 0.056 0.053 0.083** 0.032 0.081** 0.056 0.064* 0.140** 0.151** 0.071* 0.105** 0.023 20.123** 20.080**
+N 1330 1318 1311 1288 1328 1289 798 800 1126 1197 1069 558 1106 788 706 1238 1330 1330 1325 1264
+80 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 19]]
+health-related consequences. Therefore, the establishment
+of evidence-based resilience baselines is needed in order to
+understand whether the redistribution of responsibility to
+the individual level would have the desired effects (i.e., an
+increase in individual resilience) or whether the capacity of
+individuals is limited to increase their resilience.
+Second, our ﬁndings suggest that greater efforts
+should be undertaken to better understand the re-
+lationship between adaptation and resilience. Previous
+research has often focused on the factors that shape
+people’s motivation to invest in property-level adapta-
+tion measures. The implementation of adaptation mea-
+sures is usually equated to an increase in households’ or
+companies’ resilience. Our ﬁndings at least question this
+simple, linear relationship (correlation) and hint at a
+positive, but by far more complicated and nonlinear
+relation. The reasons for this are manifold. Property-
+level adaptation measures often have a design level that
+might be overtopped by a ﬂood and to be effective
+they need to be properly in place before premises are
+ﬂooded; if homeowners (or employees) are not available
+or not capable of installing the measure in time, then the
+measure cannot fulﬁll its full potential. In addition, the
+effects of adaptation measures to reduce nonmonetary
+consequences are probably not as signiﬁcant as one
+would expect. However, in order to better understand
+these effects more research is required to assess the re-
+lation between adaptation/emergency actions and re-
+silience in a more systematic manner.
+Third, more research is needed on the framing effects
+and how they shape respondents’ answers in survey-
+based research. We attribute some of the differences in
+our ﬁndings, particularly with regard to health-related
+and psychological consequences, but also with respect to
+the greater perceived severity of the third ﬂood event,
+to the way we addressed households’ ﬂood experience in
+the survey. While sample 2 households focused on the
+2013 ﬂood and addressed prior ﬂood experience just as a
+lumped variable, sample 1 households focused on all
+ﬂoods experienced since 2002. Respondents were asked
+to report detailed about the consequences of each ﬂood
+event they experience chronologically. This means that
+TABLE A4. Linear and logistic regressions of adaptive and emergency actions sample 1 households. DV: dependent variable. Note:
+* p , 0.05; ** p , 0.01.
+Model B Wald Cox and Snell R2 Nagelkerkes R2
+1 DV: Adaptation actions 0.068 0.115
+Age 20.001 0.029
+Tenure 0.916** 22.931
+Building—single 0.030 0.013
+Building—semidetached 0.258 0.593
+Building—apartment 20.051 0.038
+Sum of ﬂood experience 0.601** 30.151
+2 DV: Constructional adaptation actions 0.141 0.233
+Age 20.003 0.150
+Tenure 2.214** 31.955
+Building—single 0.226 0.545
+Building—semidetached 0.439 1.135
+Building—apartment 20.309 0.807
+Sum of ﬂood experience 0.744** 27.695
+3 DV: Insurance 0.158 0.211
+Age 0.006 1.419
+Tenure 1.138** 30.968
+Building—single 0.020 0.005
+Building—semidetached 20.657 3.533
+Building—apartment 20.659 5.744
+Sum of ﬂood experience 0.514** 19.552
+Model BT R
+2 Adjusted R2
+4 DV: Sum of emergency measures
+during 2013 ﬂood
+0.128 0.122
+Age 20.023** 25.947
+Tenure 0.828** 5.691
+Building—single 20.404 22.100
+Building—semidetached 20.435 21.719
+Building—apartment 20.324 21.672
+Sum of ﬂood experience 0.583** 7.203
+J
+ANUARY 2020 K U H L I C K E E T A L . 81
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 20]]
+if the 2013 ﬂood was experienced as the third ﬂood event
+by households, then they had to answer several ques-
+tions about previous ﬂoods before turning their atten-
+tion to the 2013 ﬂood. In this sense, sample 1 households
+primed the cumulative ﬂood experience of house-
+holds. Although our results hint at possible priming ef-
+fects, more experimental research is needed to better
+understand how the framing/cognitive processing of
+TABLE A5. Regressions of adaptive and emergency actions sample 2 households. Note: * p , 0.05; ** p , 0.01.
+Model BT R 2 Adjusted R2
+1 DV: Adaptation actions 0.027 0.024
+Tenure 0.053** 4.411
+Age 20.001* 22.509
+Building 0.001 0.096
+Sum ﬂood experience 0.012* 2.001
+2 DV: Constructional adaptation actions 0.087 0.084
+Tenure 0.142** 7.232
+Age 20.004** 23.884
+Building 0.009 0.517
+Sum ﬂood experience 0.067** 6.750
+3 DV: Insurance 0.034 0.031
+Tenure 0.111** 5.264
+Age 0.000 0.037
+Building 20.012 20.622
+Sum ﬂood experience 0.011 1.043
+4 DV: Emergency actions during 2013 ﬂood 0.036 0.033
+Tenure 0.041** 4.062
+Age 20.001* 21.981
+Building 20.012 21.273
+Sum ﬂood experience 0.018** 3.649
+TABLE A6. Linear and logistic regressions of adaptive and emergency actions sample 3 companies. Note: * p , 0.05; ** p , 0.01.
+Model BT R 2 Adjusted R2
+1 DV: Adaptation actions 0.126 0.111
+Sum of ﬂood experience 0.221** 2.906
+Size 0.013 0.323
+Sector 20.221* 22.147
+Spatial situation 20.091 20.747
+Ownership 0.803** 3.378
+2 DV: Constructional adaptation actions 0.063 0.048
+Sum of ﬂood experience 0.057* 1.845
+Size 0.004 0.229
+Sector 20.065 21.546
+Spatial situation 20.077 21.537
+Ownership 0.137 1.401
+3 DV: Number of emergency measures 0.080 0.056
+Sum of ﬂood experience 20.164 21.945
+Size 0.031 0.682
+Sector 20.102 20.831
+Spatial situation 20.424** 0.3.040
+Ownership 20.352 21.359
+Model Wald Z Cox and Snell R
+2 Nagelkerkes R2
+4 DV: Insurance 0.029 0.041
+Sum of ﬂood experience 20.006 20.071
+Size 20.004 20.074
+Sector 20.112 20.901
+Spatial situation 20.063 20.427
+Ownership 0.603* 2.104
+82 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 21]]
+TABLE A7. Regressions of resilience sample 1 households. Note: * p , 0.05; ** p , 0.01.
+Model BT R 2 Adjusted R2
+1 DV: Financial damage 0.34 0.33
+Age 20.002 20.790
+Tenure 0.815 9.774
+Building—single 0.174 1.654
+Building—semidetached 0.127 0.984
+Building—apartment 20.243 22.262
+Sum of ﬂood experience 21.117** 24.227
+Sum of ﬂood experience
+2 0.264** 3.874
+Constructional adaptation actions 20.028 20.339
+2 DV: Perceived overall consequences 0.14 0.13
+Age 0.001 0.348
+Tenure 0.573 4.078
+Building—single 0.064 0.343
+Building—semidetached 0.648 2.709
+Building—apartment 20.326 21.752
+Sum of ﬂood experience 22.029** 24.521
+Sum of ﬂood experience
+2 0.524** 4.553
+Constructional adaptation actions 20.017 20.114
+3 DV: Perceived damage to house/ﬂat 0.11 0.10
+Age 0.005 1.273
+Tenure 0.728** 5.318
+Building—single 20.119 20.668
+Building—semidetached 0.090 0.404
+Building—apartment 20.124 20.694
+Sum of ﬂood experience 21.747** 24.033
+Sum of ﬂood experience
+2 0.458** 4.116
+Constructional adaptation actions 0.152 1.069
+4 DV: Perceived health-related consequences 0.11 0.10
+Age 0.004 0.904
+Tenure 0.441 2.873
+Building—single 0.156 0.801
+Building—semidetached 20.158 20.643
+Building—apartment 20.424* 22.150
+Sum of ﬂood experience 21.022* 22.131
+Sum of ﬂood experience
+2 0.032** 2.686
+Constructional adaptation actions 0.032 0.205
+5 DV: Perceived stress-related consequences 0.09 0.07
+Age 0.001 0.162
+Tenure** 0.471 3.286
+Building—single 0.078 0.418
+Building—semidetached 20.108 20.446
+Building—apartment 20.450* 22.401
+Sum of ﬂood experience 20.303 20.674
+Sum of ﬂood experience
+2 0.121 1.051
+Constructional adaptation actions 20.172 21.137
+6 DV: Perceived loss of material objects 0.07 0.06
+Age 0.008 1.722
+Tenure 0.283 1.619
+Building—single 0.074 0.331
+Building—semidetached 0.259 0.956
+Building—apartment 20.020 20.087
+Sum of ﬂood experience 22.074** 23.687
+Sum of ﬂood experience
+2 0.461** 3.151
+Constructional adaptation actions 20.138 20.767
+7 DV: Perceived loss of sentimental objects 0.16 0.15
+Age 0.012* 2.378
+Tenure 0.437* 2.194
+Building—single 0.364 1.484
+Building—semidetached 0.440 1.454
+Building—apartment 0.034 0.134
+Sum of ﬂood experience 23.081** 24.863
+Sum of ﬂood experience
+2 0.658** 3.963
+Constructional adaptation actions 20.489* 22.369
+8 DV: Duration to recover 0.08 0.07
+Age 0.004 1.234
+Tenure 0.687** 4.848
+Building—single 20.176 20.925
+Building—semidetached 0.066 0.273
+Building—apartment 20.235 21.244
+Sum of ﬂood experience 21.684** 23.785
+Sum of ﬂood experience
+2 0.459** 4.021
+Constructional adaptation actions 20.276 21.832
+JANUARY 2020 K U H L I C K E E T A L . 83
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 22]]
+TABLE A8. Regressions of resilience sample 2 households. Note: * p , 0.05; ** p , 0.01.
+Model BT R 2 Adjusted R2
+1 DV: Log. ﬁnancial damage to building 0.019 0.012
+Sum of ﬂood experience 0.023 0.197
+Sum of ﬂood experience 2 20.015 20.552
+Age 20.009* 22.114
+Tenure 0.015 0.073
+Building type 0.216** 2.814
+Constructional adaptation action 20.162 21.305
+2 DV: Log. Financial damage to household content 0.180 0.174
+Sum of ﬂood experience 20.078 20.707
+Sum of ﬂood experience 2 0.016 0.624
+Age 20.011** 22.819
+Tenure 0.655** 8.287
+Building type 20.252** 23.369
+Constructional adaptation action 20.346** 23.046
+3 DV: Perceived personal strain due to 2013 ﬂood 0.039 0.034
+Sum of ﬂood experience 0.200 1.815
+Sum of ﬂood experience
+2 20.037 21.494
+Age 0.015** 3.912
+Tenure 0.137 1.648
+Building type 20.220** 23.022
+Constructional adaptation action 0.136 1.200
+4 DV: Perceived damage to building 0.022 0.017
+Sum of ﬂood experience 20.072 20.751
+Sum of ﬂood experience
+2 0.011 0.493
+Age 0.001 0.179
+Tenure 0.184* 2.375
+Building type 20.171** 22.660
+Constructional adaptation action 0.024 0.236
+5 DV: Perceived damage to household contents 0.046 0.041
+Sum of ﬂood experience 20.323** 22.912
+Sum of ﬂood experience
+2 0.043 1.681
+Age 0.002 0.586
+Tenure 0.151 1.869
+Building type 20.224** 22.968
+Constructional adaptation action 20.290* 22.510
+6 DV: Perceived health-related consequences 0.025 0.014
+Sum of ﬂood experience 20.251 21.398
+Sum of ﬂood experience
+2 0.042 1.091
+Age 0.009 1.472
+Tenure 20.412** 22.972
+Building type 20.273* 22.319
+Constructional adaptation action 0.172 0.922
+7 DV: Perceived stress-related consequences 0.017 0.011
+Sum of ﬂood experience 20.132 21.308
+Sum of ﬂood experience 2 0.022 0.956
+Age 0.000 0.039
+Tenure 0.014 0.185
+Building type 20.213** 23.163
+Constructional adaptation action 20.139 21.319
+8 DV: Loss of sentimental objects 0.058 0.050
+Sum of ﬂood experience 20.473** 22.961
+Sum of ﬂood experience 2 0.069 1.918
+Age 0.005 0.934
+Tenure 20.005 20.046
+Building type 20.183 21.687
+Constructional adaptation action 20.620** 23.773
+84 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 23]]
+previous ﬂood events (in surveys) translates into ap-
+praisals of these events. For example, experimental
+designs that manipulate respondents’ processing of ﬂood-
+related information (i.e., the time given to think about
+previous ﬂood events or the number of questions asked
+about previous events) may provide an opportunity to
+investigate such framing effects more systematically.
+Finally, more comparative research is needed. Com-
+paring case studies in order to generate converging evi-
+dence or discrepancies across the three samples was only
+possible as we shared some of the theoretical constructs.
+We are convinced that more systematic comparisons
+across case studies is necessary, which requires researchers
+to agree upon, share, and apply some basic theoretical
+constructs and their operationalization across different case
+studies. Future research, however, might also use modera-
+tor analysis (as a part of meta-analysis) to investigate pos-
+sible boundary conditions of (our) research ﬁndings.
+6. Summary and conclusions
+The key question addressed in this paper was whether
+the resilience of households and companies increases or
+decreases as a consequence of multiple ﬂood experi-
+ences and how this is inﬂuenced by respondents’ emer-
+gency and adaptation actions. Our analysis shows robust
+TABLE A9. Regressions of resilience sample 3 companies. Note: * p , 0.05; ** p , 0.01.
+Model BT R 2 Adjusted R2
+1 DV: Financial damage to building 0.099 0.057
+Sum of ﬂood experience 20.014 20.039
+Sum of ﬂood experience 2 20.001 20.027
+Size 0.181** 3.371
+Sector 20.067 20.487
+Spatial situation 20.155 21.025
+Ownership 20.299 21.007
+General adaptation action 0.015 0.221
+2 DV: Financial damage to equipment 0.137 0.099
+Sum of ﬂood experience 20.182 20.528
+Sum of ﬂood experience
+2 20.000 20.013
+Size 0.157** 3.532
+Sector 20.283* 22.361
+Spatial situation 0.095 0.672
+Ownership 0.313 1.121
+General adaptation action 0.039 0.604
+3 DV: Financial damage to goods and stocks 0.195 0.146
+Sum of ﬂood experience 0.135 0.380
+Sum of ﬂood experience
+2 20.040 20.757
+Size 0.117* 2.378
+Sector 20.288* 22.209
+Spatial situation 20.388* 22.550
+Ownership 20.443 21.455
+General adaptation action 0.096 1.478
+4 DV: Financial damages due to business interruption 0.183 0.152
+Sum of ﬂood experience 0.270 0.956
+Sum of ﬂood experience
+2 20.028 20.654
+Size 0.208** 5.400
+Sector 20.100 21.003
+Spatial situation 20.122 21.057
+Ownership 20.406 21.782
+General adaptation action 0.031 0.594
+5 DV: Business interruption in days 0.058 0.022
+Sum of ﬂood experience 19.026 1.050
+Sum of ﬂood experience 2 21.597 20.582
+Size 22.365 20.960
+Sector 26.167 20.971
+Spatial situation 10.387 1.401
+Ownership 26.738 20.460
+General adaptation action 3.390 1.015
+J
+ANUARY 2020 K U H L I C K E E T A L . 85
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 24]]
+evidence for a positive relationship between ﬂood ex-
+perience and the adoption of adaptation and emergency
+measures across all three samples. The relationship
+between ﬂood experience and resilience is not as
+straightforward: The effect of multiple ﬂood experiences
+depends upon the aspects of resilience that one is fo-
+cusing on (i.e., ﬁnancial losses, the subjective perception
+of such losses or perceived psychological and health-
+related impacts) as well as on the number of ﬂoods ex-
+perienced. While our ﬁndings suggest that the resilience
+of households increases from the ﬁrst to the second
+ﬂood, the third ﬂood event seems to be a tipping point:
+households’ ability to withstand damage to immobile
+objects decreases as does their ability to withstand negative
+psychological and health-related consequences. Our ﬁnd-
+ings furthermore suggest in this respect that multiple ﬂood
+experiences are a burden for affected households. Simi-
+larly, companies’ resilience in terms of their ability to
+withstand direct ﬁnancial losses increases when they have
+experienced multiple ﬂood events, particularly with regard
+to mobile goods and equipment. However, companies also
+have some difﬁculties recovering from the ﬂood event and
+reassuming their preﬂood state of business if they have
+experienced multiple ﬂood events. However, there are
+clear differences between samples that cannot easily be
+explained by the data.
+We therefore conclude that while it is relevant and
+politically desirable to establish evidence-based resil-
+ience baselines for households and companies, it seems
+equally relevant to be more consistent when deﬁning
+and operationalizing resilience in quantitative studies
+and to have a better methodological understanding of
+the effects from how ﬂood experience is framed in sur-
+veys as well as how sampling and screening procedures
+affect respondents’ answers. As the results of this study
+indicate, following diverse sets of sampling and framing
+approaches can be very positive, particularly if results
+point to similar patterns, even when they have relied on
+different sampling and framing strategies. However, dif-
+ferences in the results of empirical research also need to be
+better understood and assessed as to whether they can be
+explained by the underlying methodology. If this challenge
+is ignored, there is the risk of both overestimation and
+misrepresentation of the effectiveness of property-level
+adaptation on the resilience of households and companies.
+APPENDIX
+Correlation Tables and Results of the
+Regression Analysis
+The appendix shows the results of the correlation as
+well as of the regression analysis ( Tables A1–A9).
+REFERENCES
+Adger, W. N., 2000: Social and ecological resilience: Are they re-
+lated? Prog. Hum. Geogr., 24, 347–364, https://doi.org/10.1191/
+030913200701540465.
+Ahern, M., R. S. Kovats, P. Wilkinson, R. Few, and F. Matthies,
+2005: Global health impacts of ﬂoods: Epidemiologic evi-
+dence. Epidemiol. Rev. , 27, 36–46, https://doi.org/10.1093/
+epirev/mxi004.
+Alderman, K., L. R. Turner, and S. Tong, 2012: Floods and human
+health: A systematic review. Environ. Int. , 47, 37–47, https://
+doi.org/10.1016/j.envint.2012.06.003.
+Alexander, D. E., 2013: Resilience and disaster risk reduction: An
+etymological journey. Nat. Hazards Earth Syst. Sci. , 13, 2707–
+2716, https://doi.org/10.5194/nhess-13-2707-2013.
+Begg, C., G. Walker, and C. Kuhlicke, 2015: Localism and ﬂood risk
+management in England: The creation of new inequalities?En-
+viron. Plann., 33C, 685–702, https://doi.org/10.1068/c12216.
+——, M. Ueberham, T. Masson, and C. Kuhlicke, 2017: In-
+teractions between citizen responsibilization, ﬂood experience
+and household resilience: Insights from the 2013 ﬂood in
+Germany. Int. J. Water Resour. Dev. , 33, 591–608, https://
+doi.org/10.1080/07900627.2016.1200961.
+Berkes, F., 2007: Understanding uncertainty and reducing vulner-
+ability: Lessons from resilience thinking. Nat. Hazards , 41,
+283–295, https://doi.org/10.1007/s11069-006-9036-7.
+Bonanno, G. A., C. R. Brewin, K. Kaniasty, and A. M. L. Greca,
+2010: Weighing the costs of disaster: Consequences, risks, and
+resilience in individuals, families, and communities. Psy-
+chol. Sci. Public Interest , 11, 1–49, https://doi.org/10.1177/
+1529100610387086 .
+Brand, F. S., and K. Jax, 2007: Focusing the meaning(s) of resil-
+ience: Resilience as a descriptive concept and a boundary
+object.Ecol. Soc., 12,2 3 ,https://doi.org/10.5751/ES-02029-120123.
+Bubeck, P., W. J. W. Botzen, and J. C. J. H. Aerts, 2012a: A review
+of risk perceptions and other factors that inﬂuence ﬂood mit-
+igation behavior. Risk Anal. , 32, 1481–1495, https://doi.org/
+10.1111/j.1539-6924.2011.01783.x.
+——, ——, H. Kreibich, and J. C. J. H. Aerts, 2012b: Long-term
+development and effectiveness of private ﬂood mitigation
+measures: An analysis for the German part of the river Rhine.
+Nat. Hazards Earth Syst. Sci. , 12, 3507–3518, https://doi.org/
+10.5194/nhess-12-3507-2012.
+——, A. Otto, and J. Weichselgartner, 2017: Societal impacts of
+ﬂood hazards. Oxford Research Encyclopedia on Natural
+Hazards Science , Oxford University Press, https://doi.org/
+10.1093/acrefore/9780199389407.013.281.
+Chinh, D. T., P. Bubeck, N. V. Dung, and H. Kreibich, 2016: The
+2011 ﬂood event in the Mekong Delta: Preparedness, re-
+sponse, damage and recovery of private households and small
+businesses. Disasters, 40, 753–778, https://doi.org/10.1111/
+disa.12171.
+Cote, M., and A. J. Nightingale, 2012: Resilience thinking meets
+social theory. Prog. Hum. Geogr., 36, 475–489, https://doi.org/
+10.1177/0309132511425708.
+Cutter, S. L., L. Barnes, M. Berry, C. Burton, E. Evans, E. Tate, and
+J. Webb, 2008: A place-based model for understanding com-
+munity resilience to natural disasters. Global Environ. Change,
+18, 598–606, https://doi.org/10.1016/j.gloenvcha.2008.07.013.
+DKKV, 2003: Hochwasservorsorge in Deutschland—Lernen aus
+der Katastrophe 2002 im Elbegebiet (Flood prevention in
+Germany—Learning from the 2002 catastrophe in the Elbe area).
+Deutsches Komitee für Katastrophenvorsorge e.V., 152 pp.
+86 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 25]]
+——, 2015: Das Hochwasser im Juni 2013: Bew ährungsprobe f ür
+das Hochwasserrisikomanagement in Deutschland (The ﬂood
+in June 2013: A test for ﬂood risk management in Germany).
+DKKV Series 53, 207 pp.
+Fekete, A., G. Hufschmidt, and S. Kruse, 2014: Beneﬁts and
+challenges of resilience and vulnerability for disaster risk
+management. Int. J. Disaster Risk Sci. , 5, 3–20, https://doi.org/
+10.1007/s13753-014-0008-3.
+Felgentreff, C., 2003: Post-disaster situations as ‘‘window of op-
+portunity’’? Post-ﬂood perceptions and changes in the German
+Odra River region after the 1997 ﬂood.Erde, 134, 163–180.
+Fernandez, A., J. Black, M. Jones, L. Wilson, L. Salvador-Carulla,
+T. Astell-Burt, and D. Black, 2015: Flooding and mental
+health: A systematic mapping review. PLOS ONE , 10,
+e0119929, https://doi.org/10.1371/journal.pone.0119929.
+Fisher, L., 2015: Disaster responses: More than 70 ways to show
+resilience. Nature, 518, 35–35, https://doi.org/10.1038/518035a.
+Folke, C., S. Carpenter, T. Elmqvist, L. Gunderson, C. S. Holling,
+and B. Walker, 2002: Resilience and sustainable development:
+Building adaptive capacity in a world of transformations. Am-
+bio, 31, 437–440, https://doi.org/10.1579/0044-7447-31.5.437.
+Gallopín, G. C., 2006: Linkages between vulnerability, resilience,
+and adaptive capacity. Global Environ. Change , 16, 293–303,
+https://doi.org/10.1016/j.gloenvcha.2006.02.004.
+Gotham, K. F., R. Campanella, K. Lauve-Moon, and B. Powers,
+2018: Hazard experience, geophysical vulnerability, and ﬂood
+risk perceptions in a postdisaster city, the case of New Orleans.
+Risk Anal., 38, 345–356, https://doi.org/10.1111/risa.12830.
+Greenberg, M. R., and M. D. Weiner, 2014: Keeping surveys valid,
+reliable, and useful: A tutorial. Risk Anal. , 34, 1362–1375,
+https://doi.org/10.1111/risa.12250.
+Grimm, V., and C. Wissel, 1997: Babel, or the ecological stability
+discussions: An inventory and analysis of terminology and a
+guide for avoiding confusion. Oecologia, 109, 323–334, https://
+doi.org/10.1007/s004420050090.
+Grothmann, T., and F. Reusswig, 2006: People at risk of ﬂooding:
+Why some residents take precautionary action while others do
+not. Nat. Hazards, 38, 101–120, https://doi.org/10.1007/s11069-
+005-8604-6.
+Hirabayashi, Y., R. Mahendran, S. Koirala, L. Konoshima,
+D. Yamazaki, S. Watanabe, H. Kim, and S. Kanae, 2013:
+Global ﬂood risk under climate change.
+Nat. Climate Change,
+3, 816–821, https://doi.org/10.1038/nclimate1911.
+Holling, C. S., 1973: Resilience and stability of ecological systems.
+Annu. Rev. Ecol. Syst. , 4, 1–23, https://doi.org/10.1146/
+annurev.es.04.110173.000245.
+Hudson, P., W. J. W. Botzen, J. K. Poussin, and J. C. J. H. Aerts,
+2019: The impacts of ﬂooding and ﬂood preparedness on
+subjective well-being: A monetisation of the tangible and in-
+tangible impacts. J Happiness Stud. , 20, 665–682, https://
+doi.org/10.1007/s10902-017-9916-4.
+Hutter, G., C. Kuhlicke, T. Glade, and C. Felgentreff, 2013: Natural
+hazards and resilience: Exploring institutional and organiza-
+tional dimensions of social resilience. Nat. Hazards , 67, 1–6,
+https://doi.org/10.1007/s11069-011-9901-x.
+Jones, L., and T. Tanner, 2017: ‘Subjective resilience’: Using per-
+ceptions to quantify household resilience to climate extremes
+and disasters. Reg. Environ. Change , 17, 229–243, https://
+doi.org/10.1007/s10113-016-0995-2.
+Jongman, B., P. J. Ward, and J. C. J. H. Aerts, 2012: Global ex-
+posure to river and coastal ﬂooding: Long term trends and
+changes. Global Environ. Change, 22, 823–835, https://doi.org/
+10.1016/j.gloenvcha.2012.07.004.
+Joseph, R., D. Proverbs, and J. Lamond, 2015: Assessing the value
+of intangible beneﬁts of property level ﬂood risk adaptation
+(PLFRA) measures. Nat. Hazards , 79, 1275–1297, https://
+doi.org/10.1007/s11069-015-1905-5.
+Kates, R. W., 1962: Hazard and choice perception in ﬂood
+plain management. Department of Geography, University of
+Chicago Research Paper 78, 157 pp.
+K i e n z l e r ,S . ,I .P e c h ,H .K r e i b i c h ,M .Müller, and A. H. Thieken,
+2015: After the extreme ﬂood in 2002: Changes in pre-
+paredness, response and recovery of ﬂood-affected residents in
+Germany between 2005 and 2011.Nat. Hazards Earth Syst. Sci.,
+15, 505–526, https://doi.org/10.5194/nhess-15-505-2015.
+Klein, O., L. Licata, and S. Pierucci, 2011: Does group identiﬁca-
+tion facilitate or prevent collective guilt about past misdeeds?
+Resolving the paradox. Br. J. Soc. Psychol. , 50, 563–572,
+https://doi.org/10.1111/j.2044-8309.2011.02028.x.
+Kreibich, H., and A. H. Thieken, 2009: Coping with ﬂoods in the
+city of Dresden, Germany. Nat. Hazards, 51, 423–436, https://
+doi.org/10.1007/s11069-007-9200-8.
+——, ——, T. Petrow, M. M üller, and B. Merz, 2005: Flood loss
+reduction of private households due to building precautionary
+measures—Lessons learned from the Elbe ﬂood in August
+2002. Nat. Hazards Earth Syst. Sci.
+, 5, 117–126, https://doi.org/
+10.5194/nhess-5-117-2005.
+——, M. M üller, A. H. Thieken, and B. Merz, 2007: Flood pre-
+caution of companies and their ability to cope with the ﬂood in
+August 2002 in Saxony, Germany. Water Resour. Res. , 43,
+W03408, https://doi.org/10.1029/2005WR004691.
+——, I. Seifert, A. H. Thieken, E. Lindquist, K. Wagner, and
+B. Merz, 2011: Recent changes in ﬂood preparedness of pri-
+vate households and businesses in Germany. Reg. Environ.
+Change, 11, 59–71, https://doi.org/10.1007/s10113-010-0119-3.
+——, and Coauthors, 2014: Costing natural hazards. Nat. Climate
+Change, 4, 303, https://doi.org/10.1038/nclimate2182.
+——, P. Bubeck, M. Van Vliet, and H. De Moel, 2015: A review of
+damage-reducing measures to manage ﬂuvial ﬂood risks in a
+changing climate. Mitig. Adapt. Strategies Global Change , 20,
+967–989, https://doi.org/10.1007/s11027-014-9629-5.
+——, and Coauthors, 2017: Adaptation to ﬂood risk: Results of
+international paired ﬂood event studies. Earth’s Future , 5,
+953–965, https://doi.org/10.1002/2017EF000606.
+Kuhlicke, C., 2010: The dynamics of vulnerability: Some pre-
+liminary thoughts about the occurrence of ‘radical sur-
+prises’ and a case study on the 2002 ﬂood (Germany). Nat.
+Hazards , 55, 671–688, https://doi.org/10.1007/s11069-010-
+9645-z .
+——, 2013: Resilience: A capacity and a myth: Findings from an in-
+depth case study in disaster management research. Nat. Haz-
+ards, 67, 61–76, https://doi.org/10.1007/s11069-010-9646-y.
+——, 2015: Vulnerability, ignorance and the experience of radical
+surprises. Routledge International Handbook of Ignorance
+Studies, M. Gro ß and L. McGoey, Eds., Routledge, 239–246.
+——, 2019: Risk and resilience in the management and governance
+of natural hazards. Oxford Research Encyclopedia on Natural
+Hazards Science , Oxford University Press, https://doi.org/
+10.1093/acrefore/9780199389407.013.299.
+——, A. Scolobig, S. Tapsell, A. Steinf ührer, and B. De Marchi,
+2011: Contextualizing social vulnerability: Findings from case
+studies across Europe. Nat. Hazards , 58, 789–810, https://
+doi.org/10.1007/s11069-011-9751-6.
+Kundzewicz, Z. W., and Coauthors, 2014: Flood risk and climate
+change: Global and regional perspectives. Hydrol. Sci. J. , 59,
+1–28, https://doi.org/10.1080/02626667.2013.857411.
+JANUARY 2020 K U H L I C K E E T A L . 87
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC
+
+
+[[PAGE 26]]
+Lamond, J., C. Rose, N. Bhattacharya-Mis, and R. Joseph, 2018:
+Evidence review for property ﬂood resilience phase 2 report.
+Flood Re and UWE Bristol, 60 pp., https://www.ﬂoodre.co.uk/
+wp-content/uploads/UWE-report_Evidence-review-for-PFR_Phase-
+2-report.pdf.
+Lawrence, J., D. Quade, and J. Becker, 2014: Integrating the effects
+of ﬂood experience on risk perception with responses to
+changing climate risk. Nat. Hazards , 74, 1773–1794, https://
+doi.org/10.1007/s11069-014-1288-z.
+Masson, T., and M. Barth, 2019: Solving the paradox—(Further)
+evidence for a quadratic relationship between in-group cen-
+trality and group-based guilt. Br. J. Soc. Psychol., 58, 917–937,
+https://doi.org/10.1111/bjso.12310.
+Meyer, V., and Coauthors, 2013: Review article: Assessing the
+costs of natural hazards—State of the art and knowledge gaps.
+Nat. Hazards Earth Syst. Sci. , 13, 1351–1373, https://doi.org/
+10.5194/nhess-13-1351-2013.
+Miller, J. W., W. R. Stromeyer, and M. A. Schwieterman, 2013:
+Extensions of the Johnson-Neyman technique to linear
+models with curvilinear effects: Derivations and analytical
+tools. Multivar. Behav. Res. , 48, 267–300, https://doi.org/
+10.1080/00273171.2013.763567.
+Milly, P. C. D., J. Betancourt, M. Falkenmark, R. M. Hirsch, Z. W.
+Kundzewicz, D. P. Lettenmaier, and R. J. Stouffer, 2008:
+Stationarity is dead: Whither water management? Science,
+319, 573–574, https://doi.org/10.1126/science.1151915.
+Ogunbode, C. A., Y. Liu, and N. Tausch, 2017: The moderating role
+of political afﬁliation in the link between ﬂooding experience
+and preparedness to reduce energy use. Climatic Change, 145,
+445–458, https://doi.org/10.1007/s10584-017-2089-7.
+Plapp, T., and U. Werner, 2006: Understanding risk perception
+from natural hazards. Examples from Germany. RISK21—
+Coping with Risks due to Natural Hazards in the 21st Century ,
+W. J. Ammann, S. Dannenmann, and L. Vulliet, Eds., CRC
+Press, 101–108.
+Poussin, J. K., W. J. Wouter Botzen, and J. C. J. H. Aerts, 2015:
+Effectiveness of ﬂood damage mitigation measures: Empirical
+evidence from French ﬂood disasters.Global Environ. Change,
+31, 74–84, https://doi.org/10.1016/j.gloenvcha.2014.12.007.
+Reiter, J., B. Wenzel, C. Dittmer, D. F. Lorenz, and M. Voss, 2018:
+The 2013 ﬂood in the community of Elbe-Havel-Land in the
+eyes of the population. Resear ch Rep. of the Quantitative
+Survey, KFS Working Paper 08, 44 pp., https://refubium.fu-
+berlin.de/bitstream/handle/fub188/21920/Working_paper_Elbe_
+ﬂood_English_ﬁnal.pdf?sequence51.
+Schröter, K., M. Kunz, F. Elmer, B. Mühr, and B. Merz, 2015: What
+made the June 2013 ﬂood in Germany an exceptional event? A
+hydro-meteorological evaluation. Hydrol. Earth Syst. Sci. , 19,
+309–327,
+https://doi.org/10.5194/hess-19-309-2015.
+Seifert, I., W. J. W. Botzen, H. Kreibich, and J. C. J. H. Aerts, 2013:
+Inﬂuence of ﬂood risk characteristics on ﬂood insurance de-
+mand: A comparison between Germany and the Netherlands.
+Nat. Hazards Earth Syst. Sci. , 13, 1691–1705, https://doi.org/
+10.5194/nhess-13-1691-2013.
+Seligman, M., and C. Peterson, 2001: Learned helplessness. Inter-
+national Encyclopedia of Social & Behavioral Sciences , 1st ed.
+Science Direct, 8583–8586.
+Sieg, T., K. Vogel, B. Merz, and H. Kreibich, 2017: Tree-based
+ﬂood damage modeling of companies: Damage processes and
+model performance. Water Resour. Res. , 53, 6050–6068,
+https://doi.org/10.1002/2017WR020784.
+Siegrist, M., 2013: The necessity for longitudinal studies in risk
+perception research. Risk Anal. , 33, 50–51, https://doi.org/
+10.1111/j.1539-6924.2012.01941.x.
+——, 2014: Longitudinal studies on risk research. Risk Anal. , 34,
+1376–1377, https://doi.org/10.1111/risa.12249.
+Spence, A., W. Poortinga, C. Butler, and N. F. Pidgeon, 2011:
+Perceptions of climate change and willingness to save energy
+related to ﬂood experience. Nat. Climate Change , 1, 46–49,
+https://doi.org/10.1038/nclimate1059.
+Stein, D. J., S. Seedat, A. Iversen, and S. Wessely, 2007: Post-
+traumatic stress disorder: Medicine and politics. Lancet, 369,
+139–144, https://doi.org/10.1016/S0140-6736(07)60075-0.
+Surminski, S., and A. H. Thieken, 2017: Promoting ﬂood
+risk reduction: The role of insurance in Germany and
+England. Earth’s Future , 5, 979–1001, https://doi.org/10.1002/
+2017EF000587.
+Tapsell, S. M., and S. M. Tunstall, 2008: ‘‘I wish I’d never heard of
+Banbury’’: The relationship between ‘place’ and the health
+impacts from ﬂooding. Health Place , 14, 133–154, https://
+doi.org/10.1016/j.healthplace.2007.05.006.
+Thieken, A. H., H. Kreibich, M. Müller, and B. Merz, 2007: Coping
+with ﬂoods: Preparedness, response and recovery of ﬂood-
+affected residents in Germany in 2002. Hydrol. Sci. J. , 52,
+1016–1037, https://doi.org/10.1623/hysj.52.5.1016.
+——, S. Mariani, S. Longﬁeld, and W. Vanneuville, 2014: Preface:
+Flood resilient communities—Managing the consequences of
+ﬂooding. Nat. Hazards Earth Syst. Sci. , 14, 33–39, https://
+doi.org/10.5194/nhess-14-33-2014.
+——, T. Bessel, S. Kienzler, H. Kreibich, M. M üller, S. Pisi, and
+K. Schr
+öter, 2016a: The ﬂood of June 2013 in Germany: How
+much do we know about its impacts? Nat. Hazards Earth Syst.
+Sci., 16, 1519–1540, https://doi.org/10.5194/nhess-16-1519-2016.
+——, and Coauthors, 2016b: Review of the ﬂood risk management
+system in Germany after the major ﬂood in 2013. Ecol. Soc.,
+21, 51, https://doi.org/10.5751/ES-08547-210251.
+——, H. Kreibich, M. Müller, and J. Lamond, 2017: Data collection
+for a better understanding of what causes ﬂood damage—
+Experiences with telephone surveys. Flood Damage Survey
+and Assessment: New Insights from Research and Practice ,D .
+Molinari, S. Menoni, and F. Ballio, Eds., Wiley, 95–106.
+van Valkengoed, A. M., and L. Steg , 2019: Meta-analyses of factors
+motivating climate change adaptation behaviour. Nat. Climate
+Change, 9, 158–163, https://doi.org/10.1038/s41558-018-0371-y.
+Wachinger, G., O. Renn, C. Begg, and C. Kuhlicke, 2013: The risk
+perception paradox: Implications for governance and com-
+munication of natural hazards. Risk Anal. , 33, 1049–1065,
+https://doi.org/10.1111/j.1539-6924.2012.01942.x.
+Walker, B. H., C. S. Holling, S. R. Carpenter, and A. Kinzig, 2004: Re-
+silience, adaptability and transformability in social-ecological sys-
+tems.Ecol. Soc., 9,5 , https://doi.org/10.5751/ES-00650-090205.
+Walker-Springett, K., C. Butler, and W. N. Adger, 2017: Wellbeing
+in the aftermath of ﬂoods. Health Place , 43, 66–74, https://
+doi.org/10.1016/j.healthplace.2016.11.005.
+Weichselgartner, J., and I. Kelman, 2015: Geographies of resil-
+ience: Challenges and opportunities of a descriptive concept.
+P r o g .H u m .G e o g r ., 39, 249–267, https://doi.org/10.1177/
+0309132513518834 .
+Zaalberg, R., C. Midden, A. Meijnders, and T. McCalley, 2009:
+Prevention, adaptation, and threat denial: Flooding experi-
+ences in the Netherlands. Risk Anal. , 29, 1759–1778, https://
+doi.org/10.1111/j.1539-6924.2009.01316.x.
+88 WEATHER, CLIMATE, AND SOCIETY V OLUME 12
+Unauthenticated | Downloaded 03/12/25 12:02 PM UTC

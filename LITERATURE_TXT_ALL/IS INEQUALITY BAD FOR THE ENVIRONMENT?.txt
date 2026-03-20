@@ -1,0 +1,971 @@
+[[PAGE 1]]
+Equity and the Environment
+Is inequality bad for the environment?
+James K. Boyce
+Article information:
+To cite this document: James K. Boyce. "Is inequality bad for the environment?" In
+Equity and the Environment. Published online: 12 Mar 2015; 267-288.
+Permanent link to this document:
+http://dx.doi.org/10.1016/S0196-1152(07)15008-0
+Downloaded on: 01 February 2016, At: 20:40 (PT)
+References: this document contains references to 48 other documents.
+To copy this document: permissions@emeraldinsight.com
+The fulltext of this document has been downloaded 243 times since NaN*
+Users who downloaded this article also downloaded:
+William R. Freudenburg, Robert C. Wilkinson, (2007),"Equity and the environment: a
+pressing need and a new step forward", Research in Social Problems and Public Policy,
+Vol. 15 pp. 1-18
+Andrew K. Shenton, Naomi V. Hay-Gibson, (2011),"Modelling the information behaviour
+of children and young people: More inspiration from beyond LIS", Aslib Proceedings,
+Vol. 63 Iss 5 pp. 499-516 http://dx.doi.org/10.1108/00012531111164987
+Alefiyah Oakford, Peter Williams, (2011),"The use and value of local information
+systems: A case study of the Milton Keynes intelligence (MKi) Observatory", Aslib
+Proceedings, Vol. 63 Iss 5 pp. 533-548 http://dx.doi.org/10.1108/00012531111165003
+Access to this document was granted through an Emerald subscription provided by
+emerald-srm:149425 []
+For Authors
+If you would like to write for this, or any other Emerald publication, then please
+use our Emerald for Authors service information about how to choose which
+publication to write for and submission guidelines are available for all. Please visit
+www.emeraldinsight.com/authors for more information.
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society.
+The company manages a portfolio of more than 290 journals and over 2,350 books and
+book series volumes, as well as providing an extensive range of online products and
+additional customer resources and services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner
+of the Committee on Publication Ethics (COPE) and also works with Portico and the
+LOCKSS initiative for digital archive preservation.
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 2]]
+*Related content and download information correct at
+time of download.
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 3]]
+IS INEQUALITY BAD
+FOR THE ENVIRONMENT?
+James K. Boyce
+ABSTRACT
+By respecting nature’s limits and investing in nature’s wealth, we can
+protect and enhance the environment’s ability to sustain human well-
+being. But how humans interact with nature is intimately tied to how we
+interact with each other. Those who are relatively powerful and wealthy
+typically gain disproportionate beneﬁts from the economic activities that
+degrade the environment, while those who are relatively powerless and
+poor typically bear disproportionate costs. All else equal, wider political
+and economic inequalities tend to result in higher levels of environmental
+harm. For this reason, efforts to safeguard the natural environment must
+go hand-in-hand with efforts to achieve more equitable distributions of
+power and wealth in human societies. Globalization – the growing
+integration of markets and governance worldwide – today poses new
+challenges and new opportunities for both of these goals.
+PROLOGUE
+In the mid-1970s, I lived in a rural village in northwestern Bangladesh, in
+one of the poorest parts of a poor country. Bangladesh had just had a
+Equity and the Environment
+Research in Social Problems and Public Policy, Volume 15, 267–288
+Copyright r 2008 by Elsevier Ltd.
+All rights of reproduction in any form reserved
+ISSN: 0196-1152/doi:10.1016/S0196-1152(07)15008-0
+267
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 4]]
+famine in which some 200,000 people perished. The famine was caused not
+by an absolute shortage of rice, the staple food of the population, but rather
+by a combination of grain hoarding by merchants and government
+ineptitude and corruption. The village where I lived was located in the
+most famine-stricken district of the country.
+1
+To the eyes of a young American, a striking feature of Bangladeshi village
+life – apart from the poverty of the people – was the virtual absence of
+negative environmental impacts from human activities. The villagers farmed
+rice and jute much as their ancestors had for centuries. Agrochemicals had
+only begun to appear on the scene, and village farmers used them sparingly,
+if at all. Across the country, Bangladeshi farmers grew some 10,000 different
+varieties of rice adapted to microclimatic variations in rainfall, ﬂood
+depths, temperature, and soil type, making the country a storehouse
+for genetic diversity of humankind’s most important food crop. Hundreds
+of ﬁsh species – more than in all Europe – lived in the country’s rivers,
+ponds, and rice paddies, supplying most of the animal protein in the
+Bangladeshi diet.
+There was no trash-collection service in the village, and no need for one,
+for the villagers produced little, if any, solid waste. Practically everything
+they consumed – food, cooking fuel, housing materials, herbal medicines –
+was harvested from their local environment. Crop residues and manures
+were returned to the earth or burned as fuel. Metal items were carefully
+recycled, tin containers fashioned into building supplies. Few villagers had
+ever seen plastic: local children amused themselves by repeatedly dropping a
+red plastic cup I had brought with me to the village, showing their friends
+that it did not break. Despite their poverty – in some ways, because of it –
+they did not harm the environment, on which their livelihoods depended.
+One time, while visiting Dhaka, Bangladesh’s capital city, I stumbled
+upon what may have been the country’s ﬁrst environmental campaign. The
+government – a one-party state headed by a once-popular politician who
+recently had declared himself ‘‘president for life’’ – had just announced a
+campaign of ‘‘urban beautiﬁcation.’’ Dhaka’s sprawling slums, which had
+multiplied during the famine as starving people from the countryside
+migrated to the city in search of work or relief, were razed to the ground.
+Their inhabitants were brusquely herded onto trucks that deposited them
+outside town, far from the eyes and consciousness of the city’s middle- and
+upper-class residents.
+The human costs of this policy were vividly brought home to me by a
+scene I witnessed in front of Dhaka’s general post ofﬁce. An emaciated
+woman and her baby were sitting on a dirty cloth spread on the sidewalk.
+JAMES K. BOYCE268
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 5]]
+Passers-by occasionally dropped a coin. When I emerged from the post
+ofﬁce a few minutes later, the woman was gone, perhaps trailing after a well-
+to-do stranger to plead for alms. Then a police truck drove by, its bed full of
+destitute people being relocated. Spying the baby, the truck stopped and a
+policeman dismounted. He unceremoniously tossed her into the back of the
+truck, which lumbered off in search of more human cargo. I do not know
+whether they picked up the mother.
+The irony was inescapable and terrible: In a land where they lived lightly
+on the earth, the poor themselves were regarded as pollution.
+WHAT IS ENVIRONMENTAL HARM?
+What does it mean to say something is ‘‘bad for the environment’’ or ‘‘good
+for the environment’’? These value judgments rest, implicitly or explicitly,
+on ethical criteria by which we distinguish better from worse.
+A criterion that has gained many adherents in the past two decades is
+‘‘sustainable development.’’ This was deﬁned by the World Commission
+on Environment and Development in its 1987 manifesto, Our Common
+Future (also known as the Brundtland Report, after commission chair
+Gro Brundtland), as development that ‘‘meets the needs of the present
+without compromising the ability of future generations to meet their own
+needs’’ ( World Commission on Environment and Development, 1987 ).
+By this criterion, ‘‘environmental harm’’ means actions that compromise the
+ability of future generations to meet their needs. Conversely, ‘‘environ-
+mental improvements’’ would refer to actions that enhance the ability of
+future generations to meet their needs.
+The Brundtland criterion has the merits of afﬁrming the importance of
+human well-being and our responsibility to future generations. But as Nobel
+Prize-winning economist Amartya Sen (2004) has remarked, ‘‘Seeing people
+in terms of only their needs may give us a rather meagre view of humanity.’’
+Sen suggests that the ethical basis for value judgments about the
+environment can be deepened by embracing a broader range of human
+values. For example, people may believe that we have a responsibility to
+safeguard the existence of other species (as an illustration, Sen mentions the
+spotted owl of the Paciﬁc northwest) regardless of whether the species in
+question serves any practical human needs. In other words, people may
+value nature for intrinsic as well as instrumental reasons. If so, environ-
+mental quality can be seen as an end in itself, and not merely a means to
+other ends.
+Is Inequality Bad for the Environment? 269
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 6]]
+Sen also observes that people hold multiple values, and that these
+cannot be readily reduced to a summary measure such as overall fulﬁllment
+of human needs. For example, we may believe that future generations have
+the right to breathe clean air, and that infringement of this right cannot be
+adequately compensated by improvements in other dimensions of well-
+being. Not everything of value can be calibrated on a single scale.
+This broader ethical framework – in which ‘‘we think of human beings as
+agents, rather than merely as patients,’’ in Sen’s words – implies a central
+role for citizenship in addressing environmental challenges. Freedom to
+make value judgments about environmental change, and rights to a clean
+and safe environment, are themselves important ethical objectives. This is
+not only a matter of moral vision, but also of practical politics. The extent to
+which people are able to act as citizens depends on how power is structured
+and distributed in society.
+In this chapter, I will use the term ‘‘environmental harm’’ to mean
+impacts on the natural environment that reduce human well-being, with the
+latter understood to extend beyond needs to the wider canvas of values and
+rights. To say that actions are bad (or good) for the environment is to say
+that they are bad (or good) for humankind.
+This ethical stance makes no pretense of impartiality: it is unabashedly
+human-centered. I do not regard Homo sapiens as just another species,
+whose well-being is of no greater consequence than that of any other. In
+many cases, what is good for other species is good for humans, too. But not
+always. Sanitation and clean water-supply systems, for instance, improve
+human well-being by killing bacteria and other pathogens. I regard this as a
+good thing, an environmental improvement. The eradication of smallpox –
+the deliberate extinction of a virus species – counts as a good thing, too.
+This stance does not imply a willful disregard for nature, nor indifference to
+the fates of other species. On the contrary, an environmental ethics
+grounded in human well-being recognizes that we are a part of nature, not
+apart from it.
+THREE QUESTIONS
+Whenever we analyze economic activities that generate environmental harm,
+we can pose three very basic questions:
+/C15Who beneﬁts from the economic activities that cause the harm? If no one
+beneﬁts – or at least thinks they do – the activities would not occur.
+JAMES K. BOYCE270
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 7]]
+/C15Who suffers environmental harm ? If no one is hurt by these activities, they
+are not a problem – at least, not in terms of human well-being.
+/C15Why is the ﬁrst group able to impose environmental harm on the second?
+That is, what allows some people to beneﬁt at the expense of others?
+The last of these questions is crucial to understanding the reasons for
+environmental harm. There are three possible answers to it.
+One possibility is that those who are harmed belong to future generations,
+who are not here to defend themselves. In this case, the only remedy is to
+cultivate an ethic of inter-generational responsibility, one founded on a
+moral commitment to safeguard the well-being of our children and
+generations to come.
+The second possibility is that those who are harmed lack information.
+They may know that their children are falling ill, for example, but not know
+what environmental circumstances are making them sick or who is
+responsible for them. In this case, the solution lies in greater access to
+information: environmental education in general and right-to-know laws in
+particular. In the United States, for example, the Emergency Planning and
+Community Right-to-Know Act of 1986, passed in the wake of the chemical
+plant disaster in Bhopal, India, created the Toxics Release Inventory, which
+makes information on releases of toxic chemicals by industrial facilities
+available to the public.
+The ﬁnal possibility is that those who are harmed are alive today and well
+aware of the costs imposed on them, but lack the power to prevail in making
+social decisions about the environment. In this case, the solution lies in
+redistributing power, so that those who suffer environmental harm are
+better able to defend themselves – and the environment – from others who
+beneﬁt from activities that cause the problem.
+PURCHASING POWER AND POLITICAL POWER
+Human beings are socially differentiated in terms of wealth and inﬂuence.
+Differences in wealth translate into differences in purchasing power .
+Differences in inﬂuence translate into differences in political power.
+In this respect humans are different from other species. Consider, for
+example, pondweed, a plant species sometimes used by ecologists to
+illustrate the perils of exponential growth (see, for example, Brown, 1978 ).
+Assume that the weed doubles in volume every day, and that in 30 days it
+will ﬁll the pond completely, making further growth impossible and perhaps
+Is Inequality Bad for the Environment? 271
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 8]]
+overwhelming ecological balances vital to the continued existence of the
+pondweed itself. When, the ecologist asks, is the pond half full? The answer,
+of course, is the 29th day. This parable is invoked to depict human pressure
+on the carrying capacity of planet Earth: metaphorically speaking, we are
+nearing the end of the month.
+Each pondweed organism is pretty much like any other. But humans
+differ greatly from one another, both in their impacts on the environment
+and in their ability to shield themselves from these impacts. The pondweed
+analogy deﬂects attention from these differences, and from how they affect
+our interactions with nature.
+To understand how inequalities among humans contribute to environ-
+mental harm, we need to look more closely at the two types of power:
+purchasing power and political power.
+Purchasing Power
+In a market economy, people vote on what to produce in proportion to
+the money they spend. Economists call this ‘‘effective demand.’’ This
+differs from simple desire or need. A person can be hungry, and in that
+sense have demand for food, but she does not have effective demand – the
+ability to vote in the marketplace – unless hunger in her stomach is backed
+up by money in her pocket. The distribution of purchasing power
+determines how much of society’s resources will be devoted to producing
+rice and beans, and how much to producing champagne and luxury
+automobiles.
+Purchasing power plays a central role in describing what happens in
+markets. In cost–beneﬁt analysis, it also plays a central role in prescribing
+what should happen if and when the government intervenes to correct
+‘‘market failures’’ that arise in cases of public goods, like highways,
+schools, and national defense, and in cases of externalities, like pollution,
+that affect people who are not party to the market exchange between
+buyer and seller.
+When the government promulgates regulations to curtail pollution, for
+example, it must confront the practical question: how much pollution is too
+much? It would be nice to live in a world with no pollution whatsoever, but,
+as economists are quick to point out, cutting pollution has costs as well as
+beneﬁts. People need and want to eat, wear clothes, use medicines, move
+about, and so on, and producing these goods and services often produces
+some pollution, too. Faced with the choice between more goods and services
+JAMES K. BOYCE272
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 9]]
+and less pollution, and informed by the principle of diminishing returns
+(the more we have of anything, the less each additional increment is worth),
+the economist tells the government to aim for the ‘‘optimal level of
+pollution,’’ deﬁned as the point at which society’s beneﬁt from additional
+pollution reduction equals its cost in terms of foregone consumption of
+other goods and services.
+The phrase ‘‘optimal level of pollution’’ rankles many environmentalists,
+but it is hard to argue with the logical proposition that the costs and
+beneﬁts of any course of action ought to be weighed against each other.
+The problem is how to measure all the relevant costs and beneﬁts. The
+economist has a toolkit for this purpose: cost–beneﬁt analysis. It translates
+all costs and beneﬁts into a single unit of measurement, money. Economists
+have devised ingenious ways to translate non-market values – such as the
+value of cleaner air or the existence of the spotted owl – into monetary terms.
+Contingent valuation surveys, for example, are used to ask people how much
+they would be willing to spend for environmental quality – say, to protect
+an endangered species. Hedonic regression analysis, another popular
+technique, uses actual market data to infer implicit prices; for example,
+by analyzing how housing prices vary with distance from an airport
+(controlling for other variables like the size of the house), in order to measure
+the cost of noise pollution.
+The foundation for the valuation techniques of cost–beneﬁt analysis
+is willingness to pay. The costs of environmental harms are measured by
+how much people are willing to pay to avoid them. This is how demand
+for goods and services is measured in the marketplace, so there is a
+certain consistency in using the same criterion to measure demand for
+environmental quality, and to use the results in making public policy.
+The willingness-to-pay criterion for valuation means, however, that the
+needs and desires of some people count more than the needs and desires of
+others – not necessarily because their desire for clean air or water is
+any stronger, but because they wield more purchasing power to back up
+their preferences.
+Behind differences in willingness to pay lie differences in ability to pay. If
+my willingness to pay for gold mined near your community is high, and your
+community’s ability (and hence willingness) to pay to protect its air and
+water from pollution by mining operations is low, then by the logic of the
+cost–beneﬁt analyst, I should get the gold and you should get the pollution.
+In this way, differences in purchasing power can affect not only decisions
+made by private parties in response to market signals, but also public-policy
+decisions made by governments.
+Is Inequality Bad for the Environment? 273
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 10]]
+Political Power
+In practice, real-world political systems do not faithfully adhere to the
+prescriptions of cost–beneﬁt analysts. Individuals, groups, and classes differ
+from each other not only in their purchasing power but also in their political
+power. The latter includes differences in their ability to inﬂuence social
+decisions on environmental policies. As a result, some costs and beneﬁts
+may count more than others.
+Political power takes various forms:
+/C15decision power to prevail in contests to determine what decision makers,
+both public and private, will or will not do;
+/C15agenda power to keep questions off (or on) the table of the decision
+makers;
+/C15value power to shape others’ preferences to coincide with one’s own; and
+/C15event power to alter the circumstances that others face – for example, by
+blowing smoke into the atmosphere – thus presenting them with a fait
+accompli.
+Each of these forms of power can lead to decisions that diverge from the
+optimum prescribed by cost–beneﬁt analysis (for discussion, see Bartlett,
+1989; Boyce, 2002 ).
+If political power were distributed equally across the population, and
+social decisions were based simply on cost–beneﬁt calculations, then
+purchasing power would be the only dimension of human differentiation
+that matters for environmental decisions. Once we recognize, however, that
+political power in practice is unequally distributed, and that it tends to be
+correlated with purchasing power – that is, wealth and political inﬂuence
+generally go together – then both dimensions of social differentiation
+matter, and reinforce each other.
+THE ENVIRONMENTAL IMPACT OF INEQUALITY:
+TWO HYPOTHESES
+Two hypotheses can be advanced about the environmental impact of
+inequalities in the distribution of purchasing power and political power:
+/C15First, environmental harm is not randomly distributed across the
+population, but instead reﬂects the distribution of wealth and power.
+JAMES K. BOYCE274
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 11]]
+The relatively wealthy and powerful tend to beneﬁt disproportionately
+from the economic activities that generate environmental harm. The
+relatively poor and powerless tend to bear a disproportionate share of the
+environmental costs.
+/C15Second, the total magnitude of environmental harm depends on the extent
+of inequality. Societies with wider inequalities of wealth and power will
+tend to have more environmental harm. Conversely, societies with
+relatively modest degrees of economic and political disparities will tend to
+have less environmental harm.
+Environmental Injustice
+The ﬁrst hypothesis operates on both the beneﬁt side and the cost side of the
+coin. Beneﬁts from economic activities that inﬂict environmental harm
+accrue to consumers insofar as the savings from cost externalization (for
+example, releasing toxic chemicals out the smokestack rather than spending
+money on pollution control) are passed to them in the form of lower prices.
+Beneﬁts accrue to the owners of ﬁrms insofar as they are able to capture
+these savings in the form of higher proﬁts. On the consumer side, the rich
+generally get a bigger share of the beneﬁts, for the simple reason that they
+consume more than the poor. On the producer side, again they get a bigger
+share of the beneﬁts, since they own more productive assets, including
+corporate stocks. For these reasons, no matter what the division of gains
+between consumers and ﬁrms, the rich reap the largest share. Even if
+the costs of environmental harm were equally shared by all – for example,
+if everyone breathes the same polluted air and drinks the same polluted
+water – this would skew the net beneﬁts from environmentally harmful
+economic activities in favor of the wealthy.
+In practice, many environmental costs are localized, rather than being
+uniformly distributed across space. This makes it possible for those who are
+relatively wealthy and powerful to distance themselves from environmental
+harm caused by economic activities ( Princen, 1997 ). Within a metropolitan
+area, for example, the wealthy can afford to live in neighborhoods with
+cleaner air and more environmental amenities. Furthermore, sometimes
+there are private substitutes for public environmental quality. In urban
+India, for instance, where public water supplies are often contaminated,
+the upper and middle classes can afford to consume bottled water. The
+poor cannot. In such cases, because access to private substitutes is
+Is Inequality Bad for the Environment? 275
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 12]]
+based on ability to pay, again the rich are better able to avoid environ-
+mental harm.
+A substantial literature on environmental justice in the United States has
+documented the fact that low-income people and communities of color
+(that is, communities with above-average percentages of non-white and non-
+Anglo residents) often bear disproportionate environmental harms – see, for
+example, the chapters in this volume by Bullard (2007), Mohai (2007), and
+Taylor (2007); see also Szasz and Meuser (1997) , Bullard and Johnson
+(2000), Pastor (2003) , and Boyce (2007) . These ﬁndings are consistent with
+the ﬁrst hypothesis. A number of these studies have found that race and
+ethnicity matter, even when controlling for income: communities with
+higher percentages of African-Americans, Latinos, Asian-Americans, and
+Native Americans tend to face greater environmental hazards – see, for
+example, Bouwes, Hassur, and Shapiro (2003) and Ash and Fetter (2004) .
+This ﬁnding suggests that political power (which is correlated with race and
+ethnicity in the United States) has an impact on exposure to environmental
+harm, above and beyond whatever can be explained simply by differences in
+purchasing power.
+Even in cases of environmental harm from which there is no escape –
+widely dispersed pollutants and global climate change are examples –
+those who are relatively poor and powerless tend to be most vulnerable.
+Living closest to the margin of survival, they have least ability to with-
+stand adversity. They have less ability to afford remedial measures, like
+health care. And they have less political clout to secure remedial actions
+from government authorities. Similar vulnerability disparities are revealed
+by natural disasters, as when Hurricane Katrina hit New Orleans in
+August 2005. ‘‘In a sense, environmental justice is about slow-motion
+disasters,’’ in the words of a recent study of Katrina’s impact, ‘‘and
+disasters reveal environmental injustice in a fast-forward mode’’ ( Pastor
+et al., 2006, p. 9 ).
+More Inequality, More Harm?
+The second hypothesis – that more inequality causes more environmental
+harm overall – may be less intuitively evident than the ﬁrst. Inequalities of
+wealth and power could have two opposing effects. When the beneﬁciaries
+from environmentally harmful activities are more powerful than those who
+bear their costs, greater inequality can be expected to result in more
+environmental harm. On the other hand, when those who bear the costs are
+JAMES K. BOYCE276
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 13]]
+more powerful than the beneﬁciaries, we might expect the opposite: greater
+inequality yields less environmental harm.
+Which scenario is more common? The second one certainly occurs,
+for example, when African tribespeople are expelled from their tradi-
+tional hunting grounds on the grounds that their activities are envi-
+ronmentally harmful, in order to create protected areas for the enjoyment
+of afﬂuent foreign tourists, a phenomenon that has been labeled
+‘‘coercive conservation’’ (see, for example, Peluso, 1993 ; Neumann, 2001 ;
+Mulder & Coppolillo, 2005, pp. 31–37 ). The slum clearance program
+in Bangladesh described in the prologue is another example. But there
+are good reasons to believe that the ﬁrst scenario is far more prevalent. If, as
+I have argued above, the beneﬁts of environmentally harmful activities
+ﬂow disproportionately to the relatively well-off by virtue of their higher
+consumption and capital ownership, and purchasing power is correlated
+with political power, it follows that the beneﬁciaries of these activities
+tend to be more powerful than those who bear net costs – in which case,
+wider inequalities can be expected to translate into greater environ-
+mental harm.
+In a statistical test of the second hypothesis, Boyce, Klemer, Templet,
+and Willis (1999) found that among the 50 U.S. states, those with more
+equitable distributions of power (measured by voter participation, educa-
+tional attainments, tax fairness, and Medicaid access) tend to have stronger
+environmental policies and better environmental outcomes. Further
+evidence in support of this hypothesis comes from a study of the relation-
+ship between residential segregation and cancer risks from air pollution
+in the United States, which found that greater segregation on racial
+and ethnic lines is correlated with worse environmental and health out-
+comes for all groups, not only for people of color ( Morello-Frosch &
+Jesdale, 2006 ).
+Similarly, cross-country studies at the international level have found that
+a more equitable distribution of power – measured by such variables as
+democracy, political and civil rights, and adult literacy – is correlated with
+better environmental quality, even while controlling for other variables such
+as differences in per capita income (see, for example, Torras & Boyce, 1998 ;
+Barrett & Graddy, 2000 ; for a review of these and other studies, see also
+Boyce, 2007 ).
+In sum, both theoretical reasoning and empirical evidence support the
+conclusion that inequality is bad for the environment. People are not like
+pondweed. How we treat the natural environment depends on how we treat
+each other.
+Is Inequality Bad for the Environment? 277
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 14]]
+ROOM FOR HOPE
+There is another important way that humans differ from pondweed: we have
+brains. Indeed we are exceptional among all species in our ability to
+accumulate knowledge, pass it from one generation to the next, and change
+our behavior accordingly. This includes knowledge about our interactions
+with the natural environment and with each other.
+Respecting Nature’s Limits
+We can learn how to respect nature’s limits, and thus how to limit
+environmental harm – if we choose to do so. We can learn about the growth
+rates of renewable natural resources, such as trees in forest and ﬁsh in the
+sea, and we can manage our own harvests of these resources to ensure
+sustainable yields. We can learn about nature’s ﬁnite stocks of non-
+renewable resources, such as minerals and fossil fuels, and we can develop
+recycling and renewable alternatives to avert future shortages. We can learn
+about the limited capacity of air, lands, and water bodies to safely absorb
+and break down wastes, and we can limit the rates at which we discharge
+pollutants accordingly.
+As an illustration, consider our response to the threat posed by chemicals
+that were depleting the Earth’s protective ozone layer, exposing life on the
+planet to increasing levels of ultraviolet-B radiation. The danger was not
+recognized until the early 1970s, when scientists ﬁrst hypothesized that
+chloroﬂuorocarbons (CFCs), man-made compounds used for a variety of
+purposes, including aerosol propellants and air conditioner coolants, were
+breaking down ozone molecules in the Earth’s stratosphere. The harm
+was invisible but insidious. In a remarkable instance of international
+co-operation, by 1987 the nations of the world had agreed to curtail their
+CFC emissions via the Montreal Protocol ( Haas, 1992 ). No other species is
+capable of such conscious self-regulating behavior.
+Of course, to say that we can modify our actions on the basis of
+knowledge about nature’s limits does not mean that we necessarily will do
+so. But if we choose to act, we can. And, as the Montreal Protocol
+illustrates, sometimes we do. The question is, why do we act to protect the
+environment in some times and places, and not in others? The answer,
+I believe, is that whether and how we act (or fail to act) depends on the
+balance of power in the present generation between those who beneﬁt by
+JAMES K. BOYCE278
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 15]]
+ignoring nature’s limits and those who pay the price, and on whether we
+embrace an ethic of responsibility toward future generations.
+Nor do I wish to imply that humans are omniscient, understanding fully
+the consequences of our actions. Had scientists been a few decades slower
+to grasp the environmental implications of CFC emissions, we might not
+have recognized the threat until it was too late. We need to understand not
+only nature’s limits, but also the limits of our own knowledge. Given the
+uncertainties and unknowns about the environmental impacts of our
+actions, prudence demands that we adopt a ‘‘precautionary’’ approach to
+environmental policy (for discussions, see Harremoe¨s et al., 2002 ; Dorman,
+2005).
+Investing in Nature’s Wealth
+Humans can not only deplete nature’s wealth; we also can increase it. If our
+value system is founded on long-term human well-being – if this is the basis
+on which we compare states of the world, and deﬁne what is good and
+bad for the environment – then we can improve the environment as well as
+harm it.
+There are three ways that humans invest in nature’s wealth:
+/C15Ecological restoration repairs past harms. Examples include the reforesta-
+tion of deforested landscapes; the replenishment of depleted ﬁsheries; the
+clean-up of contaminated soils and water bodies; and the restoration of
+degraded wildlife habitat.
+2
+/C15Co-evolution refers to human modiﬁcations that create an environment
+that is better able to support long-term human well-being. One example is
+‘‘soil banking’’: farming practices that build deeper and more fertile soils,
+such as terra preta do indio (‘dark earth of the Indians’) in Amazonia
+(Mann, 2002 ) and those of the acequia landscape mosaic in the upper
+Rio Grande bioregion of the southwestern United States ( Pen˜a, 2003; for
+more examples of soil banking, see Brookﬁeld, 2001, pp. 96–97 ). Another
+example – arguably the most valuable investment in nature’s wealth in
+human history – is the domestication of plants and animals that began
+some 10,000 years ago, and the subsequent evolution of genetic diversity
+in crops and livestock (see Boyce, 2006 ).
+/C15Environmental preventive health refers to measures to reduce the
+prevalence of pathogens and disease-bearing insects. One example,
+Is Inequality Bad for the Environment? 279
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 16]]
+already mentioned, is the eradication of the smallpox virus through
+an international effort that culminated in the mid-1970s. Another
+example is the modiﬁcation of aquatic habitats to reduce mosquito popu-
+lations, a form of investment that played a major role in eliminating
+malaria from Europe and North America ( Kitron & Spielman, 1989 ;
+Willott, 2004 ).
+In all three ways, human beings can and sometimes do improve the
+environment, from the standpoint of long-term human well-being. Humans
+are not necessarily a blight on the face of the planet, a cancer that ultimately
+will destroy its host. We have learned a great deal about how to respect
+nature’s limits and invest in nature’s wealth, and we have the capacity to
+learn more. In our dealings with nature, there is room for hope.
+Making Social Change
+The inequalities of power and wealth that generate environmental harm are
+not forces of nature. Political and economic disparities are social
+constructions, and as such they can be reconstructed.
+To be sure, there is no certainty that social change will proceed inexorably
+toward more democratic distributions of political power and more
+egalitarian distributions of purchasing power. It is all too easy to ﬁnd past
+and present examples of movements in the opposite direction. But to say
+that something is not inevitable is not to say that it is impossible.
+In fact, an even stronger claim is possible: there is ample evidence that the
+overall trend in human history, notwithstanding periodic reversals, is
+toward more equality in our social arrangements. Only three centuries ago,
+monarchs and aristocracies ruled most of the world. A century and a half
+ago, slavery was still legal in much of the United States. The state of
+Massachusetts, the ﬁrst in the country to mandate free primary education
+for all children, did so only in 1852; it was not until 1918 that all states had
+followed suit. The amendment to the U.S. constitution that granted women
+the right to vote was adopted less than a century ago. In much of Asia and
+Africa, colonial rule ended only two generations ago. It has been little more
+than a decade since apartheid ended in South Africa. ‘‘The arc of the moral
+universe is long,’’ Dr. Martin Luther King remarked in his 1965
+commencement address at Oberlin College, ‘‘but it bends toward justice’’
+(King, 1965).
+There is room for hope in our dealings with each other, too.
+JAMES K. BOYCE280
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 17]]
+ONE WORLD, READY OR NOT
+Both the prospects and need for changes in our relationships with
+nature and each other are affected by changes in the scale at which
+human interactions occur. For much of human history, the implications
+of the fact that we share a single planet were hidden from view by
+spatial fragmentation. This slowly changed over time, especially with the
+development of agriculture, states, and more effective means of transport
+beginning some ten millennia ago. The pace of change accelerated in the
+past few centuries, in the process nowadays dubbed ‘‘globalization.’’ Today
+the fact that we live in one world is not only a physical reality, but also an
+economic, cultural, and political reality.
+Uneven Globalization: Markets and Governance
+Globalization has proceeded most rapidly in the economic arena. Around
+the world, production and consumption are being increasingly integrated
+into a single market. Indeed, for many the term ‘‘globalization’’ has come to
+signify not only the process of economic integration, but also the
+subordination of more and more economic activity across the globe to the
+laws of the market. The extension of the market brings tangible beneﬁts, as
+Adam Smith famously observed in The Wealth of Nations : responding to
+price signals, decentralized producers are guided by an ‘‘invisible hand’’ to
+specialize in what they can make most cheaply, unleashing impressive
+productivity gains.
+But the market also has important limitations:
+/C15Market failure: One way to make goods cheaply is to push costs onto
+others – generating what economists call ‘‘negative externalities.’’ For
+example, ﬁrms that do not spend money on pollution control may enjoy a
+competitive advantage over ﬁrms that do. As markets extend their reach,
+the costs of such market failures can grow alongside the beneﬁts of
+specialization.
+/C15Fairness: The production and distribution of goods and services for the
+market are driven by effective demand – that is, willingness to pay backed
+by ability to pay. An inequitable distribution of purchasing power leads to
+an inequitable distribution of resources.
+/C15Resilience: The market pursues a logic of short-term optimization: lowest-
+cost producers using the ‘‘best’’ technology can undersell rivals and
+Is Inequality Bad for the Environment? 281
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 18]]
+ultimately drive them out of business. As a result, producers tend to
+converge on the same technology. Yet resilience – the ability to withstand
+shocks and adapt to changing circumstances – requires a range of
+alternative technological options ( Rammel & van den Bergh, 2003 ).
+/C15Moral capital: Finally, by elevating a narrowly conceived ‘‘self-interest’’
+above all other values, markets may lead to depreciation of moral capital
+that is crucial to the functioning of society. In fact, widespread
+commitment to moral precepts is necessary for markets themselves to
+function, since respect for rights and contractual obligations typically
+rests not on self-interest but instead on accepted norms about what is the
+right thing to do (for discussion, see Basu, 1983 ; Sen, 1986 ; Bell, 1996 ).
+For all four reasons, the globalization of markets needs to be complemented
+by the globalization of governance. The latter includes not only formal
+international institutions and inter-governmental agreements but also
+informal governance by non-state institutions and networks. Many of the
+problems associated with globalization arise from the fact that it has been
+uneven: the development of global governance has lagged behind the
+development of global markets ( Young, 1994 ; Boyce, 2004 ).
+NAFTA and the Environment: A Case Study in Uneven Globalization
+The environmental consequences of uneven globalization can be illustrated
+by looking at the effects of the North American Free Trade Agreement
+(NAFTA), the free trade agreement among the United States, Mexico, and
+Canada that went into effect in 1994. In the early 1990s, the debate over
+NAFTA split the U.S. environmental movement. Some maintained that the
+trade agreement would promote ‘‘harmonization upwards,’’ a continental
+convergence to higher environmental standards, by generating higher
+incomes and stronger demand for environmental protection in Mexico.
+Others contended that it would spark a ‘‘race to the bottom,’’ as ﬁrms
+moved (or threatened to move) south of the U.S.–Mexico border to take
+advantage of lax environmental regulations.
+Both sides in the debate shared one premise: environmental practices in
+Mexico were evidently inferior to those in the United States and Canada.
+This assumption helps to explain why few environmentalists voiced concern
+about what in the end may turn out to be NAFTA’s most profound
+environmental impact: the erosion of Mexico’s rich heritage of genetically
+diverse maize varieties by cheap corn imported from the United States.
+JAMES K. BOYCE282
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 19]]
+Maize (‘corn’ in U.S. parlance) is the single most important crop in both
+countries.3 On the eve of NAFTA, U.S. maize was sold at roughly $110 per
+ton at the border, whereas Mexican growers were receiving $240 per ton for
+their crops. With the dismantling of trade barriers, the Mexican price is now
+converging to the lower U.S. price, hitting hard at the livelihoods of
+Mexican campesinos.
+4
+By the measuring stick of market prices, U.S. farmers are more efﬁcient
+than Mexican growers. But this competitive edge results, in no small
+measure, from the neglect of market failures on both sides of the border, as
+well as from government subsidies and natural advantages such as more
+regular rainfall in the U.S. corn belt ( Boyce, 1996 ). U.S. corn production
+relies on massive applications of pesticides, fertilizers, and energy inputs, all
+of which generate substantial environmental harm. The resulting costs do
+not ﬁgure in the market price.
+At the same time, the campesino farmers of southern and central Mexico
+today provide a great ‘‘positive externality’’ to humankind by sustaining
+genetic diversity in one of the world’s most important food crops. In their
+small plots, where corn was ﬁrst domesticated some seven millennia ago, the
+maize plant continues to evolve via the process Darwin called ‘‘artiﬁcial
+selection,’’ as farmers select seeds for the following year’s crop from the
+plants that perform best in the face of changing conditions. Mexican farmers
+still grow thousands of varieties of maize. In the United States, by contrast,
+fewer than a dozen varieties now account for half of the country’s total corn
+acreage.
+As a result of its low diversity, the U.S. corn crop has a high degree of
+genetic vulnerability – the eggs-in-one-basket syndrome – a problem
+dramatically revealed in 1970 when a new strain of leaf blight destroyed
+one-ﬁfth of the nation’s harvest. In the effort to stay ahead of the insects and
+plant diseases that evolve rapidly in genetically uniform ﬁelds, U.S. plant
+breeders engage in a ‘‘varietal relay race,’’ constantly seeking to develop new
+resistant varieties. The average commercial lifespan of a corn variety in the
+United States is only seven years, after which it is replaced by new ones. In
+effect, modern agriculture substitutes diversity through time for diversity at
+any point in time. The raw material that plant breeders use in this relay race
+is the genetic diversity that has been bequeathed to us by generations of
+small farmers in Mexico and elsewhere.
+5
+The irony is that under NAFTA, the success of U.S. corn production in
+the marketplace is undermining the genetic base on which its own long-term
+viability depends. The globalization of the market is being accompanied by
+the globalization of market failure, and a loss of resilience. In the short term,
+Is Inequality Bad for the Environment? 283
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 20]]
+the main people harmed by this process are the Mexican campesinos, who
+lack the political power to ensure that their investments in nature’s wealth
+are rewarded. In the long term, those harmed are future generations around
+the world, whose food security is being undermined by the erosion of crop
+genetic diversity.
+Remedying this environmental harm will require more than defensive
+actions by single individuals, communities, or states, important though these
+may be. Ultimately this and other transnational environmental problems
+require building institutions that bridge the gap between the globalization of
+markets and the globalization of governance (for discussion of formal and
+informal institutions that could help to conserve crop genetic diversity, see
+Mann, 2004 ; Boyce, 2006 ).
+CONCLUDING REMARKS
+In this chapter, I have explored some of the implications of recognizing that
+environmental harm is not a random by-product of economic activities, but
+instead a cost that is imposed on some and that beneﬁts others. Rectifying
+the market failures and governance failures that lead to environmental harm
+requires repairing the disparities of wealth and power that enable these
+failures.
+This does not mean that greater equality is a panacea for all environ-
+mental ills. A more democratic distribution of power and a more egalitarian
+distribution of wealth are not all that is needed to prevent environmental
+harm. To say that these are necessary does imply that they are sufﬁcient.
+Safeguarding the natural environment also will require us to cultivate an
+ethic of moral responsibility to others – particularly when the costs of
+environmental harm would primarily fall upon future generations.
+We can have a healthy environment, and bequeath one to future
+generations, by respecting nature’s limits and investing in nature’s wealth.
+Achieving these goals does not only require rebalancing our relationships
+with nature. It will also require rebalancing our relationships with our fellow
+humans.
+NOTES
+1. For accounts of the famine and its causes, see Sen (1981) and Ravallion (1987).
+For an account of the life in the village, see Hartmann and Boyce (1979, 1983) .
+JAMES K. BOYCE284
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 21]]
+2. For examples, see Narain and Agarwal (2007) on water harvesting in semi-arid
+zones of rural India, and Rahman and Minkin (2007) on the rehabilitation of inland
+ﬁsheries in Bangladesh. A distinction is sometimes made between restoration and
+rehabilitation, with the former referring to returning an ecosystem to ‘‘its historic
+trajectory’’ and the latter to ‘‘the reparation of ecosystem processes, productivity and
+services’’ ( Society for Ecological Restoration, 2004 ). If humans are regarded as an
+alien species – if we are truly apart from nature, not a part of it – this distinction
+makes sense: one may imagine the ‘‘historic trajectory’’ of ecosystems in the absence
+of any human impacts whatsoever. In my view, this is a peculiar view of history. In
+any event, proponents of this distinction have concluded that restoration ‘‘probably
+encompasses a large majority of project work that has previously been identiﬁed as
+rehabilitation.’’
+3. Michael Pollan (2006, pp. 22–23) observes that once the cycling of corn through
+animals is counted, the average American today has more corn in his diet than the
+average Mexican.
+4. For further discussion, see Boyce (1996, 2004) . So far, the sharp decline
+in Mexican corn production that was predicted by many as a result of NAFTA
+has not occurred, apparently because economic opportunities elsewhere in the
+Mexican economy have been so scarce (see Ackerman, Wise, Gallagher, Ney, &
+Flores, 2003 ).
+5. Samples of many Mexican maize varieties are stored in ‘‘seed banks’’ at
+agricultural research institutes. But seed banks are insecure, being subject to the
+perennial hazards of inadequate funding, accidents, and war. Moreover, having seeds
+in the bank is not the same as knowing about varietal properties such as pest
+resistance and climate sensitivity, information that is most readily obtained in the
+ﬁeld. And even at best, seed banks can conserve only the existing stock of genetic
+diversity; they cannot replicate the ongoing process of evolution that takes place in
+the farmers’ ﬁelds. For further discussion of the value of in situ (in-the-ﬁeld) crop
+genetic diversity, see Brush (2003) and Boyce (2006) .
+REFERENCES
+Ackerman, F., Wise, T. A., Gallagher, K. P., Ney, L., & Flores, R. (2003). Free trade, corn, and
+the environment: Environmental impacts of US–Mexico corn trade under NAFTA.
+Working Paper No. 03-06. Tufts University, Global Development and Environment
+Institute, Medford, Massachusetts.
+Ash, M., & Fetter, T. R. (2004). Who lives on the wrong side of the environmental tracks?
+Social Science Quarterly , 85(2), 441–462.
+Barrett, S., & Graddy, K. (2000). Freedom, growth, and the environment. Environment and
+Development Economics, 5, 433–456.
+Bartlett, R. (1989). Economics and power: An inquiry into human relations and markets .
+Cambridge: Cambridge University Press.
+Basu, K. (1983). On why we do not try to walk off without paying after a taxi ride. Economic
+and Political Weekly , 18, 2011–2012.
+Bell, D. (1996). The cultural contradictions of capitalism (2nd ed.) . New York: Basic Books.
+Is Inequality Bad for the Environment? 285
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 22]]
+Bouwes, N., Hassur, S., & Shapiro, M. (2003). Information for empowerment: The EPA’s
+risk-screening environmental indicators project. In: J. K. Boyce & B. G. Shelley (Eds),
+Natural assets: Democratizing environmental ownership . Washington, DC: Island
+Press, ch. 6.
+Boyce, J. K. (1996). Ecological distribution, agricultural trade liberalization, and in situ genetic
+diversity. Journal of Income Distribution , 6(2), 263–284.
+Boyce, J. K. (2002). The political economy of the environment . Northampton: Edward Elgar.
+Boyce, J. K. (2004). Green and brown? Globalization and the environment. Oxford Review of
+Economic Policy, 20(1), 105–128.
+Boyce, J. K. (2006). A future for small farms? Biodiversity and sustainable agriculture. In:
+J. K. Boyce, S. Cullenberg, P. K. Pattanaik & R. Pollin (Eds), Human development in the
+era of globalization: Essays in honor of Keith B. Grifﬁn (pp. 83–104). Northampton:
+Edward Elgar.
+Boyce, J. K. (2007). Inequality and environmental protection. In: J.-M. Baland, P. Bardhan &
+S. Bowles (Eds), Inequality, collective action, and environmental sustainability
+(pp. 314–348). Princeton: Princeton University Press.
+Boyce, J. K., Klemer, A. R., Templet, P. H., & Willis, C. E. (1999). Power distribution, the
+environment, and public health: A state-level analysis. Ecological Economics , 29,
+127–140. Reprinted in Boyce (2002, ch. 6).
+Brookﬁeld, H. (2001). Exploring agrodiversity. New York: Columbia University Press.
+Brown, L. (1978). The twenty-ninth day: Accommodating human needs and numbers to the Earth’s
+resources. New York: Norton.
+Brush, S. B. (2003). The lighthouse and the potato: Internalizing the value of crop genetic
+diversity. In: J. K. Boyce & B. G. Shelley (Eds), Natural assets: Democratizing
+environmental ownership. Washington, DC: Island Press, ch. 10.
+Bullard, R. D., & Johnson, G. S. (2000). Environmental justice: Grassroots activism and its
+impact on public policy decision making. Journal of Social Issues , 56(3), 555–578.
+Dorman, P. (2005). Evolving knowledge and the precautionary principle. Ecological Economics,
+53, 169–176.
+Haas, P. (1992). Banning chloroﬂuorocarbons: Epistemic community efforts to protect
+stratospheric ozone. International Organization, 46(1), 187–224.
+Harremoe¨s, P., et al. (2002). The precautionary principle in the 20th century: Late lessons from
+early warnings. London: Earthscan, for the European Environment Agency.
+Hartmann, B., & Boyce, J. K. (1979). Needless hunger: Voices from a Bangladesh village .
+San Francisco: Institute for Food and Development Policy.
+Hartmann, B., & Boyce, J. K. (1983). A quiet violence: View from a Bangladesh village. London/
+San Francisco: Zed Press/Institute for Food and Development Policy.
+King, M. L. (1965). Staying awake through a great revolution. Commencement address at
+Oberlin College, Oberlin, Ohio, June.
+Kitron, U., & Spielman, A. (1989). Suppression of transmission of malaria through source
+reduction: Antianopheline measures applied in Israel, the United States, and Italy.
+Reviews of Infectious Diseases , 11(3), 391–406.
+Mann, C. (2002). The real dirt on rainforest fertility. Science, 297, 920–923.
+Mann, C. (2004). Diversity on the farm. New York/Amherst, Massachusetts: Ford Foundation/
+Political Economy Research Institute. Available at http://www.peri.umass.edu/
+ﬁleadmin/pdf/Mann.pdf
+JAMES K. BOYCE286
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 23]]
+Morello-Frosch, R. A., & Jesdale, B. (2006). Separate and unequal: Residential segregation and
+estimated cancer risks associated with ambient air toxics in US metropolitan areas.
+Environmental Health Perspectives , 114(3), 386–393.
+Mulder, M. B., & Coppolillo, P. (2005). Conservation: Linking ecology, economics, and culture .
+Princeton: Princeton University Press.
+Narain, S., & Agarwal, A. (2007). Harvesting the rain: Fighting ecological poverty
+through participatory democracy. In: J. K. Boyce, S. Narain & E. A. Stanton (Eds),
+Reclaiming nature: Environmental justice and ecological restoration . London: Anthem
+Press, ch. 3.
+Neumann, R. P. (2001). Disciplining peasants in Tanzania: From state violence to self-
+surveillance in wildlife conservation. In: M. Watts & N. Peluso (Eds), Violent
+environments. Ithaca: Cornell University Press, ch. 13.
+Pastor, M. (2003). Building social capital to protect natural capital: The quest for
+environmental justice. In: J. K. Boyce & B. G. Shelley (Eds), Natural assets:
+Democratizing environmental ownership . Washington, DC: Island Press, ch. 4.
+Pastor, M., Bullard, R. D., Boyce, J. K., Fothergill, A., Morello-Frosch, R., & Wright, B.
+(2006). In the wake of the storm: Environment, disaster, and race after Katrina. New York:
+Russell Sage Foundation.
+Peluso, N. (1993). Coercing conservation: The politics of state resource control. Global
+Environmental Change, 3(2), 199–217.
+Pen˜a, D. (2003). The watershed commonwealth of the upper Rio Grande. In: J. K. Boyce &
+B. G. Shelley (Eds), Natural assets: Democratizing environmental ownership. Washington,
+DC: Island Press, ch. 9.
+Pollan, M. (2006). Omnivore’s dilemma: A natural history of four meals . New York: Penguin
+Press.
+Princen, T. (1997). The shading and distancing of commerce: When internalization is not
+enough. Ecological Economics , 20, 235–253. Reprinted In: T. Princen, M. Mainates &
+K. Conca (Eds), Confronting consumption, Cambridge, MA: MIT Press, 2002, ch. 5.
+Rahman, M., & Minkin, S. F. (2007). Net beneﬁts: The ecological restoration of inland ﬁsheries
+in Bangladesh. In: J. K. Boyce, S. Narain & E. A. Stanton (Eds), Reclaiming nature:
+Environmental justice and ecological restoration . London: Anthem Press, ch. 4.
+Rammel, C., & van den Bergh, J. C. J. M. (2003). Evolutionary policies for sustainable
+development: Adaptive ﬂexibility and risk minimising. Ecological Economics , 47,
+121–133.
+Ravallion, M. (1987). Markets and Famines . Oxford: Clarendon.
+Sen, A. (1981). Poverty and famines: An essay on entitlements and deprivation . Oxford:
+Clarendon.
+Sen, A. (1986). Adam Smith’s prudence. In: S. Lall & F. Stewart (Eds), Theory and reality in
+development. London: Macmillan.
+Sen, A. (2004). Why we should preserve the spotted owl. London Review of Books , 26(3),
+February 5.
+Society for Ecological Restoration. (2004). The SER International primer on ecological
+restoration (Available at www.ser.org). Tucson: Society for Ecological Restoration
+International.
+Szasz, A., & Meuser, M. (1997). Environmental inequalities: Literature review and proposals
+for new directions in research and theory. Current Sociology, 45(3), 99–120.
+Is Inequality Bad for the Environment? 287
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 24]]
+Torras, M., & Boyce, J. K. (1998). Income, inequality, and pollution: A reassessment of the
+environmental Kuznets curve. Ecological Economics , 25, 147–160. Reprinted in Boyce
+(2002, ch. 5).
+Willott, E. (2004). Restoring nature, without mosquitoes? Restoration Ecology, 12(2), 147–153.
+World Commission on Environment and Development. (1987). Our common future
+(the Brundtland Report). New York: Oxford University Press.
+Young, O. (1994). International governance: Protecting the environment in a stateless society .
+Ithaca: Cornell University Press.
+JAMES K. BOYCE288
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)
+
+
+[[PAGE 25]]
+This article has been cited by:
+1. Alexandre Berthe, Luc Elie. 2015. Mechanisms explaining the impact of economic
+inequality on environmental deterioration. Ecological Economics  116, 191-200.
+[CrossRef]
+2. Kavya Michael, Vamsi Vakulabharanam. 2015. Class and climate change in post-
+reform India. Climate and Development 1-10. [CrossRef]
+3. Nilufar Matin, Mohammad Islam, Musingo Mbuvi, Bernard Odit, Paul Ongugo,
+Mohammad Syed. 2014. Group Inequality and Environmental Sustainability:
+Insights from Bangladesh and Kenyan Forest Commons. Sustainability 6,
+1462-1488. [CrossRef]
+4. David N. Pellow, Hollie Nyseth Brehm. 2013. An Environmental Sociology for
+the Twenty-First Century. Annual Review of Sociology 39, 229-250. [CrossRef]
+5. Prakash Kashwan. 2013. The politics of rights-based approaches in conservation.
+Land Use Policy 31, 613-626. [CrossRef]
+6. Matthieu Clement, Andre Meunie. 2010. Is Inequality Harmful for the
+Environment? An Empirical Analysis Applied to Developing and Transition
+Countries. Review of Social Economy 68, 413-445. [CrossRef]
+Downloaded by Chinese University of Hong Kong At 20:40 01 February 2016 (PT)

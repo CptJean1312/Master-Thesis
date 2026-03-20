@@ -1,0 +1,1075 @@
+[[PAGE 1]]
+ORIGINAL RESEARCH
+published: 10 March 2021
+doi: 10.3389/frwa.2021.633046
+Frontiers in Water | www.frontiersin.org 1 March 2021 | Volume 3 | Article 633046
+Edited by:
+Heidi Kreibich,
+Helmholtz Centre Potsdam, Germany
+Reviewed by:
+Mariele Evers,
+University of Bonn, Germany
+Jessica Budds,
+University of East Anglia,
+United Kingdom
+*Correspondence:
+Jacques Teller
+Jacques.Teller@uliege.be
+Specialty section:
+This article was submitted to
+Water and Human Systems,
+a section of the journal
+Frontiers in Water
+Received: 24 November 2020
+Accepted: 10 February 2021
+Published: 10 March 2021
+Citation:
+Poussard C, Dewals B,
+Archambeau P and Teller J (2021)
+Environmental Inequalities in Flood
+Exposure: A Matter of Scale.
+Front. Water 3:633046.
+doi: 10.3389/frwa.2021.633046
+Environmental Inequalities in Flood
+Exposure: A Matter of Scale
+Clémence Poussard 1, Benjamin Dewals 2, Pierre Archambeau 2 and Jacques Teller 3*
+1 Aptiskills, Paris, France, 2 Hydraulics in Environmental and Civil Engineering, Urban a nd Environmental Engineering,
+University of Liege, Liege, Belgium, 3 Local Environment Management and Analysis, Urban and Envir onmental Engineering,
+University of Liege, Liege, Belgium
+Studies on inequalities in exposure to ﬂood risk have explor ed whether population of
+a lower socio-economic status are more exposed to ﬂood hazar d. While evidence
+exist for coastal ﬂooding, little is known on inequalities f or riverine ﬂoods. This paper
+addresses two issues: (1) is the weakest population, in soci o-economic terms, more
+exposed to ﬂood hazard, considering different levels of exp osure to hazard? (2) Is the
+exposure to ﬂood risk homogeneous across the territory, con sidering different scales
+of analysis? An analysis of the exposure of inhabitants of Li ège province to ﬂood risk
+was conducted at different scales (province, districts, an d municipalities), considering
+three levels of exposure to ﬂood hazard (level 1- low hazard, level 3- high hazard),
+and ﬁve socio-economic classes (class 1-poorest, class 5-w ealthiest households). Our
+analysis conﬁrms that weaker populations (classes 2 and 3) a re usually more exposed
+to ﬂood hazards than the wealthiest (classes 4 and 5). Still i t should be stressed that the
+most precarious households (class 1) are less exposed than l ow to medium-range ones
+(classes 2 and 3). Further on the relation between socio-economic status and exposure to
+ﬂood hazard varies along the spatial scale considered. At th e district level, it appears that
+classes 4 and 5 are most exposed to ﬂood risk in some periphera l areas. In municipalities
+located around the center of the city, differences of exposu re to risk are not signiﬁcant.
+Keywords: ﬂood hazard, environmental inequalities, GIS, sc ale, social vulnerability
+INTRODUCTION
+Worldwide, ﬂoods represent the most frequent natural disast er (
+UNISDR, 2015 ) and,
+over the period 1995–2015, they have aﬀected more than 2 billio n people ( UNDRR, 2015 ).
+Moreover, the detrimental eﬀects of ﬂoods are projected to furt her increase over the 21st century
+under the combined eﬀect of climate and demographic evolution s, unprecedented urbanization as
+well as economic development (Blaikie et al., 1994; Ashley et al., 2005; Hirabayashi et al., 2013; Chen
+et al., 2015; Lehmann et al., 2015; Mallakpour and Villarini, 2015; Neumann et al., 2015; Ward et al.,
+2020).
+Improving ﬂood management is therefore of critical importanc e (e.g., Klijn et al., 2004; IPCC,
+2012; Aerts et al., 2014 ). However, the design, optimal sizing, and prioritization of measures for
+reducing the ﬂood impacts must be based on a reliable appraisal o f the distribution of ﬂood risk
+in space and in time under various scenarios. This requires ac curate tools for modeling both ﬂood
+hazard and ﬂood vulnerability (Wright, 2014; Vorogushyn et al., 2018 ).
+
+[[PAGE 2]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+Birkmann (2006) distinguishes four complimentary
+dimensions of vulnerability, i.e., the economic, social,
+environmental, and institutional dimensions of vulnerabi lity,
+acknowledging that the later one, the institutional dimens ion, is
+underpinning the ﬁrst three.
+In state-of-the-art quantitative risk modeling approaches,
+ﬂood vulnerability is usually focusing on the economic
+dimension of vulnerability and evaluated as a combination o f
+exposure and susceptibility (
+Greiving et al., 2007 ). The former
+is typically expressed in terms of land use in the ﬂoodplains,
+urban density, or economic value of the assets-at-risk; whi le
+the latter is estimated from damage models (
+Merz et al., 2010 ).
+In current approaches, the susceptibility in the housing secto r
+is mostly related to the type of building and to construction
+characteristics (e.g.,
+Dottori et al., 2016). Some multivariate ﬂood
+damage models incorporate also the socio-economic status in
+the factors controlling susceptibility, by using parameters such
+as income, age, household size, house ownership, or aggregat ed
+indicators (
+Merz et al., 2013; Kreibich et al., 2017 ).
+The social dimension of vulnerability “deals with aspects
+of justice, social diﬀerentiation and societal organizatio n as
+well as individual strength” ( Birkmann, 2006 , p. 26). Social
+inequalities inﬂuence the susceptibility of various groups to harm
+and their ability to respond to hazards ( Cutter et al., 2003 ).
+Social justice hence appears as a central challenge in ﬂood
+risk assessment and mitigation (
+Vojinovic and Abbott, 2012 ).
+Addressing this issue in a comprehensive way is a precondition
+to promote an active stakeholder participation, where participants
+will progressively broaden the scope of their individual conc erns
+through a regular interaction with other stakeholders as we ll
+as with simulation results (
+Abbot and Vojinovic, 2010a,b ).
+Hydrological modeling can be viewed as an adequate means
+to promote a shared understanding of the issues at stake and
+to catalyze creative thinking about possible responses to wate r-
+related threats. Social justice here implies that “those who are
+impacted and who would beneﬁt from water must have the
+opportunity to participate to its planning and management”
+(
+Abbot and Vojinovic, 2014, p. 524).
+Social vulnerability studies are rooted in the assumption th at
+interactions between social agents and exposure to ﬂoods are
+dynamic by nature (
+Turner et al., 2003 ). Thinking in systemic
+terms requires to move from a static to a process- and holistic -
+oriented understanding of vulnerability ( Turner et al., 2003;
+Birkmann, 2006 ). Accordingly, diﬀerences between groups as
+regard with their exposure to ﬂoods have to be considered at al l
+stages of the potential event, including the preparation, warn ing,
+recovery, and adaptation stages. Conversely ﬂoods may have a n
+impact on people relationships and social networks, especially
+when they involve a temporary relocation of inhabitants (
+Tapsell
+et al., 2002 ). They can lead to a reappraisal of the adequacy of
+the warnings and support received from the community and
+the public authorities. Finally adaptation and coping strateg ies
+may reduce exposure or alleviate damages related to ﬂoods.
+Adaptation usually refers to long-term collective mechanis ms,
+possibly involving changes in norms and structures that lead to
+crises, while coping would rather address short-term indivi dual
+responses dedicated to the protection and conservation of the
+current system (
+Birkmann, 2006; Babcicky and Seebauer, 2017;
+Sorg et al., 2018).
+There is no reason to believe that the socio-economic
+characteristics of the population living in ﬂoodplains is simila r
+to those of the rest of the population. Wealthy households can
+typically trade-oﬀ the advantages of accessibility and avai lable
+amenities, with the risk of hazard occurrence (
+Felsenstein and
+Lichter, 2014 ). This can lead to a self-sorting of weakest
+households into deprived, hazardous locations ( Lall and
+Deichmann, 2009 ). In terms of response, wealthiest households
+usually have better resources to cope with hazard when it
+occurs, may it be in terms of economic assets, insurances, or
+social networks (
+Tapsell et al., 2002 ). Furthermore, they rather
+tend to be homeowners. They may hence be less likely to
+move when faced with ﬂood hazards. Social capital “inﬂuences
+households’ perception of and coping with ﬂood risks” (
+Babcicky
+and Seebauer, 2017 , p. 1017). Therefore, here, we consider
+the question of whether the socio-economic status acts as a
+determinant for living in a ﬂood-prone area. This knowledge
+is of practical value as optimal risk reduction policies, such a s
+risk communication strategies or support for preparedness and
+recovery, need to be tailored to the actual needs of the population,
+which in turn may depend on the socio-economic status.
+Ignoring this information may lead to suboptimal decision-
+making and resource allocation.
+The appreciation of the socio-economic characteristics
+of population in ﬂood-prone areas relates also closely
+to the concept of environmental inequalities . In general,
+environmental inequalities typically address the higher ex posure
+to environmental disamenities (e.g., air pollution, noise) o r
+risks faced by certain socio-economic groups (
+Cutter et al.,
+2003; Walker and Burningham, 2011; Lejeune and Teller, 2016 ;
+Lejeune et al., 2016 ). The deﬁnition of the socio-economic
+groups may diﬀer depending on the socio-economic context and
+the type of pollution or risk considered. Exposure to ﬂoods is
+a potential source of environmental inequalities (
+Fielding and
+Burningham, 2005; Begg et al., 2015; Maldonado et al., 2016; La
+Rosa and Pappalardo, 2019).
+Studies on inequalities in exposure to ﬂood hazard in England
+and Wales found out that there is no signiﬁcant diﬀerence of
+exposure to ﬂoods along riversides between more precarious
+and wealthier groups (
+Fielding and Burningham, 2005; Walker
+and Burningham, 2011; Fielding, 2012 ). In contrast, more
+precarious groups appeared to be more exposed to ﬂoods than the
+wealthier on the seaside. This ﬁnding was attributed to hist orical
+development: the working class used to settle preferentially ne ar
+harbors on the seaside, but there was not such preferential
+distribution inland.
+In the present research, we examine whether ﬂood exposure
+diﬀers between diﬀerent socio-economic groups. It combines an
+engineering with a social science perspective on the concept of
+vulnerability (
+Karagiorgos et al., 2016 ). We consider as a case
+study the province of Liege in Belgium, where urbanization ha s
+taken place over the last two centuries nearby industrial sit es,
+roads and railways situated to a great extent along the river s and
+waterways ( Beckers et al., 2013; Bruwier et al., 2018; Mustafa
+A. et al., 2018 ). Our ﬁndings are likely to diﬀer from those
+Frontiers in Water | www.frontiersin.org 2 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 3]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+conducted so far in diﬀerent contexts (Fielding and Burningham,
+2005; Walker and Burningham, 2011; Fielding, 2012 ). Our
+methodology aims at unveiling which socio-economic groups are
+more exposed to ﬂood hazard, and how the links between ﬂood
+exposure and socio-economic status vary across the territor y,
+across scales (between the municipality and the province leve ls),
+and for diﬀerent levels of ﬂood hazard. Our approach takes the
+view that social vulnerability is inherently context-sens itive and
+should hence be analyzed at diﬀerent scales so as to address
+variations in the drivers of exposure to ﬂood hazard.
+By addressing a research question at the interface between
+social and hydrological sciences, this study is an example of an
+interdisciplinary approach, as advocated by
+Carr et al. (2020)
+and others to advance sustainable ﬂood risk management and
+enhance resilience of our societies.
+DATA AND METHODS
+In this section, we ﬁrst introduce the Case Study. Next, we present
+the main input data, which consist in a ﬂood hazard map (Flood
+Hazard Analysis) and a Socio-Economic Disparity map at the
+district level. Finally, we detail how data were processed (D ata
+Processing Method).
+Case Study
+Located in the eastern part of Belgium, Liege province (NUTS
+2 level according to the European Union common classiﬁcation
+of territorial units) has an area of 3,862 km 2 and 1.1 million
+inhabitants. Besides the city of Liege, three major towns
+(Verviers, Huy, and Eupen) are located in the province
+(Figure 1). A portion of the eastern part of the province is
+hardly urbanized and is occupied by a national park (High Fens) .
+The province is divided into four districts (NUTS 3 level) and
+84 municipalities. The households are unevenly distributed in-
+between these four districts: 59% of the total population is located
+in Liège district, 25% in Verviers district, 9% in Huy distri ct, and
+7% in Waremme district.
+The territory has long been structured along the main
+river, the Meuse, and its main tributaries, the Ourthe and the
+Vesdre ( Figure 1). From a historical perspective, the industrial
+revolution in the 19th century lead to the development of urba n
+centers nearby the rivers. This trend was reinforced by the
+construction of railways along the bottom of the valleys and
+remains visible nowadays, with a concentration of industri al
+brownﬁelds and socio-economic disparities along the former
+industrial axes following the main water courses. Along the se
+rivers, large ﬂoodplains are prone to riverine ﬂoods, especial ly
+at the end of the winter due to the combined eﬀect of rainfall
+and snowmelt in the upper part of the catchments. This occurs
+mostly in the national park High Fens, which is also where larg e
+dams and reservoirs are located (
+Bruwier et al., 2015; Cuvelier
+et al., 2018).
+The organization of the built environment, with dense
+settlements concentrated along rivers, is prone to environm ental
+inequalities since more deprived socio-economic groups tend to
+be located in the inherited industrial axes along the water courses.
+The housing sector is predominantly dominated by owner-
+occupation in Belgium. This especially the case of periurban
+and rural areas. At the opposite, renting is dominant in city
+centers. This may be related to the structure of the housing
+stock and the resources of urban dwellers (
+Lejeune et al.,
+2016). Long-standing public policies in favor of home ownership
+indirectly promoted periurban development and the segregatio n
+of diﬀerent income groups ( Teller, 2009). This trend was further
+fueled by land use planning policies that were overtly oversiz ed
+and allowed the development of very low-density settlements
+for those would could aﬀord it (
+Mustafa A. M. E. S. et al.,
+2018). Nowadays, the socio-economic proﬁle of the population
+of Liege province is medium to low ( Grippa et al., 2015 ),
+which is mainly related to the impact of deindustrialization . Still,
+the territory is characterized by considerable spatial dispari ties
+between socio-economic groups, which makes it valuable case
+study for analyzing possible relations between socio-economi c
+disparities and exposure to ﬂood hazard.
+Flood Hazard Analysis
+The ﬂood hazard map used here was generated based on two-
+dimensional hydraulic modeling for the river Meuse and its
+main tributaries. A simpliﬁed approach was used for the smaller
+streams. The resolution of the hydraulic model consisted of ce lls
+of 2 m by 2 m up to 5 m by 5 m and the calculation provided
+water depth and velocities in the main river bed and throughou t
+the ﬂoodplains (
+Erpicum et al., 2010; Bruwier et al., 2015 ). As
+displayed in Figure 1, these results were then classiﬁed along
+three levels of hazard, considering ﬂood frequency, water d epths
+and velocities: low to high hazard (level 1), medium to high
+hazard (level 2), and high hazard zones (level 3). It should be
+stressed that these ﬂood maps solely provide information on
+hazard and do not encompass the vulnerability component of
+risk. Data for assessing vulnerability at the building leve l is not
+readily available throughout the province and was considered
+beyond the scope of the present research.
+Socio-Economic Disparity Map
+A socio-economic disparity map was used to provide a
+classiﬁcation of the population according to its socio-econom ic
+status. This information is available at the level of the sta tistical
+unit (census unit). The territory of the province of Liege
+is covered by 2,609 statistical units ( Figure 2). The area of
+these statistical units varies between 2.3 and 5,834 ha with a
+median value of 43.3 ha. Statistical units typically correspon d to
+neighborhoods in dense urban areas and encompass larger zone s
+in rural areas (
+Dujardin et al., 2014).
+The classiﬁcation of the statistical units is based on a princi pal
+component analysis considering 23 indicators, available at t he
+statistical unit level, grouped along the following four dimensions
+(Grippa et al., 2015):
+(i) origin and nationality,
+(ii) taxable income level,
+(iii) unemployment and participation rate,
+(iv) share of households with social security income.
+The analysis allowed the classiﬁcation of all statistical uni ts based
+on a single index of social disparity (ISD) divided in ﬁve classes ,
+with class 1 gathering the more deprived statistical units and
+class 5 the more aﬄuent ones. As can be seen by comparing
+Frontiers in Water | www.frontiersin.org 3 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 4]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 1 | Location of the Province of Liège (Belgium), with the main ur ban areas, the water bodies and the ﬂood hazard zones.
+Figures 1, 2, social deprivation is mostly concentrated in the
+more densely urbanized parts of the province of Liege.
+Data Processing Method
+As sketched in Figure 3, the ﬂood hazard map and the socio-
+economic disparity map were combined with cadastral data so
+as to analyze the exposure to ﬂood hazard at the building level.
+The socio-economic proﬁle of the households in each
+individual building was inferred from the values available at the
+level of the statistical unit. Possible socio-economic dispa rities
+within a given statistical unit were assumed negligible. Des pite
+this simpliﬁcation, examining ﬂood exposure at the building
+level remains nonetheless a major improvement compared to
+studies conducted at the level of predeﬁned administrative u nits
+that do not coincide with the limits of the ﬂood hazard zones
+(
+Maantay and Maroko, 2009 ). Considering disparities within
+statistical units would require disaggregated data at the b uilding
+scale, which are not available throughout the case study are a.
+Frontiers in Water | www.frontiersin.org 4 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 5]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 2 | Index of social disparity (ISD) in the Province of Liege.
+FIGURE 3 | Combination of ﬂood hazard and socio-economic data at the
+building level through the use of cadastral data. Squares re present building
+footprints. Cadastral data provides information about the number of housings
+per building. The combination of the data sets results in a da tabase of
+housings with a given index of social disparity (ISD) class an d a given hazard
+level covering the entire territory. This is used for estima ting the number of
+households exposed to a certain level of hazard along the dif ferent
+socio-economic levels.
+The number of households accounted for at the statistical unit
+level were attributed to each building in proportion with the
+number of housing units per building given by cadastral data.
+When a building was included in two or more ﬂood hazard zones,
+its exposure was selected as the highest level of exposure.
+Analyses at the Province and District Levels
+We calculated the distribution of households, Hn,j, for the
+ﬁve socio-economic classes ( n = 1–5) and the three level of
+exposure to ﬂood hazard ( j = 1–3) for the entire Province.
+These ﬁgures can then be compared with the distribution
+of households along the ﬁve socio-economic classes at the
+province level so as to get an estimate of the over- or under-
+exposition of some socio-economic groups to a given level
+of hazard.
+The same calculations were applied at the district level for
+all four districts (Liege, Verviers, Waremme, and Huy) and
+compared with the distribution of households by ISD classes for
+each district.
+Analysis at the Municipal Level
+The same calculations were also applied for all 84 municipalities
+of the province. It was then possible to identify those
+municipalities where:
+• lower ISD households are the most exposed to a given level
+of ﬂood hazard, meaning that the percentage of lower ISD
+households located in ﬂood prone zones is more than 5%
+higher than the percentage of lower ISD households in the
+entire municipality,
+• higher ISD households are the most exposed to a given level
+of ﬂood hazard, meaning that the percentage of higher ISD
+households located in ﬂood prone zones is more than 5%
+higher than the percentage of higher ISD households in the
+entire municipality,
+Frontiers in Water | www.frontiersin.org 5 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 6]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+• there is no signiﬁcant diﬀerence between household
+distributions in the considered ﬂood hazard zone and in
+the entire municipality.
+For these three categories of municipalities, the exposure to ﬂood
+at the municipal level was calculated as follows:
+Ei,k = θi,k
+∑θi
+(1)
+where Ei,k is the exposure of municipality i to the ﬂood hazard
+level k (k = 1, 2, 3), θi,k is the number of households in the
+municipality located in the ﬂood hazard zone of level k and ∑θi
+is the total number of households located in the municipality i.
+Thresholds Eup,k et Elow,k are then calculated for each ﬂood
+level k on the basis of the mean exposure of the municipality
+(µFL,k) and its standard deviation:
+Eup,k = µk + 1
+2
+∑ ⏐
+⏐Ei,k − µZI,k
+⏐
+⏐2
+and
+Elow,k = µFL,k − 1
+2
+∑ ⏐
+⏐Ei,ZI,k − µZI,k
+⏐
+⏐2
+(2)
+The exposure to ﬂood hazard of each municipality was compared
+to these thresholds in order to identify which municipality i s
+characterized by a strong exposure (higher than upper threshol d
+Eup,k), medium exposure [in between the two thresholds and
+low exposure (smaller than lower threshold E low,k)] for each
+ﬂood level.
+The combination of the three categories of municipalities
+deﬁned as regard with ISD with the three categories of exposur e
+to ﬂood hazard generated a 3 × 3 matrix of municipalities that
+could be easily mapped ( Figure 4).
+RESUL TS
+In this section, the results obtained at the Province Level,
+District Level, and Municipality (LAU, Formerly NUTS5) level s
+are presented.
+Province Level
+Distribution of Households in the Province vs. in
+Flood Hazard Zones
+The distribution of households across the ﬁve ISD classes was ﬁrst
+compared between the whole province of Liege and in the ﬂood
+hazard zones.
+As can be seen in Figure 5, the distribution of households in
+the whole province peaks in class 1 (30% of households) and
+decreases down to class 5 (16% of households). This contrast s
+with the distribution of the households in ﬂood hazard zones .
+Indeed, the distribution of households in ﬂood hazard zones
+peaks in classes 2 and 3 (21 and 25%, respectively, compared to
+20 and 18% for the whole province). The portion of households
+in class 4 is slightly higher in ﬂood hazard zones compared
+to the whole province (18 vs. 17%), whereas it is considerably
+lower in class 1 (19 vs. 30%). No substantial diﬀerence can be
+found in class 5. This is also highlighted by the yellow bars in
+Figure 6B, which shows the diﬀerence between the distribution
+of households in the whole province and in ﬂood-prone zones.
+Figure 6 aims at revealing whether the choice of a particular
+level of hazard (low, medium, or to high) for delineating the
+ﬂood prone area has an inﬂuence on the results. It compares
+the distribution of households as a function of their ISD
+class between the whole province and in ﬂood-prone areas
+characterized by diﬀerent levels of hazard: either only “hig h
+hazard, ” or “medium to high hazard” or “low to high hazard.”
+Figure 6A shows the obtained distributions, while Figure 6B
+displays the diﬀerence between the distribution in a particular
+ﬂood prone area and the distribution in the whole province.
+Hence, Figure 6B highlights whether a given ISD class is over-
+or underrepresented in each ﬂood prone area. Compared to
+Figures 5, 6 adds information on the distributions within the
+“medium to high” hazard and the “high” hazard zones.
+Irrespective of the considered level of hazard, class 3 is larg ely
+overrepresented in ﬂood hazard zones ( + 7 to + 11%) compared
+to the whole province. The same applies for class 2, particularly
+in the case of the “medium to high” hazard and the “high” hazard
+zones ( + 6 and + 7%, respectively). For all hazard zones, class
+1 is strongly underrepresented (– 8 to – 11%) compared to the
+whole province. Under- or overrepresentation of class 4 depends
+on the considered level of hazard; but the magnitude of the
+changes remains small (between – 2 and + 2%). In class 5, a
+more considerable inﬂuence of the considered level of hazard
+could be detected: when all ﬂood hazard zones are taken into
+account, there is virtually no diﬀerence in the share of class 5
+compared to the whole province, whereas in “medium to high”
+and “high” hazard zones, class 5 is substantially underrepresented
+(– 4 and −7%, respectively). Overall, apart from the case of class
+5, Figure 6B suggests that the main ﬁndings so far remain valid
+whatever the level of hazard considered to delineate the exte nt of
+the ﬂood-prone areas.
+Chance of Being Situated in a Flood Hazard Zone
+The results can also be examined the other way round, i.e., by
+looking at the chance for households of a particular ISD class
+to be situated in a ﬂood-prone area. To do so, the number of
+households of a particular ISD class situated in a ﬂood hazard
+zone was divided by the total number of households of this ISD
+class in the province ( Figure 7A).
+Additionally, Figure 7B displays the “comparative
+environmental risk index” proposed by
+Harner et al., 2002
+and used by Fielding and Burningham, 2005 . This index is
+evaluated as the ratio between the chance for a household of a
+particular ISD class to be situated in a ﬂood hazard zone and th e
+chance for households of all other classes to be situated in th e
+same ﬂood hazard zone. A ratio above 1 in Figure 7B means that
+the chance of this particular ISD class to be situated in a ﬂood
+hazard zone is higher that the chance of being situated in thi s
+ﬂood hazard zone for the rest of the population (i.e., all other
+ISD classes).
+The results show that the chance of being situated in a ﬂood
+hazard zone is higher for households in ISD classes 2 and 3
+than for the rest of the population. Vice-versa, the chance of
+being situated in a ﬂood hazard zone is lower for households
+Frontiers in Water | www.frontiersin.org 6 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 7]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 4 | Variation in the exposure to ﬂood hazard between municipalit ies of the Province.
+FIGURE 5 | Distribution of households as a function of their ISD class, i n the whole province of Liège as well as in ﬂood hazard zones.
+in ISD classes 1 and 5 than for the rest of the population.
+For households in ISD class 4, the chance of being situated
+in a ﬂood hazard zone is slightly higher when the level of
+hazard “low to high” is considered; but when the focus is set o n
+higher levels of hazard (“medium to high” or high), househol ds
+in ISD class 4, like those in ISD class 5, have a much lower
+chance of being situated in a ﬂood hazard zone than the rest of
+the population.
+District Level
+Next, we explore whether the results found at the
+level of the whole province equally apply at the level
+of each individual district. For each of the four
+districts in the province, the distribution of the
+households as a function of their ISD class is shown
+in Figure 8, both for the whole district and in the ﬂood
+hazard zones.
+Frontiers in Water | www.frontiersin.org 7 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 8]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 6 | (A) Distribution of households as a function of their ISD class, i n the whole province and in ﬂood-prone areas deﬁned by to differ ent ranges of hazard (low
+to high, medium to high, or high only); and (B) difference with respect to the household distribution in th e whole province.
+FIGURE 7 | (A) Chance for households of being situated in a particular ﬂood h azard zone, as a function of their ISD class. (B) Comparative environmental risk index
+as a function of the level of hazard.
+Frontiers in Water | www.frontiersin.org 8 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 9]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 8 | Distribution of households in the four districts of the Prov ince regarding their ISD class and their location in ﬂood hazar d zones.
+The distributions obtained for the district of Liege are
+very similar to those found at the province level. This was
+expected to a great extent since the population in Liege
+district represents almost 60% of the population in the whole
+province. In Verviers District, the results are also similar to
+those computed at the province level, except for ISD class 4,
+which is overrepresented in the three ﬂood-prone zones. In
+contrast, the distributions obtained for the two other dist ricts
+diﬀer considerably from those at the province level. In Huy
+District, ISD class 1 is overrepresented in low to high hazard
+ﬂood-prone zone and in medium to high hazard ﬂood-prone
+zone, unlike ISD class 1 in the whole province. In Waremme
+district, results go in the opposite direction. ISD classes 4 a nd 5
+are overrepresented in ﬂood-prone zones whereas classes 2 and
+3 are underrepresented in these zones. Class 1 is not signiﬁca ntly
+present in Waremme District.
+The comparative environmental risk index evaluated for each
+district individually is shown in Figure 8. It highlights that, in the
+district of Huy, the chance for a household of ISD class 2 or 3 t o
+be situated in a ﬂood hazard zone is remarkably higher than in
+the other districts. It can also be observed that in the distr ict of
+Waremme, the trends are opposite to those found in the other
+three districts: ISD classes 4 and 5 are much more exposed to
+ﬂood hazard in Waremme district than in other districts.
+Overall, Figures 8, 9 emphasize a substantial spatial variability
+in the inﬂuence of the ISD class on exposure to ﬂood
+hazard. Indeed, the household distributions and the compara tive
+environmental risk indices found, at least in some individu al
+districts, diﬀer noticeably from the corresponding distribut ions
+and comparative environmental risk indices obtained at the
+province level.
+Municipality Level (LAU, Formerly NUTS5)
+Figure 4 displays in red municipalities where lower ISD classes
+are overrepresented in ﬂood-prone area, in green municipaliti es
+where higher index of social disparity (ISD) classes are
+overrepresented in ﬂood-prone area, and in gray municipalitie s
+where diﬀerences of exposure are not signiﬁcant.
+In municipalities located in Liège district along the Meuse
+River, diﬀerences of exposure between ISD classes are not
+signiﬁcant (Figure 4). This area is the one that concentrates the
+greater number of statistical units with a low ISD class (Figure 6).
+It can be further observed that, in Waremme district, while the
+ISD level is generally higher, wealthy populations may be exposed
+to higher hazard. Consistently with the results found at the
+district level, Figure 4 stresses that the inﬂuence of the ISD class
+on exposure to ﬂood hazard shows some great spatial variabilit y
+at the municipal level, indicating that the results found do depend
+on scale of the analysis.
+DISCUSSION
+This study aimed at answering two questions in order to
+evaluate the existence of environmental inequalities as re gard
+Frontiers in Water | www.frontiersin.org 9 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 10]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+FIGURE 9 | Comparative environmental risk index (CERI) in each distric t, as a function of the level of hazard.
+FIGURE 10 | Hypothesis to explain the results obtained at the province l evel.
+with exposure to ﬂood hazard in Liège province. (1) Is the
+weakest population, in socio-economic terms, more exposed to
+ﬂood hazard, considering diﬀerent levels of exposure to hazar d?
+(2) Is the exposure to ﬂood risk homogeneous across the territory,
+considering various levels of analysis? The analysis addressed ﬁrst
+the province level and then the district and municipal levels.
+At the province level, results show that classes 2 and 3
+are signiﬁcantly overrepresented in all three ﬂood-prone zon es.
+Frontiers in Water | www.frontiersin.org 10 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 11]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+The opposite observation was found for classes 1, 4, and 5.
+It conﬁrms that the socio-economic conditions in hazard
+zones diﬀer from those observed in the whole population of
+the province . Possible mechanisms to explain these diﬀerences
+are hypothesized in Figure 10. In the case study area like in
+many places elsewhere, the bottom of the valleys tends to
+be more densely urbanized. Besides, wealthier population is
+underrepresented in densely urbanized areas, and vice-vers a in
+more rural areas. These aspects are consistent with the lower
+exposure of ISD classes 4 and 5, and the higher exposure of
+ISD classes 2 and 3. However, it does not explain why ISD
+class 1 is underrepresented in the ﬂood hazard zones. Another
+mechanism probably at stake is the level of the standards of
+ﬂood protection used for sizing ﬂood defenses. These standar ds
+are higher in densely urbanized areas compared to more rural
+areas. This may be a reason why the ISD class 1 is less
+exposed to ﬂood hazard. In particular, the methodology used
+for determining the ﬂood hazard map considered here is based
+on ﬂood scenarios with return periods up to 100 years, while
+the protection standard in the city of Liege is of the order
+of 300 years. As a consequence, none of the relatively poor
+neighborhoods close to the city center of Liege are situated in a
+ﬂood hazard zone.
+A comparison of the results at the province and district
+levels highlights that observations related to exposure to
+ﬂood hazard somehow vary with the scale considered in the
+study. It is hence crucial to adopt a multi-scale analysis in the
+analysis of environmental inequalities. Otherwise domina nt
+features of the issue may overshadow the situation faced by s ome
+communities. This further conﬁrms the place-based characte r
+of social vulnerability (
+Cutter et al., 2003; Turner et al., 2003;
+Birkmann, 2006 ). The hydrosocial mechanisms at play in one
+district may basically diﬀer from the ones observed in other
+districts. Place aﬀects both the drivers governing the exposu re
+to ﬂood hazard and the adaptation capabilities of concerned
+households. One of the strengths of place-based analyses is
+their potential for a more eﬃcient public involvement and a
+shared assessment of vulnerabilities (
+Turner et al., 2003; Abbot
+and Vojinovic, 2014 ). Collective and individual responses
+should be framed in this perspective, addressing the social an d
+hydrological dimensions as a coupled system heavily reliant on
+local conditions.
+Lower ISD classes tend to be more exposed to ﬂood
+risk in rural areas and small-sized cities like Huy, whereas
+it is the case in only about half of the municipalities of
+post-industrial urban areas like Liege and Verviers. In
+more aﬄuent and recently developed periurban areas
+located in the north of the province, higher ISD classes
+are more exposed to ﬂood in most municipalities. These
+results conﬁrm those computed at the district level. Here
+again they stress the need of a multi-scale analysis in order
+to reveal diﬀerences in exposure to ﬂood hazard along
+places and groups that may be hidden by the aggregation
+of divergent situations.
+Previous studies showed that the level of exposure to ﬂood
+hazard varies with ISD class, especially on the seaside. Moreo ver,
+those results vary with the scale considered: diﬀerences of
+exposure between ISD classes are bigger on the seaside than
+in the countryside. However, in these studies, the level of
+exposure to ﬂood hazard in the UK was found to decrease with
+precariousness, whereas in this paper, the level of exposure to
+ﬂood hazard in Liège Province, Belgium, was found to peak in
+classes 2 and 3.
+Several studies were carried out to evaluate environmental
+inequalities regarding ﬂood hazard exposure in England
+and Wales (
+Fielding and Burningham, 2005; Walker and
+Burningham, 2011; Fielding, 2012). These three studies are based
+on diﬀerent methods for computing the population at risk and
+diﬀerent methods for calculating the level of exposure of each ISD
+class. Fielding and Burningham’s study (2005) and
+Walker and
+Burningham study 2011 use disaggregation of data to compute
+the at-risk population, whereas Fielding’s is based on a data ba se
+that provides postal addresses that are considered in at-risk areas.
+To calculate the level of exposure, Fielding and Burningham’s
+study (2005) proposed the comparative environmental risk index
+that we used in this paper. It is important to consider both at
+risk and not-at-risk populations in the analysis of environmen tal
+inequities as it allows comparing the exposure of all groups with
+the one of the general population –a meaningful index in terms
+of decision making.
+Home ownership and household size are not taken into
+consideration in the social disparity index we used. It is somehow
+debatable given their incidence on the coping capacity of
+individuals. Home ownership is reported to have an ambivalent
+inﬂuence on vulnerability to ﬂoods. When compared to renters ,
+home owners were more often to leave temporarily their home
+due to ﬂoods (
+Fekete, 2009 ), which may be related to housing
+types (individual houses vs. apartments), but they are less likely to
+move (Thieken et al., 2007). Homeowners are usually more aware
+of the risks and prone to invest in mitigation and precautionar y
+measures (Steinführer and Kuhlicke, 2007; Thieken et al., 2007 ).
+Household structure may also have an ambivalent eﬀect. Lone
+parents and isolated elderly have less income and must cope
+singlehandedly with the impacts of the ﬂood (
+Tapsell et al.,
+2002; Welle et al., 2014 ). In the case of isolated elderly, besides
+diﬃculties to follow emergency measures, they may be less
+aware of public warnings and informal communication channel s
+(
+Steinführer and Kuhlicke, 2007 ). An increase of household size
+would then decrease vulnerability due to mutual help ( Welle
+et al., 2014). On the opposite one may consider that “households
+with dependent persons are more vulnerable than households in
+which every person can rely on her-/himself ” (
+Steinführer and
+Kuhlicke, 2007, p. 35).
+Thieken et al., 2007 highlighted that home ownership and
+household size are better correlated with the adoption of
+emergency measures than household revenue itself. Ownership
+structure further inﬂuences the observed damage to goods,
+home owners being more susceptible of damage to household
+content and less susceptible to damage to residential buildi ngs
+(
+Steinführer and Kuhlicke, 2007; Thieken et al., 2007 ). Still it
+should be stressed that these relations may vary from one plac e
+to another, according to the local urban structure, the eﬀect ive
+experience with ﬂoods or local norms and values (the attitude
+toward insurance for instance).
+Frontiers in Water | www.frontiersin.org 11 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 12]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+Addressing social vulnerability, in a holistic and process-based
+approach, would require to consider more dimensions than the
+sole social disparity index that we adopted. Home ownership,
+household size, but also age, gender, occupation, or ethnici ty,
+all these factors are usually combined in Social Vulnerabil ity
+Indices (
+Tapsell et al., 2002 , Cutter et al., 2003; Fekete, 2009;
+Sorg et al., 2018 ). The beneﬁts of such an integrated approach
+is that it provides a wider and more complete understanding
+of vulnerability. Its limitations lie in the ambivalent cha racter
+of some of these factors, and the spatial variability of their
+eﬀects, which may somehow be blurred in composite indices.
+Furthermore, some of these factors may overlap, as for instanc e
+home ownership and economic revenues, which makes the
+interpretation even more complex.
+CONCLUSIONS
+This study shows that the socio-economic characteristics o f
+people living in ﬂoodplains diﬀers from the socio-economic
+characteristics of the rest of the population in the province of
+Liege, Belgium. On a scale from 1 to 5 (1 being the poorest
+and 5 being the wealthiest), populations that are the most
+exposed to ﬂood risks are not ISD class 1, but ISD classes
+2 and 3.
+Moreover, the study reveals that the socio-economic
+characteristics vary across scale and from one location to t he
+another. For the considered case study, the results in two districts
+(Liege and Verviers) are similar to those computed at level of
+the whole province, whereas in Huy District, lower ISD classe s
+appear to be most exposed to ﬂood hazard, and the opposite
+result was found in Waremme District. This highlights the
+importance of a multiscale analysis of environmental inequalities
+related to exposure to ﬂood hazard.
+Such a multi-scale perspective is important at the time
+of revealing divergent though signiﬁcant results from one
+place to another. It may have deep implications in decision-
+making for ﬂood risk management, particularly as regards the
+allocation of limited resources. Indeed, as analysis of ﬂood
+vulnerability is a prerequisite for guiding risk mitigation policies,
+knowing the socio-economic characteristics of people-at-ris k
+is important to inform sustainable and equitable ﬂood risk
+management policies.
+From a scientiﬁc perspective, the ﬁndings of our study
+constitute another challenge for the emerging science of so cio-
+hydrological modeling (
+Elshafei et al., 2014; Di Baldassarre et al.,
+2018; Barendrecht et al., 2019; Carr et al., 2020 ), which aims at
+capturing the intertwined dynamics of hydrological and huma n
+systems. Populations in the latter may certainly not be considered
+as a single homogeneous group; but socio-economic disparitie s
+need to be reﬂected in the socio-hydrological models to ensur e
+that they deliver realistic predictions. Moreover, in line wi th the
+concept of co-evolution ( Sivapalan et al., 2012; Sivapalan and
+Blöschl, 2015 ), further research needs to disentangle to which
+extent do ﬂoods act as a driver for change in the socio-econom ic
+proﬁle of people living in ﬂoodplains: do more frequent ﬂoods
+attract people of a lower socio-economic status?
+A valuable follow-up of this research is to further investiga te
+the links between socio-economic characteristics and ﬂood risk.
+Indeed, in the present study, mostly the hazard factor of risk was
+taken into consideration, together with the exposure componen t
+of vulnerability. Social vulnerability is a complex, multif aceted
+system which requires dedicated modeling approaches (e.g.,
+de
+Brito et al., 2018 , Sorg et al., 2018 ). It should be stressed that
+the validation of such integrated social vulnerability mode ls
+further requires to collect empirical evidence, at the househ old
+level, about the relation between hazard parameters, social
+attributes and disaster impact, considering both the preparati on,
+preparedness, recovery and adaptation stages (
+Fekete, 2009 ).
+Such an information is not yet available in the region under study.
+Similarly, it would be of high relevance to extend the study t o the
+case of pluvial ﬂooding, which may require a more local analys is
+of ﬂood hazard and vulnerability.
+Overall, this interdisciplinary study is an example of
+collaboration across diﬀerent research ﬁelds, particularlybetween
+social and natural sciences, which is recognized as vital
+to advance our understanding of the interplay between
+the human and water systems. Accounting explicitly for
+the multiple interactions between environmental and social
+processes, occurring at diﬀerent timescales, will enable bet ter
+informed projections into the future and, therefore more
+optimal decisions.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+AUTHOR CONTRIBUTIONS
+CP , BD, and JT contributed to conception and design of the
+study. CP organized the database and performed the statistica l
+analysis. CP wrote the ﬁrst draft of the manuscript. BD, PA, and
+JT wrote sections of the manuscript. All authors contributed t o
+manuscript revision, read, and approved the submitted version .
+ACKNOWLEDGMENTS
+We would wish to acknowledge the SPW Groupe Transversal
+Innondations (GTI) of the Walloon Region for the delivery of
+ﬂood hazard maps and the CPDT (Conférence Permanente du
+Développement Territorial) for the Index of Social Disparity.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.338 9/frwa.
+2021.633046/full#supplementary-material
+Supplementary Figure 1 | Number of households as a function of their ISD
+class, for the whole territory as well as in ﬂood hazard zones, in (A) the whole
+province of Liege, (B) the district of Liege, (C) the district of Huy, (D) the district of
+Verviers and (E) the district of Waremme.
+Frontiers in Water | www.frontiersin.org 12 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 13]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+Supplementary Figure 2 | (A) Distribution of households as a function of their
+ISD class, in each district and in ﬂood-prone areas deﬁned by to d ifferent ranges
+of hazard (low to high, medium to high, or high only); and (B) difference with
+respect to the household distribution in the whole district .
+REFERENCES
+Abbot, M. B., and Vojinovic, Z. (2010a). Realising social justice in the water sector:
+1. J. Hydroinformatics 12, 97–117. doi: 10.2166/hydro.2010.065
+Abbot, M. B., and Vojinovic, Z. (2010b). Realising social justice in the water sector:
+2. J. Hydroinformatics 12, 225–239. doi: 10.2166/hydro.2009.065
+Abbot, M. B., and Vojinovic, Z. (2014). Towards a hydroinformati c
+praxis in the service of social justice. J. Hydroinformatics 16, 516–530.
+doi: 10.2166/hydro.2013.198
+Aerts, J. C., Botzen, W. W., Emanuel, K., Lin, N., De Moel, H., and Mi chel-Kerjan,
+E. O. (2014). Evaluating ﬂood resilience strategies for coastalmegacities. Science
+344, 473–475. doi: 10.1126/science.1248222
+Ashley, R. M., Balmforth, D. J., Saul, A. J., and Blanskby, J. D. (200 5). Flooding
+in the future—predicting climate change, risks and responses in urba n areas.
+Water Sci. Technol. 52, 265–273. doi: 10.2166/wst.2005.0142
+Babcicky, P., and Seebauer, S. (2017). The two faces of socia l capital in
+private ﬂood mitigation: opposing eﬀects on risk perception, self-eﬃ cacy and
+coping capacity, J. Risk Res. 20, 1017–1037. doi: 10.1080/13669877.2016.11
+47489
+Barendrecht, M. H., Viglione, A., Kreibich, H., Merz, B., Vorogushyn , S., and
+Blöschl, G. (2019). The value of empirical data for estimating the para meters
+of a sociohydrological ﬂood risk model. Water Resour. Res. 55, 1312–1336.
+doi: 10.1029/2018WR024128
+Beckers, A., Dewals, B., Erpicum, S., Dujardin, S., Detrembleur, S., Teller, J., et al.
+(2013). Contribution of land use changes to future ﬂood damage alo ng the
+river Meuse in the Walloon region. Nat. Hazard Earth Syst. Sci. 13, 2301–2318.
+doi: 10.5194/nhess-13-2301-2013
+Begg, C., Walker, G., and Kuhlicke, C. (2015). Localism and ﬂoodrisk management
+in England: the creation of new inequalities? Environ. Plann. 33, 685–702.
+doi: 10.1068/c12216
+Birkmann, J. (2006). “Measuring vulnerability to promote disaster-re silient
+societies: conceptual frameworks and deﬁnitions, ” in Measuring Vulnerability
+to Natural Hazards: Towards Disaster Resilient Societies, ed J. Birkmann (Tokyo:
+United Nations University Press), 9–54.
+Blaikie, P., Cannon, T., Davis, I., and Wisner, B. (1994) At Risk: Natural Hazards,
+People’s Vulnerability and Disasters. London: Routledge.
+Bruwier, M., Erpicum, S., Pirotton, M., Archambeau, P., and Dewals, B.
+J. (2015). Assessing the operation rules of a reservoir system bas ed
+on a detailed modelling chain. Nat. Hazards Earth Syst. Sci. 15:365.
+doi: 10.5194/nhess-15-365-2015
+Bruwier, M., Mustafa, A., Aliaga, D. G., Archambeau, P., Erpicum, S .,
+Nishida, G., et al. (2018). Inﬂuence of urban pattern on inundat ion ﬂow
+in ﬂoodplains of lowland rivers. Sci. Total Environ. 6229–623, 4469–458.
+doi: 10.1016/j.scitotenv.2017.11.325AQuncite
+Carr, G., Barendrecht, M. H., Debevec, L., Kuil, L., and Blöschl, G. ( 2020). People
+and water: understanding integrated systems needs integrated approaches. J.
+Water Supply Res. Technol-Aqua 69, 819–832. doi: 10.2166/aqua.2020.055
+Chen, Y., Zhou, H., Zhang, H., Du, G., and Zhou, J. (2015). Urban
+ﬂood risk warning under rapid urbanization. Environ. Res. 139, 3–10.
+doi: 10.1016/j.envres.2015.02.028
+Cutter, S., Boruﬀ, B., and Lynn Shirley, W. (2003). Social
+vulnerability to environmental hazards. Soc. Sci. Q. 84, 242–261.
+doi: 10.1111/1540-6237.8402002
+Cuvelier, T., Archambeau, P., Dewals, B., and Louveaux, Q. (201 8). Comparison
+between robust and stochastic optimisation for long-term reservo ir
+management under uncertainty. Water Resour. Manag. 32, 1599–1614.
+doi: 10.1007/s11269-017-1893-1
+de Brito, M. M., Evers, M., and Almoradie, A. D. S. (2018). Participa tory ﬂood
+vulnerability assessment: a multi-criteria approach. Hydrol. Earth Syst. Sci. 22,
+373–390. doi: 10.5194/hess-22-373-2018
+Di Baldassarre, G., Kreibich, H., Vorogushyn, S., Aerts, J., Arnbjer g-Nielsen, K.,
+Barendrecht, M., et al. (2018). Hess opinions: an interdisciplinary re search
+agenda to explore the unintended consequences of structural ﬂood protection.
+Hydrol. Earth Syst. Sci. 22, 5629–5637. doi: 10.5194/hess-22-5629-2018
+Dottori, F., Figueiredo, R., Martina, M. L., Molinari, D., and Sco rzini,
+A. R. (2016). INSYDE: a synthetic, probabilistic ﬂood damage mode l
+based on explicit cost analysis. Nat. Hazards Earth Syst. Sci. 16,
+2577–2591.doi: 10.5194/nhess-16-2577-2016
+Dujardin, S., Marique, A.-F., and Teller, J. (2014). Spatial Plann ing as a driver
+of change in mobility and residential energy consumption. Energy Build. 68,
+779–785. doi: 10.1016/j.enbuild.2012.10.059
+Elshafei, Y., Sivapalan, M., Tonts, M., and Hipsey, M. R. (2014). A prototype
+framework for models of socio-hydrology: identiﬁcation of key feed back loops
+with application to two Australian case-studies. Hydrol. Earth Syst. Sci. Discuss.
+11, 629–689. doi: 10.5194/hessd-11-629-2014
+Erpicum, S., Dewals, B., Archambeau, P., Detrembleur, S., and Pirotto n, M.
+(2010). Detailed inundation modelling using high resolution DEMs . Eng.
+Appl. Comput. Fluid Mech. 4, 196–208. doi: 10.1080/19942060.2010.110
+15310
+Fekete, A. (2009). V alidation of a social vulnerability index in context
+to river-ﬂoods in Germany. Nat. Hazards Earth Syst. Sci. 9, 393–400.
+doi: 10.5194/nhess-9-393-2009
+Felsenstein, D., and Lichter, M. (2014). Social and economic vulnerability of coastal
+communities to sea level rise and extreme ﬂooding. Nat. Hazard 71, 463–491.
+doi: 10.1007/s11069-013-0929-y
+Fielding, J. (2012). Inequalities in exposure and awareness of ﬂo od risk in England
+and Wales. Disasters 36, 477–494. doi: 10.1111/j.1467-7717.2011.01270.x
+Fielding, J., and Burningham, K. (2005). Environmental inequalit y and ﬂood
+hazard. Local Environ. 10, 1–17. doi: 10.1080/13549830500160875
+Greiving, S., Fleischhauer, M., and Lückenkötter, J. (2007). A methodology for an
+integrated risk assessment of spatially relevant hazards.J. Environ. Plan. Manag.
+49, 1–19. doi: 10.1080/09640560500372800
+Grippa, T., Marissal, P., May, X., Wertz, I., and Loopmans, M. (2015). Dynamiques
+des quartiers en diﬃculté dans les régions urbaines belges . Brussels: SPP
+Intégration Sociale [in French].
+Harner, J., Warner, K., Pierce, J., and Huber, T. (2002). Urban en vironmental
+justice indices. Prof. Geog. 54, 318–331. doi: 10.1111/0033-0124.00333
+Hirabayashi, Y., Mahendran, R., Koirala, S., Konoshima, L., Y amaza ki, D.,
+Watanabe, S., et al. (2013). Global ﬂood risk under climate change . Nat. Clim.
+Change 3, 816–821. doi: 10.1038/nclimate1911
+IPCC (2012). Managing the Risks of Extreme Events and Disasters to Advanc e
+Climate Change Adaptation . A Special Report of Working Groups I and II of
+the IPCC. New York, NY: Cambridge University Press.
+Karagiorgos, K., Thaler, T., Heiser, M., Hübl, J., and Fuchs, S. (2 016). Integrated
+ﬂash ﬂood vulnerability assessment: insights from East Attica, Greece. J. Hydrol.
+541, 553-562. doi: 10.1016/j.jhydrol.2016.02.052
+Klijn, F., van Buuren, M., van Rooij, S. A. M. (2004). Flood-risk
+Management Strategies for an Uncertain Future: Living with Rhine River
+Floods in The Netherlands?," AMBIO J. Hum. Environ. 33, 141–147.
+doi: 10.1579/0044-7447-33.3.141
+Kreibich, H., Botto, A., Merz, B., and Schröter, K. (2017). Probab ilistic,
+multivariable ﬂood loss modeling on the mesoscale with BT-FLEMO.Risk Anal.
+37, 774–787. doi: 10.1111/risa.12650
+La Rosa, D., and Pappalardo, V. (2019). Planning for spatial equity—a performance
+based approach for sustainable urban drainage systems. Sustain. City Soc .
+53:101885. doi: 10.1016/j.scs.2019.101885
+Lall, S. V., and Deichmann, U. (2009). Density and Disasters: The Economics
+of Urban Hazard Risk . Policy Research Working Paper 5161, the World
+Bank Finance, Economics, And Urban Development Department and
+Development Research Group Environment and Energy Team, Washingto n,
+DC. doi: 10.1596/1813-9450-5161
+Lehmann, J., Coumou, D., and Frieler, K. (2015). Increased record-b reaking
+precipitation events under global warming. Clim. Change 132, 501–515.
+doi: 10.1007/s10584-015-1434-y
+Frontiers in Water | www.frontiersin.org 13 March 2021 | Volume 3 | Article 633046
+
+[[PAGE 14]]
+Poussard et al. Environmental Inequalities in Flood Exposure
+Lejeune, Z., and Teller, J. (2016). Incentives and barriers to en vironmental
+inequality mobilization: a case-study analysis in Wallonia, Belgi um. Environ.
+Sci. Policy 66, 208–216. doi: 10.1016/j.envsci.2016.07.016
+Lejeune, Z., Xhignesse, G., Kryvobokov, M., and Teller, J. (2016 ). Housing quality
+as environmental inequality: the case of Wallonia, Belgium. J. Hous. Built.
+Environ. 31, 495–512. doi: 10.1007/s10901-015-9470-5
+Maantay, J., and Maroko, A. (2009). Mapping urban risk: ﬂood haza rds,
+race, and environmental justice in New York. Appl. Geogr. 29, 111–124.
+doi: 10.1016/j.apgeog.2008.08.002
+Maldonado, A., Collins, T. W., Grineski, S. E., and Chakraborty, J. (2016).
+Exposure to ﬂood hazards in miami and houston: are hispanic immigrants a t
+greater risk than other social groups? Int. J. Environ. Res. Public Health 13:775.
+doi: 10.3390/ijerph13080775
+Mallakpour, I., and Villarini, G. (2015). The changing nature of ﬂooding across the
+central United States. Nat. Clim. Change 5, 250–254. doi: 10.1038/nclimate2516
+Merz, B., Kreibich, H., and Lall, U. (2013). Multi-variate ﬂood damage assessment:
+a tree-based data-mining approach. Nat. Hazards Earth Syst. Sci. 13, 53–64.
+doi: 10.5194/nhess-13-53-2013
+Merz, B., Kreibich, H., Schwarze, R., and Thieken, A. (2010). Ass essment
+of economic ﬂood damage. Nat. Hazards Earth Syst. Sci. 10, 1697–1724.
+doi: 10.5194/nhess-10-1697-2010
+Mustafa, A., Bruwier, M., Archambeau, P., Erpicum, S., Pirotton, M .,
+Dewals, B., et al. (2018). Eﬀects of spatial planning on future ﬂood
+risks in urban environments. J. Environ. Manag. 225, 193–204.
+doi: 10.1016/j.jenvman.2018.07.090
+Mustafa, A. M. E. S., V an Rompaey, A., Cools, M., Saadi, I., and Te ller,
+J. (2018). Addressing the determinants of built-up expansion and
+densiﬁcation processes at the regional scale. Urban Stud. 55, 3279–3298.
+doi: 10.1177/0042098017749176
+Neumann, B., V afeidis, A. T., Zimmermann, J., and Nicholls, R. J. (20 15). Future
+coastal population growth and exposure to sea-level rise and coastal ﬂooding—
+a global assessment. PLoS ONE 10: 118571. doi: 10.1371/journal.pone.0118571
+Sivapalan, M., and Blöschl, G. (2015). Time scale interactions and t he
+coevolution of humans and water. Water Resour. Res. 51, 6988–7022.
+doi: 10.1002/2015WR017896
+Sivapalan, M., Savenije, H. H., and Blöschl, G. (2012). Socio-hydro logy:
+a new science of people and water. Hydrol. Process . 26, 1270–1276.
+doi: 10.1002/hyp.8426
+Sorg, L., Medina, N., Feldmeyer, D., Sanchez, A., Vojinovic, Z ., Birkmann, J., et al.
+(2018). Capturing the multifaceted phenomena of socioeconomic vulnerability.
+Nat. Hazards 92, 257–282. doi: 10.1007/s11069-018-3207-1
+Steinführer, A., and Kuhlicke, C. (2007). Social Vulnerability and the 2002 Flood .
+FloodSite Research Project, Report Number T11-07-08, 164p.
+Tapsell, S. M., Penning-Rwsell, E. C., Tunstall, S. M., and Wilson, T. L. (2002).
+Vulnerability to ﬂooding: health and social dimensions. Phil. Trans. R. Soc. A
+360, 1511–1525. doi: 10.1098/rsta.2002.1013
+Teller, J. (2009). Développement de l’entre-soi communautaire dans les e spaces
+résidentiels périurbains. Dévian. Soc. 33, 547–556. doi: 10.3917/ds.334.0547
+Thieken, A. H., Kreibich, H., Müller, M., and Merz, B. (2007). Coping with ﬂoods:
+preparedness, response and recovery of ﬂood-aﬀected residents in Germa ny in
+2002. Hydrol. Sci. J. 52, 1016–1037. doi: 10.1623/hysj.52.5.1016
+Turner, B., Kasperson, R., Matson, P., McCarthy, J., Corell, R., Christensen, L., et al.
+(2003). A framework for vulnerability analysis in sustainability sc ience. Proc.
+Natl. Acad. Sci. U.S.A. 100, 8074–8079. doi: 10.1073/pnas.1231335100
+UNDRR (2015). Sendai Framework for Disaster Risk Reduction 2015-2030 .
+Geneva: UNDRR.
+UNISDR (2015). The Human Cost of Weather Related Disasters, CRED 1995-2015.
+Geneva: United Nations.
+Vojinovic, Z., and Abbott, M. B. (eds.). (2012). Flood Risk and Social Justice: From
+Quantitative to Qualitative Flood Risk Assessment and Mitigation. London: IWA
+Publishing. doi: 10.2166/9781780400822
+Vorogushyn, S., Bates, P. D., de Bruijn, K., Castellarin, A., Kreib ich, H., Priest,
+S., et al. (2018). Evolutionary leap in large-scale ﬂood risk assess ment needed.
+WIREs Water 5:e1266. doi: 10.1002/wat2.1266
+Walker, G., and Burningham, K. (2011). Flood risk, vulnerability and
+environmental justice: evidence and evaluation of inequality i n a UK context.
+Crit. Soc. Policy 31, 216–240. doi: 10.1177/0261018310396149
+Ward, P. J. V., Blauhut, N., Bloemendaal, J. E., Daniell, M. V., De Rui ter,
+M. J., Duncan, R., et al. (2020). Review article: natural hazard ris k
+assessments at the global scale, Nat. Hazards Earth Syst. Sci. 20, 1069–1096.
+doi: 10.5194/nhess-20-1069-2020
+Welle, T., Depietri, Y., Angignard, M., Birkmann, J., Renaud, F. G., and
+Greiving, S. (2014). “Vulnerability assessment to heat waves, ﬂo ods, and
+earthquakes using the MOVE framework: test case Cologne, Germany, ”
+in Assessment of Vulnerability to Natural Hazards, eds J. Birkmann,
+S. Kienberger and D. Alexander (Philadelphia, PA: Elsevier), 91–1 24.
+doi: 10.1016/B978-0-12-410528-7.00005-9
+Wright, N. (2014). “Advances in ﬂood modelling helping to reduce ﬂoo d risk, ”
+in Proceedings of the Institution of Civil Engineers-Civil En gineering (Thomas
+Telford Ltd.), 167:52. doi: 10.1680/cien.2014.167.2.52
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be c onstrued as a
+potential conﬂict of interest.
+Copyright © 2021 Poussard, Dewals, Archambeau and Teller. This i s an open-access
+article distributed under the terms of the Creative Commons Attribution License (CC
+BY). The use, distribution or reproduction in other forums is permitted, provided
+the original author(s) and the copyright owner(s) are credit ed and that the original
+publication in this journal is cited, in accordance with acc epted academic practice.
+No use, distribution or reproduction is permitted which doe s not comply with these
+terms.
+Frontiers in Water | www.frontiersin.org 14 March 2021 | Volume 3 | Article 633046

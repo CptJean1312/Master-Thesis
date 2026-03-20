@@ -1,0 +1,1239 @@
+[[PAGE 1]]
+ORIGINAL ARTICLE
+Beyond ‘just’ flood risk management: the potential
+for—and limits to—alleviating flood disadvantage
+Paul O’Hare1 & Iain White2
+Received: 29 July 2016 / Accepted: 23 August 2017 / Published online: 12 September 2017
+# Springer-V erlag GmbH Germany 2017
+Abstract The threat of flooding poses a considerable chal-
+lenge for justice. Not only are more citizens becoming ex-
+posed to risk, but they are expected to play increasingly active
+roles in flood risk management. However, until recently, few
+efforts have charted broader understandings of disadvantage
+relating to flood risk exposure. Drawing upon social science
+scholarship that has long been sensitive to concerns related to
+justice, we deploy and develop the notion of flood disadvan-
+tage as a means to assess the challenges to more ‘just’ flood
+risk management. We contend that the concept of flood dis-
+advantage offers a useful lens to appreciate the constraints of
+technical approaches to flood risk management, in particular,
+its limited ability to incorporate complex social elements such
+as how individuals have differing vulnerabilities and sensitiv-
+ities to flooding and uneven abilities to engage with risk
+agendas. The notion highlights the compounding interactions
+between flooding and other social disadvantages across mul-
+tiple public policy areas and scales. We argue a fuller ac-
+knowledgement of the socio-spatial-temporal dimensions of
+intersecting disadvantages can help sensitise technical risk
+analyses that tend to see people and communities as homoge-
+neous entities in a given spatiality. In doing so we can better
+reveal why some individuals or communities are more vulner-
+able to disasters or are slower to recover than others. Finally,
+we outline the challenges in turning more ‘just’ flood risk
+management from an abstract notion into one that could in-
+form future practice.
+Keywords Flood risk management . Justice . Vulnerability
+and sensitivity . Flood disadvantage
+Introduction
+Advances in conceptual understandings of risk have helped
+disassemble the phenomena, recognising its multifarious and
+intricately connected elements. Risk and—of particular inter-
+est to this paper —flood risk is not solely dependent upon
+relative spatial proximity to a hazard such as a coastline, a
+river or flood plain. Rather, sensitivity and vulnerability to
+hazards are increasingly acknowledged as crucial to under-
+standing risk in a holistic sense, not least as a means to explain
+why certain communities and individuals are more affected
+than others (see Krellenberg et al, 2016). Y et while the rapid
+development of maps, models and tools over the last two
+decades has greatly aided decision-making, their propensity
+to abstract and to aggregate means they will inevitably strug-
+gle to capture fine-grained differences between affected pop-
+ulations, particularly those that are rooted in more complex
+societal disadvantage stemming from outside the flood risk
+arena. This issue has gained more resonance recently, given
+the gradual transition toward the responsibilisation of actors
+beyond the state for managing flooding. As part of this agen-
+da, citizens and communities are warned to expect more fre-
+quent flooding and are expected to assume greater responsi-
+bility for managing their own risk. Clearly, however, the ex-
+periences of flooding are very uneven —not just in terms of
+spatial exposure, but also regarding the ability of people to
+recover or to meaningfully engage in risk agendas.
+* Paul O’Hare
+Paul.A.OHare@mmu.ac.uk
+Iain White
+iain.white@waikato.ac.nz
+1 Manchester Metropolitan University, Room 415, John Dalton East,
+M15 6BH, Manchester, UK
+2 University of Waikato, Hamilton, New Zealand
+Reg Environ Change (2018) 18:385–396
+DOI 10.1007/s10113-017-1216-3
+
+
+[[PAGE 2]]
+Although there is a long legacy of studies concerning the
+complexity of spatial justice (e.g. Young, 1990; Fainstein,
+2011) and an emerging appreciation of the links between
+flooding and justice (Penning-Rowsell and Pardoe 2012;
+Begg et al. 2015; Thaler and Hartmann 2016), other sources
+of critical research emphasise how predominately technical
+risk management decision-making frameworks struggle to
+be reconciled with the political economy within which they
+reside. For example, Lane ( 2014) demonstrates how the con-
+structivist tendencies of hydrological modelling do not just
+represent the world, but how their assumptions and bound-
+aries have hidden transformative influences. Other research
+highlights the political dimensions of technical practices, such
+as how they may be used to defend the reputational risk to
+institutions (Porter and Demeritt2012; Kuklicke and Demeritt
+2016). White and Haughton ( 2017) further interrogate the
+shaping influences of tools and methods, such as models,
+maps and cost-benefit analyses, arguing that their selection
+and application have a structuring effect that creates and main-
+tains certain ‘hazardscapes’. Put differently, as a corollary of
+technically oriented approaches becoming the convention for
+risk management, their limits, boundary effects, contradic-
+tions and politics are now receiving more academic attention.
+This paper is similarly positioned. We contribute to this debate
+by linking risk management approaches to the broader societal
+factors and conditions that influence flood risk, in particular,
+how the vulnerability of people is affected by multiple public
+policy areas. To this end, we adopt and develop the notion of
+flood disadvantage (Lindley et al. 2011), arguing how it can
+better reveal the array of compounding social, demographic
+and economic contexts that both produce, and are produced
+by, flooding.
+The study of flood disadvantage lies at the intersection
+between hazard research and a recognition of the divergent
+capacity of citizens to cope and recover from flooding. This
+paper outlines how the concept offers a more sophisticated
+appreciation of how flood risk intersects with wider contextual
+social factors affecting citizens. Moreover, the paper notes an
+enduring tension between technical and social dimensions of
+flooding and of the construction of managerial and political
+boundaries. It does this in three ways: first, it extends the
+debate concerning the limits of flood risk management policy
+and practice by outlining the limited way that social elements
+(and by extension justice) are treated by technical approaches
+that tend to aggregate and homogenise populations.
+Individuals and communities have very distinct vulnerabilities
+and sensitivities to hazards, and there is unevenness in the
+ability to engage with, and respond to, threats such as
+flooding. Second, it facilitates deeper understandings of com-
+plexity debates, emphasising not just how risk is dynamic—it
+cascades across space and time —but also how it is linked to
+other fluid socio-economic, demographic and spatial charac-
+teristics that are often far removed from hazard exposure.
+Thirdly, it helps demonstrate how flood risk can exacerbate
+these other disadvantages, and how disadvantage can itelf
+accentuate flood risk.
+In essence, flood disadvantage can be used to demonstrate
+how the ability to respond to and recover from flood risk is
+highly uneven, contextual and intertwined with other social
+disadvantages. Disadvantage in this sense moves far beyond
+typical vulnerability analyses. Rather, it is produced and
+reproduced through markets, institutions and decision-
+making processes spanning an array of policy and practice
+agendas. Ultimately, it highlights how more integrated and
+co-ordinated public policy responses can help offset the tech-
+nical mask and social blindness of much flood risk practice.
+Contemporary flood risk and flood risk management
+The evolving flood risk challenge
+The threat posed by flooding is a growing national and
+international concern. It is now considered to be one of the
+most pressing ‘natural’ hazards in Europe (CRED 2009)w i t h
+a consensus that it will only intensify in coming years
+(Committee on Climate Change 2015;I P C C2014). Beyond
+an increase in the frequency and severity of flooding, there has
+been an expansion in the number of people exposed as climate
+change and urbanisation change precipitation patterns and the
+behaviour of receiving catchments (Zevenbergen et al. 2010).
+The economic and social consequences of flooding are
+immense. Data for the period 2000 –2016 (EM-DA T,2016 -
+disaster profile summary data) suggest that across the conti-
+nent of Europe, flooding
+1 caused 1747 fatalities and‘affected’
+over 6.5 million people. Direct economic losses in the same
+period approached $100 billion. Globally, in the same period,
+flooding has killed an estimated 94,000 people and ‘affected’
+almost 1.5 billion people (ibid.).
+It has been noted that flood exposure increases in a
+cumulative fashion, driving an upward trend in people at
+risk (White and Howe 2002; Scott et al. 2013). Significantly,
+communities not presently at substantial risk might have it
+heightened in the future, not least given changing risk
+catalysts associated with climate change, urbanisation and
+demographic change. This issue inevitably links to deeper
+concerns regarding the links between hazards and
+intergenerational justice (Stern Review 2007; Cooper and
+McKenna 2008), demonstrating how flood risk evolves both
+spatially and temporally.
+Considerable research and investment have focused on in-
+creasing technical expertise in risk assessing, for example
+using advanced cartographical and modelling techniques to
+1 In this instance, ‘flood’ is defined by the database as encompassing coastal,
+riverine, flash and ice jam flooding.
+386 P. O’Hare, I. White
+
+[[PAGE 3]]
+identify the distribution, or spatiality, of flood exposure. Here,
+modelling typically depicts the potential for inundation, with
+hazard maps delineating water depth and return periods into
+areas of varying exposure, which are usually, though not al-
+ways, made available to the public in an effort to improve
+awareness of risk. This scientific knowledge also informs de-
+cision-making, most notably through spatial planning and
+flood risk management schemes. Similarly, effort has been
+expended to understand the complex factors underlying in-
+creased flood risk exposure. Urbanisation, limited infrastruc-
+ture maintenance, certain riparian and catchment level land
+management practices and poor planning practice have all
+been cited as forces driving flood risk (White 2010;
+Zevenbergen et al. 2010). Efforts to understand these catalysts
+have fostered new systemic approaches to manage flood risk.
+These include holistic source-pathway-receptor approaches
+(Evans et al. 2004), adopting catchment initiatives (European
+Commission2007) or co-ordinating schemes that complement
+hard drainage infrastructure with ‘natural’ measures to slow
+water movements (White and Alarcon 2009).
+The dynamic nature of flood risk management is demon-
+strated by how academics, consultants and public authorities
+continuously develop flood risk mapping and modelling. For
+instance, flood risk assessments and maps are frequently up-
+dated or refined often in light of new data generated during
+and after a flood event. These iterations —we hope—evolve
+more accurate and precise maps and models. However, this
+‘evolution’ also reveals a critical political economy that aca-
+demic literature is beginning to highlight. Any model or
+map—like all abstractions of the ‘real world’—contains sig-
+nificant assumptions and uncertainty and so are political in
+nature (Gustafson 2015;H a r l e y1989; Hall and Solomatine
+2008;K i t c h e n2014). However, alterations to models and
+maps tend to take place in a largely opaque technical manner,
+and people previously considered‘safe’ may be re-categorised
+as ‘at risk ’ with little opportunity for discussion. Technical
+knowledge may also struggle to convey uncertainty and
+complexity (Bell et al. 2014;L a n e 2014), particularly to
+decision-makers who may demand a ‘false precision ’.
+Consequently, caveated, nuanced and detailed information
+is often reduced to a simple line on a map or a probabilistic
+figure (White 2013). Beyond maps and models, other risk
+management practices have their own calculative rationali-
+ties for assigning levels of risk within bounded geogra-
+phies, such as cost-benefit calculations for territorial units.
+Assigning an economic lens to costs and benefits in this
+manner conforms to the apparent preference of many
+policymakers for economic approaches that provide ‘law-
+like regularities ’ to simplify complexity (O ’Neill 2001:
+487). Inevitably, there are associated implications for the
+application of economic tools that aggregate buildings or
+ho
+uses into neat cost-benefit analyses without considering
+the sensitivities and capabilities of those that inhabit these
+areas, or indeed of the many other factors that compose the
+full risk profile of places facing flooding.
+Living with risk—responsibility for contemporary flood
+risk management
+Partly in recognition of the expansion and normalisation of
+flood risk, initiatives that encourage citizens to assess their
+exposure to flooding and to foster the ability of people to cope
+and to recover in the wake of flood events are mooted as a key
+method of contemporary risk management. Additionally, as
+with other realms of public administration and governance
+in post-industrial economies, this transition entails significant
+alterations in the roles envisaged for citizens and communi-
+ties. The broader scope of this approach means stakeholders
+are wide and varied, including governments, utility and infra-
+structure bodies, citizens, technical experts and planners.
+Societies must now, it is contended, adapt to live with risk,
+or in other words, become resilient (Adger et al. 2006).
+Engagement and participatory practices comprise a central
+dimension of these trends (Coaffee and Lee 2016), forming
+broader strategies to expand risk management from being un-
+der the aegis of the state to be the concern of those exposed to
+risk. Notably, these alterations have been catalysed by broader
+trends in public administration, where, for example, notions of
+resilient citizens highlight how civil engagement can improve
+preparedness and adaptation (O ’Brien et al. 2009; Cabinet
+Office 2011).
+Against this context, the escalating impacts of flooding com-
+b i n e dw i t ha ni n c r e a s i n ga p p r e c iation of wider socio-technical
+contexts have catalysed a discer nible shift in the tenor of re-
+sponse to flood risk, usually understood as a transition from
+flood defence to flood risk management (Johnson et al. 2005;
+Butler and Pidgeon 2011). Consequently, and given the uncer-
+tainty surrounding flood risk, policy in many national contexts
+advises that complete protection against flooding is impossible.
+Non-structural measures such as planning policy, insurance
+programmes or the publication of online risk maps that may
+engender behavioural change have become integral to flood
+risk management (European Commission2007). Flood gover-
+nance is, therefore, now considered to be a more democratic
+and co-ordinated exercise, changing methodologies of science
+and politics to empower people (Jasanoff2004). In this regard,
+flood risk management mirrors efforts to promote stakeholder
+engagement in environmental management (Eden et al.2006),
+whilst research emphasises the inter-scalar dimensions of flood
+risk management, from institutions to individual citizens (Pahl-
+Wostl 2009; Thaler and Levin-Keitel2016).
+Initiatives have ‘responsibilised’ citizens and communities
+who have assumed, or have been charged with assuming,
+enhanced roles in the management of exposure to flood risk
+(Johnson and Priest 2008; Thaler and Priest 2014). Particular
+emphasis is placed on the value of engaging local people with
+Beyond ‘just’ flood risk management: the potential for—and limits to—alleviating flood disadvantage 387
+
+[[PAGE 4]]
+no professional responsibility for managing flooding
+(Bracken et al. 2016). Plans are subjected to extensive consul-
+tation exercises; whilst in areas where flooding has taken
+place, groups representing the views of local people (e.g. flood
+action groups) are established. Consequently, a myriad of new
+opportunities for civil participation has emerged across all
+stages of flood risk management: preparation, response, re-
+covery and mitigation (Wehn et al. 2015). These efforts are
+characterised by partnership building and collaborative ef-
+forts, re-articulating those exposed to hazards not as merely
+vulnerable to flooding, but as agents of flood risk management
+(O’Hare et al. 2016).
+As suggested, participation and engagement are often fa-
+cilitated through new governance and institutional structures
+for flood management, including innovative participatory and
+knowledge co-production techniques (White et al. 2010;
+Landström et al. 2011; Lane et al. 2011; Thaler and Priest
+2014; White et al. 2016). This has been embedded within
+broader public policies that implore citizens to accept the in-
+evitably of flooding: to ‘live’ with water (Department of
+Environment, Food and Rural Affairs 2005)o rt om a k e
+‘room’ for rivers (Ministry of Transport, Public Works and
+Water Management 2006;R u i m t ev o o rd eR i v i e r2012).
+Critically, these efforts bring significant governance chal-
+lenges (Penning-Rowsell and Johnson 2015). Planning and
+decision-making authorities rarely correspond with catch-
+ments or other administrative jurisdictions, and there are un-
+easy ‘borders’ between stakeholders with different training,
+experience and organisational priorities (Bracken et al.
+2016). Moreover, in the wake of floods with significant im-
+pacts, post-event inquiries tend to isolate the climatic, techni-
+cal and engineering dimensions of disasters in an effort to
+explain why flooding occurred. Such efforts, however, have
+been critiqued for generating unproductive institutional
+‘blame games’ that reoccur after each event, with limited sub-
+stantial change (Haughton and White 2016).
+This section has highlighted how flood risk is dynamic and
+evolves across time, with variable implications across popu-
+lations and places (Pitt Review 2008; Douglas et al. 2010;
+Houston et al. 2011). It has also discussed how flood risk
+has become normalised whilst its range of actors and agencies
+has expanded beyond the state to include citizens themselves.
+We further emphasise the political choices imbued in model-
+ling and mapping work where resources may be allocated
+according to technical parameters which, while an inevitable
+corollary of decision-making practices, may not be cognisant
+of how certain communities or individuals are less able to
+cope with climate extremes than others (Lindley et al. 2011).
+We contend that recognising the real-world social contexts
+relating to this uneven distribution of justice can help to soften
+the technical mask of flood risk management. This is a nor-
+mative stance, but as this section has emphasised, so is the
+current situation. Despite the seemingly objective and
+technical mask of flood risk management, political choices
+permeate processes, from the methodology selected, to the
+allocation of resources, and increasingly now to the
+responsibilisation of citizens.
+‘Mapping’ the contours of flood disadvantage
+The discussion of the science and practice of flood risk thus far
+emphasises that it is derived from a multiplicity of complex
+social and technical drivers, many of which are deeply em-
+bedded in society. Moreover, it is apparent that altered con-
+texts of the governance of flood risk have significant implica-
+tions for the public in terms of who is subjected to future
+exposure and how communities and citizens are expected to
+participate in risk management. This has real implications for
+people and places, not just given the variegated capacity to
+respond to a flood event or to cope with living with flood risk,
+but also as there is an uneven ability to engage with state-led
+risk discourses.
+The term ‘climate disadvantage’ was recently developed in
+an effort to capture the nuances of risk, illustrating how hazard
+exposure, social vulnerability and the capacity to respond
+have intricate geographies (Lindley et al. 2011,p 7 ) .C l i m a t e
+disadvantage can be demonstrated through the fusion of a
+diagnosis of hazard-exposure—in particular ‘heat’ or ‘flood’
+exposure—and more deeper assessments of socio-spatial vul-
+nerability. Specifically, climate disadvantage is defined as a
+function of (a) the likelihood and degree of exposure to a
+hazard and (b) individual or group vulnerability with regard
+to such hazards (ibid.). In a more generic sense, the term
+‘corrosive disadvantage’ (Wolff and de Shalit 2007)p r o v i d e s
+a wider perspective to demonstrate how complex social fac-
+tors compound inequalities and injustices. Such accounts can
+help us better appreciate how flood disadvantage is contextu-
+al, pluralistic and complex. Flood risk is rooted in and corre-
+lated with society more generally, rather than unilaterally and
+discretely related to the outcomes of specific processes such as
+flood risk management.
+In response, studies of both specific disaster events and of
+longer-term stresses such as climate change have started to
+isolate the intricate variabl es that foster vulnerability.
+Detailed empirical studies demonstrate how certain groups
+stratified across a variety of economic, ethnic, social and cul-
+tural attributes and characteristics, are more exposed to haz-
+ards, and additionally, are less able to cope with the effects of
+those hazards (Bullard 1994; Cutter 1996; Cutter et al. 2003;
+Smith 2006; Elliott and Pais 2006; Werritty et al. 2007). For
+example, extreme weather events are likely to have a greater
+effect on older people, low-income groups and those with
+multiple health problems (see Tapsell et al. 2002; Fielding
+and Burningham 2005; V ardoulakis and Heaviside 2012;
+Defra 2013). More practically, certain people may have
+388 P. O’Hare, I. White
+
+[[PAGE 5]]
+limited mobility, meaning they are less able to evacuate from a
+flooded area or are unable to move possessions away from
+imminent danger or in the expectation of a flood.
+Other particularities of living conditions, including housing
+tenure and the quality of the physical construction and state of
+repair of properties, have an influence on an inhabitant’s over-
+all sensitivity to flooding (Thieken et al. 2005; Kazmierczak
+and Cavan 2011; Houston et al. 2011; Kazmierczak et al.
+2015). More broadly, analytical attention has noted how‘place
+inequalities’, including economic vitality and growth rates,
+frames social vulnerabilities, providing a useful reminder that
+climate change vulnerability is nested within a dynamic land-
+scape of social and economic conditions (Cutter et al. 2003;
+Walker et al. 2003;Z s a m b o k ye ta l .2011; Howe and White
+2002). Others have discussed how recurring flooding, whereby
+the same people and places are seemingly trapped in cycles of
+flooding or maladaptation, reveals wider societal inequities
+that transcend mere proximity to hazards (O’Hare et al. 2015).
+Elsewhere, research suggests how, despite advances in
+understanding the nuances of flood risk, policy and practice
+interventions that attempt to reduce or alleviate flood risk,
+can compound and redistribute advantage and disadvantage.
+For example, the funding of flood defences has been cri-
+tiqued for creating potential ‘winners and losers ’ (Penning-
+Rowsell and Pardoe 2012; see also Johnson et al. 2007).
+Additionally, policy initiatives can be insensitive to the
+specific requirements of the most vulnerable in society
+(England and Knox 2015). Without an appreciation of the
+varied capacity to cope with flooding, such efforts may
+further drive social inequity (White and O ’Hare 2014;
+Fainstein 2015) or may even facilitate responses to hazards
+that ultimately serve the interests of the powerful and
+privileged (Klein 2007).
+At this point, it is worth reiterating that explanations of
+difference with regard to flood risk (and by extension, injus-
+tice) can usefully extend beyond analyses of exposureand the
+sensitivity of people to flooding. Adding a third dimension, it
+is proposed that the poor and powerless have a reduced ca-
+pacity to respond both to generic flood risk and specific flood
+events; what has been referred to as ‘triple injustice’ (Walker
+and Burningham 2011). By exploring this element of justice,
+we can appreciate some of the limits of current standard risk
+analysis techniques. For example, even if vulnerability assess-
+ments are included, they may not incorporate more contextual
+social aspects, such as the ability to engage or the hidden
+effect of other public policy changes. Concern regarding the
+divergent capacities to respond across society becomes all
+the more pertinent given the aforementioned neo-
+liberalisation and individualisation of contemporary flood
+risk management. As citizens are charged with greater re-
+sponsibility for managing and implementing their own
+flood risk management initiatives, there is doubt regarding
+the readiness and ability —often referred to as the adaptive
+capacity—of individuals and communities in meeting this
+challenge (Whittle et al. 2010). For instance, certain sectors
+of society might lack the resources required to purchase or
+ma
+intain property level protection and resilience measures
+(Bichard and Kazmierczak 2012) or to participate in insur-
+ance schemes (Priest et al. 2005;O ’Neill and O ’Neill 2012;
+O’Hare et al. 2015). Other citizens may simply be less
+aware of their exposure and vulnerability to flood risk
+(Fielding 2009) or may be unable to move from areas at
+significant exposure.
+These studies, focused as they are on people and
+communities, help situate the notion of flood disadvantage
+against broader contexts . They demonstrate how the
+technical emphasis on mapping spatial distributions and
+proximity to hazards has dynamic and potentially hidden
+redistributive qualities. These social and contextual factors
+of flood vulnerability and sensitivity are often overlooked in
+conventional distributional analyses that treat those exposed
+to flooding as homogeneous entities; aggregations that neglect
+to account for the variations in ‘at risk’ populations (Walker
+and Burningham 2011; Preston et al. 2011). Y et clearly, there
+is an unevenness of exposure, vulnerability, power and en-
+gagement, which underwrites flood disadvantage. We ac-
+knowledge that this inequity is ever-present. Consequently,
+there will always be relative disadvantage. However, two
+key questions are posed: first, to what extent do flood risk
+practices consider their role in compounding and potentially
+mitigating this? And second, how can they extend vulnerabil-
+ity and sensitivity research to include more contextual issues
+and more effectively acknowledge the effect of other public
+policy arenas?
+The notion of flood disadvantage could encourage more
+nuanced understandings of the effects of flooding to encom-
+pass characteristics that may be secondary to flood exposure,
+yet are often essential to understanding the distribution of
+flood risk in a broader sense. The diverse range of character-
+istics that constitute the flood risk profiles of communities,
+households and individuals cr eates a complicated milieu.
+These characteristics frequently intersect, with some individ-
+uals rendered disadvantaged due to several distinct, though
+simultaneously related eleme nts of their circumstances.
+Policy initiatives in one area will affect vulnerability in anoth-
+er. Conventional risk assessments also overlook the devastat-
+ing experience of living with the consequences of flooding
+and flood risk. Flooding and flood risk may clearly exacerbate
+disadvantage in a broader sense by pushing vulnerable com-
+munities into greater precariaty in other aspects of their lives.
+Despite capturing a broader understanding of the intricate
+‘wickedness’ of flood disadvantage, the remainder of the pa-
+per elaborates why issues pertaining to the concept have thus
+far proven removed from policy. It also identifies some poten-
+tial limits of the concept both in terms of its explanatory po-
+tential and as an agenda for practical change.
+Beyond ‘just’ flood risk management: the potential for—and limits to—alleviating flood disadvantage 389
+
+[[PAGE 6]]
+Justice and decision-making—the context
+for disadvantage
+There is a long history of studies concerning the geographical
+and spatial dimensions of justice (Young 1990; Fainstein
+2011). Related work on environmental justice similarly
+explains the spatialities of environmental burdens and
+benefits. It is widely acknowledged that studies of justice
+must extend beyond articulations of distributive dimensions
+of justice. More explanatory and substantive assessments of
+environmental justice have emerged to provide diagnostic and
+normative insights that help develop the notion of justice: first,
+that people have the right to live in a healthy environment, and
+second, that the most socially and economically
+disadvantaged lack these conditions (Stephens et al. 2001).
+In short, it is often the least wealthy and most marginalised
+people in society that tend to live in areas of poorest quality
+and are exposed to the most dangerous environmental condi-
+tions, or who are least able to deal with environmental threats.
+There is a further injustice in that those living in the worst
+environments often possess least responsibility for creating
+those conditions. For instance, it has been suggested that the
+poorest communities suffer exposure to the greatest levels of
+air pollutants, but ironically are least responsible for generat-
+ing pollution (Mitchell and Dorling 2003).
+So, the question of justice regarding flood risk and flood
+risk management extends beyond an analysis of where and
+who is exposed to flooding or where flood defence and adap-
+tion measures are funded. The broader, often cumulative, fac-
+tors underwriting how and why certain sectors of society are
+exposed to flood risk and differentials in their capacity to
+respond to and recover from flooding are emphasised.
+Decisions regarding the distribution of environmental injus-
+tices therefore stretch far beyond discrete bureaucratic deci-
+sions on the use of land or resources or with reference to this
+specific paper, flood risk management policy and practice.
+They are, rather, nested within multiple layers of decision-
+making across the range of social and economic agendas
+forming the broad landscape of governance.
+Extending this broad body of work, scholars have identified
+the forces generating the conditions for injustice, suggesting
+that procedural and decision-making dimensions are critical.
+Much of the decision-making pertaining to public administra-
+tion is essentially about media ting space and resources.
+Consequently, it plays a critical role in enabling or mitigating
+justice (White 2015). Indeed, much of the initial rationale for
+state intervention in decisions such as planning and develop-
+ment control claimed to improve disadvantaged communities
+(Fainstein2011). For instance, early planning policies and laws
+were purported to realise equity and well-being or to protect
+against the effects of industrialisation (Robson 1999). Such
+insights draw attention to the broader landscape against which
+justice and injustice are realised. Certain sectors of society are
+exposed to a multiplicity of injustices, some of which are cor-
+related to factors and conditions far beyond a flood event or
+flood exposure. For instance, distributive dimensions of injus-
+tice, such as those readily illustrated by conventional flood
+hazard maps, are influenced by broader, often intangible, pro-
+cesses such as the machinations of power or the capacities of
+stakeholders to participate in decision-making processes.
+Today, modern articulations of planning decision-making
+claim to take an interest in themes pertaining to diversity,
+democracy and quality of life, extending the long-standing
+concern with disadvantage and equity. Campbell and
+Marshall (2006: 240) explain this further:
+BWe regard planning as an activity which is concerned
+with making choices about good and bad, right and
+wrong, with and for others, in relation to particular
+places. It is about making ethical choices over issues
+which are often highly contested. Planning is therefore
+profoundly concerned with justice.^
+Against this backdrop, the planner —broadly construed—
+mediates the effects of flooding and of flood risk management,
+having the remit, expertise and power to change both the out-
+comes and processes of flood risk management policy.
+Theoretically, then, victims of environmental injustice of-
+ten only have this addressed when they have effective and
+meaningful access to the decision-making and policy-
+making processes that govern the distribution of environmen-
+tal goods and bads. Promoted partly in an effort to alleviate a
+proposed ‘crisis of legitimacy ’ of formal institutions
+(Habermas 1976), it is suggested that participation brings
+fresh perspectives to decision-making scenarios, ensures out-
+comes are sensitive to the needs of those that must live with
+their consequences and ultimately democratises processes.
+Participation has long been a central tenet of formal planning
+and decision-making systems across the globe (see Ministry
+of Housing and Local Government 1969; Arnstein 1969).
+Re
+cently, participatory and collaborative forms of governance
+have emerged in an effort to embrace previously disengaged
+stakeholders in decision-making process, including, but not
+necessarily limited to, the public and civil society. In particu-
+lar, the discipline of planning incubated the development of a
+‘communicative’ or ‘collaborative’ paradigm (Sager 1994;
+Innes 1995;H e a l e y1997)i na ne f f o r tt om a k ed e c i s i o n so n
+land and resources in the context of increasingly fragmented
+societies. Drawing upon the premise of creating‘ideal speech’
+situations (Habermas 1984), dialogue and communication are
+encouraged, whilst planners act as facilitators to enable en-
+gagement and co-operation and ultimately to negotiate con-
+sensus. It is envisaged that collaborative planning processes
+can challenge articulations of professionals as technocrats,
+whilst mutual learning becomes integral to governance.
+390 P. O’Hare, I. White
+
+[[PAGE 7]]
+Other theorists also advocate meaningful stakeholder and
+public involvement in decision-making and in the develop-
+ment, implementation and enforcement of environmental
+laws, regulations and policie s as key for realising justice
+(Bullard 1999: 7). Julian Agyeman (2005: 26) identifies three
+strands of environmental justice to elaborate this relationship.
+First, ‘procedural’ justice, referring to the ability of people to
+be meaningfully involved; second,‘substantive’ justice, relat-
+ing to the right to live in a healthy environment; and third,
+‘distributive’ justice, relating to the equitable distribution of
+environmental benefits. Elsewhere, a similar interpretation
+identifies procedural and distributive justice and adds a third
+dimension, ‘justice as recognition’, referring to which voices
+are respected and who is valued in decision-making debates
+(Walker 2012:10). These justice perspectives help emphasise
+how political aspects, such as access to decision-making or
+notions of power, can affect disadvantage.
+However, the realisation and efficacy of participation
+varies considerably. Access to —or conversely, exclusion
+from—forums of decision-making and the variable capability
+and enthusiasm of certain sections of society in engaging with
+decision-making frame the nature, extent and effectiveness of
+involvement. For example, different authorities have differing
+perceptions of citizen participation in flood risk management
+in terms of their roles and influence, whilst not all citizens are
+able to or have the motivation to participate (see Wehn et al.
+2015). Non-participation in decision-making precludes certain
+communities and individuals from influencing unfair out-
+comes. Conversely, groups with higher levels of education
+and better access to resources may be more effective at
+influencing decisions (Walker 2012). Appreciating these and
+similar such characteristics—and the correlations and causal
+relations that govern them —is crucial to understanding the
+conditions that produce and exacerbate flood risk.
+Given these insights, we contend that disadvantages relat-
+ing to flood risk stretch far beyond the spatial distribution of
+exposure or the allocation of funds for flood defences toward
+how power structures, political actors and institutional
+processes may create and perpetuate injustice. Here, the
+work of geographers such as David Harvey ( 1996) and Iris
+Marion Y oung (1990) provides a useful reference point to link
+the spatial dimensions of injustice with the concept of (flood)
+disadvantage. Such insights call us to expand discussions of
+their distribution or uncritical assessments of disparity to un-
+derstand how wider disparities in social conditions are pro-
+duced and reproduced. By consequence, diagnostic tools that
+help trace the associations and correlations between these el-
+ements become essential.
+This section has further reoriented notions of risk and jus-
+tice beyond spatial exposure to encompass broader distribu-
+tions of disadvantage. In doing so, we link disadvantage to the
+means by which society regulates and governs space and re-
+sources and processes of stakeholder involvement in these
+processes. Core concepts pertaining to environmental justice
+provide a broader landscape to understand and explain the
+dimensions of flood disadvantage. We can, therefore, better
+appreciate how flood disadvantage implies a co-dependency
+between all of the characteristics that frame vulnerability and
+sensitivity to flood risk extending far beyond an identification
+of spatial exposure to hazards.
+The constraints of flood disadvantage
+We have advocated the concept of flood disadvantage for its
+ability both to reveal the limits of standard risk analysis prac-
+tices and to broaden understanding of less visible factors and
+forces that frame flood vulnerability, sensitivity and the capac-
+ity of individuals and communities to respond. Flood disad-
+vantage is rooted in the perspective that populations are plu-
+ralistic, and while standard risk analysis can capture parts of
+this, it certainly does not stretch beyond the contexts of
+flooding to other public policy arenas or include more nu-
+anced considerations relating to engagement or power. As
+research further elaborates these insights, we anticipate that
+our understand
+ing of flood disadvantage will become more
+sophisticated. More comprehensive recognition of the interde-
+pendent and correlated elements that constitute and compound
+disadvantage could help attune flood risk management policy
+to the specific threats and needs of those exposed to flood risk.
+Despite effort to chart the intersections between social and
+economic disadvantage and flood risk, the notion has had only
+a limited influence in flood risk management policy and prac-
+tice. The first concern relates to how decisions regarding flood
+risk are taken. Conventional flood risk maps —particularly
+those published by governmental authorities—rarely, if ever,
+take account of social dimensions of flood risk such as sensi-
+tivity and vulnerability. And even if this was the case, they
+would struggle to incorporate wider elements of disadvantage
+beyond the more easily quantifiable elements of individual
+vulnerability, such as age or disability. They also rarely ac-
+count for other aspects of risk, such as property type and
+condition, or the existence of small-scale property level pro-
+tection or resilience measures, or indeed any of the aforemen-
+tioned dimensions that compose flood disadvantage outlined
+earlier.
+Similarly, many decisions relating to investment in de-
+fences are based on a cost-benefit metric that privileges an
+aggregated value for money method rather than acknowledg-
+ing individual contexts. We propose this is due, in part, to the
+technical dominance of management approaches, such as the
+efforts of authorities to map and record flood risk and the
+demands of decision-makers. Current methods of modelling
+and illustrating flood risk, and by consequence flood risk man-
+agement decision-making systems, are relatively socially
+blind, proving to be useful, although limited, diagnostic tools.
+Beyond ‘just’ flood risk management: the potential for—and limits to—alleviating flood disadvantage 391
+
+[[PAGE 8]]
+There is also a temporal dimension to this critique, as the
+dynamic nature of flood risk intersects with the dynamic na-
+ture of disadvantage. Future studies of flood disadvantage
+could usefully acknowledge and reflect their limited ability
+to capture this complexity; that is, the fluidity of the charac-
+teristics that shape vulnerability and sensitivity to flood risk
+across time, space and various public policies. It might also
+assist the appreciation of the temporal dimensions of flood
+risk; how people can be exposed to greater or less flood dis-
+advantage across time as their individual, familial and wider
+community circumstances alter.
+A related concern regards the relatively limited organisational
+capacity of flood risk management stakeholders, partic-
+ularly given the constraints of managerial and public
+policy boundaries touched upon earlier in the paper.
+Addressing disadvantage requires a consideration of
+contexts and circumstances that, from a governance
+and bureaucratic perspective, fall far beyond the pur-
+view of the formal flood risk management practices
+and policies. Disadvantage in the most generic sense
+of the term is produced and reproduced through mar-
+kets, institutions and decision-making processes, span-
+ning an array of policy and practice agendas. Critical
+studies of flood disadvantage may better reveal the hidden
+structuring effects and limits of scientific and managerial
+flood risk management, demonstrating how people and places
+may be overlooked by initiatives that are not calibrated to the
+precise needs of those exposed to flood risk. The pursuit of
+more ‘just’ flood risk management can usefully, therefore, be
+linked to social and economic policies that offer the hope to
+alleviate disadvantage in a broader sense. Perhaps this cir-
+cumstance may explain the limits of efforts to address flood
+vulnerability, sensitivity and capacity building if only per-
+ceived through the prism of flood risk management. These
+concerns highlight the complexity and challenges in address-
+ing flood disadvantage. Without significant reform, iterations
+of flood risk management may not only fail to adequately
+address flood injustice but given a general blindness to differ-
+ence and power differentials and a limited ability to influence
+wider social policy may serve to only perpetuate injustices.
+A further challenge regards the difficulty in attaining mean-
+ingful citizen involvement in flood risk management.
+Literature referring to environmental justice advocates com-
+munity and public involvement as essential to addressing dis-
+advantage. But the trend to reframe vulnerable populations not
+as flood victims, but as stakeholders or agents in flood risk
+management, is limited. From a superficial perspective,
+stakeholder-based flood risk management draws upon the in-
+puts of many actors, each with their own vested interests,
+adding further complexity and fragmentation to decision-mak-
+ing. Whilst policy and academic literature alike valorises par-
+ticipation, collaboration and co-production in the practice of
+flood risk management, the realisation of this and the
+implications of such efforts vary considerably. More critically,
+analysts of flood risk management, whilst often great propo-
+nents of participation and collaboration in the development of
+plans and strategies, are myopic to power differentials and to
+the variable willingness and capabilities of communities to
+participate. For example, not all citizens have the ability or
+inclination to participate (see Wehn et al. 2015), while policy
+has often treated the public as instruments of flood risk man-
+agement, with discrete, prescribed and ultimately limited roles
+(Lane et al., 2011). Elsewhere, others have urged caution
+when assuming that local knowledge should be privileged in
+decision-making interactions (Haughton et al. 2015).
+We must, therefore, examine the extent to which different
+‘voices’ and groups are represented in decision-making, their
+variegated capabilities to both deal with risk and to contribute
+to decision-making and the ways through which participation
+may be affected by wider societal forces. Modes of participa-
+tion that are emergent in flood risk management practice and
+scholarship have been problematized within other disciplines.
+Critical planning theorists, attuned to the nuances and intrica-
+cies of power, have long warned of the challenges and diffi-
+culties posed by this very approach to participation, planning
+and governance. For example, collaborative efforts have been
+attacked for not taking sufficient account of power dynamics
+and relations or for overlooking the intricacies of political and
+professional activity (Tewdwr-Jones and Allmendinger1998).
+Some powerful actors could use such processes as a further
+means to progress their own agendas (Huxley and Yiftachel
+2000), not least given the real politick (Alexander 2001)o f
+planning in an essentially uncollaborative world (Brand and
+Gaffikan 2007). These are critical observations, given the re-
+liance upon the ‘capacity’ of communities and individuals and
+the increasing emphasis on democratic participation in flood
+risk management.
+Consequently, both participatory decision-making and the
+pursuit of responsibilisation agendas that fail to appreciate the
+broader challenges to public engagement in governance may
+se
+rve to exacerbate rather than ameliorate disadvantage.
+Community and public involvement must, therefore, be con-
+sidered against the context of disadvantage that frames the ca-
+pacity to participate in time-consuming, technical and often
+frustrating governance processes. Communities that feel aban-
+doned by authorities and overlooked by economic development
+before a flood, or any other hazard for that matter, are unlikely
+to embrace governance efforts that promise safety and protec-
+tion after they and their neighbours have lost their homes and
+livelihoods. A corollary of this issue is that certain groups may
+be more likely to engage, potentially privileging the influence
+of those in society that are less vulnerable to flood disadvan-
+tage. Consequently, the participatory dimensions of efforts to
+alleviate flood disadvantage requires careful negotiation and
+advocacy, stretching beyond the rather narrowly defined remit
+of flood risk management decision-making.
+392 P. O’Hare, I. White
+
+[[PAGE 9]]
+In light of these critiques, and despite the orientation of
+recent academic work around social vulnerability, studies
+of flood disadvantage have yet to percolate through to
+flood risk management practice. We propose that wider
+notions of vulnerability are overlooked precisely because
+they open debates beyond technical considerations of flood
+risk management. Essentially, these are political. Such con-
+siderations ask awkward questions about the wider vulner-
+abilities of citizens and communities, or stray too far into
+the remit of other policy fields.
+Given the heightened roles for citizens and communities
+within new ensembles of governance we must pay more crit-
+ical attention to the ability and willingness of people to engage
+in risk management and, by extension, their ability to address
+flood disadvantage. Convenient as it is for decision-makers,
+the homogenising of populations at risk neglect the personal,
+spatial and temporal vagaries of disadvantage and vulnerabil-
+ity. Moreover, it overlooks the variegated assets and capabil-
+ities found within communities across a spatial area and the
+temporal variations of flood risk. Consequently, we propose
+that flood disadvantage must be understood as essentially dy-
+namic, as a spectrum rather than a categorisation along which
+people can move as their circumstances change.
+Conclusion
+The intricate drivers and effects of flooding have been discussed
+at length throughout the academic literature. However, only
+recently have we started to fully appreciate the variegated social
+impacts of flooding and, by extension, variation in the capacity
+and ability to respond to flooding.Considerations of disadvan-
+tage provide a further understandings of the nuanced implica-
+tions of flood risk and the conte xts that frame sensitivity and
+vulnerability of people to flooding, particularly those stemming
+from other public policy and due to personal circumstances. The
+often devastating consequences of floods are exacerbated by
+societal, economic and health conditions, pushing already vul-
+nerable people into ever more disadvantage. Moreover, flooding
+can compound these other conditions of disadvantage. This,
+therefore, poses a dual challenge for those with responsibility
+for flood risk management and those with decision-making re-
+sponsibility in wider public policy fields that intersect exposed
+populations.
+As we gain ever more sophisticated understandings of the
+correlations between multifarious dimensions of flood disad-
+vantage across scales and stakeholders, integrating these per-
+spectives will be politically challenging, and in some in-
+stances, elusive (Thaler and Hartmann 2016). Such insights
+rarely bring the certainty that policymakers, practitioners and
+communities crave, exacerbating the‘wickedness’ of the con-
+temporary challenge of flood risk management. Against this
+complexity, it is understandable that planners and others
+responsible for flood risk management have tended to focus
+their attention on mapping, modelling and addressing flood
+exposurerather than flooddisadvantage.Y e t ,s u c ha p p r o a c h e s
+can unknowingly compound flood disadvantage rather than
+taking steps that may positively counter it. Additionally, flood
+risk management policy and academics increasingly speak
+of the need for participation, collaboration and coordina-
+tion across stakeholders and scales, valorizing such activ-
+ities for democratising flood risk management procedures.
+However, social scientists have critiqued the capacity of
+decision-makers to catalyse social and environmental jus-
+tice through participation and have frequently doubted the
+sincerity of such efforts within other public policy arenas.
+The provision of more opportunities to participate para-
+doxically can favour those with resources, expertise and
+time, the very same people who are arguably already well
+represented in the processes of public decision-making.
+Consequently, we acknowledge that‘Gordian’ questions of
+power, legitimacy and authority underpin more ‘visible’ no-
+tions of the distribution of goods and bads, or the formal, often
+technocratic and bureaucratic, processes of decision-making.
+Providing more critical understandings of the contextual, plu-
+ralistic and contingent nature of disadvantage will prove to be a
+vital step in the reorientation of ‘just’ flood risk management
+from being an abstract notion to one that could alter current and
+future practice.
+References
+Agyeman J (2005) Sustainable communities and the challenge of envi-
+ronmental justice. New Y ork University Press, London
+Adger N, Paavola J, Huq S, Mace MJ (2006) Fairness in adaptation to
+climate change. MIT Press, Cambridge, MA
+Alexander (2001) The planner-prince: interdependence, rationalities and
+post-communicative practice. Planning Theory & Practice 2(3):
+311–324. https://doi.org/10.1080/14649350120096848
+Arnstein S (1969) A ladder of citizen participation. Am Inst Plan J 35(4):
+216–224
+Begg C, Walker G, Kuhlicke C (2015) Localism and flood risk manage-
+ment in England: the creation of new inequalities? Environ Plan C:
+Gov Policy 33(4):685–702. https://doi.org/10.1068/c12216
+Bell J, Saunders MI, Leon JX, Mills M, Kythreotis A, Phinn S, Mumby
+PJ, Lovelock CE, Hoegh-Guldberg O, Morrison TH (2014) Maps,
+laws and planning policy: working with biophysical and spatial
+uncertainty in the case of sea level rise. Environ Sci Policy 44:
+247–257. https://doi.org/10.1016/j.envsci.2014.07.018
+Bichard E, Kazmierczak A (2012) Are homeowners willing to adapt
+to and mitigate the effects of climate change? Clim Chang 112:
+633–654. https://doi.org/10.1007/s10584-011-0257-8
+Bracken LJ, Oughton EA, Donaldson A, Cook B, Forrester J, Spray C,
+Cinderby S, Passmore D, Bisset N (2016) Flood risk management,
+an approach to managing cross-border hazards. Natural Hazards
+82(2):217–240. https://doi.org/10.1007/s11069-016-2284-2
+Brand & Gaffikan (2007) Collaborative planning in an uncollaborative
+world. Plan Theory 6(3):282 –313. https://doi.org/10.1177/
+1473095207082036
+Beyond ‘just’ flood risk management: the potential for—and limits to—alleviating flood disadvantage 393
+
+[[PAGE 10]]
+Bullard R (1994) Unequal protection: environmental justice and commu-
+nities of color. Sierra Club Books, San Francisco
+Bullard R (1999) Dismantling environmental racism in the USA. Local
+Environ 4(1):5–19. https://doi.org/10.1080/13549839908725577
+Butler C, Pidgeon N (2011) From ‘flood defence’ to ‘flood risk manage-
+ment’: exploring governance, responsibility, and blame. Environ
+Plan C 29(3):533–547. https://doi.org/10.1068/c09181j
+Cabinet Office (2011) Strategic National Framework on Community
+Resilience http://www.cabinetoffice.gov.uk/sites/default/files/
+resources/Strategic-National-Framework-on-Community-Resilience_
+0.pdf
+Campbell H, Marshall R (2006) Towards justice in planning. Eur Plan
+Stud 14(2):239–252. https://doi.org/10.1080/09654310500418192
+Cooper JAG, McKenna J (2008) Social justice in coastal erosion man-
+agement: the temporal and spatial dimensions. Geoforum 39(1):
+294–306. https://doi.org/10.1016/j.geoforum.2007.06.007
+CRED (2009) Disaster data: A balanced perspective. CRED crunch,
+Centre for Research on the epidemiology of disasters (CRED), issue
+no. 17, Brussels
+Coaffee J, Lee P (2016) Urban resilience: planning for risk, crisis and
+uncertainty. Palgrave Macmillan, Basingstoke
+Committee on Climate Change (2015) Progress in preparing for climate
+change: 2015 report to parliament, June 2015
+Cutter SL (1996) Vulnerability to environmental hazards. Prog Hum Geogr
+20(4):529–539. https://doi.org/10.1177/030913259602000407
+Cutter SL, Boruff BJ, Shirley WL (2003) Social vulnerability to environ-
+mental hazards. Soc Sci Q 84(2):242 –261. https://doi.org/10.1111/
+1540-6237.8402002
+Department for Environment, Food and Rural Affairs (Defra) (2005)
+Making space for water: taking forward a new government strategy
+for flood and coastal management in England. Defra, London
+Douglas I, Garvin S, Lawson N, Richards J, Tippett J, White I (2010)
+Urban pluvial flooding: a qualitative case study of cause, effect and
+nonstructural mitigation. J Flood Risk Manag 3:112 –125. https://
+doi.org/10.1111/j.1753-318X.2010.01061.x
+Eden S, Donaldson A, Walker GP (2006) Green groups and grey areas:
+scientific boundary work, NGOs and environmental knowledge.
+Environ Plan A 38(6):1061–1076. https://doi.org/10.1068/a37287
+Elliott JR, Pais J (2006) Race, class, and hurricane Katrina: social differ-
+ences in human responses to disaster. Soc Sci Res 35(2):295 –321.
+https://doi.org/10.1016/j.ssresearch.2006.02.003
+EM-DA T database (2016)www.emdat.be/database[Accessed 14
+th July,
+2016]
+England K, Knox K (2015) Targeting flood investment and policy to
+minimise flood disadvantage. Joseph Rowntree Foundation, Y ork
+European Commission (2007) Directive 2007/60/EC of the European
+Parliament and of the Council of 23 October 2007 on the
+Assessment and Management of Flood Risks. Available at: http://
+eurlex.europa.eu/LexUriServ /LexUriServ.do?uri=CELEX:
+32007L0060:EN:NOT(accessed 9th November 2013)
+Evans EP , Ashley R, Hall J, Penning-Rowsell E, Saul A, Sayers P , Thorne
+CR and Watkinson A (2004) Foresight. Future flooding. Scientific
+summary: volume 1 —future risks and their drivers, DTI/pub
+7183/2k/04/04/NP , URN 04/939 (London: Office of Science and
+Technology). Available at: www.gov.uk/government/publications/
+future-flooding
+Fainstein S (2011) The just city. Cornell University Press, Ithaca, United
+States
+Fainstein S (2015) Resilience and justice. Int J Urban Reg Res 39:157–167.
+https://doi.org/10.1111/1468-2427.12186
+Fielding JL (2009) Double whammy? Are the most at risk the least
+aware? A study of environmental justice and awareness of flood risk
+in England and Wales. In Samuels, P . Et al. (eds) Flood Risk
+Management: Research and Practice, pp. 965–72
+Fielding J, Burningham K (2005) Environmental inequality and flood
+hazard. Local Environ 10(4):379 –395. https://doi.org/10.1080/
+13549830500160875
+Gustafson S (2015) Maps and contradictions: urban political ecology
+and cartographic expertise in southern Appalachia. Geoforum
+60:143–152. https://doi.org/10.1016/j.geoforum.2015.01.017
+Habermas J (1976) Legitimation crisis. Heinemann Educational, London
+Habermas J (1984) The theory of communicative action: vol.1 —reason
+and the rationalization of society. Polity Press, Oxford
+Hall J, Solomatine D (2008) A framework for uncertainty analysis in
+flood risk management decisions. Int J River Basin Manag 6(2):
+85–98. https://doi.org/10.1080/15715124.2008.9635339
+Harley JB (1989) Deconstructing the map. Cartographica 26:1 –20.
+https://doi.org/10.3138/E635-7827-1757-9T53
+Harvey D (1996) Justice, nature and the geography of difference.
+Blackwell, Oxford
+Haughton G, Bankoff G, Coulthard TJ (2015) In search of ‘lost’ knowl-
+edge and outsourced expertise in flood risk management. Trans Inst
+Br Geogr 40:375–386. https://doi.org/10.1111/tran.12082
+Haughton G and White I (2016) Groundhog day: the great floods of 2015,
+Town and Country Planning Journal, March, 134–137
+Healey P (1997) Collaborative planning: shaping places in fragmented
+societies. Palgrave, Basingstoke
+Houston D, Werritty A, Bassett D, Geddes A, Hoolachan A, McMillan M
+(2011) Pluvial (rain-related) flooding in urban areas: the invisible
+hazard. Joseph Rowntree Foundation, Y ork
+Howe J, White I (2002) The geography of the autumn 2000 floods in the
+UK. Geogr: An Int J 87(2):116 –125. https://doi.org/10.1016/j.ijdrr.
+2017.01.018
+Huxley M, Yiftachel O (2000) New paradigm or old myopia? Unsettling
+the communicative turn in planning theory. J Plan Educ Res 19(4):
+333–342. https://doi.org/10.1177/0739456X0001900402
+Innes J (1995) Planning theory ’s emerging paradigm: communicative
+action and interactive practice. J Plan Educ Res 14(3):183 –189.
+https://doi.org/10.1177/0739456X9501400307
+IPCC. (2014) Climate change 2014: impacts, adaptation, and vulnerabil-
+ity. IPCC. Available at: http://www.Ipcc.Ch/report/ar5/wg2/
+(accessed 2nd June 2016)
+Jasanoff S (ed) (2004) States of knowledge: the coproduction of science
+and social order. Routledge, London
+Johnson C, Tunstall S, Penning-Rowsell E (2005) Floods as catalysts for
+policy change: historical lessons from England and Wales. Int J
+Water Resour Dev 21:561 –575. https://doi.org/10.1080/
+07900620500258133
+Johnson C, Penning-Rowsell E, Parker D (2007) Natural and imposed
+i
+njustices: the challenges in implementing ‘fair’ flood risk manage-
+ment policy in England. Geogr J 173(4):374–390. https://doi.org/10.
+1111/j.1475-4959.2007.00256.x
+Johnson C, Priest S (2008) Flood risk management in England: a chang-
+ing landscape of risk responsibility? Int J Water Resour Dev 24(4):
+513–525. https://doi.org/10.1080/07900620801923146
+Kazmierczak A, Cavan G (2011) Surface water flooding risk to urban
+communities: analysis of vulnerability, hazard and exposure. Landsc
+Urban Plan 103(2):185–197. https://doi.org/10.1016/j.landurbplan.
+2011.07.008
+Kazmierczak A, Cavan G, Connelly A, Lindley S (2015) Mapping flood
+disadvantage in Scotland 2015. The Scottish Government, Edinburgh
+Kitchin R (2014) From mathematical to post-representational un-
+derstandings of cartography. Progress In Human Geography,
+intro to special e-collection, pp 1 –7 doi: https://doi.org/10.
+1177/0309132514562946
+Klein N (2007) The shock doctrine: the rise of disaster capitalism.
+Penguin, London
+Krellenberg K, Welz J, Link F (2016) Urban vulnerability and the contri-
+bution of socio-environmental fragmentation: Theoretical and
+394 P. O’Hare, I. White
+
+[[PAGE 11]]
+methodological pathways. Prog Hum Geogr 41(4):408–431. https://
+doi.org/10.1177/0309132516645959
+Kuklicke C and Demeritt D (2016) Adaptive and risk-based approaches to
+climate change and the management of uncertainty and institutional
+risk: the case of future flooding in England. Global Environ Change
+37 56-68. doi: https://doi.org/10.1016/j.gloenvcha.2016.01.007
+Landström C, Whatmore SJ, Lane SN, Odoni NA, Ward N, Bradley
+S (2011) Co-producing flood risk knowledge: redistributing ex-
+pertise in critical ‘participatory modelling ’. Environ Plan A
+43(7):1617–1633. https://doi.org/10.1068/a43482
+Lane SN (2014) Acting, predicting and intervening in a socio-
+hydrological world, Hydrology and Earth Systems Sciences , 18,
+927–952. doi: https://doi.org/10.5194/hess-18-927-2014
+Lane SN, Odoni N, Landström C, Whatmore SJ, Ward N, Bradley S
+(2011) Doing flood risk science differently: an experiment in radical
+scientific method. Trans Inst Br Geogr 2011(36):15–36. https://doi.
+org/10.1111/j.1475-5661.2010.00410.x
+Lindley S, O’Neill J, Kandeh J, Lawson N, Christian R, O’Neill M (2011)
+Climate change, justice and vulnerability. Joseph Rowntree
+Foundation, Y ork
+Mitchell G, Dorling D (2003) An environmental justice analysis of
+British air quality. Environ Plan A 35(5):909 –929. https://doi.org/
+10.1068/a35240
+Ministry of Housing and Local Government (1969)People and Planning.
+Report of the Committee on Public Participation in Planning [The
+Skeffington Report]. London: HMSO
+Ministry of Transport, Public Works and Water Management (2006)
+Spatial Planning Key Decision ‘Room for the River ’. Available at:
+http://www.ruimtevoorderivier.nl(accessed 15
+th December 2016)
+O’Brien K, Hayward B, Berkes F (2009) Rethinking social contracts:
+building resilience in a changing climate. Ecol Soc 14(2):12
+O’Hare P , White I, Connelly A (2015) Insurance as maladaptation:
+Resilience and the 'business as usual' paradox. Environ Plan C 1-
+19. https://doi.org/10.1177/0263774X15602022
+O’Hare P , White I, Connelly A (2016) , Insurance as maladaptation:
+resilience and the ‘business as usual ’ paradox, Environ Plan C:
+Gov Policy 34(6), pp.1175– 1193. https://doi.org/10.1177/
+0263774X15602022
+O’Neill J (2001) Representing people, representing nature, representing
+the world. Environ Plan C: Gov Policy 19:483–500. https://doi.org/
+10.1068/c12s
+O’Neill J, O’Neill M (2012) Social justice and the future of flood insur-
+ance. Joseph Rowntree Foundation, York
+Pahl-Wostl (2009) A conceptual framework for analysing adaptive capac-
+ity and multi-level learning processes in resource governance re-
+gimes. Glob Environ Chang 19(3):354 –365. https://doi.org/10.
+1016/j.gloenvcha.2009.06.001
+Penning-Rowsell E, Johnson C (2015) The ebb and flow of power:
+British flood risk management and the politics of scale. Geoforum
+62:131–142. https://doi.org/10.1016/j.geoforum.2015.03.019
+Penning-Rowsell E, Pardoe J (2012) Who benefits and who loses from
+flood risk reduction? Environ Plan C: Gov Policy 30(3):448 –466.
+https://doi.org/10.1068/c10208
+Pitt Review (2008) Learning Lessons from the 2007 Floods Available at:
+http:// webarchive.nationalarchives.gov.uk/20100807034701/http:/
+archive.cabinetoffice.gov.uk /pittreview/_/media/assets/ www.
+cabinetoffice.gov.uk/flooding_review/pitt_review_full%20pdf.pdf
+(accessed 12 July 2013)
+Porter J, Demeritt D (2012) Flood risk management, mapping, and plan-
+ning: the institutional politics of decision support in England.
+Environ Plan A:2539–2378. https://doi.org/10.1068/a44660
+Preston BL, Y uen EJ, Westaway RM (2011) Putting vulnerability to climate
+change on the map: a review of approaches, benefits and risks. Sustain
+Sci 6(2):177–202. https://doi.org/10.1007/s11625-011-0129-1
+Priest SJ, Clark MJ, Treby EJ (2005) Flood insurance: the chal-
+lenge of the uninsured. Area 37(3):295 –302. https://doi.org/
+10.1111/j.1475-4762.2005.00633.x
+Robson B (1999) Vision and reality: urban social policy. In: Cullingworth
+JB (ed) British planning: 50 years of urban and regional policy.
+Athlone Press, London, pp 168–183
+Ruimte voor de Rivier (2012) Available at:http://www.ruimtevoorderivier.
+nl/meta-navigatie/english/ publications/ (accessed 15
+th December
+2016)
+Sager T (1994) Communicative planning theory. Avebury, Aldershot
+Scott M, White I, Kuhlicke C, Steinführer A, Sultana P , Thompson P ,
+Minnery J, O ’Neill E, Cooper J, Adamson M, Russell E (2013)
+Living with flood risk. Plan Theory Pract 14(1):103–140
+Smith N (2006) There’s no such thing as natural disaster. In: Understanding
+Katrina: perspectives from the social sciences. Social Sciences
+Research Council, Brooklyn [ http://understandingkatrina.ssrc.org/
+Smith/]
+Stephens, C., Bullock, S. & Scott, A., (2001) Environmental justice —
+rights and means to a healthy environment for all. ESRC
+Stern N (2007) The economics of climate change: the stern review.
+Cambridge University press, Cambridge
+Tapsell SM, Penning-Rowsell EC, Tunstall SM, Wilson TL (2002)
+Vulnerability to flooding: health and social dimensions. Phil Trans
+R Soc A 360:1511–1525. https://doi.org/10.1098/rsta.2002.1013
+Thaler T, Priest S (2014) Partnership funding in flood risk management:
+new localism debate and policy in England. Area 46:418 –425.
+https://doi.org/10.1111/area.12135
+Thaler T, Hartmann T (2016) Justice and flood risk management:
+reflecting on different approaches to distribute and allocate flood
+risk management in Europe. Nat Hazards 83(1):129 –147. https://
+doi.org/10.1007/s11069-016-2305-1
+Thaler T, Levin-Keitel M (2016) Multi-level stakeholder engagement in
+flood risk management —a question of roles and power: lessons
+from England. Environ Sci Policy 55(1):292 –301. https://doi.org/
+10.1016/j.envsci.2015.04.007
+Thieken AH, Muller M, Kreibich H, Merz B (2005) Flood damage and
+influencing factors: new insights from the August 2002 flood in
+G e r m a n y .W a t e rR e s o u rR e s4 1
+Tewdwr-Jones M, Allmendinger P (1998) Deconstructing communica-
+tive rationality: a critique of Habermasian collaborative planning.
+Environ Plan A 30(11):1975 –1989. https://doi.org/10.1068/
+a301975
+V ardoulakis S, Heaviside C (2012) Health effects of climate change in the
+UK 2012. Health Protection Agency, London
+Walker G, Fairburn J and Smith G, (2003) Environmental quality and
+social deprivation. R&D Technical Report E2-067/1/TR. Bristol:
+Environment Agency
+Walker G, Burningham K (2011) Flood risk, vulnerability and environ-
+mental justice: evidence and evaluation. Critical Social Policy 31(2):
+216–240. https://doi.org/10.1177/0261018310396149
+Walker G (2012) Environmental justice: concepts, evidence and politics,
+London: Routledge
+Wehn, U., Rusca, M., Evers, J., Lanfranchi, V . (2015) Participation in
+flood risk management and the potential of citizen observatories: a
+governance analysis. Environ Sci Policy 48, 225 –236 doi: https://
+doi.org/10.1016/j.envsci.2014.12.017
+Werritty A, Houston D, Ball T, Tavendale, A. and Black, A. (2007)
+Exploring the social impacts of flood risk and flooding in
+Scotland. Report for Scottish Executive
+White I (2010) Water and the city: risk, resilience and planning for a
+sustainable future. Routledge, London
+White I (2013) The more we know, the more we don ’t know: reflections
+on a decade of planning, flood risk management and false precision.
+Plan Theory Pract 14(1):106 –114. https://doi.org/10.1080/
+14649357.2012.761904
+Beyond ‘just’ flood risk management: the potential for—and limits to—alleviating flood disadvantage 395
+
+[[PAGE 12]]
+White I (2015) Environmental planning in context. Palgrave MacMillan:
+Basingstoke
+White I, Alarcon A (2009) Planning policy, sustainable drainage and sur-
+face water management: a case study of Greater Manchester, UK.
+Built Environ 35(4):516–530. https://doi.org/10.2148/benv.35.4.516
+White I, Haughton G (2017) Risky times: hazard management and the
+tyranny of the present. Int J Disaster Risk Reduction 22:412 –419.
+https://doi.org/10.1016/j.ijdrr.2017.01.018
+White I, Howe J (2002) Flooding and the role of planning in England and
+Wales: a critical review. J Environ Plan Manag 45(5):735 –745.
+https://doi.org/10.1080/0964056022000013093
+White I, Kingston R, Barker A (2010) Participatory geographic informa-
+tion systems and public engagement within flood risk management.
+J Flood Risk Manag 3:337 –346. https://doi.org/10.1016/j.envsci.
+2014.12.017
+White I, O’Hare P (2014) From rhetoric to reality: which resilience, why
+resilience, and whose resilience in spatial planning? Environ Plan C:
+Gov Policy 32(5):934–950. https://doi.org/10.1068/c12117
+W h i t eI ,C o n n e l l yA ,G a r v i nS ,L a w s o nN ,O’Hare P (2016) Flood resil-
+ience technology in Europe: identifying barriers and co-producing
+best practice. J Flood Risk Manag. https://doi.org/10.1111/jfr3.
+12239
+Whittle R, Medd W, Deeming H, Kashefi E, Mort M, Twigger-Ross
+C, Walker G and Watson N (2010) After the rain —learning the
+lessons from flood recovery in Hull , final report for ‘flood, vul-
+nerability and urban resilience: a real-time study of local recovery
+following the floods of June 2007 in Hull ’. Lancaster: Lancaster
+University
+Wolff J, de Shalit A (2007) Disadvantage. Oxford University Press,
+Oxford
+Y oung IM (1990) Justice and the pol itics of difference. Princeton,
+Princeton University Press
+Zevenbergen C, Cashman A, Evelpidou N, Pasche E, Garvin S, Ashley R
+(2010) Urban flood management. CRC Press, London
+Zsamboky M, Fernandez-Bilbao A, Smith D, Knight J, Allan J (2011)
+Impacts of climate change on disadvantaged UK coastal communi-
+ties. Joseph Rowntree Foundation, Y ork
+396 P. O’Hare, I. White

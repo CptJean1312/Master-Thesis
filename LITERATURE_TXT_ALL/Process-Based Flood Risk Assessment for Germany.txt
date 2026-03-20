@@ -1,0 +1,646 @@
+[[PAGE 1]]
+1. Introduction
+Integrated flood risk management approaches are implemented in many countries worldwide (Merz 
+et  al.,  2010; Sayers et  al.,  2013). These approaches consider that flood defenses might fail and focus on 
+mitigating the consequences of flooding, acknowledging that entirely preventing floods is not possible. In 
+Germany, the events in 1993, 1995 and the extreme event in 2002 triggered various policy decisions toward 
+more systemic risk management approaches (Petrow et al.,  2006; Rözer et al.,  2020).
+Nationwide risk assessments are important to support national risk management and climate change adap-
+tation policies (Merz et al.,  2010). The European Flood Directive (ES,  2007) requests the European Union 
+member states to provide risk management plans for all areas with potentially significant flood risk. After 
+Abstract  Large-scale flood risk assessments are crucial for decision making, especially with respect 
+to new flood defense schemes, adaptation planning and estimating insurance premiums. We apply the 
+process-based Regional Flood Model (RFM) to simulate a 5000-year flood event catalog for all major 
+catchments in Germany and derive risk curves based on the losses per economic sector. The RFM uses a 
+continuous process simulation including a multisite, multivariate weather generator, a hydrological model 
+considering heterogeneous catchment processes, a coupled 1D–2D hydrodynamic model considering 
+dike overtopping and hinterland storage, spatially explicit sector-wise exposure data and empirical multi-
+variable loss models calibrated for Germany. For all components, uncertainties in the data and models 
+are estimated. We estimate the median Expected Annual Damage (EAD) and Value at Risk at 99.5% 
+confidence for Germany to be €0.529 bn and €8.865 bn, respectively. The commercial sector dominates by 
+making about 60% of the total risk, followed by the residential sector. The agriculture sector gets affected 
+by small return period floods and only contributes to less than 3% to the total risk. The overall EAD is 
+comparable to other large-scale estimates. However, the estimation of losses for specific return periods 
+is substantially improved. The spatial consistency of the risk estimates avoids the large overestimation of 
+losses for rare events that is common in other large-scale assessments with homogeneous return periods. 
+Thus, the process-based, spatially consistent flood risk assessment by RFM is an important step forward 
+and will serve as a benchmark for future German-wide flood risk assessments.
+Plain Language Summary  We provide spatially consistent flood risk estimates for the 
+residential, commercial and agricultural sectors of Germany. The Regional Flood Model (RFM) simulates 
+a 5000-year flood event catalogue from which the flood risk curves are derived based on the losses per 
+economic sector. The RFM is a process-based model chain, that couples the weather generator providing 
+spatially consistent precipitation fields with the hydrological and hydrodynamic models considering 
+processes such as dike overtopping and hinterland storage. The coherent heterogeneous return period 
+flows result in flood maps consisting of inundation depth and duration. These are intersected with sector 
+specific assets at high spatial resolution. Detailed flood loss models are used to estimate losses. From the 
+risk curves, we estimate the Expected Annual Damage and losses corresponding to a 200-year return 
+period for Germany to be €0.529 bn and €8.865 bn, respectively. The commercial sector dominates by 
+making about 60% of the total risk, followed by the residential sector. The agriculture sector gets affected 
+by small return period floods and only contributes to less than 3% to the total risk. Owing to the process-
+based, spatially consistent approach implemented, our risk estimates for extreme events are more realistic 
+compared to other large-scale assessments.
+SAIRAM ET AL.
+© 2021 The Authors. Earth's Future 
+published by Wiley Periodicals LLC on 
+behalf of American Geophysical Union.
+This is an open access article under 
+the terms of the Creative Commons 
+Attribution-NonCommercial-NoDerivs 
+License, which permits use and 
+distribution in any medium, provided 
+the original work is properly cited, 
+the use is non-commercial and no 
+modifications or adaptations are made.
+Process-Based Flood Risk Assessment for Germany
+Nivedita Sairam1 , Fabio Brill1,2 , Tobias Sieg2 , Mostafa Farrag1,2 , 
+Patric Kellermann1 , Viet Dung Nguyen1, Stefan Lüdtke1 , Bruno Merz1,2 , 
+Kai Schröter1 , Sergiy Vorogushyn1 , and Heidi Kreibich1 
+1GFZ German Research Centre for Geosciences, Section 4.4. Hydrology, Potsdam, Germany, 2Institute for 
+Environmental Sciences and Geography, University of Potsdam, Potsdam, Germany
+Key Points:
+•  Regional Flood Model provides 
+spatially consistent flood risk 
+estimates for residential, commercial 
+and agriculture sectors for Germany
+•  Flood risk is derived using a 
+5000-year event catalog, yielding a 
+realistic representation of risk along 
+with uncertainty quantification
+•  The median Expected Annual 
+Damage and Value At Risk at 
+99.5% confidence for Germany is 
+estimated to be €0.53 bn and €8.87 
+bn, respectively
+Supporting Information:
+Supporting Information may be found 
+in the online version of this article.
+Correspondence to:
+N. Sairam,
+nivedita@gfz-potsdam.de
+Citation:
+Sairam, N., Brill, F., Sieg, T., Farrag, 
+M., Kellermann, P., Nguyen, V. D., 
+et al. (2021). Process-based flood 
+risk assessment for Germany. Earth's 
+Future, 9, e2021EF002259. https://doi.
+org/10.1029/2021EF002259
+Received 15 JUN 2021
+Accepted 14 SEP 2021
+Author Contributions:
+Conceptualization: Nivedita 
+Sairam, Fabio Brill, Tobias Sieg, Patric 
+Kellermann, Bruno Merz, Kai Schröter, 
+Sergiy Vorogushyn, Heidi Kreibich
+Methodology: Nivedita Sairam, Fabio 
+Brill, Tobias Sieg, Mostafa Farrag, Patric 
+Kellermann, Viet Dung Nguyen, Stefan 
+Lüdtke, Bruno Merz, Kai Schröter, 
+Sergiy Vorogushyn, Heidi Kreibich
+Software: Stefan Lüdtke
+10.1029/2021EF002259
+RESEARCH ARTICLE
+1 of 12
+
+
+[[PAGE 2]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+2 of 12
+the 2013 flood in Germany, a new national flood protection program was kickstarted with a funding volume 
+of €5.437 bn (LAWA, 2014). For the prioritization of the investments based on decision-support frameworks 
+like cost-benefit analyses, comprehensive large-scale risk assessment models are essential tools (e.g., de 
+Moel et al.,  2015; Kreibich et al.,  2014; Vorogushyn et al.,  2018).
+Several flood risk assessments have been conducted on the national and continental scales. The models 
+applied within these assessments are usually based on generalized data and simplified methods. Spatial 
+dependence between precipitation or discharge peaks at multiple locations is often ignored, i.e., the uni -
+form return period assumption over large areas is adopted for risk estimation (e.g., Alfieri et al.,  2015; Ward 
+et al.,  2013; Wing et al.,  2018; Winsemius et al.,  2013). In these flood maps, the scenario with a N-year return 
+period (e.g., 100-year) is composed of all flooded areas within the region, where each location shows the 
+N-year flood. Exposed assets represented as rasterized Gross Domestic Product ignore their spatial variabil-
+ity (e.g., Alfieri et al.,  2015,  2018; Ward et al.,  2013). The vulnerability curves or flood loss models are often 
+not calibrated for the area of application. For instance, generalized stage-damage curves for all asset types 
+are applied (e.g., Alfieri et al.,  2015; Rojas et al.,  2013). Finally, uncertainties in data and models, especially 
+with respect to exposure and vulnerability are rarely considered due to lack of information and computa -
+tional constraints (e.g., see, Alfieri et al.,  2015,  2018).
+Over the last years significant progress in addressing these limitations converged in the development of a 
+process-based Regional Flood Model (RFM) for Germany (Falter et al.,  2015; Metin et al.,  2018). For exam-
+ple, the assumption of uniform return period of driving variables leads to piecewise, mosaicked inundation 
+patterns across large areas that would not occur in a single flood event resulting in unrealistic risk estimates 
+for specific return periods in large areas, though Expected Annual Damage (EAD) is not affected (Lamb 
+et al.,  2010; Metin et al.,  2020; Nguyen et al.,  2020). To overcome this assumption, the RFM accounts for 
+spatial dependence between extremes considering spatially consistent precipitation footprints resulting in 
+coherent heterogeneous return period flows across the catchments. The effect of floodplain storage and risk 
+reduction for downstream areas is considered within sub-basins due to continuous hydrodynamic modeling 
+(Apel et al.,  2008; de Bruijn et al.,  2014; Vorogushyn et al.,  2018). Since ignoring spatial distribution of assets 
+results in coarse risk predictions at the local/regional levels (Jongman et al.,  2012), the RFM uses spatially 
+explicit sector-wise exposure asset values at the municipality-level which are disaggregated on detailed land 
+use areas. Risk assessment using loss models that are not calibrated for the area of application results in un-
+reliable risk predictions (Schröter et al.,  2014; Wagenaar et al.,  2018). In contrast, RFM employs sector-wise 
+validated empirical flood loss models specific to Germany (Seifert et al., 2010; Tapia-Silva et al.,  2011; Thiek-
+en et al.,  2008). Since ignoring uncertainties in risk predictions impedes robust decision making (Beven 
+et al.,  2018; de Brito & Evers et al.,  2016; Steinhausen et al.,  2020), the RFM accounts for uncertainties in 
+data and models such as simulated water levels, spatial distribution of asset values and vulnerability curves.
+The objective of this study is to provide for the first time a process-based, spatially consistent flood risk 
+assessment for the residential, commercial and agricultural sectors for all major catchments in Germany. 
+With the RFM a 5000-year long synthetic flood event catalog is simulated and risk curves derived based on 
+the losses per economic sector. We further capture the range of uncertainty in each modeled component 
+of risk (hazard, exposure and vulnerability). As these results are derived using the best process-based flood 
+risk model chain currently available, they serve as a benchmark for future model development studies and 
+regional risk estimates.
+2. Materials and Methods
+2.1. Regional Flood Model (RFM)
+The RFM is a chain of four coupled models: (a) a stochastic multi-site, multivariate Regional Weather 
+Generator (RWG) simulates synthetic time series of precipitation, temperature, humidity and solar radi -
+ation at climate station locations for entire Germany and upstream parts of riparian countries (Hundecha 
+et al.,  2009; Nguyen et al.,  2021). (b) These time series are fed into the hydrological model - Soil and Water 
+Integrated Model (SWIM) (Krysanova et al.,  1998) to obtain runoff input into the river network. SWIM 
+operates on a sub-basin scale and uses the Muskingum routing method. (c) the 1D hydrodynamic model 
+component of the Regional Inundation Model (RIM) is driven by discharge input from SWIM and estimates 
+Supervision: Bruno Merz, Sergiy 
+Vorogushyn, Heidi Kreibich
+Writing – original draft: Nivedita 
+Sairam, Fabio Brill
+Writing – review & editing: Nivedita 
+Sairam, Fabio Brill, Bruno Merz, Kai 
+Schröter, Sergiy Vorogushyn, Heidi 
+Kreibich
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+3 of 12
+flood flows and water levels along the river network, considering dike overtopping and water inflow into 
+protected floodplains. If overtopping is simulated, the raster-based 2D model component of RIM is acti -
+vated to estimate the spatial distribution of maximum inundation depth and duration in protected hin -
+terland. (d) These patterns are then intersected with exposure maps of asset values in €/m 2 separately for 
+different asset types (e.g., buildings, contents) and the three sectors (residential, commercial, agriculture). 
+See the Supporting  Information  S1 [chapter 2] for a detailed description of the exposure maps. Finally, 
+specific multivariable Flood Loss Estimation MOdels (FLEMO) per asset type and sector are applied to 
+compute economic loss. The rule-based loss models for the residential (Thieken et al.,  2008), commercial 
+(Seifert et al.,  2010) and agricultural sector (Tapia-Silva et al.,  2011) were developed and validated on basis 
+of flood loss data from Germany. The 2D hydrodynamic model component operates on a spatial resolution 
+of 100 × 100 m and the exposure data is disaggregated on units of the digital basic landscape model ATKIS 
+Basic DLM, therefore the loss estimation is initially computed on polygons that may be smaller than the 
+100 × 100 m grid, but are interpreted on an aggregated scale (e.g., catchment). The individual components 
+of the RFM are calibrated and validated based on past flood events in Germany (Falter et al.,  2015; Hunde-
+cha et al.,  2009; Seifert et al.,  2010; Tapia-Silva et al.,  2011; Thieken et al.,  2008). Further technical details 
+on the individual model components (see, Figure  1) and their application in this study are provided in the 
+following sections. The calibration and validation of the model components are provided in the Support -
+ing Information  S1 [chapter 1].
+2.1.1. Regional Weather Generator (RWG)
+The first component of the RFM is the multi-site, multi-variate stochastic Regional Weather Generator 
+(RWG) based on a first-order multivariate autoregressive model considering spatial correlation structure 
+(Hundecha et al.,  2009; Nguyen et al.,  2021). The model has two simulation stages. In the first stage, it 
+generates daily precipitation at multiple point locations simultaneously. In the second stage, if necessary, 
+it generates daily non-precipitation variables such as temperature (maximum, minimum, average), relative 
+humidity and solar radiation conditioned on the state (dry/wet) of the generated precipitation. RWG was 
+originally introduced by Hundecha et al. ( 2009) and has recently been improved and evaluated for all ma -
+jor German river basins by Nguyen et al. ( 2021). For non-zero precipitation values at individual stations, a 
+theoretical distribution is fitted to simulate daily precipitation sums. The RWG provides two options: (a) a 
+six-parameter mixed distribution (Frigessi et al.,  2002; Hundecha et al.,  2009) combining a Gamma distri -
+bution for bulk precipitation and a Generalized Pareto distribution for extreme precipitation, (b) a parsi -
+monious three-parameter extended Generalized Pareto distribution allowing a smooth transition between 
+bulk distribution and extreme values (Naveau et al.,  2016; Nguyen et al.,  2021). In the present study, the 
+mixed distribution was used because it generally shows a better fit to observational data although the fitting 
+procedure is much more computationally expensive. The mixed distribution of non-zero precipitation is 
+then combined with the frequency of dry days to formulate the distribution of the full range of precipitation 
+values. For non-precipitation variables, the normal distribution is used to model humidity and temperature 
+values. The radiation data exhibits a relatively strong right skew therefore the normal distribution is fitted 
+to their square root transformed values. Moreover, to account for seasonality, the RWG is parameterized on 
+a monthly basis.
+2.1.2. Hydrological Model (SWIM)
+The second component of the RFM is the conceptual, semi-distributed hydrological model SWIM (Krys -
+anova et al.,  1998). SWIM is designed as an integrated tool for hydrological and water quality modeling in 
+meso-scale and large river basins. The hydrological component of SWIM solves the water balance equa -
+tion considering snowmelt, precipitation, evapotranspiration, percolation, surface and subsurface runoff, 
+recharge, and capillary rise and simulates daily runoff as a target variable. SWIM employs a 3-level spatial 
+disaggregation scheme including basins, sub-basins and hydrotopes. A major river basin (e.g., Elbe) is sub-
+divided into sub-basins linked through a topological network which is derived in a pre-processing step. The 
+sub-basins are further subdivided into the hydrological response units or hydrotopes, where soil type, land 
+use and other properties are assumed to be homogeneous. Runoff is calculated for each hydrotope and then 
+aggregated on a sub-basin scale. For flow routing between sub-basins, the Muskingum routing approach is 
+used (Cunge,  1969) to obtain total discharge at the outlet of each sub-basin.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+4 of 12
+2.1.3. Regional Inundation Model (RIM)
+The third component of the RFM is a Regional Inundation Model (RIM) consisting of two coupled sub-com-
+ponents: RIM1D and RIM2D. Since SWIM employs the Muskingum method to route the flow between 
+sub-basins it does not need detailed geometry of sub-basin channels (e.g., cross-section profiles) and hence 
+is not able to provide water level information which is required for the simulation of flood defense over -
+topping. Therefore, RIM1D - a 1-dimensional (1D) hydrodynamic routing model is used for flow routing 
+and calculations of water levels and overtopping discharge. The hydrodynamic routing scheme solves the 
+diffusive wave equations describing water flow in open channels using an explicit finite difference solution 
+scheme. Adaptive time step technique based on Courant-Friedrichs-Lewy criterion is used to keep numer -
+ical stability. When the water level exceeds the dike crest high, the overtopping flow into the hinterland is 
+calculated with the broad-crested weir equations (Falter et al.,  2015). In order to simulate the inundation 
+process in the hinterland, RIM2D - a 2-dimensional (2D) hydrodynamic model using an inertial formu -
+lation of the shallow water equations is employed (Bates et al.,  2010; Falter et al.,  2015). The momentum 
+and continuity equations are solved explicitly using a finite volume scheme and are suitable for efficient 
+Figure 1. Components of the Regional Flood Model along with the relevant input data and type of discretization. 
+(adapted from Farrag et al.,  2021).
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+5 of 12
+parallelization. In the RFM, RIM2D is implemented using the CUDA Fortran programming language on 
+the highly parallelized NVIDIA Graphical Processing Units (GPUs) (Falter et al.,  2016). It should be noted 
+that the 1D-2D coupling is currently one-way, in which water flows from channel to hinterland but not vice 
+versa. The overtopping terminates as soon as the water level in the hinterland is equal to the water level in 
+the channel.
+2.1.4. Flood Loss Estimation Models (FLEMO)
+The final component of the RFM is loss estimation based on the FLEMO model family, which has been de-
+veloped from empirical loss data of German river floods, and validated in previous modeling studies (Krei-
+bich et al.,  2010; Tapia-Silva et al.,  2011; Thieken et al.,  2008). For the residential and commercial sector, loss 
+functions are based on water depth, discretized into six levels (<0.21, 0.21–0.6, 0.61–1, 1.01–1.5, >1.5 m). 
+The residential sector model distinguishes three building types (single-family, semi-detached, multi-family) 
+and two building quality levels (Low/medium quality, high quality). The commercial sector is subdivided 
+in four sub-sectors (producing industry, trade, corporate services, public & residential services) and three 
+size classes according to the number of employees (1–10, 11–100, >100). For the agricultural sector, loss 
+functions are based on four inundation duration classes (1–3, 4–7, 8–11, >11  days), season of the flood 
+(per month), seven different crop types (canola, maize, potatoes, sugar beet, barley, rye, wheat) (Förster 
+et al.,  2008). Upper and lower bounds of the uncertainty in the loss estimation models are accounted for 
+by applying the Mean Absolute Error estimated during calibration/validation of the FLEMO model family.
+2.2. Risk Curves
+Flood risk estimates from a 5000-year event catalog simulated using the RFM are represented using the Oc-
+currence Exceedance Probability and Aggregate Exceedance Probability curves. Both are standard measures 
+used in the insurance industry that are included in typical vendor catastrophe modeling software (e.g., by 
+RMS, AIR Worldwide, EQECAT) and also used in respective scientific literature (e.g., Hillier et al.,  2015; 
+Priestley et al.,  2018). Aggregate Exceedance Probability is calculated by ranking the sum of total loss for 
+all events per year, while Occurrence Exceedance Probability is calculated by ranking only the most severe 
+individual loss event per year. The resulting table has as many rows as there are years in the simulation 
+(with empty rows for years without losses at the bottom), therefore the simulated loss return period can be 
+derived directly from this ranking. The difference between Aggregate Exceedance Probability and Occur -
+rence Exceedance Probability curves signalizes whether the losses are produced from single extreme events, 
+or rather from many small to medium scale events (Priestley et al.,  2018). From these curves we further 
+derive the EAD, as well as the VAR (Value At Risk) and TVAR (Tail Value At Risk) based on the event with a 
+loss return period of 200 years. The EAD equally distributes risk over time, while VAR gives the maximum 
+expected loss in a year at a specified confidence level, and TVAR the average loss above the confidence level 
+of VAR. TVAR is therefore an indicator of the upper tail risk. VAR at 99.5% confidence (VAR 99.5%), i.e., at 
+a return period of 200 years, is the current regulatory standard in the Solvency II legislation on required 
+minimum reserves of insurance undertakings (Dos Reis et al.,  2010).
+Uncertainty range in exposure is estimated based on uniform sampling of the factors leading to variations of 
+asset values of residential and commercial sectors. Uncertainty in flood loss models pertaining to residential, 
+commercial and agriculture sectors are estimated based on the validation of predictions against  empirical 
+loss data. Uncertainty in water depths from the 5000-year event catalog is quantified by adding Gaussi -
+an noise to the simulations that represents the random uncertainty in dike heights. The upper and lower 
+uncertainty ranges from data and individual components of RFM are aggregated and reported in the risk 
+curves and EAD and VAR99.5% estimates. The bounds indicate the aggregation of uncertainties in hazard -  
+flood inundation levels, exposure - asset values and vulnerability - flood loss models. Further details on 
+uncertainty estimation is provided in the Supporting Information  S1 and in the chapter 2.1 corresponding 
+to the respective RFM components.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+6 of 12
+3. Results and Discussion
+3.1. Risk Estimates–Expected Annual Damage (EAD), Value at Risk (VAR99.5%)
+The median EAD for Germany aggregated across the three sectors (residential, commercial and agriculture) 
+and across all catchments is estimated to be €0.529 bn (Figure  2c). The lower and upper limits of EAD 
+considering uncertainties are €0.245 bn and €0.94 bn, respectively. The commercial sector dominates by 
+making about 60% of the total risk, followed by the residential sector (Figure  2d). The agriculture sector 
+only contributes to less than 3% to the total risk. The individual catchments contribute quite differently to 
+the EAD as follows: Rhein (28%), Danube (27%), Elbe (40%), Weser (5%) and Ems (<0.1%) (see, Figure  2c). 
+Across catchments, the Elbe, Danube and Rhine share about 90% of the total risk.
+Our estimate for VAR99.5% is at €8.865 bn (€4.148 bn to €15.386 bn) with losses occurring in the Rhine (41%), 
+Danube (30%), Elbe (21%), Weser (8%) and Ems (<0.2%) catchments (Figure  3c). These estimates can be 
+considered as evidence in support of the distribution of the total funding volume of €5.437 bn of the nation-
+al flood protection program (LAWA,  2014) with most investments in the Rhine (43%), Danube (33%), Elbe 
+(22%) and with ∼2% of the investments in the rest of the catchments.
+The high uncertainty range of several billion Euros of the VAR99.5% estimation is not unusual for large scale 
+flood risk assessments of extreme events (Alfieri et  al.,  2015). However, it underpins the importance to 
+Figure 2. Expected Annual Damage segregated by (a), (b) Sector-wise contribution per catchment (c) Contribution from all sectors per catchment (d) Sector-
+wise contribution for Germany.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+7 of 12
+quantify and communicate uncertainties. The uncertainty of the probabilistic estimate for the VAR is of 
+importance for rating agencies and regulatory requirements for insurers. Insurers are typically requested to 
+keep a minimum amount of reserve assets as indicated by the VAR at a given confidence level, and are rated 
+accordingly. However, the uncertainty of the modeling itself hints at the potential necessity of additional 
+backup reserves. Improving the reliability of the upper tail risk estimates (i.e., reducing the uncertainty) is 
+therefore of practical relevance.
+3.2. Flood Risk Curves
+Flood risk curves are shown in Figure  4 separated for the three sectors and the large river catchments in 
+Germany. The differences between Aggregate and Occurrence Exceedance Probability risk curves are rather 
+small and always within the uncertainty bounds (Figure 4), indicating that the RFM rarely predicts multiple 
+strong events per year. In the entire 5000-year simulation, very few (only six flood events resulting in losses 
+>€.1 bn) were modeled in the Ems catchment. These results agree with historical records such as EM-
+DAT and the Hanze database consisting of flood records since 1872 (EM-DAT,  2020; Paprotny et al.,  2018). 
+The losses to residential/commercial and agricultural sectors start only at return periods around 200 and 
+Figure 3. Value At Risk (VAR99.5%) segregated by (a), (b) Sector-wise contribution per catchment (c) Contribution from all sectors per catchment (d) Sector-wise 
+contribution for Germany.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+8 of 12
+1,000 years, respectively (Figures  4g–4i). We estimate the EAD and VAR 99.5% at the Ems catchment to be 
+€0.61 mn and €21 mn, respectively.
+The agricultural sector gets affected by smaller return period floods in all catchments compared to the 
+residential and commercial sectors (Figures  4c,  4f, and  4l) as there is often no protection at all for crop 
+fields or the areas are protected by low dikes with a design level of 5 to 10-year floods (ATV-DVWK., 1989). 
+Figure 4. Flood risk curves derived from simulations from the Regional Flood Model (red–Occurrence Exceedance Probability curve, blue–Aggregate 
+Exceedance Probability curve). Catchments are arranged in rows and sectors are arranged in columns.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+9 of 12
+Residential areas, i.e., cities and villages, are usually protected, with the protection level in general higher 
+in more densely populated places. Commonly, dike heights in Germany range between 100 and 500-year 
+floods (te Linde et al.,  2011). Therefore, it is to be expected that loss in the residential sector only occurs 
+above a certain return period, i.e., the specific design level of flood protection in the flood affected area. 
+Commercial areas may sometimes be located outside the cities or even directly at the river for transporta -
+tion reasons. Particularly along the Elbe, loss to commercial buildings is predicted to start at lower return 
+periods than loss to residential buildings (Figures  4d–4f). This also explains the high EAD share of the 
+commercial sector in the Elbe catchment (Figure  2b).
+In the Danube catchment, the residential sector and commercial sector contribute equally to the modeled 
+risk, while the commercial sector dominates along Elbe, Rhine and Weser (Figures  2a,  2b,  4a, and  4b). Ag-
+riculture makes only for a small share of the total risk, however by far the highest loss in this sector occurs 
+along the Elbe. This finding is explainable given the smooth topography in large parts of the Elbe catch -
+ment, which leads to shallow floods of large extent. Further, the relatively high agricultural losses are relat-
+ed to the coincidence of high flood probability and high crop susceptibility in spring and summer. Mean sea-
+sonal flood risk of crops (canola, sugar beets and potatoes) in the Elbe catchment peaks in spring and in late 
+summer. Also, increased flood probability during the summer months yields a larger risk for crops in the 
+Danube catchment. In contrast, in the Rhine catchment flood probability is high in winter, when flood sus-
+ceptibility of crops is very low (Klaus et al.,  2016). The agricultural sector in the Elbe catchment is also the 
+only case where the Aggregate Exceedance Probability curve is constantly and visibly above the Occurrence 
+Exceedance Probability curve (see, Figure 4f), indicating that multiple small events per year are happening, 
+which do not affect residential buildings, but agricultural areas and a few commercial sites. This result can 
+be explained by the flood regimes in Germany. The Elbe catchment shows a rather variable flood seasonal-
+ity, that is floods frequently occur in winter but are also not unusual in summer, while flood occurrence in 
+the other catchments is more restricted to the winter or summer half year (Beurton & Thieken,  2009). The 
+higher variability in the Elbe catchment can thus more easily lead to multiple small events within one year.
+3.3. Significance and Interpretation of Risk Estimates
+The median EAD for Germany aggregated across all catchments consisting of residential, commercial and 
+agriculture sectors was found to be €0.529 bn Euros with upper and lower uncertainty bounds, €0.245 bn 
+and €0.94 bn, respectively. This value agrees with the EAD for Germany reported by studies at continen -
+tal and global scales. For example, for baseline scenario (present), Alfieri et  al.  ( 2015) and Hattermann 
+et al. ( 2014) reported EAD values €0.4 bn-€1 bn and €0.5 bn, respectively. Additionally, global assessment 
+studies such as Dottori et al. ( 2018) and Alfieri et al. ( 2018) reported EAD for Germany in the ranges €0.5-
+€2.8 bn and €0.1-€0.6 bn. Feyen et al. ( 2012) used two different climate models and derived EAD €0.581 bn 
+and €0.483 bn, respectively, for the current climate. Alfieri et al. (2018) computed that the EAD for Germany 
+based on reported losses in the EM-DAT is between €0.74 bn and €2.5 bn. This is according to our expec -
+tation, since considering or disregarding spatial dependence does not influence the EAD, but leads to bias 
+in the risk curve (Metin et al.,  2020). Accordingly, our risk estimate for an event corresponding to 100-year 
+loss is, with €4.973 bn (upper and lower uncertainty bounds €2.345 bn and €8.69 bn, respectively) signifi -
+cantly lower than the potential flood impact value of €15.5 bn reported by Alfieri et al. ( 2015), who based 
+their estimate on the assumption of homogeneous 100-year return period flood discharges. When assuming 
+full dependence, i.e., simultaneous occurrence of 100-year return period floods at every location/spatial 
+unit, the total 100-year loss integrated over the entire domain is strongly overestimated (Lamb et al.,  2010; 
+Nguyen et al.,  2020).
+In some of the risk curves, we see stepwise increases at return periods above 200 (Figures 4a and  4b), mainly 
+above 2000 years (Figures  4e,  4j,  4k, and  4o). We have investigated, exemplarily, this step change at about 
+200 years in the Danube basin (Figures  4a and  4b). Several events prior and beyond the step change are 
+selected and the spatial loss patterns in three major branches (Upper Danube, Isar and Inn) with their re -
+spective return periods are analyzed. We have not detected any specific threshold in any of these branches, 
+whose exceedance would result e.g., in a sudden inundation of a city, thus causing a step change in the risk 
+curve. This step change is rather caused by a random combination of loss patterns, which are not extraordi-
+nary themselves but when combined result in a considerable impact. The fact that a random combination 
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+10 of 12
+of loss patterns in different river branches results in a step change hints 
+to the sampling uncertainty in the tail of the loss distribution. Analyzing 
+more than the 5000 years should result in smoother risk curves in the 
+tails.
+We compare the loss estimates from the events generated by the RFM 
+between 1990 and 2003 with losses reported in the Hanze data set (Pa -
+protny et al.,  2018). The reported losses lie within the upper and lower 
+bounds of the RFM loss estimations for four out of the five events (Fig -
+ure  5). The event in 2002 was extreme and caused more than 100 dike 
+breaches (Merz et al.,  2015). Currently RFM does not account for dike 
+breaches in the model chain and only overtopping flow is considered. In 
+particular, many breaches occurred in 2002 at water levels below the de-
+sign height due to piping and slope instability breach mechanisms (Hor -
+lacher et al.,  2005). Thus, we are unable to replicate the processes that 
+occurred during the 2002 event resulting in an underestimation of losses. 
+Hence, the detailed consideration of flood defense failures is an impor -
+tant next step in the further development of RFM. Additionally, we aim 
+at using more detailed object-level exposure data from crowd-sourced, 
+open datasets (Paprotny et al.,  2020; Sieg et al.,  2019) and implementing 
+probabilistic loss models (Schoppa et al.,  2020; Steinhausen et al.,  2020) 
+in the future. Currently, due to the stationarity assumption of the weather 
+generator, the period used to set-up and calibrate the weather generator 
+represents a certain climate state and the presented simulations do not 
+account for climate change.
+4. Conclusions
+Applying the process-based RFM we derive risk curves based on the losses of the residential, commercial 
+and agriculture sectors for the whole of Germany. The estimates for the median (upper and lower uncertain-
+ty ranges) EAD and VAR99.5% are €0.529 (€0.245 bn and €0.94 bn) and €8.865 bn (€4.148 bn and €15.386 bn), 
+respectively, for Germany. The commercial sector dominates by making about 60% of the total risk, followed 
+by the residential sector. Across catchments, the Elbe, Danube and Rhine share about 90% of the total risk. 
+These results support the investment decisions of the national flood protection program (LAWA, 2014) and 
+stress the necessity to quantify, communicate but also further reduce uncertainties in flood risk assessments 
+also for extreme events.
+The process-based, spatially consistent flood risk estimates by RFM are an important step forward, since 
+they avoid overestimation of losses for specific high return periods due to consideration of spatial depend -
+ency. Still, the results are associated with high uncertainty and there is room for further improvements like 
+the integration of dike breaches, the use of model components which are intrinsically probabilistic and in -
+creasing the 5000-year simulation. Nevertheless, the presented results should be regarded as first estimates, 
+which can serve as a benchmark for future German-wide flood risk assessments.
+Data Availability Statement
+Sources of data and model components are referenced in the manuscript and Supporting Information  S1. 
+The data pertaining to risk curves can be accessed from the GFZ data repository (Sairam et al., 2021, https://
+doi.org/10.5880/GFZ.4.4.2021.003).
+References
+Alfieri, L., Dottori, F., Betts, R., Salamon, P., & Feyen, L. (2018). Multi-model projections of river flood risk in Europe under global warm-
+ing. Climate, 6(1), 6. https://doi.org/10.3390/cli6010006
+Alfieri, L., Feyen, L., Dottori, F., & Bianchi, A. (2015). Ensemble flood risk assessment in Europe under high end climate scenarios. Global 
+Environmental Change, 11, 199–212. https://doi.org/10.1016/j.gloenvcha.2015.09.004
+Figure 5. Comparison of losses predicted using Regional Flood Model 
+(RFM) against the reported losses from the Hanze data set (in Million 
+Euros) for events in Germany between 1990 and 2003. Minimum and 
+maximum range from RFM predictions are shown as error bars; Reported 
+losses from Hanze database are shown as *.
+Acknowledgments
+Nivedita Sairam is supported by the 
+German Federal Ministry of Educa-
+tion and Research (BMBF) project 
+DECIDER (01LZ1703A-H), Viet Dung 
+Nguyen was supported by the BMBF in 
+the framework of the project FLOOD 
+(project number 01LP1903E) as a part 
+of the ClimXtreme Research Network 
+on Climate Change and Extreme Events 
+within framework programme Research 
+for Sustainable Development (FONA3). 
+The work was also supported by DFG 
+project ‘SPATE’ (FOR 2416) (project 
+number 278017089). Open access fund-
+ing enabled and organized by Projekt 
+DEAL.
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+11 of 12
+Apel, H., Aronica, G. T., Kreibich, H., & Thieken, A. H. (2008). Flood risk analyses—How detailed do we need to be? Natural Hazards, 9, 
+79–98. https://doi.org/10.1007/s11069-008-9277-8
+ATV-DVWK (1989). Wahl Des Bemessungshochwassers - Entscheidungswege Zur Wahl Des Schutz- Und Sicherheitsgrades. DVWK-Merkblatt 
+209. Hennef: DWA.
+Bates, P. D., Horritt, M. S., & Fewtrell, T. J. (2010). A simple inertial formulation of the shallow water equations for efficient two-dimen -
+sional flood inundation modelling. Journal of Hydrology, 387, 33–45. https://doi.org/10.1016/j.jhydrol.2010.03.027
+Beurton, S., & Thieken, A. (2009). Seasonality of floods in Germany. Hydrological Sciences Journal , 54, 62–76. https://doi.org/10.1623/
+hysj.54.1.62
+Beven, K. J., Almeida, S., Aspinall, W. P., Bates, P. D., Blazkova, S., Borgomeo, E., et al. (2018). Epistemic uncertainties and natural hazard 
+risk assessment – Part 1: A review of different natural hazard areas. Natural Hazards and Earth System Sciences , 18(10), 2741–2768. 
+https://doi.org/10.5194/nhess-18-2741-2018
+Cunge, J. A. (1969). On the subject of a flood propagation computation method (Musklngum Method). Journal of Hydraulic Research, 7(2), 
+205–230. https://doi.org/10.1080/00221686909500264
+de Brito, M. M., & Evers, M. (2016). Multi-criteria decision-making for flood risk management: A survey of the current state of the art. 
+Natural Hazards and Earth System Sciences, 16, 1019–1033. https://doi.org/10.5194/nhess-16-1019-2016
+de Bruijn, K. M., Diermanse, F. L. M., & Beckers, J. V. L. (2014). An advanced method for flood risk analysis in river deltas, applied 
+to societal flood fatality risk in the Netherlands. Natural Hazards and Earth System Sciences , 14, 2767–2781. https://doi.org/10.5194/
+nhess-14-2767-2014
+de Moel, H., Jongman, B., Kreibich, H., Merz, B., Penning-Rowsell, E., & Ward, P. J. (2015). Flood risk assessments at different spatial 
+scales. Mitigation and Adaptation Strategies for Global Change, 20(6), 865–890. https://doi.org/10.1007/s11027-015-9654-z
+Dos Reis, A. D. E., Gaspar, R. M., & Vicente, A. T. (2010). Solvency II-an important case in applied VaR. The VaR Modeling Handbook: Prac-
+tical applications in alternative investing, banking, insurance, and portfolio management (p. 267).
+Dottori, F., Szewczyk, W., Ciscar, J. C., Zhao, F., Alfieri, L., Hirabayashi, Y., et al. (2018). Increased human and economic losses from river 
+flooding with anthropogenic warming. Nature Climate Change, 8(9), 781–786. https://doi.org/10.1038/s41558-018-0257-z
+EM-DAT. (2020). The OFDA/CRED International Disaster Database. Brussels, Belgium: Université Catholique de Louvain. Retrieved from 
+www.emdat.be
+ES. (2007). Directive 2007/60/EC of the European Parliament and of the Council of 23 October 2007 on the assessment and management of 
+flood risks. European Parliament, Council.
+Falter, D., Dung, N. V., Vorogushyn, S., Schröter, K., Hundecha, Y., Kreibich, H., et al. (2016). Continuous, large-scale simulation model for 
+flood risk assessments: Proof-of-concept. Journal Flood Risk Management, 9(1), 3–21. https://doi.org/10.1111/jfr3.12105
+Falter, D., Schröter, K., Dung, N. V., Vorogushyn, S., Kreibich, H., Hundecha, Y., et al. (2015). Spatially coherent flood risk assessment 
+based on long-term continuous simulation with a coupled model chain. Journal of Hydrology, 524, 182–193. https://doi.org/10.1016/j.
+jhydrol.2015.02.021
+Farrag, M., Brill, F., Sairam, N., Nguyen, D. V., Merz, B., de Bruijn, K., & Vorogushyn, S. (2021) On the role of floodplain storage and hydro-
+dynamic interactions for flood risk estimation. Hydrological Sciences Journal Taylor & Francis.
+Feyen, L., Dankers, R., Bódis, K., Salamon, P., & Barredo, J. I. (2012). Fluvial flood risk in Europe in present and future climates. Climatic 
+Change, 112(1), 47–62. https://doi.org/10.1007/s10584-011-0339-7
+Förster, S., Kuhlmann, B., Lindenschmidt, K.-E., & Bronstert, A. (2008). Assessing flood risk for a rural detention area. Natural Hazards 
+and Earth System Sciences, 8(2), 311–322. https://doi.org/10.5194/nhess-8-311-2008
+Frigessi, A., Haug, O., & Rue, H. (2002). A dynamic mixture model for unsupervised tail estimation without threshold selection. Extremes, 
+5, 219–235. https://doi.org/10.1023/A:1024072610684
+Hattermann, F. F., Huang, S., Burghoff, O., Willems, W., Österle, H., Büchner, M., & Kundzewicz, Z. (2014). Modelling flood damages 
+under climate change conditions–a case study for Germany. Natural Hazards and Earth System Sciences, 14(12), 3151–3168. https://doi.
+org/10.5194/nhess-14-3151-2014
+Hillier, J. K., Macdonald, N., Leckebusch, G. C., & Stavrinides, A. (2015). Interactions between apparently ‘primary’ weather-driven haz-
+ards and their cost. Environmental Research Letters, 10(10), 104003. https://doi.org/10.1088/1748-9326/10/10/104003
+Horlacher, H.-B., Bielagk, U., & Heyer, T. (2005). Analyse der Deichbrüche an der Elbe und Mulde während des Hochwassers 2002 im Bereich 
+Sachsen, Research report 2005/09  (p. 82). Germany: Institut für Wasserbau und Technische Hydromechanik, Dresden University of 
+Technology.
+Hundecha, Y., Pahlow, M., & Schumann, A. (2009). Modeling of daily precipitation at multiple locations using a mixture of distributions 
+to characterize the extremes. Water Resources Research, 45, W12412. https://doi.org/10.1029/2008WR007453
+Jongman, B., Kreibich, H., Apel, H., Barredo, J. I., Bates, P. D., Feyen, L., et al. (2012). Comparative flood damage model assessment: To -
+wards a European approach. Natural Hazards and Earth System Science, 12(12), 3733–3752. https://doi.org/10.5194/nhess-12-3733-2012
+Klaus, S., Kreibich, H., Merz, B., Kuhlmann, B., & Schröter, K. (2016). Large-scale, seasonal flood risk analysis for agricultural crops in 
+Germany, 75. https://doi.org/10.1007/s12665-016-6096-1
+Kreibich, H., Seifert, I., Merz, B., & Thieken, A. H. (2010). Development of FLEMOcs – A new model for the estimation of flood losses in 
+the commercial sector. Hydrological Sciences Journal, 11, 1302–1314. https://doi.org/10.1080/02626667.2010.529815
+Kreibich, H., Van Den Bergh, J. C., Bouwer, L. M., Bubeck, P., Ciavola, P., Green, C., et al. (2014). Costing natural hazards. Nature Climate 
+Change, 4(5), 303–306. https://doi.org/10.1038/nclimate2182
+Krysanova, V., Mueller-Wohlfeil, D. I., & Becker, A. (1998). Development and test of a spatially distributed hydrological/water quality 
+model for mesoscale watersheds. Ecological Modelling, 106, 261–289. https://doi.org/10.1016/s0304-3800(97)00204-4
+Lamb, R., Keef, C., Tawn, J., Laeger, S., Meadowcroft, I., Surendran, S., et al. (2010). A new method to assess the risk of local and widespread 
+flooding on rivers and coasts. Journal of Flood Risk Management, 3(4), 323–336. https://doi.org/10.1111/j.1753-318x.2010.01081.x
+LAWA (Bund/Länder-Arbeitsgemeinschaft Wasser (Federal/State Working Group on Water)). (2014). Nationales Hochwasserschutzpro -
+gramm (National flood protection programme), Bund/Länderarbeitsgemeinschaft Wasser (LAW A), Ministerium für Energiewende, 
+Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein . Kiel. Retrieved from https://www.bmu.de/fileadmin/
+Daten_BMU/Download_PDF/Binnengewaesser/hochwasserschutzprogramm_bericht_bf.pdf
+Merz, B., Kreibich, H., Schwarze, R., & Thieken, A. (2010). Review article "Assessment of economic flood damage." Natural Hazards and 
+Earth System Science, 8, 1697–1724. https://doi.org/10.5194/nhess-10-1697-2010
+Merz, B., Vorogushyn, S., Lall, U., Viglione, A., & Blöschl, G. (2015). Charting unknown waters - On the role of surprise in flood risk assess-
+ment and management. Water Resources Research, 51, 6399–6416. https://doi.org/10.1002/2015wr017464
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+Earth’s Future
+SAIRAM ET AL.
+10.1029/2021EF002259
+12 of 12
+Metin, A. D., Dung, N. V., Schröter, K., Guse, B., Apel, H., Kreibich, H., et al. (2018). How do changes along the risk chain affect flood risk? 
+Natural Hazards and Earth System Sciences, 18, 3089–3108. https://doi.org/10.5194/nhess-18-3089-2018
+Metin, A. D., Dung, N. V., Schröter, K., Vorogushyn, S., Guse, B., Kreibich, H., & Merz, B. (2020). The role of spatial dependence for large-
+scale flood risk estimation. Natural Hazards and Earth System Sciences, 20(4), 967–979. https://doi.org/10.5194/nhess-20-967-2020
+Naveau, P., Huser, R., Ribereau, P., & Hannart, A. (2016). Modeling jointly low, moderate, and heavy rainfall intensities without a threshold 
+selection. Water Resources Research, 52, 2753–2769. https://doi.org/10.1002/2015wr018552
+Nguyen, V. D., Merz, B., Hundecha, Y., Haberlandt, U., & Vorogushyn, S. (2021). Comprehensive evaluation of an improved large-scale 
+multi-site weather generator for Germany. International Journal of Climatology.
+Nguyen, V. D., Metin, A. D., Alfieri, L., Vorogushyn, S., & Merz, B. (2020). Biases in national and continental flood risk assessments by 
+ignoring spatial dependence. Scientific Reports, 10. https://doi.org/10.1038/s41598-020-76523-2
+Paprotny, D., Kreibich, H., Morales-Nápoles, O., Terefenko, P., & Schröter, K. (2020). Estimating exposure of residential assets to natural 
+hazards in Europe using open data. Natural Hazards and Earth System Sciences, 20, 323–343. https://doi.org/10.5194/nhess-20-323-2020
+Paprotny, D., Morales-Nápoles, O., & Jonkman, S. N. (2018). HANZE: A pan-European database of exposure to natural hazards and dam-
+aging historical floods since 1870. Earth System Science Data, 10, 565–581. https://doi.org/10.5194/essd-10-565-2018
+Petrow, T., Thieken, A. H., Kreibich, H., Merz, B., & Bahlburg, C. H. (2006). Improvements on flood alleviation in Germany: Lessons 
+learned from the Elbe flood in August 2002. Environmental Management, 38(5), 717–732. https://doi.org/10.1007/s00267-005-6291-4
+Priestley, M. D. K., Dacre, H. F., Shaffrey, L. C., Hodges, K. I., & Pinto, J. G. (2018). The role of serial European windstorm clustering for ex-
+treme seasonal losses as determined from multi-centennial simulations of high-resolution global climate model data. Natural Hazards 
+and Earth System Sciences, 18, 2991–3006. https://doi.org/10.5194/nhess-18-2991-2018
+Rojas, R., Feyen, L., & Watkiss, P. (2013). Climate change and river floods in the European Union: Socio-economic consequences and 
+the costs and benefits of adaptation. Global Environmental Change, 23(6), 1737–1751. https://doi.org/10.1016/j.gloenvcha.2013.08.006
+Rözer, V., Surminski, S., & Golnaraghi, M. (2020). Flood Risk Management in Germany - Building flood resilience in a changing climate.
+Sairam, N., Brill, F., Tobias, S., Mostafa, F., Patric, K., Nguyen, V., et al. (2021). Risk estimates from Process-based flood risk assessment for 
+Germany. GFZ Data Services. https://doi.org/10.5880/GFZ.4.4.2021.003
+Sayers, P., Yuanyuan, L., Galloway, G., Penning-Rowsell, E., Shen, F., Wen, K., et al. (2013). Flood Risk Management: A Strategic Approach. 
+Paris: UNESCO.
+Schoppa, L., Sieg, T., Vogel, K., Zöller, G., & Kreibich, H. (2020). Probabilistic flood loss models for companies. Water Resources Research, 
+56, e2020WR027649. https://doi.org/10.1029/2020WR027649
+Schröter, K., Kreibich, H., Vogel, K., Riggelsen, C., Scherbaum, F., & Merz, B. (2014). How useful are complex flood damage models? Water 
+Resources Research, 50, 3378–3395. https://doi.org/10.1002/2013WR014396
+Seifert, I., Kreibich, H., Merz, B., & Thieken, A. H. (2010). Application and validation of FLEMOcs—A flood loss estimation model for the 
+commercial sector. Hydrological Sciences Journal, 55(8), 1315–1324. https://doi.org/10.1080/02626667.2010.536440
+Sieg, T., Vogel, K., Merz, B., & Kreibich, H. (2019). Seamless estimation of hydrometeorological risk across spatial scales. Earth’s Future, 5. 
+https://doi.org/10.1029/2018ef001122
+Steinhausen, M., Lüdtke, S., Schröter, K., Figueiredo, R., & Kreibich, H. (2020). Das probabilistische Hochwasserschadensmodell für 
+Wohngebäude – BN-FLEMOps. https://doi.org/10.5675/HYWA_2020.4_2
+Tapia-Silva, F.-O., Itzerott, S., Förster, S., Kuhlmann, B., & Kreibich, H. (2011). Estimation of flood losses to agricultural crops using remote 
+sensing. Physics and Chemistry of the Earth, 36(7–8), 253–265. https://doi.org/10.1016/j.pce.2011.03.005
+te Linde, A. H., Bubeck, P., Dekkers, J. E. C., de Moel, H., & Aerts, J. C. J. H. (2011). Future flood risk estimates along the river Rhine. 
+Natural Hazards and Earth System Sciences, 11, 459–473. https://doi.org/10.5194/nhess-11-459-2011
+Thieken, A. H., Olschewski, A., Kreibich, H., Kobsch, S., & Merz, B. (2008). Development and evaluation of FLEMOps – A new Flood Loss 
+Estimation MOdel for the private sector. Flood Recovery, Innovation and Response I. WIT Press. https://doi.org/10.2495/FRIAR080301
+Vorogushyn, S., Bates, P. D., de Bruijn, K., Castellarin, A., Kreibich, H., Priest, S., & Merz, B. (2018). Evolutionary leap in large-scale flood 
+risk assessment needed. Wiley Interdisciplinary Reviews: Water, 5(2), e1266. https://doi.org/10.1002/wat2.1266
+Wagenaar, D., Lüdtke, S., Schröter, K., Bouwer, L. M., & Kreibich, H. (2018). Regional and temporal transferability of multivariable flood 
+damage models. Water Resources Research, 54, 3688–3703. https://doi.org/10.1029/2017WR022233
+Ward, P. J., Jongman, B., Weiland, F. S., Bouwman, A., van Beek, R., Bierkens, M. F., et al. (2013). Assessing flood risk at the global scale: 
+Model setup, results, and sensitivity. Environmental Research Letters, 8(4), 044019. https://doi.org/10.1088/1748-9326/8/4/044019
+Wing, O. E., Bates, P. D., Smith, A. M., Sampson, C. C., Johnson, K. A., Fargione, J., & Morefield, P. (2018). Estimates of present and future 
+flood risk in the conterminous United States. Environmental Research Letters, 13(3), 034023. https://doi.org/10.1088/1748-9326/aaac65
+Winsemius, H. C., Van Beek, L. P. H., Jongman, B., Ward, P. J., & Bouwman, A. (2013). A framework for global river flood risk assessments. 
+Hydrology and Earth System Sciences, 17(5), 1871–1892. https://doi.org/10.5194/hess-17-1871-2013
+ 23284277, 2021, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021EF002259 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

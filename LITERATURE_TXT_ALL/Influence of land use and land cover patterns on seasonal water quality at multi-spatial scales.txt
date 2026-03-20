@@ -1,0 +1,733 @@
+[[PAGE 1]]
+Inﬂuence of land use and land cover patterns on seasonal water quality at
+multi-spatial scales
+Peng Shi a, Yan Zhang b, Zhanbin Li a,c,P e n gL ia,⁎,G u o c eX ua
+a State Key Laboratory Base of Eco-hydraulic Engineering in Arid Area, Xi'an University of Technology, Xi'an 710048, China
+b College of Urban and Environmental Sciences, Northwest University, Xi'an 710127, China
+c State Key Laboratory of Soil Erosion and Dryland Farming on the Loess Plateau, Chinese Academy of Sciences and Ministry of Water Resources, Yangling,Shaanxi 712100, China
+abstractarticle info
+Article history:
+Received 28 August 2016
+Received in revised form 30 November 2016
+Accepted 19 December 2016
+Available online 27 December 2016
+The inﬂuence of land use patterns on stream water quality is scale-dependent in space and time. Understanding
+the relationship between landscape characteristics and water quality is of great importance to improve water
+contamination prediction in unmonitored watersheds and for providing guidelines for watershed land use plan-
+ning. In this study, ﬁve water sampling sites in the upper Dan River basin were established to monitor seasonal
+water chemical contamination over the period of 2000 to 2008. The relationships between land use patterns and
+water quality were analyzed across multiple-scales using redundancy analysis. The results showed that stream
+water quality variables displayed highly temporal variations, with electrical conductivity (EC), ammonium nitro-
+gen (NH
+4
++-N), nitrate nitrogen (NO3
+−
+N), and total suspended solids (TSS) all generally displaying higher levels in
+the wet season, while there were higher concentrations of biochemical oxygen demand (BOD5), chemical oxygen
+demand (CODcr), and dissolved oxygen (DO) in the dry season. The total contribution of land use patterns on
+overall water quality was stronger at the riparian scale than at the catchment and reach scales during the wet sea-
+son. However, different land use metrics had different scale effects. Urban land had a higher positive relationship
+with degraded water quality at small scales than at large scales, whereas agricultural land displayed the opposite
+scale effects. Forest and grassland explained more water quality variations at the riparian scale than at other
+scales. Analyses of spatial development patterns suggested that size, density, aggregation, and diversity of land-
+scape patterns were important factors impacting on stream water quality. The results provide important infor-
+mation regarding sustainable land use and landscape planning at multiple-scales that can be used to improve
+water quality.
+© 2016 Elsevier B.V. All rights reserved.
+Keywords:
+Land use
+Landscape pattern
+Scale effects
+Stream water quality
+Redundancy analysis
+1. Introduction
+Water quality plays a pivotal role in habitat protection, agriculture,
+industry, and public health (Akasaka et al., 2010; Lu et al., 2015). Main-
+taining water quality is challenging, primarily due to point source (PS)
+and non-point source (NPS) pollution. PS pollution mainly includes in-
+dustrial and domestic wastewater loads, which can be relatively easily
+identiﬁed (Wang et al., 2016). Unlike PS pollution, NPS pollution usually
+originates from diffuse sources, such as agriculture, street runoff, and
+the deposition of atmospheric pollutants (Ongley et al., 2010). The com-
+plex interaction between rainfall and landscape characteristics in-
+creases the difﬁculty of NPS identiﬁcation (Liu et al., 2016).
+The inﬂuence of land use on water quality has been a concern since
+the 1970s (Rimer et al., 1978). Early studies correlated water chemistry
+with different land use types within a watershed ( Bolstad and Swank,
+1997; Donohue et al., 2006). The improper land use may amplify trans-
+ference of nutrients to water bodies ( Valle Junior et al., 2014; Pacheco
+and Fernandes, 2016). Intense agricultural activities and rapid urbaniza-
+tion created an immense pressure on water quality. The percentage
+cover of agricultural land is signi ﬁcantly positively correlated with
+water pollution due to fertilizer application entering surface water
+through runoff (Tu, 2011). Urbanization is associated with changes in
+land uses through infrastructure development. As cities expand, the in-
+crease in impervious surfaces (i.e., roads, roof tops, and parking lots) re-
+sults to an increase in runoff, which in turn creates additional avenues
+for the transportation of NPS pollutants to rivers ( Wilson and Weng,
+2010). While, forest lands were considered as net sinks of nitrate
+(Pacheco et al., 2015 ). Land use composition is generally linked with
+water quality within a watershed, and landscape con ﬁgurations may
+be more sensitive predictors of water quality. Recently, with the rapid
+development of Geographic Information System (GIS) technology and
+landscape ecology, landscape metrics have provided a useful approach
+to quantify land use con ﬁgurations. Sun et al. (2013) and Bu et al.
+(2014) found that landscape metrics such as aggregation (refers to the
+Catena 151 (2017) 182–190
+⁎ Corresponding author.
+E-mail address: lipeng74@163.com(P. Li).
+http://dx.doi.org/10.1016/j.catena.2016.12.017
+0341-8162/© 2016 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Catena
+journal homepage: www.elsevier.com/locate/catena
+
+[[PAGE 2]]
+tendency of path to be spatially aggregated) and diversity (describe the
+compositional makeup of the landscape) were signi ﬁcantly associated
+with river water quality.
+Landscape metrics are sensitive to change with spatial pattern, and
+the scale dependence is referred to as grain size and spatial extent
+(Wu et al., 2002). Three spatial scales including reach, catchment and ri-
+parian have been widely used to relate landscape variables to stream
+water quality: (1) reach is usually described by a buffer of several hun-
+dred meters in width on the studying site; (2) riparian is often deﬁned
+as a buffer with a similar or larger width compared to reach extending
+to the entire upstream above the studying site; (3) catchment is typical-
+ly the entire catchment upstream above the studying site (Allan, 2004;
+Ding et al., 2016 ). However, the results have not consistently deter-
+mined which spatial extent is the best predictor of water quality.
+Some studies have indicated that the entire catchment was important
+for determining the effects of anthropogenic activities or water quality
+(King et al., 2005; Meneses et al., 2015; Ding et al., 2016 ), while other
+studies have found that land use at the reach or riparian scale better
+accounted for water quality variability ( Sahu and Gu, 2009; Collins
+et al., 2013; McMillan et al., 2014). Riparian buffer has a ﬁltering ability
+to remove sediment from land runoff (Santos et al., 2015). These incon-
+sistent results were attributed to the unique characteristics of each
+catchment that in ﬂuenced water quality ( Sliva and Williams, 2001 ).
+Thus, more research is needed to quantify the effect of different land
+use scales on water quality to improve water resource management.
+Water scarcity is one of the most important issues in China. To re-
+lieve water shortages in the north and northwest of China, three routes
+(west, middle, and east) of the South to North Water Transfer Project
+(SNWTP) were established in 2002 ( Zhang, 2005 ). The Dan River is
+the water source area of the middle route of the SNWTP, supplying
+water to Beijng and Tianjing in northern China for drinking, industrial
+uses, and agricultural purposes ( Li et al., 2009 ). Thus, maintaining
+good water quality in the basin is of great importance for domestic
+economic development and social stability. Previous studies have re-
+ported that NPS pollution in the Dan River basin has increased dramat-
+ically due to intensive anthropogenic activities since the 1980s (Li et al.,
+2008; Ai et al., 2015), although there is still a lack of information regard-
+ing the spatial and seasonal patterns in water contamination in this
+basin. The objectives of this paper were to: (1) present the spatial and
+temporal variability of stream water contamination in the Dan River
+basin, (2) quantify the relationship between watershed land use pat-
+terns and water quality, and (3) identify the scale effects in measuring
+the inﬂuence of land use patterns on water quality.
+2. Materials and methods
+2.1. Study area
+The Dan River basin is located in the southeast of Shaanxi Province,
+China (33°12 ′–34°11′N, 109°30 ′-111°1′E) and covers an area of
+1.68 × 10
+4 km2, with a total length of 443 km ( Fig. 1). The watershed
+has a typical subtropical monsoonal climate, with an annual cycle of
+dry and wet seasons ( Ai et al., 2015 ). The average annual air tempera-
+ture is 14 °C, and the average annual amount of sunshine is 1974 h
+(Xu et al., 2013 ). The annual mean precipitation is 800 mm, 60% of
+which occurs in the summer months from July to September ( Fig. 2).
+The streamﬂow mostly occurs during the wet season, while the dry sea-
+son experiences lower ﬂows (Fig. 2). The topography in the watershed
+is characterized by mountain ranges and hills, and the elevation ranges
+from 203 to 2068 m ( Fig. 1). Soil types in this area are dominated by
+yellow-brown soil (Haplumbrepts) and sandy soil (Cheng et al., 2016).
+The natural vegetation in the area is dominated by coniferous,
+broad-leaved, deciduous forest, and shrubs and herbs. The main
+agricultural crops are corn ( Zea mays L.), rice (Oryza sativa L.), peanut
+(Arachis hypogaea L.), and wheat ( Triticum aestivum L.).
+Fig. 1. Spatial distribution ofﬁve stream water quality monitoring stations in the Dan River basin and the three spatial scales (catchment, riparian, and reach) used in the analysis ofl a n d
+uses and land cover patterns.
+183P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 3]]
+2.2. Water sampling and analysis
+Shaanxi Environmental Monitoring Centre has establishedﬁve sam-
+pling sites in the Dan River to monitor water contamination ( Fig. 1 ).
+Sites 1 and 2 are located in the upstream with little anthropogenic activ-
+ity, while sites 3 and 4 are near Shangzhou City. Site 5 is located down-
+stream of Shangzhou city. In the ﬁeld sampling, three equal-interval
+verticals were set in the stream cross section and water was sampled
+in the depth of 0.5 m below the surface water in each verticals. Water
+samples were collected in the months of January, March, May, July, Sep-
+tember and November from the year of 2000 to 2008. To analyze the
+temporal variation, water chemistry data series were split into wet sea-
+son, i.e., May, July and September, and dry season, i.e., January, March
+and November. Eight water quality parameters, including pH, dissolved
+oxygen (DO), electrical conductivity (EC), total suspended solids (TSS),
+chemical oxygen demand (COD cr), nitrate nitrogen (NO 3(NH4
+−-N),
+ammoniam nitrogen (NH 4
++-N), and biochemical oxygen demand
+(BOD5), were analyzed according to the environmental quality stan-
+dards for surface water ( Chinese State Environmental Protection
+Bureau, 2002 ). The analytical methods used were as follows: pH, EC,
+and DO were determined on site using HQ30d; BOD 5, and COD cr were
+analyzed using a dilution and seeding method and the potassium per-
+manganate method, respectively (Rice et al., 2012 ); NO3(NH4
+−-N and
+NH4
++-N were measured using a colorimetric method ( Rice et al.,
+2012); and TSS was calculated by a ﬁltering method (APHA, 2005).
+2.3. Spatial data
+To detect land use change within the watershed, Landsat 5 Thematic
+Mapper (TM) images in 2000, 2005, and 2008 were obtained from the
+United States Geological Survey (USGS; http://glovis.usgs.gov ). Five
+land use types (agricultural, forest, grassland, urban, and water) were
+classiﬁed from the TM images. Landscape metrics were analyzed by
+the software FRAGSTATS 3.4, and a total of eight metrics were extracted
+to characterize land cover patterns (Table 1). A Geographic Information
+System (ArcGIS 9.3) was used to evaluate the importance of the spatial
+extent on the effects of land use on water quality at three spatial scales
+(catchment, riparian, and sample reach, as shown in Fig. 1). For reach
+scale, 500 m upstream the monitoring site was considered to be the geo-
+graphical center and a 500 m buffer was created for spatial analysis. The
+riparian scale included a band width of 1000 m on each sides extending
+to the entire upstream above all sampling sites. For the catchment scale,
+Fig. 2. The monthly precipitation and runoff for the Dan River from 2000 to 2008.
+Table 1
+Descriptions of land use types and landscape pattern metrics.
+Variables Abbreviation Description
+Land use composition Agriculture land AGRI Areas of the catchment with farmland
+Forest land FOREST Areas of the catchment with forest land
+Grassland GRASS Areas of the catchment with grassland
+Urban area URBAN Areas of the catchment with building area and road
+Water WATER Areas of the catchment with rivers and lakes
+Landscape metrics Patch Density PD Patch is de ﬁned as a relatively homogeneous area that differs from its surroundings (i.e. grass patch).
+Patch Density is the number of corresponding patches divided by total landscape area
+Largest Patch Index LPI The area of the largest patch of the corresponding patch type divided by total landscape area
+Landscape Shape Index LSI The sum of the entire landscape boundary and all edges within the landscape boundary divided by the total
+landscape area (i.e., normalized ratio of edge to area)
+Shape Index SHAPE Patch perimeter divided by the patch area
+Contiguity Index CONTIG Assessing patch shape based on the spatial connectedness of cells within a patch
+Contagion Index CONTAG Extent to which patch types are aggregated or clumped as a percentage of the maximum possible
+Patch Cohesion Index COHE The physical connectedness of the corresponding patch type, it is an area-weighted mean perimeter-area
+ratio (i.e., standardized perimeter-area ratio)
+Shannon's Diversity Index SHDI The number of different patch types and the proportional area distribution among patch types
+184 P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 4]]
+land use was determined for the entire catchment upstream aboveﬁve
+studying sites.
+2.4. Statistical analysis
+The normality of the data was examined by Kolmogorov – Smirnov
+tests and a log (x + 1) transformation of the BOD 5 was performed to
+meet the assumptions of normality. The independent samples t-test
+was used to detect temporal differences in water contamination con-
+centrations. The one-way ANOVA was used to analyze the variance in
+water quality in different sites. Redundancy analysis (RDA) is now
+widely used to determine the relationship between environmental fac-
+tors and landscape metrics ( Shen et al., 2015; Ding et al., 2016 ). RDA
+was used to examine the water quality and landscape relationship at
+multiple spatial scales using CANOCO 4.5 software. The arrows of two
+variables pointing in the same direction indicate a positive correlation,
+and the angle between two arrows is inversely proportional to the de-
+gree of their correlation. The length of the arrow can be interpreted as
+a mutual similarity of contributions ( Ding et al., 2016; Zhao et al.,
+2015). The proportion of the water quality variance explained by the
+land use metrics can also be obtained from RDA. A comprehensiveﬂow-
+chart was designed to show variables used in RDA and how they were
+combined with spatial and temporal analysis (Fig. 3).
+3. Results
+3.1. Land use changes
+Grassland was the dominant land cover type in the watershed, and
+covered from 35.0% (in Catchment-1) to 57.2% (in Catchment-2) of
+the land area in 2000 ( Table 2). Grassland in catchments-3 and -5 in-
+creased by 935.7 and 555.4 ha, respectively, from 2000 to 2005
+(Table 3). However, it displayed a decreasing tendency in all catchments
+from the period of 2005 to 2008. Most of grassland changed to forest
+land in catchment-1, 2 and 3, and changed to urban land in
+catchment-4 and 5 in the year of 2005 to 2008. Forest land was also
+Fig. 3. A ﬂowchart for investigating the relationship between land use patterns and water quality by RDA.
+Table 2
+Land use types for the watershed from 2000 to 2008.
+Year Catchment Agriculture Forest Grass Water Urban
+Area/ha Percentage/% Area/ha Percentage/% Area/ha Percentage/% Area/ha Percentage/% Area/ha Percentage/%
+2000 Catchment-1 4603.4 26.3 6741.8 38.5 6119.6 35.0 34.4 0.2 5.4 0.0
+Catchment-2 1080.0 14.9 1840.8 25.4 4142.0 57.2 166.2 2.3 17.7 0.2
+Catchment-3 16,483.9 28.5 18,196.7 31.4 22,793.2 39.4 39.2 0.1 376.4 0.7
+Catchment-4 2144.8 31.1 584.9 8.5 3473.9 50.3 37.4 0.5 666.9 9.7
+Catchment-5 6313.3 28.00 5801.2 25.7 9639.1 42.7 20.0 0.0 798.7 3.5
+2005 Catchment-1 4581.8 26.2 6763.4 38.6 6119.6 35.0 34.4 0.2 5.4 0.0
+Catchment-2 1075.3 14.8 1840.8 25.4 4142.0 57.2 166.2 2.3 22.4 0.3
+Catchment-3 14,272.9 24.7 19,389.1 33.5 23,729.0 41.0 39.2 0.1 459.2 0.8
+Catchment-4 2073.2 30.0 600.8 8.7 3470.2 50.2 37.4 0.5 726.3 10.5
+Catchment-5 5642.6 25.0 5800.9 25.7 10,194.5 45.2 0.0 0.0 914.4 4.1
+2008 Catchment-1 4548.2 26.0 7039.1 40.2 5874.2 33.6 34.4 0.2 8.6 0.0
+Catchment-2 1081.6 14.9 1891.2 26.1 4047.2 55.8 204.3 2.8 22.4 0.3
+Catchment-3 14,109.8 24.4 19,929.9 34.4 23,232.1 40.1 58.0 0.1 549.5 0.9
+Catchment-4 1777.0 25.7 587.9 8.5 3410.5 49.4 39.5 0.6 1093.1 15.8
+Catchment-5 5633.5 25.0 5804.7 25.7 10,070.6 44.7 0.0 0.0 1043.5 4.6
+Table 3
+Land use changes from 2000 to 2008 (ha).
+2000– 2005 2005 – 2008
+Agriculture Forest Grass Water Urban Agriculture Forest Grass Water Urban
+Catchment-1 −21.6 21.6 0.0 0.0 −33.6 275.7 −245.3 0.0 3.2
+Catchment-2 −4.7 0.0 0.0 0.0 4.7 6.3 50.4 −94.8 38.1 0.0
+Catchment-3 −2210.9 1192.4 935.7 0.0 82.8 −163.1 540.8 −496.9 18.8 90.3
+Catchment-4 −71.6 15.9 −3.7 0.0 59.4 −296.2 −13.0 −59.8 2.1 366.8
+Catchment-5 −670.8 −0.4 555.4 0.0 115.7 −9.1 3.9 −123.8 0.0 129.1
+185P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 5]]
+an important land use in the watershed, occupyingN25% in catchments-
+1, −2, −3, and −5. There was a tendency for the area of forest land to
+increase during the years from 2000 to 2008, with most of the increase
+occurring in the high altitude areas as shown inFig. 4. Agricultural land
+was widely distributed across the watershed, accounting for a percent-
+age land cover of 14.9% (in Catchment-2) to 31.1% (in Catchment-4).
+Agricultural land in the watershed decreased from 2000 to 2008, espe-
+cially in Catchment-3 between 2000 and 2005 ( Table 3). Urban areas
+were mainly dispersed along the river, with a higher percentage of
+cover in catchments-4 and -5 (9.7 and 3.5%, respectively). The urban
+area in these two catchments expanded rapidly in the nine-year study
+period, increasing by 426.2 and 244.8 ha, respectively.
+3.2. Spatial and seasonal variations of water quality
+The independent samples t-test indicated that BOD 5, DO and EC in
+most monitoring sites displayed signi ﬁcant seasonal differences
+(P b 0.05) (Table 4). The spatial and temporal variations of water quality
+are shown in Fig. 5 . The BOD 5,C O Dcr, and DO levels were generally
+higher in the dry season, while there were higher concentrations of
+EC, NH 4
++-N, NO 3
+−-N, and TSS in the wet season. Most water quality
+parameters, except pH and DO, displayed obvious spatial variations
+(Fig. 5 ). The highest median concentrations of TSS, COD cr,N O 3
+−-N,
+and NH 4
++-N occurred in Site 4, where Shangzhou city was located.
+Site 4 had signi ﬁcant higher concentrations of TSS, CODcr and NH4
++-N
+than that of sites-1 and-2 in dry season ( P b 0.05). Sites − 3a n d − 5
+had high median values of TSS, CODcr,B O D5,a n dN H4
++-N. Lower medi-
+an values of TSS, CODcr,B O D5,N O3
+−-N, and NH4
++-N and a higher medi-
+an value of EC occurred at sites-1 and -2, which were areas with little
+human activity.
+3.3. The effect of land use and landscape pattern on water quality
+To quantify the effect of land use and landscape pattern on water
+quality, an RDA was conducted. The RDA results showed that the effect
+of land use patterns on the overall water quality exhibited signi ﬁcant
+seasonal differences. The predictors in the wet season explained N40%
+of the variation in water quality, whereas this decreased by 10% in the
+dry season (Table 5). The contributions of land use and landscape pat-
+tern on water quality varied from the reach and riparian to catchment
+scales. At the reach scale, the predictors explained 44.3% during the
+wet season, but when the scale was increased to riparian this increased
+to 68.5%. However, as the scale increased to catchment, the explanatory
+ability decreased to 49.0%.
+There were different scale effects for the different land use types.
+During the wet season, 7.5% of the total variation in water quality
+could be explained by the urban area at the reach scale, whereas this
+land use explained only 4.1 and 1.1% when the scales were enlarged
+to riparian and catchment, respectively ( Table 5). The same tendency
+could be found in the dry season. This suggests that human settlement
+near the river bank will have a strong impact on water quality. Particu-
+larly, urban land cover was positively correlated with COD, TSS, and
+NH4
++-N at the reach scale during the wet season (Fig. 6f). For agricultural
+land, the effects of scale were the opposite in the wet season, with var-
+iations in water quality being more dependent on this land use type at
+the catchment scale than at the riparian and reach scales, and agricul-
+tural land cover was positively correlated with pH, DO, and NO 3
+−-N
+(Fig. 6b). Forest and grasslands were the dominant factors controlling
+water quality at the riparian scale, both of which had negative correla-
+tions with COD, EC, NH 4
++-N, and TSS ( Fig. 6c and d). These two land
+uses combined explained 14.5 and 25.5% of the variation in water qual-
+ity at the riparian scale during the dry and wet seasons, respectively.
+The landscape pattern was another important factor that contribut-
+ed to the water quality. The RDA showed that the Landscape Shape
+Index (LSI) and the Shape Index (SHAPE) explained only 5.9% of the var-
+iation in water quality at the reach scale in the wet season, whereas it
+increased to 11.7 and 23.7% at the riparian and catchment scales, respec-
+tively ( Table 5 ). This indicates that LSI and SHAPE played signi ﬁcant
+roles at larger scales. Both of them were negatively correlated with
+COD, NH4
++-N, and TSS at the catchment scale (Fig. 6a and b). The Conta-
+gion Index (CONTAG) was the most signi ﬁcant variable that impacted
+on water quality at the reach scale. It explained 16.3% of the variation
+in water quality during the wet season and was negatively correlated
+with COD, NO 3
+−-N, and TSS. The Patch Density Index (PD) was im-
+portant at the riparian scale, explaining 4.0% of the variation in
+water quality during the dry season and 3.8% during the wet season.
+PD and Shannon's Diversity Index (SHDI) were positively correlated
+with BOD, COD, NH
+4
++-N, and NO 3
+−-N, and negatively correlated
+with DO. The Largest Patch Index (LPI) explained more variation at
+the catchment and riparian scales than at the reach scale and was
+negatively associated with BOD, DO, NO 3
+−-N, and pH in the wet sea-
+son. The Contiguity Index (CONTIG) and Patch Cohesion Index
+(COHE) were negatively correlated with COD, NH 4
++-N, and TSS at
+the catchment scale.
+Fig. 4. Land uses changes from 2000 to 2008.
+Table 4
+The independent samples t-test for the detection of seasonal differences in water quality
+indexes.
+BODcr COD5 DO EC NH 4
++-N NO 3
+−-N pH TSS
+Catchment-1 0.010 0.769 0.000 0.009 0.365 0.375 0.290 0.145
+Catchment-2 0.000 0.475 0.000 0.028 0.401 0.908 0.747 0.300
+Catchment-3 0.002 0.036 0.000 0.263 0.682 0.069 0.549 0.073
+Catchment-4 0.049 0.554 0.017 0.004 0.810 0.803 0.328 0.148
+Catchment-5 0.000 0.691 0.000 0.016 0.357 0.826 0.841 0.382
+Bold values are signiﬁcant differences at P b 0.05.
+186 P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 6]]
+4. Discussion
+4.1. Relationships between land use and water quality
+This study showed that urban and agricultural land had negative ef-
+fects on water quality, whereas forest and grassland had positive effects
+on water quality. These results are consistent with most previous stud-
+ies (Li et al., 2009; Tu, 2011; Wan et al., 2014 ). Compared with other
+land uses, urban and agricultural lands were more likely to generate
+NPS pollution. Urban land cover was positively correlated with a num-
+ber of water quality parameters and the highest median concentrations
+of TSS, CODcr,N O3
+−-N, and NH4
++-N occurred at catchment-4, where the
+majority of the urban area was located. Similarly,Tong and Chen (2002)
+found that the stream water nitrogen concentration was signi ﬁcantly
+positively related to commercial and residential land cover. NPS pollu-
+tion (including nutrients, heavy metals, and organic compounds from
+multifarious sources) in urban areas are transferred to streams via run-
+off from impervious surfaces, which adversely affect stream water qual-
+ity during and following precipitation events ( Johnson et al., 2013 ).
+Agricultural land use strongly inﬂuences nutrient and sediment concen-
+trations of stream water ( Li et al., 2008 ). It has been reported that the
+agriculture contributes N 50% of the total load ( Ongley et al., 2010 ),
+and the fraction of the total load is highly dependent on the proportion
+of agriculture in the watershed. In agricultural regions, increasing inputs
+of inorganic fertilizer, organic manure, and pesticides are the primary
+factors that contribute to increased regional crop production ( Zhang
+et al., 2014). Conventional agricultural activity (i.e., tillage or excessive
+fertilization) increases the risk of soil erosion and excessive nutrient ap-
+plications can result in NPS pollution to stream water following surface
+runoff.
+Grassland and forests have a direct connection with watershed NPS
+pollution ( Ouyang et al., 2010 ). Vegetation has been recognized as
+Fig. 5. Changes in the physical chemistry of stream water during the wet and dry seasons. Different letters above the histogram means signiﬁcant different at 0.05 level.
+Table 5
+The explanations of land use and landscape patterns on water quality by redundancy analysis (RDA).
+Scale Season PD LPI LSI SHAPE CONTIG CONTAG COHE SHDI AGRI FOREST GRASS URBAN Total explanation
+Catchment Dry 2.8% 7.6% 0.9% 2.1% 1.3% 2.6% 7.6% 0.7% 3.3% 1.2% 4.3% 0.8% 35.3%
+Wet 0.9% 1.3% 12.7% 11% 2.5% 4.5% 1.9% 3.3% 5.8% 1.9% 2.2% 1.1% 49.0%
+Riparian Dry 4.0% 1.0% 2.4% 1.4% 1.4% 2.8% 3.4% 1.8% 8.8% 11.2% 3.3% 4% 45.5%
+Wet 3.8% 5.3% 4.0% 7.7% 4.4% 4.0% 5.7% 1.2% 2.7% 10.8% 14.7% 4.1% 68.5%
+Reach Dry 1.2% 0.6% 2.6% 2.4% 1.8% 1.6% 10.1% 7.6% 0.1% 0.1% 2.1% 5.8% 36.0%
+Wet 1.1% 1.2% 0.4% 5.5% 0.8% 16.3% 0.8% 5.5% 2.5% 1.5% 1.2% 7.5% 44.3%
+187P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 7]]
+major factor trapping NPS nutrient, and vegetation cover is negatively
+correlated with most water quality parameters, possibly due to the re-
+d u c t i o no fs o i le r o s i o n(Li et al., 2008).
+4.2. Effects of landscape patterns on water quality
+Landscape ecology focuses on spatial patterns, and the spatial con-
+ﬁguration of landscape plays a critical role in determining ecological
+processes such as nutrient cycles, hydrological process, and energy
+ﬂows (Wu, 2013). The size, density, aggregation, and diversity of land-
+scape patterns are signi ﬁcant land use characteristics that impact
+stream water quality (Lee et al., 2009). In this study, most water quality
+parameters were positively associated with PD and SHDI, whereas they
+were negatively related to COHE, CONTAG, CONTIG, LPI, LSI, and SHAPE.
+LSI and SHAPE are measures of the complexity of landscape patch
+shapes. Human activities produce regular shapes, with straight borders,
+by introducing rectangularity and rectilinearity to landscapes ( Moser
+et al., 2002 ). In particular, cropland and residential areas usually have
+straight and distinct boundaries, whereas natural landscapes such as
+grassland and forest are normally characterized by irregular shapes
+and boundaries. In this study, both LSI and SHAPE were negatively relat-
+ed to COD, NH4
++-N, and TSS, suggesting that a more complex landscape
+patch shape helps to retain more nutrients.
+Degraded water quality was positively related to PD and SHDI. Lee
+et al. (2009) also reported that water quality measures, including
+BOD, COD, and TN were positively related to PD. As a fragmentation
+metric, a high degree of PD re ﬂects small patches of land use within a
+watershed, which may increase soil erosion and surface runoff. SHDI re-
+ﬂects the patch diversity within the watershed, which is greatly
+Fig. 6. The relationship between water quality parameters and land use and landscape pattern metrics at different spatial and temporal scales according to aredundancy analysis (RDA).
+188 P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 8]]
+impacted by urban and agricultural land uses. The interspersion of land
+use is primarily associated with these two human land uses. SHDI was
+positively correlated with water quality parameters, suggesting that
+urban and agriculture lands are net negative for water quality. Thus,
+the spatial distribution of urban and agricultural land uses should be
+speciﬁcally considered in watershed land use planning. In contrast, LPI
+was negatively associated with most water quality parameters. LPI
+quantiﬁes the percentage of the land use that accounts for the largest
+patch (Herzog et al., 2001). Our results showed that forest and grassland
+were the dominant land uses and unfragmented large forest and grass
+patches have the effect of ﬁltering pollutants, sediments, and nutrients
+(Winston et al., 2010 ). Thus, better water quality may be associated
+with the dominance of forest and grass areas.
+CONTAG is associated with the dispersion and interspersion of land
+use types, with high values reﬂecting a high degree of aggregation. For
+example, CONTAG approaches 100 when different land uses are
+maximally aggregated and approaches 0 when land uses are maximally
+disaggregated. CONTAG had a negative correlation with COD, NO
+3
+−-N,
+and TSS, suggesting that degraded water quality usually occurs in
+fragmented landscapes ( Uuemaa et al., 2005 ). CONTIG and COHE
+represent the spatial connectedness of cells within a patch and the
+physical connectedness of land uses within a watershed, respectively.
+Both of these landscape metrics had negative relationships with COD,
+NH4
++-N, and TSS. This result was consistent with Lee et al. (2009) ,
+who found that degraded water quality was more likely to be linked
+with scattered land uses over watersheds.
+4.3. The inﬂuence of spatial and temporal scales
+The inﬂuence of land use and land cover patterns on water quality is
+scale dependent (Pratt and Chang, 2012; Ding et al., 2016 ). The results
+showed that the riparian scale was better than the catchment and
+reach scales for explaining overall water quality variations. The riparian
+zone acts as a ﬁlter by reducing surface runoff, retaining sediments, and
+processing nutrients to improve stream water quality ( Miserendino
+et al., 2011; Fernandes et al., 2014 ). Carey et al. (2011) suggested that
+a riparian buffer was the key element in land use regulation. Buck
+et al. (2004) reported that nutrient concentrations in stream water
+were better predicted by riparian land use rather than catchment land
+use, and suggested that the “small-scale” effects of local land manage-
+ment should be given more attention. However, some studies have
+shown that the watershed had a greater impact on water quality than
+the riparian zone (Nash et al., 2009; Ding et al., 2016). This opposite re-
+sult might be related to different watershed land use patterns or to
+water quality parameters of interest.
+It is worth noting that different land uses had various scale effects.
+For example, urban land has greater impacts on water quality at smaller
+scales. This result was also found in a previous study, where urban land
+cover was positively correlated with water quality parameters at the ri-
+parian scale (Pratt and Chang, 2012 ). This is likely because residential
+areas are dispersed along the river (Fig. 4) and the artiﬁcial disturbances
+caused by building greatly damage river ecosystems ( Wasson et al.,
+2010). Agricultural land use is more strongly correlated with water
+quality at larger scales, which may be the related to the wide distribu-
+tion of cropland across the watershed (Fig. 4). The control of agricultural
+NPS should focus on larger scales and catchment agricultural manage-
+ment practices such as fertilizer use and conservation tillage. Forest
+and grassland cover is highly correlated with improved water quality
+at the riparian scale. Riparian zones function as an important connection
+between terrestrial and aquatic systems ( Fernandes et al., 2014 ), and
+protection of these area is critical for in-stream water quality. Riparian
+vegetation restoration is important for the maintenance and improve-
+ment of stream water quality, that vegetation in this area could decrease
+pollution concentrations in stream water (de Souza et al., 2013).
+Seasonal variations of precipitation and runoff have great effects on
+stream water contamination concentrations. The concentration of
+nutrients such as NH 4
++-N, NO 3
+−-N, and TSS were higher in the wet
+season than the dry season, which was consistent with previous studies
+(Ai et al., 2015 ). In this study, the effects of land use on water quality
+were more evident during the wet season. Bolstad and Swank (1997)
+found that stream water quality had stronger relationships with land
+use during storm ﬂow than during base ﬂow. Thus, the in ﬂuence of
+land use on stream water quality is scale-dependent, and varies over
+space and time.
+4.4. Management suggestion
+Urban areas in this basin were mainly dispersed along the river,
+which had a negative effect on stream water quality. So, it is important
+to control urban runoff, and make sure if meets national standards. Ag-
+riculture land had a strong impact on water quality at a large scale dur-
+ing the wet season. Ecological construction (i.e., terraced ﬁelds) and
+conservation tillage (i.e., no-tillage) as well as precision fertilization
+would help to reduce nutrients loss from cropland. Forest and grassland
+had strong contributions to water quality variation at the riparian scale.
+In this region, it is of signi ﬁcance to implement Green for Grain Project
+to reduce soil erosion. Landscape pattern planning, such as increasing
+patch boundary complexity, enhancing patch connectivity and decreas-
+ing landscape fragmentation, should be considered to improve water-
+shed water quality.
+5. Conclusions
+Stream water quality in the Dan River basin displayed signi ﬁcant
+spatial and seasonal variations. Land use had a strong relationship
+with water quality during the wet season. Following RDA, the explana-
+tion of land use and land cover patterns on water quality was higher at
+riparian scales than at the catchment and reach scales. However, differ-
+ent land use metrics had different scale effects, suggesting that land use
+planning in water quality management needs to adopt a multi-scale
+perspective.
+Acknowledgements
+This work was supported by the National Natural Science Founda-
+tion of China (Grant Nos. 41601092, 41330858, 41601017 and
+41271290); Project Funded by China Postdoctoral Science Foundation
+(Grant No. 2015M572592); Scienti ﬁc Research Program Funded by
+Shaanxi Provincial Education Department (Program No. 15JK1762)
+and the Open Research Fund of State Key Laboratory of Simulation
+and Regulation of Water Cycle in River Basin, China Institute of Water
+Resources and Hydropower Research (Grant No. IWHR-SKL-201608).
+References
+Ai, L., Shi, Z.H., Yin, W., Huang, X., 2015. Spatial and seasonal patterns in stream water
+contamination across mountainous watersheds: linkage with landscape characteris-
+tics. J. Hydrol. 523, 398– 408.
+Akasaka, M., Takamura, N., Mitsuhashi, H., Kadono, Y., 2010.Effects of land use on aquatic
+macrophyte diversity and water quality of ponds. Freshw. Biol. 55 (4), 909 –922.
+Allan, J.D., 2004. Landscapes and riverscapes: the inﬂuence of land use on stream ecosys-
+tems. Annu. Rev. Ecol. Evol. Syst. 35, 257 – 284.
+APHA, 2005. Standard Methods for the Examination of Water and Wastewater. American
+Water Works Association, Environment Federation, Washington, DC.
+Bolstad, P.V., Swank, W.T., 1997. Cumulative impacts of land use on water quality in a
+southern Appalachian watershed. J. Am. Water Resour. Assoc. 33 (3), 519–533.
+Bu, H., Meng, W., Zhang, Y., Wan, J., 2014. Relationships between land use patterns and
+water quality in the Taizi River basin, China. Ecol. Indic. 41, 187 –197.
+Buck, O., Niyogi, D.K., Townsend, C.R., 2004.Scale-dependence of land use effects on water
+quality of streams in agricultural catchments. Environ. Pollut. 130 (2), 287– 299.
+Carey, R.O., Migliaccio, K.W., Li, Y., Schaffer, B., Kiker, G.A., Brown, M.T., 2011.Land use dis-
+turbance indicators and water quality variability in the Biscayne Bay Watershed, Flor-
+ida. Ecol. Indic. 11, 1093–1104.
+Cheng, Y.T., Li, P., Xu, G.C., Li, Z.B., Cheng, S.D., Gao, H.D., 2016. Spatial distribution of soil
+total phosphorus in Yingwugou watershed of the Dan River, China. Catena 136,
+175– 181.
+Chinese State Environment Protection Bureau, 2002.Environmental Quality Standards for
+Surface Water (GB3838–2002).
+189P. Shi et al. / Catena 151 (2017) 182 –190
+
+[[PAGE 9]]
+Collins, K.E., Doscher, C., Rennie, H.G., Ross, J.G., 2013. The effectiveness of riparian
+‘ restoration'on water quality— a case study of lowland streams in Canterbury, New
+Zealand. Restor. Ecol. 21 (1), 40– 48.
+de Souza, A.L., Fonseca, D.G., Libório, R.A., Tanaka, M.O., 2013. Inﬂuence of riparian vege-
+tation and forest structure on the water quality of rural low-order streams in SE
+Brazil. For. Ecol. Manag. 298, 12– 18.
+Ding, J., Jiang, Y., Liu, Q., Hou, Z., Liao, J., Fu, L., Peng, Q., 2016. Inﬂuences of the land use
+pattern on water quality in low-order streams of the Dongjiang River basin, China:
+a multi-scale analysis. Sci. Total Environ. 551, 205–216.
+Donohue, I., McGarrigle, M.L., Mills, P., 2006.Linking catchment characteristics and water
+chemistry with the ecological status of Irish rivers. Water Res. 40 (1), 91 – 98.
+Fernandes, J.D.F., de Souza, A.L., Tanaka, M.O., 2014. Can the structure of a riparian forest
+remnant inﬂuence stream water quality? A tropical case study. Hydrobiologia 724
+(1), 175–185.
+Herzog, F., Lausch, A., MÜller, E., Thulke, H.H., Steinhardt, U.T.A., Lehmann, S., 2001.Land-
+scape metrics for assessment of landscape destruction and rehabilitation. Environ.
+Manag. 27 (1), 91– 107.
+Johnson, R.C., JIN, H.S., Carreiro, M.M., Jack, J.D., 2013. Macroinvertebrate community
+structure, secondary production and trophic-level dynamics in urban streams affect-
+ed by non-point-source pollution. Freshw. Biol. 58 (5), 843– 857.
+King, R.S., Baker, M.E., Whigham, D.F., Weller, D.E., Jordan, T.E., Kazyak, P.F., Hurd, M.K.,
+2005. Spatial considerations for linking watershed land cover to ecological indicators
+in streams. Ecol. Appl. 15 (1), 137 –153.
+Lee, S.W., Hwang, S.J., Lee, S.B., Hwang, H.S., Sung, H.C., 2009. Landscape ecological ap-
+proach to the relationships of land use patterns in watersheds to water quality char-
+acteristics. Landsc. Urban Plan. 92 (2), 80– 89.
+Li, S., Gu, S., Liu, W., Han, H., Zhang, Q., 2008.Water quality in relation to land use and land
+cover in the upper Han River Basin, China. Catena 75 (2), 216 – 222.
+Li, S., Liu, W., Gu, S., Cheng, X., Xu, Z., Zhang, Q., 2009. Spatio-temporal dynamics of nutri-
+ents in the upper Han River basin, China. J. Hazard. Mater. 162 (2), 1340 – 1346.
+Liu, R., Xu, F., Zhang, P., Yu, W., Men, C., 2016. Identifying non-point source critical source
+areas based on multi-factors at a basin scale with SWAT. J. Hydrol. 533, 379 – 388.
+Lu, Y., Song, S., Wang, R., Liu, Z., Meng, J., Sweetman, A.J., Jenkins, A., Ferrier, R.C., Li, H., Luo,
+W., Wang, T., 2015.Impacts of soil and water pollution on food safety and health risks
+in China. Environ. Int. 77, 5 – 15.
+McMillan, S.K., Tuttle, A.K., Jennings, G.D., Gardner, A., 2014. Inﬂuence of restoration age
+and riparian vegetation on reach-scale nutrient retention in restored urban streams.
+J. Am. Water Resour. Assoc. 50 (3), 626 – 638.
+Meneses, B.M., Reis, R., Vale, M.J., Saraiva, R., 2015. Land use and land cover changes in
+Zêzere watershed (Portugal) — water quality implications. Sci. Total Environ. 527,
+439– 447.
+Miserendino, M.L., Casaux, R., Archangelsky, M., Di Prinzio, C.Y., Brand, C., Kutschker, A.M.,
+2011. Assessing land-use effects on water quality, in-stream habitat, riparian ecosys-
+tems and biodiversity in Patagonian northwest streams. Sci. Total Environ. 409 (3),
+612– 624.
+Moser, D., Zechmeister, H.G., Plutzar, C., Sauberer, N., Wrbka, T., Grabherr, G., 2002.Land-
+scape patch shape complexity as an effective measure for plant species richness in
+rural landscapes. Landsc. Ecol. 17 (7), 657– 669.
+Nash, M.S., Heggem, D.T., Ebert, D., Wade, T.G., Hall, R.K., 2009.Multi-scale landscape fac-
+tors inﬂuencing stream water quality in the state of Oregon. Environ. Monit. Assess.
+156, 343– 360.
+Ongley, E.D., Xiaolan, Z., Tao, Y., 2010. Current status of agricultural and rural non-point
+source pollution assessment in China. Environ. Pollut. 158 (5), 1159– 1168.
+Ouyang, W., Skidmore, A.K., Toxopeus, A.G., Hao, F., 2010.Long-term vegetation landscape
+pattern with non-point source nutrient pollution in upper stream of Yellow River
+basin. J. Hydrol. 389 (3), 373 –380.
+Pacheco, F.A.L., Fernandes, L.S., 2016. Environmental land use conﬂicts in catchments: a
+major cause of ampliﬁed nitrate in river water. Sci. Total Environ. 548, 173 – 188.
+Pacheco, F.A.L., Santos, R.M.B., Fernandes, L.S., Pereira, M.G., Cortes, R.M.V., 2015.Controls
+and forecasts of nitrate yields in forested watersheds: a view over mainland Portugal.
+Sci. Total Environ. 537, 421– 440.
+Pratt, B., Chang, H., 2012.Effects of land cover, topography, and built structure on seasonal
+water quality at multiple spatial scales. J. Hazard. Mater. 209, 48 –58.
+Rice, E.W., Bridgewater, L., Association, A.P.H., 2012. Standard Methods for
+theExamination of Water and Wastewater. American Public Health Association,
+Washington, DC.
+Rimer, A.E., Nissen, J.A., Reynolds, D.E., 1978. Characterization and impact of storm water
+runoff from various land cover types. J. Water Pollut. Control Fed. 50 (2), 252 –264.
+Sahu, M., Gu, R.R., 2009.Modeling the effects of riparian buffer zone and contour strips on
+stream water quality. Ecol. Eng. 35 (8), 1167 – 1177.
+Santos, R.M.B., Fernandes, L.S., Pereira, M.G., Cortes, R.M.V., Pacheco, F.A.L., 2015.A frame-
+work model for investigating the export of phosphorus to surface waters in forested
+watersheds: implications to management. Sci. Total Environ. 536, 295– 305.
+Shen, Z., Hou, X., Li, W., Aini, G., Chen, L., Gong, Y., 2015. Impact of landscape pattern at
+multiple spatial scales on water quality: a case study in a typical urbanised watershed
+in China. Ecol. Indic. 48, 417 – 427.
+Sliva, L., Williams, D.D., 2001.Buffer zone versus whole catchment approaches to studying
+land use impact on river water quality. Water Res. 35 (14), 3462 –3472.
+Sun, R., Chen, L., Chen, W., Ji, Y., 2013.Effect of land-use patterns on total nitrogen concen-
+tration in the upstream regions of the Haihe River Basin, China. Environ. Manag. 51
+(1), 45– 58.
+Tong, S.T., Chen, W., 2002. Modeling the relationship between land use and surface water
+quality. J. Environ. Manag. 66 (4), 377 – 393.
+Tu, J., 2011. Spatially varying relationships between land use and water quality across an
+urbanization gradient explored by geographically weighted regression. Appl. Geogr.
+31 (1), 376–392.
+Uuemaa, E., Roosaare, J., Mander, Ü., 2005. Scale dependence of landscape metrics and
+their indicatory value for nutrient and organic matter losses from catchments. Ecol.
+Indic. 5 (4), 350– 369.
+Valle Junior, R.F., Varandas, S.G.P., Fernandes, L.S., Pacheco, F.A.L., 2014. Groundwater
+quality in rural watersheds with environmental land use conﬂicts. Sci. Total Environ.
+493, 812– 827.
+Wan, R., Cai, S., Li, H., Yang, G., Li, Z., Nie, X., 2014.Inferring land use and land cover impact
+on stream water quality using a Bayesian hierarchical modeling approach in the
+Xitiaoxi River Watershed, China. J. Environ. Manag. 133, 1–11.
+Wang, W., Liu, X., Wang, Y., Guo, X., Lu, S., 2016. Analysis of point source pollution and
+water environmental quality variation trends in the Nansi Lake basin from 2002 to
+2012. Environ. Sci. Pollut. Res. 23 (5), 4886 – 4897.
+Wasson, J.G., Villeneuve, B., Iital, A., Murray-Bligh, J.O.H.N., Dobiasova, M., Bacikova, S.,
+Timm, H., Pella, H., Mengin, S., Chandesris, A., 2010.Large-scale relationships between
+basin and riparian land cover and the ecological status of European rivers. Freshw.
+Biol. 55 (7), 1465– 1482.
+Wilson, C., Weng, Q., 2010. Assessing surface water quality and its relation with urban
+land cover changes in the Lake Calumet Area, Greater Chicago. Environ. Manag. 45
+(5), 1096– 1111.
+Winston, R.J., Hunt III, W.F., Osmond, D.L., Lord, W.G., Woodward, M.D., 2010. Field eval-
+uation of four level spreader – vegetative ﬁlter strips to improve urban storm-water
+quality. J. Irrig. Drain. Eng. 137 (3), 170 – 182.
+Wu, J., 2013. Key concepts and research topics in landscape ecology revisited: 30 years
+after the Allerton Park workshop. Landsc. Ecol. 28 (1), 1 – 11.
+Wu, J., Shen, W., Sun, W., Tueller, P.T., 2002. Empirical patterns of the effects of changing
+scale on landscape metrics. Landsc. Ecol. 17 (8), 761 – 782.
+Xu, G., Li, Z., Li, P., 2013. Fractal features of soil particle-size distribution and total soil ni-
+trogen distribution in a typical watershed in the source area of the middle Dan River,
+China. Catena 101, 17–23.
+Zhang, Q., 2005.The south-to-north water diversion (SNWD) project. Front. Ecol. Environ.
+3( 2 ) ,7 6 .
+Zhang, Y., Li, F., Zhang, Q., Li, J., Liu, Q., 2014. Tracing nitrate pollution sources and trans-
+formation in surface-and ground-waters using environmental isotopes. Sci. Total En-
+viron. 490, 213–222.
+Zhao, J., Lin, L., Yang, K., Liu, Q., Qian, G., 2015. Inﬂuences of land use on water quality in a
+reticular river network area: a case study in shanghai, China. Landsc. Urban Plan. 137,
+20– 29.
+190 P. Shi et al. / Catena 151 (2017) 182 –190

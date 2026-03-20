@@ -1,0 +1,558 @@
+[[PAGE 1]]
+HAL Id: hal-03303525
+https://hal.science/hal-03303525v1
+Submitted on 28 Jul 2021
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+The development of socio-economic scenarios for urban
+flood risk management
+S. Kurzbach, M. Hammond, O. Mark, S. Djordjevic, D. Butler, P.
+Gourbesville, J. Batica, W. Veerbeek, S. Birkholz, F. Schlitte, et al.
+To cite this version:
+S. Kurzbach, M. Hammond, O. Mark, S. Djordjevic, D. Butler, et al.. The development of socio-
+economic scenarios for urban flood risk management. Novatech 2013 - 8ème Conférence internationale
+sur les techniques et stratégies durables pour la gestion des eaux urbaines par temps de pluie / 8th
+International Conference on planning and technologies for sustainable management of Water in the
+City, Jun 2013, Lyon, France. ￿hal-03303525￿
+
+[[PAGE 2]]
+NOVATECH 2013 
+1 
+The development of socio-economic scenarios for 
+urban flood risk management 
+Développement de scénarios socio-économiques pour la 
+gestion des risques d'inondation en milieu urbain 
+ 
+Stefan Kurzbach1, Michael Hammond2*, Ole Mark3, Slobodan 
+Djordjevic2, David Butler2, Philippe Gourbesville4, Jelena Batica4, 
+William Veerbeek5, Sharon Birkholz6, Friso Schlitte7, Albert S. 
+Chen2, Natasa Manojlović1, and Gehad Ujeyl1 
+ 
+1  Institute of River and Coastal Engineering, TU Hamburg-Harburg, 
+Schwarzenbergstraße 95 (E), 21073, Hamburg, Germany  
+2 Centre for Water Systems, Harrison Building, North Park Road, 
+University of Exeter, Exeter, EX4 4QF, UK m.j.hammond@exeter.ac.uk 
+3  DHI, Agern Allé 5, 2970 Hørsholm, Denmark 
+4  Polytech’Nice - Sophia Antipolis, Université de Nice - Sophia Antipolis, 
+930, Route des Colles, 06903 Biot, France 
+5  UNESCO-IHE, PO Box 3015, 2601 DA Delft, Netherlands 
+6 Cranfield Water Science Institute, Cranfield University, Cranfield, 
+Bedfordshire, MK43 0AL, UK 
+7  HWWI, Heimhuder Straße 71, 20148 Hamburg, Germany 
+*         Corresponding author m.j.hammond@exeter.ac.uk 
+ 
+RÉSUMÉ 
+Les responsables et les professionnels d es réseaux de drainage urbains sont confrontés aux 
+incertitudes socio-économiques et climatiques alors que les réseaux de drainage doivent s’adapter à 
+la pression de l’urbanisation croissante, à l’essor démographique et à la croissance économique. Une 
+manière de gérer l’incertitude liée à cette dynamique est de développer des stratégies de gestion qui 
+intègrent différentes options pour le futur. Il y a, par définition , un nombre infini de futurs possibles et 
+par conséquent, il peut être utile pour les urban istes de réduire cette diversité à un nombre limité de 
+scénarios alliant conditions socio -économiques et climatiques. Cet article décrit les enjeux majeurs 
+pour le développement de scenarios et présente un cadre méthodologique pour leur développement. 
+Les scénarios peuvent être appliqués sur des environnements urbains afin d’assister les décideurs 
+dans leurs prises de décision. 
+ 
+ABSTRACT 
+Urban drainage managers and professional are faced with uncertain socio -economic and climate 
+futures, as cities and urban  water systems are under pressure due to a number of trends such as 
+population growth, economic growth, and increased urbani sation. A way of managing this uncertainty 
+is to develop and apply water management strategies that can cope with a range of futures. There are 
+an infinite number of possible futures, and therefore, it is useful for planners to develop a limited 
+number of scenarios, which describe selected coupled socio -economic and climate futures for a city. 
+These scenarios can then aid stakeholders in their decision making processes. This paper describes 
+the key challenges of scenario development and the methodology used in the CORFU project. 
+ 
+KEYWORDS 
+Cities, Climate change, Flood risk, Scenarios, Socio-economic futures, Urban drainage 
+
+[[PAGE 3]]
+C3 - T.A / EFFICACITÉ GLOBALE / BMPs & GLOBAL EFFICIENCY 
+2 
+1 INTRODUCTION 
+Urban water professionals and planners are faced with the challenge of working with systems that are 
+under increasing pressure. One particular challenge is to manage the risk of urban flooding, in highly 
+dynamic cities. There are several observed and projected trends that are expected to increase the risk 
+of flooding in cities.  
+One of these trends is increased urbanization . The United N ations (UN) recently reported that  the 
+world’s population living in urban areas has overtaken the rural proportion, and that the world’s urban 
+population is projected to grow , both in absolute terms, and as a fraction of a growing global 
+population (United Nations Department of Economic and Social Affairs/Population Division, 2012) . 
+Between 2011 and 2050, the world population has been projecte d to increase by 2.3 billion, from 7.0 
+billion to 9.3 billion. At the same time, the population living in urban areas is projected to increase from 
+3.6 billion in 2011, to 6.3 billion in 2050. This represents a growth from 51% to 68% of the gl obal 
+population. As more people live in cities, more people are expected to be exposed to flooding. 
+Another trend arises from the possibility for climate change to result in more extreme rainfall patterns 
+and sea level rise. Some studies have already shown statisticall y significant trends in extreme rainfall 
+in Denmark (Arnbjerg-Nielsen, 2006)  and in North America  (Peterson et al., 2008) . However, the 
+global pattern of obser ved trends in extreme precipitation is marked by differing levels of confidence. 
+As for future projections, the Intergovernmental Panel on Climate Change (IPCC) states that “it is likely 
+that the frequency of heavy precipitation or proportion of total rain fall from heavy falls will increase in 
+the 21st century over many areas on the globe” (Field et al., 2012).  
+Moreover, other trends will also have an impact on flood risk. Economic growth may change the value 
+of exposed assets in urban areas, which could affect the expected impacts of flooding (Jongman et al., 
+2012). An increase in the number of people living in cities will almost certainly  lead to land -use 
+changes, which could have an impact on the hydrological and hydraulic behaviour (Merz et al., 2010). 
+Changes in the economic structure may also have an impact on the spatial distribution of land -use 
+types. Furthermore, development may follow a pattern of increased low -density sprawl, or 
+alternatively, high-density residential housing may prevail in some cities. Finally , demographic 
+changes may also lead to differences in the age structure of the population, where , for example, a 
+more elderly population may be more vulnerable to flooding.  However, beyond the numbers, there are 
+often forces that are more difficult to quantify, that can affect th e vulnerability of communities to 
+flooding. Migration into cities can be the result of wider social trends than just economic growth, and 
+can determine social structure and organisation in the city. 
+There has been an increased interest in the concept of fl ood resilience, where improving the flood 
+resilience of cities has become a central aim in good flood risk management. There is a burgeoning 
+literature in this field and it has become an active topic of research (Gersonius et al., 2010; Schelfaut 
+et al., 2011) . Although, definitions of resilience vary in the literature, within this study, we take the 
+approach that resilience is the ability to absorb , resist, recover and continu ally adapt to a changing 
+flood risk. Flood resilient communities have improved capacities at all stages of the flood management 
+cycle, that includes mitigation, preparedness, response, and recovery (Mark and Djordjevi c, 2006) . 
+Flood resilient cities and the people who live there are aware of the flood risk they face, and are well -
+prepared and can respond better if and when a flood occurs.  
+The Collaborative Research on Flood Risk in Urban Areas (CORFU) project (www.corfu7.eu) was 
+established to develop and assess the effectiveness of different resilience and flood risk management 
+strategies in cities. The project is working with partners in case study cities across Europe and Asia. 
+The case study cities face unique cha llenges as a result of different drivers and pressures, although 
+how these pressures will affect these cities are uncertain. To be able to understand how these drivers 
+and pressures may affect future flood risk, and how managers can deal with them, it woul d be useful 
+to develop and apply a range of climate and socio -economic scenarios that can be used to evaluate 
+the effectiveness of different strategies. Within the CORFU project, a Drivers -Pressures-State-
+Impacts-Response (DPSIR) framework will be develope d and applied.  The drivers and pressures 
+derived from the scenario development process will be linked to changes in urban flooding and its 
+impacts, and possible responses or resilience strategies will be assessed to examine their 
+effectiveness. This is  further elaborated in Djordjević et al (2011). In this paper, we will describe the 
+development of scenarios on the city or sub-city scales that can be used in urban flood hazard, impact, 
+and vulnerability model ling. In addition, these scenarios will form the basis for developing adaptation 
+strategies and resilience assessment. 
+
+[[PAGE 4]]
+NOVATECH 2013 
+3 
+2 KEY ISSUES IN SCENARIO DEVELOPMENT 
+A useful way to deal with an uncertain future is to consider the long -term consequences of different 
+socio-economic and climate scenarios and the strategies implemented to mitigate problems that arise 
+from these scenarios (Parson, 2008). A scenario here is defined as “ a plausible and often simplified 
+description of how the future may develop, based on a coherent and internally consistent set of 
+assumptions about driving forces and key relationships” (Parry et al., 2007) . Each scenario is one 
+alternative image of how the future might unfold. Scenario componen ts constitute the socio-economic 
+reference conditions for urban development and projections of the future climate. 
+In this study, several challenges in scenari o development stand out. The first is to be clear in 
+understanding why the scenarios are being de veloped. The overall aim of the CORFU project is to 
+assess flood impacts and possible responses in urban areas by envisaging different scenarios of 
+relevant drivers: urban development, socio -economic trends, and climate changes. The second 
+challenge is to adapt global scenarios to the city, or sub -city scale, while retaining the larger narrative, 
+to allow for comparison of the results of all CORFU case study cities. The third challenge is to provide 
+narratives that provide a broad coverage of the possible futures for these cities.  
+The use of scenarios in research has a long history. The most prominent set of scenarios has been 
+developed by the IPCC. In their Special Report on Emissions Scenarios (SRES), the IPCC presented 
+four families of scenarios, A1, A2, B1, and B2 (Nakicenovic et al., 2000) , each containing a different 
+storyline or narrative of a possible future. For example, the A1 scenario family described a future world 
+of very rapid economic growth, global population that peaks in mid -century and declines thereafter, 
+and the rapid introduction of new and more efficient technologies. 
+However, for the new IPCC 5 th Assessment Report (AR5)  Moss et al . (2010) argue that the way in 
+which the scenarios are developed should be changed. In the SRES, the scenarios were developed in 
+a linear process, wh ereby socio -economic factors were described, which in turn, influenced 
+greenhouse gas emissions, which caused changes in the atmosphere, global temperatures, and 
+ultimately impacts on people and the environment. It has been argued that this approach should  be 
+replaced by a parallel approach, whereby radiative forcings for climate modelling are developed which 
+are not associated with any unique socio -economic scenario. In parallel with these  forcings, new 
+socio-economic and emissions scenarios can be develop ed and then integrated with the results of 
+new climate scenarios to allow researchers to produce new impact, adaptation and vulnerability 
+studies.  
+Kriegler et al . (2012) have argued for the need to develop global, shared socio -economic pathways 
+(SSPs) that would feed into the development process. It was proposed that these SSPs could be 
+developed by relating them to two axes: challenges to mitigation  and challenges to adaptation . A 
+pathway with high challenges to mitigation would represent a future which would lead to higher 
+emissions and where technological, institutional or other conditions were poorly suited to reducing 
+emissions. A pathway with greater challenges to adaptatio n would be one where exposure and 
+sensitivity to climate change were high, and the capacity to adapt would be low. Beyond these global 
+scenarios, there is the need to downscale them to specific regions and locations, and also to use them 
+in relation to specific fields.  
+Scenarios have been used more specifically within the field of water management. Within the UK, as 
+part of the UK’s Office of Science and Technology ’s Foresight Future project, four broad socio -
+economic scenarios were developed, referred to as World Markets , National Enterprise , Local 
+Stewardship, and Global Sustainability. The scenarios were not developed specifically for the water 
+industry, and were intended to be used by the UK government as a scenario building framework. The 
+scenarios were defined by their position on two axes. The first axis represented social values, which 
+ranged from individualistic values at one extreme, to community oriented values at the other end. The 
+second axis represented the systems of governance, which ranged f rom systems from which national 
+governments retained all autonomy, to interdependence at the other extreme, where much of the 
+decision making powers had moved to other institutions, to include both regional governments, and 
+international organizations. Eac h of these futures also had parameter values attached to them – e.g. 
+GDP growth per year, agricultural activity, area of newly developed land, and primary energy 
+consumption. Each future was assumed to correspond to a particular SRES emissions scenario. 
+Hall et al (2005) used these scenarios to assess the future flood risk in the UK. The socio -economic 
+scenarios were represented in the model of flood risk by making assumptions about their effec t on a 
+number of other variables. These included the standard of protection and the condition grade of the 
+flood defen ces, the location of people and properties in the floodplain, the flood -depth damage 
+
+[[PAGE 5]]
+C3 - T.A / EFFICACITÉ GLOBALE / BMPs & GLOBAL EFFICIENCY 
+4 
+relationships, and social flood vulnerability indices. Makropoulos et al (2008) used the same futures to 
+develop scenarios for urban water management. Here, the different futures were linked to vari ables 
+such as water efficiency, stormwater management, and wa ter efficiency.  Similarly, Poussin et al 
+(2012) used two coupled scenarios to consider flood risk in the River Meuse to investigate the benefits 
+provided by semi -structural and non -structural adaptation strategies. Two climate scenarios were 
+applied to the peak river discharge for different return pe riods, and two socio -economic scenarios, 
+described as Global Economy and Regional Communities. The former was based on high economic 
+and population growth, while the latter was based on lower economic and population growth, a 
+regional focus, and stricter e nvironmental regulations. These drove a land -use model, and coupled 
+with different climate change scenarios  Other examples where scenarios have been used in the field 
+of water management, include scenarios on the quantity and quality of water resources (Krysanova et 
+al., 2006; Alcamo et al., 2007) , wetlands (Harrison et al., 2008) , water supply (Barthel et al., 2010), 
+and stormwater management (Semadeni-Davies et al., 2008).  
+3 METHODOLOGY 
+Based on the approach described in Moss et al . (2010), shared socio -economic pathways are be ing 
+developed in the CORFU project that make common assumptions for use across the different case 
+study cities. In order to make the CORFU case st udy cities comparable, t hese SSPs will form the 
+basis for developing regional socio -economic scenarios in each city. Where urban growth is likely to 
+be a significant driver, an urban growth model based on a cellular -automata model is applied. In this 
+way, the scenarios can be associated with different future urban configurations. Regional drivers of 
+urbanization are primarily determined by the statistical analysis of land use changes in the past. Apart 
+from setting the overall growth rate, the influence of the shared pathways is expected to be rather 
+small compared to the regional drivers of urbanization and the urban planning policies in each city. For 
+this reason, the regional drivers and policies will be part of the scenario definition and act as addition al 
+input parameters to the urban growth models in the form of spatial requirements and constraints. 
+The socio -economic scenarios are to be combined with plausible climate future s. Climate futures 
+describe the impact of increasing greenhouse gas emissions o n climate variables that have a direct 
+influence on the flood hazard, e.g. changes in extreme precipitation, sea level rise , and storm surge 
+levels. Projections of climate change variables have been conducted using Global Climate Models. 
+Climate impact results for the AR5 Representative Concentration Pathways are not yet available. For 
+this reason, climate futures will be based on the results of the 4th IPCC SRES (Nakicenovic et al., 
+2000). As the SSPs are mostly driven by regional factors, they can easily be combined with a wide 
+range of possible climate futures.  Several key challenges remain. The most important of these will be 
+to downscale the results of global and regional climate models to the relevant city scale. However, the 
+definition of climate futures is not i n the scope of this paper. Reference will be made to guidance on 
+the use of climate inputs to urban flood models (DANVA, 2010; Paludan et al., 2010).  
+Three or four scenarios are to be developed for each case study city based on the three shared socio-
+economic pathways . These scenarios cover “interesting” aspects in the space of possible urban 
+configurations and future climates. An interesting scenario is either very plausible (i.e. likely) or it has a 
+high impact. One of the scenarios will be an extreme scenario based on the high growth pathway. 
+3.1 Shared socio-economic pathways 
+In the CORFU project, a set of three shared socio -economic pathways in the spirit of the AR5 has 
+been defined for selected case study cities in 2050: a low, a medium and a hi gh growth pathway. The 
+medium growth pathway represents a “business -as-usual” scenario with moderate population and 
+GDP growth. It applies national growth paths as provided by th e Oxford Global Economic Model 
+together with population growth rates according  to the IIASA “Middle of the Road” -Scenario (SSP2) 
+(see Table 1). At the global level, it assumes a more or less linear growth path of population, while the 
+economic growth rate resembles the long-term average annual growth rate since 1980. At the national 
+level, country-specific long-term trends are taken into account.  The high and the low growth pathways 
+allow for deviation from the medium growth pathway.  
+The future socio -economic state of a city is affected by socio -economic developments on the global, 
+the national, and the local level. Because a city shares the same institutional framework as all other 
+regions within the same country, the socio -economic environment on the national level is of utmost 
+importance for the future state of the city. Despite t he importance of national factors, the socio -
+economic development within a country is usually marked by significant spatial disparities. In 
+particular, large cities exhibit frequently a more dynamic economic development than less densely 
+
+[[PAGE 6]]
+NOVATECH 2013 
+5 
+populated areas. G eneral urbanization processes, as well as idiosyncratic characteristics of a city 
+allow for significant deviations from the national socio-economic development. Thus, on the one hand, 
+these regional pathways vary by assuming different growth paths on the n ational level. In particular, 
+these assumptions concern population growth and economic growth by different industrial sectors as 
+well as corresponding shifts towards a knowledge -based and service-oriented economy. On the other 
+hand, the socio-economic pathways for the case study areas in this study account for region -specific 
+drivers leading to a deviation from the socio-economic development on the national level. 
+Table 1: Medium growth pathway population and GDP growth 
+Population (Millions) 
+  2010 2050 overall growth rate 
+Bangladesh 148.9 194.4 31% 
+China 1360.0 1300.7 -4% 
+France 62.8 68.7 9% 
+Germany 82.7 74.6 -10% 
+India 1228.2 1624.1 32% 
+S.Korea 48.9 47.1* -4% 
+Spain 46.1 51.1 11% 
+Taiwan 16.9 13.7 -19% 
+World 6869.9 9285.3 35% 
+*Year 2040. Source: Oxford Economics. Global Economic Model, 2012. 
+Source: IIASA, SSP-Database, SSP2, 2012.  
+GDP, constant prices and exchange rates (US$, Billions, 2005 prices) 
+  2010 2040 annual growth rate 
+China 960.1 6440.8 6.6% 
+France 550.9 869.1 1.5% 
+Germany 735.7 1069.3 1.3% 
+India 303.3 2156.3 6.8% 
+S. Korea 254.8 673.5 3.3% 
+Spain 295.7 442.8 1.4% 
+Taiwan 111.6 277.4 3.1% 
+World 12708.1 33112.2 3.2% 
+Data for Bangladesh are not provided individually by Oxford Economics.  
+Source: Oxford Economics. Global Economic Model, 2012.  
+In all SSPs a relatively strong growth of the regional population is connected with a relatively high 
+growth rate of total GDP in the corresponding region. First, we assume positive effects of an 
+increasing population on the local a ggregate demand for goods and services (the so -called home -
+market effect). This and a relatively large supply of (skilled) labo ur raise the attractiveness of a city for 
+firms. Simultaneously, relatively high incomes and better job opportunities attract workers to migrate to 
+the city. Cities usually attract a large proportion of young and skilled people. At the same time, their 
+economies are often marked by a high share of knowledge -based and service -oriented businesses. 
+Therefore, the economic success of a city is frequently associated with its relative attractiveness for 
+skilled workers, which helps maintaining a high level of competitiveness. Beside the possibility of 
+receiving a high income and good job opportunities, so -called “soft location factors”, su ch as the 
+quality of the infrastructure of education and child care, the quality of housing, the city’s cultural 
+offerings, and opportunities for leisure time activities, play an important role in the city’s attractiveness 
+
+[[PAGE 7]]
+C3 - T.A / EFFICACITÉ GLOBALE / BMPs & GLOBAL EFFICIENCY 
+6 
+for migrants. If such positive ag glomeration effects outweigh possible negative effects, such as 
+pollution, crowding, or high land prices, the city will exhibit above average growth resulting in 
+increasing level of urbanization. 
+The CORFU case study cities are highly heterogeneous. On the  one hand, there are cities in highly 
+developed countries, e.g. Barcelona, Hamburg, and Nice, exhibiting a high level of wealth and 
+relatively low dynamics in terms of population and GDP growth. On the other hand, there are very 
+rapidly growing cities in d eveloping and emerging countries, e.g. Beijing, Dhaka, and Mumbai, which 
+are marked by relatively weak institutions and extremely high social inequalities. Thus, the creation of 
+SSPs requires individual consideration of each case study area. However, gener al narrative storylines 
+have been specified that represent a qualitative assessment of the assumptions shared by the 
+scenarios in all case study cities. The SSPs are regionalized in each case study city  by variation of 
+driving parameters in a model for the regional economic growth. The parameters to be modified in this 
+model incorporate the regional population growth, the education level, as well as deviations from 
+national trends in GDP and sector structure. 
+The population projections will be used explicit ly as an input to the urban growth model, which is 
+described in the next subsection, Increases in GDP will be linked directly with the flood impact model 
+to drive the changes in exposed assets. 
+3.2 Urban configuration 
+By the application of a spatially distributed urban growth model for each scenario, a range of possible 
+future urban configurations can be generated. The scenarios consist of three main ingredients: a 
+narrative storyline, quantitative trends, and policies and plans. The urban growth scenarios and 
+subsequent land use distributions are primarily based on extrapolation of past urban development 
+trends. Using algorithms that analyse past spatial trends, land use transition rules are calculated that 
+develop future land based on suitability. This extrapolation provides a spatially explicit business -as-
+usual scenario for urban growth that can act as a baseline from which alternative scenarios are 
+developed and assessed. The applied growth rate is determined from ti me-series data and can be 
+adjusted by introducing the scenario -based quantitative trends. These primarily consist of population 
+predictions that fall behind or exceed those observed during the base years the model is calibrated on. 
+Future growth can theref ore be dampened or boosted without changing the intrinsic rules underlying 
+the land use transitions. 
+Narrative stories on the other hand are implemented as top down information, therefore adjusting the 
+suitability for land use changes in specific locations  or land use classes. Implementing an active 
+protection scheme for green areas for instance, would prevent the transition from forests, shrubs or 
+other land use classes related to green zones into built -up areas. Flood risk adverse behavio ur by 
+future would influence the suitability for the occupation of floodplains. Such narrative stories can be 
+implemented as deterministic or probabilistic. In the latter case, unsuitable areas could still be 
+occupied in case the growth pressure is sufficiently high. Polic ies and plans are often expressed as 
+zoning plans including a set of excluded areas where no urban development is permitted. Within the 
+urban growth model these mainly act as “development envelopes ”; zones where the suitability for 
+specific land use transformations (e.g. from barren land to residential) is artificially increased. In 
+combination with the derived rule sets that for instance define suitability based on the proximity to 
+major infrastructure, such envelopes gradually fill up depending on the defined growth rates. Excluded 
+areas on the other hand simply remain static; no land use changes are taking place.  
+Together, these instruments provide an expressive toolset where quantitative and qualitative storylines 
+are translated into actual spatial development. Changes in land -use will be used as inputs to the 
+hydraulic model, which will reflect changes in the impervious areas. Changes in land -use types will 
+also directly be linked with the flood impact model to describe the distribution of exposed assets.  
+3.3 Coping, adaptive capacity, and resilience 
+In order to be able to assess the resilience of a city to flooding in the future, it is necessary to specify 
+socio-economic indicators for coping and adaptive c apacity in the scenarios. On the regional scale, 
+coping and adaptive capacity is influenced by the establishment of mitigation goals and their 
+enforcement through policies and plans.  Examples of policies and plans that increase the capacity on 
+a regional s cale include flood maps, evacuation plans, early warning systems, flood insurance or 
+recovery plans, and incentives for private adaptation. On the local or community scale, three socio-
+economic variables have been identified that determine  the coping and adaptive capacity: awareness, 
+relationships, and livelihoods. 
+
+[[PAGE 8]]
+NOVATECH 2013 
+7 
+Awareness is the collective social perception that a community has of the flood risk they are exposed 
+to. Factors that influence the awareness include the a vailability of information related to f lood risk, 
+policies, and plans , education on current flood risk and preparedness , as well as experience and 
+legacy of flooding.  Relationships represent the key links and interactions that exist between 
+individuals, communities and government agents; these linkages create avenues of cooperation and 
+communication, and are essential support systems in emergencies.  Livelihood is seen as the means 
+by which individuals or communities obtain the resources that sustain their daily existences. It refers to 
+the availability and accessibility of f inancial, human, and physical resources  to the local communities, 
+a health care system, welfare support, and private flood insurance. 
+The drivers and pressures derived from the scenarios will be used as inputs to hydraulic mod els, 
+which will alter the intensity, extent and frequency of flooding. The impacts of this flooding will be 
+assessed using a flood damage model, which will include direct damage to property, traffic disruptions 
+and impacts on human health. Several events will be assessed for each scenario in order to calculate 
+the Expected Annual Damage (EAD).  Finally, different flood management strategies or resilience 
+measures will be examined, to assess their effectiveness under different scenarios, thus completing 
+the DPSIR chain. 
+4 EXAMPLE OF SCENARIO DEVELOPMENT AND ITS APPLICATION IN A 
+CASE STUDY CITY 
+The methodology described above was applied to the case study city of Hamburg, Germany. The city 
+of Hamburg is the second -largest city in Germany located at the Elbe estua ry. Two study areas, 
+Wilhelmsburg and Wandse, shown in Figure 1, were chosen as they represent the two dominant flood 
+typologies in Hamburg.  
+ 
+Figure 1 – Map of the two study sites within the Metropolitan Region of Hamburg, Germany 
+Wilhelmsburg is an island in the River Elbe,  and is primarily at risk of flooding due to storm surges. It 
+has an area of 35km 2, and is protected by a 24km long dike ring. A st orm surge event with strong 
+impacts occurred in 1962. Several dike breaches led to a flood disaster affecting wide parts of 
+Wilhelmsburg with more than 300 casualties and causing an overall damage of € 350 Mio (Gönnert et 
+al., 2012). In contrast, Wandse is a small catchment, with an area of 88km2. The Wandse catchment is 
+highly urbanized in its lower reaches , and is at risk from pluvial and fluvial flooding . Extreme rainfall 
+events in Summer 2002 caused an overall damage in Hamburg of more than € 15 Mio (Pasche et al., 
+2008). 
+In the first step to develop scenarios for Hamburg, the shared low, medium, and high growth SSPs 
+described above had to be regionalized. A regional economic growth model employing the national 
+
+
+[[PAGE 9]]
+C3 - T.A / EFFICACITÉ GLOBALE / BMPs & GLOBAL EFFICIENCY 
+8 
+population and GDP projections for Germany (see Table 1) was set up for this purpose. The main 
+driving parameters of this model were identified by a regression analysis of cross-sectional time-series 
+(panel) data of regional employment and productivity by different economic sectors in the past. The 
+model was used to generate projections of population and GDP in the three SSPs. For 2050, and f or 
+the low, medium, and h igh growth pathways, future populations of: 1.735, 1.828, and 1.918 million, 
+and a future GDP of 1.00, 1.19, and 1.40 billion Euros (in 2005 prices) , have been obtained, 
+respectively. The three population projections for Hamburg are shown in Figure 2. 
+ 
+ 
+Figure 2 - Population projections for Hamburg for low, medium and high growth scenarios 
+The developed growth scenarios for Hamburg are in accordance with the SSPs. A coherent narrative 
+was written to explain detailed developments in each scenario. In the low growth scenario, the 
+population declines resulting in a declining land use. There is a trend towards motorized private 
+transport and a decrease in public transport, especially in the outskirts. An increasing number of single 
+person households create the demand for a diversity of housing types. New residential buildings are 
+constructed in open spaces to meet this demand, in spite of a large number of other vacant buildings. 
+Some of these new buildings are located in areas subject to flooding. There is a small number of 
+private protection measures, but, due to low public budgets, governmental adaptation measures are at 
+a minimum, focused on storm surges, and education on the risk of flooding is sparse. 
+The high growth scenario entails a rising population, a high housing demand, and a densification of 
+central urban areas. At large, there is a l oss of open space. Nevertheless, the environmental 
+awareness and the willingness to adapt to a changing climate are high. There are governmental 
+subsidy programs for private adaptation and large -scale infrastructural projects may be undertaken to 
+mitigate or compensate negative effects as a result of sealing pervious areas. The medium growth 
+scenario is in between the low and high growth pathways. Finally, in all scenarios, the level of 
+protection from storm surges of the river Elbe is targeted to be the sa me as today, i.e. a storm event 
+with a rec urrence interval of 1,000 to 10, 000 year (depending on the statistical approach), which, in 
+2050, corresponds to a maximum expected water level of NN + 8.10 m above sea level in Hamburg 
+(Gönnert et al., 2012). 
+Based on these general scenario narratives, more comprehensive and quantitative scenario 
+parameters have to be specified in the two study areas. An urban growth model has been applied in 
+order to derive structural land use changes in the Wandse area. Addition ally, the anticipated changes 
+inherent to certain land use types, such as densification of detached housing or protection of green 
+areas, have been discussed in Fink and Klostermann (2012). They also investigated  the potential for 
+implementing sustainable drainage systems (SUDS) in the Wandse area, i.e. green roofs, swales, an d 
+infiltration ditches. The capacity to deploy such measures is to be determined by scenario parameters. 
+Detailed plans are being prepared and the mitigation effects of different combinations of SUDS are to 
+be tested by hydrological model runs. In a small number of focus areas selected for this purpose, we 
+also examine the effects of decentralized stormwater retention by multi-purpose areas. 
+
+
+[[PAGE 10]]
+NOVATECH 2013 
+9 
+In the Wilhelmsburg study area, a slightly different approach is taken. The International Building 
+Exhibition (IBA) has published the “Future Concept Renewable Wilhelmsburg” (IBA, 2010). They show 
+prototypical development areas at different time steps until 2050. These plans are regarded to be 
+future land use projections and will be used to determine the change in expected annual damages in 
+the event of different extreme storm surges. The events to be investigated have been designed in the 
+XtremRisK project (Oumeraci et al., 2009). All storm surges exceed the existing level of protection and 
+lead to dike failure around the island of Wilhelmsburg. The flooding process of the hinterland was 
+simulated using a hydrodynamic flood model. Based  on the available flood maps, the future flood risk 
+under the IBA scenario and with different timings of resilience measures will be determined. 
+5 CONCLUSIONS 
+This paper has described how in the CORFU project, socio -economic scenarios will be developed as 
+part of a DPSIR framework, to assess the changing pattern of flood risk in case study cities. The 
+changes in flood risk will be assessed through the hydraulic modelling, and changes in the flood  
+extents, intensities and frequencies. The impacts of the result ing floods will be assessed. Resilience 
+strategies are being developed, and will be assessed to evaluate their effectiveness under different 
+futures. This research will e nable flood managers and planners to plan for uncertain futures, and to 
+implement strategies that will make their cities more resilient to flooding. 
+ 
+ACKNOWLEDGMENT 
+Research on the CORFU (Collaborative research on flood resilie nce in urban areas) project was 
+funded by the European Commission through Framework Programme 7, Grant Number 244047. 
+ 
+LIST OF REFERENCES 
+Alcamo, J., Floerke, M., Maerker, M., 2007. Future long-term changes in global water resources driven by   socio -
+economic and climatic changes. Hydrol. Sci. J. 52, 247–275. 
+Arnbjerg-Nielsen, K., 2006. Significant climate change of extreme rainfall in Denmark. Wat.Sci.& Tech. 54, (6/7), 
+1-8. 
+Barthel, R., Janisch, S., Nickel, D., Trifkovic, A., Hoerhan, T., 2010. Using the Multiactor -Approach in Glowa -
+Danube to Simulate Decisions for   the Water Supply Sector Under Conditions of Gl obal Climate Change. 
+Water Resour. Manag. 24, 239–275. 
+DANVA, 2010. En kogebog for analyser af klimaændringers effekter på afløbssystemer – med fokus på 
+oversvømmelser, F&U rapport nr. 5, Dansk Vand - og Spildevandsforening ISBN: 87 -90455-74-6. Available in 
+English under the title: ”Urban Climate Change Guidelines - How to achieve sustainable adaptation in urban 
+areas” January 2012 by DHI, 2012. 
+Djordjević, S., Butler, D., Gourbesville, P., Mark, O., Pasche, E., 2011. New policies to deal with climate change  
+and other drivers impacting on resilience to flooding in urban areas: the CORFU approach. Environmental 
+Science & Policy. 14(7), 864-870 
+Field, C.B., Barros, V., Stocker, T.F., Qin, D., Dokken, D.J., Ebi, K.L., Mastrandrea, M.D., Mach, K.J., Plattner, 
+G.K., Allen, S.K., et al, 2012. Managing the risks of extreme events and disasters to advance climate change 
+adaptation. A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change 
+Cambridge University Press, Cambridge, UK, and New York, NY, USA. 
+Fink, J., Klostermann, N., 2012. Stadt im (Klima -)Wandel. Anpassungsmöglicheiten städtischer Strukturtypen an 
+die Folgen des Klimawandels , [German]. [The c ity in (climate) chan ge - adaptation opportunities for urban 
+structure types to the impacts of climate change].  Diploma Thesis, Hafen City University, Hamburg, Germany. 
+Gersonius, B., Ashley, R., Pathirana, A., Zevenbergen, C., 2010. Managing the flooding system’s resiliency to 
+climate change. Proceedings of the Institution of Civil Engineers-Engineering Sustainability 163, 15–22. 
+Gönnert, G., Gerkensmeier, B., Müller,J. -M., 2012. Ermittlung des Sturmflutbemessungswasserstandes für den 
+öffentlichen Hochwasserschutz in Hamburg. Berichte des Landesbetriebes Straßen, Brücken und Gewässer  
+12 . 
+Hall, J.W., Sayers, P.B., Dawson, R.J., 2005. National -scale assessment of current and future flood risk in 
+England and Wales. Natural Hazards 36, 147–164. 
+Harrison, P.A., Berry, P.M., Henriques, C., Holman, I.P., 2008. Impacts of socio -economic and climate change 
+scenarios on wetlands: linking water resource and biodiversity meta-models. Clim. Change 90, 113–139. 
+IBA, 2010. Energy Atlas. Future Concept: Renewable Wilhelmsburg. Jovis Verlag, Hamburg. 
+Jongman, B., Ward, P.J., Aerts , J.C.J.H., 2012. Global exposure to river and coastal flooding: Long term trends 
+
+[[PAGE 11]]
+C3 - T.A / EFFICACITÉ GLOBALE / BMPs & GLOBAL EFFICIENCY 
+10 
+and changes. Global Environmental Change. 22(4), 823-835. 
+Kriegler, E., O’Neill, B.C., Hallegatte, S., Kram, T., Lempert, R.J., Moss, R.H., Wilbanks, T., 2012. The need for 
+and use of socio -economic scenarios for climate change analysis: A new approach based on shared socio -
+economic pathways. Global Environmental Change 22, 807–822. 
+Krysanova, V., Kundzewicz, Z.W., Pinskwar, I., Habeck, A., Hattermann, F., 2006. Regional socio -economic and 
+environmental changes and their impacts onwater resources on example of Odra and Elbe basins. Water 
+Resour. Manag. 20, 607–641. 
+Makropoulos, C.K., Memon, F.A., Shirley -Smith, C., Butler, D., 2008. Futures: an exploration of scenarios for 
+sustainable urban water management. Water Policy 10, 345–373. 
+Mark, O., Djordjevic, S., 2006. While waiting for the next flood in your city, in: 7th International Conference on 
+Hydroinformatics. Nice, France. 
+Merz, B., Hall, J., Disse, M., Schumann, A., 2010. Fluvial flood risk management in a changing world. Natural 
+Hazards and Earth System Sciences 10, 509–527. 
+Moss, R.H., Edmonds, J.A., Hibbard, K.A., Manning, M.R., Rose, S.K., Vuuren, D.P. van, Carter, T.R., Emori, S., 
+Kainuma, M., Kram, T., Meehl, G.A., Mi tchell, J.F.B., Nakicenovic, N., Riahi, K., Smith, S.J., Stouffer, R.J., 
+Thomson, A.M., Weyant, J.P., Wilbanks, T.J., 2010. The next generation of scenarios for climate change 
+research and assessment. Nature 463, 747–756. 
+Nakicenovic, N., Alcamo, J., Davis , G., de Vries, B., Fenhann, J., Gaffin, S., Gregory, K., Grubler, A., Jung, T.Y., 
+Kram, T., 2000. Special report on emissions scenarios: a special report of Working Group III of the 
+Intergovernmental Panel on Climate Change . Pacific Northwest National Lab oratory, Richland, WA (US), 
+Environmental Molecular Sciences Laboratory (US). 
+Oumeraci, H., Jensen, J., Gönnert, G., Pasche, E., Kortenhaus, A., Naulin, M., Wahl, T., Thumm, S., Ujeyl, G., 
+Gershovich, I., Burzel, A., 2009. Flood risk analysis for a megacit y: The German XtremRisK project. Road 
+Map towards a Flood Resilient Urban Environment. Paris, France. 
+Paludan, B., Brink -Kjær, A., Nielsen, N.H., Linde, J. J., Jensen, L.N., Mark, O. , 2010  Climate change 
+management in drainage systems – A “Climate Cookbook” for adapting to climate changes. Novatech, France 
+2010. 
+Parry, M.L., Canziani, O.F., Palutikof, J.P., van der Linden, P.J., Hanson, C.E., 2007. IPCC, 2007: Climate 
+change 2007: impacts, adaptation and vulnerability. Contribution of working group II to the fourth assessment 
+report of the intergovernmental panel on climate change. Cambridge University Press, Cambridge. 
+Parson, E.A., 2008. Useful global -change scenarios: current issues and c hallenges. Environmental Research 
+Letters 3, 045016. 
+Pasche, E., Manojlovic, N., Behzadnia, N., 2008. Floods in Small Urban Catchments: Hydrological Sensitivity, 
+Risk Assessment and Efficient Integrative Strategies of Mitigation. 11th International Confere nce on Urban 
+Drainage (ICUD 2008), Edinburgh, UK. 
+Peterson, T.C., Zhang, X., Brunet -India, M., Vázquez -Aguirre, J.L., 2008. Changes in North American extremes 
+derived from daily weather data. J. Geophys. Res 113, D07113. 
+Poussin, J.K., Bubeck, P., Aerts, J ., Ward, P.J., 2012. Potential of semi -structural and non -structural adaptation 
+strategies to reduce future flood risk: case study for the Meuse. Nat. Hazards Earth Syst. Sci 12, 3455–3471. 
+Schelfaut, K., Pannemans, B., van der Craats, I., Krywkow, J., Mys iak, J., Cools, J., 2011. Bringing flood 
+resilience into practice: the FREEMAN project. Environmental Science & Policy 14, 825–833. 
+Semadeni-Davies, A., Hernebring, C., Svensson, G., Gustafsson, L.-G., 2008. The impacts of climate change and 
+urbanisation on drainage in Helsingborg, Sweden: Combined sewer system. J. Hydrol. 350, 100–113. 
+United Nations Department of Economic and Social Affairs/Population Division, 2012. World Urbanization 
+Prospects: The 2011 Revision. United Nations, New York. 

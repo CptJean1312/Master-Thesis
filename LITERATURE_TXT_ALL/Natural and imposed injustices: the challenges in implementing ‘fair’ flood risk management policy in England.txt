@@ -1,0 +1,2046 @@
+[[PAGE 1]]
+ 
+The Geographical Journal
+ 
+, Vol. 
+ 
+173
+ 
+, No. 4, December 2007, pp. 374–390
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+0016-7398/07/0002-0001/$00.20/0  © 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+Blackwell Publishing Ltd
+ 
+Natural and imposed injustices: the challenges 
+in implementing ‘fair’ flood risk management 
+policy in England
+ 
+CLARE JOHNSON, EDMUND PENNING-ROWSELL AND DENNIS PARKER
+ 
+Flood Hazard Research Centre, School of Health and Social Science, Middlesex University, 
+Queensway, Enfield EN3 4SA
+E-mails: c.johnson@mdx.ac.uk; e.penning-rowsell@mdx.ac.uk; d.parker@mdx.ac.uk
+ 
+This paper was accepted for publication in September 2007
+ 
+This paper examines the challenges facing English flood risk management (FRM) policy
+and practice when considering 
+ 
+fair
+ 
+ decision-making processes and outcomes at a range
+of spatial scales. It is recognised that flooding is not fair 
+ 
+per se
+ 
+: the inherent natural
+spatial inequality of flood frequency and extent, plus the legacy of differential system
+interventions, being the cause. But, drawing on the three social justice models –
+procedural equality, Rawls’ maximin rule and maximum utility – the authors examine the
+ 
+fairness 
+ 
+principles currently employed in FRM decision-making. This is achieved, firstly,
+in relation to the distribution of taxpayer’s money for FRM at the national, regional and
+local levels and, secondly, for non-structural strategies – most notably those of insurance,
+flood warnings and awareness raising, land use control, home owner adaptation and
+emergency management. A case study of the Lower Thames catchment illustrates the
+challenges facing decision-makers in ‘real life’: how those strategies which appear to be
+most technically and economically effective fall far short of being 
+ 
+fair
+ 
+ from either a
+vulnerability or equality perspective. The paper concludes that if we are to manage flood
+risk somewhat more 
+ 
+fairly
+ 
+ then a move in the direction of government funding of
+nationally consistent non-structural strategies, in conjunction with lower investment
+decision thresholds for other local-level FRM options, appears to offer a greater
+contribution to equality and vulnerability-based social justice principles than the status quo.
+ 
+KEY WORDS
+ 
+: England; flood risk management; fairness; social justice; equity; policy
+ 
+Introduction
+ 
+S
+ 
+ince the major floods of 1998 and 2000, flood
+risk management (FRM) in England has undergone
+a significant change in ideology. This change
+could not be more radical (Johnson 
+ 
+et al.
+ 
+ 2004
+2005), from a strategy dominated by urban, scheme-
+specific flood defence [Ministry of Agriculture,
+Fisheries and Food (MAFF) 1993] to one focused
+on managing both flood probabilities and con-
+sequences (Table 1). Almost everything is now
+changing, from high-level strategy and decision
+processes – as evidenced in 
+ 
+Making space for water
+ 
+(MSW) [Department for the Environment, Food
+and Rural Affairs (Defra) 2004 2005a 2005b]
+(Table 2) – to regional level planning processes, as
+evidenced in the Environment Agency’s (EA) 
+ 
+Strategy
+for flood risk management 2003/4 to 2007/8
+ 
+ (EA
+2003a).
+Whilst these changes are welcome, the practical
+reality of implementing such strategies at a regional/
+local level is proving more difficult. Similarly, the
+embodiment of the principles of sustainability and
+equity into policy goals has, as elsewhere in the
+world of water politics (e.g. Gleick 1998; Wolf
+1999; Boelens 1998; Syme 
+ 
+et al.
+ 
+ 1999; Syme and
+Nancarrow 2001; Tisdell 2003), unearthed a number
+of questions about meaning, practical implementation
+and whose definitions count as to what is 
+ 
+just, fair
+ 
+and 
+ 
+equitable
+ 
+.
+Currently, some 1.8 million houses are exposed
+to flood risk in England (Defra 2006a) with the
+
+[[PAGE 2]]
+ 
+‘Fair’ flood risk management policy in England
+ 
+375
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+management of this risk being funded largely by
+the other 29.5 million tax payers (HM Revenue and
+Customs 2006). This funding structure means that
+any assessment of the 
+ 
+fairness
+ 
+ of decision processes
+and outcomes must include not only those at risk
+of flooding but also those providing the resources:
+the taxpayer. In this respect, to date, it has been the
+efficient use of taxpayer’s money that has been the
+dominant factor guiding government decisions.
+The question now, given the move from flood defence
+to FRM plus the increased emphasis on issues of
+sustainability and equity (Table 2), is whether the
+current approach to FRM which prioritises the 
+ 
+fair
+ 
+distribution of taxpayer’s money on the grounds of
+economic efficiency is the most appropriate model
+of social justice to apply. Or, should decision-makers
+be seeking a decision-making model which shifts
+the focus away from 
+ 
+fairness 
+ 
+for taxpayers towards
+a model that provides greater emphasis on the
+ 
+fairness
+ 
+ concerns of those at risk?
+Table 1 Post-war flood policy in England and Wales
+Belief system Land drainage (WWII–1970s) Flood defence (1980s–1990s) Flood risk management (2000s–)
+Nature of 
+humans
+Humans have dominion over 
+nature. Land is there for 
+human use
+Humans have dominion over nature 
+(power and right to exercise it)
+Humans are part of nature, not 
+superior to it. Nature has intrinsic 
+value
+Priority of 
+values
+Priority on agricultural 
+productivity and food security 
+within the national economic 
+context
+Priority on economic growth, 
+national security and welfare 
+standards
+Ecological and environmental 
+values should be viewed on par 
+with economic growth, national 
+security and welfare standards
+Fundamental 
+policy position
+To improve and protect 
+agricultural land from flooding
+To defend people and property from 
+flooding
+To manage flood risks equitably and 
+in accordance with the principles of 
+ecologically sustainable development
+Basic policy 
+mechanism
+Investment in land drainage 
+and rural flood defence
+Investment in urban flood defence 
+and flood alleviation schemes 
+according to national priority criteria 
+and economic appraisal processes
+A focus on decisions that satisfy 
+social and economic needs whilst 
+maintaining the ecosystem 
+enhancement
+Source: Johnson et al. (2005)
+Table 2 Key principles underlying the new approaches to flood and coastal erosion risk management
+Managing risk from all sources of flooding which, in addition to coastal and fluvial flooding, also includes pluvial,
+groundwater and sewer flooding. This is in accordance with the suggestions made in the Foresight programme (Evans
+et al. 2004), and will require significant developments in our understanding and mapping of these risks and a clarification
+of the roles and responsibilities of the various stakeholders involved.
+Adopting a risk-driven, rather than a project-driven, approach to managing floods, requiring better and more
+reliable information at the catchment scale as well as a greater understanding of the main drivers for increasing risk
+Seeking multi-functional benefits from flood and coastal risk management interventions, particularly with respect to
+water quality and water resources, consistent with the requirements of the Water Framework Directive
+Considering a wide range of risk management options, and a wide range of techniques and decision-making
+processes, to better account for the social and environmental consequences of flooding
+Emphasizing the social pillar of sustainable development by extending the risk management tools such that flood
+risk management decision processes take account of social justice and equity issues as required under the
+government’s sustainable development and sustainable communities strategies (HM Government 2005)
+Enhancing the clarity of the social and environmental consequences of flood and coastal erosion in the decision-
+making process
+Source: Penning-Rowsell et al. (2006)
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+ 
+376
+ 
+‘Fair’ flood risk management policy in England
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+Such a shift would require greater weight to be
+given to issues of procedural equality and to addressing
+the needs of those most vulnerable to flooding –
+something which researchers in risks and hazards
+have long since argued (e.g. Blaikie 
+ 
+et al.
+ 
+ 1994;
+Wisner 
+ 
+et al.
+ 
+ 2004; Cutter 2006). Certainly the recent
+upsurge in flood risk vulnerability and environmental
+inequality research in England would suggest that
+support for such a shift is gathering pace (Walker 
+ 
+et
+al.
+ 
+ 2003; Fielding and Burningham 2005; Fielding
+ 
+et al.
+ 
+ 2005a 2005b; Burningham and Thrush 2001).
+In line with this, the analysis in this paper is
+concerned, firstly, with exploring the 
+ 
+fairness
+ 
+ principles
+embodied in current policy and practice of FRM in
+England. Secondly, given this reality, the paper
+explores the technical and economic feasibility of
+incorporating a greater emphasis on equality and
+vulnerability in decision processes and outcomes.
+To do so, the paper begins by providing a brief
+overview of the vast literature on social justice,
+simplifying the main threads of this thinking into
+five different forms – each with its own conceptual-
+isation of 
+ 
+fair
+ 
+ FRM. Focusing on those models
+which appear to offer the greatest explanatory gain
+in the FRM context – procedural equality, Rawls’
+maximum rule and maximum utility – the paper
+evaluates the extent to which the current system of
+FRM adheres to the justice principles embodied
+in these models at all levels of decision-making:
+national processes, regional planning, and the local
+(project) level. This requires an examination of the
+implied criteria in government policy and guidance
+as well as more project-specific decision rules. It
+also requires the examination of the 
+ 
+fairness
+ 
+ criteria
+employed in the implementation and management
+of non-structural strategies. By way of illustration of
+the complex realities of implementing FRM at the
+local/regional level, the authors also use the ongoing
+debates concerning the Lower Thames Strategy to
+highlight some of the entrenched difficulties which
+exist when thinking about 
+ 
+fair 
+ 
+FRM in ‘real life’.
+ 
+A brief overview of issues of social justice
+ 
+Almost all contemporary debates about social justice
+depend on which of the principles of justice,
+within some given geographic unit of society, are
+regarded as necessary either for a 
+ 
+fair
+ 
+ distribution
+of ‘goods’ and ‘bads’ (distributional justice) or a
+ 
+fair
+ 
+ decision-making process through which this
+distribution comes about (procedural justice). Add
+to this the important time dimension, which issues
+of sustainability bring to bear, and an additional
+element of complexity emerges: 
+ 
+inter-generational
+fairness
+ 
+. This complexity is further compounded by
+the varied language of discourse across philosophical
+traditions, with issues of 
+ 
+fairness, justice and equity
+ 
+being used interchangeably often without any clear
+definitional differentiation between the terms. For
+clarity, discussions in this paper will be embedded
+in the language of 
+ 
+fairness
+ 
+.
+For simplicity of explanation, the five most influ-
+ential philosophical traditions of social justice can
+be categorised as 
+ 
+utilitarianism, pluralism, egalitar-
+ianism, libertarianism 
+ 
+and 
+ 
+Rawlsian
+ 
+. Each of these
+is founded on very different moral beliefs about
+what makes society just. For 
+ 
+utilitarians
+ 
+ (e.g. Mill
+1863) society is just if it maximises the total potential
+happiness of society as a whole through the aggrega-
+tion of individual happiness. For 
+ 
+pluralists
+ 
+ (e.g. Walzer
+1983; Miller 1999) a multi-dimensional approach is
+necessary which evaluates each of the ‘goods’ and
+‘bads’ to be distributed, and the process through
+which this should occur, according to its own
+criteria and historical cultural particularism. For
+ 
+egalitarians
+ 
+ (e.g. Sen 1992), society is just provided
+institutions ensure equality of opportunity in the
+distribution of resources across society and the
+treatment of individuals. For 
+ 
+liberatarians
+ 
+ (e.g.
+Hayek 1944; Nozick 1974) free market mechanisms
+are all important and for 
+ 
+Rawlsians
+ 
+ (Rawls 1971
+2001), provided basic liberties and fair equality
+of opportunity are guaranteed, inequalities are only
+justified where they are to the greatest benefit of
+the least advantaged.
+These philosophical traditions manifest themselves
+as a number of justice principles that, in turn,
+influence which decision rules are regarded as the
+most appropriate to apply when distributing resources
+across society – should resources be distributed on
+the basis of rights, needs, deserts, merits, interests,
+equality or some other notion? Such questions have
+a long history of philosophical debate which cannot
+be covered in the brief overview here [see Miller
+(1999) and Swift (2001) for a useful account]. How-
+ever, it is important to be clear about the links between
+this philosophical tradition and the justice principles
+which appear, on paper, to offer the greatest
+explanatory gain in the FRM context.
+Table 3 illustrates the three 
+ 
+fairness 
+ 
+principles
+evaluated in this paper. The first – procedural
+equality – finds its roots in 
+ 
+egalitarianism
+ 
+ and is a
+useful justice principle for FRM because of its close
+association with issues of participation and stake-
+holder engagement. The second – the maximin rule
+– is a 
+ 
+Rawlsian 
+ 
+justice principle and is useful for
+FRM because it specifically addresses issues of vulner-
+ability; a critical concept in the FRM discourse
+(Wisner 
+ 
+et al.
+ 
+ 2004; Cutter 2006). Finally, the 
+ 
+utili-
+tarian 
+ 
+concept of maximum utility is included
+because it provides the mechanism for evaluating
+the 
+ 
+fairness
+ 
+ of resource distribution when applied
+to the dominant model of FRM project appraisal – the
+benefit : cost approach.
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+ 
+‘Fair’ flood risk management policy in England
+ 
+377
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+Ultimately, therefore, the approach is 
+ 
+pluralistic
+ 
+drawing on the premise that FRM needs to be
+beneficial to the nation as a whole (i.e. maximises
+total utility), needs to ensure that all those at risk of
+flooding have an equal opportunity of having their
+flood risk managed by the state (i.e. procedural
+equality), and that the distribution of resources
+should target those most vulnerable to flooding (i.e.
+Rawls’ maximum rule). In this sense, it is norma-
+tive, because no government could maximise the
+allocation of resources for FRM, using all three
+principles, without a detrimental effect on other
+societal needs; a greater share of public revenue
+for FRM means a lesser share for education, health,
+etc. That said, if a 
+ 
+pluralist
+ 
+ approach is to be
+adopted, then a 
+ 
+fair
+ 
+ system of resource allocation
+for FRM would draw on those elements of each
+principle which, in the FRM context, appear to
+offer the maximum potential for 
+ 
+fair
+ 
+ outcomes and
+processes at all spatial scales – both for the
+taxpayer and those at risk. Of the three justice
+principles in Table 3, only the principle of equality
+of opportunity directly relates to procedural justice.
+The other two are based on the outcomes of
+decisions (distributive justice) as determined by the
+rules applied.
+ 
+The changing flood risk policy framework
+ 
+The policy framework within which FRM decisions
+are made has undergone a significant transforma-
+tion since the turn of the century (Table 1). More
+recent changes have been influenced by both
+incremental changes in policy, and the catalytic
+influences of the 1998 and 2000 floods, such that
+flood policy is no longer concerned with flood
+defence 
+ 
+per se
+ 
+ but is inclined towards a more
+holistic, strategic, multi-method and integrated
+approach to land and water management (Johnson
+ 
+et al.
+ 
+ 2004 2005; Tunstall 
+ 
+et al.
+ 
+ 2004) (Table 2).
+This has been underpinned by the embodiment
+of the principles of sustainable development
+in government policy more generally [e.g. HM
+Government 2005; Office of the Deputy Prime
+Minister (ODPM) 2003a], the influence of formal
+legislative requirements such as the Water
+Framework Directive (European Union 2000), the
+Aarhus Convention on stakeholder engagement
+and the EU Habitats and Bird’s Directive [ European
+Communities (EEC) 1992], and a wealth of
+research which predicts a future characterised by
+significantly increased flood and coastal erosion
+risks (e.g. Hall 
+ 
+et al.
+ 
+ 2003a; Evans 
+ 
+et al.
+ 
+ 2004).
+Incrementally, at least, this has led to a new
+language of discourse which, as evident elsewhere
+in Europe (van Haegen 2005), argues that society
+must ‘live with floods’ (Institute of Civil Engineers
+2001), ‘prepare for floods’ (ODPM 2002), ‘make
+space for water’ (Defra 2004) and ‘live with risk’
+[United Nations/Inter-agency secretariat of the
+International Strategy for Disaster Reduction (UN/
+ISDR) 2004].
+Table 3 Collective-choice fairness principles for FRM
+Justice principle 
+(type) Rule/criteria
+Meaning for flood risk 
+management
+Potential implications 
+for flood risk management
+Equality 
+(procedural)
+All citizens to be 
+treated equally
+Every citizen should have 
+the equal opportunity to 
+have their flood risk 
+managed
+A greater focus on vulnerability reduction and 
+state-sponsored self-help adaptations for those 
+citizens for whom economic analysis will never 
+justify large-scale capital expenditure in managing 
+their flood risk
+Maximin rule 
+(distributive)
+Options chosen to be 
+those that favour the 
+worst-off best
+Resources should be 
+targeted to the most 
+vulnerable
+Need to identify, and target assistance at, the 
+most vulnerable members of society. This will 
+require a range of adaptation options which are 
+not necessarily focused on protecting areas of 
+highest asset value
+Maximise utility 
+(distributive)
+Options chosen to be 
+those that secure the 
+greatest risk reduction 
+per unit of resource 
+input
+Assistance provided to 
+those members of society 
+to which the benefits offer 
+the greatest gain to society
+This is the current appraisal process, illustrated 
+by the prioritisation score. The option selection 
+should be broader than those associated with 
+traditional high-cost flood protection works. The 
+greatest risk reduction, for the neediest, may be 
+provided, for example, by state-assisted self-help 
+homeowner adaptation options
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+ 
+378
+ 
+‘Fair’ flood risk management policy in England
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+The government’s embracing of this new flood
+doctrine is evident in the latest government strategy
+MSW. From its initial consultation in 2004 ( Defra
+2004), through to the resulting first policy
+response (Defra 2005a) and delivery plan (Defra
+2005b), this process has been indicative of the
+changing policy framework which seeks a different
+model of FRM than that which has preceded it. The
+policy vision aims for decision processes and
+outcomes to move away from managing risks on a
+project-by-project basis towards a catchment
+approach in the management of all fluvial, pluvial,
+sewer and groundwater flooding. It seeks more
+transparent and accountable decision processes
+which allow for longer term risk drivers such as
+climate change, urbanisation, increasing wealth
+and social factors.
+To achieve this, a more balanced approach to
+decision-making is required using an integrated
+portfolio of approaches at local, regional and
+national scales which better reflect the social
+and environmental dimensions of sustainable
+development and the importance of stakeholder
+involvement. The ultimate objective is to reduce
+the threat to people and their properties and to
+deliver ‘the greatest environmental, social and
+economic benefit, consistent with the Govern-
+ment’s sustainable development principles’ (Defra
+2005a, 11).
+When compared with our three social justice
+criteria (Table 3), the policy aspirations found in
+MSW are suggestive of a desire to move further
+towards greater equality of opportunity in the
+implementation of risk management options,
+particularly for those who do not currently justify
+protection by capital-intensive engineering schemes.
+The more general focus on social justice and
+sustainability as a policy goal, in conjunction with
+the citing of the expansion of non-structural
+measures such as flood warnings, awareness raising
+and the promotion of resistance and resilience
+measures as possible risk management tools, is
+illustrative of this (Defra 2005a, 20). However, as
+MSW itself recognises, this will ask searching
+questions of current funding arrangements and risk
+management tools which, at one extreme, would
+require a change in appraisal guidance whilst, at
+the other, may necessitate a change in legislation.
+From a vulnerability perspective, there is no
+evidence of specific policy intentions for targeting
+resources or risk management options for the most
+vulnerable groups in flood risk areas.
+What has been accepted is the validity in principle
+of this ‘new’ discourse by the operating authorities,
+although questions remain as to the acceptance of
+this approach in society more generally – not least
+because of the greater responsibility and accounta-
+bility it places on the individual. It is important to
+note, however, that whilst the language is chang-
+ing, the debates about what should be done remain
+dominated by the ‘usual suspects’ (e.g. climate
+change, development control, institutional ‘fit’, the
+role of state vs. the individual, cross-policy integra-
+tion, and the importance of non-structural measures)
+(Penning-Rowsell 
+ 
+et al.
+ 
+ 2006). In other words, the
+new FRM ideology has yet to result in any radical
+‘out of the box’ thinking even though, as the MSW
+policy has indicated, the building blocks for such
+innovation are now in place.
+This is not because of any lack of desire on the
+part of the government. It is because policy has
+only recently moved into the second phase of the
+FRM change process – one which argues not that
+society 
+ 
+must
+ 
+ ‘live with floods’ or ‘make space for
+water’ but debates 
+ 
+how
+ 
+ can society ‘live with
+floods’ and ‘make space for water’. It is this shift
+from the policy ideals set out in MSW (Defra 2004
+2005a) to a more reality-driven implementation
+and delivery phase of the MSW policy doctrine
+(Defra 2005b) which is now of concern.
+Implementing this new flood doctrine brings to
+the fore questions about how decisions 
+ 
+should
+ 
+be made and how resources 
+ 
+should
+ 
+ be distributed
+if the ideology of MSW is to be embraced into
+day-to-day decisions. In so doing, this highlights
+questions of 
+ 
+fairness 
+ 
+because it requires the decision-
+making processes and resultant outcomes to be
+much more transparent and accountable not just
+for those paying for FRM (the taxpayers) but also
+for those being asked to ‘make space for water’
+(i.e. those at risk of flooding or owning floodplain
+land). The question now is how far can the norma-
+tive ideals set out in MSW, and/or the normative
+ideals set out in Table 3, be implemented in reality
+given the current FRM system of decision-making
+in England.
+ 
+Structural works for flood defence
+ 
+Water resources management of all kinds has a
+tendency to be capital intensive (Green 2003). This
+means that the delivery of policy outcomes is
+dominated by the approaches and methods used
+to appraise the plans and projects that comprise
+the ongoing programme of capital expenditure.
+In England, this appraisal process ‘drives’ the
+decisions regarding the c. £500 m spent annually
+on FRM (Defra 2006a; Figure 1). The process is multi-
+layered and each stage is complemented by complex
+arrangements for stakeholder engagement and is
+framed within a system of formal decision rules.
+The different levels of this process, and the
+ 
+fairness
+ 
+ principles that they embody, are discussed
+below.
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+ 
+‘Fair’ flood risk management policy in England
+ 
+379
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+The national level decision process
+ 
+Since 2004 the EA has received a ‘block grant’
+annually from Defra (Figure 1), determined as part
+of Defra’s annual expenditure allocated by the
+Treasury as part of Whitehall’s public expenditure
+programme. In exchange, the EA agrees to meet
+certain high level targets and its 
+ 
+Spending review
+2004
+ 
+ target of managing flood and coastal erosion
+risk ‘so as to contribute to sustainable development,
+including minimising loss of life and improving the
+standard of protection for at least 100,000 households’
+(Defra 2006a). The block grant system replaced a
+regionally based levy on local authorities combined
+with Defra grant-in-aid tied to specific projects
+(MAFF 1993).
+The Defra priority score system is the mechanism
+for controlling this expenditure, despite Defra
+agreeing that the EA ‘decides how to spend the
+money to best achieve the outcomes agreed by Defra’
+(Defra 2006b). The scoring system is designed to
+prevent projects entering the funding process
+unless they pass a threshold based on their likely
+economic, social and environmental performance.
+Defra (2006b) sees this as a fair and objective
+system’ and that prioritisation is necessary since ‘it
+is not possible to justify defending all locations to
+the same standard or at all in some cases’ (Defra
+2006a, 2).
+Careful analysis of the scoring system (Table 4)
+shows that whilst it does not appear to be
+dominated by the benefit : cost economic utility
+criterion (because the social and the environment
+scores could, in theory, outweigh the benefit : cost
+component), in practice the results are determined
+by whether a project achieves a benefit : cost score
+of at least 5.0 : 1. As public expenditure projects,
+therefore, FRM spend gives very high returns on
+the investment incurred, probably the best across
+all Whitehall Departments (Richardson 2006,
+personal communication; ABI 2006a).
+When compared with our three social justice
+criteria, targeting the most vulnerable and delivering
+procedural equality is not the aim here. Indeed,
+Defra clearly states that ‘there is no statutory right
+to levels of protection. Individuals and communities
+will have variable standards of defence according
+to geography, the operating authorities’ different
+approach and priorities, and the varying ratio of
+benefits and costs from providing particular defences’
+(Defra 2006a, 2). Utility considerations therefore
+dominate these decisions, albeit with some flexibility
+in decision-making so that other social and
+environmental considerations are not completely
+ignored.
+Table 4 The elements of Defra’s priority scoring system 
+Element Contributions to the score total
+Economics benefit : cost 
+ratio <1
+benefit : cost 
+ratio 1.0–10.5
+benefit : cost 
+ratio >10.5
+Economics score 
+(max = 20)
+0 1–20 on linear 
+scale
+20
+People Base score Very high-risk area High-risk area Vulnerability add-on
+People score 
+(max = 12)
+75 × number properties/cost 
+(£k) (max score = 8)
++2 +1 –2 to +2
+Environment SSSI protected National BAP gain Grade I or II* heritage 
+site protected
+Grade II or other 
+heritage site protecte
+d
+Environment score 
+(max = 12)
+25 × area (ha) 
+× 1.5/cost (k)
+25 × area (ha) 
+× 2.0/cost (k)
++2 +1
+Source: Defra (2006a)
+Figure 1 Total central and local government expenditure on 
+flood and coastal erosion risk management
+Source: Defra (2006a)
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+ 
+380
+ 
+‘Fair’ flood risk management policy in England
+ 
+Geographical Journal
+ 
+ Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ 
+The regional level planning process
+ 
+Through its 
+ 
+Corporate strategy
+ 
+ and its 
+ 
+Strategy for
+flood risk management 2003/4 to 2007/8
+ 
+ the EA’s
+investment priorities are formulated within a risk-
+based approach to FRM whereby resources and
+efforts are targeted at the locations or communities
+where the greatest benefits can be achieved (Hall
+ 
+et al.
+ 
+ 2003b). In this context, each EA catchment-
+based region (e.g. Anglia; Thames) is charged with
+developing a capital expenditure programme based
+on a catchment flood management plan (CFMP)
+(EA 2006a). These CFMPs ‘aim to encourage an
+integrated, sustainable and strategic approach to
+the management of flood risk in river catchments’
+(EA 2006a, 3) by identifying locations where flood
+mitigation interventions are most likely to be
+viable. The methodology – which is evolving – is
+based on a modelling and decision support frame-
+work (MDSF) that uses a hierarchy of methods
+developed by HR Wallingford (Hall et al.  2003b);
+the intermediate level method (ILM) has been
+developed for applying to catchment/coastal cells
+at a regional scale.
+The key point here is that MDSF is almost
+entirely concerned with the simplest analysis of the
+economic impacts of FRM strategies. Admittedly, a
+social flood vulnerability index (Tapsell et al. 2002)
+is embedded within the MDSF, but the practition-
+ers undertaking the CFMPs have no clear direction
+or understanding as to how these results should be
+used (Chatterton 2006, personal communication).
+The CFMPs that are emerging represent a dominantly
+utilitarian approach, using narrowly defined economic
+criteria, to select areas for subsequent attention and
+investment. This is somewhat contrary to the trends
+in MSW at the national level.
+The project (local) level decision process
+In terms of actual FRM interventions, as opposed to
+plans, it is the appraisal of local projects/schemes
+that really counts. Institutionally, it is the Regional
+Flood Defence Committees and regional staff of
+the EA who select flood defence schemes to put
+forward to a national scrutiny system. Two sets of
+advice from Defra determine the fate of such schemes
+in this ‘sieving’ process: the so-called PAG series of
+Project Advisory Guidance (e.g. MAFF 1999), and
+the Defra Priority Scoring system (see above).
+The PAG series sets out how projects should be
+appraised and, in particular, the way that the
+benefit : cost analysis of FRM schemes should be
+undertaken. Whilst PAG3 (MAFF 1999) stresses that
+decisions should not be made solely on narrow
+economic criteria, in practice it is the analysis of
+flood damages avoided that dominates the PAG3
+process (Johnson et al. 2007). Here, an incre mental
+approach is taken to select the scheme option
+that maximises the ratio of benefits to costs and, in
+turn, examines the incremental change in benefits
+and costs with progressively higher design standards.
+This stepwise approach represents a major change
+from the previous system, whereby a scheme
+simply had to pass the benefit : cost test itself to be
+considered viable (i.e. with a benefit : cost ratio
+>1.0), and it represents a significant tightening of
+the economic ‘screw’.
+In practice, therefore, for an engineering scheme
+to be implemented within the EA’s annual capital
+programme for FRM it has to have a benefit : cost
+ratio of approximately 5 : 1, which is enormous by
+historical standards (Penning-Rowsell et al.  2005). It
+also has to have a Defra priority score of greater than
+20 (implying a strong benefit : cost element to that
+score) (Table 5), and the design itself must achieve a
+strongly positive benefit : cost result over and above a
+scheme at the same location with a lesser design
+standard. Additionally, of course, the scheme must be
+supported by local stakeholders and have limited
+adverse environmental consequences.
+Since 2003, however, Defra has required all
+project appraisals to address issues of socio-economic
+equity, by considering distributional impacts  where
+it is necessary and practical to do so (HM Treasury
+2003). This is a subjective process, intended to
+counter the ‘risk of a catchment-wide strategy
+having a socially unfair outcome’ (Defra 2003, 3).
+Appraisals are required to apply weighted factors
+(which provide for positive and negative adjust-
+ments in favour of the low and high social classes,
+respectively) to standard depth–damage curves
+(Penning-Rowsell et al. 2005) so that the less well-off
+are now no longer disadvantaged in the benefit : cost
+test (HM Treasury 2003). In reality, however, the
+extent to which this offers equality of outcome
+depends on the scale of analysis being investigated.
+Outcomes may appear ‘more equal’ at the local
+level but this equality is diminished over space and
+time because any intervention which alters ‘with
+scheme’ risk levels influences negatively the relative
+risk of those ‘without’.
+Therefore, the decision-making process currently
+‘driving’ the annual FRM spend in England has
+limited consideration for issues of equality. In
+terms of procedural equality, only those schemes
+with a high benefit : cost score have any chance of
+being considered for funding. Indeed, this system is
+designed to exclude, not include, projects from the
+funding processes. Where attempts have been
+made to include equality, these are in terms of
+outcome equality through the application of distri-
+butional impacts . However, this process is both
+locally subjective and ultimately ineffectual at a
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+‘Fair’ flood risk management policy in England 381
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+national level – thus making outcome equality an
+unobtainable and unrealistic goal. Similarly, the
+current decision-making system does not specifi-
+cally target those most vulnerable to flooding. The
+dominant criteria used in the decision process remain
+unambiguously designed to maximise utility. Only
+if designated environmental sites are to be protected
+do other criteria hold sway.
+The challenges in practice: the case of the 
+Lower Thames
+Only a real example shows the difficulty of finding
+fair FRM strategies. It demonstrates – additionally –
+that the viability of flood mitigation schemes is
+highly place specific.
+The reach of the River Thames between Windsor
+and the tidal limit at Teddington lock has a large
+floodplain occupied by 13 100 properties (within
+the 1 : 200-year flood outline). The last major flood
+occurred in 1947 (Barker 1948), since when the
+floodplain has been increasingly urbanised despite
+land use planning restrictions (Howe and White
+2001). Lengthy investigations (Sir William Halcrow
+& Partners Ltd 1990 1992; Halcrow Group Ltd &
+Babtie Brown and Root 2004) have sought schemes
+to alleviate the flood risk here in recognition of the
+seriousness of a repeat of this event or the more
+extreme flood that occurred in 1894. Minor flooding
+in 2003, affecting some 200 properties, gave a
+foretaste of what will inevitably come.
+This is probably the largest concentration of
+unprotected flood-prone properties in England. Yet,
+immediately upstream, the towns of Maidenhead,
+Eton and Windsor are protected by a large bypass
+channel, constructed in the 1990s with a target
+design standard of 1 : 65 years, although the stand-
+ard achieved appears to be somewhat lower
+(National Audit Office forthcoming). Immediately
+downstream, the centre of London is protected
+from flooding from the North Sea by the Thames
+Barrier (Horner 1972) to a standard of more than
+1 : 1000 years. In between these two, the Windsor–
+Teddington reach is only protected from flooding
+to the extent that the navigational structures on
+the Thames regulate its flow, and out-of-bank
+flooding occurs at a return period of approximately
+1 : 10 years rather than more frequently. Clearly
+the risk of flooding in the three areas is significantly
+different and this difference, at this spatial scale, is
+directly a result of the actions of the agencies of
+the state.
+To correct this, at least to some extent, plans
+have been developed for flood mitigation actions
+in the Lower Thames reach, involving the appraisal
+of further bypass channels and a selection of
+complementary non-structural measures. The aim
+of the Lower Thames appraisal (Halcrow Group Ltd
+& Babtie Brown and Root 2004) was to identify
+flood mitigation options that would protect as
+many people and properties as possible, to as
+high a standard as possible, commensurate with
+Table 5 The results of the appraisal of major engineering options for flood mitigation in the Lower Thames
+Option 1 Option 2 Option 3 Option 4
+Scheme summary Diversion channels 
+1, 2 and 3 plus dredging 
+the Staines reach
+Diversion 
+channels 1, 2 
+and 3 only
+Diversion channels 
+2 and 3 plus dredging 
+of Bell Weir reach
+Diversion 
+channels 
+2 and 3
+Total cost (£m) 225 200 143 108
+Cost: benefit ratio 1 : 3.02 1 : 3.10 1 : 3.51 1 : 4.27
+Number of properties 
+taken out of high 
+risk (1 : 20 years)
+2891 2764 2441 2295
+Number of properties 
+taken out of insurance 
+embargo area (1 : 75 years)
+5302 4725 3435 3249
+Cost per property protected 
+(£) (taken out of insurance 
+embargo area)
+42 400 42 300 41 600 33 200
+Defra priority score 11 12 13 15
+Properties left unprotected 
+(%) (1 : 75 years)
+59 64 74 75
+Source: Halcrow Group Ltd et al. (forthcoming)
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+382 ‘Fair’ flood risk management policy in England
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+adherence to Defra’s appraisal guidance (MAFF
+1999).
+A wide-ranging search for economically viable,
+environmentally sensitive and ‘socially acceptable’
+measures has shown that upstream flood storage
+would have negligible effects on flood levels here
+at the lowest point of the fluvial catchment and
+would only mitigate the most minor of floods
+(Halcrow Group Ltd & Babtie Brown and Root
+2004). In terms of removing extreme flood water
+levels from the floodplain, the most technically
+effective measures would be systems of bypass
+channels designed to increase in-bank conveyance
+(Figure 2). These would be effective for floods of
+all return periods and have only a very minor effect
+in raising flood levels downstream. The proposals
+developed in 2006 mirrored those developed
+more than a decade earlier and rejected then on
+benefit : cost grounds (Sir William Halcrow &
+Partners Ltd 1992).
+However, there are both technical and spatial
+planning problems. Bypass channels have to bypass
+locks, to create gradient to generate their flood
+discharge. They also need to pass through open
+areas, to avoid massive property purchase and
+demolition. The legacy therefore of the navigation
+structures on the Thames, and the pattern of flood-
+plain development that now exists, ‘drives’ the
+process of option selection: the only routes that
+appear acceptable are those shown in Figure 2,
+leaving the Staines reach to convey all flood flows
+in between the two bypass sub-systems.
+ 
+Figure 2 Diversion channels and river works evaluated in 2006 for the Lower Thames
+Source: Halcrow Group Ltd et al. (forthcoming)
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+‘Fair’ flood risk management policy in England 383
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+The appraisal results for these engineering
+options are shown in Table 5. The most cost-effective
+of the proposals is the one that protects fewest
+people, leaving 75% of the 13 100 1 : 200 year
+floodplain properties unprotected and providing
+virtually no protection to the areas upstream of
+Staines (where, ironically, the 2003 flood was most
+serious). The scheme that protects most people
+involves routing the northernmost channel through
+a Special Protection Area (SPA), through contaminated
+landfill sites (creating a cost penalty), and requires
+dredging the Staines reach that contains a small
+population of the Depressed Water Mussel Pseudan-
+odonta complanata  (a ‘Red Book’ species; Aldridge
+et al.  2006) which would be destroyed. It would
+also cost an additional £117 million (Table 5).
+In no scheme can all the people and property be
+protected, and no viable scheme gives the same
+design standards as at Maidenhead or in central
+London (even option 1 gives only a 1 : 40 year
+protection standard). Moreover, none of the schemes
+listed in Table 5 and shown in Figure 2 meet the
+current Defra priority score target of c. 20, all
+falling short by a wide margin. This indicates that
+there are other flood mitigation schemes elsewhere
+in the country that yield a higher rate of benefit
+gain per unit of cost, and therefore win higher
+priority for funding. Moreover, in parts of the Lower
+Thames area the population does not want to be
+protected from flooding if it means substantial
+amenity loss. Amongst these are the communities
+located on islands in the Thames where holiday
+homes and recreational ‘cabins’ have been constructed
+over the last 100 or so years. Many were built
+before spatial planning controls were first introduced
+in the UK in 1947 and now flood regularly (to
+which their occupants are well adjusted).
+If major engineering options are not viable here
+on economic grounds (i.e. given their benefit : cost
+and priority score results) then perhaps some form
+of minor engineering works and non-structural
+measures might alleviate some, if not all, of the
+flood risk. Research has shown that ‘community’
+and temporary flood bunds and walls to protect
+those most at risk (i.e. those in the 10–25 year
+flood outline) are viable and acceptable to the
+population affected in certain areas (McCarthy et al.
+2006). However, any such measures would need to
+be highly localised to be technically effective,
+involving ‘hand stitching’ the small-scale works
+into the urban fabric so as to create least disruption
+to property and traffic. The result would also be to
+create dry ‘islands’ within the flooded areas, and
+raise flood levels marginally elsewhere.
+Targeted warning systems, efforts to enhance
+insurance penetration, and an even tighter spatial
+planning regime in these areas would reduce flood
+risk, but only in the target areas. The consequence
+is that attempts to reduce some of the flood risk by
+these means actually create relative inequality with
+floodplain areas that do not receive this special
+attention. Whilst this is an inherent problem with
+locally implemented FRM options, these local
+protection and non-structural measures clearly offer
+an opportunity to reduce flood risk where major
+engineering measures cannot be implemented.
+This case study illustrates that technically and
+economically effective FRM can be inherently
+unfair, and that those seeking outcome equality are
+perhaps misguided. Other locations are likely to
+show the same results (Defra 2004 2005a 2005b),
+whether they are Bewdley’s situation of one side of
+the river Severn justifying flood defence works and
+the other not, or cases like Boscastle (EA 2004)
+where high-impact low-frequency events generate
+few economic benefits to set against significant
+costs. Remote rural settlements will also generate
+very few FRM investment opportunities, in contrast
+to dense urban areas, and there will be other situations
+where flood protection could only be provided at
+the expense of significant environmental damage or
+where it is not technically possible to engineer the
+required works. Whilst recognising that the natural
+distribution of flooding is also not fair, the current
+appraisal regime appears to lead inevitably to greater
+rather than less outcome inequality.
+Non-structural strategies
+Major engineering works cannot, at current budget
+levels, sustainably protect all of the 1.8 million
+properties at risk of flooding. Even those protected
+continue to be exposed to a residual flood risk
+both because of variable standards of defence
+(dependent on local cost–benefit calculations) and
+because all flood defences retain the residual risk
+of overtopping their design standards.
+Therefore, as in the Lower Thames area, there
+remain a significant number of properties at risk
+of flooding for whom non-structural measures are
+either the only risk management tools available or
+where these measures remain important in a portfolio
+of FRM response options. Of these options, some
+are funded and managed nationally, some locally
+and some are determined by the resources and
+management skills of the individual. This ‘patchwork’
+approach means that when assessed against the
+fairness criteria in Table 3, a varied picture emerges.
+Insurance
+Insurance is an individual risk-bearing strategy
+which, provided the uptake is high, removes
+pressure from the government who would otherwise
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+384 ‘Fair’ flood risk management policy in England
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+have to provide additional assistance following
+flooding in the way of damage compensation
+(Priest et al.  2005; Huber 2004). This close associ-
+ation between the provision of flood defence by
+the government and the widespread provision of
+commercially available insurance is a critical factor
+in the English FRM system (Green and Penning-
+Rowsell 2004).
+Because of this, insurance remains high on the
+FRM agenda, particularly regarding debates about
+the appropriate ‘levels’ of flood defence spend and
+the commitment of insurers to continue affordable
+insurance for customers in high-risk areas. As it
+currently stands, householders can seek flood risk
+insurance where their annual probability of flooding
+is 1.3% or less (75-year return period) (ABI 2005).
+Where the annual probability is greater than 1.3%
+there is no guarantee that insurance will be available
+(CIWEM 2006). The problem is that as a voluntary
+risk management option, uptake may be low,
+particularly for the less well-off members of society
+or those living in high-risk areas where premiums
+are prohibitively high (Priest et al. 2005); as such it
+becomes highly problematic as a reliable and
+equitable FRM option.
+Flood insurance clearly fits the utilitarian model
+because, ultimately, the insurance industry exists to
+provide the greatest returns to its shareholders by
+managing its risk portfolio across space and time
+such that its risk underwriting remains profitable
+(Green and Penning-Rowsell 2004). It does not,
+however, fit the equality or vulnerability criteria of
+decision fairness. Indeed, in terms of targeting the
+most vulnerable, except for the more recent attempts
+to reduce contents insurance premiums for those in
+social housing under ‘pay-with-rent’ schemes, it is
+the ‘socially vulnerable’ that are most likely to be
+uninsured (Whyley et al.  1998).
+Therefore, although in theory all those at risk of
+flooding have an equal opportunity of taking out
+flood risk insurance, in practice this is dependent
+on affordability. In countries without such a close
+association between the public provision of flood
+defence and the private provision of insurance,
+uninsurance would neither be unusual nor
+unacceptable (Priest et al. 2005). However, in England,
+such uninsurance is indicative of social inequality.
+Indeed, any potential move towards the withdrawing
+of flood risk insurance and/or the increasing of
+premiums beyond affordability levels creates signi-
+ficant inequality issues in the English context (Priest
+et al.  2005).
+Flood warnings and awareness raising
+The move from flood defence to FRM has increased
+the prominence of flood warnings and public
+awareness as important tools for managing flood
+risk. The primary purpose of flood warnings is to
+save lives by increasing the time available for
+people and emergency services to prepare for flooding;
+its secondary purpose is its damage reducing effect
+(Defra 2004). The primary purpose of public
+awareness campaigns is to increase the ‘risk
+knowledge’ of those living in flood risk areas so
+that they behave appropriately.
+Since its inception in 1996, it has been the
+responsibility of the EA to deliver flood warnings
+and raise the awareness of those at risk of flooding
+– although this does not include sewer, groundwa-
+ter or pluvial flooding. After the negative analysis
+of the EA’s performance in this regard following the
+1998 floods (Bye and Horner 1998), the EA has
+made significant improvements. Most notably, it
+created a National Flood Warning Centre (which
+although significant at the time has since ceased
+operating), introduced annual public awareness
+campaigns, and is now on its third Flood Warning
+Investment Strategy (EA 2003b) – all of which aim
+for national coordination and consistency (Andrysze-
+wski et al. 2005).
+The EA has also introduced a 24-hour Floodline
+telephone advice and information line, new and
+more graphic flood warning codes, new incident
+management procedures, a National Flood Forecasting
+System, and the replacement of the Automatic Voice
+Messaging service with a new opt-in system of
+warning – Floodline Warnings Direct. This provides
+those at risk of flooding with warnings direct to
+their telephone, mobile, fax or pager and through
+such technologies the EA continues to strive for a
+nationally consistent approach to flood forecasting
+and warning dissemination.
+This ‘package’ of flood warning dissemination
+tools is intended to ensure that the EA’s actions are
+in accordance with its customer charter which
+states that: ‘Prior warning will be provided (two
+hours in general) to people living in designated
+flood risk areas where a flood forecasting facility
+exists and where lead times enable us to do so’ (EA
+2002). In addition, the EA has set out more specific
+intentions in its latest corporate plan (2006–9),
+most notable of which is their continued commit-
+ment to the use of campaigns and flood maps for
+the provision of flood risk information to the
+public, their restated aim of achieving an 80%
+target in the provision of flood warnings to those at
+risk, and a commitment to increase the uptake of
+such warnings, particularly for the most vulnerable
+(EA 2006b).
+However, this does not imply that 80% of those
+at risk of flooding will receive similar ‘levels’ of
+flood warnings. Rather, it means that 80% of those
+at risk of flooding should receive a nationally
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+‘Fair’ flood risk management policy in England 385
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+consistent minimum level of service. This is in
+recognition of, firstly, ongoing funding constraints
+and, secondly, that the level of service provided
+should be proportionate to the level of risk – based
+on a maximum, intermediate and a minimum
+requirement for a given flood risk area (Andrysze-
+wski et al.  2005).
+The search for a nationally consistent approach
+to flood warnings and public awareness raising fits
+well with the principle of procedural equality. All
+those at risk of flooding have an equal opportunity
+to receive a minimum standard of warning and
+information via awareness campaigns, regardless of
+their level of risk exposure. And, in recognition of
+the inherent inequality of flood risk exposure, for
+those in high-risk areas this service is expanded
+to include more direct mailing of awareness
+campaigns and flood risk information together with
+the development of more detailed flood warnings
+and emergency plans. However, this only applies
+to fluvial and coastal flood risk and in this respect
+the provision of flood warnings is not yet in
+keeping with the MSW doctrine which aims for a
+joined-up approach to pluvial, fluvial, coastal,
+groundwater and sewer flooding (Defra 2004).
+The EA’s commitment in their latest Corporate
+Plan to target flood warnings to the most vulnera-
+ble is illustrative of their commitment to fairness
+principles based on a different model of social
+justice. This is in keeping with recent EA-funded
+research on flood warnings and vulnerable groups
+which recognises the multi-faceted, complex and
+dynamic nature of vulnerability and the resultant
+difficulties that emerge when attempting to target
+flood warnings to vulnerable groups (Thrush et al.
+2005a 2005b). It is also in keeping with EA-
+sponsored research investigating the social per-
+formance of flood warning delivery technologies
+(Tapsell et al.  2004). The outcome, Floodline
+Warnings Direct (FWD), provides a choice of both
+visual and audible warnings media (suitable for the
+hard of hearing and blind); warnings in different
+languages; and various channels for accessing flood
+warnings which may be suited to the young and
+elderly, disabled, working and non-working people.
+By seeking a nationally consistent minimum
+standard for flood warning dissemination, this non-
+structural strategy does not accord with the rules
+of maximum utility which would maximise risk
+reduction per unit of input and in turn lead to flood
+warning investment prioritising high-risk areas. This
+is not to say that the EA’s latest flood warning
+investment strategy (with an anticipated investment
+of £250 million over 10 years in England and
+Wales; EA 2003b) does not recognise the impor-
+tance of seeking economic efficiency for taxpayer’s
+money (with estimates of flood damages avoided of
+£1261 million over 10 years and a benefit : cost
+ratio of 4.82 : 1; EA 2003b). Rather, it recognises
+that a strictly utilitarian approach would not facilitate
+meeting the EA’s warning objective of developing a
+national service.
+Land-use control and management
+The principal FRM purpose of land use control and
+management is to discourage inappropriate devel-
+opment in areas of flood risk (Defra 2006b) and to
+prevent upstream developments having adverse
+downstream consequences (Howe and White 2001;
+Parker 1995).
+Successive governments have been seeking ways
+of controlling urban development of floodplains
+since the 1940s (see DoE et al.  1982 1992). After
+the 1998 and 2000 flooding, floodplain develop-
+ment control was elevated in importance by the
+government introducing Policy and Planning
+Guidance (PPG) 25 and, later, the new Planning
+Policy Statement (PPS) 25 (Communities and Local
+Government 2006).
+PPS 25 suggests a more strategic and centrally
+prescribed approach and implies more rigorous
+and systematic nationally consistent processes and
+procedures, including strategic and regional flood
+risk assessments as part of the development planning
+and decision-making process. The PPS also includes
+an exceptions test for low-lying areas where nearly
+all developable land is liable to flooding and where
+some continuing development is necessary for wider
+sustainability reasons and to avoid social and
+economic blight. There is also an emphasis upon
+reducing – rather than just avoiding – adding to
+flood risk and, lastly, PPS 25 emphasises the need
+to plan for all forms of flooding (e.g. groundwater,
+reservoir and canal flooding) rather than just flooding
+from rivers and the sea.
+PPS 25 supports the principle of procedural
+equality. All of those at risk of increased flooding
+through development (for example through upstream
+developments impacting downstream, or in some
+other way), or proposing to develop in floodplains,
+will have an equal opportunity to have their situations
+assessed using broadly similar approaches and tools
+within a nationally consistent decision-making
+framework. PPS 25 also recognises the special case
+represented by low-lying local authorities in which
+decisions not to allow some floodplain development
+would have wider adverse social and economic
+impacts, and therefore safeguards against wider
+social and economic inequalities between local
+areas which might otherwise arise.
+In targeting the most vulnerable, PPS 25 distin-
+guishes, for example, between properties such as
+dwelling homes constructed or adapted for the
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+386 ‘Fair’ flood risk management policy in England
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+elderly or other people with impaired mobility,
+residential institutions such as care homes, children’s
+homes, and gypsy and travellers sites (classed as
+more and highly vulnerable) from buildings used as
+shops, offices and land and buildings used for
+agriculture or forestry (classed as less vulnerable).
+Different approaches and planning decisions are
+expected here according to assessed vulnerability
+and, as such, there is a commitment to fairness
+based upon vulnerability principles.
+Overall, by seeking to constrain and reduce, but
+not entirely avoid, floodplain development the
+nationally consistent approach incorporated in PPS
+25 may go some way to adopting a maximum
+utility model. In such a model, floodplain develop-
+ment which leads to a surplus of benefits over
+costs is allowed, whereas development which
+yields no surplus or is in deficit is not permitted.
+However, although there are elements of such a
+perspective in, for example, recent decisions to
+develop the Thames Gateway floodplains and
+floodplain margins for housing, wider social and
+economic regeneration factors are taken into
+account. And, in future, PPS 25 suggests decisions
+will not be made according to a narrow economic
+utility perspective but will be cognisant of risk to
+life and the differential vulnerability of buildings and
+people, as well as wider sustainability arguments.
+Home owner adaptation
+Making individual houses and businesses more
+resistant to flooding (i.e. to reduce the amount of
+water entering a property) and more resilient (i.e.
+to reduce the overall damage when flood waters do
+enter a property) is an important risk management
+option – particularly for rural/isolated communities
+(ODPM 2003b). Of the options available to
+homeowners some are relatively inexpensive or
+indeed cost free (e.g. unplugging electrical items,
+sandbagging, flood boarding, installing airbrick
+covers) whilst others are more costly (e.g. flood
+‘skirts’ and flood gates). In recognition of the lack
+of quality assurance about these products, and the
+need for national standards, the EA and others
+commissioned the introduction of a Kitemark
+system in 2003, managed by the British Standards
+Institution (BSI) in accordance with approvals
+received from the HR Wallingford test facility. At
+present, some 100 products have been awarded this
+quality standard (EA 2006c).
+In addition to the provision of government
+guidance for homeowners (ODPM 2003b), the EA
+and the ABI have increasingly stressed the importance
+of these tools for managing flood risk at the local
+level (ABI 2006b 2006c). Whilst there are clearly
+benefits to be gained from the implementation of
+these adaptation options, not least for the insurance
+industry, the onus for funding these options falls
+firmly on the individual homeowner – albeit with
+some assurance from the Council of British Mortgage
+lenders that mortgage extensions will be considered
+to accommodate this extra cost, provided there is
+equity in the property to do so (ABI 2006b). There
+is no government funding to support this option.
+Thus, whilst theoretically all households at risk
+of flooding have the equal opportunity of adapting
+their homes using kitemarked products, in reality
+this option is only available to either those owning
+their own homes and/or those who can afford them.
+Ultimately, therefore, as a fair risk management
+option, homeowner adaptation suffers from similar
+shortcomings to that of insurance in that it neither
+fits the vulnerability nor the equality criterion of
+decision fairness. Indeed, it is the ‘socially vulner-
+able’ that are least likely to be able to afford the
+products on offer.
+Emergency management
+There is now a major effort under way to improve
+flood emergency response in England, following
+the floods in Carlisle and other parts of Cumbria in
+July 2005 (EA 2004; Government Office for the
+North West 2005). The Carlisle floods led to the
+loss of two lives, 3500 homes were flooded, many
+evacuations were necessary, 60 000 homes lost
+electricity, and the ‘999’ emergency telephone
+service failed. The lessons learned from such events
+were drawn together through a major national
+flood emergency response exercise called ‘Exercise
+Triton’ (EA 2005a). The EA is now seeking to
+improve its flood incident management process
+(EA/Defra 2005), within the framework of the new
+Civil Contingencies Act, which provides the basis
+for a nationally consistent and enhanced approach
+to addressing all emergencies (EA 2005b).
+There is little sign of a utility model underpinning
+flood emergency management, whereby most effort
+might be targeted at damage reduction. The costs
+and benefits of emergency management of floods
+are rather poorly understood (Penning-Rowsell and
+Wilson 2006) but balancing them is not the main
+policy thrust. The principal drive is towards a
+nationally consistent approach, delivering procedural
+equality. In theory, the chances of those at risk of
+flooding having an equal or similar opportunity of
+receiving a minimum standard of warning and assist-
+ance from the emergency services should thereby
+improve.
+That this is so is not only because of the major
+effort to improve flood emergency response taking
+place within the framework of the Civil Contingen-
+cies Act; it is also because the flood warning and
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+‘Fair’ flood risk management policy in England 387
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+emergency response needs of those living in small
+as well as large catchments are being addressed
+more or less equally (EA/Defra 2005), and because
+the EA is seeking to extend its flood warning
+system to groundwater, sewer and surface water
+flooding (EA 2005b).
+The emergency services also place an emphasis
+upon identifying, locating and assisting as early as
+possible in an emergency those who are most
+vulnerable to flooding, including the elderly and
+infirm (Tapsell et al.  2002). Significant attention is
+now paid to building up databases of those at
+risk from a vulnerability standpoint, confirming a
+commitment to fairness principles based on Rawls’
+maximin rule. Notwithstanding this, the fortunes of
+individuals and communities caught up in floods
+will still remain somewhat arbitrary, unequal, and
+unpredictable, being a function of local geography.
+It is therefore almost impossible to construct an
+emergency management system and process which
+is capable of responding effectively and similarly
+to all flood emergencies, but the policy drive is
+to seek this where possible (EA 2005a).
+Conclusions
+Flood risk is inherently unfair: rivers obviously do
+not flood everywhere, risk probabilities therefore
+vary widely in space and time, and human
+occupancy of floodplains is similarly disparate. The
+result is a system of inherent inequalities caused
+by either ‘natural injustices’ or injustices imposed
+by the flood risk management actions of individuals
+or the state. And because these inequalities have
+always – and will always – result in variable levels
+of risk across both space and time, outcome
+equality becomes an impossible flood risk manage-
+ment goal.
+Recognising this, the purpose of FRM then surely
+becomes one of managing these injustices so as
+to minimise the relative inequalities in flood risk
+across society. This results in a number of challenges
+for implementing fair FRM, not least significant
+of which is how to manage the fair distribution of
+national resources whilst recognising the fairness
+concerns of those at risk.
+The analysis in this paper has shown that the
+current system of decision-making which prioritises
+benefit : cost analysis of structural flood defences,
+using nationally determined standards, does not
+offer procedural equality. Nor does it have the
+ability to target those most vulnerable to flooding,
+or assist those at-risk areas that will never justify
+large capital intensive schemes. The paper has also
+highlighted the value in moving towards imple-
+menting more nationally consistent standards for
+non-structural strategies, which appear to offer
+greater adherence to principles of equality and
+vulnerability in their design (excepting insurance
+and homeowner adaptation). Further progress in
+this direction would require a change in the FRM
+funding regime, to place minor local works and
+non-structural strategies (excepting insurance) on a
+similar footing to that currently provided for major
+engineering strategies.
+In addition, as the Lower Thames case study
+illustrates, the current system of decision-making
+can lead to local-level injustices. This is because
+the risk management options available for those
+who do not qualify for structural defence options
+(‘the have nots’) are significantly reduced by
+comparison with the ‘haves’.
+To counter this procedural inequity, and in
+recognition of the local specificity that character-
+ises flood risk, we suggest that a secondary ‘tier’ of
+decision making should be introduced with a
+locally determined threshold priority score system
+where flood risks do not cross the ‘national
+problem’ threshold for funding. However, this would
+require the active engagement of decision-makers
+in procedural inequality because it would require
+funding streams to be directed, by a process of
+positive discrimination, towards ‘local problems’.
+But this may be the lesser of two evils: by redirecting
+national resources in such a way, relative inequalities
+could be reduced, thus at least offering the ‘have
+nots’ some form of protection (albeit with lower
+standards) and lower thresholds for the distribution
+of government funding.
+There are two important caveats to this
+suggestion. Firstly, such a change would require
+increased funding which may require a reinvesti-
+gation of the use of local levies and/or local
+authority funding for FRM. This approach would
+also have to be applied to all at-risk areas if it is to
+be consistent with the principles of procedural
+equity. Secondly, where minor engineering measures
+are implemented in local areas, to lower design
+standards, designs must be implemented so as to
+be ‘fail safe’.
+Acknowledgements
+The authors acknowledge the use of resources from
+the EPSRC’s Flood Risk Management Research
+Consortium and the Flood site project towards the
+research underpinning this paper.
+References
+ABI (Association of British Insurers ) 2005 ABI statement of
+principles on the provision of flood insurance  updated
+version ABI, London
+ABI 2006a A future for the floodplains ABI, London
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+388 ‘Fair’ flood risk management policy in England
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+ABI 2006b Flood resilience and resistance factsheet for insurers
+and loss adjusters  ABI and the Chartered Institute of Loss
+Adjusters, London
+ABI 2006c Repairing your home or business after a flood –
+how to limit damage and disruption in the future  ABI and the
+National Flood Forum, London and Worcestershire
+Aldridge D, Mueller S, McIover A, Arbuckle K, Boyco C and
+Burditt T 2006 Conservation of the depressed river mussel,
+Pseudanodonta complanata (http://www.zoo.cam.ac.uk)
+Accessed 10 December
+Andryszewski A, Evans K, Haggett C, Mitchell B and Whitfield
+D 2005 Flood warning – the next step-change 40th Flood
+and coastal management conference Defra, London
+Barker D  1948 Harvest home: the official story of the great
+floods of 1947 and their sequel HMSO, London
+Blaikie P, Cannon T, Davis I and Wisner B 1994 At risk: natural
+hazards, people’s vulnerability and disasters  Routledge,
+London and New York
+Boelens R  1998 Equity and rule making in Boelens R and
+Dávila G eds Searching for equity: conceptions of justice and
+equity in peasant irrigation  Royal Van Gorcum, Assen, The
+Netherlands 16–34
+Burningham K and Thrush D  2001 Rainforests are a long way
+from here: the environmental concerns of disadvantaged
+groups Joseph Rowntree Foundation, York
+Bye P and Horner M  1998 Easter 1998 floods: report by the
+independent review team to the board of the Environment
+Agency Environment Agency, Bristol
+CIWEM (Chartered Institution of Water and Environmental
+Management) 2006 Taking managed realignment forward as
+a policy option for coastal management in England and Wales
+CIWEM, London
+Communities and Local Government  2006 Planning policy
+statement 25: Development and flood risk  Communities and
+Local Government, London
+Cutter S 2006 Hazards, vulnerability and environmental justice
+Earthscan, London and Sterling
+Defra (Department for the Environment, Food and Rural Affairs)
+2003 Delivery plan for implementing the conclusions of the
+flood and coastal defence funding review Defra, London
+Defra 2004 Making space for water: developing a new govern-
+ment strategy for flood and coastal erosion risk management
+in England: a consultation exercise Defra, London
+Defra 2005a Making space for water: taking forward a new
+government strategy for flood and coastal erosion risk
+management in England. First government response to the
+autumn 2004 Making space for water consultation exercise
+Defra, London
+Defra 2005b Making space for water: taking forward a new
+government strategy for flood and coastal erosion risk
+management in England. Delivery plan Defra, London
+Defra 2006a Flood and coastal erosion risk management Defra,
+London
+Defra 2006b Capital grant allocations for flood and coastal
+erosion risk management Defra, London
+DoE (Department of the Environment)/Ministry of Agriculture
+Fisheries and Food (MAFF)/Welsh Office  1982 Develop-
+ment and flood risk  Circular 17/82 DoE/MAFF/Welsh
+Office, London
+DoE/MAFF/Welsh Office  1992 Development and flood risk
+Circular 30/92 DoE/MAFF/Welsh Office, London
+Environment Agency (EA ) 2002 High level target 2: provision
+of flood warnings Report to Defra EA, Bristol
+EA 2003a Strategy for flood risk management (2003/4–2007/8)
+Version 1.2 EA, Bristol
+EA 2003b Flood warning investment strategy appraisal report
+2003/4 to 2012/13 EA, Bristol
+EA 2004 Living with the risk: the floods in Boscastle and North
+Cornwall 16 August 2004 EA, Exeter
+EA 2005a Lessons learned: the combined action plan to deliver
+the lessons learned from Boscastle, the northern floods, exer-
+cise Triton and the southern tidal surge event  HR Walling-
+ford, Wallingford
+EA 2005b Civil  Contingencies Act 2004 Incident manage-
+ment roles and responsibilities of the Environment Agency
+EA, Bristol
+EA 2006a Catchment flood management plans – the back-
+ground  EA, Bristol
+EA 2006b Environment Agency corporate plan 2006–09:
+translating strategy into action  EA, Bristol
+EA 2006c Kitemark scheme  (http://www. environment-
+agency.gov.uk/subjects/flood/826674/830330/877142/484693)
+Accessed 5 December 2006
+EA/Defra 2005 Risk assessment for flood event management:
+phase 1  FDB(05)01, WPO Definition and boundary setting
+report HR Wallingford, Wallingford
+European Communities (EEC ) 1992 Council directive 1992/43/
+EC Conservation of natural habitats and of wild fauna and
+flora Official Journal of European Communities  L 206 7–
+50
+European Union  2000 Council directive 2000/60/EC of the
+European Parliament and of the Council of 23 October 2000
+establishing a framework for community action in the
+field of water policy Official Journal of European Communities
+L 327 1–72
+Evans E P, Ashley R, Hall J, Penning-Rowsell E C, Saul A,
+Sayers P, Thorne C and Watkinson A  2004 Foresight:
+future flooding, 2 volumes  Office of Science and Tech-
+nology, London
+Fielding J and Burningham K  2005 Environmental inequality
+and flood hazard Local Environment 10 1–17
+Fielding J, Burningham K and Thrush D  2005a Flood warning
+for vulnerable groups: mapping and measuring vulnerability
+EA, Bristol
+Fielding J, Gray K, Burningham K and Thrush D  2005b Flood
+warning for vulnerable groups: secondary analysis of flood
+data EA, Bristol
+Gleick P H 1998 Water in crisis: paths to sustainable water use
+Ecological Applications 8 571–9
+Government Office for the North West  2005 Carlisle storms
+and associated flooding: multi-agency debrief report Govern-
+ment Office for the North West
+Green C  2003 Handbook of water economics: principles and
+practice Wiley, Chichester
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 16]]
+‘Fair’ flood risk management policy in England 389
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+Green C and Penning-Rowsell E  2004 Flood insurance and
+government: ‘parasitic’ and ‘symbiotic’ relations The Geneva
+Papers on Risk and Insurance 29 518–39
+Halcrow Group Ltd  et al. forthcoming Lower Thames project
+– phase 3: final report  Sir William Halcrow & Partners
+Ltd, Swindon
+Halcrow Group Ltd and Babtie Brown and Root  2004 Lower
+Thames study – phase 1: final report  Sir William Halcrow &
+Partners Ltd, Swindon
+Hall J W, Dawson R J, Sayers P B, Rosu C, Chatterton J B and
+Deakin R 2003a A methodology for national-scale flood risk
+assessment Proceedings of the Institution of Civic Engineers
+Water and Maritime Engineering 156 235–47
+Hall J, Evans E P, Penning-Rowsell E C, Sayers P B, Thorne C R
+and Saul A J  2003 Quantified scenarios analysis of drivers
+and impacts of changing flood risk in England and Wales:
+2030–2100 Environmental Hazards 5 51–65
+Hayek F A 1944 The road to serfdom Routledge, London
+HM Government  2005 Securing the future: delivering UK
+sustainable development strategy  The UK government
+sustainable development strategy Cm 6467 HM Government,
+London.
+HM Revenue and Customs 2006 Number of taxpayers and regis-
+tered traders Table 1.4 Income tax statistics and distributions
+(http://www.hmrc.gov.uk/stats/tax_receipts/1_4_apr06.pdf)
+Accessed 7 December
+HM Treasury 2003 The green book: appraisal and evaluation
+in central government HM Treasury, London
+Horner R W  1972 Current proposals for the Thames Barrier
+and the organization of the investigations Philosophical
+Transactions of the Royal Society of London. Series A, Math-
+ematical and Physical Sciences 272 179–85
+Howe J and White I  2001 Flooding: are we ignoring the real
+problem and solution? Regional Studies 35 368–71
+Huber M 2004 Reforming the UK flood insurance regime: the
+breakdown of a gentlemen’s agreement  ESRC Centre for the
+Analysis of Risk and Regulation discussion paper no. 18
+London School of Economics and Political Science, London
+ICE 2001 Learning to live with rivers. Final report of the Institu-
+tion of Civil Engineers’ presidential commission to review the
+technical aspects of flood risk management in England and
+Wales Institution of Civil Engineers, London
+Johnson C, Penning-Rowsell E and Tapsell S 2007 Aspiration
+and reality: flood policy, economic damages and the
+appraisal process Area 39 214–23
+Johnson C L, Tunstall S M and Penning-Rowsell E C  2004
+Crises as catalysts for adaptation: human response to major
+floods ESRC Environment and Human Behaviour Research
+Report RES-221-25-0037 Flood Hazard Research Centre
+Publication 511 Middlesex University, Enfield
+Johnson C L, Tunstall S M and Penning-Rowsell E C  2005
+Floods as catalysts for policy change: historical lessons from
+England and Wales International Journal of Water Resources
+Development 21 561–75
+MAFF (Ministry of Agriculture, Fisheries and Food ) 1993
+Strategy for flood and coastal defence  MAFF/Welsh
+Office, London
+MAFF 1999 Flood and coastal defence project appraisal
+guidance (3): economic appraisal FCDPAG3 MAFF, London
+McCarthy S, Parker D J and Penning-Rowsell E C  2006
+Preconsultation social survey, community based flood risk
+reduction options reach 4: Walton Bridge to Teddington. Flood
+Hazard Research Centre, Middlesex University, London
+Mill J S 1863 Utilitarianism Dent, London.
+Miller D  1999 Principles of social justice  Harvard University
+Press, Cambridge MA
+National Audit Office forthcoming Report on the Jubilee River
+NAO, London
+Nozick R 1974 Anarchy, state and utopia Blackwell, Oxford
+ODPM (Office of the Deputy Prime Minister ) 2002 Preparing
+for floods. Interim guidance for improving the flood
+resistance of domestic and small business properties  ODPM,
+London
+ODPM 2003a Sustainable communities: building for the future
+ODPM, London
+ODPM 2003b Preparing for floods ODPM, London
+Parker D J  1995 Floodplain development policy in England
+and Wales Applied Geography 15 341–63
+Penning-Rowsell E, Johnson C and Tunstall S  2006 ‘Signals’
+from pre-crisis discourse: lessons from UK flooding for global
+environmental policy change? Global Environmental Change
+16 323–39
+Penning-Rowsell E, Johnson C, Tunstall S, Tapsell S, Morris J,
+Chatterton J and Green C  2005 The benefits of flood and
+coastal risk management: a manual of assessment techniques
+Middlesex University Press, London
+Penning-Rowsell E C and Wilson T  2006 Gauging the impact
+of natural hazards: the pattern and cost of emergency
+response during flood events Transactions of the Institute of
+British Geographers 31 99–115
+Priest S J, Clark M J and Treby E J  2005 Flood insurance: the
+challenge of the uninsured Area 37 295–302
+Rawls J  1971 A theory of justice  Harvard University Press,
+Cambridge MA
+Rawls J 2001 Justice as fairness: a restatement  Harvard Univer-
+sity Press, Cambridge MA
+Sen A 1992 Inequality re-examined Clarendon Press, Oxford
+Sir William Halcrow & Partners Ltd  1990 Datchet, Wraysbury,
+Staines and Chertsey flood study: floodplain management
+plan, hydraullic modelling, engineering and benefit assessment
+– main report Sir William Halcrow & Partners Ltd, Swindon
+Sir William Halcrow & Partners Ltd  1992 Datchet, Wraysbury,
+Staines and Chertsey flood study: floodplain management
+plan, hydraullic modelling and engineering – main report  Sir
+William Halcrow & Partners Ltd, Swindon
+Swift A  2001 Political philosophy. A beginners’ guide for
+students and politicians Polity Press, Cambridge
+Syme G J and Nancarrow B E  eds 2001 Applying social justice
+research to environmental decision making Social Justice
+Research 14 4 (special issue)
+Syme G J, Nancarrow B E and McCreddin J A  1999 Defining
+the components of fairness in the allocation of water to envi-
+ronmental uses Journal of Environmental Management  57
+51–70
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 17]]
+390 ‘Fair’ flood risk management policy in England
+Geographical Journal Vol. 173 No. 4, pp. 374–390, 2007
+© 2007 The Author(s). Journal compilation © 2007 The Royal Geographical Society
+Tapsell S M, Burton R, Parker D J and Oakes S  2004 The
+social performance of flood warning communication technolo-
+gies Environment Agency R&D Technical Report Project
+W5C-016 EA, Bristol
+Tapsell S, Penning-Rowsell E, Tunstall S and Wilson T  2002
+Vulnerability to flooding: health and social dimensions Philo-
+sophical Transactions of the Royal Society 360 1511–25
+Thrush D, Burningham K and Fielding J  2005a Vulnerability
+with regard to flood warning and flood event: a review of the
+literature Environment Agency R&D Technical Report Project
+W5C-018/1 EA, Bristol
+Thrush D, Burningham K and Fielding J  2005b Exploring flood-
+related vulnerability: a qualitative study Environment Agency
+R&D Technical Report Project W5C-018/3 EA, Bristol
+Tisdell J G  2003 Equity and social justice in water doctrines
+Social Justice Research 16 401–16
+Tunstall S M, Johnson C L and Penning-Rowsell E C  2004
+Flood hazard management in England and Wales: from
+land drainage to flood risk management World Congress
+on Natural Disaster Mitigation Proceedings  Volume 2 19–22
+February 2004, Vigyan Bhawan, New Delhi 447–54
+UN/ISDR (United Nations/Inter-agency secretariat of the
+International Strategy for Disaster Reduction ) 2004 Living
+with risk. A global review of disaster reduction initiatives
+UN/ISDR, Geneva
+van Haegen M S  2005 Foreword in van Alphen J, van Beck E
+and Taal M  eds Floods, from defence to management
+Symposium papers: 3rd international symposium on flood
+defence Neigmegen A.A. Balkem, Leiden.
+Walker G, Fairburn J, Smith G and Mitchell G  2003 Environ-
+mental quality and social deprivation EA, Bristol
+Walzer M 1983 Spheres of justice: a defence of pluralism and
+equality Blackwell, Oxford
+Whyley C, McCormick J and Kempson E  1998 Paying for
+peace of mind: access to home contents insurance for low-
+income households Policy Studies Institute, London
+Wisner B, Blaikie P, Cannon T and Davis I  2004 At risk:
+natural hazards, people’s vulnerability and disasters  2nd
+ed Routledge, London and New York
+Wolf A T  1999 Criteria for equitable allocations: the heart
+of international water conflict Natural Resources Forum 23
+3–30
+ 14754959, 2007, 4, Downloaded from https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/j.1475-4959.2007.00256.x by Humboldt-Universitat Zu Berlin, Wiley Online Library on [18/08/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

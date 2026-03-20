@@ -1,0 +1,1276 @@
+[[PAGE 1]]
+Ecological Indicators 67 (2016) 533–542
+Contents lists available at ScienceDirect
+Ecological Indicators
+j o ur na l ho me page:  www.elsevier.com/locate/ecolind
+Will income inequality affect environmental quality? Analysis based
+on
+ China’s provincial panel data
+Yu Hao a,b,c,∗, Heyin Chen b, Qianxue Zhang b
+a Center for Energy and Environmental Policy Research, Beijing Institute of Technology, Beijing 100081, China
+b School of Management and Economics, Beijing Institute of Technology, Beijing 100081, China
+c Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing 100081, China
+a r t i c l e i n f o
+Article history:
+Received
+ 12 November 2015
+Received
+ in revised form 6 March 2016
+Accepted
+ 12 March 2016
+Available
+ online 25 April
+ 2016
+Keywords:
+Carbon
+ emissions per capita
+Income
+ inequality
+Provincial
+ panel data
+China
+a b s t r a c t
+During the last two decades of China’s rapid economic growth, the gap in citizens’ income has widened
+and
+ environmental quality has deteriorated. Using Gini coefﬁcients  as the measure of income inequality,
+this study investigated the impacts of income inequality on carbon emissions per capita in China. To
+control
+ for potential endogeneity and allow for dynamics, the Generalized Method of Moments (GMM)
+technique is utilized. Moreover, the inﬂuential  factors that can affect carbon emissions per capita in
+China
+ have been examined. The empirical results indicate that carbon emissions per capita increase as
+the income gap expands for nationwide and in the eastern and non-eastern regions of China. Among all
+factors
+ that may affect carbon emissions per capita, a “U”  shaped relationship exists between per capita
+income and per capita carbon emissions, and increasing the value-added share of secondary industry in
+the
+ GDP would signiﬁcantly  increase carbon emissions per capita.
+© 2016 Elsevier Ltd. All rights reserved.
+1. Introduction
+Since
+ the period of economic reform the late 1970s, China’s
+economy has achieved rapid development. In the meantime, the
+sharp increase in China’s energy consumption and carbon diox-
+ide emissions has become a signiﬁcant  problem that has attracted
+domestic and foreign attention. According to World Development
+Indicators 2006, 16 of the world’s 20 most polluted cities are located
+in China. In recent years, serious haze and fog pollution has plagued
+large areas of northern and eastern China, which reﬂects  the fact
+that air pollution has become one of the most crucial environ-
+mental issues in China. China’s environmental deterioration and
+vulnerability has seriously threatened the physical and psycholog-
+ical health of Chinese citizens and has exerted a negative impact
+on China’s international image (Zhang and Hao, 2016). According
+to statistics from the Oak Ridge National Laboratory Carbon Diox-
+ide Information Analysis Center (CDIAC), China has become the
+world’s largest CO2 emitter since 2008, with carbon emissions in
+2012 accounting for approximately 25% of the global greenhouse
+gas emissions. Consequently, China has been under tremendous
+∗ Corresponding author at: School of Management and Economics, Beijing Insti-
+tute
+ of Technology, Beijing 100081, China. Tel.: +86 1068914938.
+E-mail
+ addresses: haoyuking@gmail.com (Y. Hao), 1009785049@qq.com
+(H. Chen), 626222617@qq.com (Q. Zhang).
+pressure from the international community to control carbon emis-
+sions and to improve environmental quality. In recent years, China’s
+government has made a great effort to sustain energy conservation
+and reduce emissions, making several speciﬁc  and ambitious com-
+mitments. For example, China’s State Council declared in 2009 that
+China was set to cut carbon intensity (the carbon emissions as a
+percentage of GDP) by 40–45%  by 2020 based on the 2006 level. In
+November 2014, in a joint statement on climate change by China
+and the United States, Chinese president Xi Jinping promised to
+achieve China’s peak CO2 emissions by 2030 and raise the share
+of non-fossil fuels in primary energy consumption to approxi-
+mately 20%.1 Impressive and systematic changes may occur in
+China following this series of energy saving measures and emis-
+sion reductions being carried out as well as the optimization and
+adjustment of China’s economic and social structure.
+Due to China’s rapid economic development, its economic
+and social structure is undergoing drastic changes, including
+the expansion of the regional income gap and the unbalance
+of the distribution pattern. Galor and Moav (2004) theorized
+that the widening income gap was not conducive to sustain-
+able economic development. Therefore, building a well-off society
+and rejuvenating China requires narrowing the income gap and
+1 For reference, see http://uk.reuters.com/article/2014/11/12/china-usa-
+climatechange-idUKL3N0T17FC20141112.
+http://dx.doi.org/10.1016/j.ecolind.2016.03.025
+1470-160X/© 2016 Elsevier Ltd. All rights reserved.
+
+[[PAGE 2]]
+534 Y. Hao et al. / Ecological Indicators 67 (2016) 533–542
+alleviating the unfair distribution of income. China is currently
+facing major challenges in reducing energy consumption, energy
+conservation and emission reduction to guarantee more reasonable
+and fair economic development.
+Protecting the environment and narrowing the income gap
+are signiﬁcant  issues on which China will focus for some time
+to come. Do the two issues share a degree of correlation? The
+relationship between income gap and environmental pollution
+raises two questions: (1) Whether the widening income gap would
+lead to detrimental impacts on environmental quality; if yes, how
+would it affect the environmental quality and what consequences
+would cause. (2) Whether the income gap will inﬂuence  economic
+development and thus aggravate environmental pollution as the
+economy grows or weaken environmental governance through
+economic adjustments. Domestic and foreign scholars have studied
+the relationship between income gap, economic development, and
+environmental pollution, but they have not yet reached a conclu-
+sion.
+Therefore, this study’s main contributions include: (1) using
+the GMM method rather than the unconventional ﬁxed  effects
+method for measurement, which can control endogeneity and
+involve dynamic effects; (2) using provincial panel data to analyze
+how income inequality would affect pollution emissions in China;
+(3) verifying this relationship in different regions with regional
+discrepancies considered.
+To overcome various deﬁciencies  in the previous analyses
+of their relationship, we carefully choose appropriate methods
+for empirical analysis and prove the stability of results through
+the study of different regression speciﬁcations.  For example, to
+examine the inﬂuence  of economic development and regional eco-
+nomic disparity on carbon emissions, we overcome the potential
+deﬁciencies  of multinational data by using China domestic data
+and systematically measuring the carbon emissions of Chinese
+provinces. We infer the calculation formula for the Gini coefﬁcient
+by calculating the provincial-level Gini coefﬁcients  from 1995 to
+2010 using Tian’s (2012) methodology and assuming that Lorenz
+curves refer to the ratio of the area between the line of equality
+and the Lorenz curve over the area of perfect equality of incomes.
+We use the formula to measure and calculate the Gini coefﬁcients
+of incomes of rural and urban residents in provincial regions from
+2011 to 2012. Then, we use the grouping weighting method to cal-
+culate the Gini coefﬁcient  of residents’ total incomes in provinces
+(cities, districts) from 2011 to 2012. This method yields complete
+panel data with compatible, comparable calculations, using provin-
+cial regions from 1995 to 2012 as basic indexes, which allows us
+to empirically examine the inﬂuence  of regional income gaps on
+carbon emissions. To fully introduce dynamic factors into our quan-
+titative analysis of the relationship, we use the GMM method to
+verify their relationship except for the ﬁxed  effects estimates of
+standard static panel data. Meanwhile, considering the differences
+of carbon emissions in northern, central and western regions, we
+adopt both national and regional data to analyze the inﬂuences
+of carbon emissions and identify variables such as GDP per capita,
+regional Gini coefﬁcients,  industrial structure, energy intensity and
+the urbanization level as explanatory variables for China’s car-
+bon emissions. We then focus further on the inﬂuence  of regional
+income differences on carbon emissions to offer policy suggestions
+for environmental protection and economic development in differ-
+ent regions. Selecting proper regression methods and speciﬁcations
+validates the credibility of our empirical results and guarantees the
+rationality of the corresponding policy recommendations.
+The remainder of this study is organized as follows: Section
+2 brieﬂy  reviews the relevant literature. Section 3 introduces the
+theoretical models explaining the possible relationships between
+income inequality and environmental quality, and Section 4
+describes the data source and methods of empirical analysis.
+Section 5 presents the empirical estimation results and the cor-
+responding analysis. Section 6 concludes the study and describes
+several policy implications.
+2. Literature review
+The relationship between economic development and environ-
+mental pollution was mainly based on the Environment Kuznets
+Curve (EKC) hypothesis. This hypothesis posits the existence of
+an “inverted-U”  shaped relationship between economic develop-
+ment and environmental pollution, that is to say, in an early
+stage of economic development, the environmental quality was
+deteriorating steadily with the increase of per capita income. How-
+ever, when the income level reached a certain turning point, the
+increase of income would positively inﬂuence  environmental qual-
+ity. The previous analyses mainly focused on economic growth
+and the increase of per capita income, but paid insufﬁcient  atten-
+tion to the pattern of economic development. To further explore
+the relationship between economic development and environmen-
+tal pollution, income distribution, as another aspect of economic
+development, should also be included in the analysis. In terms of
+income distribution, the relationship between income gaps and
+economic growth had long attracted scholars’ interest. Theoreti-
+cally, although income gaps might contribute to economic growth
+at an early stage, it would curb economic growth that reached a
+certain level.2
+Several scholars have recently empirically tested EKC hypothe-
+sis. Their research can be divided into two categories based on their
+conclusions: (1) studies that verify the inﬂuence  of income inequal-
+ity on environmental pollution by examining the existence of the
+EKC, including Torras and Boyce (1998), Grossman and Krueger
+(1991), Shaﬁk  and Bandyopadhyay (1992), Selden and Song (1994),
+Panayotou (1993), Coondoo and Dinda (2002), John and Pecchenino
+(1994), Shao et al. (2011), and Golley and Meng (2012). They
+conducted empirical studies on the relationship between differ-
+ent environmental pollution indicators and economic growth as
+well as income gaps, respectively. Their research proved the exist-
+ence of EKC and found that the constantly widening income gap
+affected environmental quality. For example, Torras and Boyce
+(1998) focused on environmental policies and adopted indicators of
+water quality provided by 287 observation stations in 58 countries
+and observable air quality indicators of 18–52  cities in 19–42
+countries. By detecting seven different types of pollution variables,
+they empirically proved that income inequality would lead to envi-
+ronmental degradation. By employing models using sulfur dioxide,
+smoke and dust as indicators of environmental quality, they
+discovered that widening income gaps and the degradation of envi-
+ronmental quality coexist in low income countries, which paves the
+way for studies about the relationship between income inequal-
+ity and environmental pollution. In similar studies, Grossman and
+Krueger (1994), Shaﬁk  and Bandyopadhyay (1992) and Selden and
+Song (1994) also found that income inequality would lead to devi-
+ation from environmental policies. Rich people, who often had
+more political power, only considered economic costs and bene-
+ﬁts,  whereas the terrible environmental cost was mostly borne by
+the poor, who accounted for most of the population; such envi-
+ronmental policies would aggravate pollution. Because everyone
+2 Except for examining the existence of EKC, some other aspects of the relationship
+between
+ environmental quality/energy consumption and the economic develop-
+ment
+ have also been investigated. For instance, some researchers examined the
+causality
+ between environmental quality/energy consumption and the economic
+development
+ (e.g., Wang et al., 2011; Zhang, 2011), some studies examine the so-
+called
+ “decoupling  effects” or “rebound  effects” of energy consumption and related
+CO2 emissions (e.g., Zhang and Da, 2015; Zhang et al., 2015).
+
+[[PAGE 3]]
+Y. Hao et al. / Ecological Indicators 67 (2016) 533–542  535
+produced or consumed products containing emission pollutants,
+Ravallion et al. (2000) studied the relationship between income
+inequality and environmental quality by constructing a demand
+function of carbon emissions that were individual and based on
+income. If the poor had a much higher (lower) marginal propen-
+sity to emit, the policies used to reduce income inequality might
+increase (decrease) carbon emissions. It is assumed that the poo-
+rest people had a much higher marginal propensity to emit than the
+richest because low-carbon products tended to have much higher
+technical requirements and thus often had higher prices that the
+poorest people could not afford. Moreover, the poor compared
+were more likely than the rich to use inefﬁcient  energy prod-
+ucts, which included a much higher marginal propensity to emit.
+Martinez-Alier (1995) analyzed the inﬂuence  of income inequal-
+ity on environmental quality from the perspective of supply and
+demand. In terms of demand, he divided environmental goods into
+environmental luxuries and environmental necessities (such as
+drinking water). Because the former had much higher income elas-
+ticity, redistribution of income would affect the quantity of these
+two environmental goods that the public demanded. The equal-
+ization of income distribution would increase people’s demand for
+environmental necessities and thus could reduce the demand for
+environmental luxuries, which could improve the basic environ-
+mental and living conditions. In terms of supply, because many
+environmental goods were subject to cost, redistribution of income
+would change the supply of environmental goods on the market.
+Martinez-Alier (1995) argues that “the  poor sell cheap products,”
+meaning they are more inclined to underestimate the value of envi-
+ronmental goods compared with other goods due to the lack of
+environmental goods on any market. Magnani (2000) found that
+a larger income gap would reduce people’s concern about and
+cooperation toward the environment. Using the middleman theory
+system, he demonstrated that expanding the income gap would
+aggravate environmental pollution by reducing the earnings of
+intermediaries and the consumption of environmentally friendly
+products, which indirectly supported Boyce’s (1994) argument.
+Ravallion et al. (2000) probed the relationship between pollutant
+emissions and income distribution. They thought that the process
+of income redistribution from poverty to prosperity would increase
+the pollutant emissions, and they described a trade-off between
+income equality and environmental quality. They found a concave
+shaped relationship between pollutants exhausted and economic
+growth. Their research detected a negative correlation between
+the intensity of emissions and income elasticity of most goods;
+articles that had higher income elasticity were usually goods that
+produced fewer pollutant emissions and vice versa. This ﬁnding
+suggests that increased income would shift consumption of goods
+containing highly polluting materials to consumption of goods con-
+taining low polluting materials. Based on the properties of the
+concave function, substitutional relations between income equal-
+ity and pollution emissions would weaken in the long run. Bimonte
+(2002) used the multinational cross-section data from 35 European
+countries as samples, which reﬂected  income distribution by Gini
+coefﬁcient,  and measured the environmental protection condition
+of a country by the proportion of conservation areas in national ter-
+ritorial areas. The results revealed a negative correlation between
+income inequality and environmental protection. He further indi-
+cated that more equal income distribution would bend the EKC
+left, that is, in an environment with relatively equal income dis-
+tribution, the EKC turning point will be achieved at a much lower
+income level. Shao et al. (2011) also veriﬁed  that inverted-N shaped
+relationship between energy-related industrial CO2 emissions and
+GDP per capita in Shanghai city of China. Meanwhile, other stud-
+ies, such as Scruggs (1998) and Ravallion et al. (2000) argued that
+no necessary relationship exists between income inequality and
+environmental pollution on the basis of EKC theory. Using panel
+data from 19 countries to associate environmental protection with
+income increase, Scruggs (1998) found that the rich would be more
+concerned about environmental quality. Ravallion et al. (2000)
+argued that the widening income gap between countries and inside
+some countries would lower carbon emissions at any given income
+level.
+Another large category of empirical studies examined the rela-
+tionship between income inequality and environmental quality
+based on refuting the EKC theory. With the increase of availabil-
+ity of data and the evolution of metering methods, the relationship
+between environmental pollution indicators and economic growth
+appears to be more complicated. For example, Perman and Stern
+(1999, 2003) and Aslanidis and Iranzo (2009), respectively, estab-
+lished panel data models to conduct empirical studies and found
+no inverted “U”  shaped relationship between environmental pol-
+lution and economic growth predicated by the EKC theory. Ample
+evidence demonstrated that standard EKC models were too sim-
+plistic to sufﬁciently  accommodate variables that helped explain
+pollutant emission levels. Different samples or measurement mod-
+els to determine and locate turning points in the various types of
+pollutant emissions yielded different conclusions. Auffhammer and
+Carson (2008) concluded that CO2 emissions per capita in China, the
+largest developing country, would increase continuously with the
+growth of GDP per capita. Magnani (2000) considered the degree
+of income inequality using Gini coefﬁcients  and price-to-income of
+the lowest and highest income stratiﬁcations  through analysis of
+the measures establishment of public policies for environmental
+protection and used data from Organization for Economic Co-
+operation and Development (OECD) member countries from 1980
+to 1991. He also analyzed environmental protection efforts of one
+country by examining public expenditure for research related to
+environmental protection and included cross terms of per capita
+income and indicators for income inequality in empirical mod-
+els. The empirical research had indicated a negative correlation
+between Gini coefﬁcients  and environmental protection expendi-
+ture per capita, excluding cross terms. In random effects models
+that considered time trends, when per capita income reached
+11,400 USD, the net effects between the price-to-income of lowest
+and highest income stratiﬁcations  and environmental protection
+expenditures per capita were positive, with cross terms included.
+The reversal of the relationship between per capita income and
+environment protection expenditure per capita was subject to
+income distribution. Under average price-to-income, the turning
+point would appear when per capita income reached 14,000 USD,
+which was higher than the estimated results (10,526 USD) with
+cross terms excluded. This ﬁnding  indicated that if the economic
+growth in high-income countries was accompanied by decreasing
+income inequality, the preference of public consumption for pri-
+vate goods would turn to consumption of public goods (such as
+environmental goods); if, and only if, income increase did not pro-
+duce substantial income inequality could the declining stage of EKC
+be realized. However, in most developing countries, the widening
+income gap trend would be enhanced with the income increase.
+He argued that income distribution was more inﬂuential  than
+average income on the realization of growth paths of sustainable
+development in high-income countries. Scruggs (1998) conducted
+empirical tests on information from the database of Global Envi-
+ronmental Monitoring System (GEMS) and the multinational data
+samples of 17 OECD member countries. The results indicated that
+the relationship between Gini coefﬁcients  used to reﬂect  income
+equality and environmental quality was uncertain. Analysis of
+the former group of samples had revealed that income inequality
+only had a signiﬁcant  negative relationship with the underwater
+oxygen content and aerial solid particles. Analysis of the latter
+group of samples was also uncertain except for a signiﬁcant  pos-
+itive correlation between income inequality and environmental
+
+[[PAGE 4]]
+536 Y. Hao et al. / Ecological Indicators 67 (2016) 533–542
+Environme ntal 
+ pollu/g415o n
+Vf(Y)
+E2 
+⎯E
+E1 
+Income levelY1 ⎯Y Y2
+EKC
+Fig. 1. The relationship between income levels and environmental quality in an
+“inverted-U”
+ shaped curve.
+quality in a group of speciﬁc  regression equations. However, that
+relationship was not statistically signiﬁcant  in other regression
+equations. Gawande et al. (2001) empirically analyzed the rela-
+tionship between American household income and toxic waste
+storage sites. The research indicated that under the EKC relation-
+ship, rich families would live far from sources of pollution. People
+who became rich were more inclined to move from polluted areas
+rather than inﬂuence  public policies for reducing pollutant emis-
+sions. To some extent, this veriﬁed  the argument of Boyce (1994)
+that income inequality would affect people’s time preference for
+environmental utilization. Studies by Torras and Boyce (1998) and
+Boyce (2010) have demonstrated that people’s requirements for
+the environment should be combined with their purchasing power
+and buying inclination. In this case, purchasing power referred to
+a realistic restraint for environmental concerns, and buying incli-
+nation referred to subjective restraint for environmental concerns.
+Income inequality differentiated the purchasing power of people
+from different income groups. When the income gap was widening,
+low-income groups were more likely to overuse natural resources
+to generate income, which would intensify environmental destruc-
+tion; whereas high-income groups were inclined to move to areas
+with lower environmental risks, and their willingness-to-pay for
+environmental management was low. Therefore, with the widening
+of the income gap, the willingness-to-pay on environment was low
+for both low-income groups and high-income groups, which aggra-
+vated environmental pollution. All this evidence veriﬁed  that the
+EKC did not exist. However, very few studies have investigated the
+relationship between income inequality and environmental quality
+in China. Compared with the numerous studies using multinational
+data, few studies have focused on China to empirically examine
+the relationship between the income gap and environmental per-
+formance. Therefore, investigating this relationship in China with
+rigorous econometric techniques is the major contribution of this
+study.
+3. Theoretical framework
+To theoretically explain the relationship between income
+inequality and environmental quality, previous studies have estab-
+lished speciﬁc  theoretical frameworks. For instance, Scruggs (1998)
+and Heerink et al. (2001) have investigated the theoretical scheme
+in which income inequality would improve environmental qual-
+ity in an economy with an “inverted-U”  shaped EKC. In a recent
+study, Berthe and Elie (2015) summarized the possible relation-
+ships between income inequality and environmental performance
+using three types of EKC hypothesizes. Based on previous studies,
+we elaborate the nexus of income inequality and environmental
+performance with the help of ﬁgures.
+As indicated in Fig. 1, when the EKC curve is an “inverted-
+U” shape, consider that the economy consists of two population
+CKElatnemnorivnE
+pollu/g415on 
+E2
+⎯E -Vf(Y)
+E1
+                Y 1       Y        Y2          Income level
+Fig. 2. The relationship between income levels and environmental quality in a “U”
+shaped
+ curve.
+Environme ntal   
+pollu/g415on
+EKC
+E1
+Y1 ⎯Y Y2 In come l evel
+E2
+⎯E
+Fig. 3. The relationship between income levels and environmental quality in lin-
+earity.
+groups: the poor and the rich. Assume that the income level of
+the poor is Y1 and the level of environmental pollution corre-
+sponding to the poor is E1, whereas the income level of the rich
+is Y2 and the corresponding environmental pollution is E2. As
+clearly indicated in Fig. 1, the average level of environmental pol-
+lution of the economy ( ¯E) is lower than the level of environmental
+pollution corresponding to the average income level at ¯Y. Vf(Y) rep-
+resents the difference between the average of the environmental
+pollution levels for the poor and the rich (i.e., E1 and E2, respec-
+tively) and the level of the environmental pollution corresponding
+to the average income level of Y1 and Y2 (i.e., ¯Y). In this case,
+income distribution matters for environmental quality. If some
+wealth is redistributed from the rich to the poor, the income gap
+between the rich and the poor decreases and the average pol-
+lution level for the whole economy rises. Conversely, when the
+EKC relationship is “U”  shaped, as presented in Fig. 2, enlarging
+the income gap would lead to a higher average level of environ-
+mental pollution. Because in this case the difference between the
+average of the environmental pollution levels for the poor and
+the rich and the level of the environmental pollution correspond-
+ing to the average income level is negative, to ensure that Vf(Y)
+always carries a positive sign, − Vf(Y) is utilized to represent this
+difference.3 Another possible EKC relationship is linear, as depicted
+in Fig. 3, where income inequality has no effect on environmental
+quality.4
+3 As Heerink et al. (2001) pointed out, the negation − Vf(Y) could be considered
+as
+ a measure of income inequality, of which the former proof is given by Heerink
+(1994)
+ and Heerink and Folmer (1994).
+4 Heerink et al. (2001) also provided in-depth explanations for the effects of
+income
+ inequality on environmental quality using mathematical models. For more
+information
+ about proof of the relationships between income inequality and envi-
+ronmental quality, see Heerink et al. (2001).
+
+[[PAGE 5]]
+Y. Hao et al. / Ecological Indicators 67 (2016) 533–542  537
+4. Data source and empirical methodology
+4.1. Data source
+Compared to cross-sectional data, panel data, which is char-
+acterized by large sample volume, can control heteroskedasticity
+between different individuals and areas and avoid biased estimates
+caused by neglected variables. Therefore, this study employs panel
+data from 23 Chinese provinces from 1995 to 2012 (excluding
+Tianjin, Hunan Province, Yunnan Province, Jilin Province, Hainan
+Province and Shandong Province).5 As there has been no ofﬁcial
+statistics of CO2 emissions for Chinese provinces yet, we calcu-
+lated provincial CO2 emissions following recent studies like Shao
+et al. (2011), Fan et al. (2015) and Hao and Wei (2015). Because this
+empirical study aimed to verify the relationship between income
+inequality and provincial per capita CO2 emissions, provincial Gini
+coefﬁcient  and per capita CO2 emissions are the key explanatory
+variables. Based on theoretical analysis, some effects of income dis-
+tribution on environmental quality may be indirectly affected by
+economic growth. Thus, in addition to the Gini coefﬁcient,  the prod-
+uct of the Gini coefﬁcient  and ln GDPperc (logarithm of per capita
+GDP converted into 1978 constant prices) were introduced into our
+model as explanatory variables. Based on the Lorenz curve, the Ital-
+ian economist Gini developed the Gini coefﬁcient  as an index to
+estimate distribution equality, which was often employed to mea-
+sure income inequality. This study adopted Gini coefﬁcient  data
+from 1995 to 2010 provided by Tian (2012) and calculated the data
+for the following two years (2011 and 2012) through the method
+he employed. The speciﬁc  equation is as follows:
+G = P2
+c
+uc
+u Gc + P2
+r
+ur
+u Gr + PcPr
+uc − ur
+u (1)
+where
+ Gc and Gr represent Gini coefﬁcients  of income differences
+for urban residents and rural residents, respectively; Pc and Pr rep-
+resent the proportion of urban and rural population, respectively;
+uc and ur represent per capita income of urban and rural residents,
+respectively; and u represents per capita income for the entire
+province (city, region).
+Urban and rural residents’ incomes have different data formats
+in the China Statistical Yearbook. The data for urban residents’
+income before 1986 and data for rural residents’ income before
+2001 were sorted by certain income spectrum. Subsequent data for
+urban residents were sorted into 7 unequal groups according to
+their income level whereas rural residents were sorted into 5 equal
+groups. Therefore, neither an equal nor an unequal method of calcu-
+lation can provide consistent results. Because the Gini coefﬁcient  is
+deﬁned  as the ratio of the area that lies between the line of equality
+and the Lorenz curve over the area of perfect equality of incomes,
+we derive the following equation to perform the calculation:
+G = 1 − 1
+PW
+n∑
+i=1
+(Wi− 1 + Wi) × Pi (2)
+In Eq. (2), P stands for total population; and Wi stands for
+incomes accumulated until Group i. This method successfully
+avoids the problem of dividing groups equally by only consider-
+ing the number and income of people in each group. All necessary
+data for urban and rural residents’ incomes for different provinces
+5 Tianjin, Hunan, Yunnan, Jilin, Hainan and Shandong are not included because
+their
+ data are incomplete. Chongqing was excluded because it did not become a
+municipality
+ until 1997. This study treated Sichuan and Chongqing as independent
+provincial
+ regions to input data. The data come from China Macro Economic Data. For
+convenience,
+ the term “province”  is used in reference to all provincial administrative
+units
+ in China throughout the entire study.
+come from the “People’s  Livelihood” chapter of the China Statistical
+Yearbook.
+Moreover, consistent with previous studies (e.g., Hao et al., 2014,
+2015), the empirical analysis uses the following control variables:
+(1) Real per capita GDP
+Many studies indicate that per capita CO2 emissions are
+highly correlated with per capita income and public require-
+ments for environmental quality. Compared to total GDP, per
+capita income is a better reﬂection  of real income and economic
+growth level, which clearly display economic inﬂuence  on envi-
+ronmental quality. Based on previous research, this study used
+the logarithmic form of real per capita GDP (1978 prices as con-
+stant) and its quadratic component to reveal the relationship
+between per capita income and per capita CO2 emissions.
+(2) Population density
+Density of population is often used as an inﬂuential  factor
+in CO2 emissions studies. However, the relationship between
+population density and environmental pollution is uncertain.
+High population density normally indicates a higher degree of
+industrialization and urbanization, thus more CO2 emissions
+exist. Conversely, high population density enables more efﬁ-
+cient and intensive energy use. Moreover, because the degree of
+environmental pollution is critical to public safety and health,
+those who live in areas with higher population density (par-
+ticularly in large cities with economically developed areas) are
+often more aware of environmental pollution, leading to greater
+public desire for improved environmental quality.
+(3) Industrial structure
+Because most CO2 emissions originate from the secondary
+industry, the relative scale of the secondary industry may
+have a direct and signiﬁcant  impact on per capita CO2 emis-
+sions. In addition, during the sample period, heavy industry has
+developed rapidly in many provinces and cities, increasing the
+contribution of secondary industry to total GDP. Thus the indus-
+trial structure, which is represented by the proportion of value
+added by secondary industry in GDP, is regarded as a control
+variable in this study.
+(4) Urbanization rate
+Due to the economy of scale and agglomeration effects
+as well as the energy consumption characteristics of urban
+residents, urbanization means larger populations and more
+economic activity. With both production and consumption
+levels improved, increased energy consumption and carbon
+emissions occur. However, the accumulation of urban popu-
+lation leads to economies of scale for the usage of public goods,
+accompanied by lifestyle changes and technology diffusion.
+Urbanization may also reduce per capita energy consumption
+and carbon emissions.
+Real per capita GDP for provinces and cities, value-added GDP
+by the secondary industry, population number and density and
+urbanization rates are all acquired from the China City Statis-
+tical Yearbook, China Energy Statistical Yearbook and Provincial
+Statistical Yearbooks of different regions over the years. Data on
+China’s total carbon dioxide emissions are obtained from the United
+Nations Statistics Division. Table 1 reports descriptive statistics of
+the variables used in this study.
+4.2. The econometric model
+Cross-sectional data were adopted in early studies about income
+inequality and environmental quality (Torras and Boyce, 1998).
+However, as Jobert et al. (2010) have noted, cross-sectional data
+conveyed two aspects of defects: only data from the beginning
+and end points of the sample period are used effectively, and the
+
+[[PAGE 6]]
+538 Y. Hao et al. / Ecological Indicators 67 (2016) 533–542
+Table 1
+Descriptive
+ statistics of variables in the model.
+Variables Unit Average Maximum Minimum Std. dev Obs.
+Total emissions of per capita CO2 kg/per capita 4934.14 27,316.59 1141.66 3593.16 414
+Real
+ per capita GDP (at 1978 constant piece) Yuan/per  capita 4667.11 30,104.7  575.81 4401.59 414
+The
+ proportion of the value added of secondary
+industry
+ in GDP
+%
+ 0.46 0.59 0.23 0.07 414
+Population density People/km2 406.11 3778.46 6.66 596.84 414
+Urbanization
+ rate % 42.42 89.3 13.52 16.86 414
+differences between various economies are not carefully consid-
+ered. Due to the explicit defects, this study employs the panel data
+model. Compared to cross-sectional data, the panel data model
+is characterized by larger sample volume, and can control het-
+eroskedasticity in different areas and correct errors caused by
+neglected variables.
+The following logarithmic equation is adopted as the benchmark
+regression equation for this study:
+ln cit = ˛i + /CRt + ˇ 1 ln yit + ˇ 2(ln yit )2
++ ˇ 3Git + ˇ 4(Git × ln yit ) + zit/DC1 + εit (3)
+where cit stands for per capita CO2 emission of Province i in Year
+t, yit stands for per capita GDP of Province i in Year t, Git stands for
+Gini coefﬁcient  of Province i in Year t, zit stands for other control
+variables, ˛ i stands for individual effect of province i that may affect
+per capita CO2 emission but is invariant with time, ˇ is the regres-
+sion coefﬁcient  and /CRt stands for time effect. εit is the independent
+identically distributed (i.i.d.) random disturbance term. Variables
+are converted into their logarithmic form to reduce ﬂuctuation  and
+the possible heteroskedasticity.
+In regression Eq. (3), the most important coefﬁcient  is coefﬁ-
+cient ˇ 3. A positive ˇ 3 indicates per capita CO2 emissions increase
+with the expansion of the income gap whereas a negative value
+indicates that the greater the income gap, the lower per capita CO2
+emissions are. Regression coefﬁcients  ˇ 1 and ˇ 2 are also important.
+A positive ˇ 1 and negative ˇ 2 indicate that real GDP per capita has
+an “inverted-U”  shaped relationship with per capita CO2 emissions,
+and a negative ˇ 1 and positive ˇ 2 represent a “U”  shaped relation-
+ship. Because an income gap may affect environmental pollution by
+inﬂuencing  residents’ income levels, the partial effect of an income
+gap on economic development can be described with the following
+equation:
+∂ ln cit
+∂Git∂ ln yit
+= (ˇ 1 + 2ˇ 2 ln yit + ˇ 4 ln Git )(ˇ 3 + ˇ 4 ln yit ) + ˇ 4
+(4)
+If (∂ln cit/∂Git∂ln yit) > 0, then the income gap aggravates the
+degree of damage that environmental pollution causes as the
+economy develops, or in other words, the income gap weakens
+environmental governance functions caused by economic develop-
+ment, and delays the arrival of the turning point for environmental
+pollution. If (∂ln cit/∂Git∂ln yit) < 0, then the income gap reduces
+the degree of damage caused by environmental pollution as the
+economy develops. Expansion of the income gap will relieve the
+environmental pollution.
+Being a static equation, dynamic calculations are not required
+in estimating Eq. (3). Two deﬁciencies  emerge when estimat-
+ing Eq. (3) using traditional econometric methods. First, variables
+are unavoidably omitted because some explanatory variables not
+introduced into the regression equation because data are unavail-
+able. Second, bidirectional causality exists in dependent variables
+and explanatory variables, and regression Eq. (3) has a potential
+endogeneity problem. However, traditional econometric methods
+cannot control the endogeneity problem effectively, which may
+result in some biased estimators of variation coefﬁcients.  Regres-
+sion Eq. (3) is, in essence, a dynamic equation. Due to the great
+inertia of pollutant emissions, per capita CO2 emissions for adja-
+cent years will remain almost constant. Thus, this dynamic factor
+must be considered; ignoring this dynamic effect in regression Eq.
+(3) may lead to regression errors.
+To explicitly introduce dynamic factors into the regression equa-
+tion, we add ln ci,t− 1 to the right side of Eq. (3) and obtain:
+ln cit = ˛i + /CRt + /DLE ln ci,t− 1 + ˇ 1 ln yit + ˇ 2(ln yit )2
++ ˇ 3Git + ˇ 4(Git × ln yit ) + zit/DC1 + εit (5)
+With the ﬁrst  order lag term of dependent variable ln ci,t on the
+right side, regression Eq. (5) is a standard dynamic equation.
+Using ﬁrst  order lag of the dependent variable as an explanatory
+variable in Eq. (5), residual term ε might have sequence correlation
+and be related to the ﬁrst  order lag term of the dependent vari-
+able. As for dynamic panel data, traditional OLS estimating methods
+may produce biased estimates and become inapplicable (Semykina
+and Wooldridge, 2010). As for non-static panel data, dynamic panel
+models with ﬁxed  effects (DFE) described by Pesaran and Smith
+(1995) should be adopted. In the dynamic panel models with ﬁxed
+effects, the intercept term (ﬁxed  effects) ˛ i of each city differs
+whereas the long-term coefﬁcient  (/DC1) of each explanatory variable
+is the same.
+Other methods to estimate dynamic Eq. (5) include instrument
+variables (IV) and the Generalized Method of Moments (GMM).
+Because appropriate instrumental variables are necessary in the
+IV method to eliminate endogeneity, and they are difﬁcult  to ﬁnd
+in practice, we use the GMM created by Arellano and Bond (1988)
+to estimate Eq. (5). GMM is also essentially a method of instru-
+ment variables, using predetermined variables and some lag terms
+of exogenous variables as instrument variables, which veriﬁes  the
+rationality of instrument variables by means of inspection. So far,
+the GMM method has been widely used in the studies on the exist-
+ence of EKC and the determinants of pollutant emissions in China
+(e.g., Shao et al., 2011; Hao and Wei, 2015; Fan et al., 2015).
+GMM is generally divided into ﬁrst-difference  GMM and system
+GMM, where the former employs time ﬁrst-difference  to process
+original data. However, because factors of the same provincial
+unit affecting CO2 emissions are invariant with time (e.g., climate,
+geographical location, and residents’ energy use habits) and the
+possibility of generating obvious errors for regression results has
+been eliminated, we adopt ﬁrst-difference  GMM in our regression
+analysis.
+5. Results and regression analysis
+Based on panel data from 23 effective provinces throughout
+China, panel regression results of different measurement models
+were obtained as presented in tables above during the sample
+period from 1995 to 2012. Taking into account economic discrepan-
+cies, the imbalanced social developments in China, the income gap
+in various regions, per capita income, population density, urbaniza-
+tion rate and share of value-added of second industry, we divided
+
+[[PAGE 7]]
+Y. Hao et al. / Ecological Indicators 67 (2016) 533–542  539
+Table 2
+The
+ estimation results.
+Scope Nationwide Eastern region Non-eastern region
+Econometric model 1 2 3 4 5 6
+Gini 0.512** 14.757*** 1.689 − 22.305 0.601* − 24.061***
+(0.233) (4.968) (1.270) (71.270) (0.348) (7.197)
+ln(GDPperc) − 4.266*** − 2.304* − 6.395** − 2.907 − 3.931** − 4.233***
+(0.424) (1.193) (2.711) (7.911) (0.406) (1.439)
+ln2 (GDPperc) 0.297*** 0.174*** 0.411*** 0.164 0.287*** 0.221***
+(0.026) (0.062) (0.155) (0.577) (0.027) (0.076)
+Gini*ln(GDPperc) 1.859*** 2.501 3.153***
+(0.645) (7.631) (0.956)
+Urban 0.016*** 0.016 0.028***
+(0.004) (0.016) (0.009)
+ln(popden) 7.267*** − 1.290 − 1.265
+(2.042)
+ (0.970) (1.493)
+Second
+ ratio 3.825*** 0.685 5.126*** 3.151 3.315*** 1.490**
+(0.430) (0.509) (1.295) (1.236) (0.436) (0.617)
+Hansen
+ test 0.796 0.053 1.000 0.858 0.986 0.976
+A-B
+ test of AR(2) 0.746 0.32 0.989 0.784 0.502 0.957
+Obs./instrument
+ 391/33 391/17 136/33 136/17 255/33 255/33
+Note:
+ ln(GDPperc) and ln2 (GDPperc) represent the logarithmic GDP per capita and its squared term, respectively. The values in brackets are standard errors.
+* Signiﬁcance  under level of 10%.
+** Signiﬁcance  under level of 5%
+*** Signiﬁcance  under level
+ of 1%.
+the
+ 
+country
+ into two parts: the eastern region and non-eastern
+region. We then analyzed the panel data. To verify the robustness
+of regression results, we tried different forms of regression equa-
+tion and obtained estimates for the country, the eastern region
+and non-eastern region. Estimation of each panel contains two
+parts. The equation in the ﬁrst  group performs a regression of
+the main explanatory variables, and the regression equation in the
+second group includes other control variables besides explanatory
+variables. Using ﬁrst-difference  GMM to control endogeneity and
+address missing variables, we perform a regression for the com-
+plete sample and two regionally divided sub-samples to obtain the
+following results.
+As indicated in Table 2, in the ﬁrst  group of regression equa-
+tions for every province and region, the dependent variables we
+use refer to the logarithmic values of per capita CO2 emissions,
+and thus they are used to indicate environmental pollution. The
+main explanatory variables are the Gini coefﬁcient,  per capita GDP
+and square of logarithmic value of per capita GDP. According to
+the estimation results, except for model 4 for the eastern region,
+the coefﬁcients  of ln(GDPperc) are signiﬁcantly  negative but the
+coefﬁcients  of ln2(GDPperc) are signiﬁcantly  positive, suggesting
+the existence of “U”  shaped EKC relationship between CO2 emis-
+sions and GDP per capita. The coefﬁcients  of Gini coefﬁcient  are
+positive in models (1), (3) and (5) when the interaction term of Gini
+coefﬁcient  and GDP per capita is not included; while the coefﬁcients
+of Gini coefﬁcient  turn to negative when the interaction term is
+incorporated. Overall speaking, these estimation results are basi-
+cally consistent with the predictions of the theoretical model, as
+we will discuss later. Besides, because the p-values of the Hansen
+tests and the Arellano and Bond (1988) tests of AR(2) for all models
+are both well above 0.1, the instrumental variables utilized in the
+GMM estimations are well designed and valid.6
+Because the main purpose of this research is to investigate the
+relationship between income inequality and environmental qual-
+ity, Gini coefﬁcient,  which is used to measure the size of the income
+gap, is the key explanatory variable. In these regression equations,
+the values of Gini coefﬁcients  in different regions are basically
+6 For more details about the GMM estimation technique, one could refer to
+Arellano
+ and Bond (1988) and Roodman (2009).
+positive,
+ 
+which
+ illustrates that environmental pollution would rise
+gradually with the widening of the income gap. Per capita GDP and
+square of logarithmic value of per capita GDP are used to measure
+economic development. As discussed earlier, the estimation results
+illustrate that with the development of the economy, pollution
+levels would ﬁrst  gradually decrease until reaching a lowest point
+and then rise continuously in a “U”  shaped trend. Musolesi et al.
+(2010) examined panel data from 109 countries from 1959 to 2001
+and found that the relationship between CO2 emissions and per
+capita GDP only appear to be an “N”  shaped curve in high-income
+countries, whereas CO2 emissions chart an increasing trend with
+the increase of per capita GDP in low-income countries. Wang et al.
+(2011) investigated relationships between CO2 emissions, energy
+consumption and economic growth in China based on the panel
+data for 28 provinces from 1995 to 2007 and detected a “U”  shaped
+curve between economic growth and CO2 emissions with a turning
+point at 3287 Chinese Yuan. Perman and Stern (1999) found that
+the parameters in half of EKCs on sulfur dioxide emissions from
+1960 to 1990 in approximately 74 countries are biased estimates.
+Even if the statistical data are co-integrated, the EKC in many
+countries are “U”  shaped rather than “inverted-U”  shaped. The
+study’s conclusion that “U”  shaped curves are obtained even in the
+presence of a co-integration relationship indicates that simple EKC
+models omit important variables. The coefﬁcient  of the second
+ratio is obviously positive, which reﬂects  the objective fact that
+the industrial sector is the main source of CO2 emissions in China.
+The energy consumption structure in China is still dominated by
+coal. In cities where secondary industry is more developed, the
+per capita CO2 emissions are greater. Seen from a quantitative
+relationship, with other conditions unchanged, the per capita
+carbon emissions would correspondingly increase 0.051%, 0.169%
+and 0.06% when the Gini coefﬁcient  increases every 0.1% across the
+country and in eastern and non-eastern regions, which illustrates
+that the growth effect of the widening of income gap on carbon
+emissions in eastern regions should be more signiﬁcant  than the
+nationwide rate. In non-eastern regions, the logarithmic value of
+per capita GDP is obviously negative, which illustrates that the
+per capita carbon emissions would correspondingly decrease by
+4.266%, 6.395% and 3.931% with initial per capita GDP increasing
+every 1%. Per capita carbon emissions would correspondingly
+increase by 3.825%, 5.126% and 3.315% with the share of secondary
+
+[[PAGE 8]]
+540 Y. Hao et al. / Ecological Indicators 67 (2016) 533–542
+industry increasing every 1%, which again illustrates that due to the
+energy consumption in the eastern region, the hub for economic
+development in China is huge and intensive, and the increase of
+share of secondary industry in GDP growth would make carbon
+emissions in eastern regions increase at a faster rate.
+Because the income gap may inﬂuence  environmental pollu-
+tion by affecting economic development, we introduced cross items
+of income gap and economic development in the second group of
+models to measure this mechanism. The partial effect of cross items
+of Gini coefﬁcients  and logarithmic values of per capita GDP are
+signiﬁcantly  positive, which suggests that the income gap would
+aggravate the damages of environmental pollution as the econ-
+omy grows. Theoretically, environmental pollution is subject to
+economic development, the urbanization level, population density
+and the share of secondary industry. A number of existing empirical
+studies also utilized population density as an explanatory vari-
+able of pollutant emissions (e.g., Auffhammer and Carson, 2008;
+Hao et al., 2015). Researchers have also veriﬁed  the close relation
+between pollutant emissions and industrial development (e.g., He,
+2009; Zhang et al., 2014). Besides, in some recent studies, the close
+relationship between urbanization and environmental quality has
+been investigated and veriﬁed  (e.g., Sheng and Guo, 2016; Wang
+et al., 2016). Hence, the population density, urbanization ratio, and
+industrial structure, measured by the ratio of secondary industry
+value added to GDP, are introduced as the control variables. There-
+fore, we introduced these factors as control variables for others in
+the second equation in different regions. After introducing other
+control variables, the values of Gini coefﬁcients  sharply decreased
+to negatives with the signiﬁcance  level increased to some extent,
+but due to the inclusion of product terms of Gini coefﬁcients  and
+GDP, the marginal effect of Gini coefﬁcients  on carbon emissions
+should be related to GDP level. Nationwide, this marginal effect is
+− 14.757 + 1.859*ln GDPperc. Therefore, when GDP reaches a cer-
+tain level (when ln GDPperc = 7.94, the corresponding per capita
+GDP is 2802 RMB), this marginal effect should be positive, but per
+capita GDPs of almost all provinces after 2001 have exceeded this
+level. This ﬁnding  indicates that the inﬂuence  of the income gap
+on carbon emissions is basically positive after 2002, and more
+extreme the income gap is, the more extreme environmental pollu-
+tion will be. However, for eastern regions, the marginal effect of the
+Gini coefﬁcient  on carbon emissions is 22.305 + 2.501*ln GDPperc.
+When per capita GDP is 7468 RMB, the marginal effect should
+be positive; but per capita GDPs after 1995 all have exceeded
+this level. Similarly, when per capita GDP is 2446 RMB in non-
+eastern regions, a positive marginal effect can be achieved. Per
+capita GDP in non-eastern regions after 2000 all exceeded this
+level, which indicates that the widening income gap in the east-
+ern region would make carbon emissions increase at a faster rate.
+This ﬁnding  again veriﬁed  the conclusion obtained from the ﬁrst
+group of models. For per capita GDP, the conclusion of the sec-
+ond group of models is almost the same as that of the ﬁrst  group
+of models, and trends for the relationship between income gap
+and carbon emissions accords with the variation tendency of “U”
+shaped curves. For population density, the nationwide conclu-
+sions are similar to those of the eastern and non-eastern regions.
+Increased population density in eastern regions would decrease
+carbon emissions, possibly due to better infrastructure develop-
+ment and stronger environmental carrying capacity in these areas.
+The proper increase of urban population can maximize existing
+building energy and transportation infrastructure in downtown,
+which can enhance a city’s potential for reducing emissions to
+some extent. However, the logarithmic values of population den-
+sity for eastern and non-eastern regions are not signiﬁcant,  which
+illustrates that the inﬂuence  of population density on carbon emis-
+sions is not signiﬁcant.  At the same time, the increase of share
+of secondary industry in GDP growth would increase the per
+capita carbon emissions in different regions, similar to the ﬁrst
+regression group, which indicates that the economic develop-
+ment model for secondary industry in China is dominated by an
+extensive pattern: heavy industry develops rapidly, and rapid eco-
+nomic development occurs at the cost of severe pollution and high
+energy consumption. Finally, the regression coefﬁcients  for urban-
+ization levels nationwide and in eastern and non-eastern regions
+are signiﬁcantly  positive. Every 1% of increase of urbanization rate
+would increase carbon emissions nationwide or in eastern and
+non-eastern regions by 0.016%, 0.016% and 0.028%, respectively,
+which reﬂects  that the urbanization level has relatively little inﬂu-
+ence on per capita carbon emissions (the absolute value of the
+coefﬁcient  is small) and less inﬂuence  than expected on carbon
+emission levels. This phenomenon could be due to different geo-
+graphical locations of cities, correspondingly different resources
+and technologies, different comprehensive environmental carry-
+ing capacities and different absorption and puriﬁcation  functions
+for pollutants.
+To enhance the explanatory power of the estimation results, it
+is necessary to compare the ﬁndings  of this study with the previ-
+ous ones. It is noteworthy that most of existing researches on the
+relationship between income inequality and environmental qual-
+ity using international data found that higher income inequality is
+associated with lower pollution and better environmental quality
+(e.g., Ravallion et al., 2000; Heerink et al., 2001). Using county-
+level data of the U.S., Charafeddine and Boden (2008) also found
+that income inequality plays a role of an effect modiﬁer  of the
+association between general self-reported health and particulate
+pollution. Contrarily, Golley and Meng (2012) utilized a Chinese
+household survey data and found that the redistribution of income
+from rich to poor households tends to reduce aggregate house-
+hold emissions. Generally speaking, the estimation results obtained
+from international data or U.S. data are opposite to the basic ﬁnd-
+ings of this study, while Golley and Meng’s (2012) result is roughly
+in line with this research. The main reason for the signiﬁcant  dif-
+ferences between the estimation results for foreign countries and
+for China may be different shapes of EKC relationship in foreign
+countries and in China. Ravallion et al. (2000) and Heerink et al.
+(2001) both found evidence of “inverted-U”  shaped EKC, there-
+fore lower level of income inequality would trigger more pollutant
+emissions, as shown in Fig. 1. On the contrary, Golley and Meng
+(2012) and this study found that the EKC relationship between CO2
+emissions and per capita GDP in China is “U”  shaped, therefore
+lower income inequality would bring about higher emissions and
+deteriorated environmental quality, as Fig. 2 illustrates. As a result,
+although the main ﬁndings  of this study are just opposite to those
+for international data and foreign countries, our study is still con-
+sistent with the theoretical expectations and adds new evidence to
+support the theoretical explanations for the relationship between
+income inequality and environmental quality, as discussed in the
+theoretical framework section.
+The ﬁndings  of this study also have important policy implica-
+tions for China. Given that the relationship between CO2 emissions
+per capita and GDP per capita in China is “U”  shaped, the policies
+that reduce income inequality are also beneﬁcial  to the improve-
+ment of environmental quality. However, it should be noted that
+Chinese government has vowed to reach the peak of CO2 emis-
+sions in China by 2030, therefore at some time in the future the
+relationship between the CO2 emissions per capita and the income
+inequality may become “inverted-U”  shaped. At that time, China
+would face a potential trade-off between environmental conserva-
+tion and income equality, as the U.S. and many developed countries
+do nowadays. As a result, China’s government should utilize the
+current opportunity and seize the time to narrow the income gap,
+which helps to achieve the government’s goal of constraining CO2
+emissions.
+
+[[PAGE 9]]
+Y. Hao et al. / Ecological Indicators 67 (2016) 533–542  541
+6. Conclusion and policy suggestions
+With the sustainable development of China’s economy and rapid
+development of urbanization and industrialization since the 1990s,
+pollutant emissions have increased signiﬁcantly  and environmen-
+tal quality has deteriorated. In the meantime, due to the unbalanced
+development of regional economies and the continuous widening
+of the income gap, China’s challenge to improve environmental
+quality and narrow the income gap has doubled. To further investi-
+gate the relationship between the income gap and environmental
+quality in China, this study uses panel data for 23 provinces from
+1995 to 2012, taking carbon emission as a proxy indicator of envi-
+ronmental pollution, and performs systematic GMM regression to
+analyze and verify the relationship between provincial per capita
+CO2 emissions and the income gap in China. This study divides
+China geographically into eastern and non-eastern regions, con-
+ducts regressive studies on their subsamples, respectively, and
+analyzes relevant factors that affect per capita CO2 emission in
+China. The study draws the following three main conclusions:
+(1) During the sample period, per capita CO2 emissions increased
+continuously in the 23 provinces as the income gap widened.
+The conclusions obtained according to dynamic panel data and
+estimated values of systematic GMM regression all support
+the existence of this effect. Meanwhile, the income gap factor
+increased the negative impact on environmental pollution by
+acting on economic growth and promoting economic develop-
+ment.
+(2) After dividing China geographically into eastern and non-
+eastern regions, the author conducted panel data analysis on
+two subsamples. The conclusion has illustrated that per capita
+CO2 emissions would increase continuously as the income
+gap widens in both regions. After controlling endogeneity and
+introducing dynamic relations, the GMM regression results
+indicate that the inﬂuence  of regional income inequality on CO2
+emissions is greater in the east. Per capita CO2 emissions in the
+east would increase dramatically with the widening income
+gap, whereas the growth is relatively slow in non-eastern
+regions.
+(3) Factors such as real per capita GDP, population density and the
+share of secondary industry in GDP growth and the urbaniza-
+tion rate would affect provincial per capita CO2 emissions. The
+relationship between real per capita GDP and per capita CO2
+emissions is likely to be a “U”  shaped curve. High per capita GDP
+and increased share of secondary industry would accelerate per
+capita CO2 emissions. Meanwhile, relatively high population
+density would make per capita CO2 emissions decrease, but the
+effect is not signiﬁcant.  The inﬂuence  of urbanization on CO2
+emissions is not signiﬁcant.
+Based on these conclusions, the following policy suggestions can
+be made:
+(1) Due to the exact existence of the inﬂuence  of income gap on CO2
+emissions, the bigger the income gap is, the more severe that
+environmental pollution will be. Because, an excessive income
+gap is not conducive to improving environmental quality at
+this stage in China, the government must deepen reform of
+the income distribution system and coordinate the relation-
+ship between equity and efﬁciency,  narrow the income gap and
+build a harmonious society aimed at improving the general wel-
+fare of a society while coordinating the relationship between
+economic growth and environmental quality.
+(2) Based on the results for regional divisions, although the widen-
+ing income gap within two subsamples would increase per
+capita CO2 emissions, they are still slightly different. Therefore,
+different policies must be adopted based on actual conditions
+and adjusting for regional differences. For example, the per
+capita CO2 emissions in eastern regions and pollutant discharge
+efﬁciency  are generally higher than those in the non-eastern
+regions. Meanwhile, skewed income distribution in eastern
+regions has a more signiﬁcant  inﬂuence  on environmental qual-
+ity. Therefore, more powerful environment protection policies
+and enhanced supervision should be implemented in east-
+ern regions to prompt the fast reduction of per capita CO2
+emissions. Further adjusting and optimizing various links for
+primary distribution and redistribution and establishing and
+perfecting a mechanism to ensure stable income growth for
+those with medium and low incomes is necessary to improve
+consumption power. The advantages of the sufﬁcient  capital
+and social resources in eastern regions can be used to provide
+more public beneﬁts  and services and perfect the social secu-
+rity network. Per capita CO2 emissions are increasing rapidly
+in non-eastern regions due to the lack of advanced tech-
+nology, and the environmental carrying capacity is relatively
+low. Increasing overall household incomes and promoting
+the coordinated development of all regions can be achieved
+by encouraging a regional industrial technology alliance,
+enhancing relevant technical communication and cooperation
+between provinces and paying special attention to vigorously
+developing resource-saving and environmentally friendly spe-
+cial advantage industries, together with the improvement of
+the ecological environment of the western regions.
+(3) Because per capita CO2 emissions would ﬁrst  decrease and
+then increase with the increase of real per capita GDP and the
+eventual increase of the share of secondary industry in GDP
+contributes more to the increase of real per capita GDP, a posi-
+tive correlation exists between the share of secondary industry
+and CO2 per capita emissions, which illustrates that secondary
+industry has become a key factor in the emissions of traditional
+pollutants. To reduce per capita CO2 emissions and acceler-
+ate the peak pollutant discharges value, the share of secondary
+industry must be reduced as well as adjusting and optimizing it,
+promoting the decarburization of energy consumption, trans-
+forming economic development patterns, energetically popu-
+larizing the advanced energy-saving and emission reduction
+production technology, impelling industrial transformation,
+optimizing industrial structure and promoting the coordinated
+development of the economy and environment.
+Despite some limitations due to the data availability of some
+provinces, this study makes some preliminary efforts to investigate
+the relationship between income inequity and CO2 emissions in
+China. As a result, this study has shed some light on future research
+directions. For instance, the relationship between income inequity
+and other environmental pollutants, such as SO2 and ﬁne  particles
+(PM2.5), could be intensively investigated. Because the EKC rela-
+tionship for the emissions of the other pollutants may be quite
+different from that for CO2 emissions, the relationship between
+income inequality and pollutant emissions and the corresponding
+policy implications may also be different. Another possible and
+interesting research ﬁeld  is the feedback effects of environmental
+quality on income inequality. Generally speaking, the rich would
+like to and are affordable to live in the areas with better envi-
+ronmental quality, while the poor usually live in more polluted
+regions. The inequality in living conditions may further affect
+income gap, which in turn inﬂuences  the environmental quality.
+This issue is particularly important for the developing countries
+like China and India, where a large ratio of population is still
+poor. If the feedback effects from environmental quality to income
+inequality indeed exist, the government has to pay more attention
+
+[[PAGE 10]]
+542 Y. Hao et al. / Ecological Indicators 67 (2016) 533–542
+to the improvement of environmental quality in designing effective
+policies for poverty relief and reduction of income inequality.
+Acknowledgments
+The authors acknowledge the ﬁnancial  support from the
+National Natural Science Foundation of China (Grant number:
+71403015, 71521002), the Scientiﬁc  Research Foundation for the
+Returned Overseas Chinese Scholars, State Education Ministry of
+China (Grant number: 20152132001), the Excellent Young Scholars
+Research Fund of Beijing Institute of Technology (Grant num-
+ber: 20142142005), and Beijing Natural Science Foundation (Grant
+number: 9162013). We also appreciate two anonymous reviewers’
+helpful and valuable comments. All errors and mistakes are our
+owns.
+References
+Arellano, M., Bond, S., 1988. Dynamic Panel Data Estimation Using PPD: A Guide for
+Users. Institute for Fiscal Studies.
+Aslanidis, N., Iranzo, S., 2009. Environment and development: is there a Kuznets
+curve for CO2 emissions? Appl. Econ. 41 (6), 803–810.
+Auffhammer, M., Carson, R.T., 2008. Forecasting the path of China’s CO2 emissions
+using province-level information. J. Environ. Econ. Manag. 55 (3), 229–247.
+Berthe, A., Elie, L., 2015. Mechanisms explaining the impact of economic inequality
+on environmental deterioration.
+ Ecol. Econ. 116, 191–200.
+Bimonte, S., 2002. Information access, income distribution, and the Environmental
+Kuznets Curve. Ecol. Econ. 41 (1), 145–156.
+Boyce, J.K., 1994. Inequality as a cause of environmental degradation. Ecol. Econ. 11
+(3), 169–178.
+Boyce, J.K., 2010. Economic Inequality and Environmental Quality: Evidence of Pol-
+lution Shifting in Russia. PERI Working Papers., pp. 189.
+Charafeddine, R., Boden, L.I., 2008. Does income inequality modify the association
+between air pollution and health? Environ. Res. 106 (1), 81–88.
+Coondoo, D., Dinda, S., 2002. Causality between income and emission: a country
+group-speciﬁc  econometric analysis. Ecol. Econ. 40 (3), 351–367.
+Fan, M., Shao, S., Yang, L., 2015. Combining global Malmquist–Luenberger  index
+and generalized method of moments to investigate industrial total factor CO2
+emission performance: a case of Shanghai (China). Energy Policy 79, 189–201.
+Galor, O., Moav, O., 2004. From physical to human capital accumulation: inequality
+and the process of development. Rev. Econ. Stud. 71 (4), 1001–1026.
+Gawande, K., Berrens, R.P., Bohara, A.K., 2001. A consumption-based theory of the
+environmental Kuznets curve. Ecol. Econ. 37 (1), 101–112.
+Golley, J., Meng, X., 2012. Income inequality and carbon dioxide emissions: the case
+of Chinese urban households. Energy Econ. 34 (6), 1864–1872.
+Grossman, G.M., Krueger, A.B., 1991. Environmental Impacts of a North American
+Free Trade Agreement (No. w3914). National Bureau of Economic Research.
+Grossman, G.M., Krueger, A.B., 1994. Economic Growth and the Environment (No.
+w4634). National Bureau of Economic Research.
+Hao, Y., Liao, H., Wei, Y., 2014. The Environmental Kuznets Curve for China’s per
+capita energy consumption and electricity consumption: an empirical estima-
+tion on the basis of spatial econometric analysis. China Soft Sci. (1), 134–147  (in
+Chinese).
+Hao, Y., Wei, Y.M., 2015. When does the turning point in China’s CO2 emissions
+occur? Results based on the Green Solow model. Environ. Dev. Econ. 20 (06),
+723–745.
+Hao, Y., Zhang, Q., Zhong, M., Li, B., 2015. Is there convergence in per capita SO2
+emissions in China? An empirical study using city-level panel data. J. Clean.
+Prod. 108, 944–954.
+He, J., 2009. China’s industrial SO2 emissions and its economic determinants: EKC’s
+reduced vs. structural model and the role of international trade. Environ. Dev.
+Econ. 14 (02), 227–262.
+Heerink, N., 1994. Population Growth Income Distribution and Economic Develop-
+ment: Theory Methodology and Empirical Results.
+Heerink, N., Folmer, H., 1994. Income distribution and the fulﬁllment  of basic needs:
+theory and empirical evidence. J. Policy Model. 16 (6), 625–652.
+Heerink, N., Mulatu, A., Bulte, E., 2001. Income inequality and the environ-
+ment: aggregation bias in environmental Kuznets curves. Ecol. Econ. 38 (3),
+359–367.
+Jobert, T., Karanﬁl,  F., Tykhonenko, A., 2010. Convergence of per capita car-
+bon dioxide emissions in the EU: legend or reality? Energy Econ. 32 (6),
+1364–1373.
+John, A., Pecchenino, R., 1994. An overlapping generations model of growth and the
+environment. Econ. J. 104, 1393–1410.
+Magnani, E., 2000. The Environmental Kuznets Curve, environmental protection
+policy and income distribution. Ecol. Econ. 32 (3), 431–443.
+Martinez-Alier, J., 1995. Political ecology, distributional conﬂicts,  and economic
+incommensurability. New Left Rev. 211, 70–88.
+Musolesi, A., Mazzanti, M., Zoboli, R., 2010. A panel data heterogeneous Bayesian
+estimation of environmental Kuznets curves for CO2 emissions. Appl. Econ. 42
+(18),
+ 2275–2287.
+Panayotou, T., 1993. Empirical Tests and Policy Analysis of Environmental Degrada-
+tion at Different Stages of Economic Development (No. 292778). International
+Labour Organization.
+Perman, R., Stern, D.I., 1999. The Environmental Kuznets Curve: Implications of Non-
+stationarity. Australian National University, Mimeo.
+Perman, R., Stern, D.I., 2003. Evidence from panel unit root and cointegration tests
+that
+ the environmental Kuznets curve does not exist. Aust. J. Agric. Resour. Econ.
+47 (3), 325–347.
+Pesaran, M.H., Smith, R., 1995. Estimating long-run relationships from dynamic het-
+erogeneous panels. J. Econom. 68 (1), 79–113.
+Ravallion,
+ M., Heil, M., Jalan, J., 2000. Carbon emissions and income inequality.
+Oxford Econ. Papers, 651–669.
+Roodman, D., 2009. A note on the theme of too many instruments. Oxford Bull. Econ.
+Stat. 71 (1), 135–158.
+Scruggs, L.A., 1998. Political and economic inequality and the environment. Ecol.
+Econ. 26 (3), 259–275.
+Selden, T.M., Song, D., 1994. Environmental quality and development: is there a
+Kuznets curve for air pollution emissions? J. Environ. Econ. Manag. 27 (2),
+147–162.
+Semykina, A., Wooldridge, J.M., 2010. Estimating panel data models in the presence
+of endogeneity and selection. J. Econom. 157 (2), 375–380.
+Shaﬁk,  N., Bandyopadhyay, S., 1992. Economic Growth and Environmental Quality:
+Time-series and
+ Cross-country Evidence, vol. 904. World Bank Publications.
+Shao, S., Yang, L., Yu, M., Yu, M., 2011. Estimation, characteristics, and determinants
+of energy-related industrial CO2 emissions in Shanghai (China), 1994–2009.
+Energy Policy 39 (10), 6476–6494.
+Sheng, P., Guo, X., 2016. The long-run and short-run impacts of urbanization on
+carbon dioxide emissions. Econ. Model. 53, 208–215.
+Tian, W., 2012. The measurement of Gini coefﬁcients  for Chinese provincial residents
+and an analysis on their changing trend. Econ. Sci. (2), 48–59  (in Chinese).
+Torras, M.,
+ Boyce, J.K., 1998. Income, inequality, and pollution: a reassessment of the
+environmental Kuznets curve. Ecol. Econ. 25 (2), 147–160.
+Wang, Q., Zeng, Y.E., Wu, B.W., 2016. Exploring the relationship between urbaniza-
+tion, energy consumption, and CO2 emissions in different provinces of China.
+Renew. Sustain. Energy Rev. 54, 1563–1579.
+Wang, S.S., Zhou, D.Q., Zhou, P., Wang, Q.W., 2011. CO2 emissions, energy consump-
+tion and economic growth in China: a panel data analysis. Energy Policy 39 (9),
+4870–4875.
+Zhang, Y.J., 2011. Interpreting the dynamic nexus between energy consumption
+and economic growth: empirical evidence from Russia. Energy Policy 39 (5),
+2265–2272.
+Zhang, Y.J., Da, Y.B., 2015. The decomposition of energy-related carbon emission and
+its decoupling with economic growth in China. Renew. Sustain. Energy Rev. 41,
+1255–1266.
+Zhang, Y.J., Hao, J.F., 2016. The evaluation of environmental capacity: evidence in
+Hunan province of China. Ecol. Indic. 60, 514–523.
+Zhang,
+ Y.J., Liu, Z., Zhang, H., Tan, T.D., 2014. The impact of economic growth, indus-
+trial structure and urbanization on carbon emission intensity in China. Nat.
+Hazards 73 (2), 579–595.
+Zhang, Y.J., Peng, H.R., Liu, Z., Tan, W., 2015. Direct energy rebound effect for road
+passenger transport in China: a dynamic panel quantile regression approach.
+Energy Policy 87, 303–313.

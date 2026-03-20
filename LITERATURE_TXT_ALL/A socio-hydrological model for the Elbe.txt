@@ -1,0 +1,24 @@
+[[PAGE 1]]
+Geophysical Research Abstracts
+V ol. 20, EGU2018-8473, 2018
+EGU General Assembly 2018
+© Author(s) 2018. CC Attribution 4.0 license.
+A socio-hydrological model for the Elbe
+Marlies Barendrecht (1), Alberto Viglione (1), Heidi Kreibich (2), Sergiy V orogushyn (2), Bruno Merz (2), and
+Guenter Bloeschl (1)
+(1) Institute of Hydraulic Engineering and Water Resources Management, Vienna University of Technology, Vienna, Austria
+(barendrecht@hydro.tuwien.ac.at), (2) GeoForschungsZentrum Potsdam (GFZ), Section Engineering Hydrology, Potsdam,
+Germany
+Long-term feedbacks between humans and ﬂoods may lead to complex phenomena such as coping strategies,
+levee effects, call effects, adaptation effects, and poverty traps. Dynamic coupled human-ﬂood models are a
+promising tool to represent such phenomena and the feedbacks leading to them. So far the socio-hydrological
+ﬂood models that have been developed are mostly generic and have not been developed and calibrated to represent
+a speciﬁc case study. We believe that applying and calibrating these type of models to real world case studies can
+help us further develop our understanding about the phenomena that occur in these systems.
+We investigate the case of Dresden where the 2002 ﬂood, which was preceded by a period without ﬂoods,
+but was less severe, resulted in a higher damage than the 2013 ﬂood, which was preceded by the 2002 ﬂood.
+The lower damage in 2013 may be explained by the fact that society has become aware of the ﬂood risk and has
+adapted to it. We develop a socio-hydrological ﬂood model that relates society’s awareness and preparedness to
+ﬂood losses. With Bayesian inference we estimate the parameters of this model using empirical data for Dresden.
+The model quantiﬁes the effect of preparedness on losses in the case of Dresden and provides an explanation for
+the fact that damages were lower in 2013.

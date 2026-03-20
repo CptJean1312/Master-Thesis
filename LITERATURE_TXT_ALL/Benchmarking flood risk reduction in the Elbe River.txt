@@ -1,0 +1,611 @@
+[[PAGE 1]]
+Benchmarking ﬂood risk reduction in the Elbe River
+W. Grabs
+International Water Affairs, Federal Institute of Hydrology, Koblenz, Germany
+Correspondence
+Dr Wolfgang Grabs, Federal Institute of
+Hydrology, Koblenz, Germany
+Email: grabs@bafg.de
+DOI: 10.1111/jfr3.12217
+Key words
+Benchmarking; Elbe River; ﬂood risk
+reduction; integrated ﬂood risk
+management; International Flood
+Initiative.
+Abstract
+The past decade has seen the development and overall acceptance of the concept
+of Integrated Flood Risk Management. This approach strives to balance positive
+and negative effects of riverine ﬂoods and combines it with risk management
+concepts. In practice, this has led to a diversiﬁcation of ﬂood management
+practices that go beyond traditional structural ﬂood protection measures
+towards non-structural measures. These include giving more space for rivers,
+backwards location of dykes, re-naturalisation of ﬂood plains and a suite of
+improved information systems including improved ﬂood forecasting services,
+promoting ﬂood risk awareness and self-help capabilities. The paper describes
+in some detail the process of benchmarking to support effective planning,
+implementation and monitoring of integrated ﬂood risk management activities
+that require a set of quantiﬁable measures, against which progress in ﬂood risk
+management can be referenced. The case of the extreme Elbe River ﬂoods in
+2002 and 2013 triggered the development and implementation of the Elbe
+Flood Protection – Action Plan that in large parts has been implemented. The
+paper shows the basic concepts of the Elbe Flood Protection Plan and its actions
+and puts these in the context of a benchmarking framework. The paper con-
+cludes that although elements of a benchmarking concept are outlined in the
+Action Plan, the establishment of benchmarking practices as a tool in ﬂood risk
+management is in its infancy. The development of a consistent benchmarking
+procedure would have the potential to improve further the effectiveness of
+Integrated Flood Risk Management practices in national and international river
+basins.
+Introduction
+In the past two decades, there has been a growing recogni-
+tion that traditional methods of ﬂood management if taken
+in isolation do not yield the expected results. Structural
+measures as beneﬁcial as they show that ﬂood hazards can be
+mitigated but not eliminated. Absolute safety from ﬂoods is
+a treacherous illusion as this is in most cases technically and
+economically not feasible and even may result in negative
+effects such as ecological degradation of ﬂood plains. Engi-
+neering solutions such as dams and dykes if taken in isola-
+tion may pretend an increased safety when on the other hand
+they may be the cause of an increased residual risk and
+resulting vulnerability of people and infrastructure in case of
+a failure of the dam/dyke as a result of an extreme event.
+The basic concept of Integrated Flood Management
+(IFM) is to ‘integrate land and water resources development
+in a river basin, within the context of Integrated Water
+Resources Management, with a view to maximising the efﬁ-
+cient use of ﬂoodplains and to minimising loss of life and
+property’ (W orld Meteorological Organization, 2009).
+Figure 1 provides a model for integrated ﬂood management
+taking into account non-structural measures as well as
+socio-economic and environmental aspects.
+In essence, integrated ﬂood management encompasses a
+‘best mix’ of structural measures and non-structural meas-
+ures that include, for example improved warning systems as
+well as the application of innovative measures including
+reactivation of former ﬂood plains, backwards relocation of
+dykes improvements on land use practices as well as strategic
+approaches aiming towards adaptation to change as a result
+of demographic, economic, environmental and climate
+change. Figure 2 depicts examples for strategies and options
+in Integrated Flood Management.
+Flood risk management
+In addition to the adoption of an integrated ﬂood manage-
+ment concept, the additional concept of risk management is
+J Flood Risk Management•• (2015) ••–•• © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons LtdJ Flood Risk Management 9 (2016) 335–342 © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+
+
+[[PAGE 2]]
+important as risk management entails the planning and
+implementation of suitable measures that prevent ﬂood
+hazards to become a disaster in a socio-economic context.
+‘Flood risk’ means the combination of the probability of a
+ﬂood event and of the potential adverse consequences for
+human health, the environment, cultural heritage and eco-
+nomic activity associated with a ﬂood event (EC, 2007).
+The management of ﬂood risks encompasses a wide range
+of socio-economic aspects dealing with culture-sensitive
+issues related to ‘acceptable risk’ versus ‘tolerable’ or ‘unac-
+ceptable’ risks. In this way, risk management can be seen in
+the context of decision making under uncertainty, limited
+resources and the need for prioritisation. Inherently, ﬂood
+risk management needs to be applied in a ﬂexible manner to
+enable adaptation to changing conditions including demo-
+graphic and economic developments and climate change.
+Figure 3 shows the evolution of ﬂood management from
+ﬂood control towards ﬂood risk management.
+In accordance to article 7 of the EC Flood Directive,‘Flood
+risk management plans shall address all aspects of ﬂood risk
+management focusing on prevention, protection, and pre-
+paredness, including ﬂood forecasts and early warning
+systems and taking into account the characteristics of the
+particular river basin or sub-basin. Flood risk management
+plans may also include the promotion of sustainable land use
+practices, improvement of water retention as well as the
+controlled ﬂooding of certain areas in the case of a ﬂood
+event’ (EC, 2007). It needs to be mentioned here that in an
+international European and transboundary context, inte-
+grated ﬂood risk management needs to be supportive and
+non-contradictory to national and international legislation
+within an overall agreed ﬂood risk management framework.
+Experience shows that collaboration between insurance
+operators, government authorities and other key stakehold-
+ers is crucial when it comes to encouraging risk reduction in
+both the public and private sectors (Amendola et al., 2013,
+cited in Zürich Insurance Group, 2014). An important aspect
+in ﬂood risk management is the concept of ‘resilience’:
+Experiences from past ﬂoods show that rebuilding efforts
+without improving resilience – such as stated in Zurich, 2014
+is a waste of public and private spending. As outlined below,
+the achievement of improved resilience needs to be bench-
+marked against best practices and standards (Figure 4).
+The ‘ As Low As Reasonably Practical principle’ (Abhas
+et al., 2012) provides a useful framework to identify different
+levels of risk acceptance including acceptable risk, tolerable
+risk and unacceptable risk from the viewpoint of societal risk
+perception. It is therefore a valuable component in stake-
+holder participation in decision-making processes at the
+lowest appropriate level of intervention. Attitudes and toler-
+ance to risk can be measured such as through the use of
+Rapid Participatory Assessments and stakeholder consulta-
+tions that are linked to an assessment matrix. Figure 5 illus-
+trates this approach.
+As a practical approach to ﬂood risk management, the
+reduction of risk can be achieved by traditional structural
+measures and increasingly by non-structural measures
+including:
+Figure 1 Integrated Flood Management Model (World
+Meteorological Organization, 2009).
+Figure 2 Strategies and options for Integrated Flood Manage-
+ment (World Meteorological Organization, 2009).
+2 Grabs
+© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management•• (2015) ••–••© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management 9  (2016) 335–342
+336 Grabs
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Figure 3 The evolution of ﬂood risk management practices (Sayers et al., 2013).
+Figure 4 Concept of Integrated Flood Risk Management (Sayers et al., 2013).
+Benchmarking ﬂood reduction 3
+J Flood Risk Management•• (2015) ••–•• © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons LtdJ Flood Risk Management 9 (2016) 335–342 © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+Benchmarking fl ood reduction 337
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+• Reduction of the exposure of people to ﬂoods;
+• Reduction of vulnerability of those exposed to risk;
+• Improvement of resilience of populations who have
+experienced ﬂoods that is also known as an improved
+capacity of ﬂood-affected populations to rebound from
+disaster.
+Benchmarking as a tool for integrated
+ﬂood risk management
+Effective planning, implementation and monitoring of inte-
+grated ﬂood risk management activities require a set of
+quantiﬁable measures, against which progress in ﬂood risk
+management can be referenced. The process to achieve this is
+called benchmarking. As simple deﬁnition of benchmarking
+is: ‘ A predeﬁned position, used as a reference point for taking
+measures against’ (concepts of benchmarking, Andersen and
+Pettersen, 1996). T raditionally however, the use of bench-
+marking in ﬂood management is rather conﬁned to the
+establishment of ﬁxed numbers such as maximum ﬂood
+levels, ﬂood events of various recurrence periods or levels
+of exceedance. The concept is also used for cost control
+when linked to a cost-beneﬁt process and loss reduction.
+Benchmarking has also been used extensively in the
+intercomparison of models used for ﬂood risk reduction
+such as comparing hydraulic model predictions with analyti-
+cal solutions, ﬁeld data, physical model data and other model
+predictions of real or hypothetical ﬂood events (Néelz and
+Pender, 2013). The benchmarking concept however is much
+wider in scope as it can be used as reference against existing
+standards (such as used in Quality Management and T otal
+Quality Control practices) and in documented best practices
+in ﬂood risk management. In this regard, benchmarking
+against best practices goes beyond comparing numbers and
+instead describes ‘the process of identifying, learning, adapt-
+ing, and measuring outstanding practices and processes
+from any organisation to improve performance’ (PERI,
+1999). In a wider sense and equally relevant to ﬂood risk
+management, benchmarking can be used against political
+objectives and improvements in integrated ﬂood risk
+management.
+Launched in 2013, the ﬂagship project of the United
+Nations Educational, Scientiﬁc and Cultural Organization/
+W orld Meteorological Organization (UNESCO/WMO)
+International Flood Initiative focuses on quantitative perfor-
+mance benchmarking, development of a methodology for
+globally identifying hazard, exposure of people and infra-
+structure to ﬂoods, and risk.
+According to T uominen 1993 and 1997, cited in Kulmala
+(concepts of benchmarking), there are four distinct types of
+benchmarking:
+• Strategic benchmarking;
+• Performance benchmarking;
+• Process benchmarking; and
+• Competence benchmarking.
+T ranslated into the context of Integrated Flood Risk Man-
+agement, strategic benchmarking may be understood as ana-
+lysing best practices and understanding why they worked
+under speciﬁc conditions with the aim to adapt current
+practices to best practices. In another meaning, strategic
+benchmarking could relate to the deﬁnition or analysis of
+policies in Integrated Flood Risk Management (IFRM) and
+the identiﬁcation of alternatives under given political
+(including transboundary), socio-economic and environ-
+mental boundary conditions. Strategic benchmarking would
+then also distinguish between short-term and long-term
+goals taking into account uncertainties related to changes
+(including climate change) and changes in a socio-economic
+and political context. On a strategic level, ﬂood risk manage-
+ment policies could also be taken as strategic benchmarks
+whose degree of achievement needs to be measured.
+Performance benchmarking in an IFRM context focuses
+on the quality of service delivery of organisations with
+responsibilities in ﬂood risk management. As there can be
+many organisations involved, the benchmarking process
+might be complex as not only the quality of service delivery
+of single organisations needs to be looked at but also the
+effectiveness of their communication and cooperation needs
+to be considered. Benchmarking indicators would indicate
+measures of both the quality of services and, more impact
+oriented, the effectiveness of service delivery in support of
+IFRM activities. Performance benchmarking aims at identi-
+fying comparative performance of the efﬁciency and effec-
+tiveness of organisations and/or processes (see below). As an
+Figure 5 Concept of risk acceptance (Abhas et al., 2012), adapted
+from: FLOOD site ‘Language of Risk’).
+4 Grabs
+© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management•• (2015) ••–••© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management 9  (2016) 335–342
+338 Grabs
+Unacceptable Risk
+ALARP or tolerable Risk
+Broadly 
+acceptable 
+Risk
+- Risk cannot be jus/g415ﬁed 
+save in extraordinary 
+circumstances
+- Tolerable only if risk reduc/g415on 
+is imprac/g415cable or if beneﬁts 
+only marginally greater than 
+costs
+- Tolerable if beneﬁts not 
+signiﬁcantly greater than
+costs
+- Necessary to maintain 
+assurance that risk 
+remains at this level
+Negligible Risk
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+example, for ﬂood forecasting services, the benchmarking
+process could focus on the accuracy and timeliness of deliv-
+ered forecasts and on its effectiveness in terms of user friend-
+liness of forecasts as input for decision making.
+Process benchmarking concentrates ﬁrst on the analysis of
+existing processes that are expected to lead to the improve-
+ment of ﬂood risk management. Then, the most promising
+processes are identiﬁed either as a result of continuous
+improvement of existing processes against set standards
+(benchmarks) or using benchmarks that have been identi-
+ﬁed as result of an analysis of best practices. These can then
+be used as goals to be achieved in the process. In ﬂood risk
+management, the process benchmarking needs to be viewed
+as a process that can turn resource inputs into outputs and
+outcomes. The process-oriented ‘audit’ described below
+could prove as a critical component of process benchmark-
+ing in that its result may show behavioural changes towards
+approaches in ﬂood risk perception and management.
+Competence benchmarking relates to the change in atti-
+tudes and behaviour of individuals and organisations with
+respect to ﬂood risk reduction. Examples are the change in
+attitude and behaviour in risk awareness and preparedness,
+or organisational changes to streamline competencies and
+hierarchies. In a wider context, competence benchmarking
+aims at the improvement of the capacity of people, experts,
+decision makers and organisations to positively contribute to
+the aims and objectives of IFRM at technical (i.e. ﬂood fore-
+casting) and managerial levels (i.e. being prepared for ﬂoods,
+delivery of services to potentially affected people). It could
+also be related to improve competences in lateral thinking
+with a focus towards planning and implementation of truly
+integrated ﬂood risk management activities. An important
+issue in competence benchmarking is communication and
+information management.
+In Figure 4, benchmarking could be applied to the left-
+hand part of the ﬂood risk management circle (monitoring
+and implementation).
+T o put benchmarking into practice, the following steps are
+suggested:
+1. Develop a benchmarking framework along quantiﬁable
+objectives, expected results and associated actions to
+achieve the desired results.
+2. Deﬁne the area, environment and socio-economic condi-
+tions for which the benchmarking framework would be
+established.
+3. Identify what to benchmark and the benchmarks them-
+selves (such as through static indicators, percentage
+changes, aggregated indicators, process-oriented bench-
+marks, progress against best practices).
+4. Determine how benchmark results will be used in the
+integrated ﬂood risk management process.
+5. Determine quantiﬁable and robust indicators and their
+data requirements.
+6. Interpret progress in Integrated Flood Risk Management
+through the chosen indicators.
+7. Set goals and develop an action plan (or adapt existing
+action plans).
+8. Monitor improvements in ﬂood risk reduction against
+deﬁned benchmarks, noting that benchmarks will need to
+be adapted to changing conditions too.
+The benchmarking steps above have been adapted from
+Kulmala (2002) and from Spendolini (1992).
+As an approach for the establishment of a benchmarking
+process, an audit can be used such as promoted by Deutsche
+V ereinigung für Wasserwirtschaft (DW A) (DW A, 2010):
+‘ Audit Floods: How well are we prepared’ . The audit addresses
+single communities and other larger organisational entities
+within subareas of a river basin. Inherent to the audit process
+is the offer to undertake a professionally facilitated audit
+aiming towards an assessment of the degree and quality of
+ﬂood preparedness measures to mitigate impacts of poten-
+tially disastrous ﬂoods. The audit is complementary to and
+supportive of the concept of integrated ﬂood risk manage-
+ment. The audit assesses the degree of achievement in reach-
+ing a user-deﬁned predetermined overall goal for ﬂood risk
+management under speciﬁc local conditions. Some 35 cri-
+teria and indicators are used for the audit. The audit follows
+a process-oriented approach that is oriented along the assess-
+ment of critical boundary conditions, which are essential for
+the improvement of ﬂood risk management activities. Cri-
+teria and indicators used in the audit relate to the assessment
+of a current status in predeﬁned topics where an integrated
+ﬂood risk management process can be established or
+improved, using ratings such as:
+• No ﬂood risk management concept available, nothing has
+been done;
+• First successful approaches, much needs to be done;
+• Good standards, improvements are possible;
+• Viable ﬂood risk management concept and actions, all
+homework done.
+Using the audit approach, setting further quantiﬁable
+benchmarks against speciﬁc actions can then be used to
+assess progress in activities towards integrated ﬂood risk
+management against deﬁned benchmarks as reference. His-
+torically, most ﬂood risk management activities have been
+triggered after catastrophic ﬂood events. Addressing this
+issue, Abhas et al. (2012) state that ‘It is critically important
+to monitor and benchmark ﬂood risk management even
+when there has not been a ﬂood event for some time’ .
+Flood risk management – the Elbe
+case study
+Describing the Elbe as a case study for ﬂood risk manage-
+ment also shows the application potential of the benchmark-
+ing concept if it were implemented in a holistic manner.
+Benchmarking ﬂood reduction 5
+J Flood Risk Management•• (2015) ••–•• © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons LtdJ Flood Risk Management 9 (2016) 335–342 © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+Benchmarking fl ood reduction 339
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+With a catchment area of 148.000 km 2 and a population
+of 25 million people, the Elbe River is one of the most
+prominent river basins in Europe that is shared between
+Germany, Czech Republic, Poland and Austria. The devas-
+tating ﬂood in 2002 has been the starting point for the devel-
+opment of the Action Plan – Flood Protection Elbe (IKSE,
+2003) by the International Commission for the Protection of
+the Elbe River (ICPER). The Action Plan – Flood Protection
+Elbe contains basic elements of the concept of integrated
+ﬂood risk management as described above (Figure 6).
+The 2002 ﬂood had a statistical return period of 100 years
+and likewise the ﬂood event in 2013 had a statistical recur-
+rence period of over 100 years and had been the worst ever
+recorded in history. The ﬂood event of 2002 in the entire
+Elbe River Basin has become a reference in Europe for
+extreme ﬂood events. Lessons learnt from the 2002 ﬂood
+event as documented in the Elbe Flood Action Plan were
+further reﬁned and actions adjusted in the light of the
+experiences of the 2013 extreme ﬂoods. Structural measures
+including dykes and polders still play a prominent role in
+ﬂood protection plans in the Elbe basin. However, non-
+structural measures including the application of the concept
+of ‘ﬂood preparedness’ and ‘room for the river’ have gained
+in importance. The concept ‘room for river’ attempts to
+restore partly ﬂood plains through the relocation of dykes,
+such as shown in Figure 7.
+ICPER states (IKSE, 2012) that the Elbe Flood Action Plan
+has been validated as a useful instrument in ﬂood risk man-
+agement. The plan and the results and lessons learnt of its
+implementation are integrated and continued in the imple-
+mentation of the European Directive for the Assessment and
+Management of Floods (EC, 2007).
+In some more detail (Socher, 2014), the ‘ Action Plan –
+Flood Protection Elbe’ contains measures to:
+• Improve natural retention of ﬂood waters in the ﬂood
+plains as well as in tributaries and natural wetlands;
+• Reactivate former ﬂood plains where this is feasible such as
+through the relocation of dykes;
+• Improve ﬂood prevention in ﬂood hazard areas, including
+measures related to risk preparedness and management,
+inﬂuencing behavioural patterns of populations at risk
+through risk awareness programmes, identiﬁcation and
+realisation of basic principles in land use planning and
+land utilisation of areas that have attributed with quanti-
+ﬁable risk classiﬁcations;
+• Improve ﬂood forecasting and ﬂood information systems
+improve community-based ﬂood prevention and action
+plans;
+• Review design ﬂood criteria;
+• Implement structural measures aiming at ﬂood protec-
+tion, speciﬁcally through the rehabilitation of existing and
+construction of new dykes, controllable ﬂood retention
+polders, weirs, enlargement of the ﬂow capacity of river
+channels.
+These measures have been undertaken or are in progress
+and have shown to be effective during ﬂood events with
+signiﬁcantly reduced damages and loss of lives and liveli-
+hoods. T o illustrate this observation with an example, the
+extension of the ﬂood forecasting period from 24 to 48 h in
+Figure 6 The Elbe River Basin in Europe.
+Figure 7 Dam relocation at the middle Elbe River (Damm, 2013).
+6 Grabs
+© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management•• (2015) ••–••© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management 9  (2016) 335–342
+340 Grabs
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+the Czech part of the Elbe River basin has led to an increased
+ﬂood warning lead time from 36 to 60 h for the city of
+Dresden.
+An important aspect of ﬂood risk management in the Elbe
+has been the realisation that for a successful basin – wide
+ﬂood risk management plan and its implementation close
+cooperation between riparian countries at all levels is indis-
+pensable and mutually beneﬁcial. On a political level, this
+includes the preparedness to engage in compromises to
+ensure achievement of envisaged results.
+There is still a priority for ﬂood protection with a prefer-
+ence to structural measures. Non-structural measures
+aiming at ﬂood preparedness and risk management are
+gaining in importance, especially with regard to land use
+planning and land management, improved cooperation
+between riparian countries and the improvement of ﬂood
+forecasting services. In this regard, the Elbe Ministerial Con-
+ference (10 November 2006) reiterated its decision, whereas
+measures for the backwards location of dykes and the con-
+struction of controlled ﬂood-control polders should be con-
+tinued with vigour as shown in Figure 7. That includes also
+the creation of additional storage in reservoirs and retention
+basins.
+The process-oriented DW A Audit approach as described
+above has been successfully conducted for the city of
+Dresden. (Wache and Pﬂügner, 2012). One of its main con-
+clusions is that the Audit method is useful to promote ﬂood
+preparedness on community basis, which makes the audit
+tool an essential supplement for ﬂood risk management. In
+this regard, the Audit could serve as a ﬁrst example of the
+application of a process-oriented benchmarking effort in the
+Elbe river basin.
+Outlook
+Reviewing recent ﬂood events and lessons learnt especially
+from the 2002 and 2013 ﬂoods in the Elbe River Basin and its
+risk management concept and associated action plans, the
+Elbe River Basin Management Plan for the period 2016–
+2021 is currently under development and is expected to be
+published before the end of 2015.
+Looking beyond the Elbe River Basin, the conference of
+the Environment Ministers of the Federal States of Germany
+in their session from 2 September 2013 (Rickmeyer, 2014)
+viewed the ﬂood events of the recent past as starting impacts
+of climate change and decided to:
+• Maintain ﬂood plains in the future through long-term
+spatial management;
+• G i v em o r er o o mf o rt h er i v e r s ;
+• Maintain the function of ﬂood plains through a long-term
+spatial management concept;
+• Review design-ﬂood criteria;
+• Develop a national ﬂood protection programme.
+The development of a benchmarking framework and
+application of benchmarking practices as described in this
+paper have the potential to signiﬁcantly improve the effec-
+tiveness of these envisaged measures.
+Conclusions
+Based on the concept of Integrated Water Resources Man-
+agement, the past 15 years have seen the evolvement and
+worldwide acceptance of the concept of Integrated Risk
+Flood Management. The development of a consistent bench-
+marking framework in Integrated Flood Risk Management is
+in its infancy. Such a framework would be used to bench-
+mark goals, measures, best practices and the degree to which
+success in reaching set objectives have been achieved, using
+quantiﬁable standards and indicators. For this purpose, the
+benchmarking concept has been discussed in greater detail
+in this paper. In the case of the Elbe River, success has been
+achieved in the continued implementation of the ‘ Action
+Plan – Flood Protection Elbe’ . This plan contains basic
+elements of Integrated Flood Risk Management practices.
+Supplementary tools such as the DW A Audit could be a
+starting point towards the development of a benchmarking
+framework. The paper advocates the development of a con-
+sistent benchmarking procedure that would have the poten-
+tial to improve further the effectiveness of Integrated Flood
+Risk Management practices in national and international
+river basins.
+There is a need to muster international support to imple-
+ment such a benchmarking framework that would serve as a
+milestone in reaching the objectives of the Flagship Project
+of the UNESCO/WMO International Flood Initiative to
+support benchmarking ﬂood risk reduction at global,
+national and local levels. This will serve as a milestone in
+benchmarking disaster risk for securing sustainability targets
+in the post-2015 sustainable development agenda.
+References
+Abhas K., Bloch B. & Lamond C. Cities and Flooding – A Guide
+to Integrated Urban Flood Risk Management for the 21st
+Century. Washington D.C.: The W orld Bank, 2012.
+Amendola A., Ermolieva T., Linnerooth-Bayer J. & Mechler R.
+Catastrophe models for informing risk management: an
+introduction. In: A. Amendola, T. Ermolieva, J.
+Linnerooth-Bayer & R. Mechler, eds. Integrated Catastrophe
+Risk Modeling: Supporting Policy Processes . Dordrecht, the
+Netherlands.: Springer, 2013, 3–12.
+A n d e r s e nB .&P e t t e r s e nP . G .The Benchmarking Handbook .
+Springer, 1996. 1995 – Business & Economics.
+Damm C. KIT-WWF Auen-Institut, Rastatt. History and imple-
+mentation of the Lenzen-Wustrow Dike relocation. BA W-
+Mitteilungen, Nr.9/2013, 2013.
+Benchmarking ﬂood reduction 7
+J Flood Risk Management•• (2015) ••–•• © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons LtdJ Flood Risk Management 9 (2016) 335–342 © 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+Benchmarking fl ood reduction 341
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+DW A. DW A Regelwerk, Merkblatt DW A-M 551 Audit
+‘Hochwasser – wie gut sind wir vorbereitet’ , Dezember 2010,
+published by: DW A Deutsche V ereinigung für
+Wasserwirtschaft, Abwasser und Abfall, Hennef, Deutschland,
+2010.
+EC. Directive of the European Parliament and of the Council of
+23 October 2007 on the assessment and management of
+ﬂood risks (2007/60/EC). Ofﬁcial Journal 2007, L 288/27.
+Internationale Kommission zum Schutz der Elbe (IKSE).
+Aktionsplan Hochwasserschutz – Elbe, Internationale
+Kommission zum Schutz der Elbe, Postfach 1647/1648, 39006
+Magdeburg Germany, 24. October 2003, 2003.
+Internationale Kommission zum Schutz der Elbe (IKSE).
+Länderübergreifender Hochwasserschutz an der Elbe – Ein
+Abschlussbericht 10 Jahre nach der Flut. Internationalen
+Kommission zum Schutz der Elbe 17. August 2012, Postfach
+1647/1648, 39006 Magdeburg Germany, 17 October 2012,
+2012.
+Kulmala J. Approaches to benchmarking. [Online] Finnish
+Employers’ Management Development InstituteFEMDI,
+2002. http://www15.uta.ﬁ/yksikot/entrenet/hankerekisteri/
+hanke5_benchmarking.htm [accessed 22 October 2014].
+Néelz S. & Pender G. Benchmarking the Latest Generation of 2D
+Hydraulic Modelling Packages. UK Environment Agency,
+2013. August 2013.
+Public Entity Risk Institute (PERI). Benchmarking, Best Prac-
+tices, and Performance Measurements for Public Entity Risk
+Management Guideline. Fairfax: PERI, 1999.
+Rickmeyer A. Konsequenzen aus den Hochwasserereignissen
+(Präsentation) 2013 Niedersächsisches Ministerium für
+Umwelt, Energie und Klimaschutz 23. April 2014 – BWK
+Hannover, 2014.
+Sayers P ., Li Y ., Galloway G., Penning-Rowsell E., Shen F ., W en
+K., Chen Y . & Le Quesne T. Flood Risk Management: A Stra-
+tegic Approach. Paris: UNESCO, 2013.
+Socher M. Informationsveranstaltung “Hochwasserschutz an der
+Elbe”. 1 | 5. Juni 2014 Bad Schandau, Presentation, 2014.
+Spendolini M. The Benchmarking Book . New Y ork: American
+Management Association, 1992.
+T uominen K.Benchmarking Prosessiopas. Opi Ja Kehitä
+Kilpailijoita Nopeammin. Metalliteollisuuden Kustannus.
+T ammer Paino, 1993.
+T uominen K. Muutoshallinnan mestari. Kuinka toteuttaa
+strategiset suunnitelmat kilpailijoita nopeammin? Suomen
+Laatuyhdistys ry, 1997.
+Wache F . & Pﬂügner W. DW A-Statusseminar ‘ Audit Hochwasser
+– Wie gut sind wir vorbereitet? Pilotvorhaben zur
+Durchführung von Audits’. Osnabrück 2012, 3. Juli 2012.
+W orld Meteorological Organization. Associated Programme on
+Flood Management (APFM): integrated ﬂood management.
+Concept Paper, WMO-No. 1047, Geneva, 2009.
+Zürich Insurance Group. European ﬂoods: using lessons learned
+to Reduce Risks, 2014. http://www.zurich.com/_/media/dbe/
+corporate/docs/whitepapers/european-ﬂoods-using-lessions-
+learned.pdf?la=en [accessed 22 October 2014].
+8 Grabs
+© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Management •• (2015) ••–••© 2015 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd J Flood Risk Managemen t 9 (2016) 335–342
+342 Grabs
+ 1753318x, 2016, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12217 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [12/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

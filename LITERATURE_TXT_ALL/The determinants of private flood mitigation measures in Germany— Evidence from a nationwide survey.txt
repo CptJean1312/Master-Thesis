@@ -1,0 +1,1671 @@
+[[PAGE 1]]
+Analysis
+The determinants of private ﬂood mitigation measures in
+Germany — Evidence from a nationwide survey
+Daniel Osberghaus
+Centre for European Economic Research (ZEW), L7, 1, 68161 Mannheim, Germany
+abstractarticle info
+Article history:
+Received 25 April 2014
+Received in revised form 12 November 2014
+Accepted 27 December 2014
+Available online 9 January 2015
+JEL Classiﬁcations:
+Q54
+D81
+R22
+Keywords:
+Climate change
+Adaptation
+Flood mitigation
+Moral hazard
+Charity hazard
+Germany
+Public ﬂood protection cannot eliminate totally the risk of ﬂooding. Hence, private mitigation measures which
+proactively protect homes from being ﬂooded or reduce ﬂood damage are an essential part of modern ﬂood
+risk management. This study analyses private ﬂood mitigation measures among German households. The ﬁnal
+data set covers more than 4200 households from all parts of the country, including ﬂood plains as well as areas
+which are typically not at a high risk of riverine ﬂooding. The results suggest that the propensity to mitigate
+ﬂood damage increases i.a. with past damage experience and damage expectations for the future. The latter effect
+can be interpreted as a ‘climate adaptation signal’ in the ﬂood mitigation behaviour. All other factors remaining
+equal, a strong belief in a climate-change-induced increase of personalﬂood damage in the next decades corre-
+lates with an increase of the probability ofﬂood mitigation by more than 10 percentage points. Moreover, empir-
+ical evidence for moral hazard in the ﬂood mitigation behaviour cannot be observed. Households expecting
+insurance coverage do not reduce their mitigation efforts. Likewise, the expectation of government relief pay-
+ments hinders mitigation only for some groups of households.
+© 2015 Elsevier B.V. All rights reserved.1. Introduction
+Flood events can have devastating social, psychological, and economic
+effects. Two recent major ﬂood events in Germany have demonstrated
+that also a European high-income country can be severely hit by riverine
+ﬂoods. In 2002, the riverﬂoods of Elbe, Danube, and some of their tribu-
+taries caused 21 fatalities and economic damages of more than eleven bil-
+lion Euros in Germany (Thieken et al., 2005). In 2013, riverine ﬂoods of
+the Elbe, Danube, and others caused eight fatalities and economic damage
+of approximately eight billion Euros (BMI, 2013). While these two major
+events attracted a lot of media attention, there are further small events
+like local ﬂash ﬂoods or inundations after heavy rain, which may also
+have severe economic implications for the directly affected households.1
+Climate change is expected to increase the economic damage due to riv-
+erine ﬂoods in Europe (Ciscar et al., 2011; Feyen et al., 2009; Rojas et al.,
+2013). For Germany, further analyses demonstrate similar trends (GDV,
+2011; Hattermann et al., 2014). For ﬂoods induced by heavy rain, the ev-
+idence of a future climate-change-induced increase of economic damage
+is less clear, but some authors suggest that there is already a signiﬁcant
+upward trend in heavy rain events due to climatological drivers such as
+air temperature (Hattermann et al., 2013; IPCC, 2013). This turns public
+and private preparation for riverine andﬂash ﬂoods into a climate change
+adaptation measure.
+Even without an increase of ﬂood damage, and acknowledging the
+fact that ﬂood events can never be ruled out by public defence mea-
+sures, the issue of ﬂood mitigation is a relevant topic.
+2 In Germany,
+only 33% of the households are insured against ﬂood damage ( GDV,
+2013). As there is no ofﬁcial public compensation scheme, the majority
+of the population is left without a guaranteed compensation after a
+ﬂood event. After large events (in terms of media attention), the federal
+and state governments have often granted ﬂood relief on an ad-hoc
+basis (Raschky et al., 2013). For that reason, there is an ongoing debate
+concerning the necessity of a regime shift in theﬂood insurance market
+towards a compulsoryﬂood insurance likewise in other European coun-
+tries (Choudhry, 2013; Mennel and Osberghaus, 2013; Schwarze and
+Wagner, 2004 ). Besides insurance coverage, private ﬂood mitigation
+measures represent an important part of an integrated ﬂood risk
+Ecological Economics 110 (2015) 36–50
+E-mail address: osberghaus@zew.de.
+1 For example, the insuredﬂood damage in Germany in the years between 2003 and 2012,
+hence in years without majorﬂood events, amounts to approximately 71 million Euros p.a.
+(own calculations based onGDV, 2013). Note that the totalﬂood damage is larger.
+2 Throughout this article, the term‘ﬂood mitigation’ or shortly ‘mitigation’ will be used
+to describe measures which are taken before aﬂood occurs in order to reduce the expected
+ﬂood damage. Other authors refer to these by the terms‘precautionary measures’ or ‘pro-
+active ﬂood adaptation’.P r i v a t eﬂood mitigation means measures which are taken by pri-
+vate households.
+http://dx.doi.org/10.1016/j.ecolecon.2014.12.010
+0921-8009/© 2015 Elsevier B.V. All rights reserved.
+Contents lists available at ScienceDirect
+Ecological Economics
+journal homepage: www.elsevier.com/locate/ecolecon
+
+[[PAGE 2]]
+management (Ehrlich and Becker, 1972, there called ‘self-protection’).
+Such measures can include the application of water-resistant materials
+in buildings, removable or ﬁxed water barriers to keep water outside
+the building, and the ﬂood-adapted use of buildings. According to cur-
+rent German legislation, every potentially affected person has to do
+whatever is ‘possible and reasonable’ in order to mitigate ﬂood damage
+(Wasserhaushaltsgesetz, 2009:8, translated by author). In the national
+climate adaptation strategy, the federal government states with regard
+to ﬂoods that the ‘own precaution behaviour of the population must be
+strengthened’ (Die Bundesregierung, 2008 :23, translated by author).
+Empirical analyses from areas which have been ﬂooded in the past
+have shown that mitigation can indeed effectively reduce economic
+ﬂood damage considerably and is cost-ef ﬁcient in many cases
+(Kreibich et al., 2011; Kreibich and Thieken, 2008).
+Given this context, the question arises which households in Germany
+are presently engaging in privateﬂood mitigation and how can they be
+characterised? This knowledge can be used to design further policy mea-
+sures (information campaigns, incentives, or regulations) in order to
+strengthen the private mitigation behaviour in accordance with the na-
+tional adaptation strategy.
+The existing literature on private ﬂood mitigation raises this ques-
+tion and comes to policy-relevant and plausible insights which will be
+presented in the next section. Our contribution to this literature is the
+following:
+In contrast to most of the existing studies, we do not focus on aﬂood-
+prone or ﬂood-experienced part of the population, but broaden the anal-
+ysis to the whole country.3 This is useful for several reasons: First,ﬂoods
+induced by heavy rain are a potential danger to every household in the
+country. Local examples demonstrate that economic damages from
+these events should not be neglected ( City of Copenhagen, 2012;
+Kandilioti and Makropoulos, 2012; Knocke and Kolivras, 2007; Veronesi
+et al., 2013). Secondly, many policies intended to stimulate privateﬂood
+mitigation are located or debated at the national or federal state level.
+For the design of such policies, insights in the mitigation behaviour of a
+national household sample are required. Finally, by restricting the sample
+to ﬂood-prone regions, a selection bias can occur. It is possible that house-
+holds located in these areas possess special characteristics which may af-
+fect the estimation results. 4 Although we cannot totally rule out the
+possibility that our sample also suffers from some sort of selection bias,
+we do not see a concrete reason for suspecting this.
+Furthermore, we deepen the analysis of the relations of damage ex-
+pectations with private mitigation and identify a non-monotonic cli-
+mate adaptation signal for private ﬂood mitigation.
+In the remainder of the paper, we review the empirical literature on
+private ﬂood mitigation in developed countries and present the data,
+the methodology, and the results of the empirical analysis. After
+checking their robustness regarding various alternative model speciﬁ-
+cations, we discuss the main results and conclude with a summary
+and some ﬁrst policy recommendations.
+2. Literature Review
+There is a growing body of empirical literature on privateﬂood mit-
+igation in developed countries, and some detailed literature reviews
+have been published ( Bubeck et al., 2012; Kellens et al., 2013;
+Wachinger et al., 2013 ). However, most studies focus on ﬂood-prone
+or ﬂood-experienced areas and are thereby rather limited in terms of
+the studied area and population. Their approaches allow for a very
+detailed analysis of the impact of ﬂood experiences and effectiveness
+of mitigation measures, but general conclusions concerning the dissem-
+ination and determinants of private ﬂood mitigation in the studied
+countries are rarely possible. Existing empirical, survey-based studies
+include many analyses from the Netherlands ( Botzen et al., 2009,
+2013; Kievik and Gutteling, 2011; Terpstra and Lindell, 2012; Zaalberg
+et al., 2009 ) and Germany ( Bubeck et al., 2013; Grothmann and
+Reusswig, 2006; Grothmann, 2005; Koerth et al., 2013; Kreibich et al.,
+2005, 2009; Thieken et al., 2007). More literature is available on private
+ﬂood mitigation e.g. in Denmark ( Koerth et al., 2013), France (Poussin
+et al., 2013 ), Italy ( Miceli et al., 2008 ), Japan ( Takao et al., 2004; Zhai
+et al., 2006 ), Switzerland ( Siegrist and Gutscher, 2008 ), the UK
+(Bichard and Kazmierczak, 2012 ), and the US ( Carson et al., 2013;
+Lindell and Hwang, 2008). The sample sizes of the household 'surveys
+and the statistical analyses vary between less than 150 ( Koerth et al.,
+2013) and more than 2000 ( Takao et al., 2004). The studied mitigation
+measures are de ﬁned according to the speci ﬁc contexts and locations
+but they can be categorised into three groups with regard to their spe-
+ciﬁcs c o p ea n dp u r p o s e(Bubeck et al., 2013; Kreibich et al., 2005 ):
+First of all, ‘adapted use’-options are behavioural measures which are
+implemented in order to avoid economic damage in case the house is
+ﬂooded, such as avoidance of expensive furnishing in exposed storeys.
+Secondly, the implementation of ‘ﬂood barriers’ means the installation
+of water barriers in order to prevent water intrusion into the building,
+such as the installation of back ﬂow ﬂaps and water barriers for cellar
+openings. Thirdly, ‘structural measures’ are pursued in order to reduce
+the economic damage in case the house isﬂooded and change the struc-
+ture of the building e.g. using ﬂood-resistant paint coats or ﬂoor mate-
+rials. Several studies also count ‘information-seeking ’ as a kind of
+proactive mitigation measure because informed households possess su-
+perior knowledge of how to behave in the case of a ﬂood to keep dam-
+ages small ( Grothmann and Reusswig, 2006; Kievik and Gutteling,
+2011; Koerth et al., 2013; Takao et al., 2004; Terpstra and Lindell,
+2012; Thieken et al., 2007). Other authors focus on the tangible activi-
+ties as listed in the categorisation above ( Bichard and Kazmierczak,
+2012; Bubeck et al., 2013; Carson et al., 2013; Zaalberg et al., 2009).
+Most of the literature examines i.a. the role of ﬂood damage experi-
+ence, damage expectations for the future ( ﬂood risk perception), and
+their relationships with ﬂood mitigation. Almost all cited sources ﬁnd
+a positive and signi ﬁcant correlation in their sample between ﬂood
+risk perception and the uptake of mitigation measures. However, the
+variable measuring ﬂood risk perception is often included in the statis-
+tical model as a binary or cardinal variable, not allowing for possible
+non-monotonic relationships. The effect of having experienced ﬂood
+damage is less clear but most studies report a statistically signi ﬁcant
+positive correlation with private mitigation.
+In terms of moral hazard, private ﬂood mitigation could be nega-
+tively affected by the expectation of ﬁnancial damage coverage by an
+insurance company or government relief payments — the latter is
+often referred to as ‘charity hazard ’ and is a special case of moral haz-
+ard ( Raschky and Weck-Hannemann, 2007 ). The effect of being in-
+sured against ﬂood damage on private mitigation is not often
+analysed empirically. If moral hazard is present in the decision
+whether to protect against ﬂoods or not, insured households should
+tend to implement less mitigation measures than non-insured, given
+that both groups are comparable in terms of ﬂood exposure. For Flor-
+ida, Carson et al. ﬁnd ambiguous relationships of insurance coverage
+with private mitigation measures ( Carson et al., 2013 ): On the one
+hand, households with insurance coverage tend to decide for private
+mitigation measures; and on the other hand the extent of those mea-
+sures is on average less pronounced than for non-insured house-
+holds. For the Netherlands, Botzen et al. (2013) report a higher
+self-reported willingness to invest in the elevation of a new house
+if the respondent is also willing to pay for ﬂood insurance. For
+ﬂood-prone areas in Germany, it seems that insured households
+take more private ﬂood mitigation measures than non-insured, not
+3 Botzen et al. (2009) is a notable example of a study with a representative sample for
+the Netherlands. However, for Germany no countrywide study exists.
+4 We compare our national sample with subsamples from two federal states which
+were frequently affected by ﬂoods recently (Saxony and Bavaria). Signiﬁcant differences
+(p b 0.01) are found in the distributions of i.a. homeownership, expectation of government
+relief, and other personal attitudes.
+37D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 3]]
+less ( Thieken et al., 2006 ). Turning to the effect of expected govern-
+ment relief, some authors indeed report negative correlations with
+private mitigation ( Botzen et al., 2009; Grothmann and Reusswig,
+2006; Kreibich et al., 2009 ). However, the charity hazard is not
+always clearly visible in the data and some estimations fail to discov-
+er signi ﬁcant relationships ( Bichard and Kazmierczak, 2012;
+Grothmann, 2005 for the Rhein area; Koerth et al., 2013 ). Hence,
+the empirical evidence for moral hazard in the case of private ﬂood
+mitigation is ambiguous. Indeed, some negative consequences of
+ﬂoods can neither be tackled by insurance nor by state relief, namely
+the danger to health and life of ﬂooded people, the loss of personal
+items like photos or memorabilia, and the general inconvenience of
+being ﬂooded. In case of insurance, there are instruments like de-
+ductibles and due diligence clauses which are supposed to limit
+moral hazard. In the light of these considerations and the empirical
+results, it seems unclear whether moral hazard really is a problem
+in the case of private ﬂood mitigation.
+Concerning further socio-economic variables, the existing empirical
+literature reports mixed or non-signi ﬁcant effects of age (negative ef-
+fects e.g. in Bichard and Kazmierczak, 2012;n o n - s i g n iﬁcant effects e.g.
+in Botzen et al., 2013; positive effects e.g. in Miceli et al., 2008). The ef-
+fects of homeownership, high education, and income are either positive
+(i.e. higher propensity to mitigate) (e.g. Bubeck et al., 2013 ) or non-
+signiﬁcant (e.g. Terpstra and Lindell, 2012).
+After reviewing the literature, the following questions remain open:
+Are the relationships of damage experience and damage expectations
+on the one side andﬂood mitigation on the other side detectable in a na-
+tionwide sample, including households not located in ﬂood-prone and
+ﬂood-experienced areas? Is the relationship of expectations and mitiga-
+tion always monotonic? And are German households subject to moral
+hazard in the case of private ﬂood mitigation? These questions will be
+addressed in the following sections.
+3. Data
+3.1. Data Set
+Cross-section data from a standardised survey among German
+households is utilised. In total, 6404 households were interviewed via
+either an online or TV-based questionnaire by the research institute
+forsa. The topic was not communicated to the participants beforehand.
+The survey was conducted in October and November 2012. As only
+heads of households have been interviewed, the sample is largely repre-
+sentative in terms of households but not at the level of individuals.
+5 For
+the present analysis, the sample is reduced to households who use ei-
+ther a basement or a ground ﬂoor.6 By that criterion, more than 90% of
+the nationwide sample (5851 observations) is potentially exposed to
+ﬂoods from rivers or heavy rain.
+Table 1 summarises descriptive statistics of the key variables which
+are discussed in more detail in the following sections. Descriptive data
+of various control variables (socio-demographics, personal attitudes,
+and ﬂood exposure) are presented in Appendix A, Table A.1. The trans-
+lated questionnaire items for the key variables are given in Table A.2,
+and a correlation matrix is presented in Table A.3 . More information
+on the survey, including the total questionnaire in German is available
+in Osberghaus et al. (2013).
+3.2. Private Flood Mitigation
+The uptake of private mitigation is measured by a series of binary
+questions about the implementation of certain measures as described in
+more detail in Table 1.7 The portfolio of mitigation measures is inspired
+by the literature on ﬂood mitigation measures in Germany and covers
+the three categories presented in the previous section (M1 is adapted
+use, M2 and M3 areﬂood barriers, and M4 to M6 are structural measures).
+Unlike some of the previous studies, we do not count mere information
+seeking as a mitigation effort but concentrate on tangible activities as
+listed in Table 1. This means that our evaluation of generalﬂood mitiga-
+tion behaviour in Germany could be rather conservative, missing those
+households who are well-prepared in terms of knowledge about emer-
+gency measures but not in terms of tangible proactive measures. Explicit
+‘don't know’-answers were coded as if the household has not implement-
+ed the measure because it can be assumed that such participants have not
+deliberately and intentionally taken the measure. Missing answers, how-
+ever, were treated as missing values. As our main interest lies in the gen-
+eral decision to take private mitigation (in any form) and not in the
+determinants of the speciﬁc measures, we construct an aggregate variable
+which takes the value of one if one or more of the available mitigation
+measures has been implemented by the respective household and zero
+otherwise. This is also rationalised by the fact that the data does not indi-
+cate which of the alternative measures is the most appropriate for a spe-
+ciﬁc household. By using the aggregate variable, we just analyse the
+general decision whether to implement mitigation measures or not, re-
+gardless of the household's (very context-speciﬁc) decision which mea-
+sure or combination of measures is preferred.
+The mitigation variable differs considerably between homeowners
+and tenants: The share of mitigating homeowners is 44.1%, and the
+share of mitigating tenants is only 3.9%. This discrepancy is not only
+due to the arguably higher motivation to protect the own home but is
+also implied by the construction of the mitigation variable. The aggre-
+gate variable includes three mitigation measures which are only appli-
+cable to homeowners; consequently, homeowners have a higher
+probability to mitigate by construction of the data. As we are interested
+in other determinants and the effect of homeownership can be con-
+trolled for, we will proceed with the aggregate mitigation variable.
+We also elicit the participants' stated intentions for future
+implementations of mitigation measures. The rationale is that possible
+determinants should stimulate plans to implement mitigation measures
+in the near future, but not vice versa. For reasons of sample size and be-
+cause of the small number of planning households, we use the implemen-
+tation variable for the main analyses and the planning variable as a
+robustness check.
+3.3. Flood Exposure
+Regarding the control variables which capture the households' expo-
+sure to ﬂo o dr i s k ,w eh a v et or e l yo naq u i t ec r u d ea p p r o x i m a t i o n .Ag e n -
+eral exposure index to ﬂoods including ﬂash ﬂoods would have to
+consider site-speciﬁc topography, hydrological data (e.g. river runoff,
+local precipitation, percolation and evaporation), and infrastructures
+(e.g. dikes, levees, sewage systems,sealed areas) and is still in develop-
+ment stage (GDV, 2014). Household-level data on riverine ﬂood risk is
+known by the insurance industry but is not publicly available. Hence,
+we use the following set of variables as a rough proxy forﬂood exposure
+(see Table A.1 in Appendix A for the descriptive statistics). Most of these
+5 The 6404 participants are a subsample of a representative sample of approximately
+10,000 households. Participating households tend to be larger than households in a repre-
+sentative German sample (ratio of single households 25.8% vs. 40.4%). In terms of other
+comparable household statistics (e.g. income, federal states) our sample is quite represen-
+tative for Germany. As only heads of households are participating, the statistics of individ-
+ual characteristics differ from the general population in Germany i.a. in terms of gender
+(more males in the sample), age (sample is older than population), education (higher ed-
+ucation in the sample), and risk attitudes (the sample is slightly less risk averse).
+6 Wilcoxon rank-sum tests suggest that the excluded subsample differs signi ﬁcantly
+(p b 0.1) from the remaining households in terms of several socio-economic variables,
+but not in general risk attitudes.
+7 Mitigation measures which had been already installed before the participant moved
+in/purchased the home are not counted. Hence, the dissemination of ﬂood mitigation
+measures is biased downward.
+38 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 4]]
+variables correlate with the statement of having personally witnessed a
+ﬂood event.
+– A dummy variable indicating whether there is a large or medium-
+size river in the household's ZIP-code area.
+– 'Total population of the municipality. This is rationalised by the fact
+that larger communities are presumably better protected against
+ﬂoods.
+– Historical (1981–2010) precipitation for the month with the highest
+precipitation in the ZIP-code area. This data follows– at least in rela-
+tive terms – the expected maximum precipitation loads for sewage
+and drainage systems of the community and hence is used as a
+proxy for the capacity of these systems. As highly capable sewage sys-
+tems decrease the risk of ﬂash ﬂoods, we expect a negative relation
+with private mitigation.
+– A dummy variable indicating households where only the basement is
+exposed to ﬂoods. This information was taken from the survey.
+– Federal state dummy variables.
+3.4. Damage Experience
+For measuring pastﬂood damage experience, the participants stated
+whether they have suffered any ﬁnancial or health damage due to
+ﬂoods. Thus, the data is a binary measure of the statedﬂood damage oc-
+currence, albeit without indicating the severity or time of the damage.8
+3.5. Damage Expectations
+Expectations regarding the futureﬂood damage are measured by the
+participant's assessment of the likelihood of a climate-change-induced
+increase of personal damage in the next decades, ranging on a ﬁve-
+point Likert-scale from ‘very unlikely’ to ‘very likely’. Thus, the data is
+ordinal withﬁve values. Note that the data does not reveal whether par-
+ticipants expect a damage increase due to other reasons than climate
+change. Those participants who do not expect a climate change in
+Germany (5.1% of the sample) and those who do not expect a climate-
+change-induced increase in the occurrence of ﬂoods or inundations in
+Germany (additional 6.0%) were not asked about their expectations of
+climate-change-induced damage increases. These participants were
+classiﬁed into the lowest expectation category. The effects of this data
+manipulation on the main results are assessed in a robustness check.
+3.6. Moral Hazard
+Flood insurance coverage was elicited by a question series on the
+coverage(s) of home and/or content insurance contracts. In Germany, al-
+most every homeowner holds a basic home insurance. However, though
+basic policies cover wind, hailstorm, and ﬁre, other natural hazards, in-
+cludingﬂoods, have to be covered for an extra premium. The market pen-
+etration for home insurances with ﬂood coverage in 2012 was around
+33%, and for content insurance 19% (GDV, 2013). In our sample the re-
+spective ratios of participants stating that they have ﬂood coverage in
+their insurance contracts are surprisingly high (59.9% and 41.3% for
+home and content insurance, respectively, after counting the numerous
+‘don't know’ answers as‘no coverage’). These differences imply that either
+the sample is heavily biased in this respect or many German households
+overestimate their own insurance coverage. However, the fact that the
+data potentially does not measure the real insurance coverage in our sam-
+ple does not hinder the analysis of moral hazard. Indeed the perceived,
+not the real insurance coverage, may play a role for the decision whether
+to invest in mitigation measures. If perceived insurance coverage goes
+along with less privateﬂood mitigation as implied by the moral hazard ar-
+gument, this should be visible in our data.
+For the analysis of possible charity hazard, we asked whether the
+participants expect any ﬁnancial support by some public entity in case
+that their home or content is damaged by a natural hazard. About a
+third of the households indeed make such a claim although there is no
+ex-ante ofﬁcial regulation for natural hazard relief payments.
+4. Statistical Methods
+For the analysis of the relationships of damage experience, damage
+expectations, and moral hazard with private mitigation multivariate re-
+gressions are used. As the dependent variable is binary we employ a
+probit model.9 As a cross-section, the data set does not allow claiming
+causality for some of the examined relationships. In particular, the
+8 Many of the available surveys elicit more details and do this for good reasons (e.g.
+Kreibich et al., 2005, 2009; Thieken et al., 2007). They are, however, approaching households
+located inﬂood-prone areas or which have recently experienced aﬂood event. As we are ap-
+proaching the general public, we assume that– relative to the samples analysed by other
+studies– many participants do not have a pronounced knowledge, interest or personal expe-
+rience in the topic ofﬂooding. Hence, we keep these questions short and simple.
+9 As an alternative one could use the number of implemented mitigation measures as
+dependent variable. This procedure has the caveats that some measures are only applica-
+ble for a subset of the sample, and measures could be regarded as substitutes and hence an
+accumulation of measures makes no sense. The results of a Poisson regression on the num-
+ber of implemented measures are used as a robustness check.
+Table 1
+Descriptive statistics of key variables.
+Variable in the model Variable in the data Mean Std. dev. Min. Max. Obs.
+Private ﬂood mitigation Stated implementation of …
+… moving valuable assets to higher ﬂoors (not applicable to households located in one ﬂoor) (M1) .052 .222 0 (no) 1 (yes) 3076
+… water barriers at basement openings (not applicable to households without basement) (M2) .033 .178 0 (no) 1 (yes) 5139
+… back ﬂow ﬂap (applicable to homeowners) (M3) .295 .456 0 (no) 1 (yes) 3374
+… water-resistant exterior paint coat (applicable to homeowners) (M4) .145 .352 0 (no) 1 (yes) 3373
+… water-resistant interior paint coat (M5) .031 .174 0 (no) 1 (yes) 5827
+… water-resistant ﬂoor (applicable to homeowners) (M6) .141 .348 0 (no) 1 (yes) 3372
+… any of the mentioned measures .272 .445 0 (no) 1 (yes) 5828
+Planned implementation of any of the mentioned measures .065 .246 0 (no) 1 (yes) 4407
+Damage experience (past) Household has already experienced ﬁnancial or health damage by ﬂoods .116 .320 0 (no) 1 (yes) 5826
+Damage expectation (future) Personal ﬂood damage increase due to climate change in the next decades is …
+… very unlikely .348 .476 0 (no) 1 (yes) 5238
+… rather unlikely .339 .473 0 (no) 1 (yes) 5238
+… moderately likely .202 .402 0 (no) 1 (yes) 5238
+… rather likely .089 .284 0 (no) 1 (yes) 5238
+… very likely .023 .148 0 (no) 1 (yes) 5238
+Moral hazard Stated ﬂood coverage of home or content insurance .543 .498 0 (no) 1 (yes) 5709
+Stated expectation of ﬁnancial government relief .316 .465 0 (no) 1 (yes) 5713
+39D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 5]]
+relationships between damage expectations and moral hazard (as
+explaining variables) and mitigation (as explained variable) should be
+interpreted rather as correlations than as causal effects. Furthermore,
+heteroscedasticity is very likely as the cross-section data stems from a
+household survey (Deaton, 1997). For that reason, we relax the assump-
+tion of homoscedasticity and use heteroscedasticity-robust standard
+errors (Huber, 1967; White, 1980, 1982).
+The ﬁrst regression includes only the control variables. The vari-
+ables of interest (damage experience, damage expectations, moral
+hazard variables) are added in the next regressions — ﬁrst indepen-
+dently, then all together. As a consequence, we are enabled to assess
+the marginal effect of the key variables separately and in the context
+of a full model. Damage expectations are entered by dummy vari-
+ables (and a reference group), indicating whether the participant
+chose the respective level. This procedure allows for the explicit
+analysis of the effects of each of the ﬁve expectation levels and there-
+by is able to identify possible non-monotonic effects of damage ex-
+pectations. Hence, all key variables (one for damage experience,
+four for damage expectation, a nd two for moral hazard) are
+dummy variables. This set of seven variables is split up into two
+sets of seven variables each, one for homeowners and one for ten-
+ants. For tenants, all seven homeowner-key variables take the
+value of zero and vice versa. This model is equivalent to a model
+with interaction terms, but simpli ﬁes the interpretation of the coef-
+ﬁcients. They can directly be interpreted as the coef ﬁcients of the
+key variables for homeowners and tenants, respectively.
+The coefﬁcients of the probit model are transferred to marginal effects
+in order to demonstrate the effect on the estimated mitigation probability.
+The marginal effects can be derived for a‘representative’ household with
+covariates at some representative values or the average marginal effects
+can be calculated with the observed covariates. For some variables in
+our data, the de ﬁnition of a representative value is not obvious, so we
+use average marginal effects. However, for the calculation of marginal ef-
+fects of homeowner- and tenant-speciﬁc effects of the key variables, we
+set the homeownership-covariate to one for homeowners and zero for
+tenants and calculate the average marginal effects conditionally on this
+constraint.10 Since the model is equivalent to an interaction model, we
+have to consider the fact that marginal effects of interaction terms are
+not calculated correctly by standard software ( Ai and Norton, 2003;
+Greene, 2010).11 In a robustness check, we reformulate the model with
+interaction terms and assess the interaction effects by comparing the ad-
+justed predictions for all possible combinations of the key variables and
+homeownership variable (Williams, 2012).
+For all regressions, exactly the same sample is used, i.e. house-
+holds with missing observations in one of the regressions are exclud-
+ed in every regression. Thereby the sample is reduced to 4272
+observations with non-missing data. Wilcoxon rank-sum tests of dif-
+ferences between the excluded and the remaining samples suggest
+that signi ﬁcant (p b 0.1) differences in the distributions of the vari-
+ables gender, age, income, importance of own ﬁnancial situation, in-
+surance coverage, damage experience, and knowledge of ﬂood risk
+are prevailing. Hence, we check the robustness of our main results
+in regressions with less missing observations, including each key ex-
+planatory variable separately.
+5. Results and Discussion
+5.1. Main Results
+Table 2 summarises the results of various probit regressions with the
+dependent binary variable ‘uptake of any private ﬂood mitigation
+measure’. Five model speci ﬁcations are presented: Model 1 contains
+only control variables; Model 2a additionally includes damage experi-
+ence; Model 2b focuses on damage expectations and Model 2c on
+moral hazard. Model 3 is a full model with all variables. Complete re-
+sults, including the marginal effects of all control variables are reported
+in Table A.4 in Appendix A (only for Model 3).12
+The results can be summarised as in the following: The overall ﬁto f
+the model is quite good (adjusted McFadden's-pseudo-R2 of 0.234,
+Nagelkerke-R2 of 0.374 in Model 3). Damage experience is a stable
+and highly signiﬁcant explaining variable for private mitigation. Dam-
+age expectations for the future show a positive relationship with the de-
+cision for mitigation measures (especially for homeowners) but for very
+pessimistic expectations the relationship becomes less pronounced and
+less signi ﬁcant. Households (particularly homeowners) who expect
+their damage to be covered by a third party tend to implement mitiga-
+tion measures relative to those without this expectation.
+Turning to the control variables, there are signiﬁcant results regard-
+ing i.a. household income, age, materialism attitudes, and knowledge of
+ﬂood risk (see Table A.4 in Appendix A). There is a counterintuitive pos-
+itive relation of risk seeking and mitigation, to which we will come back
+to in the discussion of moral hazard. In terms of exposure variables,
+there are expected signiﬁcant correlations between private ﬂood miti-
+gation and population of the community and historical precipitation
+amounts in the wettest month, while the other exposure variables re-
+main insigniﬁcant.
+Before investigating these results more deeply in the discussion sec-
+tion, we check their robustness regarding alternative model speci ﬁca-
+tions and samples.
+5.2. Robustness Checks
+Detailed results of all robustness checks are reported inAppendix A,
+Tables A.5 and A.6.
+Instead of using the implemented mitigation as the dependent vari-
+able, we also estimated a regression on the stated intention to engage in
+some form of mitigation in the future (Robustness check 1). Regarding
+damage experiences and expectations of households, the results are
+qualitatively the same, suggesting that current expectations serve as a
+motivation to implement mitigation measures. The coef ﬁcient of per-
+ceived insurance coverage, however, becomes small and insigniﬁcant.
+Other robustness checks include regressions without data manipula-
+tion in the expectations variable (Robustness check 2), with the number
+of implemented mitigation measures (Robustness check 3), with mar-
+ginal effects at representative values (Robustness check 4), with inter-
+action terms and appropriate calculation of the marginal effects
+(Robustness check 5), and with all available observations for each spec-
+iﬁcation (Robustness check 6). They do not object the signs, signiﬁcance
+levels or magnitudes of the key results mentioned above.
+5.3. Damage Experience
+The abovementioned results regardingﬂood damage experience are
+plausible in terms of signs and signi ﬁcance levels. Most of the existing
+literature comes to similar conclusions (e.g. Grothmann and Reusswig,
+2006; Thieken et al., 2007; Wachinger et al., 2013as a review). Interest-
+ingly, this effect also seems to be statistically signiﬁcant and robust in a
+nationwide survey which is not dominated by participants from ﬂood-
+prone or ﬂood-experienced areas. Using the results from Model 3 in
+Table 2, predictions of the (change of) mitigation behaviour, depending
+on damage experience, are possible (see Table 3).
+The differences between homeowners and tenants are partly due to
+the construction of the dependent variable. Hence, they should not be
+10 Marginal effects at representative values are calculated in a robustness check.
+11 Thanks to an anonymous reviewer for raising this issue. 12 All results which are not reported in detail are available upon request.
+40 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 6]]
+interpreted as the effect of homeownership. The results show the high
+relevance of damage experience from aﬂood event for the homeowners'
+decision to engage in mitigation measures. For tenants, the marginal ef-
+fect of ﬂood experience is less signiﬁcant. The magnitude of the effect is
+comparable to the logit regression of ﬂood-adapted building byBubeck
+et al. (2013), but higher than the respective coefﬁcients for other mitiga-
+tion measures in this study and in a study for the Netherlands ( Botzen
+et al., 2009). Most other studies do not report marginal effects in a mul-
+tivariate binary regression setting; hence do not provide comparable ref-
+erences for the magnitude of the effect.
+5.4. Damage Expectations
+By explicitly asking for the expectation of a climate-change-induced
+increase of personal damage, the expectation variable can be used as a
+rough proxy for private climate change adaptation in ﬂood mitigation
+behaviour. Using the same prediction procedure as for the effect of dam-
+age experience, the relationship of damage expectations with predicted
+mitigation behaviour can be depicted as in Fig. 1.
+Several insights become apparent in Fig. 1: For tenants, the correla-
+tion between damage expectations and the decision to mitigate seems
+rather weak. Only those tenants who deem a damage increase as‘rather
+likely’ exhibit a signi ﬁcantly higher probability to mitigate than those
+with the lowest expectation level (pb 0.1). Hence, we can only identify
+a weak climate adaptation signal in the ﬂood mitigation behaviour of
+tenants. One reason could be the lower motivation to invest in mea-
+sures. Some measures can incur non-negligible costs when being inse-
+cure how long the bene ﬁts will be available. Furthermore, tenants
+could have less emotional commitment to the building and hence less
+intrinsic motives for protecting it.
+For homeowners, there is generally a positive and signi ﬁcant
+correlation between damage expect ations and the decision to miti-
+gate, in particular if a climate-change-induced damage increase is
+deemed as ‘moderately likely ’ or higher (p b 0.01). This can be
+interpreted as the climate adaptation part in the ﬂood mitigation
+of private homeowners. Climate- change-induced damage expecta-
+tions imply an increase of more than 10% in the predicted probabil-
+ity of mitigation.
+An increase in private ﬂood mitigation when households perceive a
+higher ﬂood risk in the future is well documented in other studies (e.g.
+Bichard and Kazmierczak, 2012; Miceli et al., 2008; Terpstra and Lindell,
+2012). Though, some studies (e.g. Bubeck et al., 2013; Koerth et al.,
+2013)d on o t ﬁnd that relationship (as discussed inBubeck et al., 2012;
+Wachinger et al., 2013) .T h em a g n i t u d eo ft h ec o e fﬁcients is difﬁcult to
+compare to existing studies, as they use various formulations for damage
+expectations.
+Table 2
+Results of probit regressions (average marginal effects).a
+Variables Control variables only
+(Model 1)
+Damage experience
+(Model 2a)
+Damage expectations
+(Model 2b)
+Moral hazard
+(Model 2c)
+All variables
+(Model 3)
+Homeownership .378*** .366*** .377*** .348*** .338***
+Further control variables Included Included Included Included Included
+Damage experience of homeowners – .238*** –– .210***
+Damage experience of tenants – .053** –– .035*
+Damage expectation: Personal
+damage increase is …
+… very unlikely Homeowners –– Ref. group – Ref. group
+… rather unlikely –– .026 – .020
+… moderately likely –– .097*** – .074***
+… rather likely –– .168*** – .122***
+… very likely –– .149** – .068
+… very unlikely Tenants –– Ref. group – Ref. group
+… rather unlikely –– .009 – .007
+… moderately likely –– .024 – .017
+… rather likely –– .059** – .040*
+… very likely –– .047 – .024
+Perceived insurance coverage of homeowners –– – .108*** .097***
+Perceived insurance coverage of tenants –– – .048** .022**
+Expectation of government relief of homeowners –– – .030** .039*
+Expectation of government relief of tenants –– – .006 .003
+Adjusted pseudo-R2 .214 .228 .218 .220 .234
+N 4272 4272 4272 4272 4272
+a Dependent variable: uptake of any privateﬂood mitigation measure. */**/*** symbolise statistical signiﬁcance on the 10/5/1% level.
+Table 3
+Predicted probabilities ofﬂood mitigation depending on ﬂood damage experience.a
+Homeowners Tenants
+Predicted
+probability
+Marginal
+effect
+Predicted
+probability
+Marginal
+effect
+No ﬂood experience .355
+.210***
+.039
+.035*Flood experience .564 .074
+Observed ratios of
+mitigating households
+.457 .046
+a Based on Model 3. */**/*** denote statistical signiﬁcance on the 10/5/1% level.
+0 .1 .2 .3 .4 .5
+Predicted Probability of Mitigation
+very unlikely rather unlikely moderately likely rather likely very likely
+Expectations: In the next decades, an increase of flood damage for my household is ...
+Fig. 1. Predicted probabilities of mitigation. Symbols depict predicted probabilities and 95%-
+conﬁdence intervals of ﬂood mitigation for different levels of ﬂood damage expectations,
+based on Model 3. The diamonds capture valuesfor homeowners and the triangles for ten-
+ants, respectively.
+41D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 7]]
+In our data, the predicted probabilities to mitigate increase mono-
+tonically for homeowners who perceive a personal damage increase as
+between ‘rather unlikely’ and ‘rather likely’.H o w e v e r ,b e t w e e nt h ee x -
+treme expectation levels (‘very unlikely’, N = 877 and ‘very likely’,N=
+49) and the respective adjacent categories, the differences in the esti-
+mated mitigation probabilities are not signiﬁcant. Thus, we cannot con-
+ﬁrm a monotonic increase in ﬂood mitigation over all levels of damage
+expectations. Our results rather suggest that there are‘threshold values’
+in climate change expectations regarding their relations withﬂood ad-
+aptation. Below some lower threshold, no adaptation behaviour can
+be expected, and above some upper threshold, existent adaptation ef-
+forts are probably not further intensi ﬁed. This would mean that for a
+group of households with expectations right below the lower threshold
+a small increase in damage expectations would imply initial engage-
+ment in adaption, whereas households with expectations far below
+this threshold would not change their behaviour if their expectation
+level would increase by the same magnitude. Likewise, there can be
+households who are not further increasing their ﬂood mitigation en-
+gagement after being more convinced of climate-change-induced dam-
+age. However, this result has to be seen with caution as in our data
+climate change expectations are measured by the expectation that
+some event (the increase of personal ﬂood damage due to climate
+change) will happen in the next decades. Various other formulations
+of climate change expectations are feasible. To what extent the concrete
+formulation plays a role for the existence of the abovementioned
+thresholds might be a topic for further research.
+5.5. Moral Hazard
+It should be noted again that the insurance variable in our data is not
+a reliable measure for the actualﬂood insurance coverage, but is driven
+by the participants' evaluation of their coverage. The differences may be
+large. For identifying possible moral hazard, however, the perceived
+coverage is the appropriate measure. If there is moral hazard in the de-
+cision to take private mitigation measures regarding third party insur-
+ance, the expectation of coverage should suf ﬁce to imply less intense
+mitigation.
+Though, the regression coefﬁcients of damage coverage are positive
+and (partly) signiﬁcant, meaning households who expect damage cov-
+erage by third parties have a higher probability to takeﬂood mitigation
+measures (see Table 4).
+First, let us discuss the relationship with insurance coverage. The
+positive correlation of mitigation and insurance coverage seems to
+contradict the theoretical literature on moral hazard ( Ehrlich and
+Becker, 1972; Kunreuther et al., 1978 ), although the empirical liter-
+ature comes to inconclusive results, as discussed before. However,
+the result should not be interpreted as a causal effect, and indeed
+the coef ﬁcient gets insigni ﬁcant if future planned mitigation is used
+as the dependent variable (see Robustness check 1). Instead, it
+should be interpreted as a simple correlation: Households with a
+high awareness of ﬂood risk and a high willingness to engage in
+counter measures are doing both — insuring and taking mitigation
+measures. Hence, unmeasured household characteristics such as
+unobserved risk aversion and unobserved exposure levels may
+cause endogeneity between insurance and mitigation. 13 Another
+possibility to explain the relationship is the awareness and informa-
+tion 'campaigns of German insurance companies targeting their cos-
+tumers, propagating the importance and usefulness of private ﬂood
+mitigation — although the apparent overestimation of the own insur-
+ance coverage indicates a rather low information level with regard to
+private ﬂood response options. Similar results are found in other
+studies for the German context ( Thieken et al., 2006 ) and in the
+USA for wind storm mitigation/insurance ( Carson et al., 2013;
+Chatterjee and Mozumder, 2014; Petrolia et al., 2013 ).
+The second counterintuitive result is the higher propensity of
+mitigation for homeowners who expect government relief. The
+way expectations about ad-hoc government relief are formed and
+how these expectations in ﬂuence the decision to mitigate are com-
+plex processes which may depend on observed and unobserved
+personality traits. Hence, we test for various interaction effects of
+individual control variables with the relationship of relief expecta-
+tion and mitigation. Indeed, there are signi ﬁcant interaction effects
+with general risk seeking and educa tion levels. The average margin-
+al effect of relief expectation varies between signi ﬁcantly negative
+and signi ﬁcantly positive values, depending on the risk seeking
+and education level of the respondent. Details on the marginal ef-
+fects and interactions are presented in Appendix A , Table A.7 and
+Fig. A.1 . Lower educated and risk seeking participants tend to have
+a higher probability to mitigate if they expect government aid,
+while the relation can also be negative for risk-averse and higher
+educated participants — they are subject to charity hazard. By com-
+bining the education- and risk-attitude-speci ﬁcm a r g i n a le f f e c t s
+with the ratios of observations ful ﬁlling the respective values one
+can derive a picture of how many participants are expectedly
+exhibiting which response to government relief expectation.
+Table 5 provides an overview of the proportions of homeowners
+and tenants regarding their indivi dual correlatio ns of government
+relief expectation with private mitigation, dependent on risk atti-
+tudes and education level.
+It becomes apparent that charity hazard can be detected for tenants
+with high education levels and high risk aversion. For other groups, the
+expectation of government relief does not correlate with the decision
+whether to mitigate or there is a counterintuitive positive relationship,
+comparable to the correlation with perceived insurance coverage
+discussed above.
+These results suggest that the relationship between expected dam-
+age coverage by a third party and ﬂood mitigation is quite complex
+and deserves further research. But we can state that a signi ﬁcant
+moral hazard effect due to perceived insurance coverage is not detect-
+able in our data. Correlations indicating possible charity hazard can be
+observed for a minority of tenants.
+Table 4
+Predicted probabilities ofﬂood mitigation depending on expectations of damage coverage.a
+Homeowners Tenants
+Predicted probability Marginal effect Predicted probability Marginal effect
+No ﬂood insurance coverage expected .330
+.097***
+.037
+.022**Flood insurance coverage expected .427 .059
+No government relief payments expected .364
+.039*
+.040
+.003
+Government relief payments expected .402 .043
+a Based on Model 3. */**/*** denote statistical signiﬁcance on the 10/5/1% level.
+13 Another reason for endogeneity is the fact that the decision on mitigation and insur-
+ance is a simultaneous process ( Ehrlich and Becker, 1972). Thanks to an anonymous re-
+viewer for pointing this out.
+42 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 8]]
+5.6. Socio-economic Factors
+Besides the key variables, the regr ession analysis allows further
+insights into the effects of socio-economic factors of the households
+on the decision to mitigate ﬂood damage. First, mitigating house-
+holds are characterised by relatively high income. As income in-
+creases by 1000 €, the estimated mitigation probability increases
+by two percentage points on average (p b 0.01, see Table A.4 in
+Appendix A ). Qualitatively similar results were obtained by previous
+studies as well ( Botzen et al., 2013; Bubeck et al., 2013; Carson et al.,
+2013; Zhai et al., 2006 ). A possible explanation is the upfront invest-
+ment which is necessary for some of the mitigation measures and
+which may hinder low-income households of pursuing them
+(Bubeck et al., 2013 ). Income could also be seen as a proxy for mate-
+rial wealth, which may serve as a motivation for mitigation ( Carson
+et al., 2013 ).
+Second, we ﬁnd a small but signi ﬁcant effect of age on mitiga-
+tion. As the age of the head of the household increases by ten
+years, the estimated mitigation pr obability increases by 1.5 per-
+centage points on average (p b 0.05). This is in line with some pre-
+vious studies ( Bubeck et al., 2013; Terpstra and Lindell, 2012 ),
+although many other studies do not report signi ﬁcant age effects.
+Possibly, older heads of households have lived for longer in their
+homes, are more emotionally committed to their places, and more
+motivated for mitigation.
+6. Conclusions
+In the present analysis the uptake of private ﬂood mitigation mea-
+sures has been analysed empirically using a large-scale household sur-
+vey. It is the ﬁrst analysis of this kind on the national level in Germany
+and one of very few in Europe. By broadening the analysis to the nation-
+al level, the results can indicate directions for the design of national pol-
+icies stimulating private ﬂood mitigation measures.
+The main results can be summarised as followed: Households
+which suffered ﬁnancial or health damage from ﬂoods in the past
+have a higher probability to engage in private ﬂood mitigation.
+On average, the predicted probability increases by 21.0% for
+homeowners (signi ﬁcant with p b 0.01) and 3.5% for tenants
+(p b 0.1). Thus, the effect of damage experience found for ﬂood-
+prone areas in previous literature can be con ﬁrmed and quanti ﬁed
+for a nationwide household sample. A topic for further research is
+the concrete channel how this effect works. Open questions in-
+clude the relevance of the magnitude of the damage, and whether
+the effect diminishes over time.
+Besides the effect of damage experience, homeowners have a sig-
+niﬁcantly higher probability to mitigate if they expect a climate
+change-induced increase of their personal ﬂood damage in the next
+decades (predicted probability increases by more than 10%, p b
+0.01). As we explicitly asked for the additional effects expected due
+to climate change, this behaviour can be interpreted as private cli-
+mate change adaptation. This identi ﬁcation of climate adaptation in
+observed ﬂood mitigation behaviour is new in the literature and sug-
+gests that private households in Germany indeed care for climate
+change impacts. We could not identify a comparable adaptation sig-
+nal for ﬂood mitigation of tenants. Interestingly, mitigation behav-
+iour of homeowners is only signi ﬁcantly increasing in the middle
+range of a ﬁve-point damage expectation scale. In other words, it
+seems that there are lower and upper thresholds in the damage ex-
+pectation levels. If damage expectation levels are below the lower
+threshold, adaptation is not detectable; likewise we cannot observe
+more intense adaptation if expectations are above the upper thresh-
+old and increase further. This result, however, may depend on the
+concrete formulation of the climate change expectation variable. If
+there are such threshold values, this will have important implica-
+tions for the design of awareness and information campaigns. For ex-
+ample, an increase of climate change risk perception of already
+concerned individuals would not necessarily result in signi ﬁcantly
+higher private adaptation efforts.
+Furthermore, the (perceived) insurance coverage of ﬂood damage
+does not imply a lower motivation to engage in mitigation measures
+in our data. Hence, we cannot observe a crowding-out of private ﬂood
+mitigation by insurance, as postulated by the moral hazard phenome-
+non. On the contrary (but in line with other empirical studies), we
+ﬁnd that insured households tend to engage in private ﬂood mitigation
+measures rather than non-insured (pb 0.01 for homeowners). Howev-
+er, due to the possibility of endogeneity of this relationship, causality
+cannot be established. In the case of expecting government relief pay-
+ments, we ﬁnd that the correlation with mitigation depends on individ-
+ual characteristics, with some households increasing, other decreasing
+their mitigation efforts. In our data, charity hazard– i.e. less ﬂood miti-
+gation if ﬁnancial government relief is expected– can be observed for a
+non-negligible minority of tenants, characterised by high levels of risk
+aversion and high levels of education. These novel results may be a
+starting point for further research on the processes relevant for the mit-
+igation decision when there is potential damage coverage by a third
+party.
+A further policy-relevant result of our analysis is the apparent over-
+estimation of ﬂood insurance coverage among the German population.
+It seems that around a quarter of homeowners wrongly expect insur-
+ance coverage in case of ﬂooding. This should be a further topic for
+awareness and information campaigns.
+Acknowledgements
+I would like to thank Jürgen Bitzer, Klaus Eisenack, Manuel Frondel,
+Katherine von Graevenitz, François Laisney as well as Heinz Welsch for
+useful comments and fruitful discussions. Furthermore I would like to
+thank three anonymous reviewers for helpful and thoughtful comments
+and suggestions.
+Financial support of the German M inistry for Education and Re-
+search (BMBF) under the grant no. 01LA1113C is gratefully acknowl-
+edged. The funding source had no involvement in study design,
+collection, analysis and interpretation of the data, writing and pub-
+lishing of the article.
+Table 5
+Proportions and characteristics of households with positive, non-signiﬁcant and negative relationship of government relief expectation andﬂood mitigation.
+Ratios in estimation
+sample
+Characteristics
+Homeowners Tenants
+Signiﬁcantly (p b 0.1) positive sum of relief expectation and interaction marginal effects 0.391 0.193 No high education and/or risk seeking
+Sum of relief expectation and interaction effects not signi ﬁcantly different from zero 0.609 0.602
+Signiﬁcantly (p b 0.1) negative sum of relief expectation and interaction marginal effects (charity hazard) 0 0.206 High education and/or risk aversion
+43D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 9]]
+Table A.2
+Questions and answer options of the key variables.
+Variable in the model Questionnaire item (translated from German) Answer options a
+Private ﬂood mitigation Only potentially ﬂood exposed households were asked; the measures were ﬁltered as such that
+only applicable households could choose them (see Table 1)
+Please indicate which of the following ﬂood mitigation measures you have already
+implemented in your household and which you are planning to implement in the near
+future:
+− Moving valuable assets to higher ﬂoors
+− Water barriers at basement openings
+− Back ﬂow ﬂap
+− Water-resistant exterior paint coat
+− Water-resistant interior paint coat
+− Water-resistant ﬂoor
+− Already implemented
+− Implementation planned for the near future
+− Neither implemented nor planned
+Damage experience (past) Have you ever personally experienced a ﬂood or inundation? − Yes, at home
+− Yes, during a journey
+− No
+If the participant has experienced a ﬂood or inundation, this follow-up question was asked :
+Have you ever suffered any ﬁnancial or health damage (with consultation of a doctor) from
+a ﬂood or inundation? − Yes
+− No
+Damage expectation (future) Do you expect climate change to cause an increase in the occurrence of ﬂoods in Germany
+in the next decades?
+− Yes
+− No
+If ‘Yes’ was chosen, this follow-up-question was posed :
+Regarding the next decades: How likely do you perceive an increase of ﬁnancial or health
+damage due to ﬂoods or inundation for you personally? − Very unlikely
+− Rather unlikely
+− Moderately likely
+− Rather likely
+− Very likely
+Moral hazard Please indicate which insurance policies you hold.
+− Content insurance
+− Home insurance
+− Yes
+− No
+If content or home insurance was chosen, this follow-up question was posed :
+Does your insurance policy also cover natural hazards? Please note that the natural hazard
+coverage is normally only available for an extra premium. It covers damages from e.g.
+ﬂoods, snow pressure, earthquake, landslides or avalanches.
+− Content insurance
+− Home insurance
+− Yes
+− No
+Who do you expect to support you ﬁnancially in case your house or home content is
+damaged by natural hazards (e.g. ﬂoods or storms)?
+−Public entities (i.e. federal or state government or municipality)
+− Rather yes
+− Rather no
+a The ‘don't know’-option was possible in each question.
+Table A.1
+Descriptive statistics of control variables.
+Variable in the model Variable in the data Mean Std. err. Min. Max. Obs. a
+Age Age (years) 51.2 13.1 18 87 5851
+Gender Gender (1 = female) .320 .467 0 (male) 1 (female) 5851
+Children Number of children under the age of 18 living in household .383 .777 0 5 5639
+Education Graduated from ‘Hauptschule’ or not graduated .149 .356 0 (no) 1 (yes) 5647
+Graduated from ‘Realschule’ or rest .380 .485 0 (no) 1 (yes) 5647
+Graduated from high school or university .472 .499 0 (no) 1 (yes) 5647
+Occupation Full-time employed .602 .489 0 (no) 1 (yes) 5597
+Part-time employed .135 .341 0 (no) 1 (yes) 5597
+Retired .228 .420 0 (no) 1 (yes) 5597
+Unemployed, searching for employment .014 .119 0 (no) 1 (yes) 5597
+Housewife/-husband .005 .068 0 (no) 1 (yes) 5597
+Other unemployed, not searching for employment .016 .125 0 (no) 1 (yes) 5597
+Income Household income (1000 €)
+b 2.887 1.324 .25 5.75 4862
+Homeowner Ownership of the residence .583 .493 0 (no) 1 (yes) 5809
+Personal attitudes Stated general willingness to take risks, measured by 11-point Likert scale 5.824 2.034 1 11 5844
+Own ﬁnancial situation is very important .483 .500 0 (no) 1 (yes) 5846
+Exposure 16 Dummy variables for each federal state n.r.
+c n.r.c 0 1 5851
+Population of the municipality (1,000 people) 355.496 822.754 .022 3,501.872 5816
+Historical precipitation in wettest month (mm) 86.2 22 55.1 265.9 5844
+River in ZIP code area .618 .486 0 (no) 1 (yes) 5844
+Only basement exposed .336 .472 0 (no) 1 (yes) 5851
+Knowledge Knowing the insurance industry risk class of the own residence .026 .158 0 (no) 1 (yes) 5775
+a Full sample of potentially exposed households. Towards the end of the survey period, the landfall of hurricane Sandy at the US East coast occurred. This weather event and the resulting
+substantial damages were an important issue in the German media. A share of 4.4% of the sample was interviewed after the event.
+b Measured in 12 income categories. A continuous variable was constructed by setting the income to the midpoint of each category, with assuming 5,750€ for the highest category.
+c Not reported in detail.
+Appendix A
+44 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 10]]
+Table A.3
+Correlation matrix.a
+No. Variable 123456789 1 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3
+1 Flood mitigation 1 ––––––––––––––––– – – –– –
+2 Age .16 1 –––––––––––––––– – – –– –
+3 Female −.06 −.19 1 ––––––––––––––– – – –– –
+4 Children .04 −.36 −.02 1 –––––––––––––– – – –– –
+5 Education b −.01 −.20 .06 .04 1 ––––––––––––– – – –– –
+6 Part-time employed −.02 −.09 .29 .08 .02 1 –––––––––––– – – –– –
+7 Retired .10 .65 −.15 −.27 −.11 −.21 1 ––––––––––– – – –– –
+8 Searching for employment −.03 −.01 .00 −.04 −.04 −.05 −.07 1 –––––––––– – – –– –
+9 Housewife/husband −.01 .00 .09 .04 −.01 −.03 −.04 −.01 1 ––––––––– – – –– –
+10 Other unemployed −.06 −.11 .05 .02 .05 −.05 −.07 −.02 −.01 1 –––––––– – – –– –
+11 Income .19 −.01 −.17 .21 .23 −.16 −.12 −.16 .01 −.10 1 ––––––– – – –– –
+12 Homeowner .44 .26 −.14 .11 −.04 −.05 .14 −.09 .02 −.06 .32 1 –––––– – – –– –
+13 Willingness to take risks .03 .11 −.14 −.04 .02 −.06 .06 −.03 −.00 −.00 .09 .01 1 ––––– – – –– –
+14 Financial sit. very important .00 −.01 .06 .04 −.10 .01 −.02 −.00 .00 .00 −.03 −.01 −.04 1 –––– – – –– –
+15 Population of the municipality −.14 −.06 .09 −.10 .13 .02 .00 .04 −.01 .01 −.08 −.32 −.00 −.03 1 ––– – – –– –
+16 Precipitation .03 .00 −.05 .03 −.08 −.01 −.02 −.04 .01 .01 .09 .10 .01 −.00 −.25 1 –– – – –– –
+17 River in ZIP code area .02 .03 −.04 .02 −.01 −.02 .03 −.03 .01 −.01 .00 .08 .02 .04 −.14 .01 1 –––– – –
+18 Only basement exposed −.25 −.19 .12 −.13 .07 .03 −.08 .03 .00 .06 −.23 −.52 −.02 −.01 .36 −.10 −.07 1 ––– – –
+19 Knowledge of risk class .08 −.02 −.06 .02 .03 −.02 −.03 −.01 .02 −.02 .07 .06 .02 −.03 −.02 .02 −.01 −.03 1 –– – –
+20 Damage experience .14 .00 −.03 .01 .01 −.02 −.01 .02 .01 −.02 .04 .03 .04 −.02 −.06 .04 .01 −.03 .04 1 –– –
+21 Damage expectations b .06 −.02 .09 .00 −.07 .05 −.03 .03 −.00 −.02 −.08 −.02 −.01 .01 −.03 .02 .03 −.00 .03 .13 1 ––
+22 Perceived insurance coverage .23 .10 −.12 .06 −.07 −.08 .03 −.04 −.01 −.07 .18 .33 .06 .06 −.17 .06 .03 −.22 .07 .08 .03 1 –
+23 Expecting government relief .01 −.08 .03 .05 −.03 .01 −.06 .01 .02 .01 −.06 −.04 −.02 .04 −.01 −.02 −.01 .03 .00 .00 .09 −.02 1
+a Spearman's rho of pairwise correlations,number of observations varies. Bold coefﬁcients are signiﬁcantly different from zero (p b 0.1).
+b These variables enter the regressions as dummy variables. In the correlation matrix they wererecoded as ordinal variables to save space.
+45D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 11]]
+Table A.4
+Results of probit regressions (Model 3).a
+Variable in the model Variable in the data Average marginal effects Robust standard errors
+Age Age (years) .00157** .00071
+Gender Gender (1 = female) .0262* .0148
+Children Number of children under the age of 18 living in household .00253 .00839
+Education Graduated from ‘Hauptschule’ or not graduated .00637 .0179
+Graduated from ‘Realschule’ or rest REFERENCE GROUP
+Graduated from high school or university .00873 .0134
+Occupation Full-time employed REFERENCE GROUP
+Part-time employed .0441** .0198
+Retired .0478** .0186
+Unemployed, searching for employment .102** .0502
+Housewife/husband −.115 .0785
+Other unemployed, not searching for employment −.126* .0705
+Income Household income (1,000 €) .0204*** .00513
+Homeowner Ownership of the residence .338*** .0346
+Personal attitudes Stated general willingness to take risks .00550* .00299
+Own ﬁnancial situation very important .0266** .0120
+Exposure 15 Dummy variables for federal states (reference group North Rhine-Westphalia) INCLUDED
+Population of the municipality (1,000 people) −6.36e
+−5** 3.07e −5
+Historical precipitation in wettest month (mm) −.00132*** .000329
+River in ZIP code area −.00967 .0126
+Only basement exposed −.00777 .0165
+Knowledge Knowing the insurance industry risk class of the own residence .111*** .0335
+Damage experience Household has already experienced ﬁnancial or health damage by ﬂoods (homeowners) .210*** .0297
+Household has already experienced ﬁnancial or health damage by ﬂoods (tenants) .0350* .0181
+Damage expectations Personal damage increase is …
+… very unlikely Homeowners REFERENCE GROUP
+… rather unlikely .0199 .0217
+… moderately likely .0740*** .0261
+… rather likely .122*** .0357
+… very likely .0677 .0667
+Personal damage increase is …
+… very unlikely Tenants REFERENCE GROUP
+… rather unlikely .00688 .0111
+… moderately likely .0173 .0141
+… rather likely .0403* .0233
+… very likely .0236 .0343
+Moral hazard Stated ﬂood coverage of home or content insurance (homeowners) .0969*** .0201
+Stated ﬂood coverage of home or content insurance (tenants) .0221** .0107
+Stated expectation of ﬁnancial government relief (homeowners) .0388* .0202
+Stated expectation of ﬁnancial government relief (tenants) .00324 .00967
+Adjusted pseudo-R2 .234
+N 4272
+a Dependent variable: Uptake of any privateﬂood mitigation measure (binary). */**/*** symbolise statistical signiﬁcance on the 10/5/1% level.
+46 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 12]]
+Table A.5
+R e s u l t so fr o b u s t n e s sc h e c k s( 1 ) .a
+Baseline (Model 3) Robustness check 1 b Robustness check 2 c Robustness check 3 d Robustness check 4 e Robustness check 5 f
+Dependent variable Uptake of mitigation
+(probit)
+Planning of mitigation
+(probit)
+Uptake of mitigation
+(probit)
+No. of measures
+(Poisson)
+Uptake of mitigation
+(probit)
+Uptake of mitigation
+(probit)
+Reported values Average marginal
+effects
+Average marginal effects Average marginal
+effects
+Poisson regression
+coefﬁcients
+Marg. eff. at means &
+medians
+Average marginal
+effects
+Homeownership .338***
+(.035)
+.114***
+(.012)
+.329***
+(.041)
+2.869***
+(.288)
+.258***
+(.034)
+.351***
+(.014)
+Further control variables Included Included Included Included Included Included
+Damage experience of homeowners .210***
+(.030)
+.167***
+(.029)
+.194***
+(.032)
+.529***
+(.066)
+.224***
+(.032)
+.213***
+(.029)
+Damage experience of tenants .035*
+(.018)
+.041***
+(.010)
+.035*
+(.018)
+.661**
+(.280)
+.029*
+(.016)
+.045**
+(.022)
+Damage expectation: Personal damage
+increase is …
+… very unlikely Homeowners Ref. group Ref. group Ref. group Ref. group Ref. group Ref. group
+… rather unlikely .020
+(.022)
+.100
+(.067)
+.030**
+(.015)
+.020
+(.022)
+.050**
+(.024)
+.021
+(.023)
+… moderately
+likely
+.074***
+(.026)
+.225***
+(.074)
+.076***
+(.020)
+.076***
+(.027)
+.103***
+(.028)
+.078***
+(.028)
+… rather likely .122***
+(.036)
+.352***
+(.093)
+.132***
+(.031)
+.124***
+(.036)
+.149***
+(.038)
+.130***
+(.038)
+… very likely .068
+(.068)
+.401***
+(.156)
+.104**
+(.052)
+.069
+(.068)
+.094
+(.067)
+.072
+(.071)
+… very unlikely Tenants Ref. group Ref. group Ref. group Ref. group Ref. group Ref. group
+… rather unlikely .007
+(.011)
+.401
+(.292)
+.005*
+(.003)
+.009
+(.014)
+.012
+(.012)
+.006
+(.009)
+… moderately
+likely
+.017
+(.014)
+.561*
+(.314)
+.014***
+(.005)
+.022
+(.017)
+.022
+(.014)
+.014
+(.012)
+… rather likely .040*
+(.023)
+1.038***
+(.368)
+.028***
+(.009)
+.049*
+(.027)
+.044*
+(.023)
+.034
+(.021)
+… very likely .024
+(.034)
+.463
+(.586)
+.021
+(.013)
+.029
+(.042)
+.026
+(.033)
+.020
+(.029)
+Perceived insurance coverage of homeowners .097***
+(.020)
+.023
+(.015)
+.103***
+(.021)
+.281***
+(.064)
+.101***
+(.021)
+.099***
+(.021)
+Perceived insurance coverage of tenants .022**
+(.011)
+.005
+(.003)
+.022**
+(.011)
+.667***
+(.224)
+.018**
+(.009)
+.026**
+(.012)
+Expectation of government relief of homeowners .039*
+(.020)
+.031**
+(.015)
+.043**
+(.021)
+.111**
+(.056)
+.041*
+(.022)
+.040*
+(.021)
+Expectation of government relief of tenants .003
+(.010)
+.007*
+(.003)
+.004
+(.009)
+.098
+(.244)
+.003
+(.008)
+.004
+(.013)
+Adjusted pseudo-R2 .234 .194 .236 .205 .234 .234
+N 4272 3174 3738 4272 4272 4272
+a Only key variables reported. Robust standard errors inparentheses. */**/*** symbolise statistical signiﬁcance on the 10/5/1% level.
+b Planned instead of implemented mitigation. The coefﬁcients of the key variables have been estimated jointly for homeowners and tenants as there are very few tenants who are planning mitigation (0.7% of the estimation sample). The marginal
+effects, however, have been calculated separately for homeowners and tenants.
+c Excluding households who do not expect climate change to happen in Germany.
+d Number of implemented mitigation measures instead of binary mitigation decision.
+e Marginal effects at the means (continuous variables and homeowner- and basement exposed-variables) and medians (remaining binary and ordinal variables) instead of average marginal effects.
+f Average marginal effects of key variables calculated by predicted probabilities adjusted for all levels of interaction terms (see section“Statistical Methods”). In terms of combined coefﬁcients and model ﬁt, the interaction model is a precise
+replication of the baseline model.
+47D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 13]]
+Table A.6
+R e s u l t so fr o b u s t n e s sc h e c k s( 2 ) .a
+Baseline
+(Model 2a)
+Robustness
+check 6a
+b
+Baseline
+(Model 2b)
+Robustness
+check 6b
+b
+Baseline
+(Model 2c)
+Robustness
+check 6c
+b
+Homeownership .366***
+(.016)
+.364***
+(.016)
+.377***
+(.028)
+.376***
+(.028)
+.348***
+(.025)
+.350***
+(.024)
+Further control variables Included Included Included Included Included Included
+Damage experience of homeowners .238***
+(.029)
+.239***
+(.028)
+––– –
+Damage experience of tenants .053**
+(.023)
+.049**
+(.021)
+––– –
+Damage expectation:
+Personal damage increase is …
+… very unlikely Homeowners Ref. group Ref. group Ref. group Ref. group Ref. group Ref. group
+… rather unlikely –– .026
+(.023)
+.027
+(.023)
+––
+… moderately likely –– .097***
+(.027)
+.099***
+(.027)
+––
+… rather likely –– .168***
+(.036)
+.167***
+(.036)
+––
+… very likely –– .149**
+(.070)
+.151**
+(.070)
+––
+… very unlikely Tenants Ref. group Ref. group Ref. group Ref. group Ref. group Ref. group
+… rather unlikely –– .009
+(.013)
+.011
+(.013)
+––
+… moderately likely –– .024
+(.016)
+.022
+(.016)
+––
+… rather likely –– .059**
+(.027)
+.058**
+(.027)
+––
+… very likely –– .047
+(.048)
+.046
+(.047)
+––
+Perceived insurance coverage
+of homeowners
+–––– .108***
+(.021)
+.105***
+(.020)
+Perceived insurance coverage
+of tenants
+–––– .048**
+(.021)
+.048**
+(.020)
+Expectation of government
+relief of homeowners
+–––– .030**
+(.012)
+.027**
+(.011)
+Expectation of government
+relief of tenants
+–––– .006
+(.011)
+.008
+(.010)
+Adjusted pseudo-R2 .228 .230 .218 .219 .220 .224
+N 4272 4685 4272 4322 4272 4654
+a Dependent variable: Uptake of mitigation (probit). Average marginal effects, only key variables reported. Robust standard errors in parentheses.*/**/*** symbolise statistical signif-
+icance on the 10/5/1% level.
+b With all available observations. Although the discrepancies between the estimation samples and the full sample are reduced, signiﬁcant differences (p b 0.1) remain in gender, age,
+income, and importance of own ﬁnancial situation.
+Table A.7
+Results of probit regression (with interactions of charity hazard with risk attitudes and education levels).a
+Variables Homeowners Tenants
+Homeownership .351***
+(.013)
+.351***
+(.013)
+Further control variables included included
+Damage experience .214***
+(.030)
+.045**
+(.022)
+Damage expectation: Personal damage increase is …… very unlikely reference group reference group
+… rather unlikely .022
+(.022)
+.007
+(.014)
+… moderately likely .079***
+(.027)
+.020
+(.017)
+… rather likely .126***
+(.036)
+.047*
+(.027)
+… very likely .077
+(.068)
+.025
+(.040)
+Perceived insurance coverage .099***
+(.021)
+.023*
+(.012)
+Expectation of government relief Dependent on risk attitudes and education, see Fig. A.1
+Adjusted pseudo-R2 .235
+N 4272
+a Dependent variable: uptake of any privateﬂood mitigation measure, only key variables reported. Average marginal effects, robust standard errors in parentheses. */**/*** symbolise
+statistical signiﬁcance on the 10/5/1% level. Marginal effects of interaction effects are not reported, followingWilliams (2012).
+48 D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 14]]
+References
+Ai, Chunrong, Norton, Edward C., 2003. Interaction terms in logit and probit models. Econ.
+Lett. 80 (1), 123 –129 (Retrieved (http://www.sciencedirect.com/science/article/pii/
+S0165176503000326)).
+Bichard, Erik, Kazmierczak, Aleksandra, 2012. Are homeowners willing to adapt to and
+mitigate the effects of climate change? Clim. Chang. 112 (3-4), 633 –654 (Retrieved
+May 5, 2012 ( http://www.springerlink.com/index/10.1007/s10584-011-0257-8)).
+BMI, 2013. Bericht zur Flutkatastrophe 2013: Katastrophenhilfe, Entschädigung,
+Wiederaufbau. (Berlin, Germany, The publication is available at http://www.bmi.
+bund.de/SharedDocs/Downloads/DE/Broschueren/2013/kabinettbericht- ﬂuthilfe.
+html.).
+Botzen, W.J.W., Aerts, J.C.J.H., van den Bergh, J.C.J.M., 2009. Willingness of homeowners to
+mitigate climate risk through insurance. Ecol. Econ. 68 (8–9), 2265–2277 (Retrieved
+(http://www.sciencedirect.com/science/article/pii/S092180090900072X)).
+Botzen, W.J.W., Aerts, J.C.J.H., van den Bergh, J.C.J.M., 2013. Individual preferences for re-
+ducing ﬂood risk to near zero through elevation. Mitig. Adapt. Strateg. Glob. Chang.
+18, 229–244 (http://www.springerlink.com/index/10.1007/s11027-012-9359-5).
+Bubeck, P., Botzen, W.J.W., Aerts, J.C.J.H., 2012. A review of risk perceptions and other fac-
+tors that inﬂuence ﬂood mitigation behavior. Risk Anal. 32 (9), 1481–1495 (Retrieved
+June 13, 2013 ( http://www.ncbi.nlm.nih.gov/pubmed/22394258)).
+Bubeck, P., Botzen, W.J.W., Kreibich, H., Aerts, J.C.J.H., 2012. Detailed insights into the in-
+ﬂuence of ﬂood-coping appraisals on mitigation behaviour. Glob. Environ. Chang.
+23 (5), 1327 –1338 (Retrieved ( http://www.sciencedirect.com/science/article/pii/
+S0959378013000836)).
+Carson, James M., McCullough, Kathleen A., Pooser, David M., 2013. Deciding whether to
+invest in mitigation measures: evidence from Florida. J. Risk Insur. 80 (2), 309 –327.
+http://dx.doi.org/10.1111/j.1539-6975.2012.01484.x (Retrieved November 13,
+2012).
+Chatterjee, Chiradip, Mozumder, Pallab, 2014. Understanding household preferences for
+hurricane risk mitigation information: evidence from survey responses. Risk Anal.
+34 (6), 984–996. http://dx.doi.org/10.1111/risa.12196(Retrieved).
+Choudhry, Umar, 2013. P ﬂichtversicherung gegen Elementarschäden rückt näher.
+AssCompact (Retrieved ( http://www.asscompact.de/article/p ﬂichtversicherung-
+gegen-elementarschaeden-rueckt-naeher/assekuranz/y/contentpool/58361)).
+Ciscar, Juan-Carlos, et al., 2011. Physic al and economic consequences of climate
+change in Europe. Proc. Natl. Acad. Sci. U. S. A. 108 (7), 2678 –2683 (Retrieved
+March 29, 2012 ( http://www.pubmedcentral.nih.g ov/articlerender.fcgi?artid=
+3041092&tool=pmcentrez&rendertype=abstract )).
+City of Copenhagen, 2012. The City of Copenhagen Cloudburst Management Plan 2012.
+CRC Press, Taylor & Francis Group, Copenhagen, Denmark.
+Deaton, Angus, 1997. The Analysis of Household Surveys. John Hopkins University Press,
+Baltimore, USA.
+Die Bundesregierung, 2008. Deutsche Anpassungsstrategie an den Klimawandel. (Berlin,
+Germany, The publication is available at http://www.bmub.bund.de/service/
+publikationen/downloads/details/artikel/deutsche-anpassungsstrategie-an-den-
+klimawandel/.).
+Ehrlich, Isaac, Becker, Gary S., 1972.Market insurance, self-insurance, and self-protection.
+J. Polit. Econ. 80 (4), 623 –648.
+Feyen, Luc, Barredo, J.I., Dankers, R., 2009.Implications of global warming and urban land
+use change onﬂooding in Europe. Water & Urban Development Paradigms— Towards
+an Integration of Engineering, Design and Management Approaches, pp. 217–225.
+GDV, 2011. Auswirkungen des Klimawandels auf die Schadensituation in der Deutschen
+Versicherungswirtschaft. ,Gesamtverband der Deutschen Versicherungswirtschaft
+e.V., Berlin, Germany.
+GDV, 2013. Naturgefahrenreport 2013. Gesamtverband der Deutschen
+Versicherungswirtschaft e.V., Berlin, Germany (Retrieved ( http://www.gdv.de/wp-
+content/uploads/2013/11/GDV-Naturgefahrenreport-Schadenchronik-2013.pdf)).
+GDV, 2014. ZÜRS public. Retrieved January 30, 2014. http://www.zuers-public.de/
+zuerspublic/.
+Greene, William, 2010. Testing hypotheses about interaction terms in nonlinear models.
+Econ. Lett. 107 (2), 291 –296 (Retrieved ( http://www.sciencedirect.com/science/
+article/pii/S0165176510000777)).
+Grothmann, Torsten, 2005.Klimawandel, Wetterextreme und Private Schadensprävention.
+Otto-von-Guericke-Universität Magdeburg, Magdeburg, Germany.
+Grothmann, Torsten, Reusswig, Fritz, 2006. People at risk ofﬂooding: why some residents
+take precautionary action while others do not. Nat. Hazards 38, 101 –120 (Retrieved
+April 9, 2012 ( http://www.springerlink.com/index/10.1007/s11069-005-8604-6)).
+Hattermann, Fred F., Kundzewicz, Zbigniew W., et al., 2013. Climatological drivers of
+changes in ﬂood hazard in Germany. Acta Geophys. 61 (2), 463 –477. http://dx.doi.
+org/10.2478/s11600-012-0070-4(Retrieved).
+Hattermann, F.F., Huang, S., Burghoff, O., Willems, W., Österle, H., Büchner, M.,
+Kundzewicz, Z., 2014. Modelling ﬂood damages under climate change conditions –
+a case study for Germany. Nat. Hazards Earth Syst. Sci. 14 (12), 3151 –3168. http://
+dx.doi.org/10.5194/nhess-14-3151-2014.
+Huber, Peter J., 1967. The behavior of maximum likelihood estimates under nonstandard
+conditions. Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics
+and Probability, Volume 1: Statistics, Fifth Berkeley Symposium on Mathematical Sta-
+tistics and Probability. University of California Press, Berkeley, Calif, pp. 221–233 (Re-
+trieved (http://projecteuclid.org/euclid.bsmsp/1200512988)).
+IPCC, 2013. Climate Change 2013: The Physical Science Basis Summary for Policymakers.
+Kandilioti, Georgia, Makropoulos, Christos, 2012. Preliminary ﬂood risk assessment: the
+case of Athens. Nat. Hazards 61, 441 –468 (Retrieved June 11, 2012 ( http://www.
+springerlink.com/index/10.1007/s11069-011-9930-5)).
+Kellens, Wim, Terpstra, Teun, De Maeyer, Philippe, 2013. Perception and communication
+of ﬂood risks: a systematic review of empirical research. Risk Anal. 33 (1), 24–49 (Re-
+trieved November 7, 2012 (http://www.ncbi.nlm.nih.gov/pubmed/22651128)).
+Kievik, Milou, Gutteling, Jan M., 2011. Yes, we can: motivate Dutch citizens to engage in
+self-protective behavior with regard to ﬂood risks. Nat. Hazards 59 (3), 1475 –1490
+(Retrieved November 22, 2012 ( http://www.springerlink.com/index/10.1007/
+s11069-011-9845-1)).
+Knocke, Ethan T., Kolivras, Korine N., 2007. Flash ﬂood awareness in southwest Virginia.
+Risk Anal. 27 (1), 155 –169 (Retrieved December 5, 2012 ( http://www.ncbi.nlm.nih.
+gov/pubmed/17362407)).
+Koerth, Jana, Vafeidis, Athanasios T., Hinkel, Jochen, Sterr, Horst, 2013. What motivates
+coastal households to adapt pro-actively to sea-level rise and increasing ﬂood risk?
+Reg. Environ. Chang. 13, 897 –909. http://dx.doi.org/10.1007/s10113-012-0399-x
+(Retrieved).
+Kreibich, Heidi, Thieken, Annegret H., 2008. Coping with ﬂoods in the city of Dresden,
+Germany. Nat. Hazards 51, 423–436 (Retrieved June 4, 2012 (http://www.springerlink.
+com/index/10.1007/s11069-007-9200-8)).
+Kreibich, H., Thieken, A.H., Petrow, Th., Müller, M., Merz, B., 2005. Flood loss reduction of
+private households due to building precautionary measures — lessons learned from
+the Elbe ﬂood in August 2002. Nat. Hazard Earth Syst. Sci. 5 (1), 117 –126 (Retrieved
+−.2 −.1 0 .1 .2 .3
+Effect of Government Relief Expectation
+Average marginal effects on mitigation probability
+0 2 4 6 8 10
+Level of risk seeking
+(Homeowners)
+−.2 −.1 0 .1 .2 .3
+0 2 4 6 8 10
+Level of risk seeking
+(Tenants)
+Fig. A.1. Marginal effects of government relief expectation, dependent on risk attitudes and education levels. Symbols depict average marginal effects and 90%-conﬁdence intervals, based
+on the interaction model presented in Table A.7. The white symbols capture values for highly educated participants, the black symbols for other participants, respectively.
+49D. Osberghaus / Ecological Economics 110 (2015) 36–50
+
+[[PAGE 15]]
+(http://www.nat-hazards-earth-syst-sci.net/5/117/2005/)).
+Kreibich, H., Thieken, A.H., Grunenberg, H., Ullrich, K., Sommer, T., 2009. Extent, percep-
+tion and mitigation of damage due to high groundwater levels in the city of Dresden,
+Germany. Nat. Hazard Earth Syst. Sci. 9 (4), 1247–1258 (Retrieved (http://www.nat-
+hazards-earth-syst-sci.net/9/1247/2009/)).
+Kreibich, H., Christenberger, S., Schwarze, R., 2011. Economic motivation of households to
+undertake private precautionary measures againstﬂoods. Nat. Hazard Earth Syst. Sci.
+11 (2), 309–321 (Retrieved July 4, 2013 (http://www.nat-hazards-earth-syst-sci.net/
+11/309/2011/)).
+Kunreuther, Howard C., et al., 1978. Disaster Insurance Protection: Public Policy Lessons.
+John Wiley and Co., New York, USA.
+Lindell, Michael K., Hwang, Seong Nam, 2008. Households' perceived personal risk and re-
+sponses in a multihazard environment. Risk Anal. 28 (2), 539 –556 (Retrieved Octo-
+ber 30, 2012 ( http://www.ncbi.nlm.nih.gov/pubmed/18419668)).
+Mennel, Tim, Osberghaus, Daniel, 2013. Klimawandel und Versicherungsbranche:
+Benötigen wir eine Versicherungsp ﬂicht gegen Elementarschäden? Ökol.
+Wirtsch. 2.
+Miceli, Renato, Sotgiu, Igor, Settanni, Michele, 2008. Disaster preparedness and percep-
+tion of ﬂood risk: a study in an Alpine valley in Italy. J. Environ. Psychol. 28,
+164–173 (Retrieved April 24, 2012 ( http://linkinghub.elsevier.com/retrieve/pii/
+S0272494407000904)).
+Osberghaus, Daniel, Schwirplies, Claudia, Ziegler, Andreas, 2013. Klimawandel in Deutsch-
+land: Risikowahrnehmung, Wissensstand und Anpassung in Privaten Haushalten.
+(Mannheim, Germany. Retrieved (http://www.rwi-essen.de/forschung-und-beratung/
+umwelt-und-ressourcen/projekte/eval-map/ergebnisse/)).
+Petrolia, Daniel R., Hwang, Joonghyun, Landry, Craig E., Coble, Keith H., 2013.Wind Insur-
+ance and Mitigation in the Coastal Zone.
+Poussin, Jennifer K., Botzen, Wouter W.J., Aerts, Jeroen C.J.H., 2013. Stimulatingﬂood dam-
+age mitigation through insurance: an assessment of the French Catnat system. Envi-
+ron. Hazards 12 (3-4), 258–277 (Retrieved (http://www.tandfonline.com/doi/abs/10.
+1080/17477891.2013.832650)).
+Raschky, Paul A., Weck-Hannemann, Hannelore, 2007. Charity hazard —a real hazard to
+natural disaster insurance? Environ. Hazards 7 (4), 321–329 (Retrieved May 7, 2012
+(http://tandfprod.literatumonline.com/doi/abs/10.1016/j.envhaz.2007.09.002)).
+Raschky, Paul A., Schwarze, Reimund, Schwindt, Manijeh, Zahn, Ferdinand, 2013. Uncertainty
+of governmental relief and the crowding out ofﬂood insurance. Environ. Resour. Econ.
+54, 179–200 (Retrieved November 19, 2012 (http://www.springerlink.com/index/10.
+1007/s10640-012-9586-y)).
+Rojas, Rodrigo, Feyen, Luc, Watkiss, Paul, 2013. Climate change and river ﬂoods in the
+European union: socio-economic consequences and the costs and beneﬁts of adapta-
+tion. Glob. Environ. Chang. 23 (6), 1737–1751 (Retrieved (http://www.sciencedirect.
+com/science/article/pii/S0959378013001416)).
+Schwarze, Reimund, Wagner, Gert G., 2004. In the aftermath of Dresden: new directions
+in German ﬂood insurance. Geneva Pap. Risk Ins. 29 (2), 154 –168.
+Siegrist, Michael, Gutscher, Heinz, 2008. Natural hazards and motivation for mitigation
+behavior: people cannot predict the affect evoked by a severe ﬂood. Risk Anal. 28
+(3), 771–778 (Retrieved October 26, 2012 ( http://www.ncbi.nlm.nih.gov/pubmed/
+18643832)).
+Takao, Kenji, et al., 2004. Factors determining residents' preparedness forﬂoods in mod-
+ern megalopolises: the case of the Tokai ﬂood disaster in Japan. J. Risk Res. 7 (7 –8),
+775–787.
+Terpstra, T., Lindell, M.K., 2012. Citizens' perceptions of ﬂood hazard adjustments:
+an application of the protective action decision model. Environ. Behav. 45 (8),
+993–1018 (Retrieved November 13, 2012 ( http://eab.sagepub.com/cgi/doi/10.
+1177/0013916512452427 )).
+Thieken, Annegret H., Müller, Meike, Kreibich, Heidi, Merz, Bruno, 2005. Flood damage
+and in ﬂuencing factors: new insights from the august 2002 ﬂood in Germany.
+Water Resour. Res. 41 (12) (Retrieved November 28, 2012 ( http://www.agu.org/
+pubs/crossref/2005/2005WR004177.shtml)).
+Thieken, Annegret H., Petrow, Theresia, Kreibich, Heidi, Merz, Bruno, 2006. Insur-
+ability and mitigation of ﬂood losses in private households in Germany. Risk
+Anal. 26 (2), 383 –395 (Retrieved March 12, 2012 ( http://www.ncbi.nlm.nih.
+gov/pubmed/16573628 )).
+Thieken, Annegret H., Kreibich, Heidi, Müller, Meike, Merz, Bruno, 2007. Coping with
+ﬂoods: preparedness, response and recovery of ﬂood-affected residents in Germany
+in 2002. Hydrol. Sci. J. 52 (5), 1016 –1037.
+Veronesi, Marcella, Chawla, Fabienne, Maurer, Max, Lienert, Judit, 2013. Climate change and
+the willingness to pay to reduce ecological and health risks from wastewaterﬂooding in
+urban centers and the environment. Ecol. Econ. 2919, 1–10 (January, Retrieved March 7,
+2014 (http://linkinghub.elsevier.com/retrieve/pii/S0921800913003601)).
+Wachinger, Gisela, Renn, Ortwin, Begg, Chloe, Kuhlicke, Christian, 2013. The risk percep-
+tion paradox—implications for governance and communication of natural hazards.
+Risk Anal. 33 (6), 1049 –1065 (Retrieved August 26, 2014 ( http://www.ncbi.nlm.
+nih.gov/pubmed/23278120)).
+Wasserhaushaltsgesetz, 2009. Gesetz zur Ordnung des Wasserhaushalts
+(Wasserhaushaltsgesetz - WHG) (Germany).
+White, Halbert, 1980. A heteroskedasticity-consistent covariance matrix estimator and a
+direct test for heteroskedasticity. Econometrica 48 (4), 817 –838 (Retrieved (http://
+www.jstor.org/stable/1912934)).
+White, Halbert, 1982. Maximum likelihood estimation of misspeci ﬁed models.
+Econometrica 50 (1), 1–25 (Retrieved (http://www.jstor.org/stable/1912526)).
+Williams, Richard, 2012. Using the margins command to estimate and interpret adjusted
+predictions and marginal effect. Stata J. 12 (2), 308 –331.
+Zaalberg, Ruud, Midden, Cees, Meijnders, Anneloes, McCalley, Teddy, 2009. Prevention,
+adaptation, and threat denial: ﬂooding experiences in the Netherlands. Risk Anal.
+29 (12), 1759 –1778 (Retrieved November 22, 2012 ( http://www.ncbi.nlm.nih.gov/
+pubmed/19919550)).
+Zhai, Guofang, Sato, Teruko, Fukuzono, Teruki, Ikeda, Saburo, Yoshida, Kentaro, 2006.
+Willingness to pay for ﬂood risk reduction and its determinants in Japan. J. Am.
+Water Resour. Assoc. 42 (4), 927 –940. http://dx.doi.org/10.1111/j.1752-1688.2006.
+tb04505.x (Retrieved).
+50 D. Osberghaus / Ecological Economics 110 (2015) 36–50

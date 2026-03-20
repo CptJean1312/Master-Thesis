@@ -1,0 +1,4938 @@
+[[PAGE 1]]
+Bastian Heider, Benjamin Scholz,  
+Stefan Siedentop, Jacqueline Radzyk,  
+Jutta Rönsch, Sabine Weck
+Ungleiches Deutschland 
+Sozioökonomische Disparitäten 2023 
+Wissenschaftlicher Hintergrundbericht
+
+[[PAGE 2]]
+FES diskurs 
+September 2023
+Die Friedrich-Ebert-Stiftung
+Die Friedrich-Ebert-Stiftung (FES) wurde 1925 
+gegründet und ist die traditionsreichste 
+politische Stiftung Deutschlands. Dem Vermächtnis 
+ihres Namensgebers ist sie bis heute verpflichtet und 
+setzt sich für die Grundwerte der Sozialen Demokra-
+tie ein: Freiheit,  Gerechtigkeit und Solidarität. Ideell 
+ist sie der Sozialdemokratie und den freien Gewerk-
+schaften verbunden.
+Die FES fördert die Soziale Demokratie vor allem 
+durch: 
+–  politische Bildungsarbeit zur Stärkung der  
+Zivilgesellschaft;
+– Politikberatung;
+–  internationale Zusammenarbeit mit Auslands büros 
+in über 100 Ländern;
+– Begabtenförderung;
+–  das kollektive Gedächtnis der Sozialen Demokratie 
+mit u. a. Archiv und Bibliothek. 
+Die Abteilung Analyse, Planung und Beratung 
+der Friedrich-Ebert-Stiftung
+Die Abteilung Analyse, Planung und Beratung der 
+Friedrich-Ebert-Stiftung versteht sich als Zukunfts-
+radar und Ideenschmiede der Sozialen Demokratie. 
+Sie verknüpft Analyse und Diskussion. Die Abteilung 
+bringt Expertise aus Wissenschaft, Zivilgesellschaft, 
+Wirtschaft, Verwaltung und Politik zusammen.  
+Ihr Ziel ist es, politische und gewerkschaftliche 
+Entscheidungsträger_innen zu aktuellen und zu-
+künftigen Herausforderungen zu beraten und 
+progressive Impulse in die gesellschaftspolitische 
+Debatte einzubringen.
+FES diskurs
+FES diskurse sind umfangreiche Analysen zu gesell-
+schaftspolitischen Fragestellungen. Auf Grundlage 
+von empirischen Erkenntnissen sprechen sie wissen-
+schaftlich fundierte Handlungsempfehlungen für die 
+Politik aus.
+Über die Autor_innen
+Dr. Bastian Heider ist stellvertretender Leiter des 
+Bereichs Geoinformation und Monitoring am Institut 
+für Landes- und Stadtentwicklungsforschung 
+gGmbH Dortmund (ILS) und Postdoktorand am 
+Lehrstuhl für Stadtentwicklung an der TU Dortmund.
+Benjamin Scholz ist wissenschaftlicher Mitarbeiter 
+im Bereich Geoinformation und Monitoring und in 
+der Forschungsgruppe Raumbezogene Planung und 
+Städtebau am ILS.
+Prof. Dr. Stefan Siedentop ist Professor für Stadtent-
+wicklung an der TU Dortmund und ehemaliger 
+wissenschaftlicher Geschäftsführer des ILS.
+Jacqueline Radzyk ist Studentin der Raumplanung 
+an der TU Dortmund und studentische Mitarbeiterin 
+am ILS.
+Jutta Rönsch ist Kartografin im Bereich Geoinforma-
+tion und Monitoring am ILS mit Arbeitsschwerpunk-
+ten in der Visualisierung raumbezogener Daten und 
+Prozesse.
+Dr. Sabine Weck ist Leiterin der Forschungsgruppe 
+Sozialraum Stadt und stellvertretende Institutslei-
+tung am ILS.
+Datenaufbereitung unter Mitarbeit von:
+Jonas Siethoff, Jan Trosin und Christian Gerten (ILS).
+Für diese Publikation ist in der FES  
+verantwortlich
+Vera Gohla, Referentin für Wirtschafts- und Struk-
+turpolitik in der Abteilung Analyse, Planung und 
+Beratung der Friedrich-Ebert-Stiftung.
+Die interaktive Disparitätenkarte und weitere 
+ Informationen finden Sie hier:
+www.fes.de/ungleiches-deutschland/
+
+[[PAGE 3]]
+Bastian Heider, Benjamin Scholz, Stefan Siedentop, Jacqueline 
+Radzyk, Jutta Rönsch, Sabine Weck
+Ungleiches Deutschland 
+Sozioökonomische Disparitäten 2023 –  
+Wissenschaftlicher Hintergrundbericht
+INHALT
+ 4  AKTUELLE TRENDS DER RAUMENTWICKLUNG:  
+UNSICHERE PERSPEKTIVEN IM  ANGESICHT GLOBALER KRISEN
+ 6  UNGLEICHE LEBENSVERHÄLTNISSE HEUTE: ZWISCHEN ERLAHMENDEN 
+ GROSS STADTDYNAMIKEN UND AUFHOLENDEN LÄNDLICHEN RÄUMEN 
+ 9  DIE FÜNF RAUMTYPEN DEUTSCHLANDS: GUNST- UND UNGUNSTLAGEN  
+MIT UNTERSCHIEDLICHEN HERAUSFORDERUNGEN 
+ 14 Wohlstand und Armut
+ 18  RESILIENZ UND ZUKUNFTSFÄHIGKEIT:  
+INDIKATOREN FÜR EINE VORAUSSCHAUENDE STRUKTURPOLITIK
+ 22 Viermal Deutschland: Raumtypen mit unterschiedlichen Zukunftspotenzialen
+ 24 Fallstudien
+ 29 Räume mit besonderen Transformationsrisiken
+ 33 PFADE DER UNGLEICHHEIT
+ 36 ANHANG A: DOKUMENTATION DER INDIKATOREN
+ 39 ANHANG B: METHODISCHE HINWEISE
+ 41 ANHANG C: WERTEBEREICHE DER INDIKATOREN
+ 42 LITERATURVERZEICHNIS
+FRIEDRICH-EBERT -STIFTUNG
+3
+
+[[PAGE 4]]
+Aktuelle Trends der Raumentwicklung:
+UNSICHERE PERSPEKTIVEN IM  
+ANGESICHT GLOBALER KRISEN
+Während die 2010er Jahre in Deutschland im Allgemeinen 
+als Phase des Wachstums, insbesondere der großstädti -
+schen Räume, wahrgenommen wurden, haben sich die so -
+zioökonomischen Perspektiven in Deutschland und seinen 
+Teilräumen spätestens seit dem 22.3.2020 mit dem Beginn 
+des ersten Corona-Lockdowns erheblich verdunkelt. Infol -
+ge der Pandemie sank das Bruttoinlandsprodukt (BIP) im 
+Jahr 2020 nach einer langen Wachstumsphase um rund 
+fünf Prozent (Statistisches Bundesamt 2021). Doch die 
+Pandemie hatte nicht nur kurzfristige konjunkturelle Fol -
+gen, sondern wirkte wie ein Brennglas auf viele schon lan -
+ge schwelende strukturelle Probleme. Nach Corona blieben 
+viele für die Erholung der Wirtschaft dringend benötigte 
+Arbeitsplätze unbesetzt. Der Arbeitskräftemangel betrifft 
+dabei längst nicht mehr nur hoch qualifizierte Fachkräfte, 
+sondern auch einfachere Hilfstätigkeiten, beispielsweise in 
+der Gastronomie oder Logistik. Gesellschaftlich besonders 
+relevante Bereiche wie die Pflege sind ebenfalls in starkem 
+Maße betroffen (Bonin/Rinne 2022; Brenke 2022). Darü -
+ber hinaus hat Corona die Vulnerabilität globalisierter 
+Wertschöpfungsketten aufgezeigt. Die Konsequenz sind 
+weitreichende Lieferengpässe bei vielen Rohstoffen, Zwi -
+schen- und Endprodukten. Der Pandemie folgte der russi -
+sche Angriffskrieg gegen die Ukraine und damit einherge -
+hend eine drastische Neuordnung internationaler Handels -
+beziehungen, die die Wettbewerbsfähigkeit der bis dato 
+stark von russischem Erdgas abhängigen deutschen Wirt -
+schaft infrage stellt. Das Resultat sind steigende Energie -
+preise, Inflation und die drängende Herkulesaufgabe der 
+Transformation des Energiesystems. Komplettiert wird die 
+komplexe und unsichere Lage durch einen erneuten Zu -
+strom von Geflüchteten. Die Zahl der geflüchteten Ukrai -
+ner_innen in Deutschland betrug im Jahr 2022 mehr als 
+1,1 Millionen (Statistisches Bundesamt 2023). Die Migra -
+tion könnte zwar ein wichtiges Mittel zur langfristigen Be -
+kämpfung des Arbeitskräftemangels sein, kurzfristig stellt 
+sie die aufnehmenden Kommunen aber vor erhebliche In -
+tegrationsherausforderungen, insbesondere aufgrund der 
+überlasteten Infrastrukturen und Wohnungsmärkte in ei -
+nigen deutschen Großstädten.
+Wie sich dieses komplexe Zusammenspiel globaler Kri -
+sen in den einzelnen Teilregionen Deutschlands langfristig 
+auswirkt, lässt sich nur schwer prognostizieren. Die aktuel -
+len Krisen und Transformationsprozesse machen es not -
+wendig, die Voraussetzungen für gleichwertige Lebensver -
+hältnisse und regionale Zukunftsfähigkeit ständig neu zu 
+bewerten. Zu erwarten ist, dass sich bestehende sozioöko -
+nomische Disparitäten bei Ausbleiben effektiver Präventiv -
+maßnahmen einerseits potenziell verstärken und sich an -
+dererseits neue räumliche Muster der Ungleichheit entwi -
+ckeln werden. Betrachtet man lediglich die jüngere Ver -
+gangenheit, deuten sich dahin gehend folgende Trends der 
+Raumentwicklung an:
+ • Das Wachstum der großen Städte und Metropolen hat 
+sich deutlich abgeschwächt. Während viele Großstädte 
+in den 2010er Jahren starke Wanderungsgewinne aus 
+dem In- und Ausland verzeichneten, hat sich das Bin -
+nenwanderungsgeschehen in der zweiten Hälfte des 
+Jahrzehnts nahezu um 180 Grad gedreht. Aktuell profi -
+tieren vor allem die Umlandkreise der Großstädte und 
+teilweise auch der großstadtferne ländliche Raum von 
+der Binnenwanderung der deutschen Bevölkerung. 
+Selbst in weiten Teilen des ländlichen Ostdeutschlands 
+scheint die lange Schrumpfungsphase durch Abwande -
+rung fürs Erste gestoppt. Während der Coronapande -
+mie, die zu einer breiten Etablierung des Homeoffice 
+führte, entfachten sich deshalb schon erste Debatten 
+über eine neue Stadtmüdigkeit und veränderte Wohn -
+ortpräferenzen zugunsten des ländlichen Raums (Mün -
+ter et al. 2022).
+ • Die Abwanderung aus den wirtschaftlich erfolgreichen 
+Städten ist zum Teil eine direkte Konsequenz zuneh -
+mender Überlastung der Infrastruktur und Wohnungs -
+märkte. Viele Menschen können sich ein Leben in den 
+beliebten Großstädten und teilweise auch in deren Ein -
+zugsbereichen schlicht und einfach nicht mehr leisten. 
+Auch wenn die großflächige Verdrängung einkommens -
+schwacher Haushalte aus zentralen städtischen Lagen in 
+unattraktive periphere Randlagen noch kein deutsch -
+landweiter Trend ist, zeigt sich die Trennlinie zwischen 
+den wohlhabenden und den „exkludierten“ Bevölke -
+rungsgruppen zunehmend auch in räumlicher Hinsicht 
+(Helbig/Jähnen 2018; Weck et al. 2023). Diese Exklusi -
+ons- und Verdrängungsprozesse betreffen längst nicht 
+mehr nur die niedrigsten Einkommensgruppen, son -
+dern auch erhebliche Teile der Mittelschicht. Ängste vor 
+sozialem Abstieg und eine zunehmende sozialräumliche 
+Segregation werden so zum gesellschaftlichen Problem. 
+ • Die anhaltend hohe Zuwanderung aus dem Ausland 
+konzentriert sich sehr stark auf wenige Teilräume. Trotz 
+der staatlich geregelten räumlichen Zuweisung von Ge -
+flüchteten über den Königsteiner Schlüssel konzentrie -
+ren sich Zugewanderte auf lange Sicht vor allem in den 
+westdeutschen Großstädten sowie in Berlin. Im ländli -
+chen Raum und in den ostdeutschen Großstädten ist der 
+Bevölkerungsanteil von Menschen mit Migrationshin -
+tergrund zwar ebenfalls signifikant gestiegen, die At -
+traktivität für Zugewanderte (sowohl für Geflüchtete als 
+auch für Arbeitsmigrant_innen) ist aber immer noch 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+4
+
+[[PAGE 5]]
+deutlich geringer einzuschätzen. Hotspots der Zuwan -
+derung sind jedoch nicht allein die wirtschaftlich er -
+folgreichen Metropolen, sondern auch Städte im andau -
+ernden Strukturwandel (Heider et al. 2020). Vor allem 
+sie stellt die Zuwanderung vor große Integrationsher -
+ausforderungen. Wenn sozioökonomisch schwächer ge -
+stellte Migrant_innen auf überlastete soziale Infrastruk -
+turen und klamme kommunale Haushalte treffen, steigt 
+die Armuts- und Exklusionsgefahr.
+ • Einige ländliche Räume – insbesondere im Osten 
+Deutschlands – konnten in jüngerer Vergangenheit 
+deutlich aufholen. Insbesondere beim Breitbandausbau 
+konnten bemerkenswerte Fortschritte gemacht werden. 
+Vor dem Hintergrund der Digitalisierung und der wäh -
+rend der Pandemie neu entstandenen Homeoffice-Mög -
+lichkeiten könnte sich dies als wichtiger Faktor für die 
+Zukunftsfähigkeit dieser Regionen erweisen. Auch das 
+Lohnniveau und die Lebenserwartung sind in vielen be -
+nachteiligten Kreisen und kreisfreien Städten über -
+durchschnittlich gestiegen, während die Kinderarmut 
+und die kommunale Verschuldung überportional zu -
+rückgegangen sind. Einige dieser Entwicklungen sind 
+zwar teilweise auf bundes- oder landespolitische Ent -
+scheidungen wie die Erhöhung des Mindestlohns oder 
+den kommunalen Schuldenschnitt in einigen Ländern 
+zurückzuführen, die Gesamtentwicklung zeigt jedoch, 
+dass eine Verfestigung räumlicher Ungleichheit nicht 
+alternativlos ist und man ihr mit strukturpolitischen 
+Maßnahmen und Investitionen vorbeugen kann.
+ • Sozioökonomische Problemlagen bedingen sich gegen -
+seitig. Eine schwache Wirtschaftsstruktur und erhöhte 
+Armutsgefährdung gehen oftmals mit einer höheren 
+kommunalen Verschuldung und folglich einer geringe -
+ren staatlichen Handlungsfähigkeit einher. Dies hat wie -
+derum Auswirkungen auf die politische Partizipation 
+und kann in letzter Konsequenz zum sich selbst verstär -
+kenden ökonomischen und demografischen Niedergang 
+einer Region führen. Deshalb zeigt die vorliegende Stu -
+die in einer zusammenfassenden „Disparitätenkarte“ 
+auf, wo Mehrfachbelastungen auftreten und wie sich die 
+einzelnen Kreise und kreisfreien Städte zu Raumtypen 
+mit ähnlichen Problemlagen und Herausforderungen 
+zusammenfassen lassen.
+Angesichts akuter Transformationsherausforderungen, wie 
+der Digitalisierung und der Klimakrise und unerwartet auf -
+tretender globaler Krisen, müssen diese Trends und Muster 
+der Raumentwicklung als Momentaufnahme gesehen wer -
+den. Ob sich etwa die aufholende Entwicklung im Osten 
+Deutschlands fortsetzen wird, darf angesichts der demo -
+grafischen und wirtschaftsstrukturellen Ausgangslage in vie -
+len ländlichen Kreisen längst nicht als gesichert gelten. 
+Auch, ob die großen Städte tatsächlich die Verlierer zukünf -
+tiger Transformationsprozesse sein werden, ist zu bezwei -
+feln. Aus historischer Perspektive haben sich Großstädte mit 
+ihren Dichtevorteilen und ihrer kulturellen und ökonomi -
+schen Diversität in den meisten Fällen als erstaunlich wider -
+standsfähig gegen globale Krisen und Veränderungen erwie -
+sen (Florida et al. 2023; Siedentop/Zimmer-Hegmann 2020). 
+Aus Sicht der Strukturpolitik gehen diese unsicheren Pers -
+pektiven mit großen Herausforderungen einher. Um neu 
+entstehende Muster der Ungleichheit frühzeitig zu erken -
+nen und ihnen effektiv entgegenwirken zu können, braucht 
+es verlässliche Kennziffern (Indikatoren), auf deren 
+Grundlage sich zukünftige Entwicklungen vorausahnen 
+lassen (Degen/Hennicke 2022). Für proaktive Strukturpoli -
+tik steht weniger die Frage nach dem Istzustand und ver -
+gangenen Trends der Raumentwicklung im Vordergrund. 
+Es geht vielmehr um eine vorausschauende Betrachtung, 
+welche Regionen von Transformationsprozessen in beson -
+derem Maße betroffen sind und über welche Ressourcen 
+und Potenziale die unterschiedlichen Räume und Raumty -
+pen verfügen, um die damit einhergehenden Transforma -
+tionsherausforderungen zu bewältigen. In der raumwissen -
+schaftlichen und strukturpolitischen Debatte wird diese 
+Krisenfestigkeit und Transformationsfähigkeit von Regio -
+nen mit dem Begriff der Resilienz umschrieben (Hennicke 
+2021; Wink 2016). Als regionale Resilienz bezeichnet man 
+dabei die Fähigkeit eines regionalen (ökonomischen, sozia -
+len und politischen) Systems, überregionale Krisen und 
+Transformationsschocks ohne langfristige negative Folgen 
+zu bewältigen (Wink et al. 2015). In wissenschaftlichen 
+Veröffentlichungen werden dabei insbesondere die Flexibi -
+lität und Anpassungsfähigkeit der regionalen Wirtschafts -
+strukturen und Institutionen betont, die es Regionen er -
+möglichen, auf lange Sicht unbeschadet oder gar gestärkt 
+aus Krisen hervorzutreten (Pike et al. 2010; Filippetti et al. 
+2020). Unklar ist jedoch bis heute, welche Kennziffern da -
+für geeignet sind, diese Anpassungs- und Zukunftspoten -
+ziale messbar zu machen, um darauf aufbauend verlässli -
+che Prognosen im Angesicht unsicherer globaler Entwick -
+lungen zu treffen (Vöpel/Wolf 2018). 
+Die ILS Research gGmbH hat deshalb bereits im Früh -
+jahr 2022 eine Machbarkeitsstudie im Auftrag der Fried -
+rich-Ebert-Stiftung durchgeführt, um wissenschaftlich 
+fundierte Indikatoren zur Bewertung der Resilienz und 
+Zukunftsfähigkeit von Regionen zu identifizieren. Die Er -
+gebnisse dieser Studie fließen in den vorliegenden Dispari -
+tätenbericht mit ein. Der Disparitätenbericht 2023 stellt 
+deshalb nicht bloß eine Fortschreibung der zurückliegen -
+den FES-Disparitätenberichte von 2015 (Albrech et al. 
+2016) und 2019 (Fina et al. 2019; Fink et al. 2019) dar, son -
+dern präsentiert darüber hinaus ein neues Indikatorenset 
+zur Bewertung der Resilienz und Zukunftsfähigkeit der 
+unterschiedlichen Teilregionen Deutschlands, um daraus 
+politische Handlungsempfehlungen für eine proaktive 
+Strukturpolitik ableiten zu können. Das Ergebnis sind zwei 
+sich ergänzende Deutschlandkarten, die mit unterschied -
+lichen Indikatoren den aktuellen Stand und die jüngere 
+Entwicklung räumlich ungleicher Lebensverhältnisse in 
+Deutschland (die Disparitätenkarte) und die Zukunftspo -
+tenziale und Transformationsherausforderungen der Re -
+gionen und Regionstypen (die Karte zur Resilienz und Zu -
+kunftsfähigkeit) abbilden.
+FRIEDRICH-EBERT -STIFTUNG
+5
+
+[[PAGE 6]]
+Ungleiche Lebensverhältnisse heute: 
+ZWISCHEN ERLAHMENDEN GROSS­
+STADTDYNAMIKEN UND AUFHOLENDEN 
+LÄNDLICHEN RÄUMEN
+große Alltagsbelastung für Kinder und Jugendliche, son -
+dern stellt zudem eine schwerwiegende Bürde für ihren 
+späteren Bildungs- und Berufserfolg dar. Nach wie vor 
+hängen Bildungsleistungen in Deutschland sehr von der 
+sozialen Herkunft und dem familiären Hintergrund ab 
+(OECD 2022). Die hier verwendeten Indikatoren erfas -
+sen allerdings nur Kinder und ältere Menschen in der 
+sozialstaatlichen Grundsicherung (SGB-II-Quote). Es ist 
+von einer Dunkelziffer der versteckten Armut bei Be -
+troffenen auszugehen, die aus Angst vor Stigmatisierung 
+keine Unterstützung beantragen. Ältere Menschen sind 
+hier besonders betroffen (Friedrichsen/Schmacker 
+2019). Ebenso ist von versteckter Armut bei Kindern 
+auszugehen, die in Haushalten mit einem Einkommen 
+knapp über der Bemessungsgrenze für staatliche Leis -
+tungen leben (zum Beispiel weil die Eltern im prekären 
+Niedriglohnsektor beschäftigt sind).
+3. Lebenserwartung, Erreichbarkeit von Ärzt_innen, 
+Bruttogehälter  (Wohlstand und Gesundheit) : Ungleich -
+heiten in der Lebenserwartung lassen sich mit sozialen 
+Faktoren wie Einkommen und Bildungsniveau erklären, 
+sie hängen aber auch mit der Gesundheitsversorgung 
+und mit Umweltfaktoren zusammen. Menschen mit ge -
+ringem Einkommen sind oftmals auf Wohnraum in La -
+gen mit benachteiligenden Umweltbelastungen (Lärm, 
+Staub, Hitze etc.) angewiesen oder haben weniger Zu -
+gang zu gesundheits- und lebensqualitätsfördernden 
+Umweltressourcen wie Parks oder Grünflächen (Baum -
+gart et al. 2018). In ländlich geprägten und abgelegenen 
+Räumen sind die Erreichbarkeit und Zugänglichkeit von 
+Gesundheitsdiensten (Allgemeinmediziner_innen, 
+Krankenhäuser) wichtig, damit Prävention, Diagnose 
+und Behandlung von Krankheiten rechtzeitig erfolgen 
+können. In die Disparitätenkarte fließt deshalb die 
+durchschnittliche Erreichbarkeit von Allgemeinmedizi -
+ner_innen in Pkw-Minuten mit ein. Der Wohlstand ei -
+ner Region hängt darüber hinaus wesentlich von den 
+Einkommensmöglichkeiten auf dem Arbeitsmarkt ab. 
+Diese können durch den Median der Bruttogehälter am 
+Wohnort beschrieben werden, der im Gegensatz zum 
+Durchschnittsgehalt nicht durch einige wenige extrem 
+hohe Gehälter verzerrt wird und somit näher an den tat -
+sächlichen Einkommensmöglichkeiten der breiten Be -
+völkerung liegt.
+4. Kommunale Schulden, Wahlbeteiligung, Breitband -
+anschluss  (Staatliches Handeln, Partizipation und öffent -
+liche Infrastruktur) : Der Zustand der kommunalen 
+ Haushalte bestimmt deren Handlungsspielraum zur 
+Ungleiche Lebensverhältnisse sind vielschichtig. Einzelne 
+Kennziffern, die repräsentativ für verschiedene Themen -
+bereiche stehen, können diese für die unterschiedlichen 
+Teilräume veranschaulichen. Räumliche Ungleichheit wird 
+damit greifbar. Aber was bedeuten die einzelnen Ergebnis -
+se in der Zusammenschau? Wo verdichten sich mehrere 
+ungünstige Standortfaktoren zu Problemkomplexen? Auf 
+welche Räume sollte sich die Strukturpolitik konzentrie -
+ren? Um diese Fragen zu beantworten, hat das ILS eine 
+Clusteranalyse mit ausgewählten repräsentativen Indikato -
+ren durchgeführt. Dabei werden die 400 kreisfreien Städte 
+und Landkreise zu fünf Raumtypen mit ähnlichen Lebens -
+verhältnissen und strukturellen Herausforderungen zu -
+sammengefasst. Die Auswahl der Indikatoren fand in enger 
+Abstimmung mit Expert_innen des Arbeitskreises Struk -
+turpolitik der Friedrich-Ebert-Stiftung statt und orientiert 
+sich stark am Indikatorenset des vergangenen Disparitä -
+tenberichts 2019, um so Entwicklungen wie die Verfesti -
+gung räumlicher Ungleichheit, aber auch Aufholprozesse 
+benachteiligter Räume und Raumtypen aufzeigen zu kön -
+nen. Folgende Indikatoren wurden ausgewählt ( fett ge -
+druckt: Indikatorname;  kursiv: Themenbereich ): 
+1. Anteil hoch qualifizierter Beschäftigter  (Wirtschaft, 
+Beschäftigung und Arbeitsmarkt) : Die Transformation 
+zur Wissensökonomie ist in vollem Gange. Ein hoher 
+Bildungsstand ist heute die Grundvoraussetzung für gut 
+bezahlte und zukunftsorientierte Beschäftigungsverhält -
+nisse. Der Anteil der sozialversicherungspflichtig Be -
+schäftigten (am Wohnort) mit Hochschulabschluss be -
+schreibt die Wissensorientierung der regionalen Ar -
+beitsmärkte. Ein höherer Anteil an Hochqualifizierten 
+geht in der Regel mit einer höheren Produktivität der 
+regionalen Wirtschaft und höheren Löhnen sowie besse -
+ren Zukunftsperspektiven für die Arbeitnehmer_innen 
+einher. Das Vorhandensein hoch qualifizierter Arbeits -
+kräfte ist außerdem ein wichtiger Standortfaktor für die 
+Ansiedlung innovativer und zukunftsorientierter Unter -
+nehmen.
+2. Altersarmut, Kinderarmut  (Bildungs- und Lebenschan -
+cen) : Mit Blick auf die Lebens- und Bildungschancen 
+geben die Indikatoren der Altersarmut und der Kinder -
+armut unmittelbar Auskunft über die von Armut betrof -
+fene, nicht erwerbstätige Bevölkerung und somit über 
+Bevölkerungsteile, die den Lebensalltag in Kindheit und 
+Alter mit geringen finanziellen Ressourcen bewältigen 
+müssen und deren Teilhabemöglichkeiten dadurch ext -
+rem eingeschränkt sind. Armut ist dabei nicht nur eine 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+6
+
+[[PAGE 7]]
+Verbesserung der Lebensbedingungen und Standortfak -
+toren. Ein hoher Schuldenstand schränkt das Verwal -
+tungshandeln und Investitionen in die Infrastruktur we -
+sentlich ein und beeinträchtigt damit die Lebensbedin -
+gungen der Bürger_innen vor Ort. Eine mögliche Folge 
+mangelnden staatlichen Handelns ist eine geringe Wahl -
+beteiligung, die als Ausdruck einer Krise des Vertrauens 
+in staatliches Handeln verstanden werden kann. Eine 
+Reihe von Autoren bringt die Wahlergebnisse zudem in 
+einen Zusammenhang mit empfundener räumlicher Un -
+gleichheit und dem Leben in Regionen, in denen sich 
+Menschen als „abgehängt“ empfinden (McCann 2020; 
+Rodríguez-Pose 2018). In der Disparitätenkarte wurde 
+deshalb die regionale Wahlbeteiligung bei der zurücklie -
+genden Bundestagswahl berücksichtigt. Der Breitband -
+ausbau ist ein zentraler Themenbereich, der den Zusam -
+menhang zwischen staatlichem Handeln und den Le -
+bensbedingungen und Teilhabemöglichkeiten der Be -
+völkerung vor Ort illustriert. Vor dem Hintergrund der 
+voranschreitenden Digitalisierung mit neuen Erwerbs -
+modellen und veränderten Arbeitswelten wie dem 
+Home office ist schnelles Internet für alle eine Grundbe -
+dingung für die Herstellung gleichwertiger Lebensbe -
+dingungen.
+5. Wanderungssaldo (Wanderungen) : Das Wanderungs -
+verhalten kann als Resultat des Zusammenspiels unglei -
+cher Lebensverhältnisse und der Wohnortpräferenzen 
+der Bevölkerung verstanden werden. Überregionale 
+Wanderung wird in diesem Sinne auch als „Abstimmen 
+mit den Füßen“ verstanden (Siedentop et al. 2020). In 
+die Disparitätenkarte fließt der regionale Gesamtwande -
+rungssaldo (Zuzüge minus Fortzüge) der vergangenen 
+drei Jahre in Relation zur Ausgangsbevölkerung ein.
+Abbildung 1 zeigt das Ergebnis dieser Auswertung als Ge -
+samtkarte. Für die Interpretation wurden die einzelnen 
+räumlichen Cluster mit „sprechenden“ Namen versehen 
+und in Tabelle 1 mit einer zusammenfassenden Darstellung 
+der Indikatoren charakterisiert. Die verwendeten Symbole 
+bewerten die Ausprägung der Indikatoren im Vergleich 
+zum gesamtdeutschen Durchschnitt (stark überdurch -
+schnittlich: ++, überdurchschnittlich: +, durchschnittlich: o, 
+unterdurchschnittlich: -, stark unterdurchschnittlich: --). 
+Die Farben verdeutlichen darüber hinaus die Interpreta -
+tion der jeweiligen Werteausprägung als Standortvorteil 
+(Grüntöne) oder Standortnachteil (Rottöne). So zeigt ein 
+geringer Wert für Kinderarmut einen geringen Anteil an 
+armutsgefährdeten Kindern an ( --). Das ist ein Standort -
+vorteil, die Farbe ist entsprechend grün. Bei kommunalen 
+Schulden ist ein überdurchschnittlicher Wert ( ++) ein 
+Standortnachteil, die Farbe ist daher rot. Die Indikator-
+mittelwerte für jeden Raumtyp stehen in Grau in Klam -
+mern, sodass ergänzend zu den Symbolen eine indikator -
+scharfe Einordnung der Clusterergebnisse möglich wird. 
+Der Text greift diese Einordnung auf und ergänzt weitere 
+charakteristische Merkmale.
+Auch wenn die Auswahl der Indikatoren für die Dispa -
+ritätenkarte weitgehend identisch mit dem zurückliegen -
+den Disparitätenbericht 2019 ist und auch die dort abgebil -
+deten Raumtypen (Cluster) große Überschneidungen mit 
+den Clustern der Disparitätenkarte von 2019 aufweisen, 
+können die beiden Karten nicht direkt miteinander vergli -
+chen werden. Dies hat zum einen mit abweichenden Defi -
+nitionen und Berechnungsarten bei einzelnen Indikatoren 
+wie der Erreichbarkeit von Allgemeinmediziner_innen 
+oder dem Wanderungssaldo zu tun, zum anderen ist die 
+Clusteranalyse aus methodischen Gründen nicht für die 
+Darstellung von Entwicklungen im Zeitverlauf geeignet, da 
+sie je nach Datenkonstellation unterschiedliche Ergebnisse 
+liefert, die jeweils für sich stehend betrachtet und interpre -
+tiert werden sollten. Eine andere Clusterzuordnung als in 
+der Disparitätenkarte von 2019 sollte also nicht als Auf- 
+oder Abstieg einzelner Kreise oder kreisfreier Städte miss -
+verstanden werden. 
+Um dennoch neben der Betrachtung des Istzustands 
+auch die Entwicklung ungleicher Lebensverhältnisse dar -
+zustellen, zeigt Tabelle 2 ergänzend die Entwicklung der 
+Clustermittelwerte über die zurückliegenden fünf Jahre. 
+Die Pfeile symbolisieren dabei den generellen Trend (star -
+ker Anstieg , Anstieg , Stagnation , Rückgang , starker 
+Rückgang ). Die Farben illustrieren ergänzend die Inter -
+pretation dieser Entwicklung als Verbesserung (Grüntöne) 
+oder Verschlechterung (Rottöne). Entwicklungen wie die 
+Verfestigung ungleicher Lebensverhältnisse oder Aufhol -
+prozesse benachteiligter Räume beziehungsweise Raum-
+typen werden somit sichtbar.
+FRIEDRICH-EBERT -STIFTUNG
+7
+
+[[PAGE 8]]
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+Dynamische Städte mit
+ erhöhter Exklusionsgefahr
+Wohlhabendes
+(Um-)Land
+Altindustriell geprägte Städte 
+mit strukturellen Herausforderungen
+Strukturschwache Räume 
+mit Aufholerfolgen
+Deutschlands
+solide Mitte
+Clustertypen
+Stadtstaaten Berlin, Hamburg, Bremen 
+(ohne Daten für kommunale Finanzen)
+50 km
+ABBILDUNG 1
+Disparitätenkarte 2023
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Bertelsmann Stiftung: Wegweiser Kommune, Bundesinstitut für Bau-, Stadt- und Raumforschung,  
+Thünen Landatlas, Statistik der Bundesagentur für Arbeit, Gigabit-Grundbuch der Bundesnetzagentur, GeoBasis-DE/BKG 2021
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+8
+
+[[PAGE 9]]
+Symbolik: ++ stark überdurchschnittlich; + überdurchschnittlich; o durchschnittlich; - unterdurchschnittlich; -- stark unterdurchschnittlich;  
+Grüntöne: Standortvorteile ; Rottöne: Standortnachteile ; Abkürzungen: Hq. = Hoch qualifizierte; Kom.= Kommunale; Ew. = Einwohner_innen
+J. = Jahre; Min. = Minuten; Mio. = Millionen
+Raumtypen sozioökonomischer Disparitäten in Deutschland
+ 
+Charakterisierung Wirkungsrichtung Räumliche Ausdehnung
+Dynamische Städte mit erhöhter Exklusionsgefahr (35 Kreise, 17,6 Mio. Ew.)
+Sehr gute Verdienstmöglichkeiten für Hochqualifizierte, zu -
+kunftsfähige Arbeitsmärkte und eine gute infrastrukturelle 
+Versorgung und Erreichbarkeit zentraler Einrichtungen sind die 
+wichtigsten Standortfaktoren von Deutschlands prosperierenden 
+ökonomischen Zentren. Diese umfassen die großen Metropolen, 
+aber auch einige kleinere wirtschaftlich starke Groß- und Mittel -
+städte. Überdurchschnittliche Armutsrisiken zeigen aber auch die 
+verstärkte soziale Polarisierung und Exklusionsgefahr in diesen 
+Städten an. Die niedrigsten Wanderungsgewinne aller Cluster 
+deuten außerdem auf die wachsende Wohnungsnot in den dyna -
+mischen Städten hin und können als Zeichen gedeutet werden, 
+dass sich viele Menschen das Leben in diesen Städten immer we -
+niger leisten können oder wollen.
+Hq. Beschäftigte: ++ (30,7 %) 
+Altersarmut: ++ (5,3 %) 
+Kinderarmut: + (15,9 %) 
+Lebenserwartung: + (81,4 J.) 
+Erreichbarkeit Ärzt_innen:
+- (2,7 Min.) 
+Gehälter: ++ (3.881 EUR) 
+Kom. Schulden: o (1.836 EUR) 
+Wahlbeteiligung: o (77,1 %) 
+Breitband: ++ (97,8 %) 
+Wanderungen: - (124 je 
+100.000 Ew.)
+Wohlhabendes (Um-)Land (49 Kreise, 11 Mio. Ew.)
+In den erweiterten Metropolräumen Süddeutschlands und eini -
+gen weiteren Umlandkreisen westdeutscher Großstädte konzen -
+triert sich der Wohlstand in Deutschland. Die Bruttogehälter am 
+Wohnort liegen noch über denen der prosperierenden Großstäd -
+te. Die Armutsbelastung und die kommunalen Schulden sind ver -
+gleichsweise gering. Die Lebenserwartung und Wahlbeteiligung 
+sind deutschlandweit am höchsten. Auch die Erreichbarkeit von 
+Allgemeinmediziner_innen und die Breitbandversorgung sind 
+überdurchschnittlich. Dabei profitieren diese Räume wesentlich 
+von ihrer Nähe zu den wirtschaftlichen Zentren und historisch 
+gewachsenen Wirtschaftsstrukturen mit vielen großen und mit -
+telständischen Unternehmenszentralen.
+Hq. Beschäftigte: + (18,8 %) 
+Altersarmut: - (1,7 %) 
+Kinderarmut: - (5,4 %) 
+Lebenserwartung: ++ (82,3 J.) 
+Erreichbarkeit Ärzt_innen:
+- (4,1 Min.) 
+Gehälter: ++ (3.906 EUR) 
+Kom. Schulden: - (861 EUR) 
+Wahlbeteiligung: ++ (81,6 %) 
+Breitband: + (94,7 %) 
+Wanderungen: o (447,8 je 
+100.000 Ew.)
+Deutschlands solide Mitte (223 Kreise, 39,6 Mio. Ew.)
+Dieser Cluster zeichnet sich durch kaum nennenswerte Abwei -
+chungen vom gesamtdeutschen Mittelwert aus. Lediglich ein 
+unterdurchschnittlicher Anteil an hoch qualifizierten Beschäftig -
+ten deutet darauf hin, dass einige dieser Regionen in Zukunft Ge -
+fahr laufen, den Anschluss an die dynamischen Städte und ihre 
+Einzugsbereiche zu verlieren. Auch die periphere, großstadtferne 
+Lage vieler Kreise ist ein potenzieller Nachteil. Im Gegenzug ist 
+das Armutsrisiko für Kinder tendenziell unterdurchschnittlich und 
+die Zuwanderung höher als in den übrigen Raumtypen. Aller -
+dings ist dieser Raumtyp insgesamt sehr heterogen. Ihm gehören 
+weite Teile des ländlichen Westdeutschlands, einige ostdeutsche 
+Großstädte sowie das Berliner Umland an, das in jüngerer Ver -
+gangenheit stark von den Ausstrahlungseffekten der Hauptstadt 
+profitieren konnte.
+Hq. Beschäftigte: - (12,8 %) 
+Altersarmut: o (2,4 %) 
+Kinderarmut: - (9,5 %) 
+Lebenserwartung: o (81,0 J.) 
+Erreichbarkeit Ärzt_innen:
+o (4,8 Min.) 
+Gehälter: o (3.452 EUR) 
+Kom. Schulden: o (1.417 EUR) 
+Wahlbeteiligung: o (76,9 %) 
+Breitband: o (90,1 %) 
+Wanderungen: + (514,8 je 
+100.000 Ew.)
+Strukturschwache Räume mit Aufholerfolgen (55 Kreise, 8,2 Mio. Ew.)
+Auch wenn der Rückgang der Bevölkerung im ländlichen Raum 
+Ostdeutschlands vorerst gestoppt zu sein scheint, fehlt es weit -
+räumig an jungen und gut ausgebildeten Fachkräften. Ein wesent -
+licher Grund dafür ist der Mangel an lukrativen Beschäftigungs -
+möglichkeiten, was sich unter anderem in sehr unterdurchschnitt -
+lichen Gehältern ausdrückt. Bei allen strukturellen Nachteilen 
+konnten einige dieser Regionen jedoch einen bemerkenswerten 
+Aufholprozess verzeichnen. Insbesondere beim Breitbandausbau 
+und der Entwicklung der Gehälter konnten große Fortschritte 
+gemacht werden. Positiv sticht außerdem die geringe kommunale 
+Verschuldung hervor. Durch den hohen Anteil an Frauen, die in 
+der DDR Rentenansprüche erworben haben, ist die Altersarmut 
+zudem (noch) deutlich geringer als in den weiteren Raumtypen.
+Hq. Beschäftigte: - (11,6 %) 
+Altersarmut: -- (1,0 %) 
+Kinderarmut: o (11,9 %) 
+Lebenserwartung: - (80,1 J.) 
+Erreichbarkeit Ärzt_innen:
++ (5,7 Min.) 
+Gehälter: -- (2.841 EUR) 
+Kom. Schulden: - (840 EUR) 
+Wahlbeteiligung: - (72,5 %) 
+Breitband: - (86,3 %) 
+Wanderungen: - (200,5 je 
+100.000 Ew.)
+TABELLE 1
+FRIEDRICH-EBERT -STIFTUNG
+9
+
+[[PAGE 10]]
+Altindustriell geprägte Städte mit strukturellen Herausforderungen (38 Kreise 6,9 Mio. Ew.)
+Dieser Raumtyp setzt sich aus altindustriell geprägten Städten 
+zusammen, die überwiegend in Westdeutschland liegen. Stark 
+überdurchschnittliche Armutsrisiken für Kinder und ältere Men -
+schen, geringere Lebenserwartung und Wahlbeteiligung deuten 
+auf persistente soziale Problemlagen hin. Aufgrund der sehr 
+hohen Schuldenlast der Haushalte ist der kommunale Hand -
+lungsspielraum, diesen Problemen entgegenzuwirken, stark 
+eingeschränkt. Die Städte befinden sich somit in einem Negativ -
+kreislauf sich überlagernder sozioökonomischer Herausforderun -
+gen, aus dem sie sich nur schwer selbstständig befreien können. 
+Lediglich eine gute Erreichbarkeit von Allgemeinmediziner_innen 
+und eine überdurchschnittliche Verfügbarkeit von Breitband -
+anschlüssen stechen positiv hervor.
+Hq. Beschäftigte: o (14,2 %) 
+Altersarmut: ++ (5,1 %) 
+Kinderarmut: ++ (24,2 %) 
+Lebenserwartung: -- (79,8 J.) 
+Erreichbarkeit Ärzt_innen:
+- (3,1 Min.) 
+Gehälter: - (3.328 EUR) 
+Komm. Schulden:  
+++ (4.047 EUR) 
+Wahlbeteiligung: -- (70,3 %) 
+Breitband: + (97,2 %) 
+Wanderungen: 
+- (330 je 100.000 Ew.)
+DIE FÜNF RAUMTYPEN DEUTSCHLANDS:  
+GUNST- UND UNGUNSTLAGEN MIT UNTERSCHIEDLICHEN HERAUSFORDERUNGEN
+TABELLE 1
+Die Disparitätenkarte zeichnet ein Bild von Deutschland 
+mit fünf Raumtypen (Cluster), die jeweils unterschiedliche 
+sozioökonomische Stärken und Schwächen aufweisen. Die 
+Reihenfolge ist dabei ausdrücklich nicht als Ranking vom 
+stärksten zum schwächsten Typ zu verstehen. Die Cluster 
+zielen stattdessen darauf ab, die Kreise und kreisfreien 
+Städte zu allgemein verständlichen Raumtypen mit ähn -
+lichen strukturellen Herausforderungen zusammenzufüh -
+ren. Dennoch lassen sich im Vergleich natürlich Cluster 
+mit mehr oder weniger ausgeprägten Gunst- oder Un -
+gunstlagen identifizieren. Dies ist auf der Karte mit unter -
+schiedlichen Grün- und Violetttönen hinterlegt:
+1. Die bessergestellten Raumtypen der dynamischen 
+Städte mit erhöhter Exklusionsgefahr und des wohl -
+habenden (Um-)Lands  (in Abbildung 1 grün bezie -
+hungsweise hellgrün eingefärbt) bilden zusammen die 
+wirtschaftlich starken und wohlhabenden Regionen  
+in Deutschland. In diesen beiden Raumtypen leben  
+28,6 Millionen Einwohner_innen (34,3 Prozent der 
+deutschen Bevölkerung) in 84 kreisfreien Städten und 
+Landkreisen. Räumliche Schwerpunkte sind im Süden 
+und punktuell in erfolgreichen Städten und Stadtregio -
+nen im Rest des Landes auszumachen. Mit Berlin, Dres -
+den und Jena gehören auch drei ostdeutsche Städte zu 
+diesen wirtschaftsstarken Räumen. Bei allen Standort -
+vorteilen gibt es gerade in den Großstädten allerdings 
+auch deutliche Anzeichen für die Benachteiligung und 
+Exklusion einkommensschwächerer Haushalte. Traditio -
+nell sind große Städte nicht nur als Wohnorte für Hoch -
+qualifizierte attraktiv, sondern üben auch eine hohe An -
+ziehungskraft auf sozial benachteiligte Gruppen wie 
+Einwander_innen aus, da sie Vorteile, wie eine bessere 
+Infrastruktur, große Mietwohnungsmärkte, engmaschi -
+gere soziale Netzwerke und (ethnische) Communitys, 
+bieten. Steigende Lebenshaltungskosten – insbesondere 
+Wohnkosten – erhöhen für diese das Armutsrisiko und 
+führen so zu einer Konzentration sozialer  Problemlagen. 
+Gleichzeitig gibt es deutliche Hinweise auf Wanderungs -
+bewegungen der Bevölkerung, insbesondere der Mittel -
+schicht, aus den Großstädten in das wohlhabende Um -
+land und großstadtferne ländliche Regionen. Der Auf -
+holprozess des Umlands beim Breitbandausbau in Kom -
+bination mit den infolge der Coronapandemie neu 
+entstandenen Homeoffice-Möglichkeiten dürfte diesen 
+Trend weiter befeuern. In Folge steigen auch im Umland 
+die Lebenshaltungskosten. 
+2. Deutschlands solide Mitte  wächst und entwickelt  
+sich stabil, zumindest in räumlicher Perspektive. Mit 
+39,6 Millionen Einwohner_innen (47,5 Prozent der Ge -
+samtbevölkerung), verteilt auf 223 Kreise, ist dieser 
+Cluster der mit Abstand größte Raumtyp und außerdem 
+derjenige, der in den vergangenen Jahren die größten 
+Wanderungsgewinne verzeichnen konnte. Kreise und 
+kreisfreie Städte, die der soliden Mitte zuzuordnen sind, 
+lassen sich in allen Landesteilen finden. Zum einen ist 
+der Anteil hoch qualifizierter Beschäftigter in diesen 
+Regionen deutlich geringer als in den wirtschaftlich 
+stärksten Regionen, zum anderen zeichnen sie sich 
+durch geringe Armuts- und Exklusionsrisiken und eine 
+insgesamt stabile sozioökonomische Lage aus. In jünge -
+rer Vergangenheit konnte dieser Raumtyp bei einigen 
+Indikatoren stark aufholen. Positiv stechen unter ande -
+rem die deutliche Steigerung der Lebenserwartung, der 
+Breitbandausbau und die erhöhte Attraktivität für Zu -
+wanderung hervor. Für Letzteres dürfte auch die noch 
+weitgehend entspannte Lage auf den Wohnungsmärkten 
+in diesem Raumtyp verantwortlich sein.
+3. Überwiegend ländlich geprägte strukturschwache Räu -
+me mit Aufholerfolgen  im Osten Deutschlands und 
+altindustriell geprägte Städte mit strukturellen Her -
+ausforderungen  bilden die tendenziell benachteiligten 
+Raumtypen (in Abbildung 1 violett beziehungsweise 
+hellviolett eingefärbt). In diesen Regionen wohnen ins -
+gesamt 15,1 Millionen Menschen (18,1 Prozent der Ge -
+samtbevölkerung), verteilt auf 93 Kreise.  
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+10
+
+[[PAGE 11]]
+Die Strukturprobleme in diesen beiden Raumtypen und 
+ihre jeweiligen Ursachen sind unterschiedlich. In den 
+westdeutschen Städten sind es vor allem die Nachwir -
+kungen des Niedergangs ehemals bedeutender Indust -
+rien (zum Beispiel Bergbau, Schwer- oder Textilindust -
+rie), von denen sich die entsprechenden Regionen bis 
+heute nicht vollständig erholt haben. Hohe Armutsquo -
+ten und stark defizitäre kommunale Haushalte sind die 
+Folge. In den – bis auf wenige Ausnahmen – überwie -
+gend ländlich geprägten Kreisen Ostdeutschlands sind 
+es die Folgen der deutschen Wiedervereinigung, die 
+stellenweise zu Deindustrialisierung, vor allem aber 
+auch zu starker Abwanderung der jüngeren und gut aus -
+gebildeten Bevölkerung gen Westdeutschland führten. 
+Trotz des Abklingens dieser Wanderungen werden die 
+Landkreise aufgrund ihrer unvorteilhaften demografi -
+schen Ausgangslage wohl auch in Zukunft weiter 
+schrumpfen, sollte es ihnen nicht gelingen, attraktiver 
+für neue Zuwanderung aus dem In- und Ausland zu 
+werden.
+Entwicklung der Clustermittelwerte im Fünfjahresvergleich
+Symbolik:  starker Anstieg;  Anstieg;  Stagnation;  Rückgang;  starker Rückgang; Grüntöne  symbolisieren positi -
+ve Entwicklungen, Rottöne  negative Entwicklungen; Abkürzungen: Ew. = Einwohner_innen; Kom. = Kommunale; Hq. 
+= Hoch qualifizierte; Anmerkung: Aufgrund von Änderungen in der Berechnungsart lässt sich der Indikator „Erreich -
+barkeit von Allgemeinmediziner_innen“ nicht als Entwicklung darstellen. Bei der Wahlbeteiligung und der Breitband -
+versorgung wurden aufgrund der Dauer der Legislaturperiode beziehungsweise der Datenverfügbarkeit vier statt fünf 
+Jahre betrachtet. 
+Indikator Zeit -
+raum
+Dynamische 
+ Städte mit  
+erhöhter  
+Exklusionsgefahr
+Wohlhabendes  
+(Um-)Land
+Deutschlands 
+solide Mitte
+Altindustriell 
+ geprägte Städte 
+mit strukturellen 
+Herausforderungen
+Strukturschwache 
+Räume mit  
+Aufholerfolgen
+Hq. Beschäftigte
+(Prozentpunkte)
+2016–
+2021 +4,8  +3,3  +2,4  +2,4  +0,6  
+Altersarmut  
+(Prozentpunkte)
+2015–
+2020 +0,2 0  – 0,1  +0,2 – 0,1  
+Kinderarmut 
+(Prozentpunkte)
+2015–
+2020 –1,9  –0,2  –1,3  –2,0  –4,3  
+Lebenserwartung  
+(Jahre)
+2014–
+2019 +0,1 +0,2  +0,4  +0,4  +0,4  
+Gehälter (EUR) 2016–
+2021 +417  +394  +362  +294  +451  
+Kom. Schulden 
+(EUR je Ew.)
+2015–
+2020 +77  –148  –136  –374  –263  
+Wahlbeteiligung 
+(Prozentpunkte)
+2017–
+2021 +0,2  +0,7  +0,5 –0,6 +0,6  
+Breitband  
+(Prozentpunkte)
+2018–
+2022 +10,0  +29,6  +26,5  +10,9  +40,7   
+Wanderungen
+(je 100.000 Ew.)
+2015–
+2020 +152  +290  +466  +449  +428   
+TABELLE 2
+FRIEDRICH-EBERT -STIFTUNG
+11
+
+[[PAGE 12]]
+Bei allen strukturellen Nachteilen zeigt ein Blick in Tabel -
+le 2 zumindest für den letztgenannten Raumtyp aber auch 
+bemerkenswerte Aufholerfolge in der jüngeren Vergan -
+genheit. Insbesondere bei den Mediangehältern und dem 
+Breitbandausbau konnten die strukturschwachen Räume 
+mit Aufholerfolgen den größten Anstieg aller Raumtypen 
+verzeichnen. Die strukturschwachen Landkreise und 
+kreisfreien Städte konnten also überproportional vom 
+starken Wirtschaftswachstum in der zweiten Hälfte der 
+2010er Jahre profitieren. Dabei ist zu bedenken, dass es 
+zu einer Angleichung der Gehaltsniveaus aller Raumty -
+pen noch ein langer Weg ist. Noch immer liegen die Me -
+diangehälter in den strukturschwachen Räumen Ost -
+deutschlands weit unter dem Bundesdurchschnitt. Das 
+Aufholen beim Breitbandausbau zeigt jedoch, dass struk -
+turpolitische Maßnahmen wirken und dass die Verfesti -
+gung ungleicher Lebensverhältnisse nicht alternativlos 
+ist. Insgesamt sind bei diesem Indikator nur noch sehr 
+geringe Unterschiede zwischen Stadt und Land, struktur -
+starken und -schwachen Räumen zu erkennen. Auch die 
+Kinderarmut ist in den strukturschwachen Räumen mit 
+Aufholerfolgen stark zurückgegangen, was darauf hindeu -
+tet, dass diese vom starken Wirtschaftswachstum in der 
+zweiten Hälfte der 2010er Jahre überdurchschnittlich pro -
+fitieren konnten. Die Stagnation bei der Entwicklung der 
+hoch qualifizierten Beschäftigten zeigt jedoch, dass diese 
+Räume auch weiterhin als strukturschwach eingeschätzt 
+werden müssen und ihre Zukunftsaussichten weiterhin 
+unsicher sind.
+In Gesamtsicht zeichnet Tabelle 3 ein durchweg positives 
+Bild der Entwicklung der Lebensverhältnisse. Bei fast al -
+len Indikatoren konnten raumtypübergreifend Erfolge er -
+zielt werden. Dieser positive Trend für Gesamtdeutsch -
+land ist zum Teil darauf zurückzuführen, dass jeweils nur 
+die aktuellsten verfügbaren regionalstatistischen Daten 
+berücksichtigt werden konnten und die Effekte jüngster 
+Entwicklungen wie der Energiekrise somit noch nicht ab -
+gebildet werden. Ein Großteil der dargestellten Trends 
+bezieht sich also auf die zweite Häfte der wachstumsstar -
+ken 2010er Jahre. 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+12
+
+[[PAGE 13]]
+Bandbreiten von Indikatorwerten in den einzelnen Raumtypen der Disparitätenkarte
+Abkürzungen: Ew. = Einwohner_innen; Min. = Minimum; Max. = Maximum
+Indikator Wert Dynamische Städ -
+te mit erhöhter 
+Exklusionsgefahr
+Wohlhabendes 
+(Um-)Land
+Deutschlands soli -
+de Mitte
+Altindustriell ge -
+prägte Städte mit 
+strukturellen Her -
+aus-forderungen
+Strukturschwache 
+Räume mit Auf -
+holerfolgen
+Anteil hoch 
+qualifizierter 
+Beschäftigter 
+in %
+Min. 15,3   
+(Leverkusen)
+11,3   
+(Schweinfurt)
+6,8   
+(Wittmund)
+7,5   
+(Delmenhorst) 
+7,9   
+(Prignitz) 
+Max. 47,1   
+(Heidelberg)
+32,6   
+(München, Land)
+31,7   
+(Potsdam)
+23,1   
+(Bremen)
+23,0   
+(Halle/Saale)
+Altersarmut 
+in % älterer 
+Ew.
+Min. 1,5   
+(Jena) 
+0,9   
+(Eichstätt, Erlan -
+gen-Höchstadt)
+0,8   
+(Märkisch-Oder -
+land)
+2,3   
+(Brandenburg)
+0,5 (Erzgebirgs -
+kreis, Greiz, Saale-
+Holzland-Kreis,  
+Saale-Orla-Kreis)
+Max. 9,3   
+(Frankfurt a. M.)
+2,8 (Rheinisch-
+Bergischer Kreis)
+6,0   
+(Baden-Baden)
+9,4   
+(Offenbach a. M.)
+2,3   
+(Frankfurt/Oder)
+Kinderarmut 
+in % aller 
+Kinder
+Min. 7,7   
+(Erlangen)
+1,8   
+(Pfaffenhofen/Ilm) 
+2,0   
+(Ansbach)
+9,8   
+(Straubing)
+4,9   
+(Hildburghausen) 
+Max. 28,0   
+(Kiel)
+11,9 (Rheinisch-
+Bergischer Kreis)
+23,2   
+(Recklinghausen)
+40,4   
+(Gelsenkirchen)
+27,7   
+(Halle/Saale)
+Lebens -
+erwartung in 
+Jahren
+Min. 79,9  
+(Kiel)
+81,5 (Darmstadt-
+Dieburg)
+79,3  
+(Neunkirchen)
+78,1  
+(Bremerhaven) 
+78,4  
+(Salzlandkreis)
+Max. 82,9  
+(München)
+83,7  
+(Starnberg)
+83,1 (Breisgau-
+Hochschwarzwald)
+81,0 (Frankenthal 
+[Pfalz])
+81,6  
+(Meißen)
+Erreichbar-
+keit von 
+Ärzt_innen 
+in Pkw- 
+Minuten
+Min. 2,1  
+(München)
+2,5 (Main-Taunus-
+Kreis)
+2,2 Min.  
+(Augsburg)
+2,2 Min.  
+(Offenbach a. M.)
+2,4 
+(Halle/Saale)
+Max. 3,8  
+(Münster)
+5,8  
+(Regensburg)
+8,0 
+(Nordfriesland)
+5,2  
+(Emden)
+9,6  
+(Uckermark)
+Bruttomo -
+natsgehälter 
+am Wohnort 
+in EUR 
+Min. 3.359  
+(Dresden)
+3.452  
+(Oberallgäu) 
+2.673 (Vorpom -
+mern-Rügen)
+2.926  
+(Hof)
+2.636  
+(Görlitz)
+Max. 4.579  
+(Erlangen)
+4.498  
+(München, Land)
+4.178  
+(Gifhorn)
+3.789 (Mülheim a. 
+d. Ruhr)
+3.152  
+(Cottbus)
+Kommunale 
+Schulden in 
+EUR je Ew.
+Min.
+0  
+(Dresden, Ingol -
+stadt, Stuttgart)
+189  
+(Biberach)
+9  
+(Kempten [Allgäu])
+346  
+(Schweinfurt)
+53  
+(Dessau-Roßlau) 
+Max. 5.542  
+(Bonn)
+3.627  
+(Hochtaunuskreis)
+8.068  
+(Kusel)
+9.868  
+(Pirmasens)
+2.064  
+(Halle/Saale)
+Wahlbeteili -
+gung in %
+Min. 71,4   
+(Wolfsburg)
+77,2   
+(Reutlingen)
+69,0   
+(Vorpommern-
+Rügen)
+63,9   
+(Bremerhaven)
+63,4   
+(Salzlandkreis)
+Max. 83,9   
+(Münster)
+85,5   
+(Starnberg)
+83,5   
+(Bamberg)
+77,9  (Mülheim a. 
+d. Ruhr)
+78,4  (Saale-Holz -
+land-Kreis)
+Breitband-
+anschluss 
+Haushalte 
+in % 
+Min. 93,7   
+(Heidelberg)
+89,5  
+(Biberach)
+27,5   
+(Odenwaldkreis)
+91,3   
+(Pirmasens)
+66,8   
+(Jerichower Land)
+Max. 99,9 (Frankfurt a. 
+M., Ingolstadt)
+99,6  (Main- 
+Taunus-Kreis)
+99,2   
+(Passau)
+100,0   
+(Offenbach a. M.)
+97,3   
+(Frankfurt/Oder)
+Wande -
+rungssaldo je 
+100.000 Ew.
+Min. –652,5  
+(Heidelberg)
+71,3  
+(Ludwigsburg)
+–202,7  
+(Olpe)
+–155,4  
+(Emden)
+–248,8  
+(Cottbus)
+Max. 461,9  
+(Berlin)
+927,9  
+(Fürth)
+1.613,0  
+(Barnim)
+838,9 (Branden -
+burg a. d. Havel)
+861,3  
+(Rostock)
+TABELLE 3
+FRIEDRICH-EBERT -STIFTUNG
+13
+
+[[PAGE 14]]
+Dem positiven Gesamttrend zum Trotz lassen sich durch -
+aus Unterschiede in den Entwicklungen der einzelnen 
+Raumtypen, insbesondere zwischen den städtisch und 
+ländlich geprägten Clustern, erkennen. Während sich die 
+Städte im Strukturwandel (Gehälter, hoch qualifizierte Be -
+schäftigte), teilweise aber auch die dynamischen Städte 
+(Lebenserwartung, Wanderungen) in einigen Indikatoren 
+nur unterdurchschnittlich entwickelt haben, scheint der 
+ländlich geprägte Raum an Lebensqualität und Attraktivi -
+tät zu gewinnen. Indizien dafür lassen sich neben den Auf -
+holerfolgen der strukturschwachen Regionen Ostdeutsch -
+lands auch in der stabilen Entwicklung von Deutschlands 
+solider Mitte finden. Der Wandel in den Verhältnissen 
+zwischen Stadt und Land spiegelt sich zu guter Letzt auch 
+in den Wanderungsbewegungen wider. Deutschlands soli -
+de Mitte konnte hier die größten Wanderungsgewinne er -
+zielen, während die Zuwanderung in die dynamischen 
+Großstädte an ihre Grenzen zu stoßen scheint.
+Die fünf Raumtypen eignen sich gut dafür, die räum -
+liche Ausprägung sozioökonomischer Disparitäten über -
+greifend darzustellen, zu erklären und zu bewerten. Es 
+sollte jedoch angemerkt werden, dass die einzelnen Raum -
+typen in ihrer Zusammensetzung durchaus heterogen sind 
+und es starke Überschneidungen in den Werteausprägun -
+gen einzelner Kreise und kreisfreier Städte zwischen unter -
+schiedlichen Clustern gibt. Tabelle 3 zeigt in diesem Zu -
+sammenhang die aktuellen Bandbreiten von Indikatoraus -
+prägungen mit den Namen der kreisfreien Städte bezie -
+hungsweise Landkreise, die die minimalen und maximalen 
+Werte der Raumtypen einnehmen. Hier zeigt sich unter 
+anderem, dass die niedrigsten Mediangehälter innerhalb 
+des Raumtyps „Deutschlands solide Mitte“ (2.673 Euro in 
+Vorpommern-Rügen) kaum höher sind als die niedrigsten 
+Gehälter in den strukturschwachen Räumen mit Aufholer -
+folgen (2.636 Euro in Görlitz). Dies weist darauf hin, dass 
+der Landkreis Vorpommern-Rügen durchaus als Grenzfall 
+innerhalb seines Clusters betrachtet werden kann, der bei 
+einigen Indikatoren große Ähnlichkeiten mit den übrigen 
+Kreisen des strukturschwachen ländlichen Raums im Os -
+ten Deutschlands aufweist. Bei der Kinderarmut liegen die 
+Höchstwerte in den dynamischen Städten mit Exklusions -
+gefahr (28 Prozent in Kiel) und in den strukturschwachen 
+Räumen mit Aufholerfolgen (27,7 Prozent in Halle/Saale) 
+nahe beieinander, was auf eine starke raumtypübergreifen -
+de Konzentration von Armut in städtischen Kreisen hin -
+deutet.
+WOHLSTAND UND ARMUT
+Sozioökonomische Disparitäten Deutschlands zeigen sich 
+nicht nur zwischen den oben gezeigten unterschiedlichen 
+Raumtypen, sondern auch innerhalb einzelner Landkreise 
+und kreisfreier Städte. Insbesondere in den dynamischen 
+Städten sind bevorzugte Wohnlagen zunehmend den sehr 
+gut verdienenden sozialen Schichten vorbehalten, während 
+sich ärmere Menschen in infrastrukturell und baulich oft -
+mals vernachlässigten Stadtteilen konzentrieren. Die Ar -
+mutsgefährdung steigt vor allem dort, wo einkommens -
+schwache Haushalte auf hohe Lebenshaltungskosten tref -
+fen. Als besonders bedrohlich hat sich in dieser Hinsicht 
+die Mietpreisentwicklung in vielen deutschen Großstädten 
+erwiesen. Je stärker die Mieten steigen, umso drastischer 
+steigt auch die Exklusions- und Verdrängungsgefahr für 
+einkommensschwächere Haushalte. Um die Verteilung von 
+Wohlstand und Armut in Deutschland darzustellen, zeigt 
+die Karte in Abbildung 2 das Ergebnis einer weiteren Clus -
+teranalyse, in die die Indikatoren „Kinderarmut“ , „Alters -
+armut“ , „Mediangehälter am Wohnort“ und die sogenannte 
+Mietbelastungsquote mit einflossen. Letztere drückt aus, 
+wie viel Prozent ihres Haushaltseinkommens die Bewoh -
+ner_innen eines Kreises oder einer kreisfreien Stadt im 
+Durchschnitt (pro Kopf) für Mietkosten (monatliche Kalt -
+miete) aufwenden müssen. 
+Die Reihenfolge und farbliche Gestaltung der fünf re -
+sultierenden Raumtypen auf der Karte orientieren sich an 
+der Höhe der regionalen Mediangehälter am Wohnort von 
+stark überdurchschnittlich (orange) bis hin zu stark unter -
+durchschnittlich (blau). Den in diesem Sinne wohlha -
+bendsten Raumtyp bilden dabei die gut angebundenen 
+ländlichen Gebiete in Süddeutschland und die Umland -
+kreise in den Speckgürteln der erfolgreichen Metropolen 
+Westdeutschlands (in der Karte orange). Nur geringfügig 
+niedriger sind die Gehälter in den wirtschaftsstarken west -
+deutschen Großstädten (hellorange) selbst. Es folgt ein 
+Raumtyp mit tendenziell durchschnittlichen Gehältern 
+(hellgelb), der starke Überschneidungen mit Deutschlands 
+solider Mitte (siehe Abbildung 1) aufweist. Darauf folgen 
+die altindustriellen, städtisch geprägten Regionen in West -
+deutschland (hellblau) und – bei den Mediangehältern weit 
+abgeschlagen – der überwiegend ländlich geprägte Raum 
+im Osten Deutschlands (blau).
+Die Betrachtung der Mediangehälter am Wohnort be -
+schreibt das Wohlstands- und Armutsgefälle in Deutsch -
+land allerdings nur in Teilen. Tabelle 4 zeigt deshalb äqui -
+valent zu Tabelle 1 die Ausprägung der Clusterdurch -
+schnittswerte aller in der Analyse berücksichtigten Indika -
+toren. Hier zeigt sich, dass hohe Mediangehälter nicht 
+automatisch mit geringeren Armutsrisiken einhergehen. So 
+zeichnen sich insbesondere die wirtschaftsstarken Groß -
+städte durch eine hohe Mietbelastungsquote und hohe Ar -
+mutsrisiken für Kinder und ältere Menschen aus. Auch in 
+den altindustriellen Großstädten mit niedrigeren Median -
+gehältern sind die Armutsrisiken trotz geringerer Belas -
+tung durch die Mietkosten sehr hoch. Die strukturschwa -
+chen Landkreise und kreisfreien Städte in Ostdeutschland 
+mit den mit Abstand niedrigsten Gehältern zeichnen sich 
+hingegen durch die geringste Mietbelastung, eher durch -
+schnittliche Armutsrisiken für Kinder und sehr geringe 
+Werte bei der Altersarmut aus. Letzteres lässt sich durch 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+14
+
+[[PAGE 15]]
+die vergleichsweise hohen Rentenansprüche insbesondere 
+von Frauen erklären, die in der DDR weitaus häufiger er -
+werbstätig waren als in den westdeutschen Bundesländern. 
+Die hohe Arbeitslosigkeit und die stark unterdurchschnitt -
+lichen Löhne in weiten Teilen Ostdeutschlands während 
+der vergangenen Jahrzehnte deuten jedoch darauf hin, dass 
+die Altersarmut mit den in naher Zukunft in Ruhestand 
+tretenden Alterskohorten stark zunehmen wird. 
+1   An dieser Stelle muss erwähnt werden, dass der Einkommensanteil, der in den wirtschaftlich starken Raumtypen nach dem Abzug der Mietkosten noch übrig bleibt, in den 
+ wirtschaftsstarken Raumtypen immer noch über dem der wirtschaftlich schwachen Raumtypen liegt.
+In der Zusammenschau zeigt sich, dass sich die räumliche 
+Verteilung von Wohlstand und Armut in Deutschland kei -
+neswegs als simples Wohlstandsgefälle entlang der Ein -
+kommensmöglichkeiten darstellen lässt. Wo die Gehälter 
+hoch sind, ist auch die Belastung durch die Lebenshal -
+tungskosten und insbesondere Wohnkosten hoch. 1 Gleich -
+zeitig konzentrieren sich Armutsrisiken unabhängig von 
+den durchschnittlichen Verdienstmöglichkeiten vor allem 
+in großstädtischen Räumen. 
+Wohlstand und Armut in Deutschland
+Durchschnittswerte der Raumtypen. Symbolik: ++ stark überdurchschnittlich; + überdurchschnittlich; o durchschnittlich;  
+- unterdurchschnittlich; -- stark unterdurchschnittlich; Grüntöne: Standortvorteile, Rottöne: Standortnachteile.
+Belastung durch
+Kinderarmut (%)
+Belastung durch
+Altersarmut (%)
+Bruttogehälter am 
+Wohnort in EUR
+Mietbelastungsquote 
+(%)
+Cluster 1 6,6 - 1,9 - 3.809 + 22,6 +
+Cluster 2 16,9 + 5,8 ++ 3.748 + 23,1 +
+Cluster 3 10,2 o 2,5 o 3.400 o 20,4 o
+Cluster 4 27,1 ++ 5,3 ++ 3.366 o 18,6 -
+Cluster 5 12,0 o 1,0 -- 2.850 -- 16,5 --
+ TABELLE 4
+FRIEDRICH-EBERT -STIFTUNG
+15
+
+[[PAGE 16]]
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+Über-
+durchschnittlich
+Durchschnittlich Unter-
+durchschnittlich 
+Wohlstand in Deutschland
+50 km
+Quelle: eigene Darstellung;
+Datengrundlage: Bertelsmann Stiftung www.wegweiser-kommune.de, Statistik der Bundesagentur für Arbeit, Regionalstatistik, Empirica, GeoBasis-DE/BKG 2021
+Die fünf Raumtypen bilden Unterschiede 
+in Wohlstand und Armut in Deutschland ab 
+und basieren insgesamt auf vier Indikatoren: 
+Kinderarmut, Altersarmut, Mediangehälter 
+am Wohnort und Mietkostenbelastung. 
+Die Reihenfolge der Raumtypen in der Legende 
+orientiert sich an den Mediangehältern 
+als Hauptindikator für regionalen Wohlstand.
+ABBILDUNG 2
+Wohlstand und Armut 2023
+Quelle: eigene Darstellung; Datengrundlage: Bertelsmann Stiftung: Wegweiser Kommune, Statistik der Bundesagentur für Arbeit, Regionalstatistik, Empirica, GeoBasis-DE/BKG 2021
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+16
+
+[[PAGE 17]]
+Vermögensungleichheit: räumliche Disparitäten bei Erbschaften und Schenkungen
+In der Disparitätenkarte und der Karte zu Wohlstand und 
+Armut wird regionaler Wohlstand anhand von Gehalts -
+unterschieden (Median der Bruttogehälter am Wohnort) 
+gemessen. Einkommen aus Beschäftigung ist allerdings 
+nur ein Aspekt von Wohlstand. Mindestens ebenso wich -
+tig für regionale Wohlstandsdisparitäten sind Unterschie -
+de im Vermögen. Das Vermögen rückt für die Haushalte 
+insbesondere in gesamtwirtschaftlich schwierigen Zeiten 
+in den Vordergrund, denn es kann helfen, Einkommens -
+wegfälle auszugleichen (Calderón et al. 2020). Darüber 
+hinaus kann aus Vermögen weiteres Einkommen gene -
+riert werden, etwa durch Zinsen, Dividenden, Mietein -
+nahmen oder Einnahmen aus dem Verkauf von Wertpa -
+pieren. Die Vermögensungleichheit ist in Deutschland tra -
+ditionell deutlich stärker ausgeprägt als die Einkommens -
+ungleichheit (Grabka/Westermeier 2014). Auf regionaler 
+Ebene existieren jedoch leider keine verlässlichen Daten 
+zur Messung der Vermögensungleichheit. Eine Möglich -
+keit zur Erfassung der durchschnittlichen regionalen Ver -
+mögen bietet die Erbschaft- und Schenkungsteuerstatis -
+tik. Diese ermöglicht jedoch nur eine grobe Annäherung, 
+da die meisten Vermögensübergänge unterhalb der ge -
+setzlichen Freibeträge liegen. Die Erbschaft- und Schen -
+kungsteuerstatistik liegt zwar nicht für die Ebene der  
+400 Landkreise und kreisfreien Städte vor, eine Darstel -
+lung auf Länderebene ermöglicht jedoch einen Überblick 
+über die regionale Verteilung des vererbten beziehungs -
+weise verschenkten Vermögens in Deutschland.  
+ABBILDUNG 3
+Die Karte zeigt den jährlichen Gesamtwert (2017 bis 
+2021) der Vermögensübergänge aus Erbschaften und 
+Schenkungen normiert auf die Zahl der Sterbefälle in den 
+betrachteten Bundesländern. Die gezeigten räumlichen 
+Muster spiegeln im Wesentlichen die Ergebnisse der Aus -
+wertungen zur Disparitätenkarte und zur Karte zu Wohl -
+stand und Armut wider. Die durchschnittlich höchsten 
+vererbten oder verschenkten Vermögen gibt es in den 
+beiden süddeutschen Bundesländern Bayern und Baden-
+Württemberg und in Hamburg. Noch stärker ausgeprägt 
+als das Süd-Nord-Gefälle sind die Unterschiede zwischen 
+Ostdeutschland und Westdeutschland. Mit durchschnitt -
+lich unter 20.000 Euro je Sterbefall liegen die Vermögens-
+übergänge im Osten immer noch deutlich unter dem 
+Bundesdurchschnitt.
+Kiel
+Mainz
+Erfurt
+Bremen
+Dresden
+Hamburg
+Potsdam
+München
+Hannover
+Schwerin
+Magdeburg
+Wiesbaden
+Stuttgart
+Düsseldorf
+Saarbrücken
+Berlin
+Kiel
+Mainz
+Erfurt
+Bremen
+Dresden
+Hamburg
+Potsdam
+München
+Hannover
+Schwerin
+Magdeburg
+Wiesbaden
+Stuttgart
+Düsseldorf
+Saarbrücken
+Berlin
+10.000 20.000 40.000 80.000 120.000 250.000
+50 km
+Geerbtes und geschenktes  
+Vermögen vor Steuerabzug  
+je Sterbefall 2017–2021 in EUR
+Kiel
+Mainz
+Erfurt
+Bremen
+Dresden
+Hamburg
+Potsdam
+München
+Hannover
+Schwerin
+Magdeburg
+Wiesbaden
+Stuttgart
+Düsseldorf
+Saarbrücken
+Berlin
+Kiel
+Mainz
+Erfurt
+Bremen
+Dresden
+Hamburg
+Potsdam
+München
+Hannover
+Schwerin
+Magdeburg
+Wiesbaden
+Stuttgart
+Düsseldorf
+Saarbrücken
+Berlin
+10.000 20.000 40.000 80.000 120.000 250.000
+50 km
+Quelle: eigene Darstellung; Datengrundlage: Statistisches Bundesamt,  
+Auswertung zur Erbschaft- und Schenkungsteuerstatistik, GeoBasis-DE/BKG 2021
+FRIEDRICH-EBERT -STIFTUNG
+17
+
+[[PAGE 18]]
+Resilienz und Zukunftsfähigkeit: 
+INDIKATOREN FÜR EINE  
+VORAUSSCHAUENDE STRUKTURPOLITIK
+Die in der Disparitätenkarte und in der Karte zu Wohl -
+stand und Armut dargestellten Muster und Entwicklungen 
+veranschaulichen den Istzustand und die jüngere Entwick -
+lung räumlicher Ungleichheit in Deutschland. Sie ermög -
+lichen aber keinen Ausblick auf zukünftige Entwicklungen. 
+Angesichts der eingangs beschriebenen Unsicherheiten im 
+Kontext globaler Krisen und akuter Transformationsher -
+ausforderungen, wie des demografischen Wandels, der Di -
+gitalisierung und der Dekarbonisierung, braucht proaktive 
+Strukturpolitik allerdings verlässliche Indikatoren zur Be -
+wertung der Zukunftsfähigkeit von Regionen und ihrer Re -
+silienz gegenüber oftmals unerwartet auftretenden Krisen. 
+Um diesem Anspruch Rechnung zu tragen, wurde im 
+Rahmen des Disparitätenberichts 2023 erstmals auch eine 
+dritte Clusteranalyse mit einem neu entwickelten Indikato -
+renset zur Bewertung der regionalen Resilienz und Zu -
+kunftsfähigkeit durchgeführt. Die Auswahl der Indikatoren 
+basiert auf den Ergebnissen einer im Frühjahr 2022 durch -
+geführten Machbarkeitsstudie und zielt nicht auf die Be -
+schreibung aktueller sozioökonomischer Problemlagen 
+und Wohlstandsunterschiede ab, sondern auf die Bewer -
+tung regionaler Potenziale zur Bewältigung zukünftiger 
+Herausforderungen. Die Zusammensetzung und Gewich -
+tung der oben beschriebenen Themenbereiche ändern sich 
+entsprechend ( fett gedruckt: Indikatorname ; kursiv: The -
+menbereich ):
+1. Wirtschaftliche Diversität, Anteil von Wissensberu -
+fen, Gründungsintensität, Patente, Verhältnis junger 
+zu alten Beschäftigten  (Wirtschaft, Beschäftigung und 
+Arbeitsmarkt) : Die wirtschaftlichen Zukunftsaussichten 
+einer Region und ihre Krisenfestigkeit hängen wesentlich 
+von ihrer Arbeitsmarkt- und Unternehmensstruktur ab. 
+Ein wichtiger Aspekt, der insbesondere in der ökonomi -
+schen Resilienzforschung immer wieder betont wird, ist 
+dabei die Diversität der regionalen Arbeitsmärkte und 
+Branchenstrukturen. Eine diverse Wirtschaftsstruktur 
+mindert die Abhängigkeit einer Region von einzelnen 
+Wirtschaftszweigen. Sie ist dadurch weniger anfällig für 
+globale Krisen (Vöpel/Wolf 2018). Gleichzeitig beein -
+flusst die Diversität einer Wirtschaft auch deren Innova -
+tionskraft, da sich spezifisches Wissen über die Grenzen 
+einzelner Branchen und Sektoren hinaus verbreitet und 
+so die Entstehung neuer Ideen, Technologien und Pro -
+dukte fördert (Frenken et al. 2007). Zur Messung der Di -
+versität einer Wirtschaft hat sich in der Forschung der 
+Herfindahl-Hirschman-Index (HHI) etabliert (Farhauer/
+Kröll 2009). Dieser beschreibt die Konzentration einer re -
+gionalen Ökonomie auf einzelne Unternehmen, Branchen 
+oder Berufsgruppen: Je höher der HHI, desto höher ist 
+der Anteil der Gesamtbeschäftigung in einigen wenigen 
+Sektoren und umso höher ist die Abhängigkeit der regio -
+nalen Wirtschaft von diesen Sektoren. Bei der Interpreta -
+tion des HHI ist jedoch zu beachten, dass regionalwirt -
+schaftliche Konzentration nicht ausschließlich negativ zu 
+bewerten ist. Um wirtschaftliches Wachstum zu generie -
+ren, braucht es ebenfalls eine gewisse kritische Masse an 
+Unternehmen und Beschäftigten in einzelnen Sektoren, 
+um regionalisierte Branchennetzwerke zu bilden und 
+Skaleneffekte zu nutzen. In die Karte zur regionalen Resi -
+lienz und Zukunftsfähigkeit fließt der HHI auf Grundla -
+ge der Klassifikation der Berufe der Bundesagentur für 
+Arbeit ein. Neben der Diversität der regionalen Wirt -
+schaft spielt auch die Wissensintensität eine große Rolle 
+für deren Resilienz und Zukunftsfähigkeit. Wissensinten -
+sive Beschäftigungsverhältnisse sind oftmals nicht nur 
+finanziell lukrativer, sondern gelten auch als zukunfts- 
+und krisensicherer als Beschäftigungsarten mit geringen 
+Qualifikationsanforderungen, da sie im Zuge der Digita -
+lisierung weniger einfach durch Computer oder compu -
+tergesteuerte Maschinen ersetzt werden können 
+(Dengler/Matthes 2018). Die Wissensintensität einer re -
+gionalen Wirtschaft bestimmt auch ihr Innovationspo -
+tenzial. Innovationen und technischer Fortschritt sind die 
+Grundvoraussetzungen wirtschaftlichen Wachstums. 
+Doch Innovationen geschehen nicht im luftleeren Raum, 
+sondern durch den Wissensaustausch im Rahmen von 
+Unternehmensnetzwerken und Innovationssystemen, die 
+oftmals einen stark regionalen Charakter haben (Heiden -
+reich/Mattes 2018). Innovationen sind deshalb sehr un -
+gleich im Raum verteilt. In die Karte zur Resilienz und 
+Zukunftsfähigkeit fließt die Anzahl der Patente je 100.000 
+sozialversicherungspflichtig Beschäftigte als Indikator 
+zur Messung der regionalen Innovationskraft mit ein. Ne -
+ben der Innovationskraft gibt das Gründungsgeschehen, 
+gemessen als Saldo der Unternehmensanmeldungen und 
+-abmeldungen je 1.000 Unternehmen, wichtige Auf -
+schlüsse über die wirtschaftlichen Zukunftsaussichten 
+von Regionen. Ein dynamisches Unternehmensumfeld 
+mit vielen Neugründungen deutet auf eine vitale und re -
+siliente Wirtschaft hin, da Start-ups eine besondere Be -
+deutung für die Durchsetzung von Innovationen und 
+neuen Technologien zukommt (Röhl/Heuer 2021). Der 
+demografische Wandel ist eine große Bedrohung für die 
+Zukunfsfähigkeit regionaler Arbeitsmärkte. In den kom -
+menden Jahren und Jahrzehnten wird die Zahl der Men -
+schen im erwerbsfähigen Alter in Deutschland deutlich 
+zurückgehen, da viele ältere Menschen aus dem Arbeits -
+markt ausscheiden (Heckel 2017) und deutlich weniger 
+junge Menschen nachfolgen. Die Folge ist der bereits ak -
+tuell um sich greifende Mangel an Fachkräften, der regio -
+nal sehr unterschiedlich ausgeprägt ist   (Habekuß 2017). 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+18
+
+[[PAGE 19]]
+Um diese Unterschiede in der Zukunftsfähigkeit der re -
+gionalen Arbeitsmärkte darzustellen, fließt in die Karte 
+zur Resilienz und Zukunftsfähigkeit das Verhältnis der 
+jungen Beschäftigten (unter 30 Jahren) zu den älteren 
+Beschäftigten (über 50 Jahre) mit ein.
+2. Anteil ausländischer Hochqualifizierter, Betreuungs -
+quote von Kleinkindern  (Bildungs- und Lebenschancen) : 
+Aufgrund niedriger Geburtenraten und der stagnieren -
+den natürlichen Bevölkerungsentwicklung hat sich die 
+Zuwanderung aus dem Ausland zum wichtigsten Faktor 
+des Bevölkerungswachstums in Deutschland entwickelt. 
+Die Zuwanderung ist räumlich allerdings sehr ungleich 
+verteilt (Heider et al. 2020). Für die unterschiedlichen 
+Landkreise und kreisfreien Städte wird es vor diesem 
+Hintergrund immer wichtiger, insbesondere für hoch 
+qualifizierte Zuwandernde attraktiv zu sein, um den 
+Fachkräftebedarf der regionalen Wirtschaft zu stillen. 
+Dies stellt insbesondere ländliche Regionen, in denen es 
+keine etablierten migrantischen Netzwerke gibt, vor gro -
+ße Herausforderungen (BBSR 2014). Als Indikator für 
+die regionale Attraktivität für ausländische Hochqualifi -
+zierte fließt der Anteil ausländischer Beschäftigter mit 
+akademischem Abschluss an allen sozialversicherungs -
+pflichtig Beschäftigten mit akademischem Abschluss in 
+die Karte zur Resilienz und Zukunftsfähigkeit ein. Ein 
+weiterer Baustein zur Aktivierung des regionalen Fach -
+kräftepotenzials und zur Schaffung von Chancengleich -
+heit – insbesondere für Frauen – auf dem Arbeitsmarkt 
+ist der Ausbau der Betreuungsmöglichkeiten für Klein -
+kinder. Dieser verbessert nicht nur die Erwerbsmöglich -
+keiten junger Eltern, sondern erhöht auch die Bildungs -
+chancen der Kinder aus benachteiligten sozialen Verhältnis-
+sen (Fuchs-Rechlin/Bergmann 2014). Eine gut ausgebaute 
+frühkindliche Betreuungs- und Bildungsinfrastruktur ist 
+somit ein wichtiger Faktor gleichwertiger zukünftiger 
+Lebenschancen in den einzelnen Teilregionen Deutsch -
+lands. Um diesem Umstand Rechnung zu tragen, berück -
+sichtigt die Karte zur Resilienz und Zukunftsfähigkeit 
+die Betreuungsquote von Kleinkindern im Alter von un -
+ter drei Jahren.
+3. Kommunale Sachinvestitionen, Glasfaserausbau, ins -
+tallierte Leistung erneuerbarer Energien, Schienener -
+reichbarkeit  (Staatliches Handeln und öffentliche Infra -
+struktur) : Staatliche Investitionen in die Infrastruktur 
+sind eine Grundvoraussetzung für die Bewältigung zu -
+künftiger Herausforderungen. Die Kommunen und ihre 
+Unternehmen leisten einen großen Teil dieser Investitio -
+nen. Deren Umfang hängt jedoch stark vom finanziellen 
+Handlungsspielraum ab, der räumlich sehr unterschied -
+lich ausfallen kann. Zur Bewertung der regionalen Inves -
+titionstätigkeit fließen die kommunalen Sachinvestitio -
+nen je Einwohner_in in die Karte zur Resilienz und Zu -
+kunftsfähigkeit mit ein. Bei der Interpretation sollte be -
+rücksichtigt werden, dass sich das Ausmaß kommunaler 
+Investitionen nicht nur am aktuellen Bevölkerungsstand, 
+sondern auch an der zu erwartenden Bevölkerungsent -
+wicklung orientieren kann. Große räumliche Unterschie -
+de in der Investitionstätigkeit können so zumindest teil -
+weise erklärt werden (Altemeyer-Bartscher et al. o. J.). 
+2  Details zur Zusammensetzung des Schienenerreichbarkeitsindikators finden sich im Anhang. Für eine detaillierte Erläuterung der Berechnung siehe auch Eichhorn et al. (2023).
+Ein Beispiel für staatliche Investitionen in die Infra -
+struktur ist der Glasfaserausbau. Anders als beim Ausbau 
+der Breitbandinfrastruktur sind die räumlichen Unter -
+schiede hier noch weitaus größer. Dabei ist eine gute 
+Glasfaserinfrastruktur in Zeiten des Homeoffice gerade 
+für viele ländliche Räume eine wichtige Zukunftsres -
+source, um ihre Attraktivität für (potenzielle) Bewoh -
+ner_innen und Unternehmen zu erhöhen (Maretzke/
+Ortwein 2012). In der Karte zur regionalen Resilienz 
+und Zukunftsfähigkeit wurde deshalb der Anteil der 
+Haushalte mit Glasfaseranschluss berücksichtigt. Die 
+Bundesregierung hat es sich zum Ziel gesetzt, den Anteil 
+der erneuerbaren Energien an der Bruttostromerzeugung 
+Deutschlands bis 2030 auf 80 Prozent zu erhöhen. Das 
+bedeutet nahezu eine Verdopplung im Vergleich zum 
+Anteil im Jahr 2022. Einige Landkreise und kreisfreie 
+Städte nehmen bei der Erzeugung erneuerbarer Energien 
+eine besondere Rolle ein, da sie überproportional viel 
+Strom aus Wasser-, Wind- und Solarkraft oder weiteren 
+erneuerbaren Energiequellen bereitstellen. Diese Regio -
+nen könnten in Zukunft deutlich von ihrer Vorreiterrolle 
+profitieren, da die Erzeugung erneuerbarer Energien ein 
+wichtiger Faktor für wirtschaftliches Wachstum und luk -
+rative Beschäftigungsmöglichkeiten ist. Sollten sich aktu -
+elle Überlegungen zu dezentralen und lokalen Koordina -
+tions- und Preismechanismen bei der Stromversorgung 
+durchsetzen, könnten Räume mit Stärken in der Strom -
+erzeugung aus erneuerbaren Energien zudem von niedri -
+geren Strompreisen profitieren und so weiter an Wettbe -
+werbsfähigkeit gewinnen. In die Karte zur Resilienz und 
+Zukunftsfähigekeit geht die regional installierte Leistung 
+für die Erzeugung erneuerbarer Energien je Quadratki -
+lometer Fläche ein. Neben der Transformation des Ener -
+giesektors ist die Transformation des Verkehrssektors der 
+wichtigste Baustein zur Erreichung der deutschen Klima -
+ziele bis 2030. Auch hier ist annähernd eine Halbierung 
+der Emissionen im Vergleich zum Stand von 2019 vorge -
+sehen. Bei der Mobilitätswende kommt dem Schienen -
+verkehr eine besondere Bedeutung zu. Nur mit einer 
+umfassenden Verlagerung des Individualverkehrs von 
+der Straße auf die Schiene können die Klimaziele er -
+reicht werden (Umweltbundesamt 2023). Die Vorausset -
+zungen dafür sind jedoch regional sehr unterschiedlich. 
+Durch historisch bedingte Unterschiede im Schienennetz 
+und den Rückbau von Strecken und Verbindungen in den 
+vergangenen Jahrzehnten sind einige Städte und Regio -
+nen deutlich schlechter an den Bahnverkehr angebunden 
+als andere. Dabei kann eine gute Schienenanbindung 
+auch wirtschaftliche Vorteile für die Entwicklung benach -
+teiligter Regionen haben (BBSR 2022). Um die räumli -
+chen Disparitäten in der Schienenerreichbarkeit zu mes -
+sen, hat das ILS einen Schienenerreichbarkeitsindex ent -
+wickelt, der in die Karte zur Resilienz und Zukunftsfähig -
+keit einfließt. Dieser berücksichtigt neben der 
+durch schnittlichen Distanz, die die Bürger_innen bis zum 
+nächsten Bahnhof zurücklegen müssen, auch die Taktung 
+des Nah- und Fernverkehrs an diesen Bahnhöfen. 2
+FRIEDRICH-EBERT -STIFTUNG
+19
+
+[[PAGE 20]]
+Die Abbildung zeigt die räumliche Ausprägung der Aus -
+wertung der elf oben beschriebenen Indikatoren in der 
+ Gesamtübersicht: die Karte zur Resilienz und Zukunftsfä -
+higkeit. Die Lesart der Karte ist äquivalent zu Abbildung 1. 
+Wegen fehlender Werte bei den kommunalen Sachinvesti -
+tionen wurden die Stadtstaaten Berlin, Hamburg und Bre -
+men schräg schraffiert hervorgehoben. Die Zuordnung zu 
+den unterschiedlichen Raumtypen erfolgte hier abermals 
+manuell anhand der höchsten Ähnlichkeit in allen anderen 
+Indikatoren. Des Weiteren wurden einige Landkreise und 
+ABBILDUNG 4
+Resilienz und Zukunftsfähigkeit 2023
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas,  
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de, GeoBasis-DE/BKG 2021
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurt
+a.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+Kreise mit Sonderstatus
+erneuerbare Energien
+Regionen mit partiellen
+Anpassungshemmnissen
+Resiliente ländliche Räume
+Räume mit besonderen 
+strukturellen Herausforderungen
+Räumliche Innovationspole
+Clustertypen
+Stadtstaaten Berlin, Hamburg, 
+Bremen (ohne Daten für 
+kommunale Finanzen)
+50 km
+kreisfreie Städte mit einer besonders hohen installierten 
+Leistung bei den erneuerbaren Energien mit horizon-
+taler Schraffur hervorgehoben. Diese Regionen können 
+aufgrund ihres Sonderstatus bei der Erzeugung erneuer -
+barer Energien gewissermaßen als Ausreißer betrachtet 
+werden. Analog zu Tabelle 1 stellt Tabelle 5 die Mittel -
+werte der einzelnen Raumtypen mit der entsprechenden 
+Symbolik dar und ergänzt sie mit Kurzbeschreibungen 
+samt Interpretationen und Kontextinformationen.
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+Kreise mit Sonderstatus
+erneuerbare Energien
+Regionen mit partiellen
+Anpassungshemmnissen
+Resiliente ländliche Räume
+Räume mit besonderen 
+strukturellen Herausforderungen
+Räumliche Innovationspole
+Clustertypen
+Stadtstaaten Berlin, Hamburg, 
+Bremen (ohne Daten für 
+kommunale Finanzen)
+50 km
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurta.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+Kreise mit Sonderstatus
+erneuerbare Energien
+Regionen mit partiellen
+Anpassungshemmnissen
+Resiliente ländliche Räume
+Räume mit besonderen 
+strukturellen Herausforderungen
+Räumliche Innovationspole
+Clustertypen
+Stadtstaaten Berlin, Hamburg, 
+Bremen (ohne Daten für 
+kommunale Finanzen)
+50 km
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+20
+
+[[PAGE 21]]
+Raumtypen der regionalen Resilienz und Zukunftsfähigkeit in Deutschland 
+Symbolik: ++ stark überdurchschnittlich; + überdurchschnittlich; o durchschnittlich; - unterdurchschnittlich; -- stark unterdurchschnittlich; 
+Grüntöne: Standortvorteile ; Rottöne: Standortnachteile ; Abkürzungen: Wirt. = Wirtschaftliche; SvB = Sozialversicherungspflichtig Beschäf -
+tigte; Ausl. = Ausländische; Betrq. = Betreuungsquote; Kom. Invest. = Kommunale Investitionen; Ew. = Einwohner_innen; Ern. = Erneuer -
+bare; U. = Unternehmen; Mio. = Millionen
+TABELLE 5
+Charakterisierung Wirkungsrichtung Räumliche Ausdehnung
+Regionen mit partiellen Anpassungshemmnissen  (142 Kreise, 29 Mio. Ew.)
+Dieser Raumtyp weist nicht nur räumlich große Überschnei -
+dungen mit Deutschlands solider Mitte in der oben gezeigten 
+Disparitätenkarte auf. Auch bei den Resilienzindikatoren liegen 
+diese Landkreise und kreisfreien Städte überwiegend im bundes -
+weiten Mittelfeld. Eine relativ breite Streuung der Berufsklassen 
+deutet außerdem auf diverse wirtschaftliche Strukturen ohne 
+dominante Sektoren und fachliche Qualifikationen hin. Nichts -
+destotrotz haben diese Räume für ihre zukünftige Entwicklung 
+einige Anpassungshemmnisse zu überwinden. Dies drückt sich in 
+einem vergleichsweise niedrigen Anteil ausländischer Hochquali -
+fizierter, einer niedrigen Betreuungsquote von Kindern unter drei 
+Jahren und der Investitionsschwäche der Kommunen aus. Räum -
+lich deckt dieser Cluster weitgehend den ländlichen Raum Nord -
+westdeutschlands ab. Ihm gehören aber auch größere Städte wie 
+Duisburg oder Hannover an.
+Wirt. Konzentration: - (928) 
+Wissensberufe: o (20,1 %) 
+Gründungen: o (7,4 je 1.000 U.) 
+Patente: o (182,2 je 100.000 SvB) 
+Junge zu alten SvB: o (56,9%) 
+Ausl. Akademiker_innen: - (10,3 %) 
+Betrq. Kleinkinder: - (29,5 %) 
+Kom. Invest.: - (343 EUR je Ew.) 
+Glasfaser: o (63,5 %) 
+Ern. Energie: o (335 kW/km²)
+Schienenerreichbarkeit: o (11,0)
+Räume mit besonderen strukturellen Herausforderungen  (75 Kreise, 11,5 Mio. Ew.)
+Ein geringer Anteil an Beschäftigten in Wissensberufen und an 
+Hochqualifizierten aus dem Ausland, wenige Unternehmensgrün -
+dungen und Patente sowie geringe kommunale Sachinvestitionen 
+und eine deutlich unterdurchschnittlich ausgebaute Glasfaser -
+infrastruktur weisen auf die großen strukturellen Herausforde -
+rungen innerhalb dieses überwiegend im ländlichen Raum Ost -
+deutschlands vorzufindenen Raumtyps hin. Am bedrohlichsten 
+ist jedoch die demografische Situation, die sich im sehr geringen 
+Verhältnis junger zu alten Beschäftigten ausdrückt. Lediglich die 
+sehr hohe Betreuungsquote von Kleinkindern, die sich auf die 
+sehr gut ausgebaute Betreuungsinfrastruktur aus DDR-Zeiten 
+zurückführen lässt, sticht positiv hervor. Räumlich weist dieser 
+Raumtyp große Überschneidungen mit den strukturschwachen 
+Räumen mit Aufholerfolgen auf. Hier zeigt sich, dass die positi -
+ven Entwicklungen in vielen Landkreisen Ostdeutschlands kein 
+Selbstläufer sind. Im Gegenteil sind für diese Regionen große 
+Anstrengungen nötig, um bei der Bewältigung zukünftiger Trans -
+formationsherausforderungen nicht den Anschluss an das übrige 
+Deutschland zu verlieren.
+Wirt. Konzentration: o (962) 
+Wissensberufe: - (17,8 %) 
+Gründungen: - (5,1/1.000 U.) 
+Patente: - (86,8 je 100.000 SvB) 
+Junge zu alten SvB: -- (39,5%) 
+Ausl. Akademiker_innen: - (8,6 %) 
+Betrq. Kleinkinder: ++ (55,8 %) 
+Kom. Invest.: - (401 EUR je Ew.) 
+Glasfaser: - (39,6 %) 
+Ern. Energie: o (324 kW/km²)
+Schienenerreichbarkeit: - (10,7)
+Resiliente ländliche Räume  (107 Kreise, 18,5 Mio. Ew.)
+Dieser Raumtyp ist vorwiegend in den Landkreisen und Mittel -
+städten Süddeutschlands vorzufinden, er umfasst aber auch 
+einzelne Landkreise in Westdeutschland, insbesondere in Hessen 
+und im Umland der Metropolen Hamburg und Berlin. In den In -
+dikatoren zu den Innovationspotenzialen liegen diese Regionen 
+tendenziell eher im Mittelfeld. Die wirtschaftliche Diversität, 
+die Betreuungsquote von Kleinkindern sowie die Glasfaser- und 
+Schienenanbindung sind unterdurchschnittlich. Diesen Anpas -
+sungshemmnissen zum Trotz weisen die vergleichsweise gute 
+demografische Situation auf den Arbeitsmärkten, die überdurch -
+schnittliche Attraktivität dieser Räume für Hochqualifizierte aus 
+dem Ausland und insbesondere die hohen kommunalen Sach -
+investitionen darauf hin, dass die Landkreise und kreisfreien 
+Städte in diesem Cluster insgesamt vergleichsweise gut aufge -
+stellt sind, um zukünftige Krisen und Transformationsherausfor -
+derungen zu bewältigen.
+Wirt. Konzentration: + (1.009) 
+Wissensberufe: o (19,9 %) 
+Gründungen: o (9,4 /1.000 U.) 
+Patente: o (348,7 je 100.000 SvB) 
+Junge zu alten SvB: + (61,7%) 
+Ausl. Akademiker_innen: + (13,6 %) 
+Betrq. Kleinkinder: - (27,0 %) 
+Kom. Invest.: ++ (713 EUR je Ew.) 
+Glasfaser: - (54,5 %) 
+Ern. Energie: o (296 kW/km²)
+Schienenerreichbarkeit: - (10,7)
+FRIEDRICH-EBERT -STIFTUNG
+21
+
+[[PAGE 22]]
+Räumliche Innovationspole  (76 Kreise, 24,2 Mio. Ew.)
+Die Landkreise und kreisfreien Städte dieses Raumtyps lassen sich 
+im Wesentlichen in zwei Kategorien einteilen. Zum einen umfasst 
+er die Großstädte und Metropolräume Deutschlands, die sich 
+durch sehr hohe Werte bei den Beschäftigten in Wissensberufen, 
+Glasfaseranschlüssen und der Erreichbarkeit im Schienenverkehr 
+auszeichnen. Zum anderen beinhaltet dieser Cluster auch einige 
+ländliche Regionen (zum Beispiel an der Nordseeküste in Schles -
+wig-Holstein), die sich durch extrem überdurchschnittliche Werte 
+bei der Erzeugung erneuerbarer Energien auszeichnen. Diese 
+Kreise sind in der Karte aufgrund ihres Sonderstatus schraffiert 
+hervorgehoben. Auch bei den meisten weiteren Indikatoren sind 
+die Regionen dieses Raumtyps überdurchschnittlich gut aufge -
+stellt. Lediglich die hohe Konzentration der Berufsklassen deutet 
+auf ein Transformationshindernis hin.
+Wirt. Konzentration: + (1.034) 
+Wissensberufe: ++ (28,8 %) 
+Gründungen: + (13,0/1.000 U.) 
+Patente: + (517,5 je 100.000 SvB) 
+Junge zu alten SvB: + (64,6%) 
+Ausl. Akademiker_innen: + (12,9 %) 
+Betrq. Kleinkinder: o (32,6 %) 
+Kom. Invest.: o (437 EUR je Ew.) 
+Glasfaser: ++ (84,3 %) 
+Ern. Energie: + (513 kW/km²)
+Schienenerreichbarkeit: ++ (15,8)
+TABELLE 5
+VIERMAL DEUTSCHLAND: RAUMTYPEN MIT UNTERSCHIEDLICHEN ZUKUNFTSPOTENZIALEN
+rischen Strukturen und das Zusammenspiel einer ungüns -
+tigen demografischen Ausgangslage und der niedrigen At -
+traktivität für ausländische Fachkräfte könnten sich in Zu -
+kunft als schwerwiegende Bedrohung für diese Räume 
+herausstellen.
+2. Tendenziell positive Zukunftspotenziale und eine gute 
+ Krisensicherheit lassen sich den beiden übrigen Raumty -
+pen bescheinigen. In den resilienten ländlichen Räumen  
+(grün) und den räumlichen Innovationspolen  (violett) 
+leben 42,7 Millionen Menschen (51,2 Prozent der Gesamt -
+bevölkerung Deutschlands) in insgesamt 183 Kreisen. Ers -
+tere weisen durchaus auch Standortnachteile bei der wirt -
+schaftlichen Diversität, der Betreuungsquote von Kleinkin -
+dern, dem Glasfaserausbau und der Schienenerreichbar -
+keit auf, dürften aufgrund einer vergleichsweise guten Ver -
+fügbarkeit von Fachkräften und der hohen Finanz- und 
+Innovationskraft der Kommunen aber zukünftige Heraus -
+forderungen gut aus eigenen Kräften bewältigen können. 
+In den räumlichen Innovationspolen bündeln sich hinge -
+gen eine Reihe von Standortvorteilen und Zukunftsres -
+sourcen. Allen voran der hohe Anteil an Wissensarbeiter_
+innen, die hohe Dichte an Unternehmensgründungen und 
+Innovationen und die infrastrukturellen Vorteile weisen 
+auf eine außergewöhnliche Resilienz und Zukunftsfähig -
+keit dieser Räume hin. Überraschenderweise umfasst die -
+ser Raumtyp nicht nur die dynamischen Großstädte und 
+Metropolräume, sondern auch altindustrielle Städte wie 
+Bremen oder Dortmund. Trotz der aktuellen Konzentra -
+tion von sozioökonomischen Problemlagen (siehe auch 
+Tabelle 1) verfügen diese Städte also über wichtige Res -
+sourcen und Potenziale, um zukünftige Krisen und Trans -
+formationsherausforderungen erfolgreich zu bewältigen. 
+Hier bestätigt sich zumindest in Ansätzen die eingangs 
+erwähnte Hypothese von der historischen Resilienz der 
+Großstädte. Eine Sonderstellung innerhalb dieses Raum -
+typs nehmen die horizontal schraffierten Landkreise und 
+kreisfreien Städte ein, die einige Ähnlichkeiten mit den 
+Regionen mit partiellen Anpassungshemmnissen und/
+oder den resilienten ländlichen Räumen aufweisen, jedoch 
+durch außergewöhnlich hohe Werte bei der Erzeugung 
+erneuerbarer Energien im Rahmen der Clusteranalyse den 
+räumlichen Innovationspolen zugeordnet wurden.
+Die Karte zur regionalen Resilienz und Zukunftsfähigkeit teilt 
+Deutschland in vier Raumtypen ein. Ähnlich der Disparitä -
+tenkarte stellt diese Zuordnung kein Ranking im Sinne von 
+resilienten und weniger resilienten Landkreisen und kreis -
+freien Städten dar, es lassen sich aber im direkten Vergleich 
+Raumtypen identifizieren, die deutlich größere strukturpoliti -
+sche Anstrengungen benötigen, um angesichts zukünftiger 
+Transformationsherausforderungen nicht den Anschluss an 
+den Rest Deutschlands zu verlieren:
+1. Dies betrifft die Regionen mit partiellen Anpassungs -
+hemmnissen (in der Karte gelb eingefärbt) und insbeson -
+dere die Räume mit besonderen strukturellen 
+ Herausforderungen  (in der Karte blau). In diesen Räu -
+men leben insgesamt 40,5 Millionen Einwohner_innen  
+(48,8 Prozent der Gesamtbevölkerung Deutschlands), ver -
+teilt auf 217 Kreise. Während in Ersteren vor allem die ver -
+gleichsweise geringe Attraktivität für ausländische Fach -
+kräfte und die Investitionsschwäche der Kommunen die 
+Krisensicherheit und Zukunftsaussichten der Landkreise 
+und kreisfreien Städte bedrohen, kommen in den Räumen 
+mit besonderen strukturellen Herausforderungen schwa -
+che und wenig dynamische wirtschaftliche Strukturen mit 
+unterdurchschnittlichen Werten bei Unternehmensgrün -
+dungen und Innovationen sowie ein Mangel an jungen 
+Menschen, die in die Arbeitsmärkte nachrücken, hinzu. 
+Die großen räumlichen Überschneidungen dieser beiden 
+Resilienztypen mit den Raumtypen „Deutschlands solide 
+Mitte“ und „Strukturschwache Räume mit Aufholerfolgen“ , 
+denen in Tabelle 2 noch eine überdurchschnittlich positive 
+Entwicklung attestiert werden konnte, zeigen, dass die auf -
+holenden Entwicklungen der jüngeren Vergangenheit kein 
+Selbstläufer sind und dass die Zukunftsaussichten der 
+strukturschwachen Regionen sehr unsicher sind. Weiter -
+hin zeigt sich, dass strukturelle Unterschiede zwischen 
+Ost- und Westdeutschland trotz einiger Aufholerfolge 
+längst nicht überwunden sind. Die Teilung Deutschlands, 
+aber auch die Deindustrialisierung im Osten des Landes 
+und die Abwanderung aus diesen Regionen nach der Wie -
+dervereinigung haben nachteilige Bedingungen geschaffen,  
+die sich ohne proaktive Struktur  politik in Zukunft zu ver -
+schärfen drohen. Insbesondere die fehlenden unternehme -
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+22
+
+[[PAGE 23]]
+Bandbreiten von Indikatorwerten in den einzelnen Raumtypen der Disparitätenkarte
+Abkürzungen: HHI = Herfindahl-Hirschman-Index; Ew. = Einwohner_innen; ern. = erneuerbarer; Min. = Minimum; Max. = Maximum
+Indikator Wert Regionen mit  
+partiellen Anpassungs -
+hemmnissen
+Räume mit beson -
+deren strukturellen 
+ Herausforderungen
+Resiliente ländliche 
+Räume
+Räumliche  
+Innovationspole
+Wirtschaftli -
+che Konzen -
+tration (HHI 
+der Berufs -
+klassen)
+Min.
+837  
+(Heidekreis)
+837 
+(Nordwestmecklenburg)
+876 (Breisgau-Hoch -
+schwarzwald)
+872 
+(Dithmarschen)
+Max.
+1.105  
+(Märkischer Kreis)
+1.255 
+(Kassel)
+1.723  
+(Dingolfing-Landau)
+2.056 
+(Wolfsburg)
+Beschäftigte 
+in Wissens -
+berufen in %
+Min.
+14,5 
+(Trier-Saarburg)
+12,7 
+(Sonneberg)
+11,1  
+(Dingolfing-Landau)
+15,8 
+(Emden)
+Max.
+30,2 
+(Kiel)
+27,6 
+(Schwerin)
+32,2  
+(Rhein-Neckar-Kreis)
+43,1 
+(Main-Taunus-Kreis)
+Gründungs-
+intensität 
+(Saldo je 
+1.000 Unter -
+nehmen)
+Min.
+–3,6 
+(Vulkaneifel)
+–1,4 
+(Anhalt-Bitterfeld)
+1,9 
+(Salzgitter)
+–5,2 
+(Hof)
+Max.
+19,0 
+(Cloppenburg)
+15,9 
+(Dahme-Spreewald)
+22,7 
+(Teltow-Fläming)
+37,1 
+(Bonn)
+Patente je 
+100.000 Be -
+schäftigte
+Min.
+18,4 
+(Gifhorn)
+3,0 
+(Dessau-Roßlau)
+14,3 
+(Hersfeld-Rotenburg)
+6,5 
+(Nordfriesland)
+Max.
+809,5 
+(Holzminden)
+435,1 
+(Olpe)
+1.119,2 
+(Emmendingen)
+5.003,1 
+(Erlangen-Höchstadt)
+Verhältnis 
+junger zu 
+alten Be -
+schäftigten 
+in %
+Min.
+45,1 
+(Northeim)
+28,1 (
+Spree-Neiße)
+41,2 
+(Salzgitter)
+40,1 
+(Wolfsburg)
+Max.
+80,5 
+(Cloppenburg)
+61 
+(Olpe)
+74,7 
+(Mühldorf a. Inn)
+80,1 
+(Freiburg im Breisgau)
+Ausländische 
+Hochqualifi -
+zierte in %
+Min.
+5,6 (Rendsburg-Eckern -
+förde)
+4,6 
+(Greiz)
+8,4 
+(Lahn-Dill-Kreis)
+6,8  
+(Dithmarschen)
+Max.
+17,3 
+(Trier-Saarburg)
+18,3 
+(Oder-Spree)
+24,8 
+(Erding)
+22,5  
+(München, Land)
+Betreuungs-
+quote Klein -
+kinder in %
+Min.
+17,7 
+(Gelsenkirchen)
+27,8 
+(Olpe)
+16,4 
+(Berchtesgadener Land)
+16,4 
+(Memmingen) 
+Max.
+41,2 
+(Coesfeld)
+65,1 
+(Spree-Neiße)
+52,1 
+(Teltow-Fläming)
+59,3 
+(Jena)
+Kommunale 
+Sachinvesti -
+tionen (EUR 
+je Ew.)
+Min.
+60 
+(Flensburg) 
+131 (Brandenburg a. d. 
+Havel)
+145 
+(Salzgitter)
+83 
+(Wilhelmshaven)
+Max.
+734 
+(Cloppenburg)
+755 
+(Kronach)
+1.397 
+(Dingolfing-Landau)
+1.377 
+(München, Land)
+Glasfaser-  
+anschlüsse 
+(% der  
+Haushalte)
+Min.
+8,6 
+(Altenkirchen)
+9,9 
+(Nordhausen)
+13,2 
+(Cham)
+10,4 
+(Rosenheim)
+Max.
+97,8 
+(Herzogtum Lauenburg)
+93,0 
+(Rostock)
+86,4 
+(Salzgitter)
+99,9 
+(Ingolstadt)
+Installierte 
+Leistung ern. 
+Energien 
+(kW/km²)
+Min.
+92 
+(Ahrweiler) 
+57 
+(Sonneberg)
+52 (Garmisch-Parten -
+kirchen)
+103 
+(Potsdam)
+Max.
+918 
+(Aurich)
+775 
+(Oberspreewald-Lausitz)
+864 
+(Schweinfurt)
+2.096 
+(Emden)
+Schienener -
+reichbarkeit 
+(Index)
+Min.
+1,4 
+(Lüchow-Dannenberg)
+5,6 
+(Altmarkkreis Salzwedel)
+2,3 
+(Freyung-Grafenau)
+5,8 
+(Passau)
+Max.
+18,6 
+(Solingen)
+18,6 
+(Weimar)
+18,2 
+(Fürstenfeldbruck)
+21,8 
+(Bamberg)
+TABELLE 6
+FRIEDRICH-EBERT -STIFTUNG
+23
+
+[[PAGE 24]]
+Auch die vier Raumtypen zur Bewertung der Resilienz und 
+Zukunftsfähigkeit sind in ihrer Zusammensetzung durch -
+aus vielfältig. Um diese Heterogenität zu illustrieren, zeigt 
+Tabelle 6 die Bandbreite der einzelnen Indikatoren inner -
+halb der vier Cluster mit den jeweiligen Minimal- und Ma -
+ximalwerten. Die Überschneidungen zwischen den Clus -
+tern sind vergleichsweise groß. So gibt es beispielsweise bei 
+den Beschäftigten in wissensintensiven Berufen, der Er -
+zeugung erneuerbarer Energien und bei der Schienener -
+reichbarkeit nur marginale Unterschiede in den Bandbrei -
+ten der Regionen mit partiellen Anpassungshemmnissen, 
+der Räume mit besonderen strukturellen Herausforderun -
+gen und der resilienten ländlichen Räume. Die Zuordnung 
+der einzelnen Kreise ist also nicht immer in allen Indikato -
+ren eindeutig. Bei anderen Indikatoren wie den Patenten 
+FALLSTUDIEN
+Die vier Raumtypen mit unterschiedlicher Resilienz und 
+Zukunftsfähigkeit liefern einen guten Überblick über die 
+räumliche Verteilung von Zukunfts- und Transfomations -
+potenzialen in Deutschland. In Kombination mit den fünf 
+Raumtypen der Disparitätenkarte, die den Istzustand 
+räumlich ungleicher Lebensverhältnisse abbilden, liefern 
+sie somit wichtige Hinweise für eine proaktive und zu -
+kunftsorientierte Strukturpolitik. Die Vielfalt der unter -
+schiedlichen Landkreise und kreisfreien Städte innerhalb 
+der einzelnen Cluster zeigt jedoch auch, dass Entwick -
+lungsstrategien, die auf starken Verallgemeinerungen ba -
+sieren, fehl am Platz sind. Die Daten zeigen, dass es keinen 
+Musteransatz zur Sicherstellung der sozialen, ökonomi -
+schen und ökologischen Zukunftsfähigkeit der einzelnen 
+Teilregionen gibt, sondern dass sich entsprechende Förder -
+maßnahmen immer auch an den lokalen Potenzialen und 
+Risiken orientieren sollten.
+und dem Glasfaserausbau sind die Spannweiten in allen 
+vier Clustern sehr groß. Darüber hinaus lassen sich unter 
+den Extremwerten einzelne Landkreise und kreisfreie Städ -
+te identifizieren, die Grenzfälle zwischen den unterschied -
+lichen Clustern darstellen. Ein Beispiel hierfür ist Salzgit -
+ter, das bei der Gründungsintensität und dem Verhältnis 
+junger zu alten Beschäftigten eher den Räumen mit beson -
+deren strukturellen Herausforderungen gleicht als den re -
+silienten ländlichen Räumen. Innerhalb des Raumtyps der 
+räumlichen Innovationspole stechen die eher ländlich ge -
+prägten Kreise in Norddeutschland hervor (Nordfriesland, 
+Dithmarschen), die bei den Patenten und dem Anteil aus -
+ländischer Hochqualifizierter eher den beiden struktur -
+schwächeren Raumtypen ähneln.
+Um individuelle Abweichungen innerhalb der Raumtypen 
+und spezifische Stärken und Schwächen einzelner Land -
+kreise oder Städte abzubilden, werden im Folgenden fünf 
+Fallstudien dargestellt, die in ihren Zukunftspotenzialen 
+mehr oder weniger stark von ihrem übergeordneten Raum -
+typ abweichen. Dabei wurden Regionen beziehungsweise 
+Städte ausgesucht, die ähnliche historisch bedingte Struk -
+turprobleme aufweisen, im Rahmen der Auswertungen zu 
+Resilienz und Zukunftsfähigkeit jedoch unterschiedlichen 
+Raumtypen zugeordnet wurden (Dortmund und Duis -
+burg), aber auch Regionen mit deutlichen wirtschafts -
+strukturellen Unterschieden, die demselben Raumtyp an -
+gehören (Wittenberg und der Wartburgkreis). Die Fallstu -
+dienauswahl wird komplettiert durch den Kreis Böblingen, 
+dessen regionale Wirtschaftsstruktur sich durch eine starke 
+Konzentration auf einige Branchen und Berufszweige aus -
+zeichnet und deshalb trotz der Zuordnung zu den resilien -
+ten ländlichen Räumen besondere Zukunftsrisiken birgt.
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+24
+
+[[PAGE 25]]
+ABBILDUNG 5
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas,  
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de
+0,0
+1,0
+–1,0
+0,8
+–0,8
+0,6
+–0,6
+0,4
+–0,4
+0,2
+–0,2
+1,4
+1,2
+wirt. Konzentration (HHI der Berufe)
+wissensintensive Berufe (%)
+Patente je 100.000 SvB
+Gründungsintensität (Saldo/1.000 Untern.)
+junge zu alten Beschäftigten
+ausländische Hochqualiﬁzierte (%)
+Betreuungsquote Kleinkinder (%)
+kommunale Sachinvestitionen (EUR/Ew.)
+Glasfaserausbau (%)
+erneuerbare Energien (kW/km²)
+Schienenerreichbarkeit (Index)
+... Dortmund 
+vom Bundesdurchschnitt
+... Cluster „Räumliche Innovationspole“ 
+vom Bundesdurchschnitt
+Mittelwertabweichungen (z-Werte) für ...Kennwerte für ...
+976
+21
+273
+9
+56
+11
+34
+471
+61
+356
+12
+...
+Bundes-
+durchschnitt
+Indikatoren
+Bundes-
+durchschnitt
+1.034
+29
+518
+13
+65
+13
+33
+437
+84
+513
+16
+...
+Mittelwert
+Cluster
+939
+28
+316
+13
+69
+10
+30
+254
+68
+261
+17
+...
+Dortmund
+Dortmund
+Abbildung 5 zeigt die Ausprägung der unterschiedlichen 
+Indikatoren zur Bewertung der Resilienz und Zukunftsfä -
+higkeit für die erste Fallstudie Dortmund (587.000 Ein -
+wohner_innen). Um Abweichungen vom bundesweiten 
+Mittelwert (Durchschnitt aller 400 Landkreise und kreis -
+freien Städte) darzustellen, wurden die einzelnen Indikato -
+ren mit ihren teils sehr unterschiedlichen Werteausprägun -
+gen auf eine einheitliche Skala gebracht (z-Standardisie -
+rung). Der bundesweite Mittelwert stellt dabei jeweils den 
+Nullwert dar. Die Punkte im rechten Abschnitt der Grafik 
+repräsentieren die positiven oder negativen Abweichungen 
+des Kreises beziehungsweise der kreisfreien Stadt und des 
+übergeordneten Raumtyps (in diesem Fall die räumlichen 
+Innovationspole) von diesem Mittelwert. Auf der linken 
+Seite ist ergänzend die reale Ausprägung des jeweiligen In -
+dikators aufgeführt. Die Werte für Dortmund zeigen trotz 
+der Zugehörigkeit zu den räumlichen Innovationspolen 
+einige teilweise recht deutliche Negativabweichungen vom 
+Bundesmittelwert. Besonders deutlich wird dies bei den 
+kommunalen Sachinvestitionen, die auf eine anhaltend an -
+gespannte Lage des kommunalen Haushalts hindeuten. 
+Auch der Anteil hoch qualifizierter Beschäftigter aus dem 
+Ausland, die Betreuungsquote von Kleinkindern und die 
+Erzeugung erneuerbarer Energien in Kilowatt pro Quad -
+ratkilometer sind im Bundesvergleich unterdurchschnitt -
+lich. Während der letztgenannte Indikator stark von den 
+naturgegebenen Bedingungen vor Ort – also der Verfüg -
+barkeit von Wind-, Wasser- oder Solarenergie – abhängig 
+ist, deuten die beiden erstgenannten auf noch unausge -
+schöpfte Potenziale hin. Nicht eindeutig zu bewerten ist 
+die im deutschlandweiten Vergleich ebenfalls leicht unter -
+durchschnittliche wirtschaftliche Konzentration. Diese 
+deutet einerseits auf eine geringere Anfälligkeit der regio -
+nalen Wirtschaft für globale Schocks und Krisen hin, kann 
+aber auch als Zeichen dafür gelesen werden, dass sich in 
+Dortmund im Zuge des Strukturwandels bis heute keine 
+dominanten Wachstumsbranchen herausbilden konnten. 
+Vergleicht man die Werteausprägungen Dortmunds mit 
+dem übergeordneten Raumtyp der räumlichen Innovati -
+onspole, sieht man, dass die Stadt bei einigen Indikatoren 
+deutlich unter dem Clusterdurchschnitt liegt. Das betrifft 
+neben den bereits erwähnten Kennziffern auch die Patent -
+dichte und den Glasfaserausbau. Lediglich bei dem Ver -
+hältnis junger zu alten Beschäftigten und bei der Schienen -
+erreichbarkeit steht Dortmund besser da als der Durch -
+schnitt der räumlichen Innovationspole. In Summe zeigen 
+die Werte für die Stadt Dortmund eine durchschnittliche 
+bis gute Ausstattung mit Zukunftsressourcen, die aber teil -
+weise hinter den Durchschnitt ihres übergeordneten Raum -
+typs zurückfällt. Insbesondere bei den Indikatoren, die die 
+staatliche Handlungs- und Investitionsfähigkeit betreffen, 
+besteht strukturpolitischer Handlungsbedarf, um die Resi -
+lienz und Zukunftsfähigkeit der Stadt sicherzustellen.
+FRIEDRICH-EBERT -STIFTUNG
+25
+
+[[PAGE 26]]
+Duisburg (502.200 Einwohner_innen) gehört wie Dort -
+mund zu den altindustriellen Städten des Ruhrgebiets, die 
+aufgrund des Niedergangs der Montanindustrie mit seit 
+langer Zeit anhaltenden sozioökonomischen Problemlagen 
+zu kämpfen haben. In der Disparitätenkarte wurden beide 
+Städte dem Raumtyp „Altindustrielle Städte mit struktu -
+rellen Herausforderungen“ zugeordnet. In der Karte zur 
+Resilienz und Zukunftsfähigkeit liegen Dortmund 
+(„Räumliche Innovationspole“) und Duisburg („Regionen 
+mit partiellen Anpassungshemmnissen“) jedoch in unter -
+schiedlichen Raumtypen. Abbildung 6 stellt die Abwei -
+chungen Duisburgs vom Mittelwert aller 400 Landkreise 
+und kreisfreien Städte sowie vom Mittelwert des überge -
+ordneten Raumtyps dar. Bei den meisten Indikatoren 
+schneidet Duisburg im deutschlandweiten Vergleich unter -
+durchschnittlich ab. Bei der Betreuungsquote von Klein -
+kindern, den kommunalen Investitionen und der Erzeu -
+gung erneuerbarer Energien liegen die Werte zudem deut -
+lich unter den Mittelwerten der Regionen mit partiellen 
+Anpassungshemmnissen. Überdurchschnittliche Werte, 
+sowohl im Vergleich zum Bundesdurchschnitt als auch 
+zum Clusterdurchschnitt, können lediglich beim Anteil 
+wissensintensiver Berufe, beim Anteil nicht deutscher 
+Akademiker_innen, beim Glasfaserausbau und bei der 
+Schienenerreichbarkeit verzeichnet werden. Die Gesamt -
+betrachtung der Werte für Duisburg deutet darauf hin, 
+dass es der Stadt im Zuge des Strukturwandels weniger gut 
+als Dortmund gelungen ist, innovative Unternehmen aus 
+Zukunftsfeldern anzusiedeln und attraktive Wohn- und 
+Beschäftigungsangebote für junge Menschen zu schaffen. 
+Aufgrund der vergleichsweise guten Werte beim Anteil 
+wissensintensiver Berufe und ausländischer Hochqualifi -
+zierter sowie aufgrund der Glasfaser- und Schienenan -
+schlüsse sind die Anpassungsherausforderungen jedoch 
+anders ausgeprägt als im Mittel der Regionen mit partiel -
+len Anpassungshemmnissen. Die niedrige Betreuungsquo -
+te von Kleinkindern und die Investitionsschwäche der 
+Kommune zeigen jedoch auch hier starken Handlungs-
+bedarf an.
+ABBILDUNG 6
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas, 
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de
+–0,4
+0,6
+–1,4
+0,4
+–1,2
+0,2
+–1,0
+0,0
+–0,8
+–0,2
+–0,6
+1,0
+0,8
+wirt. Konzentration (HHI der Berufe)
+wissensintensive Berufe (%)
+Patente je 100.000 SvB
+Gründungsintensität (Saldo/1.000 Untern.)
+junge zu alten Beschäftigten
+ausländische Hochqualiﬁzierte (%)
+Betreuungsquote Kleinkinder (%)
+kommunale Sachinvestitionen (EUR/Ew.)
+Glasfaserausbau (%)
+erneuerbare Energien (kW/km²)
+Schienenerreichbarkeit (Index)
+… Duisburg 
+vom Bundesdurchschnitt
+… Cluster „Regionen mit partiellen
+Anpassungshemmnissen“ 
+vom Bundesdurchschnitt
+Mittelwertabweichungen (z-Werte) für …Kennwerte für …
+976
+21
+273
+9
+56
+11
+34
+471
+61
+356
+12
+...
+Bundes-
+durchschnitt
+Indikatoren
+Bundes-
+durchschnitt
+928
+20
+182
+7
+57
+10
+29
+343
+64
+335
+11
+...
+Mittelwert
+Cluster
+946
+24
+195
+8
+56
+12
+18
+164
+68
+154
+15
+...
+Duisburg
+Duisburg
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+26
+
+[[PAGE 27]]
+Der Kreis Wittenberg in Sachsen-Anhalt (123.900 Einwoh -
+ner_innen) ist in vielerlei Hinsicht ein sehr typisches Bei -
+spiel für die Räume mit besonderen strukturellen Heraus -
+forderungen im Osten Deutschlands (siehe Abbildung 7). 
+Er weist eine der niedrigsten Ausprägungen beim Herfin -
+dahl-Hirschman-Index der Berufsklassen zur Messung 
+wirtschaftlicher Konzentration auf. Dieser hohe Grad an 
+Diversifikation deutet zwar auf eine geringe Abhängigkeit 
+der regionalen Wirtschaft von einzelnen Wirtschaftszwei -
+gen hin, zeigt aber ebenso an, dass die Region über keine 
+nennenswerten Schlüsselindustrien mit lukrativen Be -
+schäftigungsmöglichkeiten verfügt. Dies äußert sich auch 
+in den unterdurchschnittlichen Werten bei wissensintensi -
+ven Berufen, Patenten, Unternehmensgründungen und 
+dem Verhältnis junger zu alten Beschäftigten. Auch bei 
+den übrigen Indikatoren liegt Wittenberg mit Ausnahme 
+der Betreuungsquote von Kleinkindern sowohl unter dem 
+Bundesdurchschnitt als auch unter dem Durchschnitt der 
+Räume mit besonderen strukturellen Herausforderungen. 
+Landkreise wie Wittenberg werden es aufgrund fehlender 
+unternehmerischer Strukturen und der mangelnden At -
+traktivität für Fachkräfte aus dem In- und Ausland schwer 
+haben, ohne Impulse und Investitionen von außen nicht 
+vollends den Anschluss an die wirtschaftlich stärkeren Re -
+gionen Deutschlands zu verlieren. Die Aufholerfolge vieler 
+dieser Räume in der jüngeren Vergangenheit (siehe auch 
+Tabelle 2) zeigen jedoch, dass strukturpolitische Maßnah -
+men, insbesondere Investitionen in die Infrastruktur, 
+ Wirkung entfalten und so zumindest Teilerfolge in der 
+Herstellung gleichwertiger Lebensverhältnisse erzielt wer -
+den können.
+Ein weiteres Beispiel für die Räume mit besonderen 
+strukturellen Herausforderungen ist der Wartburgkreis 
+(123.000 Einwohner_innen) in Thüringen (siehe Abbil -
+dung 8). Dieser unterscheidet sich von Wittenberg jedoch 
+darin, dass er eine vergleichsweise hohe wirtschaftliche 
+Konzentration in einigen wenigen Berufszweigen aufweist. 
+Dies beruht vor allem darauf, dass der Kreis ein wichtiger 
+Standort der Automobilzulieferindustrie ist, die von zu -
+künftigen wirtschaftlichen Transformationsprozessen in -
+folge des geplanten Verbots von Verbrennungsmotoren bei 
+Pkw ab 2035 besonders betroffen sein dürfte (Kemper -
+mann et al. 2021). Die erhöhte Abhängigkeit von einer ein -
+zigen Branche wird ergänzt durch die Tatsache, dass viele 
+der Jobs im lokalen Automobilsektor einfache Fertigungs -
+tätigkeiten im Niedriglohnbereich sind. Die Wirtschafts -
+struktur könnte sich für die Region also in Zukunft als 
+doppelte Falle entpuppen, die einerseits nur wenige lukra -
+tive Beschäftigungsoptionen für höher Qualifizierte bietet 
+und andererseits sehr anfällig für zukünftige Krisen und 
+Transformationsprozesse ist. Bei den übrigen Indikatoren 
+liegt der Wartburgkreis oftmals deutlich unter dem Bun -
+desdurchschnitt und teilweise auch unter dem Durch -
+schnittswert der Räume mit besonderen strukturellen 
+ Herausforderungen. Insbesondere beim Anteil wissensin -
+tensiver Berufe, bei der Gründungsintensität und beim 
+ABBILDUNG 7
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas, 
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de
+0,0
+2,0
+–2,0
+1,0
+–1,0
+0,5
+–0,5
+2,5
+–2,5
+1,5
+–1,5
+wirt. Konzentration (HHI der Berufe)
+wissensintensive Berufe (%)
+Patente je 100.000 SvB
+Gründungsintensität (Saldo/1.000 Untern.)
+junge zu alten Beschäftigten
+ausländische Hochqualiﬁzierte (%)
+Betreuungsquote Kleinkinder (%)
+kommunale Sachinvestitionen (EUR/Ew.)
+Glasfaserausbau (%)
+erneuerbare Energien (kW/km²)
+Schienenerreichbarkeit (Index)
+… Wittenberg 
+vom Bundesdurchschnitt
+… Cluster „Räume mit besonderen 
+strukturellen Herausforderungen“ 
+vom Bundesdurchschnitt
+Mittelwertabweichungen (z-Werte) für …Kennwerte für …
+976
+21
+273
+9
+56
+11
+34
+471
+61
+356
+12
+...
+Bundes-
+durchschnitt
+Indikatoren
+Bundes-
+durchschnitt
+962
+18
+87
+5
+39
+9
+56
+401
+40
+324
+11
+...
+Mittelwert
+Cluster
+841
+17
+40
+4
+33
+7
+62
+346
+30
+289
+7
+...
+Wittenberg
+Wittenberg
+FRIEDRICH-EBERT -STIFTUNG
+27
+
+[[PAGE 28]]
+Glasfaserausbau offenbaren sich große Defizite. Lediglich  
+der Anteil ausländischer Hochqualifizierter liegt deutlich  
+über dem Clusterdurchschnitt. Wie Wittenberg steht  
+auch der Wartburgkreis vor großen wirtschaftlichen und  
+sozio  demografischen Herausforderungen. Aufgrund der 
+ wirtschaftlichen Strukturen liegt das Mediangehalt  
+(2.980 Euro) hier zwar derzeit noch über dem von Witten -
+berg (2.788 Euro), die große Bedeutung der kriselnden Au -
+tomobilzulieferindustrie macht den Kreis jedoch sehr an -
+fällig für zukünftige wirtschaftliche Verwerfungen und 
+stellt somit ein großes strukturelles Risiko dar.
+ABBILDUNG 8
+Die letzte Fallstudie, der Landkreis Böblingen (398.500 
+Einwohner_innen), ist ein Beispiel für die resilienten länd -
+lichen Räume (siehe Abbildung 9). Mit 4.331 Euro ist das 
+Mediangehalt eines der höchsten in Deutschland. Seine 
+wirtschaftliche Stärke zieht der Kreis aus seiner unmittel -
+baren Nähe zu Stuttgart und seiner überragenden Bedeu -
+tung für die deutsche Automobilwirtschaft als Hauptstand -
+ort der Mercedes-Benz AG. Der letztgenannte Faktor lie -
+fert jedoch auch Hinweise auf mögliche Transformations -
+risiken. Durch die hohe Branchenkonzentration ist der 
+Landkreis stark von den globalen Marktbedingungen im 
+Automobilsektor abhängig und somit von Nachfrage -
+schocks durch wirtschaftliche Krisen und dem allgemeinen 
+Transformationsprozess der Branche im Zuge der Dekar -
+bonisierung besonders betroffen. Aufgrund seiner aktuel -
+len Wirtschaftskraft, der im bundesweiten Vergleich guten 
+Infrastruktur und der insbesondere für ländliche Regionen 
+hohen Anteile an wissensintensiven Berufen und hoch 
+qualifizierten Zugewanderten kann davon ausgegangen 
+werden, dass Böblingen insgesamt gut aufgestellt ist, um 
+diese zukünftigen Herausforderungen aus eigener Kraft zu 
+bewältigen. In einigen Feldern besteht allerdings durchaus 
+Nachholbedarf. So liegen beispielsweise die Gründungsin -
+tensität und das Verhältnis junger zu alten Beschäftigten 
+unter dem bundesweiten Durchschnitt und relativ deutlich 
+unter dem Durchschnitt der resilienten ländlichen Räume. 
+Die niedrige Betreuungsquote von Kleinkindern deutet 
+weiterhin auf Defizite bei den gleichberechtigten Erwerbs -
+möglichkeiten für junge Familien hin. Bei den kommuna -
+len Sachinvestitionen liegt Böblingen trotz eines der 
+höchsten bevölkerungsproportionalen Steueraufkommens 
+in Deutschland nur im Mittelfeld. 
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas, 
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de
+0,0
+2,0
+–2,0
+1,0
+–1,0
+0,5
+–0,5
+1,5
+–1,5
+wirt. Konzentration (HHI der Berufe)
+wissensintensive Berufe (%)
+Patente je 100.000 SvB
+Gründungsintensität (Saldo/1.000 Untern.)
+junge zu alten Beschäftigten
+ausländische Hochqualiﬁzierte (%)
+Betreuungsquote Kleinkinder (%)
+kommunale Sachinvestitionen (EUR/Ew.)
+Glasfaserausbau (%)
+erneuerbare Energien (kW/km²)
+Schienenerreichbarkeit (Index)
+… Wartburgkreis 
+vom Bundesdurchschnitt
+… Cluster „Räume mit besonderen 
+strukturellen Herausforderungen“ 
+vom Bundesdurchschnitt
+Mittelwertabweichungen (Z-Werte) für …Kennwerte für …
+976
+21
+273
+9
+56
+11
+34
+471
+61
+356
+12
+...
+Bundes-
+durchschnitt
+Indikatoren
+Bundes-
+durchschnitt
+962
+18
+87
+5
+39
+9
+56
+401
+40
+324
+11
+...
+Mittelwert
+Cluster
+1.060
+16
+101
+2
+39
+10
+53
+417
+28
+230
+10
+...
+Wartburg-
+kreis
+Wartburgkreis
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+28
+
+[[PAGE 29]]
+RÄUME MIT BESONDEREN TRANSFORMATIONSRISIKEN
+ABBILDUNG 9
+stark betroffen. Steigende Energiepreise infolge des Im -
+portstopps für russisches Gas gefährden die Wettbewerbs -
+fähigkeit dieser Branchen schon heute (IW 2023). Da so -
+wohl die Automobilindustrie als auch die energieintensi -
+ven Industrien räumlich sehr unterschiedlich konzentriert 
+sind, sind auch die unterschiedlichen Teilräume in 
+Deutschland unterschiedlich von der wirtschaftlichen 
+Transformation hin zur Klimaneutralität betroffen. Über 
+die in der Disparitätenkarte und der Karte zur Resilienz 
+und Zukunftsfähigkeit gezeigten Potenziale hinaus könn -
+ten die unterschiedlich stark ausgeprägten Transforma -
+tionsrisiken in den 400 Landkreisen und kreisfreien 
+ Städten zur Entstehung neuer Muster der Ungleichheit 
+führen, die in aktuellen strukturpolitischen Debatten 
+(noch) keine Rolle spielen.
+Die Fallstudien Wartburgkreis und Böblingen zeigen, dass 
+einige Regionen aufgrund ihrer wirtschaftlichen Abhän -
+gigkeit von transformationsbetroffenen Branchen in Zu -
+kunft größere Risiken und Herausforderungen zu bewälti -
+gen haben. Einige Landkreise und kreisfreie Städte werden 
+diese Herausforderungen aufgrund ihrer Wirtschafts- und 
+Finanzkraft, Innovationsstärke und gut aufgestellter poli -
+tisch-administrativer und zivilgesellschaftlicher Institutio -
+nen gut aus eigener Kraft bewältigen können, andere sind 
+auf strukturpolitische Unterstützung angewiesen, um im 
+Zuge zu erwartender Transformationsprozesse nicht den 
+Anschluss zu verlieren. Neben der Automobilindustrie, als 
+nach wie vor bedeutendstem Industriezweig in Deutsch -
+land, sind von der angestrebten Dekarbonisierung der 
+Wirtschaft vor allem auch eine Reihe besonders energiein -
+tensiver Industrien wie die Chemie- und Metallindustrie 
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas, 
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de
+0,0
+3,0
+2,0
+1,0
+–1,0
+0,5
+–0,5
+3,5
+2,5
+1,5
+wirt. Konzentration (HHI der Berufe)
+wissensintensive Berufe (%)
+Patente je 100.000 SvB
+Gründungsintensität (Saldo/1.000 Untern.)
+junge zu alten Beschäftigten
+ausländische Hochqualiﬁzierte (%)
+Betreuungsquote Kleinkinder (%)
+kommunale Sachinvestitionen (EUR/Ew.)
+Glasfaserausbau (%)
+erneuerbare Energien (kW/km²)
+Schienenerreichbarkeit (Index)
+… Böblingen 
+vom Bundesdurchschnitt
+… Cluster 
+„Resiliente ländliche Räume“ 
+vom Bundesdurchschnitt
+Mittelwertabweichungen (z-Werte) für …Kennwerte für …
+976
+21
+273
+9
+56
+11
+34
+471
+61
+356
+12
+...
+Bundes-
+durchschnitt
+Indikatoren
+Bundes-
+durchschnitt
+1.009
+20
+349
+9
+62
+14
+27
+713
+55
+296
+11
+...
+Mittelwert
+Cluster
+1.362
+25
+270
+7
+54
+15
+26
+483
+76
+238
+15
+...
+Böblingen
+ Böblingen
+FRIEDRICH-EBERT -STIFTUNG
+29
+
+[[PAGE 30]]
+ABBILDUNG 10
+Quelle: eigene Darstellung; 
+Datengrundlage: IW Consult GmbH, Statistik der Bundesagentur für Arbeit, GeoBasis-DE/BKG 2021
+50 km
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurt
+a.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Ludwigs-
+hafen
+Berlin
+Köln
+Hamburg
+München
+Leipzig
+Bremen
+Dresden
+Essen
+Dortmund
+Stuttgart
+Hannover
+Düsseldorf
+Nürnberg
+Frankfurt
+a.M.
+Erfurt
+Münster
+Hamm
+Bielefeld
+Kiel
+Flensburg
+Lübeck
+Schwerin
+Ulm
+Bonn
+Duisburg
+Bottrop
+Trier
+Salzgitter
+Jena
+Chemnitz
+Aachen
+Potsdam
+Frankfurt
+(Oder)
+Rostock
+Wolfsburg
+Krefeld
+Karlsruhe
+Wiesbaden
+Magdeburg
+Paderborn
+Hagen
+Mainz
+Siegen
+Kassel
+Augsburg
+Mannheim
+Ingolstadt
+Braunschweig
+Saarbrücken
+Koblenz
+Fürth
+Göttingen
+Darmstadt
+Osnabrück
+Heilbronn
+Halle (Saale)
+Wuppertal
+Heidelberg
+Pforzheim
+Würzburg
+Erlangen
+Hildesheim
+Reutlingen
+Freiburg
+Konstanz
+Regensburg
+Passau
+Oldenburg
+Bremerhaven
+Neumünster
+Wilhelmshaven
+Emden
+Brandenburg
+Weimar
+Bamberg
+Pirmasens
+Straubing
+Schweinfurt
+Ludwigs-
+hafen
+50 km
+Automobilwirtschaft*
+ bis unter 10
+10 und mehr
+* unterdurchschnittliche Beschäftigtenzahlen 
+nicht dargestellt
+Automobilwirtschaft*
+bis unter 5
+5 bis unter 10
+10 und mehr
+ bis unter 10
+10 und mehr
+Energieintensive IndustrieEnergieintensive Industrie
+* unterdurchschnittliche 
+Beschäftigtenzahlen nicht dargestellt
+Beschäftigtenanteile in Prozent
+bis unter 5
+5 bis unter 10
+10 und mehr
+Energieintensive IndustrieEnergieintensive Industrie
+Beschäftigtenanteile 
+in Prozent
+Beschäftigtenanteile in energieintensiven Industrien (2022) und der Automobilwirtschaft (2021)
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+30
+
+[[PAGE 31]]
+Abbildung 10 zeigt die räumliche Verteilung der Beschäf -
+tigtenanteile im Automobilsektor und seinen Zulieferin -
+dustrien (rot) und in den energieintensiven Industrien 
+(blau). Die Überlagerung der beiden Karten erlaubt die 
+Identifikation von Räumen mit doppelter Betroffenheit 
+und besonderen Transformationsherausforderungen. Bei 
+der Interpretation der Daten sollte berücksichtigt werden, 
+dass die erwähnten Risiken sich nicht auf einzelne Kreise 
+oder kreisfreie Städte beschränken, sondern über regionale 
+Liefer- und Pendelverflechtungen auch auf deren Nachbar -
+regionen ausstrahlen können. Transformationsrisiken sind 
+in Deutschland räumlich sehr punktuell verteilt, wobei ein 
+gewisses Nord-Süd-Gefälle zu erkennen ist. Die ländlich 
+geprägten Kreise im Norden und Nordosten des Landes 
+weisen oftmals eine eher geringe Konzentration in den bei -
+den betroffenen Sektoren auf, aber auch Großstädte wie 
+Berlin, Hamburg und München zeichnen sich dadurch aus, 
+dass sie von den erwähnten wirtschaftlichen Transforma -
+tionsprozessen nur wenig betroffen sind. Addiert man die 
+Beschäftigtenanteile beider Sektoren, weisen die traditio -
+nellen Automobilstandorte Wolfsburg (47,5 Prozent), In -
+golstadt (47,2 Prozent) und Dingolfing (47 Prozent) die 
+höchste Gesamtbetroffenheit auf. Diese basiert allerdings 
+fast ausschließlich auf der hohen regionalen Bedeutung der 
+Automobilwirtschaft. Die besonders energieintensiven In -
+dustrien spielen in diesen Kreisen beziehungsweise kreis -
+freien Städten hingegen kaum eine Rolle. Die höchsten Be -
+schäftigungsanteile in diesen Branchen findet man an Che -
+miestandorten wie Altötting (32,3 Prozent) oder Holzmin -
+den (24,4 Prozent). Andere Regionen wie der Kreis Olpe  
+in Südwestfalen (beide Sektoren zusammengerechnet  
+40,4 Prozent) oder Salzgitter (zusammen 39,5 Prozent) 
+weisen in beiden Sektoren bedeutende Beschäftigungsan -
+teile und somit eine doppelte Betroffenheit auf. 
+Die regionalwirtschaftliche Abhängigkeit von bestimm -
+ten Transfomationsbranchen zeigt die unterschiedlichen 
+Transformationsrisiken und Herausforderungen in den  
+400 Landkreisen und kreisfreien Städten an, sie erlaubt 
+aber keine Aussagen darüber, wie die einzelnen Teilräume 
+aufgestellt sind, um diese Herausforderungen zu bewälti -
+gen. Für Regionen mit einer guten Ausstattung an Resi -
+lienzfaktoren werden die Auswirkungen der Transforma -
+tionsprozesse weniger schwerwiegend sein als für struktur -
+schwache Kreise mit sich überlagernden sozioökonomi -
+schen Herausforderungen und geringer Resilienz. 
+Abbildung 11 zeigt deshalb die 30 Kreise mit der höchsten 
+Abhängigkeit vom Automobilsektor und/oder von den 
+energieintensiven Branchen in den Farben ihres jeweiligen 
+Raumtyps aus der Karte zur Resilienz und Zukunftsfähig -
+keit. Ergänzend sind auf der Karte alle Kreise und kreis -
+freien Städte schraffiert dargestellt, die ganz oder teilweise 
+Fördergebiete im Rahmen der Gemeinschaftsaufgabe zur 
+Verbesserung der regionalen Wirtschaftsstruktur (GRW) 
+im Zeitraum 2022 bis 2027 sind. Dies ermöglicht eine Ein -
+schätzung, inwiefern Regionen mit besonderen Transfor -
+mationsherausforderungen bereits in der aktuellen räum -
+lichen Verteilung strukturpolitischer Maßnahmen berück -
+sichtigt sind oder ob es Anpassungsbedarf gibt, also einer 
+proaktiven Strukturpolitik bedarf, die zukünftige Heraus -
+forderungen und Risiken bereits mitdenkt. Die aktuelle 
+Auswahl der GRW-Gebiete erfolgt auf Grundlage eines 
+ Regionalindikators, der das BIP je Erwerbstätigen, die Un -
+terbeschäftigtenquote, die prognostizierte Zahl der Er -
+werbstätigen bis 2040 sowie einen kombinierten Infrastru -
+kuturindikator beinhaltet. Die GRW-Fördergebietskulisse 
+berücksichtigt somit zumindest in Teilen schon zu erwar -
+tende demografische Entwicklungen. Die regionalwirt -
+schaftliche Resilienz oder eventuelle Transformationsrisi -
+ken werden dabei jedoch nicht mitgedacht.
+Die Karte verdeutlicht, dass sich Räume mit besonde -
+ren Transformationsherausforderungen in allen vier Resi -
+lienztypen finden lassen. Diejenigen Landkreise und kreis -
+freien Städte, die den Raumtypen mit Anpassungshemm -
+nissen zuzuordnen sind, werden dabei weitgehend durch 
+die GRW-Förderung abgedeckt. Allerdings ist diese insge -
+samt stark auf die strukturschwachen ländlichen Kreise, 
+insbesondere im Osten Deutschlands, ausgerichtet. Zu den 
+Kreisen mit besonderen Transformationsrisiken, die nicht 
+im GRW-Fördergebiet liegen, gehören auch die Landkreise 
+Olpe, Kassel und Main-Spessart, die im Rahmen der Clus -
+teranalyse den Räumen mit besonderen strukturellen Her -
+ausforderungen zugeordnet wurden. Dies könnte grund -
+sätzlich als Hinweis gedeutet werden, dass die Regionen es 
+in Zukunft schwer haben werden, Transformationsheraus -
+forderungen ohne strukturpolitische Unterstützung zu be -
+wältigen. Die Zuordnung der Kreise und kreisfreien Städte 
+ersetzt allerdings nicht die qualitative Einzelfallbetrach -
+tung. So weist beispielsweise der Kreis Olpe die höchste 
+Dichte an mittelständischen Weltmarktführern, sogenann -
+ten Hidden Champions, auf (Block et al. 2021), was auf 
+eine gesunde und resiliente regionale Unternehmensstruk -
+tur hindeutet.
+FRIEDRICH-EBERT -STIFTUNG
+31
+
+[[PAGE 32]]
+ABBILDUNG 11
+Top-30-Risikoregionen
+Quelle: eigene Darstellung; Datengrundlage: Regionalstatistik, Statistik der Bundesagentur für Arbeit, Infas 360 GmbH, Deutsches Patent- und Markenamt, EON Energieatlas, 
+Bertelsmann Stiftung: Wegweiser Kommune, Gigabit-Grundbuch der Bundesnetzagentur, gtfs.de, Bundesministerium für Wirtschaft und Klimaschutz (bmwk.de),  
+GeoBasis-DE/BKG 2021
+Hof
+Kassel
+Olpe
+Rastatt
+Heilbronn
+Schwandorf
+Wartburgkreis
+Rottweil
+Main-Spessart
+Kronach
+Tuttlingen Altötting
+Märkischer Kreis
+Böblingen
+Holzminden
+Dingolﬁng-
+Landau
+Nürnberger
+Land
+Sonneberg
+Donnersbergkreis
+Germersheim
+Erlangen-
+Höchstadt
+Altenkirchen
+Salzgitter
+Wolfsburg
+Emden
+Ingolstadt
+Solingen
+Schweinfurt
+Hof
+Kassel
+Olpe
+Rastatt
+Heilbronn
+Schwandorf
+Wartburgkreis
+Rottweil
+Main-Spessart
+Kronach
+Tuttlingen Altötting
+Märkischer Kreis
+Böblingen
+Holzminden
+Saarlouis
+Dingolﬁng-
+Landau
+Nürnberger
+Land
+Sonneberg
+Donnersbergkreis
+Germersheim
+Erlangen-
+Höchstadt
+Saarpfalz-
+Kreis
+Altenkirchen
+Salzgitter
+Wolfsburg
+Emden
+Ingolstadt
+Solingen
+Schweinfurt
+50 km
+GRW-Fördergebiete
+Clustertypen der Top 30
+Resilienz und Zukunftsfähigkeit
+Regionen mit partiellen
+Anpassungshemmnissen
+Resiliente ländliche Räume
+Räume mit besonderen 
+strukturellen Herausforderungen
+Räumliche Innovationspole
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+32
+
+[[PAGE 33]]
+PFADE DER UNGLEICHHEIT
+Die Auswertungen im Rahmen dieser Studie verdeutlichen, 
+dass viele der unterschiedlichen Facetten und Triebfedern 
+ungleicher Lebensverhältnisse im Zeitverlauf sehr beständig 
+sind. Trotz einiger Aufholerfolge der benachteiligten länd -
+lichen Regionen spiegeln die Raumtypen und Muster der 
+Disparitätenkarte weitgehend die Ergebnisse des Disparitä -
+tenberichts 2019 wider. Die gute Nachricht ist, dass sich 
+ regionale Disparitäten in den zurückliegenden Jahren zu -
+mindest nicht verstärkt haben. Für die Strukturpolitik ist 
+dies aber längst kein Anlass, sich auf den Teilerfolgen der 
+Vergangenheit auszuruhen. Die Karte zur Resilienz und 
+ Zukunftsfähigkeit zeigt vielmehr, dass die Zukunftsperspek -
+tiven der strukturschwachen und sozioökonomisch benach -
+teiligten Regionen, insbesondere im ländlichen Raum, alles 
+andere als sicher sind. Die wirtschaftsstrukturellen und 
+ demografischen Ausgangsbedingungen deuten vielmehr 
+ darauf hin, dass sich Unterschiede zwischen den wirt -
+schaftsstarken und -schwachen Regionen ohne politisches 
+Gegensteuern verfestigen werden. Durch die aufgezeigten 
+räumlich unterschiedlich stark ausgeprägten Trans-
+formations risiken könnten außerdem neue Muster räumli -
+cher sozioökonomischer Benachteiligung entstehen.
+ • Die Ergebnisse des Themenbereichs Wirtschaft, Beschäfti -
+gung und Arbeitsmarkt  weisen auf gravierende Unter -
+schiede in den strukturellen Ausgangsbedingungen und 
+Zukunftsperspektiven der Teilräume und Raumtypen in 
+Deutschland hin. Die großstädtisch geprägten Räume 
+und die (Um-)Landregionen in Süddeutschland verfügen 
+über historisch bedingte Standortvorteile, die sich vor 
+allem in einer hohen Dichte an Wissensarbeiter_innen 
+und innovativen Unternehmen äußern. Diese Faktoren 
+machen sie wirtschaftlich resilienter gegenüber zukünfti -
+gen Krisen und Transformationsherausforderungen. Alt -
+industriell geprägte und ländliche Räume im Norden und 
+Osten Deutschlands haben dagegen ohne strukturpoliti -
+sche Unterstützung und Großinvestitionen von außen 
+kaum Chancen, im Standortwettbewerb mit den innova -
+tionsstarken und wirtschaftlich dynamischen Regionen 
+mitzuhalten. Ein Blick auf die Karte zur Resilienz und 
+Zukunftsfähigkeit zeigt allerdings auch, dass wirtschaftli -
+che Altlasten nicht automatisch mit geringen Zukunfts -
+perspektiven einhergehen. So wurden zum Beispiel viele 
+altindustrielle Städte (zum Beispiel weite Teile des Ruhr -
+gebiets), aber auch die ostdeutschen Großstädte Leipzig 
+und Dresden dem Cluster der räumlichen Innovations -
+pole zugeordnet. Für die Entwicklung der struktur -
+schwachen Räume gilt es insbesondere die Entstehung 
+von Innovationspolen in den Mittelstädten als Anker -
+punkten des ländlichen Raums zu fördern, beispielsweise 
+durch die Gründung von Fachhochschulen, deren inhalt -
+liche Ausrichtung sich an den Potenzialen der regionalen 
+Wirtschaft orientiert. In ländlichen Räumen sind die 
+Dichte an innovativen Akteuren und die Technologieori -
+entierung jedoch grundsätzlich geringer ausgeprägt als in 
+Verdichtungsräumen, sodass fehlende Kompetenzen nur 
+durch eine starke überregionale Vernetzung der Akteure 
+kompensiert werden können (Schiller 2021).
+ • Für den Bereich Bildungs- und Lebenschancen  zeigen die 
+Daten, dass sich soziale Exklusionsprozesse und Chan -
+cenungleichheit vor allem in urbanen Räumen entfalten. 
+Dies betrifft nicht nur die altindustriellen Stadtregionen, 
+sondern zunehmend auch gesamtwirtschaftlich erfolgrei -
+che und resiliente Großstädte. Regionen können also ei -
+nerseits dynamisch und innovativ und andererseits über -
+proportional von Armut und mangelnden Bildungs- und 
+Lebenschancen betroffen sein. Um der steigenden Chan -
+cenungleichheit in den großen Städten entgegenzuwir -
+ken, sind Maßnahmen wie die Kindergrundsicherung, 
+Wohngeld, aber auch lokale Investitionen in die Bil -
+dungsinfrastruktur und ein Ausbau der Quartiersarbeit 
+notwendig. Innovationen werden in der Strukturpolitik 
+zudem nach wie vor vorrangig als Motor für Wirtschafts -
+wachstum verstanden und zu wenig im Hinblick auf 
+nachhaltige Entwicklung, soziale Innovation und institu -
+tionellen Wandel in den Regionen. Ein Fokus auf Wirt -
+schaftswachstum ohne ein breiteres Verständnis von orts -
+bezogener, regionaler Innovationspolitik als Antwort auf 
+regional spezifische soziale und ökologische Herausfor -
+derungen kann jedoch neue Probleme aufwerfen. Jüngere 
+Diskussionen auf Ebene der europäischen Kohäsionspoli -
+tik deuten mittlerweile auf ein breiteres Innovationsver -
+ständnis hin, in dem soziale und Nachhaltigkeitsaspekte 
+stärkere Berücksichtigung in Politiken der regionalen 
+Spezialisierung finden könnten (McCann/Soete 2020).
+ • Die Erreichung gleichwertiger Lebensverhältnisse im Be -
+reich Wohlstand und Gesundheit  hängt sehr von Erfolgen 
+in den anderen Themenbereichen ab. Entwicklungen in 
+den betrachteten Indikatoren vollziehen sich hier über 
+viele Jahre und Jahrzehnte. In den zurückliegenden kon -
+junkturstarken 2010er Jahren konnten in den struktur -
+schwächeren Regionen einige Aufholerfolge erzielt wer -
+den, wie die Entwicklungen der Mediangehälter und der 
+Lebenserwartung zeigen. Diese Erfolge sollten aber kei -
+neswegs über die nach wie vor großen regionalen Un -
+gleichheiten bei den Themen Wohlstand und Gesundheit 
+hinwegtäuschen. Insbesondere zwischen West- und Ost -
+deutschland herrscht weiterhin ein großes Gehaltsgefälle. 
+Die räumlichen Trennlinien verlaufen dabei jedoch nicht 
+in erster Linie zwischen den Großstädten und den eher 
+ländlichen Räumen. Die höchsten Gehälter am Wohnort 
+und die höchste durchschnittliche Lebenserwartung fin -
+det man heute in den wohlhabenden Kreisen in den 
+Speckgürteln der Metropolen. Aber auch einige ländliche 
+Kreise abseits der großstädtischen Einzugsbereiche zeich -
+nen sich durch erstaunlich hohe Werte bei den Wohl -
+standsindikatoren aus. In den Großstädten selbst hinge -
+gen drohen die innerstädtischen Disparitäten aufgrund 
+der überhitzten Wohnungsmärkte und steigenden Le -
+benshaltungskosten  weiter zuzunehmen. Wohlstand und 
+Gesundheit werden so zum Exklusivgut der einkom -
+mensstarken Haushalte.
+FRIEDRICH-EBERT -STIFTUNG
+33
+
+
+[[PAGE 34]]
+ • Staatliches Handeln  und Investitionen in die Infrastruk -
+tur sind in vielen Regionen stark durch die hohe kom -
+munale Verschuldung limitiert. Zwar konnten einige 
+Kommunen ihren Schuldenstand in der zweiten Hälfte 
+der 2010er Jahre deutlich reduzieren, mit der Corona -
+krise, der Fluchtzuwanderung infolge des Kriegs in der 
+Ukraine und der hohen Inflation entstanden allerdings 
+zu Beginn der 2020er Jahre neue Herausforderungen, 
+die die Haushalte stark belasten und den staatlichen 
+Handlungsspielraum einschränken. Besonders drama -
+tisch ist die Verschuldung in den altindustriellen Städ -
+ten und Kreisen Westdeutschlands. Hier verhindert sie 
+wichtige Investitionen zur Sicherstellung der regionalen 
+Resilienz und Zukunftsfähigkeit und Maßnahmen zur 
+Bekämpfung des sozioökonomischen Auseinanderdrif -
+tens und der Exklusionsprozesse innerhalb der Regio -
+nen. Der Aufholprozess beim Breitbandausbau zeigt, 
+dass Investitionen in die Infrastruktur wirken und zur 
+räumlich gleichberechtigten Teilhabe infolge von Trans -
+formationsprozessen wie der Digitalisierung beitragen 
+können. Eine bessere Förderung von Investitionen auf 
+kommunaler Ebene sollte deshalb ein zentrales Anliegen 
+der Bundes- und Landespolitik sein. Hierzu gehört je -
+doch nicht nur der Abbau von Schulden, der in einigen 
+Ländern mit dem kommunalen Schuldenschnitt bereits 
+vollzogen wurde, sondern auch die Verbesserung des 
+Zugangs zu Fördermitteln des Bundes, der Länder und 
+der EU. Die regionalen Unterschiede in der politischen 
+Partizipation (gemessen an der Wahlbeteiligung bei 
+Bundestagswahlen) verzeichnen nur wenige Verschie -
+bungen im Vergleich zum vergangenen Disparitätenbe -
+richt 2019. Bei einem Teil der Bevölkerung scheint sich 
+das Vertrauen in die etablierten Institutionen der reprä -
+sentativen Demokratie jedoch abzuschwächen und die 
+Empfänglichkeit für populistische und einfache Lö -
+sungsparolen angesichts komplexer Zukunftsherausfor -
+derungen zu steigen (Hövermann et al. 2021). Insbeson -
+dere in den ostdeutschen Regionen sind positive All -
+tagserfahrungen mit einer gelingenden Demokratie und 
+die Wahrnehmung, dass es sich lohnt, sich in politische 
+Prozesse einzubringen und darüber Einfluss und Wirk -
+samkeit zu entfalten, gering ausgeprägt (Decker et al. 
+2023). Die Förderung von Demokratie und die Stärkung 
+von Beteiligungsprozessen, in denen Selbstwirksamkeit 
+erfahren werden kann, werden vor diesem Hintergrund 
+immer wichtiger. Hierzu kann eine langfristig angelegte, 
+stärker partizipative Politik von Kommunen auf lokaler 
+und regionaler Ebene beitragen. Wiederkehrende Mög -
+lichkeiten von Bürger_innen, sich in die Gestaltung der 
+eigenen Wohn- und Lebenswelt einzubringen und darü -
+ber Selbstwirksamkeit zu erfahren, sind für die Stärkung 
+der Alltagsdemokratie ebenso wichtig wie für passge -
+naue lokale und regionale Politiken der räumlichen Ent -
+wicklung (Weck 2021). 
+ • Bei den Wanderungen  zeigen sich die größten Verschie -
+bungen im Vergleich zur vergangenen Disparitätenstu -
+die 2019. Insbesondere das Binnenwanderungsgesche -
+hen hat sich im Laufe der vergangenen fünf Jahre nahe -
+zu komplett gedreht. Die größten Wanderungsgewinner 
+sind heute nicht mehr die dynamischen und/oder resi -
+lienten Großstädte oder ihr Umland, sondern die sub -
+urbanen, mittelstädtischen und ländlichen Räume, die 
+in der Disparitätenkarte Deutschlands solide Mitte bil -
+den. Dies deutet einerseits auf veränderte Wohnortprä -
+ferenzen hin (wachsende Bedeutung ländlicher Stand -
+ortfaktoren), ist aber auch ein Zeichen für die steigen -
+den Wohn- und Lebenshaltungskosten und die zuneh -
+mende Exklusionsgefahr innerhalb der wirtschaftlich 
+erfolgreichen Räume, die viele Haushalte auf noch er -
+schwingliche Wohnungsmärkte in den äußeren Einzugs -
+bereichen der Großstädte ausweichen lässt. Ob und wie 
+sich dieser Trend fortsetzen wird, ist schwierig zu prog -
+nostizieren. Die Karte zur Resilienz und Zukunftsfähig -
+keit deutet darauf hin, dass die großen Städte ihre wirt -
+schaftliche Vormachtstellung behaupten werden. Durch 
+zunehmende Homeoffice-Möglichkeiten dürfte aber 
+auch die Attraktivität der ländlichen Räume hoch blei -
+ben (Krasilnikova/Levin-Keitel 2022). Strukturpolitik 
+sollte vor diesem Hintergrund darauf abzielen, die Ver -
+netzung zwischen den großen Kernstädten und ihrem 
+erweiterten Umland zu stärken, etwa durch die Förde -
+rung von Investitionen in den Glasfaserausbau und 
+nachhaltige Infrastrukturen für den Pendelverkehr.  
+In der Zusammenschau zeichnen die Disparitätenkarte 
+und die Karte zur Resilienz und Zukunftsfähigkeit der 
+Städte und Regionen ein durchaus ambivalentes Bild der 
+räumlichen Entwicklung sozioökonomischer Disparitäten 
+in der Vergangenheit und für die Zukunft. Trotz der ge -
+bremsten Dynamik vieler Großstädte und der Aufholerfol -
+ge einiger strukturschwacher ländlicher Räume in der jün -
+geren Vergangenheit deuten die wirtschaftsstrukturellen 
+und demografischen Ausgangsbedingungen langfristig auf 
+eine Verschärfung bestehender Disparitäten hin, die nur 
+durch eine vorausschauende Strukturpolitik wirksam ge -
+mildert werden kann. Dabei sollte der Fokus neben Inves -
+titionen in Zukunftsressourcen vor allem auf einer gleich -
+berechtigten Beteiligung aller sozialen Gruppen in den be -
+troffenen Regionen liegen. Insbesondere in Regionen, in 
+denen es weitverbreitete Gefühle von Frustration und Ab -
+gehängtsein gibt, ist es wichtig, auf die Transparenz von 
+Verfahren und die Einbeziehung sozialer Gruppen zu ach -
+ten, die sich wenig zu Wort melden. In diesem Sinne sind 
+Projekte wichtig, in denen in alltäglichen Prozessen Demo -
+kratie gelernt und gefördert wird und gerade weniger arti -
+kulationsfähige Gruppen darin gestärkt werden, sich in 
+Transformationsprozesse einzubringen. Nicht die klassi -
+schen Beteiligungsverfahren, sondern partizipative Ansätze, 
+über die regional passgenaue Lösungsansätze entstehen, die 
+an den spezifischen Herausforderungen und  Potenzialen 
+einer Region ansetzen, sind gefragt. Raumstrukturell wirk -
+same Politik und Strukturprojekte lassen sich anders gar 
+nicht mehr denken, weil die Ressourcen und das Kapital 
+aller gebraucht werden, damit integrierte Lösungsansätze 
+entstehen können. Die Co-Kreation bei Planungsprozes -
+sen, über Sektoren wie auch über Akteursgruppen hinweg, 
+ist in einigen Förderprogrammen bereits erprobt und sollte 
+stärker zum Planungsstandard für strukturell wirksame 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+34
+
+[[PAGE 35]]
+Regionalpolitiken werden. Wichtige Kriterien der Verfah -
+rensgerechtigkeit sind hier die Transparenz und die Inklu -
+sivität der Planungsprozesse.
+In der Karte zur Resilienz und Zukunftsfähigkeit sind 
+ökonomische Indikatoren überproportional berücksichtigt. 
+Dies ist zum einen darauf zurückzuführen, dass wirt -
+schaftsstrukturelle Ausgangsbedingungen zweifellos wich -
+tig sind, um die ökonomische Resilienz von Regionen er -
+fassen zu können. Zum anderen fehlen aber regionalstatis -
+tische Daten, um die soziale und ökologische Resilienz der 
+Landkreise und kreisfreien Städte zu bewerten. Die beste -
+henden vornehmlich ökonomischen Kennziffern sollten 
+um eine Indikatorik ergänzt werden, die auch die soziale 
+Teilhabe und Lebenszufriedenheit der Bevölkerung, die 
+Klimaresilienz und die Nachhaltigkeit der regionalen Ent -
+wicklungen erfasst. Dazu gehören Indikatoren zu Klima -
+anpassung, Ressourcenverbrauch und Flächennutzung, Ge -
+sundheit, Lebenszufriedenheit, Sicherheit, sozialer Teilha -
+be, Partizipation und andere. Auf regionaler und kommu -
+naler Ebene gibt es Beispiele für entsprechende alternative 
+Bilanzierungen gemeinwohlorientierter lokaler und regio -
+naler Entwicklung. Eine flächendeckende Verfügbarkeit 
+derartiger Indikatorensysteme würde es ermöglichen, re -
+gionale Resilienz und Zukunftsfähigkeit umfassender zu 
+bewerten.
+FRIEDRICH-EBERT -STIFTUNG
+35
+
+[[PAGE 36]]
+Anhang A: 
+DOKUMENTATION DER INDIKATOREN
+Die nachfolgenden Tabellen zeigen die in der Studie ge -
+nutzten Indikatoren, die dazugehörigen Quellen und Be -
+zugsjahre im Überblick. Bei Indikatoren mit mehreren 
+Bezugsjahren wurde ein jährlicher Mittelwert aus dem 
+genannten Zeitraum gebildet, um mögliche kurzfristige 
+Schwankungen auszugleichen.  Für alle Indikatoren der 
+Disparitätenkarte bis auf die Erreichbarkeit von Allge -
+meinmediziner_innen wurde außerdem die Entwicklung 
+über die letzten fünf beziehungsweise vier (Lebenserwar -
+tung, Wahlbeteiligung) Jahre – sofern verfügbar – ausge -
+wertet.
+# Definition Quelle Bezugsjahr
+Clusteranalyse
+Abb. 1 Disparitätenkarte 2023
+Bundesagentur für Arbeit, Bundesinstitut für 
+Bau-, Stadt- und Raumforschung, Bundesnetz -
+agentur, Statistisches Bundesamt, Thünen-In -
+stitut, Wegweiser Kommune der Bertelsmann 
+Stiftung und dort gesammelte Rohdaten
+2017, 
+2018, 
+2019, 
+2020, 2021
+Wirtschaft, Beschäftigung und Arbeitsmarkt
+Anteil der SV-Beschäftigten mit Hochschulabschluss am Wohn -
+ort in Prozent Statistisches Bundesamt 2021
+Bildungs- und Lebenschancen
+Kinderarmut: Anteil der Kinder unter 15 Jahren in SGB-II-Haus -
+halten an allen unter 15-Jährigen in Prozent Wegweiser Kommune der Bertelsmann Stiftung 2020
+Altersarmut: Anteil der Empfänger_innen von Grundsicherung 
+ab Renteneintrittsalter und bei Erwerbsminderung ab 18 Jahren Wegweiser Kommune der Bertelsmann Stiftung 2020
+Wohlstand und Gesundheit
+Erreichbarkeit von Allgemeinmediziner_innen in Wegezeit per 
+Pkw in Minuten
+Thünen-Erreichbarkeitsmodell; Arztstandorte: 
+POI-Bund, Datenstand Arztstandorte 10/2020 2020
+Mittlere Lebenserwartung eines Neugeborenen in Jahren Bundesinstitut für Bau-, Stadt- und  
+Raumforschung 2017–2019
+Bruttomonatsgehälter am Wohnort (Median) Bundesagentur für Arbeit 2021
+Staatliches Handeln und Partizipation
+Anteil der Haushalte mit einer Breitbandverfügbarkeit von  
+≥ 50 Mbit/s an allen Haushalten in Prozent Gigabit-Grundbuch der Bundesnetzagentur 2022
+Kommunale Schulden in Euro je Einwohner_in Wegweiser Kommune der Bertelsmann Stiftung 2020
+Anteil der Wähler_innen an den Wahlberechtigten bei der 
+Bundestagswahl 2021 Statistisches Bundesamt 2021
+Wanderungen
+Wanderungssaldo insgesamt (Zuzüge minus Fortzüge), Mittel -
+werte der Bezugsjahre je 100.000 Einwohner_innen Statistisches Bundesamt 2018–2020
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+36
+
+[[PAGE 37]]
+# Definition Quelle Bezugsjahr
+Clusteranalyse
+Abb. 2 Wohlstand und Armut 2023
+Bundesagentur für Arbeit, Empirica, Statistisches 
+Bundesamt, Wegweiser Kommune der Bertels -
+mann Stiftung
+2020, 
+2021, 2023
+Wohlstand
+Bruttomonatsgehälter am Wohnort (Median) Bundesagentur für Arbeit 2021
+Mietbelastungsquote: Anteil des Haushaltseinkommens, das pro 
+Person für die Miete aufgewendet werden muss, in Prozent
+Statistisches Bundesamt, Empirica, Wegweiser 
+Kommune der Bertelsmann Stiftung, eigene Be -
+rechnungen
+2020, 
+2021, 2023
+Bildungs- und Lebenschancen
+Kinderarmut: Anteil der Kinder unter 15 Jahren in SGB-II-Haus -
+halten an allen unter 15-Jährigen in Prozent Wegweiser Kommune der Bertelsmann Stiftung 2020
+Altersarmut: Anteil der Empfänger_innen von Grundsicherung 
+ab Renteneintrittsalter und bei Erwerbsminderung ab 18 Jahren Wegweiser Kommune der Bertelsmann Stiftung 2020
+# Definition Quelle Bezugsjahr
+Clusteranalyse
+Abb. 4 Resilienz und Zukunftsfähigkeit 2023
+Bundesagentur für Arbeit, Bundesnetzagentur, 
+Deutsches Patent- und Markenamt, Infas 360 
+GmbH, Statistisches Bundesamt, Statistische 
+Ämter des Bundes und der Länder, Wegweiser 
+Kommune der Bertelsmann Stiftung, gtfs.de, 
+EON Energieatlas
+2018, 
+2019, 
+2020, 
+2021, 2022 
+Wirtschaft, Beschäftigung und Arbeitsmarkt
+Wirtschaftliche Konzentration: Herfindahl-Hirschman-Index auf 
+Basis der Berufssegmente Bundesagentur für Arbeit 2022
+Anteil der SV-Beschäftigten in wissensintensiven Berufen am 
+Arbeitsort in Prozent Bundesagentur für Arbeit 2022
+Gründungsintensität: Saldo aus Firmengründungen und -lö -
+schungen je 1.000 Firmen Infas 360 GmbH, Handelsregister 2020
+Zahl der Patentanmeldungen je 100.000 SV-Beschäftigte am 
+Arbeitsort 
+Deutsches Patent- und Markenamt  
+(DPMAregister) 2019–2022
+Verhältnis der SV-Beschäftigten unter 30 Jahren zu SV-Beschäf -
+tigten von 50 bis unter 65 Jahren am Arbeitsort in Prozent Statistisches Bundesamt 2022
+Bildungs- und Lebenschancen
+Anteil Nichtdeutscher mit akademischem Abschluss an den Ge -
+samtbeschäftigten mit akademischem Abschluss am Arbeitsort 
+in Prozent
+Statistisches Bundesamt 2022
+Betreuungsquote von Kleinkindern unter drei Jahren in Prozent Statistisches Bundesamt 2021
+Staatliches Handeln und Partizipation
+Kommunale Sachinvestitionen in Euro je Einwohner_in Wegweiser Kommune der Bertelsmann Stiftung 2018–2020
+Anteil der Haushalte mit einer Breitbandverfügbarkeit von  
+≥ 1.000 Mbit/s (Glasfaser) in Prozent Gigabit-Grundbuch der Bundesnetzagentur 2022
+Maximale Leistung von Wind-, Solar-, Wasser- und Biomasse -
+kraftwerken bei voller Auslastung in kW pro km² EON Energieatlas 2021
+Schienenerreichbarkeitsindex Eigene Berechnungen, DELFI-Datensatz,  
+OpenStreetMap 2022
+FRIEDRICH-EBERT -STIFTUNG
+37
+
+[[PAGE 38]]
+# Definition Quelle Zeitraum
+Abb. 3 Vermögensungleichheit: räumliche Disparitäten bei  
+Erbschaften und Schenkungen 
+Statistisches Bundesamt, Auswertung zur Erb -
+schaft- und Schenkungsteuerstatistik 2017–2021
+Abb. 10 Beschäftigtenanteile in energieintensiven Industrien (2022)  
+und der Automobilwirtschaft (2021)
+Automobilwirtschaft: IW Consult GmbH
+Energieintensive Industrien: Statistik der Bundes -
+agentur für Arbeit
+2021, 
+2022
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+38
+
+[[PAGE 39]]
+Anhang B: 
+METHODISCHE HINWEISE
+Die vorliegende Studie beruht auf einer Auswertung reprä -
+sentativer Indikatoren für unterschiedliche Themenfelder. 
+Indikatoren sind bei diesem gängigen Ansatz der Raumbe -
+obachtung von reinen regionalstatistischen Variablen (zum 
+Beispiel Bevölkerungsstand oder Fläche einer Kommune) 
+zu unterscheiden. Sie haben eine Zeigerwirkung für einen 
+bestimmten Sachverhalt, liefern im Hinblick auf gesell -
+schaftliche und politische Zielsetzungen aussagekräftige 
+Bewertungen von Zuständen und Trends. Ein Beispiel ist 
+der politische Anspruch, in Deutschland möglichst flä -
+chendeckend den Zugang zu Breitbandinternet zu ermög -
+lichen. Dieses Ziel wird mit einem Indikator gemessen, der 
+die Anzahl der Haushalte in den Untersuchungsgebieten 
+(hier: kreisfreie Städte und Landkreise) mit Zugang zu ho -
+hen Übertragsungsraten wiedergibt. 
+Die dargestellten Trends und Werte sind für den Ver -
+gleich von Mittelwerten in den 400 kreisfreien Städten und 
+Landkreisen in Deutschland beziehungsweise den unter -
+schiedlichen Raumtypen gut geeignet und tragen zu einem 
+besseren Verständnis der Geografie sozioökonomischer 
+Disparitäten bei. Das ist Thema dieses Berichts, dahin ge -
+hend werden die Kartenbilder interpretiert. Dahinter ver -
+birgt sich aber häufig eine sich vertiefende Spaltung inner -
+halb einzelner Kreise. Diese werden in den auf den Karten 
+dargestellten Werten nicht unmittelbar sichtbar. Folgende 
+weitere methodische Hinweise  sind in der Interpretation 
+zu berücksichtigen:
+ • Die eingesetzten Indikatoren werden auf Mittelwerte 
+(arithmetischer Mittelwert, Median) oder vergleichbare 
+Bezugsgrößen (zum Beispiel Wanderungssaldo pro 
+100.000 Einwohner_innen, durchschnittliche Erreich -
+barkeit in Fahrzeitminuten) normiert, das heißt, die Er -
+gebnisse hängen nicht von der Größe oder Bevölke -
+rungszahl ab. Diese Vorgehensweise ist Voraussetzung 
+für die Vergleichbarkeit von Indikatorausprägungen 
+über unterschiedlich groß geschnittene Untersuchungs -
+einheiten mit unterschiedlicher Bevölkerungszahl.
+ • Die Interpretation von Stadt-Umland-Beziehungen zwi -
+schen kreisfreien Städten und ihren umliegenden Land -
+kreisen kann durch die unterschiedliche Größe der Ge -
+bietseinheiten beeinflusst werden. So erstrecken sich 
+aufgrund von Gebietsreformen manche Umlandkreise 
+ostdeutscher Großstädte weit in das Umland, die Indi -
+katoren geben dann im Mittel Werte aus suburbanen 
+und ins Ländliche übergehenden Raumstrukturen wie -
+der.
+ • Aufgrund der unzulässigen Vergleichbarkeit zwischen 
+den Landeshaushalten der Stadtstaaten Berlin, Hamburg 
+und Bremen und den kommunalen Haushalten der 
+kreisfreien Städte und Landkreise konnte der Indikator 
+„Kommunale Schulden“ für die genannten Städte nicht 
+berücksichtigt werden. Die Zuordnung zu Raumtypen 
+auf der Disparitätenkarte macht diese methodische Ab -
+weichung mit einer Schraffur deutlich.
+ • Der in der Karte zur Resilienz und Zukunftsfähigkeit 
+verwendete Herfindahl-Hirschman-Index (HHI) ist ein 
+in den Wirtschaftswissenschaften weitverbreitetes Maß 
+zur Messung von Marktkonzentration oder (regional) 
+wirtschaftlicher Spezialisierung (siehe zum Beispiel Vö -
+pel/Wolf 2018). In diesem Fall wurde der Index auf 
+Grundlage der zweistelligen Klassifikation der Berufs -
+klassen (KldB 2010) berechnet, da entsprechende Be -
+schäftigtendaten im Gegensatz zur Klassifikation der 
+Wirtschaftszweige (WZ 2008) auf Ebene der Kreise und 
+kreisfreien Städte ohne datenschutzbedingte Schwär -
+zungen verfügbar sind. Der HHI ist definiert als die 
+Summe der quadrierten Anteile aller Berufsklassen in 
+einer Region an der Gesamtbeschäftigung in dieser Re -
+gion. Sein theoretischer Wertebereich reicht von 0 bis 
+10.000, wobei der Wert 0 als maximale wirtschaftliche 
+Diversität und der Wert 10.000 als maximale Konzentra -
+tion beziehungsweise Spezialisierung interpretiert wer -
+den kann. Eine hohe regionalwirtschaftliche Diversifi -
+zierung wird allgemein mit einer größeren Resilienz ge -
+genüber globalen Krisen in Verbindung gebracht, da die 
+Abhängigkeit von einzelnen Branchen oder Tätigkeiten 
+geringer ist. Zu bedenken ist allerdings, dass ein gewis -
+ser Spezialisierungsgrad ebenfalls notwendig ist, um In -
+novationen und Wachstum zu generieren (Frenken et al. 
+2007).
+ • Den in der Karte zur Resilienz und Zukunftsfähigkeit 
+verwendeten Schienenerreichbarkeitsindikator hat das 
+ILS auf Grundlage des DELFI-Datensatzes entwickelt, 
+der die Fahrplandaten aller 6.115 Personenbahnhöfe in 
+Deutschland enthält. Die Bahnhöfe wurden anhand ih -
+rer Taktung im Nah- und Verkehr zwischen 6:00 und 
+22:00 Uhr auf einer Punkteskala von 0 bis 23 bewertet, 
+wobei 23 einer sehr hohen Frequenz der Abfahrten mit 
+durchschnittlich weniger als 5 Minuten Abstand im 
+Nahverkehr und durchschnittlich weniger als 15 Minu -
+ten Abstand im Fernverkehr entspricht. Die Taktung im 
+Nahverkehr hat bei der Bewertung ein um den Faktor 3 
+höheres Gewicht als die Taktung im Fernverkehr. An -
+schließend wurden auf Grundlage von geografischen 
+1-km²-Gitterzellen durchschnittliche Erreichbarkeiten 
+des nächstgelegenen Bahnhhofs (in Pkw-Minuten) er -
+mittelt. Mithilfe einer sogenannten Decay-Funktion 
+wurden dann distanzgewichtete Erreichbarkeitsindizes 
+für jede einzelne Gitterzelle berechnet. Im letzten 
+Schritt können die Werte dann bevölkerungsgewichtet 
+auf höhere räumliche Einheiten wie Gemeinden oder 
+Kreise und kreisfreie Städte aggregiert werden. Der fi -
+nale Schienenerreichbarkeitsindikator hat einen theore -
+tischen Wertebereich von 0 bis 23 (für weitere Details 
+zur Berechnung siehe Eichhorn et al. 2023).
+FRIEDRICH-EBERT -STIFTUNG
+39
+
+[[PAGE 40]]
+ • Für einige Indikatoren wird auch die Entwicklung über 
+die vergangenen fünf Jahre dargestellt (siehe Tabelle 2). 
+Diese Entwicklungen beziehen sich auf die in der Tabel -
+le genannten Zeiträume. Da amtliche Daten oftmals erst 
+mit einigen Jahren Verzug veröffentlicht werden, spie -
+geln sich einige aktuelle Entwicklungen, wie die länger -
+fristigen Auswirkungen der Coronapandemie oder die 
+negativen wirtschaftlichen Auswirkungen des Kriegs in 
+der Ukraine, noch nicht in den Daten wider. Die darge -
+stellten Entwicklungen sind auch nicht als direkte Fort -
+schreibung des vergangenen Disparitätenberichts 2019 
+zu verstehen, da die Definitionen der Indikatoren auf -
+grund der Datenverfügbarkeit in einigen Fällen ange -
+passt werden mussten.
+Die Auswahl der Indikatoren für die drei Clusteranalysen 
+erfolgte mit dem Anspruch, die verschiedenen Themenfel -
+der des Berichts abzudecken, ohne die Interpretationsfä -
+higkeit der Ergebnisse zu verkomplizieren. Aus der Erfah -
+rung der Raumanalyse weiß man nämlich, dass Cluster -
+analysen mit einem zu breiten Set an Indikatoren, die 
+möglicherweise noch auf ähnliche Sachverhalte abzielen, 
+nur noch schwierig zu erklären sind. Als Algorithmus für 
+die Clusteranalyse wurde das bereits in den Vorgängerstu -
+dien etablierte hierarchische Verfahren nach Ward ausge -
+wählt, bei dem die einzelnen Kreise schrittweise zu immer 
+größeren Clustern zusammengeführt werden. Dabei wird 
+für jeden Cluster die Summe der quadrierten Distanzen 
+der Einzelfälle vom jeweiligen Clustermittelpunkt im  
+n-dimensionalen Raum berechnet. Diese Werte werden 
+aufsummiert. Im nächsten Schritt werden jeweils die zwei 
+Cluster fusioniert, deren Zusammenfügen die geringste 
+Erhöhung der Gesamtsumme der quadrierten Distanzen 
+zur Folge hat. Es ist dabei die freie Entscheidung der_des 
+Forschenden, an welcher Stelle dieser Prozess gestoppt 
+wird und zu wie vielen Clustern die Beobachtungen im 
+Endergebnis zusammengeführt werden. 
+Auch wenn die fünf Raumtypen der Disparitätenkarte 
+starke Überschneidungen mit den Raumtypen der Dispari -
+tätenkarte von 2019 aufweisen, sollten die beiden Karten 
+nicht direkt miteinander verglichen werden. Zum einen 
+hat sich die Datenquelle und/oder Definition der für die 
+Clusteranalyse verwendeten Indikatoren in einigen Fällen 
+aufgrund der aktuell verfügbaren Daten geändert, sodass 
+die genutzten Variablen nicht eins zu eins miteinander ver -
+gleichbar sind. Zum anderen ist die Clusteranalyse als ex -
+ploratives statistisches Verfahren grundsätzlich nicht gut 
+für die vergleichende Analyse unterschiedlicher Zeit -
+schnitte geeignet. Der oben beschriebene Algorithmus 
+führt alle 400 Landkreise und kreisfreien Städte nach und 
+nach anhand ihrer Ähnlichkeit in allen verwendeten Indi -
+katoren zu den dargestellten Clustern zusammen. Dabei 
+gibt es natürlich Grenzfälle, die in ihrer Indikatorenkons -
+tellation zwischen zwei oder mehreren Clustern stehen. 
+Minimalste Änderungen der Werte (bei den betroffenen 
+Kreisen, aber auch bei allen anderen Kreisen innerhalb der 
+Cluster) können in diesen Fällen im Rahmen des iterativen 
+Clusterprozesses zu einer geänderten Zuordnung führen. 
+Eine andere Clusterzugehörigkeit als in der Disparitäten -
+studie 2019 sollte deshalb auf keinen Fall als „Auf-“ oder 
+„Abstieg“ des betroffenen Kreises oder der kreisfreien 
+Stadt missverstanden werden.
+Zur Beschreibung der Cluster beziehungsweise Raum -
+typen werden deren Mittelwerte in den Tabellen mit dem 
+Mittelwert aller 400 Kreise und kreisfreien Städte in 
+Deutschland verglichen. Die Abweichungen vom Mittel -
+wert werden mit Symbolen dargestellt (für statistische 
+Werte: stark überdurchschnittlich: ++, überdurchschnitt -
+lich: +, durchschnittlich: o, unterdurchschnittlich: -, stark 
+unterdurchschnittlich: --); die Grenzen zwischen diesen 
+Kategorien orientieren sich an der Standardabweichung 
+des dargestellten Indikators. Stark überdurchschnittlich ist 
+demnach ein Wert, der um mindestens eine Standardab -
+weichung über dem Durchschnitt aller Kreise liegt,  
+überdurchschnittlich ist ein Wert, der um mindestens  
+0,25 Standardabweichungen über dem Durchschnitt liegt. 
+Um die Veränderung der Clustermittelwerte darzustellen, 
+wird eine abweichende Symbolik mittels Pfeilen verwendet 
+(starker Anstieg , Anstieg , Stagnation , Rückgang , 
+starker Rückgang ). Ein starker Anstieg ist demnach als 
+Anstieg um mehr als eine Standardabweichung zu verste -
+hen. Veränderungen von weniger als 0,25 Standardabwei -
+chungen werden hingegen als Stagnation definiert. Um die 
+Interpretation zu erleichtern, sind die Symbole zudem in 
+Farben hinterlegt, die eine normative Einordnung der Mit -
+telwertabweichungen ermöglichen. Grüntöne symbolisie -
+ren in diesem Sinne eine positive Abweichung oder Ent -
+wicklung, Rottöne sind negativ zu interpretieren. 
+In Ergänzung zu den vier Raumtypen der Karte zur Re -
+silienz und Zukunftsfähigkeit werden im Bericht außer -
+dem fünf Fallstudienregionen vorgestellt, um die Vielfalt 
+der Indikatorenkonstellationen und Abweichungen inner -
+halb der Raumtypen zu illustrieren. In den dazugehörigen 
+Abbildungen werden die Abweichungen vom gesamtdeut -
+schen Mittelwert sowie vom Mittelwert des jeweiligen 
+Raumtyps mithilfe von z-standardisierten Werten der elf 
+Indikatoren dargestellt. Die z-Standardisierung ist eine 
+Methode, um Indikatoren mit unterschiedlichen Werteaus -
+prägungen auf einer einheitlichen Skala darstellen und ver -
+gleichbar machen zu können. Die so standardisierten Wer -
+te sind als Abweichungen vom bundesweiten Mittelwert in 
+Standardabweichungen des jeweiligen Indikators zu verste -
+hen. Der Wert 0 repräsentiert also den bundesweiten Mit -
+telwert, eine positive Abweichung von diesem Mittelwert 
+um eine Standardabweichung hat den Wert 1, eine negative 
+Abweichung um eine Standardabweichung entspricht äqui -
+valent dem Wert –1. 
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+40
+
+[[PAGE 41]]
+Anhang C: 
+WERTEBEREICHE DER INDIKATOREN
+Indikator Jahr Wertebereich von … bis
+Anteil der SV-Beschäftigten mit 
+Hochschulabschluss 2021 6,8 % (Wittmund) bis 47,1 % (Heidelberg)
+Kinderarmut 2020 1,8 % (Pfaffenhofen/Ilm) bis 40,4 % (Gelsenkirchen)
+Altersarmut 2020 0,5 % (u. a. Erzgebirgskreis) bis 9,4 % (Offenbach a. M.)
+Erreichbarkeit von Allgemein -
+mediziner_innen 2020 2,1 Minuten (München) bis 9,6 Minuten (Uckermark)
+Mittlere Lebenserwartung eines 
+Neugeborenen 2017–2019 78,1 Jahre (Bremerhaven) bis 83,7 Jahre (Starnberg)
+Mediangehälter am Wohnort 2021 2.636 EUR/Monat (Görlitz) bis 4.579 EUR/Monat (Erlangen)
+Breitbandanschluss 2022 27,6 % (Odenwaldkreis) bis 100 % (Offenbach a. M.)
+Kommunale Schulden 2020 0 EUR/Einwohner_in (Stuttgart) bis 9.868 EUR/Einwohner_in (Pirmasens)*
+Wahlbeteiligung 2021 63,4 % (Salzlandkreis) bis 85,5 % (Starnberg)
+Wanderungssaldo 2018–2020 –653 pro 100.000 Einwohner_innen (Heidelberg) bis 1.613 pro 100.000 Einwohner_in -
+nen (Barnim)
+Mietbelastungsquote 2020, 
+2021, 2023 12,7 % (Erzgebirgskreis) bis 29,4 % (Merzig-Wadern)
+Wirtschaftliche Diversität: 
+ Herfindahl-Hirschman-Index 2022 836,6 (Nordwestmecklenburg) bis 2.055,6 (Wolfsburg)
+Anteil von Wissensberufen:  
+SV-Beschäftigte in 
+ wissensintensiven Berufen
+2022 11,1 % (Dingolfing-Landau) bis 43,1 % (Main-Taunus-Kreis)
+Gründungsintensität:  
+Saldo aus Firmengründungen 
+und -löschungen 
+2020 –5,2 je 1.000 Unternehmen (Hof) bis 37,1 je 1.000 Unternehmen (Bonn)
+Patentanmeldungen 2019–2022 3 Anmeldungen/100.000 Einwohner_innen (Dessau-Roßlau) bis  
+5.003 Anmeldungen/100.000 Einwohner_innen (Erlangen-Höchstadt)
+Verhältnis junger zu alten 
+ Beschäftigten 2022 28,1 % (Spree-Neiße) bis 80,5 % (Cloppenburg)
+Anteil ausländischer 
+ Hochqualifizierter 2022 4,6 % (Greiz) bis 24,8 % (Erding)
+Betreuungsquote von 
+ Kleinkindern unter drei Jahren 2021 16,4 % (Memmingen) bis 65 % (Spree-Neiße)
+Kommunale Sachinvestitionen 2018–2020 60 EUR/Einwohner_in (Flensburg) bis 1.397 EUR/Einwohner_in (Dingolfing-Landau)*
+Glasfaserausbau 2022 8,6 % (Altenkirchen) bis 99,9 % (Ingolstadt)
+Installierte Leistung 
+ erneuerbarer Energien 2021 52 kW pro km² (Garmisch-Partenkirchen) bis 2.096 kW pro km² (Emden)
+Schienenerreichbarkeit 2022 1,4 (Lüchow-Dannenberg) bis 21,8 (Bamberg)
+Beschäftigtenanteil in 
+ energieintensiven Industrien 2021 0,2 % (Wolfsburg) bis 32,3 % (Altötting)
+Beschäftigtenanteil im 
+ Automobilsektor 2020 3,6 % (Mettmann, Ilm-Kreis, Starnberg, Enzkreis, Traunstein) bis 43,7 % (Wolfsburg)**
+* ohne die Stadtstaaten Berlin, Bremen, Hamburg; ** Kreise mit unterdurchschnittlichen Anteilen nicht im Datensatz enthalten
+FRIEDRICH-EBERT -STIFTUNG
+41
+
+[[PAGE 42]]
+LITERATURVERZEICHNIS
+Albrech, Joachim; Fink, Philipp; Tiemann, Heinrich 2016:  Unglei -
+ches Deutschland: Sozioökonomischer Disparitätenbericht 2015, 
+Bonn.
+Altemeyer-Bartscher, Martin; Gropp, Reint; Haug, Peter o. J.:  
+Der demographische Wandel und kommunale Investitionen. IWH On -
+line, Halle (Saale). Zugriff: https://www.iwh-halle.de/publikationen/
+detail/der-demographische-wandel-und-kommunale-investitionen/ 
+(abgerufen am 19.7.2023).
+Baumgart, Sabine; Köckler, Heike; Ritzinger, Anne; Rüdiger, An -
+drea 2018:  Planung für gesundheitsfördernde Städte. Forschungsbe -
+richte der ARL, Bd. 8, Hannover.
+BBSR (Bundesinstitut für Bau-, Stadt- und Raumforschung) 
+2014: Wie können Kommunen für qualifizierte Zuwanderer attraktiv 
+werden? BBSR-Online-Publikation, 10/2014, Bonn. Zugriff: https://
+www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2014/
+DL_ON102014_neu.pdf  (abgerufen am 19.7.2023).
+BBSR (Bundesinstitut für Bau-, Stadt- und Raumforschung) 
+2022: Räumliche Effekte reaktivierter Schienenstrecken im ländlichen 
+Raum. BBSR-Online-Publikation, 27/2022, Bonn. Zugriff: https://
+www.bbsr.bund.de/BBSR/DE/veroeffentlichungen/bbsr-online/2022/
+bbsr-online-27-2022-dl.pdf?__blob=publicationFile&v=4  (abgerufen 
+am 19.4.2023) .
+Block, Jörn; Moritz, Alexandra; Benz, Lena; Johann, Matthias 
+2021: Hidden Champions in Nordrhein-Westfalen. Studie im Auftrag 
+des Ministeriums für Wirtschaft, Innovation, Digitalisierung und Ener -
+gie des Landes Nordrhein-Westfalen, Düsseldorf.
+Bonin, Holger; Rinne, Ulf 2022:  Die Zeitenwende erreicht den 
+deutschen Arbeitsmarkt, in: Wirtschaftsdienst 102 (9), S. 665–668.
+Brenke, Karl, 2022:  Zu wenig qualifizierte Arbeitskräfte für prakti -
+sche Tätigkeiten, in: Wirtschaftsdienst 102 (9), S. 677–679.
+Calderón, Mariano; Niehues, Judith; Stockhausen, Maximilian 
+2020: Wie verteilt sich der Wohlstand in Deutschland? IW-Trends, 
+3/2020, Köln.
+Decker, Oliver; Kiess, Johannes; Brähler, Elmar 2023:  Autoritäre 
+Dynamiken und die Unzufriedenheit mit der Demokratie. EFBI Policy 
+Paper, 2023-2, Leipzig.
+Degen, Christel; Hennicke, Martin 2022:  Proaktive Strukturpolitik. 
+FES kompakt, Bonn. Zugriff: https://www.fes.de/themenportal-wirt -
+schaft-finanzen-oekologie-soziales/artikelseite/fes-kompakt-proakti -
+ve-strukturpolitik  (abgerufen am 14.2.2023).
+Dengler, Katharina; Matthes, Britta 2018:  Substituierbarkeitspo -
+tenziale von Berufen: Wenige Berufsbilder halten mit der Digitalisie -
+rung Schritt, IAB-Kurzbericht, 4/2018, Nürnberg.
+Eichhorn, Sebastian; Gerten, Christian; Heider, Bastian 2023:  
+Measuring and assessing train station accessibility of German munici -
+palities. Unveröffentlichtes Manuskript.
+Farhauer, Oliver; Kröll, Alexandra 2009:  Verfahren zur Messung 
+räumlicher Konzentration und regionaler Spezialisierung in der Regio -
+nalökonomik. Passauer Diskussionspapiere – Volkswirtschaftliche Rei -
+he, V-58-09, Passau.
+Filippetti, Andrea; Gkotsis, Petros; Vezzani, Antonio; Zinilli, An -
+tonio 2020:  Are innovative regions more resilient? Evidence from 
+Europe in 2008–2016, in: Economia Politica 37 (3), S. 807–832.
+Fina, Stefan; Osterhage, Frank; Rönsch, Jutta; Rusche, Karsten; 
+Siedentop, Stefan; Zimmer-Hegmann, Ralf; Danielzyk, Rainer 
+2019: Ungleiches Deutschland. Sozioökonomischer Disparitätenbe -
+richt 2019. Hintergründe zu Trends, Indikatoren, Analysen, Bonn.
+Fink, Philipp; Hennicke, Martin; Tiemann, Heinrich 2019:   
+Ungleiches Deutschland. Sozioökonomischer Disparitätenbericht, 
+Bonn.
+Florida, Richard; Rodríguez-Pose, Andrés; Storper, Michael 
+2023: Critical Commentary: Cities in a post-COVID world, in: Urban 
+Studies 60 (8), S. 1509–1531.
+Frenken, Koen; van Oort, Frank; Verburg, Thijs 2007:  Related 
+Variety, Unrelated Variety and Regional Economic Growth, in: Regio -
+nal Studies 41 (5), S. 685–697.
+Friedrichsen, Jana; Schmacker, Renke 2019:  Die Angst vor Stigma -
+tisierung hindert Menschen daran, Transferleistungen in Anspruch zu 
+nehmen, in: DIW Wochenbericht 26/2019, S. 455–462.
+Fuchs-Rechlin, Kirsten; Bergmann, Christian 2014:  Der Abbau 
+von Bildungsbenachteiligung durch Kindertagesbetreuung für unter 
+3-Jährige – zwischen Wunsch und Wirklichkeit, in: Zeitschrift für Er -
+ziehungswissenschaft 17 (S2), S. 95–118.
+Grabka, Markus M.; Westermeier, Christian 2014:  Anhaltend 
+hohe Vermögensungleichheit in Deutschland, in: DIW Wochenbericht 
+9/2014, S. 152–165.
+Habekuß, Fritz 2017:  Regionale Auswirkungen des demografischen 
+Wandels. Zugriff: https://www.bpb.de/themen/soziale-lage/demo -
+grafischer-wandel/195358/regionale-auswirkungen-des-demografi -
+schen-wandels/ (abgerufen am 21.08.2023)
+Heckel, Margaret 2017:  Auswirkungen des Demografischen Wan -
+dels auf Wirtschaft und Arbeit. Zugriff: https://www.bpb.de/themen/
+soziale-lage/demografischer-wandel/195360/auswirkungen-des-de -
+mografischen-wandels-auf-wirtschaft-und-arbeit/  (abgerufen am 
+29.3.2023).
+Heidenreich, Martin; Mattes, Jannika 2018:  Regionale Innova -
+tionssysteme und Innovationscluster, in: Blättel-Mink, Birgit; Schulz-
+Schaeffer, Ingo; Windeler, Arnold (Hrsg.): Handbuch Innovationsfor -
+schung, Wiesbaden, S. 1–17.
+Heider, Bastian; Stroms, Peter; Koch, Jannik; Siedentop, Stefan 
+2020: Where do immigrants move in Germany? The role of interna -
+tional migration in regional disparities in population development, in: 
+Population, Space and Place 26 (8), Artikel e2363.
+Helbig, Marcel; Jähnen, Stefanie 2018:  Wie brüchig ist die soziale 
+Architektur unserer Städte? Trends und Analysen der Segregation in 
+74 deutschen Städten. WZB Discussion Paper, P 2018-001, Berlin.
+Hennicke, Martin 2021:  Präventive Strukturpolitik und regionale 
+Transformationsprozesse. Ein Diskussionspapier zum Stand in Wissen -
+schaft und Praxis, Berlin. Zugriff: https://www.dgb-bestellservice.de/
+praeventive-strukturpolitik-und-regional-126021588.html  (abgerufen 
+am 10.8.2023).
+Hövermann, Andreas; Kohlrausch, Bettina; Voss, Dorothea 
+2021: Anti-demokratische Einstellungen. Der Einfluss von Arbeit, Di -
+gitalisierung und Klimawandel. Hans-Böckler-Stiftung, Forschungsför -
+derung Policy Brief, Bd. 007, Düsseldorf.
+IW (Institut der deutschen Wirtschaft) 2023:  Energieintensive 
+Branchen in Deutschland geschwächt. Zugriff: https://www.iwd.de/
+artikel/energieintensive-branchen-in-deutschland-geschwa -
+echt-576449/  (abgerufen am 26.7.2023).
+Kempermann, Hanno; Ewald, Johannes; Fritsch, Manuel; Kop -
+pel, Oliver; Zink, Bettina; Potinecke, Thomas; Ardillo, Antonio; 
+Müller, Benedikt 2021:  Wirtschaftliche Bedeutung regionaler Auto -
+mobilnetzwerke in Deutschland. Studie für das Bundesministerium 
+für Wirtschaft und Energie (BMWi), Köln.
+UNGLEICHES DEUTSCHLAND: WISSENSCHAFTLICHER HINTERGRUNDBERICHT SEPTEMBER 2023 FES DISKURS
+42
+
+[[PAGE 43]]
+Krasilnikova, Nadezda; Levin-Keitel, Meike 2022:  Mobile Arbeit 
+aus sozioräumlicher Perspektive: Co-Working Spaces als Chance für 
+suburbane und ländliche Räume?, in: Raumforschung und Raumord -
+nung 80 (3), S. 360–372.
+Maretzke, Steffen; Ortwein, Steffen 2012:  Leistungsfähige Breit -
+bandversorgung für ländliche Räume. Sachstand, Initiativen und bis -
+herige Resultate. BBSR-Analysen KOMPAKT, 04/2012, Bonn.
+McCann, Philip 2020:  Perceptions of regional inequality and the 
+geography of discontent: insights from the UK, in: Regional Studies 
+54 (2), S. 256–267.
+McCann, Philip; Soete, Luc 2020:  Place-based innovation for sustai -
+nability, Luxembourg.
+Münter, Angelika; Garde, Lisa; Osterhage, Frank 2022:  Wohnen 
+nach Corona. Einflüsse der Pandemie auf Wohnstandortentscheidun -
+gen. ILS-Impulse, 02/22, Dortmund.
+OECD (Organisation for Economic Co-operation and Develop -
+ment) 2022:  Bildung auf einen Blick 2022, Paris.
+Pike, Andy; Dawley, Stuart; Tomaney, John 2010:  Resilience, ad -
+aptation and adaptability, in: Cambridge Journal of Regions, Econo -
+my and Society 3 (1), S. 59–70.
+Rodríguez-Pose, Andrés 2018:  The revenge of the places that don’t 
+matter (and what to do about it), in: Cambridge Journal of Regions, 
+Economy and Society 11 (1), S. 189–209.
+Röhl, Klaus-Heiner; Heuer, Leonie 2021:  Unternehmensgründun -
+gen und Wirtschaftswachstum im internationalen Vergleich: Inwie -
+weit dienen Gründungen und Venture Capital als Wachstumstreiber? 
+IW-Report 44/2021, Köln.
+Schiller, Daniel 2021:  Innovationen und Wertschöpfung in ländli -
+chen Räumen. Zugriff: https://www.bpb.de/themen/stadt-land/laend -
+liche-raeume/334151/innovationen-und-wertschoepfung-in-laendli -
+chen-raeumen/  (abgerufen am 31.7.2023).
+Siedentop, Stefan; Osterhage, Frank; Münter, Angelika 2020:  
+„Abstimmen mit den Füßen“: Migration und Wanderung als raum- 
+und stadtgestaltende Prozesse, in: ILS-Journal, 1/20, S. 1–2.
+Siedentop, Stefan; Zimmer-Hegmann, Ralf 2020:  COVID-19 und 
+die Zukunft der Städte. Verändert die Pandemie das Verständnis von 
+nachhaltiger Stadtentwicklung? ILS-Impulse, 1/20, Dortmund.
+Statistisches Bundesamt 2021:  Bruttoinlandsprodukt im Jahr 2020 
+um 5,0 % gesunken, Wiesbaden.
+Statistisches Bundesamt 2023:  1,1 Millionen Zuzüge von Men -
+schen aus der Ukraine im Jahr 2022, Wiesbaden.
+Umweltbundesamt (Hrsg.) 2023:  Teilbericht: Klimaschutzinstru -
+mente-Szenario 2030 (KIS-2030) zur Erreichung der Klimaschutzziele 
+2030, Dessau-Roßlau.
+Vöpel, Henning; Wolf, André 2018:  Regionalwirtschaftliche Resi -
+lienz in Zeiten strukturellen Wandels, in: Wirtschaftspolitische Blätter 
+2, S. 221–232. Zugriff: https://www.wko.at/site/Wirtschaftspolitisch -
+eBlaetter/voepel-wolf-2-2018.pdf  (abgerufen am 29.3.2023).
+Weck, Sabine 2021:  Eine Frage der Gerechtigkeit. Wie lokale Projek -
+te zu einer gerechten Raumentwicklung beitragen. ILS-Impulse, 3/21, 
+Dortmund.
+Weck, Sabine; Dobusch, Diane; Pfaffenbach, Carmella; Fina, 
+Stefan; Schmitz, Julian 2023:  New peripheries in the making? Ana -
+lysing German cities from the lens of a suburbanisation of poverty, in: 
+Journal of Housing and the Built Environment. Online-Vorveröffentli -
+chung. Zugriff: https://doi.org/10.1007/s10901-023-10036-y (abge -
+rufen am 21.08.2023)
+Wink, Rüdiger (Hrsg.) 2016:  Multidisziplinäre Perspektiven der Resi -
+lienzforschung. Studien zur Resilienzforschung, Wiesbaden.
+Wink, Rüdiger; Kirchner, Laura; Koch, Florian 2015:  Wirtschaft -
+liche Resilienz in deutschsprachigen Regionen, Wiesbaden.
+FRIEDRICH-EBERT -STIFTUNG
+43
+
+[[PAGE 44]]
+Impressum
+2023
+Friedrich-Ebert-Stiftung
+Herausgeberin: Abteilung Analyse, 
+Planung und Beratung
+Hiroshimastraße 17, 10785 Berlin, 
+Deutschland
+www.fes.de
+WEITERE VERÖFFENTLICHUNGEN DIESER REIHE 
+Ungleiches Deutschland: Sozioökonomischer 
+Disparitätenbericht 2019 
+ Studie 2019
+Ungleiches Deutschland: Sozioökonomischer 
+Disparitätenbericht 2015 
+ Studie 2015
+Volltexte und weitere Publikationen der Friedrich-Ebert-Stiftung unter
+www.fes.de/publikationen
+ISBN: 978-3-98628-409-1 
+CC-Lizenz: CC BY-NC-ND 4.0
+Titelbild: SCHUMACHER — Brand + Interaction Design GmbH  
+Gestaltungskonzept: www.leitwerk.com 
+Umsetzung / Satz: SCHUMACHER — Brand + Interaction Design GmbH
+ Die in dieser Publikation zum Ausdruck gebrachten Ansichten sind nicht notwendigerweise die der Friedrich-Ebert-  
+Stiftung. Eine gewerbliche Nutzung der von der FES herausgegebenen Medien ist ohne schriftliche Zustimmung durch die 
+FES nicht gestattet. Publikationen der Friedrich-Ebert-Stiftung dürfen nicht für Wahlkampfzwecke verwendet werden.
+
+[[PAGE 45]]
+Deutschland blickt auf ein prosperierendes Jahrzehnt mit einer Rekordzahl an Beschäftigten  
+und stabilem Wirtschaftswachstum zurück.
+Aber Wohlstand und Zukunftschancen sind immer noch nicht gleich verteilt. Das Ziel der 
+ gleichwertigen Lebensverhältnisse ist bisher nicht erreicht. Der Sozioökonomische Disparitäten-
+bericht 2023 geht der Frage nach, wie sich Deutschlands Regionen in den letzten Jahren 
+ entwickelt haben und wie sie für zukünftige Transformationsherausforderungen aufgestellt sind. 
+ 
+ISBN 978-3-98628-409-1

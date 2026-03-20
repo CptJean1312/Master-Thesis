@@ -1,0 +1,936 @@
+[[PAGE 1]]
+ContentslistsavailableatScienceDirect
+JournalofEnvironmentalManagement
+journal homepage: www.elsevier.com/locate/jenvman
+Researcharticle
+DisparitiesofpopulationexposedtofloodhazardsintheUnitedStates
+YiQiang
+Department of Geography and Environment, University of Hawaii - Manoa, Saunders 416, 2424 Maile Way, Honolulu, HI, 96822, USA
+ARTICLEINFO
+Keywords:
+Floodhazard
+Populationexposure
+Disadvantagedpopulation
+Vulnerability
+Socio-economicdisparities
+Environmentaljustice
+ABSTRACT
+This study integrates publicly available datasets to provide a county-based assessment of socio-economic dis-
+paritiesofpopulationexposuretofloodhazardsintheUnitedStates.Statisticalanalyseswereappliedtoreveal
+thenationaltrendsandlocaldeviationsfromthetrends.Resultsshowthatapproximately21.8million(6.87%
+of)U.S.populationareexposedto100-year-floodin2015,andmostoftheexposureisnearwaterbodies(e.g.
+oceanandrivers).Additionally,communitiesnearwaterbodiesaremoreresponsivetopotentialfloodhazards
+by avoiding residence in flood zones than inland communities. At the national scale, economically dis-
+advantaged population are more likely to reside in flood zones than outside. At the local scale, economically
+disadvantaged population tend to reside in flood zones in inland areas, while coastal flood zones are more
+occupiedbywealthierandelderlypeople.Thesefindingspointtoanalarmingsituationofinlandcommunities
+wherepeoplearegenerallylessresponsivetofloodhazardsandpeopleinfloodzonesareinalowereconomic
+condition.Using“hotspot”analysis,localclustersofdisadvantagedpopulationgroupswithhighfloodexposure
+wereidentified.Overall,thisstudyprovidesimportantbaselineinformationforpolicymakingatdifferentlevels
+ofadministrationandpinpointslocalareaswherediversifiedandadhocstrategiesareneededtomitigateflood
+risk in communities with diverse socio-economic conditions. This study provides empirical evidence of socio-
+economicdisparitiesandenvironmentalinjusticeassociatedwithfloodexposureintheU.S.andoffersvaluable
+insightstotheunderlyingfactors.
+1. Introduction
+Floods are the most common and costliest natural hazards in the
+United States in terms of lives and property losses (FEMA, 2004). In
+additiontothechangingclimateandrisingsealevel,theriskofflood
+for human societies is also intensified by population growth and de-
+mographic transformation in coastal and inland floodplains
+(McGranahan et al., 2007;Neumann et al., 2015). Flood risk can be
+generallyconsideredasa functionofthefloodhazard,floodexposure
+andvulnerability(IPCC,2012;Koksetal.,2015).Theimpactofaflood
+hazardisgreatlydependentonthelevelofvulnerabilityandexposure
+of human communities to the hazard. Vulnerability and exposure are
+varying across space and time, and dependent on economic, social,
+geographic, demographic, cultural, institutional, governance, and en-
+vironmentalconditions(Cutteretal.,2010;Koksetal.,2015;DeMoel
+etal.,2011).Floodexposurecanbemitigatedbyhumaninterventions
+such as land use control, population relocation and building levees
+alongriversandcoasts(WheaterandEvans,2009;Pottieretal.,2005).
+Adaptation and mitigation practices will be more successful if the dy-
+namic nature of vulnerability and exposure is taken into account. In
+contrast,highvulnerabilityandexposureareusuallyproductsofsocio-
+economic disparities and unsustainable development such as environ-
+mental mismanagement, inappropriate urban planning, and failed
+governance.
+A spatial assessment of flood risk can be conducted by super-
+imposing the spatial distributions of its components (i.e. hazard, ex-
+posure and vulnerability). The locality offlood hazardsis usually esti-
+mated by hydrologic and hydraulic models that take into account
+topography, frequency of extreme rainfall and run-offs, and human
+structures(suchaslevees)(Wingetal.,2017;Sampsonetal.,2015).For
+instance, the flood maps of U.S. Federal Emergency Management
+Agency (FEMA) have delineated flood zones with a 100-year return
+period in most of the inhabited territory of the U.S. Assessments of
+vulnerabilityareusually based onan index approachthataggregates a
+varietyofsocio-economicand environmentalvariablesinto anoverall
+index describing vulnerability at different geographic scales (Cutter
+et al., 2003;Yusuf and Francisco, 2009;Nelson et al., 2010). Similar
+approaches have been applied to assess a closely-related concept, re-
+silience,whichisoftenconsideredtheoppositeofvulnerability(Adger
+etal.,2005;Cutteretal.,2010;Lametal.,2016;Caietal.,2016,2018).
+As the focus of this study,flood exposureis usually assessed by inter-
+secting the distributions of flood hazard and population (e.g.Thieken
+https://doi.org/10.1016/j.jenvman.2018.11.039
+Received1July2018;Receivedinrevisedform17September2018;Accepted13November2018
+E-mail address:yiqiang@hawaii.edu.
+Journal of Environmental Management 232 (2019) 295–304
+Available online 24 November 2018
+0301-4797/ © 2018 Elsevier Ltd. All rights reserved.
+T
+
+[[PAGE 2]]
+et al., 2016;Jongman et al., 2014;Wing et al., 2018). Thus, an ex-
+tensivespatialassessmentoffloodexposurerequireslarge-scalepopu-
+lation and flood hazard data derived by standardized approaches. At
+the national scale,Qiang et al. (2017)have conducted a county-level
+assessmentofpopulationexposuretofloodhazardsforthecontiguous
+United States by intersecting the FEMA flood maps and a 30 m popu-
+lationgrid.Usingasimilarapproach,Wingetal.(2018)hasapplieda
+differentfloodmodeltoestimatepopulationandGDPexposuretoflood
+hazardinthecontiguousU.S.Attheglobalscale,Jongmanetal.(2012)
+provided country-based assessment of urban and population exposure
+tofloodhazardsbycombiningmultipleflooddatabases.
+Theoretically, urban and population development in flood-prone
+areasshouldbeavoidedoratleastminimizedinordertoreduceflood
+exposure. However, urban and population growth continues at flood-
+prone areas (De Moel et al., 2011;Jongman et al., 2012,Collenteur
+etal.,2015),wherepolitical,culturalandeconomicfactorsoftencause
+disproportionate exposure of some ratio/ethnic minorities and dis-
+advantaged population groups to flood hazard. For instance, poor
+peoplemaybedisproportionatelyexposedtofloodhazardsduetothe
+amenities (e.g. employment, education, and transportation) and low
+property prices in flood-prone areas (Winsemius et al., 2018;Bin and
+Landry, 2013;Beltrán et al., 2018). Meanwhile, population in flood
+zoneshaveahigheroddofbeingaffectedbyfloodhazardstofallinto
+poverty or be trapped in poverty (Masozera et al., 2007). Such dis-
+proportionate exposure to environmental risk has been widely dis-
+cussed in literature of environmental justice (e.g.Cutter, 2012;
+Chakrabortyetal.,2011;Morello-Froschetal.,2001).Empiricalstudies
+have uncovered environmental injustice associated with different ha-
+zardsinlocalareas.Forinstance,UelandandWarf(2006)examinedthe
+altitudinalresidentialsegregationin146citiesinthesouthernU.S.and
+foundthatblacksaredisproportionatelyconcentratedinlower-altitude
+(flood-prone) areas in the inland cities and an inverse trend near the
+coast, where whites dominate higher-valued coastal properties. By in-
+tersectingdemographicdatawithFEMAfloodmaps,Montgomeryand
+Chakraborty(2015)revealedthatsomeethnicminoritygroupsarein-
+equitably exposed to flood risks in Miami, Florida. Additionally,
+MaantayandMaroko(2009)appliedadasymetricmethod,whichisa
+populationmappingtechnique(Mennis,2015),toassessenvironmental
+justiceofpopulationexposedtofloodriskinNewYorkCity.
+Beyondthepreviousstudiesthatfocusedonlocalareas,thisstudy
+providesnationwidecounty-basedassessmentsofpopulationexposure
+to flood hazards and socio-economic disparities of the exposed popu-
+lation in the United States. By intersecting the spatial distributions of
+population and floodhazards, the exposure of population to flood ha-
+zardswasestimated.Inthisstudy,thespatialdistributionoffloodha-
+zards was represented by the 100-year-flood (also known as flood of
+more1percentannualchance)zonesdefinedintheFederalEmergency
+Management Agency (FEMA) flood maps. The population distribution
+was downscaled from Census data at a block group level onto 30m-
+resolutionlandcoverdata.Finally,floodexposurewasquantifiedasthe
+countandratioofpopulationlocatedin100-year-floodzonesforeach
+county. In addition to total population, a number of disadvantaged
+population groups that are often considered vulnerable to natural ha-
+zardsinliteraturewerestudiedrespectively.Themajorcontributionsof
+this study can be summarized as follows. First, it provides a county-
+levelassessmentofpopulationexposuretofloodhazardsfortheentire
+UnitedStatesusingupdateddataandarefinedpopulationdownscaling
+approach.Second,thisstudyisthefirstquantitativeassessmentofthe
+disparitiesofpopulationexposedtofloodhazardsintheUnitedStates.
+Theassessmentresultsuncoverthegeneraltrendsoffloodexposureof
+the total population and disadvantaged population groups. Spatial
+analyses reveal local deviations from the general trends. This study
+provides empirical evidence of socio-economic disparities and en-
+vironmental injustice associated with flood exposure in the U.S. and
+offersvaluableinsightstotheunderlyingfactors.
+2. Data acquisition and processing
+2.1. Flood zone determination
+The spatial distribution of flood hazards was represented by the
+100-year-flood zone in the FEMA flood maps, which is a national
+standard used by FEMA and all federal agencies for the purposes of
+requiring and rating flood insurance and regulating new development
+infloodplains.TheFEMAfloodmapsarestoredaspolygonsintheESRI
+shapefile format, which can be freely downloaded from FEMA Flood
+Map Service Center (https://msc.fema.gov/portal). The FEMA flood
+mapswerethenconvertedintoa30m-resolutionrastertobeoverlaid
+withthepopulationdata.Atthemomentofthestudy,theFEMAflood
+mapshavenotcoveredtheentireterritoryoftheUnitedStates,butitis
+continuously updating with newly published maps and appealed revi-
+sions.Thedatabaseincludeseffectiveandpreliminaryfloodmaps.The
+former is officially published, whereas the latter is not official and in
+the public appeals period during which relevant stakeholders can ap-
+peal information contained in the preliminary maps (FEMA, 2017b).
+Despite the unofficial status, the preliminary maps present the best
+information available at the current time and provide the public an
+earlylookattheirhomeorcommunity'sprojectedrisktofloodhazards.
+To create a more extensive assessment of the United States, both ef-
+fectiveandpreliminaryfloodmapswereusedforanalysisinthisstudy.
+The flood maps used in this study (acquired in September 2017)
+covers57.3%oftheterritoryofthe50UnitedStates,including98.1%
+effectiveand1.9%preliminaryfloodmaps.Thecoverageoffloodmaps
+variesfromcountytocounty.Ingeneral,mostcountieswithamoderate
+population density are covered by flood maps. Large blank areas of
+floodmapsaredistributedinAlaskaandthemiddleandwesternareas
+of the contiguous U.S. where the population density is low and the
+demand for flood maps is less pressing. Some small blanks in coastal
+areas (such as Mississippi Delta) can be a result of local conflicts in
+flood zone delineation (Linskey, 2013). In this study, counties with>
+5%ofareacoveredbyfloodmapswereincludedforanalysis,leading
+to 2351 qualified counties out of the 3142 counties (74.8%) in the
+UnitedStates(seeFig.1).Mostofthecountieswithapartialfloodmap
+coveragearelocatedinsparselypopulatedareas,wherefloodmapsare
+only available in the population clusters. The 2351 qualified counties
+contain 93.6% of the U.S. population. Thus, the analyses conducted
+withthesecountiesgenerallyreflectthenationaltrends.
+The flood maps classify geographic areas into three general categories
+according to the annual chance of flood inundation. First, high flood risk
+zonesaredefinedasareasthathaveequaltoormorethan1percentchance
+ofbeinginundatedbyfloodinanygivenyear(FEMA,2017a).The1percent
+chancefloodisalsotermedbasefloodor100-yearflood.FEMAdefinesthe
+100-year-flood zones as Special Flood Hazard Area (SFHA) in which
+floodplainmanagementregulationsmustbeenforcedandpurchaseofflood
+insurance is mandatory (FEMA, 1986). Second, moderate–low flood risk
+zones are defined as areas that have less than 1 percent annual flood
+chance. Third, undetermined flood zones are areas where flood chance is
+possiblebutundetermined.Inthisstudy,thelocalityoffloodhazardswas
+representedbythe100-year-floodzones,whichwasdenotedasfloodzones
+forsimplicityintheremainingofthisarticle.Themoderate-lowfloodrisk
+zones were referred to as non-flood zones. The undetermined flood zones
+wereexcludedfromtheanalyses.
+2.2. Population downscaling
+Current nationwide population datasets, such as LandScan (Bright
+etal.,2013)andGriddedPopulationoftheWorld(CIESIN,2015),are
+presentedata∼1kmresolution,whicharetoocoarsetobecompared
+with the flood maps at the household level. To derive population dis-
+tribution at a finer resolution, the population data in census block
+groups were downscaled to land cover data at a 30m or finer resolu-
+tion.Theblockgroupboundariesassociatedwithpopulation,percapita
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+296
+
+[[PAGE 3]]
+income, social and demographic variables were acquired from the
+website of U.S. Census Bureau (i.e. 2012–2016 American Community
+Survey5-yearEstimates).The2011landcoverdataat30mresolution
+of the Contiguous U. S. and Alaska were acquired from the National
+Land Cover Database (https://www.mrlc.gov). The land cover data of
+HawaiiwereacquiredfromNOAAC-CAPdatabase(https://coast.noaa.
+gov/digitalcoast/tools/lca), which were created between 2010 and
+2011ata2.4mresolution.BoththeNLCDandC-CAParebasedonthe
+AndersonLandCoverClassificationSystem(Andersonetal.,1976),in
+which the class of developed land represent sman-made structures in
+bothurbanandruralareas.
+Thedownscalingofpopulationdataisbasedonthreeassumptions:
+(1) population (same as households) are only distributed in pixels
+classified as developed land in the land cover data; (2) population
+density within a census block group is even; (3) socio-economic and
+demographicconditionswithinacensusblockgroupareeven.Basedon
+thefirstandsecondassumption,populationperdevelopedpixelcanbe
+calculated as the quotient of the total population and number of de-
+velopedpixelsinablockgroup.Basedonthethirdassumption,popu-
+lationinademographicgroupperdevelopedpixelisthequotientofthe
+total population in that group and number of developed pixels in a
+blockgroup.Percapitaincomeinalldevelopedpixelsinablockgroup
+isthesame.Finally,totalpopulation,populationofaparticulargroup,
+per capita income were estimated for each developed pixel. To offset
+thelocalbiasesoftheassumptions,thesequantitiesofpixelswereag-
+gregated into counties after their flood exposure (in or out of flood
+zones)wasdetermined.
+Inthisstudy,floodexposurewascalculatedforthetotalpopulation
+and a number of disadvantaged population groups. These dis-
+advantaged groups are commonly used as indicators in social vulner-
+ability and resilience assessments (e.g.Cutter et al., 2003;Burton,
+2010,Lam et al., 2016) and are available in U.S. Census block group
+data. The disadvantaged groups including population above 75 (EL-
+DERLY), population under 5 (CHILD), population above 25 with no
+schoolingcompleted(NO_SCHOOL),populationabove16unemployed
+(UNEMPLOYED), female householder with no husband present (SIN-
+GLE_FEMALE),female householderwith nohusbandpresentand with
+children under 6 (SINGLE_MOM), household with limited English
+ability (LIMITED_EN), household with an income below poverty level
+(POVERTY),populationwithouthealthinsurance(NOT_INSURED).
+3. Analysis
+To analyze the total population and socio-economic disparities of
+populationexposedtofloodhazards,fouranalyseswerecarriedoutin
+thisstudy.
+First,exposureoftotalpopulationtofloodhazardswasestimatedby
+intersecting the population distribution and flood zones for each
+county.Theratioofpopulationinfloodzones(R)wasthequotientof
+populationinfloodzonesandtotalpopulationcoveredbyfloodmapsin
+thecounty.Totalpopulationinfloodzoneinacounty(denotedasP)is
+theproductoftheexposureratio(R)andthecountypopulation.Pre-
+presentsthetotalpopulationandassociatedsocio-economicproperties
+exposedtofloodhazards.RstandardizesPbypopulationdensitysothat
+countiesthatarelesspopulatedbuthaveahighratiooffloodexposure
+can receive the same attention as the populated counties. For a com-
+plete national assessment, the exposed population (P) and exposure
+ratios (R) of the 791 counties not covered by FEMA flood maps were
+estimated using ordinal kriging interpolation. To perform kriging in-
+terpolation,thecountypolygonswerefirstconvertedtocentroidpoints.
+Then, the ratios of population in flood zones in the counties (re-
+presented as points) without flood maps were predicted from the
+countieswithinfloodmapcoverage.Kriginginterpolationwasapplied
+separately for the contiguous U.S. and Alaska (Hawaii has full flood
+mapcoverage).Finally,thepopulationexposedto100-year-floodinan
+uncovered county was the product of the interpolated exposure ratios
+andthepopulationinthecounty.
+Second,thedifferencebetweentheratioofpopulationinfloodzone
+andratiooflandareainfloodzones(denotedas
+Dp)wascomputedfor
+each county (Equation(1)). The significance of the difference of all
+countiesaretestedusingtheStudent'st-test,withanullhypothesisthat
+the two ratios are equal (i.e., the difference is zero). The land area
+excludesundevelopableareassuchaswaterbodies(fromthelandcover
+data), military sites (U.S. Census data), wildlife refuge (U.S. Fish and
+Wildlife Service), federal land (USGS), and national parks (National
+Park Service). Assuming a community is not concerned with the dis-
+tribution of potential flood hazards, the ratio of population in flood
+zonesisexpectedtobeequaltotheratiooflandinfloodzones(i.e.the
+differenceiszero).Adeviationofthedifferencefromzeroreflectsthe
+degreetowhichpeopleareawareof,attachimportanceto(asatrade-
+offdecisionbetweenfloodriskandotheramenities),andmitigateand
+Fig. 1.ThecoverageofFEMAfloodmapsincountiesoftheUnitedStates.
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+297
+
+[[PAGE 4]]
+adapt to flood hazards. For ease of discussion, we use the termre-
+sponsivenesstofloodhazardsinthisarticletorepresenttheimplications
+of the deviations. A negative deviation can be interpreted as less po-
+pulation located in flood zones than expected, further suggesting that
+the community is moreresponsive to floodhazards.Conversely, a po-
+sitivedeviationwouldimplythecommunityislessresponsivetoflood
+hazards and do not avoid or even favor flood zones for residence.
+Hotspot analysis (Getis-Ord Gi statistic) was used to detect the local
+clustersofdeviations.
+=D Population in flood zones
+Total population
+Land in flood zones
+Total land
+p
+(1)
+Third,thedifferencebetweenpercapitaincomesinandoutofflood
+zones (
+Di) was computed for each county (Equation(2)). The sig-
+nificanceofthedifferencewasalsotestedbyStudent'st-test.Totalin-
+come in (or out of) flood zones is the summation of income of all po-
+pulationin(oroutof)floodzones.Then,percapitaincomein(orout
+of)floodzonesisthequotientofthetotalincomeandpopulationin(or
+outof)floodzones.Assumingthepercapitaincomesinandoutofflood
+zones are equal, the expected value of
+Dishould be zero. A positive
+deviation (i.e.
+Di>0) would indicate that people in flood zones have
+higher a per capita income than people outside, while a negative de-
+viationmeanstheopposite.Inadditiontothet-testforallthecounties,
+the Getis-Ord Gi* statistic (Getis and Ord, 1992) is applied to detect
+localclustersthataresignificantlydeviatedfromthemeandifference.
+=D Per cap income in flood zone Per cap income out of flood zone. .i
+(2)
+Fourth,thedifferencebetweentheratiosofdisadvantagedpopula-
+tion in and out of flood zones
+D( )diswas computed (Equation(3)).
+Again, a positive deviation of the difference from the zero implies a
+higher ratio of the disadvantaged population located in flood zones
+than outside, and a negative deviation indicates the opposite. Due to
+overlapped population representations, the ratios of the nine dis-
+advantagedgroupsmaybecorrelatedamongeachother.Forinstance,
+people in a poor economic condition may belong to POVERTY, UNE-
+MPLOYED and NOT_INSURED. To reduce the redundancy and distin-
+guish the non-overlapped population groups, principal component
+analysis(PCA)wasappliedtoaggregatetheninedisadvantagedgroups
+intoafewernumberofgroups.Thespatialpatternsofdeviationsofthe
+aggregated groups were analyzed respectively. Analogous to the third
+analysis,theGetis-OrdGi*statisticwasappliedtodetectlocalclusters
+of
+Ddis .
+=D Disadv population in flood zone
+Total population in flood zone
+Disadv population out of flood zone
+Total population out of flood zone
+.
+.
+dis
+(3)
+4. Results
+Resultsfromthefouranalysesareorganizedasfollows.Section4.1
+presents the results of the first analysis, which estimates the total po-
+pulationandratioofpopulationinfloodzonespercounty.Section4.2
+describestheresultofthesecondanalysis,analyzingresponsivenessof
+populationtofloodhazards.Section4.3 includestheresultsofthethird
+andfourthanalysis,whichcomparepercapitaincomesandratiosofthe
+disadvantaged population in and out of flood zones. All analyses are
+conductedatboththenationalandcountylevels,reflectingthegeneral
+trendsandlocaldeviationsfromthetrends.
+4.1. Exposure of population to flood hazard
+As expected, population in flood zones are concentrated in me-
+tropolitan areas along the coast, including New York City, Miami,
+Naples,Tampa,Houston,NewOrleans,LosAngeles,andSanFrancisco
+(Fig. 2). These areas are highly populated and have large low-laying
+areassubjecttocoastalflooding.AsshowninTable1(left),sevenofthe
+top ten counties ranked by total population in flood zone are in
+southern Florida. The remaining three are near Houston (TX), New
+Orleans(LA)andLosAngeles(CA).Severalinlandareaswithhighflood
+exposurearenoticeableinFig.2,suchascountiesaroundPhoenix(AZ)
+andDallas(TX),whichareinlandcitieswithalargepopulationexposed
+toriverineflood.
+The ratio of population located in flood zones presents a different
+spatialpattern(Fig.3).Inadditiontothecoastalcounties,manyinland
+counties with high ratios of population in flood zones stand out, in-
+cludingcountiesalongtheLowerMississippiRiver,thewesternhillside
+ofAppalachianMountains,andsomecountiesscatteredinthewestern
+mountainousregion.InTable1(right),itisnoticeablethatnoneofthe
+Fig. 2.Totalpopulationinfloodzonepercounty.
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+298
+
+[[PAGE 5]]
+toptencountiesofpercentageofpopulationinfloodzoneareinlarge
+coastal cities. Instead, three inland counties, including Nobel (Okla-
+homa),Lincoln(Louisiana),andIssaquena(Mississippi),popupinthe
+list.Theremainingsevenarelesspopulatedcoastalcounties,including
+three counties around Pamlico Sound in North Carolina, Monroe
+County (the Key West) and Collier County (Nápoles) in Florida, Ca-
+meron County (Lake Charles) in Louisiana, and Poquoson County in
+Virginia.
+Inthe2351countiescoveredbyfloodmapcoverage,thetotalratio
+ofpopulationinfloodzoneis6.84%.Toobtainanationalestimation,
+the exposure ratios of the counties not covered by flood maps were
+estimated using kriging interpolation. The result shows that in total
+21.8millionpeople(6.87%oftotalpopulation)intheU.S.areexposed
+to100-year-floodzones.
+4.2. Responsiveness of population to flood hazard
+Theresultoft-testreflectsthattheratioofpopulationinfloodzones
+issignificantly(p< 0.001)lowerthantheratiooflandinfloodzones,
+meaning that people in the U.S. are generally responsive to flood ha-
+zardsbyavoidingresidinginfloodzones.However,thedifference(Dp)
+betweenthetworatiosvariesoverthespacewithtwooppositetrends
+(Fig. 4). Counties near water bodies, including those along the Gulf
+Coast, East Coast, and the middle-lower Mississippi River, have lower
+Dp values. These areas are historically flood-prone, but communities
+there are more responsive to flood hazards by avoiding residence in
+flood zones. The area around Miami (FL) is a noticeable exception in
+theEastCoast,wherepeopleappearnotresponsivetofloodhazards.In
+contrast, counties in the western mountainous region and the eastern
+inlandregionhavehigherDpvalues.Intheseareas,floodhazardcould
+beconsideredlessimportantcomparedwithotherfactorsforchoosing
+locationsforpopulationplacement.
+4.3. Disparities of population exposed to flood hazards
+4.3.1. Income
+Thet-test shows no significant difference (p=0.198) between the
+percapitaincomesinandoutoffloodzonesoverthecountry(Table2).
+However, the spatialpatternof the difference (Di)is uneven,showing
+local pockets with positive or negative deviations from zero (Fig. 5).
+UsingtheGetis-OrdGi*analysis,clusterswithapositivedeviationare
+detected as “hot spot”, where counties with a high positive deviation
+aresurroundedbycountieswithahighpositivedeviation.Conversely,
+clusters with negative deviations are denoted as “cold spot”. In this
+study,countiesthatshareacommonboundaryorvertexaredefinedas
+neighbors. Due to the isolation of Hawaiian and Alaska counties (no
+adjacentcounties),thesetwostatesareexcludedfromtheGetis-OrdGi*
+analysis.
+AsshowninFig.6,most“hotspots”ofpercapitaincomearelocated
+along the East Coast and Gulf Coast, including counties around New
+York City, Delmarva Peninsula (Virginia and Maryland), Charleston
+(SouthCarolina)andWilmington(Georgia),andMobileandEscambia
+County(Alabama).Inthese“hotspots”,percapitaincomeofpeoplein
+flood zones is higher than those outside. To the contrary, most “cold
+spots” of per capita income are located in inland areas besides the
+coastalcountiesinCalifornia.Inthe“coldspots”,percapitaincomein
+floodzonesislowerthanoutside.
+4.3.2. Ratios of disadvantaged population
+Theresultsfromt-testanalysisshowthatthenull-hypothesisshould
+be rejected for ELDERLY, POVERTY, UNEMPLOYED, SINGLE_MOM,
+andNOT_INSURED(seeTable2).TheratiosofELDERLYinfloodzones
+aresignificantly(p< 0.001)higherthattheratiosoutoffloodzones,
+indicatingthatelderlypeoplearegenerallylesslikelytoresideinflood
+Table 1
+Top10countiesrankedbytotalpopulationinfloodzone(left)andpercentage
+ofpopulationinfloodzone(right).
+County State Populationin
+FZ
+County State %ofpopulationin
+FZ
+Miami-Dade FL 1,219,469 Noble OK 94.4%
+PalmBeach FL 652,294 Hyde NC 91.0%
+Harris TX 617,764 Cameron LA 90.6%
+Broward FL 484,055 Lincoln LA 90.1%
+Pinellas FL 270,058 Monroe FL 87.8%
+Lee FL 241,216 Tyrrell NC 81.5%
+Hillsborough FL 235,333 Poquoson VA 74.1%
+Collier FL 233,501 Issaquena MS 72.9%
+Jefferson LA 194,346 Dare NC 69.7%
+Orange CA 173,994 Collier FL 68.5%
+Fig. 3.Ratioofpopulationinfloodzonepercounty.
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+299
+
+[[PAGE 6]]
+Fig. 4.Differencebetweentheratioofpopulationinfloodzoneandratiooflandareainfloodzone(
+DP).SDdenotesstandarddeviation(s)fromthemean.
+Table 2
+T-testresultsofthedifferencesbetweenpercapitaincomeandratiosofdisadvantagedpopulationsinandoutoffloodzones.Significantdifferences(p < 0.05)arein
+boldfontandunderlined.
+Populationgroup Abbr. Meandifference p-value
+Averagepercapitaincome INCOME 77.69325 0.198
+Ratio of population above 75 ELDERLY 0.00054 <0.001
+Ratioofpopulationunder5 CHILD −0.00016 0.307
+Ratio of household with an income below poverty level POVERTY 0.00332 <0.001
+Ratio of population above 16 unemployed UNEMPLOYED 0.00141 <0.001
+Ratiooffemalehouseholderwithnohusbandpresented SINGLE_FEMALE 0.00005 0.921
+Ratio of female householder with no husband and with children under 6SINGLE_MOM 0.00065 0.007
+Ratioofpopulationabove25withnoschoolingcompleted NO_SCHOOL 0.00011 0.258
+RatioofhouseholdwithlimitedEnglishability LIMITED_EN 0.00014 0.573
+Ratio of population with no health insurance NOT_INSURED 0.00235 <0.001
+Fig. 5.Differencebetweenpercapitaincomesinandoutoffloodzones(Di).SDdenotesstandarddeviation(s)fromthemean.
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+300
+
+[[PAGE 7]]
+zones in the U.S. The ratios of POVERTY, UNEMPLOYED, SIN-
+GLE_MOM,andNOT_INSUREDinfloodzonesarealsohigherthanthose
+outoffloodzones,reflectingthesedisadvantagedpopulationgroupsare
+morelikelytoresideinfloodzones.
+Using principal component analysis (PCA), the ratios of the nine
+disadvantaged groups were aggregated into three principal compo-
+nents.Thefirstcomponent(PC1)occupies61.6%ofthetotalvariance,
+in which POVERTY, UNEMPLOYED, SINGLE_FEMALE, and
+NOT_INSURED have the highest loading (Table 3). These variables all
+representpopulationwithaloweconomiccondition.Thus,weusethe
+first component (PC1) to represent the general group of the econom-
+icallydisadvantagedpeople. LIMITED_ENand ELDERLYare dominant
+variables with outstanding loadings in the second (PC2) and third
+component (PC3) respectively, indicating LIMITED_EN and ELDERLY
+are two groups of people that do not overlap with the economically
+disadvantaged (PC1).Due to the dominant loadings, LIMITED_EN and
+ELDERLY were analyzed independently rather than being aggregated
+into components.Again,theGetis-OrdGi*statisticwas usedtodetect
+local deviations from the mean difference between the ratios of the
+disadvantaged population in and out of flood zones (i.e.
+D )dis. “Hot
+spots” denote local clusters where the ratio of the disadvantaged po-
+pulation in flood zones is higher than outside, while “cold spots” are
+countieswithalowerratioofdisadvantagedpeopleinfloodzones.
+AsshowninFig.7(a)“hotspots”oftheeconomicallydisadvantaged
+aremostlylocatedininlandareas,exceptcountiesnearPamlicoSound
+in North Carolina and coastal area in Mississippi, where the econom-
+icallydisadvantagedaremorelikelytoresideinfloodzonesthanout-
+side. To the contrary, most “cold spots” are detected in coastal and
+riverine areas, such as East Coast, Florida and counties along Mis-
+sissippi River, where a low ratio of the economically disadvantaged
+peopleareinfloodzone.Thispatternisgenerallyinlinewiththeresult
+ofthethirdanalysisthatpeopleinthecoastalfloodzonesareinabetter
+economicallyconditionthanpeopleoutside.
+The two largest “hot spots” of LIMITED_EN are located in central
+California and the area between Nevada and Utah (Fig. 7(b)). Several
+smaller“hotspots”arescatteredintheinlandareas.Inthe“hotspots”,
+people with limited English ability are more likely to reside in flood
+zonethanoutside.Tothecontrary,large“coldspots”canbefoundin
+southernCalifornia,thecross-boundaryareabetweenArizonaandNew
+Mexico, Tampa in Florida and New York City. The two largest “hot
+spots” of ELDERLY in Florida and the shores of Chesapeake Bay
+(Maryland and Virginia) are most prominent (Fig. 7(c)), where old
+peoplearemorelikelytoliveincoastalfloodzonespossiblyduetothe
+aestheticalandrestorativevaluesofthecoasts.Thesmaller“hotspot”
+inMatagorda(Texas)mayfalltothesamecategory.Additionally,other
+“hotspots”canbefoundintheinlandareassuchaswesternMississippi,
+the areas near Reno (Nevada) and Santa Fe (New Mexico). In these
+areas, underlying factors that cause the old people to be crowded in
+floodzonesneedfurtherinvestigations.
+5. Discussion
+This study provides a county-level assessment of population ex-
+posure to flood hazards for the entire United States. This assessment
+approachhasimprovedfromthepreviousstudy(Qiangetal.,2017)by
+Fig. 6.Significantclustersofthedifferencebetweenpercapitaincomesinandoutoffloodzones(Di).
+Table 3
+Topthreecomponentsandloadingsofvariablesfromtheprincipalcomponent
+analysis.
+Variables Principalcomponents(PC)
+PC1 PC2 PC3
+ELDERLY 0.236 0.429 0.779
+CHILD 0.359 0.035 0.193
+POVERTY 0.384 0.143 −0.164
+UEMPL 0.368 0.129 −0.194
+SINGLE_FEMALE 0.394 0.034 −0.260
+SINGLE_MOM 0.317 0.167 −0.334
+NO_SCHOOL 0.329 −0.366 −0.044
+LIMITED_EN 0.177 −0.782 0.301
+NOT_INSURED 0.370 −0.063 0.138
+Proportionofvarianceexplained 0.616225 0.122792 0.080185
+Boldfontindicatesvariableswithahighloadingintheprincipalcomponent.
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+301
+
+[[PAGE 8]]
+using more updated population data (i.e. 2015 census data) at a finer
+spatialresolution(i.e.theblockgrouplevel),extendingtheassessment
+totheentireUnitedStates,andinvestigatingsocio-economicdisparities
+in flood zones. The assessment approach utilizes publicly available
+databasesandthusistransferabletootherregionswherehazardmaps
+are available. Based on this assessment approach, the study has ana-
+lyzedfourgeneraltypesofquantitiesincluding(1)populationexposure
+(total and ratio) to flood zones, (2) responsiveness of population to
+floodhazards,(3)differenceofpercapitaincomesinandoutofflood
+zones,and(4)differencesofratiosofthedisadvantagedgroupsinand
+outoffloodzones.Thenationaltrendsandlocaldeviationsdiscovered
+inthisstudyprovideimportantpolicyimplications.
+Atthenationalscale,itwasestimatedthat21.8million(6.87%)of
+theU.S.populationareexposedto100-year-flood.Accordingtothe1%
+annual inundation chance in the 100-year-flood zones, 0.218 million
+(6.87%) U.S. population will be affected by a certain level of flood
+hazards annually. These estimates provide base-line information for
+floodpreparationandmitigationforthefederalleveldecision-making.
+As expected,largemetropolitan areasalong the coasts have highcon-
+centrations of population, economy and associated assets exposed to
+flood zones. However, some small communities (both inland and
+coastal)havethehighestratiosofpopulationinfloodzones.Compared
+with the large coastal cities where assistance resources and public at-
+tention are concentrated, the small communities with a high ratio of
+flood exposure may be oversighted in hazard mitigation and disaster
+relief.
+Population exposure to flood hazards can be a result of lack of
+awarenessofpotentialhazard(awareness),beingabletocopewithand
+adapttotheadverseimpacts(copingandadaptivecapacity),atrade-off
+decision between flood risk and amenities in flood zones (trade-off),
+andgovernmentalandinstructionalfactors.Changesoffloodexposure
+inspaceandtimecanbedrivenbyanyofthesefactors.Inthisarticle,
+thetermresponsivenesshasbeenusedtogeneralizethecombinedeffects
+ofthesefactors.ThenationaltrendindicatesthatpeopleintheU.S.are
+generally responsive to flood hazards by avoiding residing in flood
+zones. This trend can be intervened by policy and institutional levers
+such as the enforcement of floodplain development regulations at the
+federalscale.Thus,bymonitoringthetrendovertime,theeffectiveness
+offederallevelinterventionstofloodexposurereductioncanbemon-
+itored. At the local scale, deviations from the general trends reflect
+varying conditions of individuals' awareness, local governance, de-
+pendence on water resource, and other socio-economic factors in dif-
+ferent places. Possibly due to the higher public awareness and more
+governmentalinterventions,communitiesnearcoastsandrivers,which
+arehistoricallyflood-prone,aremoreresponsivetofloodhazardsthan
+the inland communities (shown inFig. 4). The exception of Miami (a
+coastalcitywithlowresponsiveness)couldbecausedbytheattraction
+of amenities in the floodzones. Conversely, the low responsivenessof
+inlandcommunitiestofloodhazardsmayreflectthenegativesituation
+(e.g.lackofawarenessandadaptivegovernance).Withtheincreasing
+frequency of inland extreme rainfall reportedin the 3rd U.S. National
+Climate Assessment (Melillo et al., 2014), the low responsiveness of
+inlandcommunitiescanpotentiallyamplifytheadverseimpactofflood
+hazards, which is the first alarm to the inland communities raised in
+thisstudy.
+The choice of living in flood zone or outside is also influenced by
+individuals' socio-economic conditions. At the national level, a higher
+ratio of economically disadvantaged people (including POVERTY,
+UNEMPLOYED,SINGLE_FEMALE,andNOT_INSURED)choosetolivein
+floodzonesthanoutside.Thistrendispotentiallyrelatedtothelower
+Fig. 7.Clusters of the differences between ratios of disadvantaged population in and out of flood zones
+D( )dis. (a) Economically disadvantaged; (b) people with
+limitedEnglishability(LIMITED_EN);(c)peopleabove75yearsold(ELDERLY).
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+302
+
+[[PAGE 9]]
+property prices in flood zones, which were discussed in a number of
+studies(e.g.SpeyrerandRagas,1991;BinandPolasky,2004;Binand
+Landry, 2013). This tendency is more prominent in the inland areas
+than the coasts. Most clusters of low per capita income (the third
+analysis) and high ratios of economically disadvantaged people (the
+fourth analysis)in floodzonesare located inthe inland areas. Incon-
+trast, the opposite clusters are mostly coastal. For instance, southern
+Floridaisthelargest“hotspot”ofpercapitaincome(higherincomein
+flood zones) and “cold spot” of economically disadvantaged people
+(lowerratioinfloodzones).Thisinland-coastalcontractconfirmedthe
+empiricalfindings inpreviousstudies thatfocusedonlocalareas(e.g.
+Ueland and Warf, 2006;Montgomery and Chakraborty, 2015): mino-
+ritiesanddisadvantagedgroupsaresegregatedinflood-proneareasin
+inland cities, whereas the higher-valued coastal and waterfront prop-
+erties are occupied by middle and upper-classes. Since a lower eco-
+nomic condition can limit one's abilities to mitigate, cope with and
+recover from the negative impacts of hazards, the disproportionate
+exposureoftheeconomicallydisadvantagedpopulationinfloodzones
+isthesecondalarmposedtotheinlandcommunitiesinthisstudy.
+LIMITED_EN and ELDERLY represent different groups of people
+from the economically disadvantaged population. The largest “hot
+spot”ofLIMITED_ENislocatedinCalifornia,whichisoneofthemost
+ethnicallydiversifiedstateintheU.S.Thesecondlargest“hotspot”isin
+the Great Basin between Nevada and Utah, which is historically in-
+habited by indigenous American tribes speaking Washo and Numic
+languages.Duetothearidtosemi-aridenvironment,thelivelihoodand
+culture of the indigenous people heavily rely on ecosystem services
+provided by limited water resources, resulting large overlaps between
+their residence and flood zones. In these “hot spots”, limited English
+abilityand culturalbarrierofethnicalminorities andnewimmigrants
+maycausedifficultiesinaccessinghazardinformation,leadingtolower
+awareness of flood risk and limited knowledge about climate change.
+Additionally, cultural differences can impose obstaclesin communica-
+tion and acquisition of assistance resources during and after hazard
+(Cutter et al., 2010). Ideally, hazard education and information dis-
+seminationinnon-Englishlanguagesshouldbeimprovedintheseareas
+to prompt the awareness of flood hazard and reduce vulnerability.
+When flood hazards strike, special assistance with language support
+should be offered to help the non-English-speaking people withstand
+andrecoverfromtheadverseimpactsoffloodhazards.
+“Hot spots” of ELDERLY were found in southern Florida,
+Chesapeake Bay, and Matagorda in Texas, which are all popular re-
+tirementdestinationsintheU.S.ThehighdensityofELDERLYinthese
+areas could be explained by the recreational and restorative effectsof
+the oceanic bluespaces.Althoughthe generallyhigher economiccon-
+dition of the elderly people would benefit them in coping with and
+adaptingtofloodhazards,mobilityconstraintsandsocialisolationwill
+increase their difficulties in evacuation and seeking support during
+hazard events (Siagian et al., 2014;Walker and Burningham, 2011).
+Besides the coastal “hot spots”, further investigations are needed to
+understand the causes of the inland “hot spots” of ELDERLY. Special
+measures should be taken to mitigate the impact of potential flood
+hazardstotheelderlycommunities.
+Theanalysesofthestudyarelimitedinthefollowingaspects.First,
+thepopulationdistributionwasdownscaledfromtheblockgroupdata
+into 30m resolution land cover data, assuming that the population
+density and socio-economic conditions are even within block groups.
+Thespatialvariabilityofpopulationwithinblockgroupshavenotbeen
+takenintoaccount.Theexposureratios(P)werevalidatedagainstthe
+ratios estimated using the 2010 block level data in the 2351 counties
+with flood maps. The overall exposure ratio of the block-level data is
+6.75%,comparedto6.84%obtainedinthisstudy.TheMeanAbsolute
+Error(MAE)andRoot-Mean-SquareError(RMSE)ofthevalidationper
+countyare0.010and0.016.Giventhedifferentyearofthevalidation
+dataandpotentialerrorsinthedowngradingprocess,theuncertaintyof
+the assessment need to be further evaluated with ground truth data.
+Second, despite the FEMA flood maps have covered the majority
+(∼93.6%)ofU.S.population,theinterpolatedvaluesintheunmapped
+areas can be a source of uncertainty. Also, the estimated exposure is
+based on residential population. Further studies should consider the
+dynamicsofpopulationsuchaspeopleintravel,asevidenceshowsthat
+themajorityoffatalitiesinfloodeventsoccurwhenpeopleattemptto
+driveorwalkinfloodwaters(Kellar,2010;Arrighietal.,2017).Third,
+only the100-year-flood was used in the assessment. A comprehensive
+assessment should include more frequent floods (such as 30 and 50-
+year-flood) which may also affect to human communities. Fourth, in
+spiteofbeingusedasanationalstandard,FEMAfloodmapsareoften
+criticizedforthevaryingageandlevelsofquality.Forinstance,usinga
+newly-developed flood model,Wing et al. (2018)estimated that 40.8
+million people (13.3% of the population) in the contiguous U.S. are
+exposedto100-year-flood,whichnearlydoublestheestimations(21.7
+million and 6.87%) derived in this study. This difference can possibly
+beattributedtotheincompletecoverageoftheFEMAfloodmapsover
+the U.S. and different modeling approaches.Wing et al. (2017,2018)
+claimed that their flood model can identify flood zones in small
+catchments that are often missed by FEMA flood maps. In the future
+work, the uncertainty of the assessment needs to be further evaluated
+againstground-truthdata.
+6. Conclusion
+This study provides a county-based assessment of population ex-
+posureto floodhazardsand socio-economicdisparitiesin the exposed
+populationintheUnitedStates.Insteadofdevelopinganoverallindex,
+this study aimed to gain new insights to the interrelations between
+flood exposure and human factors by analyzing socio-economic dis-
+parities of population exposed to flood hazards. The general trends
+derivedatthenationalscaleprovideimportantbaselineinformationfor
+the federal level policy-making. The local deviations from the general
+trends pinpoint areas that are potentially more vulnerable to flood
+hazardsthantheaverage.Theanalysesofthedisadvantagedpopulation
+uncovered environmental injustice of flood exposure confronted by
+different population groups. The identified ‘hot spots’ can inform de-
+cision-makerstodevelopdiversifiedandtargetedstrategiestomitigate
+flood risk in communities with skewed socio-economic structures.
+Majorfindingsderivedfromthisstudyinclude:(1)Approximately21.8
+million (6.87%) U.S. population are located in 100-year-flood zones.
+Althoughpopulationexposedtofloodhazardsareconcentratedinlarge
+coastal cities, small communities (both inland and coastal) have the
+highestratiosofpopulationinfloodzones(2)Communitiesnearwater
+bodies (i.e. coasts and rivers) were more responsive to flood hazards
+andtendedtoavoidresidenceinfloodzones.Conversely,inlandcom-
+munities are less responsive to flood hazards and do not avoid flood
+zones for residence. (3) There are socio-economic disparities between
+population in and out of flood zones. At the national level, the eco-
+nomicallydisadvantagedgroups(includingPOVERTY,UNEMPLOYED,
+SINGLE_MOM, and NOT_INSURED) generally tend to reside in flood
+zones than outside. At local scales, coastal flood zones are more
+crowded by richer and old people, while inland flood zones are more
+occupiedbypoorerpeople.Thesecondandthirdfindingbothpointto
+an alarming situation of the inland communities where people are
+generally less responsive to flood hazards and people in flood zones
+havealowereconomiccondition.
+Theanalysesofsocio-economicdisparitiesofpopulationexposedto
+flood hazardshave advanced our understanding of the dynamicinter-
+actions among exposure, vulnerability and resilience. The trends and
+deviations quantified in this study have important policy implications
+onfloodriskmanagementandenvironmentaljusticefordifferentlevels
+of decision-makers. The assessment method integrates publicly avail-
+abledatasets,andthusisreproducibleandtransferabletoothercoun-
+tries where hazard maps are available. The assessment can be re-
+producedwithhistoricalor updateddatasetstomonitorthe dynamics
+Y. Qiang Journal of Environmental Management 232 (2019) 295–304
+303
+
+[[PAGE 10]]
+of flood exposure to evaluate the effectiveness of mitigation policies.
+The assessment and analysis results are available in a web-based GIS
+(http://www2.hawaii.edu/∼yiqiang/flood_exposure/)forpublicusers
+to freely access to increase awareness of flood hazard and inform de-
+cision-making.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online athttps://
+doi.org/10.1016/j.jenvman.2018.11.039.
+References
+Adger,N.,Hughes,T.,Folke,C.,Carpenter,S.,Rockström,J.,2005.Social-ecological
+resiliencetocoastaldisasters.Science309(5737),1036–1039.https://doi.org/10.
+1126/science.1112122.
+Anderson,J.,Ernest,H.,John,R.,Richard,W.,1976.ALandUseandLandCover
+ClassificationSystemforUsewithRemoteSensorData,vol.964USGovernment
+PrintingOffice.
+Arrighi,C.,Oumeraci,H.,Castelli,F.,2017.Hydrodynamicsofpedestrians'instabilityin
+floodwaters.Hydrol.EarthSyst.Sci.21,515–531.https://doi.org/10.5194/hess-21-
+515-2017.ISSN:1027-5606.
+Beltrán,Allan,Maddison,David,Elliott,RobertJ.R.,2018.Isfloodriskcapitalisedinto
+propertyvalues?Ecol.Econ.146(April1),668–685.https://doi.org/10.1016/j.
+ecolecon.2017.12.015.
+Bin,Okmyung,Polasky,Stephen,2004.Effectsoffloodhazardsonpropertyvalues:
+evidencebeforeandafterhurricanefloyd.LandEcon80(4),490–500.https://doi.
+org/10.2307/3655805.
+Bin,Okmyung,Landry,CraigE.,May1,2013.Changesinimplicitfloodriskpremiums:
+empiricalevidencefromthehousingmarket.J.Environ.Econ.Manag.65(3),
+361–376.https://doi.org/10.1016/j.jeem.2012.12.002.
+Bright,E.A.,Rose,A.N.,Urban,M.L.,2013.LandScan2012.OakRidgeNational
+Laboratory.http://www.ornl.gov/landscan/.
+Burton,C.G.,2010.Socialvulnerabilityandhurricaneimpactmodeling.Nat.Hazards
+Rev.11(2),58–68.https://doi.org/10.1061/(ASCE)1527-6988(2010)11:2(58).
+Cai,Heng,Lam,NinaS.-N.,Zou,Lei,Yi,Qiang,Li,Kenan,2016.Assessingcommunity
+resiliencetocoastalhazardsinthelowerMississippiRiverBasin.Water8(2),46.
+https://doi.org/10.3390/w8020046.
+Cai,Heng,Lam,NinaS.N.,Zou,Lei,Yi,Qiang,2018.ModelingtheDynamicsofcom-
+munityresiliencetocoastalhazardsusingabayesiannetwork.Ann.Am.Assoc.
+Geogr.108(5),1260–1279.https://doi.org/10.1080/24694452.2017.1421896.
+Chakraborty,J.,Maantay,J.A.,Brender,J.D.,2011.Disproportionateproximitytoen-
+vironmentalhealthhazards:methods,models,andmeasurement.Am.J.Public
+Health101(S1),S27–S36.https://doi.org/10.2105/AJPH.2010.300109.
+CenterforInternationalEarthScienceInformationNetwork,ColumnbiaUniversity
+(CIESIN),2015.GriddedPopulationoftheWorld(GPW),V4,UN-adjustedPopulation
+Countfor2015.CenterforInternationalEarthScienceInformationNetwork.
+ColumbiaUniversity.http://beta.sedac.ciesin.columbia.edu.eres.library.manoa.
+hawaii.edu/data/set/gpw-v4-population-count-adjusted-to-2015-unwpp-country-
+totals/data-download.
+Collenteur,R.A.,DeMoel,H.,Jongman,B.,DiBaldassarre,G.,2015.Thefailed-levee
+effect:dosocietieslearnfromflooddisasters?Nat.Hazards76(1),373–388.https://
+doi.org/10.1007/s11069-014-1496-6.
+Cutter,S.L.,2012.HazardsVulnerabilityandEnvironmentalJustice.Routledge.
+Cutter,S.L.,Boruff,B.J.,Shirley,W.L.,2003.Socialvulnerabilitytoenvironmentalha-
+zards.Soc.Sci.Q.84(2),242–261.https://doi.org/10.1111/1540-6237.8402002.
+Cutter,S.L.,Burton,C.G.,Emrich,C.T.,2010.Disasterresilienceindicatorsforbench-
+markingbaselineconditions.J.Homel.Secur.Emerg.Manag.7(1),14.https://doi.
+org/10.2202/1547-7355.1732.
+DeMoel,H.,Aerts,C.J.,Koomen,E.,2011.DevelopmentoffloodexposureinThe
+Netherlandsduringthe20thand21stcentury.GlobalEnviron.Change21(2),
+620–627.SpecialIssueonThePoliticsandPolicyofCarbonCaptureandStorage.
+https://doi.org/10.1016/j.gloenvcha.2010.12.005.
+FederalEmergencyManagementAgency(FEMA),1986.AUnifiedNationalProgramfor
+FloodplainManagement.FEMA,Washington,DC.
+FederalEmergencyManagementAgency(FEMA),2004.Flooding:America's#1Natural
+Hazard!.https://www.fema.gov/news-release/2004/08/16/flooding-americas-1-
+natural-hazard.
+FederalEmergencyManagementAgency(FEMA),2017a.FloodZones.https://www.
+fema.gov/flood-zones.
+FederalEmergencyManagementAgency(FEMA),2017b.ViewYourCommunity's
+PreliminaryFloodHazardData.https://www.fema.gov/view-your-communitys-
+preliminary-flood-hazard-data-0.
+Getis,A.,Ord,J.K.,1992.Theanalysisofspatialassociationbyuseofdistancestatistics.
+Geogr.Anal.24(3),189–206.https://doi.org/10.1111/j.1538-4632.1992.
+tb00261.x.
+IPCC,2012.Chapter3ChangesinClimateExtremesandTheirImpactsontheNatural
+PhysicalEnvironment.
+Jongman,B.,Ward,P.J.,Aerts,C.J.,2012.Globalexposuretoriverandcoastalflooding:
+longtermtrendsandchanges.GlobalEnviron.Change22(4),823–835.https://doi.
+org/10.1016/j.gloenvcha.2012.07.004.
+Jongman,B.,Koks,E.E.,Husby,T.G.,Ward,P.J.,2014.IncreasingfloodexposureinThe
+Netherlands:implicationsforriskfinancing.Nat.HazardsEarthSyst.Sci.14(5),
+1245–1255.https://doi.org/10.5194/nhess-14-1245-2014.
+Kellar,D.M.M.,2010.TheExaminationofVehicleRelatedFloodFatalitiesintheUnited
+States,CommonwealthofPuertoRicoandtheU.S.TerritoriesoftheVirginIslandand
+Guam:1995-2005. AthesissubmittedtoKentStateUniversity,availableat:https://
+etd.ohiolink.edu/!etd.send_file?accession=kent1290537007&disposition=inline.
+Koks,E.E.,Jongman,B.,Husby,T.G.,Botzen,W.J.W.,2015.Combininghazard,exposure
+andsocialvulnerabilitytoprovidelessonsforfloodriskmanagement.Environ.Sci.
+Pol.47(Suppl.C),42–52.https://doi.org/10.1016/j.envsci.2014.10.013.
+Lam,N.S.,Reams,M.,Li,K.,Li,C.,Mata,L.P.,2016.Measuringcommunityresilienceto
+coastalhazardsalongtheNorthernGulfofMexico.Nat.HazardsRev.17(1)
+e193–e193. https://doi.org/10.1061/(ASCE)NH.1527-6996.0000193.
+Linskey,A.,2013.FEMA'sNewFloodMapsPressureHomeownerstoRaiseTheirHouses.
+Bloomberg.https://www.bloomberg.com/news/articles/2013-08-22/femas-new-
+floodmaps-homeowners-to-raise-their-houses.
+Maantay,Juliana,Maroko,Andrew,2009.Mappingurbanrisk:floodhazards,race,en-
+vironmentaljusticeinNewYork.Appl.Geogr.29(1),111–124.https://doi.org/10.
+1016/j.apgeog.2008.08.002.
+Masozera,Michel,Bailey,Melissa,Kerchner,Charles,August1,2007.Distributionof
+impactsofnaturaldisastersacrossincomegroups:acasestudyofnewOrleans.Ecol.
+Econ.CoastalDisasters63(2),299–306.https://doi.org/10.1016/j.ecolecon.2006.
+06.013.
+McGranahan,G.,Balk,D.,Anderson,B.,2007.Therisingtide:assessingtherisksofcli-
+matechangeandhumansettlementsinlowelevationcoastalzones.Environ.
+Urbanization19(1),17–37.https://doi.org/10.1177/0956247807076960.
+Melillo,JerryM.,Terese,T.C.,Richmond,Yohe,GaryW.(Eds.),2014.ClimateChange
+ImpactsintheUnitedStates:TheThirdNationalClimateAssessment.U.S.Global
+ChangeResearchProgram.https://doi.org/10.7930/J0Z31WJ2.841pp.
+Mennis,J.,2015.Increasingtheaccuracyofurbanpopulationanalysiswithdasymetric
+mapping.Cityscape17(1),115–126.
+Montgomery,MarilynC.,Chakraborty,Jayajit,2015.Assessingtheenvironmentaljustice
+consequencesoffloodrisk:acasestudyinMiami,Florida.Environ.Res.Lett.10(9),
+095010. https://doi.org/10.1088/1748-9326/10/9/095010.
+Morello-Frosch,R.,Pastor,M.,Sadd,J.,2001.Environmentaljusticeandsouthern
+California's‘riskscape’:thedistributionofairtoxicsexposuresandhealthrisksamong
+diversecommunities.UrbanAff.Rev.36(4),551–578.https://doi.org/10.1177/
+10780870122184993.
+Nelson,R.,Kokic,P.,Crimp,S.,Meinke,H.,Howden,S.M.,2010.Thevulnerabilityof
+australianruralcommunitiestoclimatevariabilityandchange:Part
+I—conceptualisingandmeasuringvulnerability.Environ.Sci.Pol.13(1),8–17.
+https://doi.org/10.1016/j.envsci.2009.09.006.
+Neumann,B.,Vafeidis,A.T.,Zimmermann,J.,Nicholls,R.J.,2015.FutureCoastal
+PopulationGrowthandExposuretoSea-LevelRiseandCoastalFlooding-aGlobal
+Assessment.PloSOne10(3),e0118571.https://doi.org/10.1371/journal.pone.
+0118571.
+Pottier,N.,Penning-Rowsell,E.,Tunstall,S.,Hubert,G.,2005.Landuseandfloodpro-
+tection:contrastingapproachesandoutcomesinFranceandinenglandandwales.
+Appl.Geogr.25(1),1–27.https://doi.org/10.1016/j.apgeog.2004.11.003.
+Qiang,Yi,Lam,NinaS.N.,Cai,Heng,Zou,Lei,2017.Changesinexposuretofloodha-
+zardsintheUnitedStates.Ann.Assoc.Am.Geogr.107(6),1332–1350.https://doi.
+org/10.1080/24694452.2017.1320214.
+Sampson,ChristopherC.,Smith,AndrewM.,Bates,PaulD.,Neal,JeffreyC.,Alfieri,
+Lorenzo,Freer,JimE.,2015.Ahigh-resolutionglobalfloodhazardmodel.Water
+Resour.Res.51(9),7358–7381. https://doi.org/10.1002/2015WR016954.
+Siagian,T.H.,Purhadi,P.,Suhartono,S.,Ritonga,H.,2014.Socialvulnerabilitytonatural
+hazardsinIndonesia:drivingfactorsandpolicyimplications.Nat.Hazards70(2),
+1603–1617.https://doi.org/10.1007/s11069-013-0888-3.
+Speyrer,JanetFurman,Ragas,WadeR.,1991.Housingpricesandfloodrisk:anex-
+aminationusingsplineregression.J.RealEstateFinan.Econ.4(4),395–407.https://
+doi.org/10.1007/BF00219506.
+Thieken,A.H.,Cammerer,H.,Dobler,C.,Lammel,J.,Schöberl,F.,2016.Estimating
+changesinfloodrisksandbenefitsofnon-structuraladaptationstrategies-acase
+studyfromtyrol,Austria.Mitig.Adapt.StrategiesGlob.Change21(3),343–376.
+https://doi.org/10.1007/s11027-014-9602-3.
+Ueland,Jeff,Warf,Barney,2006.Racializedtopographies:altitudeandraceinsouthern
+cities*.Geogr.Rev.96(1),50–78.https://doi.org/10.1111/j.1931-0846.2006.
+tb00387.x.
+Walker,G.,Burningham,K.,2011.Floodrisk,vulnerabilityandenvironmentaljustice:
+evidenceandevaluationofinequalityinaUKcontext.Crit.Soc.Pol.31(2),216–240.
+https://doi.org/10.1177/0261018310396149.
+Wheater,H.,Evans,E.,2009.Landuse,watermanagementandfuturefloodrisk.Land
+UsePolicyLandUseFut.26(Suppl.1),S251–S264.https://doi.org/10.1016/j..2009.
+08.019.
+Wing,OliverE.J.,Bates,PaulD.,Sampson,ChristopherC.,Smith,AndrewM.,Johnson,
+KrisA.,Erickson,TylerA.,2017.Validationofa30mresolutionfloodhazardmodel
+oftheconterminousUnitedStates.WaterResour.Res.53(9),7968–7986.https://
+doi.org/10.1002/2017WR020917.
+Wing,OliverE.J.,Bates,PaulD.,Smith,AndrewM.,Sampson,ChristopherC.,Johnson,
+KrisA.,Fargione,Joseph,Morefield,Philip,2018.Estimatesofpresentandfuture
+floodriskintheconterminousUnitedStates.Environ.Res.Lett.13(3),034023.
+https://doi.org/10.1088/1748-9326/aaac65.
+Winsemius,H.C.,Jongman,B.,Veldkamp,T.I.E.,Hallegatte,S.,Bangalore,M.,Ward,P.J.,
+2018.Disasterrisk,climatechange,andpoverty:assessingtheglobalexposureof
+poorpeopletofloodsanddroughts.Environ.Dev.Econ.23(3),328–348.https://doi.
+org/10.1017/S1355770X17000444.
+Yusuf,A.A.,Francisco,H.,2009.ClimateChangeVulnerabilityMappingforSoutheast
+Asia.https://idl-bnc-idrc.dspacedirect.org/handle/10625/46380.
+Y. Qiang
+Journal of Environmental Management 232 (2019) 295–304
+304

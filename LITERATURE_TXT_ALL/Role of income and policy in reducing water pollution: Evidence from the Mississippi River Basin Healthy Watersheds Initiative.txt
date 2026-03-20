@@ -1,0 +1,1006 @@
+[[PAGE 1]]
+AAEA INVITED PAPER
+Role of income and policy in reducing water
+pollution: Evidence from the Mississippi River
+Basin Healthy Watersheds Initiative
+James C. Davis | Krishna P. Paudel | Anil Rupasingha
+Economic Research Service, USDA, Washington D.C, USA
+Correspondence
+Krishna P. Paudel, Economic Research
+Service, USDA, Washington D.C, USA.
+Email:
+krishna.paudel@usda.gov
+Editor in charge: Alessandro Bonanno
+Abstract
+We study the effectiveness of the Mississippi River
+Basin Healthy Watersheds Initiative (MRBI) in reduc-
+ing nitrogen pollution in surface water bodies. We use
+a Kitagawa-Oaxaca-Blinder (KOB) counterfactual
+decomposition method to quantify the role of income
+and policy in reducing nitrogen pollution in
+waterbodies. Our results show that the MRBI policy for
+the 2012 cohort of implemented watersheds across five
+states (Arkansas, Indiana, Iowa, Kentucky, and Tennes-
+see) experienced a 43% reduction in nitrogen concentra-
+tions when comparing the 2009 –2011 pre-treatment
+period to the 2012 –2018 post-treatment period. Decom-
+position results show that 79% of the improvement in
+water quality from policy treatment is derived from an
+endowment effect, driven mainly by location-fixed
+effects that include cross-sectional mean differences in
+income, among other characteristics. Results also show
+that 21% of differences are derived from the coefficient
+effect or differences in the response of policy-treated
+watersheds compared to a set of control watersheds.
+The authors thank John Bullough, Hongtao Hu, and session participants at the 2023 ASSA Annual Meeting.
+The findings and conclusions in this paper are those of the authors and should not be construed to represent any official
+USDA or U.S. Government determination or policy. This paper was supported by the U.S. Department of Agriculture,
+Economic Research Service.
+Received: 25 February 2023 Accepted: 23 October 2023
+DOI: 10.1002/aepp.13417
+Published 2024. This article is a U.S. Government work and is in the public domain in the USA.
+Appl Econ Perspect Policy. 2024;46:627–647. wileyonlinelibrary.com/journal/aepp 627
+
+
+[[PAGE 2]]
+KEYWORDS
+income, Mississippi River Basin Healthy Watershed Initiatives,
+policy, water pollution
+JEL CLASSIFICATION
+Q53
+Environmental quality improvement happens for two main reasons: rising income levels and
+the formulation of new environmental policies (Dasgupta et al., 2002; Grossman &
+Krueger, 1995; Hu et al., 2022). The traditional idea of the income and pollution relationship
+states that pollution increases as income increases, but pollution starts coming down after
+income reaches a threshold or turning point (Paudel et al.,
+2005). This relationship is based on
+the assertion that as economic activities such as manufacturing, agriculture, and transportation
+grow in the early stages of economic growth, they generate more pollution. However, as
+incomes rise, people tend to demand cleaner environments, and also the economy becomes
+more service-oriented. The shape of this relationship is often depicted as an inverted U-shaped
+curve, with pollution increasing with economic growth until a turning point is reached, after
+which pollution begins to decrease. The shape of the income and pollution relationship curve
+varies based on pollutants, locations, and study periods (Lawell et al.,
+2018).
+The process that produces the inverted U-shaped relationship between pollution and
+income is not linear, and technological change, education, public policy, and socioeconomic
+conditions may eventually lead to a decline in pollution (Grossman & Krueger,
+1995). Because
+people tend to demand cleaner environments as income rises, governments implement policies
+and regulations to curtail environmental degradation and promote environmentally friendly
+practices. Some early studies on the relationship between pollution and income note that pollu-
+tion has declined in rich as well as poor countries over time, and they credit government regula-
+tion as partly responsible for this change (Dasgupta et al.,
+2002). The formulation of
+environmental policies by the government has been crucial in deterring the continuous rise of
+pollution. There are many public policies that governments can employ in this regard. Early
+regulations and standards established by the U.S. government to limit the amount of pollution
+and other harmful activities that industries, businesses, and individuals can produce include
+the Clean Air Act of 1963 and the Clean Water Act of 1972. Since then, many other laws and
+regulations have been enacted at the federal and state levels to protect the environment further,
+and this effort continues to the present day.
+1
+Several studies provide evidence that environmental policies can positively impact environ-
+mental quality and that the relationship between income and pollution may vary across income
+levels and policy contexts. These studies generally find that mandatory regulations, regular
+inspections, strong enforcement mechanisms, and other incentive programs have significantly
+improved environmental quality. For example, Culas (
+2007) focuses on institutions for secure
+property rights and better environmental policies on deforestation and finds that institutions
+and policies can reduce the height of the inverted U-curve, meaning that environmental degra-
+dation peaks at a lower level of income. Greenstone and Hanna (
+2014) suggest that strict moni-
+toring and enforcement of regulations is an effective way to reduce environmental pollution
+and that environmental regulations are only effective if enforced properly. Shapiro and Walker
+(
+2018) find that environmental regulations were a significant factor in the reduction of
+628 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+U.S. point source pollution between 1990 and 2008. Churchill et al. ( 2020) estimate that the
+peak in the inverted-U shape coincides with a significant policy shift in Australia's commitment
+to reducing CO 2 emissions. This policy shift, which aimed to reduce CO 2 emissions to 5% below
+2000 levels by 2020 under the United Nations Framework Convention on Climate Change
+(UNFCCC) (the Cancun Agreement), may have contributed to the observed decline in CO 2
+emissions despite continued economic growth. Hu et al. ( 2022) highlight the roles of environ-
+mental protection policy and income growth in enhancing environmental quality in China.
+They show that the income level had an inverted U-shaped relationship with sulfur dioxide and
+wastewater emissions and that the effects of policies on pollution reduction vary among cities
+and are affected by regional economic development. This indicates that local economic and
+social conditions may influence the effectiveness of environmental policies. Finally, Hsieh
+and Gramig (
+2024) find evidence of a positive effect of agricultural practices, specifically cover
+crops, on surface water quality. Given the favor of voluntary incentive policies over regulation
+in the U.S. to control nonpoint source pollutants, this new evidence on the impact of producer
+adoption of environmental practices underlies the study of policy mechanisms.
+The objective of the present paper is to add to this strand of literature by studying the effec-
+tiveness of the Mississippi River Basin Healthy Watersheds Initiative (MRBI) implemented by
+the USDA Natural Resources Conservation Service (NRCS). To the best of our knowledge, the
+MRBI has not been studied for its effectiveness in reducing pollution. Our paper goes a step fur-
+ther in distinguishing the specific impacts of income and policy on pollution reduction. We use
+a decomposition method to identify the role of income and policy in reducing water pollution
+in the United States. We use unique 12-digit hydrological unit code level data from 12 U.S.
+states where the Mississippi River Basin Healthy Watershed Initiatives have been in operation
+to establish the role of environmental policy and income in reducing pollution. We focus on
+nitrogen levels in surface water as our primary pollution outcome variable of interest.
+Our results show that the MRBI policy for the 2012 cohort of implemented watersheds had
+a large and statistically significant effect on reducing water pollution. The treated watersheds
+across five states (Arkansas, Indiana, Iowa, Kentucky, and Tennessee) saw a 43% reduction in
+nitrogen concentrations when comparing the 2009 –2011 pre-treatment period to the 2012 –2018
+post-treatment period. Watersheds in Tennessee saw the largest improvements. Treated water-
+sheds in Arkansas also experienced a substantial decline in nitrogen levels of 19%. Some varia-
+tions in the strength of the response across watersheds can occur. Decomposition results show
+that 79% of the improvement in water quality from policy treatment is derived from an endow-
+ment effect, driven mainly by location-fixed effects that include cross-sectional mean differ-
+ences in income, among other characteristics. The effect of income on pollution outcomes is a
+long-run phenomenon related to economic growth. Results show that 21% of differences are
+derived from the coefficient effect or differences in the response of policy-treated watersheds
+compared to a set of control watersheds. This result indicates that policy can have a substantial
+effect, particularly for investments seeking immediate short-term gains.
+First, we introduce a model that shows the interconnection of water pollution, environmen-
+tal policy, and income. Second, we describe the Mississippi River Basin Healthy Watersheds Ini-
+tiative that was launched by the United States Department of Agriculture to improve water
+quality health in the Mississippi River Watersheds. Third, we present the sources and key fea-
+tures of the data. Fourth, we explain our difference-in-differences and decomposition empirical
+approach, Results and conclusions are presented next. An extended theoretical model is shown
+in the appendix.
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 629
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+THEORETICAL MODEL
+To develop our theoretical model, we build on previous work by Lawell et al. ( 2018) and Hu
+et al. ( 2022). Consider the following two equations:
+Q ¼ fI , P,XðÞ ð 1Þ
+I ¼ φ Q, P, XðÞ ð 2Þ
+where Q represents water pollutants (e.g., nitrogen concentration in waterbodies), I represents
+income level, P represents environmental policy, and X represents other factors. We assume
+there is a functional relationship f /C1ðÞ between the water pollutant, income, environmental pol-
+icy, and the other factors. At the same time, income also has a functional relationship φ /C1ðÞ with
+the pollutant, environmental policy, and other factors. Environmental policy may result in a
+possible economic slowdown and a reduction in income levels. At the same time, environmen-
+tal investment may also create new jobs and provide economic progress. Therefore, we consider
+environmental policy ( P) into φ /C1ðÞ .
+The relationship between pollution (Q) and income level (I) is captured by the partial deriv-
+ative of the pollution function with respect to income
+∂f
+∂I, and the relationship between environ-
+mental policy and pollution is captured by the partial derivative of the pollution function with
+respect to environmental policy ∂f
+∂P. To demonstrate the possibility of a biased estimate due to
+missing and endogenous policies or endogenous per capita income, we expand the analysis fur-
+ther as described in the Appendix.
+MISSISSIPPI RIVER BASIN HEALTHY WATERSHEDS
+INITIATIVE (MRBI)
+The US Department of Agriculture (USDA) NRCS launched the MRBI in 2009 to improve water
+quality health in the Mississippi River watersheds (US EPA, 2022). The initiative leverages the
+2008 Farm Bill conservation programs funding, and the initiative was introduced to address ele-
+vated nutrient levels in the Mississippi River, which flow downstream and contribute to the
+Gulf of Mexico Hypoxic Zone.
+The MRBI program supports and funds farm conservation investments designed to reduce
+agricultural sources of nutrient and sediment pollution, as well as local water quality monitor-
+ing and assessment resources in twelve states adjoining the Mississippi and Ohio rivers.
+2 MRBI
+is connected to and uses several Farm Bill programs for funding, most notably the Environmen-
+tal Quality Incentives Program (EQIP) and the Conservation Stewardship Program (CSP). These
+programs provide technical and financial assistance to agricultural producers and forest land-
+owners to implement conservation practices to promote soil health, reduce erosion, and lessen
+nutrient runoff. The program is a collaboration with state water quality agencies. MRBI funds
+are allocated to states for use only within priority watersheds with approved Cooperative Con-
+servation Partnership Initiative (CCPI) projects. NCRS State Conservationists solicit proposals
+for potential partner institutions to nominate watershed projects at the 12-digit Hydrologic Unit
+Code (HUC12) level for review and approval, where proposed watersheds were required to fall
+within a set of MRBI identified HUC8 Focus Watersheds representing high-priority areas. From
+630 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+2012 to 2022, 487 HUC12 watersheds were approved for the MRBI program. Their distribution
+by state is given in Table 1.
+Within approved watersheds, EQIP and CSP programs are voluntary, where local NRCS
+staff work one-on-one with agricultural producers to develop land site-specific conservation
+plans. Approved land types included crop, range, pasture, farmstead, and associated agricultural
+lands. Twelve original natural resource concerns were approved, and contracts developed under
+MRBI had to include one of 34 core conservation practices (e.g., cover crop, drainage water
+management, etc.). An additional 43 supporting conservation practices were also available to
+support MRBI initiatives. Producers apply to participate in EQIP and CSP on a continuous
+basis. For EQIP, state-specific ranking dates inform funding cycle decisions. All national EQIP
+ranking questions applied to MRBI. States developed additional state-ranking questions to
+address priority needs, and local MRBI project sponsors developing MRBI proposals through
+CCPI could also add local-ranking questions.
+MRBI data for approved watersheds was provided by the NRCS MRBI program office and
+includes the project, project EQIP and CSP funding, HUC12 watershed codes, and HUC12
+implementation start year used to construct the policy treatment variable. Data for the largest
+participating program EQIP is from the NRCS Protracts database and includes program expen-
+ditures for all HUC12 watersheds, including MRBI participating watersheds prior to treatment.
+Watershed treatment was a three-step process. First, the MRBI program was federally approved
+in 2009. Federal and state partnerships then approved HUC8 focus watersheds, followed by
+TABLE 1 Summary Statistics for HUC12 Watersheds by State for 2009 to 2018.
+State
+2012
+MRBI
+2015–
+16
+MRBI
+Total
+MRBI
+Non-
+MRBI
+Monitor
+stations Obs.
+Mean
+nitrogen
+Standard
+deviation
+Lower Mississippi Basin
+Arkansas 33 15 105 1340 1162 27,830 0.50 0.93
+Louisiana 0 9 14 1188 894 17,855 0.77 0.84
+Mississippi 0 0 2 1253 621 4976 0.91 1.37
+Tennessee 39 16 73 953 2741 17,156 0.57 1.09
+Upper Mississippi Basin
+Iowa 3 3 74 1540 1463 17,435 1.17 1.70
+Illinois 0 3 32 1742 2302 24,194 0.80 1.31
+Minnesota 0 15 21 2367 8598 53,903 1.35 1.74
+Missouri 0 17 27 1849 1500 13,071 1.0 1.44
+Wisconsin 0 17 22 1722 3909 12,272 0.84 1.27
+Ohio River Basin
+Kentucky 10 12 28 1183 817 7183 1.14 2.34
+Indiana 9 16 52 1432 1442 6834 1.0 1.18
+Ohio 0 15 16 1455 3281 16,198 0.64 0.91
+Note: Total MRBI HUC12 watersheds include all approved watersheds for the MRBI program from 2012 through 2022. Non-
+MRBI watersheds exclude all MRBI approved HUC12 watersheds.
+Source: ERS estimates using data from the Natural Resources Conservation Service (NRCS) Mississippi River Basin Healthy
+Watershed Initiative (MRBI), Standardized Nitrogen and Phosphorus Dataset (SNAPD) and the Water Quality Portal (WQP).
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 631
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+application by state partners for approval for specific HUC12 watersheds to participate in the
+program. Once approved, local federal, state, and partner staff worked with farmers and
+ranchers on mitigation proposals to implement on their farms. Liu et al. ( 2023) show EQIP pay-
+ments have improved some aspects of water quality, such as reduced biochemical oxygen
+demand and nitrogen, but have also increased total suspended solids, fecal coliform, and
+phosphorus.
+MRBI and EQIP implementation includes both financial and technical assistance for pro-
+ducers. The decision by farmers to participate in and implement programs such as cover crops,
+reduced tillage, and so forth, begin following the dates watershed implementation started.
+Figure
+1 maps MRBI watershed implementation as of 2016. The figure includes the 2012
+(94 HUC12), 2015 (49 HUC12), and 2016 (89 HUC12) cohorts of MRBI watersheds indicated in
+green.3 We construct Protract EQIP payment estimates by watershed for this paper limited to
+the 77 core and supporting EQIP practices approved for use in the MRBI program. MRBI data
+were linked to HUC12 watershed characteristics available from the EPA Watershed Index
+Online (WSIO) library of watershed indicators, including the majority county within which the
+watershed is located. US counties are geographically larger than HUC12 watersheds, though
+watersheds can span multiple counties. MRBI projects were often approved for multiple
+HUC12 watersheds.
+WATERSHED POLLUTION AND INCOME DATA
+The primary data used for the paper include nitrogen pollution level readings at the monitoring
+station linked to MRBI-approved HUC12 watersheds and county-level Gross Domestic Product
+(GDP) data.
+Water quality outcome data are sourced from the Water Quality Portal (WQP) of the
+National Water Quality Monitoring Council, a cooperative service that consolidates data from
+the US Geological Survey (USGS) National Water Information System (NWIS), Environmental
+Protection Agency (EPA) STOrage and RETrieval (STORET) Data Warehouse, USDA Research
+Service Sustaining The Earth's Watersheds-Agricultural Research Database System
+(STEWARDS), and hundreds of federal, state, local and tribal agencies and monitoring organi-
+zations. The data on nitrogen pollution levels are standardized and harmonized by Krasovich
+et al. (
+2022) into the Standardized Nitrogen and Phosphorus Dataset (SNAPD), where measure-
+ments (in mg/L) can be compared across time and space for the Mississippi/Atchafalaya River
+Basin. The SNAPD project solved issues of the comparability of water quality data from non-
+point source (NPS) water pollution monitoring, particularly challenging due to decentralized
+agricultural production across expansive land regions, the diffuse transport of contaminants
+into waterways, and the numerous authorities and institutions performing the monitoring. The
+data standardize the units of measurement (e.g., mg/L or ppm), the chemical form of the nutri-
+ent (e.g., nitrate or nitrogen), and sample fraction (e.g., filtered or unfiltered) variations in sam-
+ple reporting.
+4 Where standardization was not possible because the necessary information was
+not recoverable, observations were excluded from SNAPD such that the data are a subset of the
+available water quality data in the WQP. WQP monitoring station data were separately
+retrieved to construct a crosswalk from monitor location identifiers to county and
+HUC8 watersheds. EPA How's My Waterway data were used to construct a crosswalk from
+monitor location identifiers to MRBI HUC12 watersheds.
+632 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+FIGURE 1 Map of MRBI priority and implementation watersheds in 2016. Priority HUC8 watersheds are in
+yellow. HUC12-approved watersheds are in red and green, with the green watersheds in implementation.
+Source: USDA Natural Resources Conservation Service (NRCS) Mississippi River Basin Healthy Watershed
+Initiative (MRBI).
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 633
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Figure 2 shows the average nitrogen concentration levels for all watersheds in the 12 Missis-
+sippi River Water Basin states from 2001 to 2018. Nitrogen concentration varies by up to 29% in
+any given year, around the mean of 1.02 mg/L. We see peak watershed degradation between
+2001 and 2018 occurring in 2004 and 2007. The 2004 peak was driven by watershed degradation
+primarily in Iowa and Illinois, and the 2007 peak was driven by Illinois (McIsaac et al.,
+2016).
+The steady degradation in water quality prior to 2007 provided the impetus to approve the
+MRBI program in 2009. The first MRBI watershed implementations in our data began in 2012,
+and Figure
+1 shows that these watersheds represented a small share of the total watersheds in
+the 12 states. Figure 2 shows that overall water quality, as measured based on nitrogen concen-
+tration in waterbodies, declined in the 12 states from 2010 through 2018.
+Table 1 also shows the mean nitrogen concentration across years and water monitoring sta-
+tions by state for the 2009 –2018 period. The values vary considerably across the 12 states rang-
+ing from 0.5 mg/L for Arkansas to 1.34 mg/L for Minnesota. Within-state variation is also
+substantial; the standard deviation is smallest for Louisiana at 0.84 (mean nitrogen concentra-
+tion level of 0.77 mg/L) and largest for Kentucky at 2.34 (mean nitrogen concentration level of
+1.14 mg/L).
+Based on the availability of water quality data through 2018, this paper focuses on the first
+cohort of 94 watersheds in which the program was implemented in 2012. The majority of water-
+sheds were implemented in Arkansas and Tennessee as shown in Table
+2.
+We explore water pollution outcomes before and after MRBI implementation in 2012. Sum-
+mary statistics for the mean nitrogen concentration are provided in Table 2. We include the full
+12-state sample, as well as some detail for the two main implementation states of Arkansas and
+Tennessee, and for a sample of 11 states excluding Tennessee given this state had exceptional
+nitrogen concentration changes in comparison to the other 4 states.
+County GDP data by year are from the Bureau of Economic Analysis (BEA) Regional Eco-
+nomic Accounts. Nominal values are deflated using the BEA GDP: Implicit Price Deflator
+retrieved from St. Louis Fed FRED. County population data are from the U.S. Census Bureau
+FIGURE 2 Nitrogen concentration for the 12 states of the Mississippi River Basin. Source: Standardized
+Nitrogen and Phosphorus Dataset (SNAPD, Krasovich et al., 2022) using data from the Water Quality Portal
+(WQP), U.S. Geological Survey (USGS), and Environmental Protection Agency (EPA).
+634 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+TABLE 2 Mean nitrogen concentration for pre- and post-MRBI implementation.
+12-state sample 11-states w/out TN Arkansas Tennessee
+Watersheds Pre-MRBI Post-MRBI N Pre Post Pre Post N Pre Post N
+All 0.900 0.936 75,037 0.918 0.973 0.463 0.509 7173 0.677 0.504 5556
+MRBI 1.771 0.706 686 1.648 1.304 0.755 0.584 142 1.88 0.396 363
+Note: N are monitoring station observations from 2009 to 2018.
+Source: USDA Economic Research Service (ERS) estimates using data from the Natural Resources Conservation Service (NRCS) Mississippi River Basin Healthy Watershed Initiative (MRBI)
+and Standardized Nitrogen and Phosphorus Dataset (SNAPD).
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 635
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+Population Division's Intercensal Estimates of the Resident Population for Counties and States.
+Crop Acreage data by county and year are from the USDA Farm Service Agency (FSA).
+Summary statistics and variable definitions are provided in Table 3. The mean nitrogen con-
+centration sample is 0.93 mg/L over monitoring stations included in the twelve participating
+MRBI states. Each monitoring station is linked to its county through its HUC watershed identi-
+fier, where mean values for GDP per capita, crop density, and population density are calculated
+over monitoring stations.
+EMPIRICAL STRATEGY
+We use a difference-in-differences approach in a panel data setting to estimate the average
+treatment effect on the treated (ATET) of a binary MRBI watershed treatment on nitrogen pol-
+lution. The model to be estimated is given by
+y
+iht ¼ γi þ γt þ Xiht β þ Dhtδ þ εiht ð3Þ
+where i denotes the water monitoring station, t is time as year-month, and h is a group-level
+index for the HUC12 watershed. yiht is the outcome 5 measured as nitrogen levels in mg/L. Xiht
+include county-level annual GDP income per capita, GDP per capita income squared, popula-
+tion density, agricultural crop coverage density, EQIP program expenditures, and upstream
+nitrogen levels. Monitoring stations are located within watersheds, and the MRBI treatment
+occurs at the HUC12 watershed level as captured by the indicator D
+ht, where Dht ¼ 1 for all
+observations that are subject to the MRBI treatment in watershed h at time t. We include moni-
+toring station's fixed effects γi, year-month time effects γt , and standard errors clustered at the
+HUC12 watershed level. The monitoring station fixed effects accommodate unique fixed
+TABLE 3 Summary statistics and variable definitions for 2009 –2018 12-state estimation sample.
+Variable
+name Variable description N Mean SD
+concN Nitrogen concentration (mg/L) 218,907 0.9267 1.435
+cropden Crop coverage density per square mile 295,331 217.3 181.5
+gdpc Gross Domestic Product (GDP) per capita ($1 k) 297,423 42.49 19.65
+gdpc2 GDP per capita squared 297,423 2192.2 2611
+landarea Land area (square miles) 297,423 706.7 388.4
+MRBI 2012 MRBI implementation indicator 297,423 0.002757 0.05244
+popden Population density per square mile 297,423 309.6 674.9
+eqip2 EQIP expenditures 75,783 45,308 156,911
+Nup Upstream nitrogen concentration 100,475 1.029 1.547
+mlperhuc Monitoring locations per HUC12 (12-digit Hydrologic
+Unit Code)
+33,388 8.908 11.81
+Source: ERS analysis using data from Standardized Nitrogen and Phosphorus Dataset (SNAPD), Water Quality Portal (WQP),
+USDA FSA Crop Acreage Data, BEA Regional Economic Accounts, EPA Watershed Index Online (WSIO), USDA NRCS
+Mississippi River Basin Healthy Watershed Initiative (MRBI), Census Bureau Intercensal Estimates, and NRCS Environmental
+Quality Incentives Program (EQIP) administrative data.
+636 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+features of the water testing location, such as if it is a lake, stream, well, and so forth in addition
+to differences in the mix of local farms and industrial activity in the immediate area.
+Decomposition
+We use a Kitagawa-Oaxaca-Blinder (KOB) counterfactual decomposition method
+(Blinder,
+1973; Kitagawa, 1955; Oaxaca, 1973) to explore the mean nitrogen water quality out-
+come differences between two groups of watersheds, specifically MRBI-treated and non-MRBI
+watersheds for the twelve states of the Mississippi and Ohio River Basins. The procedure
+decomposes mean differences into a coefficient effect and endowment effect. The coefficient
+effect, also called the rate effect or unexplained difference, quantifies how much of the mean
+difference can be attributable to the different treatment estimates (slope coefficients) holding
+characteristics (covariates) constant between groups. The endowment effect, also called the dis-
+tributional effect or explained difference, quantifies how much the mean difference is based on
+the different explanatory covariates between the two groups.
+We estimate Equation (
+3) separately for the MRBI and non-MRBI monitoring stations
+where X subsumes a constant and a set of county fixed effects in the notation. The decomposi-
+tion is then written as
+Y M /C0 Y N ¼ bM /C0 bNðÞ XM þ XN
+2
+/C18/C19
+þ XM /C0 XN
+/C0/C1 bM þ bN
+2
+/C18/C19
+ð4Þ
+where M is for MRBI and N is for non-MRBI water monitoring stations, and bar are mean
+values. The first expression on the right-hand side of the equation represents the coefficient
+effect for the difference in estimated slope coefficients for the two groups of watersheds, and the
+second expression for the endowment effect for the difference in mean covariates for the two
+groups. This is implemented in Stata as described by Jann (
+2008). We show the total decomposi-
+tion of the water quality outcome differential into coefficient and endowment parts. The mean
+nitrogen concentration gap between MRBI and non-MRBI watersheds can be attributed to the
+difference in income per capita, population density crop coverage and EQIP investment mea-
+sures (county and watershed endowment differences), and different effects or estimated slope
+coefficients for the two watershed types controlling for same levels of covariates.
+We also further present a detailed decomposition of the drivers of the endowment effect. We
+evaluate how much of the gap in nitrogen concentration is due to watershed differences in
+income and how much is due to differences in the policy treatment. Detailed decomposition
+results for the unexplained part of the decomposition are also estimated.
+We perform a KOB decomposition of the effects for the 2009 –2011 pre-policy period
+between the two groups of MRBI-treated monitoring stations and non-treated stations and do a
+similar decomposition for the 2012 –2018 post-treatment period. The difference in effects across
+the treatment period further decomposes the contribution of the difference-in-differences treat-
+ment effect, a technique shown and derived in Davis et al. (
+2021). In addition, we include a
+measure of EQIP investments for MRBI watersheds as an explanatory variable in both pre-
+treatment and post-treatment periods, as well as for all periods of the non-treated watersheds.
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 637
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+RESULTS
+MRBI difference-in-differences results
+We present results for five difference-in-differences specifications in Table 4 for the sample of
+MRBI-treated watersheds with a 2012 implementation start date. Columns (1) and (2) include
+the base model with and without controls for income, income squared, population density,
+agricultural crop density, and indicator if the watershed has any EQIP projects, EQIP funding
+(so-called “cost shares ”) and a control for the level of nitrogen concentration in the upstream
+watershed. The two states with the most MRBI watersheds in the first 2012 wave of implemen-
+tation were Arkansas and Tennessee as shown in Table
+1. Column (3) in Table 4 includes only
+Arkansas, and column (4) Tennessee. Tennessee experienced exceptionally high nitrogen
+TABLE 4 MRBI difference-in-differences estimates.
+(1) (2) (3) (4) (5)
+ATET
+MRBI /C0 0.751** /C0 0.746** /C0 0.153*** /C0 0.943*** /C0 0.197***
+(0.239) (0.227) (0.030) (0.270) (0.041)
+Controls
+GDP per capita /C0 0.00538*** 0.00276 /C0 0.0476* /C0 0.00481**
+(0.00152) (0.00460) (0.0196) (0.00154)
+GDP per capita
+squared
+1.46 e/C0 5 ** /C0 3.22 e/C0 5 3.61 e/C0 4 * 1.24 e/C0 5 **
+(4.74 e/C0 6) (6.08 e /C0 5) (1.63 e /C0 4) (4.61 e /C0 6)
+Population density /C0 9.62 e/C0 4 *** /C0 0.00112 /C0 0.00397 /C0 9.34 e/C0 4 ***
+(2.86 e/C0 4) (0.00163) (0.00278) (2.79 e /C0 4)
+Crop density /C0 8.07 e/C0 4* /C0 6.51 e/C0 5 /C0 4.55 e/C0 4 /C0 7.85 e/C0 4*
+(3.80 e/C0 4) (3.632 e /C0 4) (1.625 e /C0 3) (3.88 e /C0 4)
+EQIP indicator /C0 0.0380** 0.0103 0.0453 /C0 0.0471***
+(0.0126) (0.0109) (0.0375) (0.0126)
+EQIP expenditures 2.41 e /C0 8 3.58 e/C0 8 1.59 e/C0 7** 2.95 e/C0 9
+(4.43 e/C0 8) (7.67 e /C0 8) (6.17 e /C0 8) (5.92 e /C0 8)
+Upstream nitrogen 0.0330 * /C0 0.0022923 0.0633 * 0.0310
+Concentration (0.0166) (0.0042172) (0.0301) (0.0170)
+Year-month effects Yes Yes Yes Yes Yes
+MRBI watersheds AR, IA, IN, KY,
+TN
+AR, IA, IN, KY,
+TN
+AR TN AR, IA, IN, KY
+Control watersheds 12-states 12-states AR TN 11-states (w/out
+TN)
+N 218,907 217,043 27,690 17,130 199,913
+*p < 0.05; ** p < 0.01; *** p < 0.001.
+638 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+concentrations for some of its watersheds prior to implementation of the MRBI program.
+Finally, column (5) includes all MRBI-treated watersheds, excluding those in Tennessee.
+Across the specifications, we see large and statistically significant average treatment effects
+for the treated MRBI watersheds. Overall, from column (2), MRBI implementation reduced
+nitrogen concentration in these HUC12 watersheds by 0.75 mg/L or 42% of the pre-treatment
+mean concentration of 1.771 for the MRBI-treated watersheds as given in Table 2. Column
+(3) in Table 4 focuses only on both treated and control watersheds in Arkansas; the ATET
+watersheds is a decline of 0.153 or 20%. We see from Table 2 that mean levels of nitrogen con-
+centration fell from 0.755 to 0.584 pre- and post-2012 for the 33 MRBI watersheds implemented
+in Arkansas. The estimated ATET effect for Tennessee of /C0 0.943 represents a 50% decline. The
+overall mean nitrogen concentration for Tennessee prior to MRBI treatment for all watersheds
+was 0.677 mg/L, where Tennessee environmental management focused on a set of degraded
+watersheds (mean 1.88 mg/L) for the first implementation into the MRBI program. In column
+(5), excluding Tennessee, we see an ATET effect of /C0 0.197 or a 12% improvement (nitrogen
+decline) from the pre-treatment mean.
+To explore if the trajectories of nitrogen concentration are parallel for the control and treat-
+ment groups prior to MRBI implementation, we average station-level water quality readings to
+the watershed level by year.
+6 We begin by plotting the means of the outcome variable over time
+for both the MRBI-treated group and the control group of watersheds on the left in Figure 3.
+FIGURE 3 Graphs of parallel-trends assumption. Source: USDA Economic Research Service (ERS) estimates
+using data from the Natural Resources Conservation Service (NRCS) Mississippi River Basin Healthy Watershed
+Initiative (MRBI) and Standardized Nitrogen and Phosphorus Dataset (SNAPD).
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 639
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+These appear on relatively the same path leading up to MRBI treatment. On the right side of
+Figure 3, we plot the results of the linear-trends model. The group-level trajectories are shown
+with respect to a common reference point in 2009. The graph indicates that the parallel-trends
+assumption is satisfied; however, from the linear-trends model graph, visually, this is not
+certain.
+We also perform a statistical test to see if the trajectories are parallel in the pre-treatment
+period. The Stata linear trends model augments the difference-in-differences (DID) model with
+terms that capture the differences in slopes between treated and controls (Stata,
+2021). The
+hypothesis tested is that the coefficients for the differences in linear trends prior to treatment
+are statistically the same. Our result is an F(1, 3154) statistic of 0.04 and a p-value (Prob > F)o f
+0.8464. The null hypothesis of parallel trends is not rejected, and the parallel-trends assumption
+is supported.
+To test if farmers in either the control or treatment watersheds changed their agricultural
+practices in anticipation of the MRBI treatment, we use a Granger-type test of if a treatment
+effect occurs before the treatment is implemented. Stata augments the DID model by interacting
+the dummy variable that marks treated observations with a dummy variable for periods before
+the treatment. A joint test of the coefficients on these dummies against 0 is used as a test of a
+null hypothesis of no effect in anticipation of treatment. For our data, this gives an F(2, 3154) of
+0.25 with a p-value of 0.7792, and we cannot reject the null hypothesis. Given the evidence for
+the 2009 –2011 period prior to MRBI implementation in 2012, treated and control watersheds
+followed a parallel path.
+We explore the extent to which our ATET estimates are robust to the inclusion of multiple
+MRBI watershed program implementation years, specifically 2015 and 2016. Due to potential
+econometric issues with staggered adoption and the interpretation of results, we use a synthetic
+difference-in-differences (SDID) estimator (Arkhangelsky et al.,
+2021; Clarke et al., 2023). Like
+synthetic control methods (Abadie et al., 2010, 2015; Abadie & Gardeazabal, 2003), SDID forms
+a unique convex weighting of underlying control units to create a synthetic control that is
+closely matched to the treated unit in pre-treatment outcomes. This considerably loosens the
+need for parallel trend assumptions. The ATET estimate using the staggered adoption design
+for the 2012, 2015, and 2016 MRBI watersheds is a weighted estimand as described in
+Arkhangelsky et al. (
+2021). The principal disadvantage of the SDID implementation is a require-
+ment for a balanced panel. Implementing SDID with our data, including the covariates used in
+the specifications in Table
+4 (gdpc, eqip, etc.) in the calculation of the synthetic counterfactual,
+the SDID ATET estimate is /C0 0.449 and significant (with standard error 0.198).
+Decomposition results
+The paper set out to explore the role of income and policy on water pollution. An OLS regres-
+sion of nitrogen concentration on income as measured by GDP/capita and income squared, on
+MRBI intensified EQIP policy, and our other controls (population density, crop coverage, and
+upstream nitrogen concentration) estimates slope coefficients that show the usual inverted-U
+shaped relationship between income and water pollution. Low-income places at first generate
+increasing pollution as income rises, up to a maximum where further increases in income even-
+tually result in water pollution declines. We find this inverted-U relationship in our watershed
+data, as expected. As seen in Figure
+4, the average county income for watersheds is $42,500 per
+capita, as represented by the vertical dashed line in the graph. The turning point for GDP occurs
+640 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+at $145,700 per capita, where the effect of increases in income per capita on nitrogen pollution
+first increases below this threshold, then reverses and begins decreasing past the peak. For
+almost all U.S. watersheds (the 99th percentile is $104,200) in the Mississippi River Water
+Basin, an increase in income is also expected to increase watershed nitrogen concentrations.
+This result is consistent with a long-run economic growth setting, where the result of Figure
+4
+is primarily driven by the between effect across watersheds. Introducing monitoring station's
+fixed effects that control for time-invariant local watershed characteristics means the between
+effect is absorbed by the fixed effect, and only short-run changes in income are identified. This
+allows us to decompose watershed differences in nitrogen concentrations into contributions
+from changes in income and MRBI policy implementation.
+We decompose nitrogen concentration for monitoring station observations using a KOB
+method described in the empirical strategy section. Our specification includes measures for
+income, EQIP funding, population density, crop coverage, and upstream water quality, as well
+as fixed effects for county and time (year-month). Panel A of Table
+5 shows the mean nitrogen
+levels for the pre- and post-MRBI periods separately for MRBI-treated watersheds and all other
+non-treated watersheds in the 12-state Mississippi River Basin. We see a significant overall
+decline in nitrogen concentration for MRBI watersheds from a mean of 1.772 in the pre-
+implementation period to 0.706 in the post-implementation period. Also shown in panel A for
+convenience are the differences across groups and the differences within groups across periods.
+Prior to MRBI implementation, the MRBI watersheds had mean nitrogen concentrations 0.878
+higher than non-MRBI watersheds. After implementation, this reversed where MRBI water-
+sheds had, on average, 0.237 lower nitrogen concentrations.
+The decomposition results in Table
+5 Panel B show that 79% of the differences (0.878/1.115)
+can be explained by the endowment effect, or in other words, by differences in the explained
+FIGURE 4 Nitrogen concentration by level of income. The graph draws a curve for calculated values of
+nitrogen concentration based on the slope coefficients for GDP per capita (0.0039923) and GDP per capita
+squared (/C0 0.0000137) from a regression of concN on gdpc gdpc2 popden cropden eqip mrbi and a set of year-
+month indicators (variable definition is shown in Table 3). The vertical dashed line is average GDP per capita in
+the data. Source: USDA ERS calculations using data from the Standardized Nitrogen and Phosphorus Dataset
+(SNAPD), Bureau of Economic Analysis (BEA) Regional Economic Accounts and U.S. Census Bureau
+Intercensal Estimates of the Resident Population for Counties and States.
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 641
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 16]]
+portion of MRBI and non-MRBI watersheds before and after treatment. Twenty-one percent are
+attributable to differences in the slope coefficients between the MRBI and non-MRBI estimation
+specifications. These differences in the impact of otherwise equivalent covariates on outcomes
+can come from differences in policy effectiveness as well as other idiosyncratic differences such
+as local weather or other unmeasured watershed quality shocks.
+Table
+5 further breaks down the decomposition into detailed results for the individual con-
+tributions of the predictors. For the MRBI watersheds, county income, on average, increased
+from the pre- to the post-MRBI periods from $27/capita to $32/capita. Panel C results show that
+these changes in income worked against observed declines in nitrogen concentrations, as
+expected from the prior literature and discussion of Figure
+4. Population density also increased
+in MRBI watershed places between the pre- and post-periods (average of 104 people per square
+mile to 123). This effect was somewhat offset by the opposite effect of county fixed effects. Our
+direct measure of policy expenditures through EQIP funding support to farmers and farm oper-
+ations through voluntary programs to reduce nitrogen runoff (e.g., cover crops, no-till practices,
+etc.) can explain 17% of the observed decline in nitrogen concentration. In panel D, the detailed
+TABLE 5 Decomposition results.
+Panel A: Mean nitrogen levels
+Pre-MRBI Post-MRBI Difference Share
+MRBI Watershed 1.772 *** 0.706*** /C0 1.07
+Non-MRBI Watershed 0.894 *** 0.943*** 0.0490
+Difference 0.878 *** /C0 0.237*** /C0 1.12 /C0 1.0
+Panel B: Overall decomposition
+Explained effect 0.104 /C0 0.774*** /C0 0.878 /C0 0.79
+Unexplained effect 0.774 *** 0.537*** /C0 0.237 /C0 0.21
+Panel C: Detailed decomposition for explained effect
+Income per capita /C0 0.0158 0.0569 ** 0.0727 0.08
+Population density 1.64 *** 0.105 /C0 1.54 /C0 1.75
+Crop coverage density 0.120 ** 0.141** 0.0210 0.02
+EQIP expenditures /C0 0.0447 /C0 0.197*** /C0 0.152 /C0 0.17
+Upstream water quality 0.0286 /C0 0.0175 /C0 0.0461 /C0 0.05
+Year-month fixed effects /C0 0.0239*** /C0 0.00974* 0.0142 0.02
+County fixed effects /C0 1.60*** /C0 0.853*** 0.747 0.85
+Panel D: Detailed decomposition for unexplained effect
+Income per capita 0.467 1.83 1.36 5.75
+Population density 7.24 * /C0 0.516 /C0 7.76 /C0 32.73
+Crop coverage density /C0 11.3* /C0 6.09** 5.21 21.98
+EQIP expenditures 0.0703 0.124 0.0537 0.23
+Upstream water quality /C0 0.439* 0.0497 0.489 2.06
+Year-month fixed effects /C0 0.297 0.228 0.525 2.22
+County fixed effects 39.5 *** /C0 19.1*** /C0 58.6 /C0 247.26
+*p < 0.1; ** p < 0.05; *** p < 0.01.
+642 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 17]]
+decomposition measures the drivers of the unexplained effect. Results are statistically signifi-
+cant for the county area fixed effects and mostly weak for the coefficient effect for the individual
+covariates.
+CONCLUSIONS
+This paper presented evidence on the effect of policy and income on water pollution and found
+the influence of both on outcomes. Taken together, the DID and decomposition evidence
+showed a substantial impact of MRBI program implementation on nitrogen concentration
+levels in the cohort of watersheds that participated in the 2012 MRBI program implementation
+as well as later cohorts for 2015 and 2016. The 2012 estimated decrease of 0.75 mg/L is a sub-
+stantial effect. However, given the focus of state regulators on degraded watersheds, some cau-
+tion is warranted in interpreting the magnitude of the effects more broadly on all potential
+watersheds that might participate in the program. Among priority HUC8 watersheds, substan-
+tial variation in water quality exists across locations and time. State-specific results revealed het-
+erogeneity in policy response. These are, in part, driven by idiosyncratic differences in weather
+and voluntary participation at the farm level. DID results are all highly significant. More work
+can be done to explore the effect of MRBI and other policy programs on watershed quality
+improvements. The main issue centers on policy scale.
+The MRBI program is a substantive and comprehensive commitment by federal, state, and
+private partners to work with farmers to implement water quality improvement technologies.
+However, future work might explore results for later periods and longer durations, the extent to
+which knowledge about practice adoption, nutrient retention success, water quality, and farm-
+land improvements can be disseminated to farmers in other watershed areas. In addition,
+research on the longer-term persistence of land and water resilience outcomes is warranted.
+Future research might explore both the interplay and interaction effects of policy and income
+on water outcomes, as well as the dynamics of effects over time.
+ENDNOTES
+1 USDA examples of policy instruments for protecting environmental quality are available at https://www.ers.
+usda.gov/topics/natural-resources-environment/environmental-quality/policy-instruments-for-protecting-
+environmental-quality/
+.
+2 The twelve states are Louisiana, Mississippi, Arkansas, Tennessee, Missouri, Illinois, Iowa, Wisconsin, Minne-
+sota, Kentucky, Indiana, and Ohio.
+3 There were an additional 221 approved HUC12 watersheds in 2020 –2023 past the timeframe of this study.
+4 See Krasovich et al. ( 2022) for details: https://www.nature.com/articles/s41597-022-01650-6.
+5 We do not use a natural log transformation of the outcome because the changes over time can be substantial,
+and we don't expect nitrogen pollution to follow an exponential growth pattern. We use robust standard errors.
+6 This is necessary to construct a balanced panel in order to observe and test trends because not all monitoring
+stations test the water every month, and we are interested in the trends for watersheds which are the unit of
+policy treatment rather than specific water features as captured by the individual monitoring station locations.
+REFERENCES
+Abadie, A., A. Diamond, and J. Hainmueller. 2010. “Synthetic Control Methods for Comparative Case Studies:
+Estimating the Effect of California's Tobacco Control Program. ” Journal of the American Statistical Associa-
+tion 105(490): 493–505.
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 643
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 18]]
+Abadie, A., A. Diamond, and J. Hainmueller. 2015. “Comparative Politics and the Synthetic Control Method. ”
+American Journal of Political Science 59(2): 495–510.
+Abadie, A., and J. Gardeazabal. 2003. “The Economic Costs of Conflict: A Case Study of the Basque Country. ”
+American Economic Review 93(1): 113–132.
+Arkhangelsky, D., S. Athey, D. A. Hirshberg, G. W. Imbens, and S. Wager. 2021. “Synthetic Difference-in-Differ-
+ences.” American Economic Review 111(12): 4088–4118.
+Blinder, A. S. 1973. “Wage Discrimination: Reduced Form and Structural Estimates. ” The Journal of Human
+Resources 8: 436–455.
+Churchill, S. A., J. Inekwe, K. Ivanovski, and R. Smyth. 2020. “The Environmental Kuznets Curve across
+Australian States and Territories. ” Energy Economics 90: 104869.
+Clarke, D., D. Pailanir, S. Athey, and G. Imbens. 2023. “Synthetic Difference-in-Differences Estimation, ” IZA
+Institute of Labor Economics, Discussion Paper Series IZA DP No. 15907.
+Culas, R. J. 2007. “Deforestation and the Environmental Kuznets Curve: An Institutional Perspective. ” Ecological
+Economics 61(2–3): 429–437.
+Dasgupta, S., B. Laplante, H. Wang, and D. Wheeler. 2002. “Confronting the Environmental Kuznets Curve. ”
+Journal of Economic Perspectives 16(1): 147–168.
+Davis, J., H. Diethorn, G. Marschke, and A. Wang. 2021. “STEM Employment Resiliency during Recessions: Evi-
+dence from the COVID-19 Pandemic. ” National Bureau of Economic Research, Working Paper No. 29568.
+Greenstone, M., and R. Hanna. 2014. “Environmental Regulations, Air and Water Pollution, and Infant Mortality
+in India.” American Economic Review 104(10): 3038–72.
+Grossman, G. M., and A. B. Krueger. 1995. “Economic Growth and the Environment. ” Quarterly Journal of Eco-
+nomics 110(2): 353–377.
+Hsieh, H. C., and B. M. Gramig. 2024. “Estimating the Impact of Cover Crop Adoption on Ambient Nitrogen
+Concentration in the Upper Mississippi River Drainage. ” Applied Economic Perspectives and Policy 46(2):
+609–626.
+Hu, H., K. P. Paudel, and Y. Tan. 2022. “Income, Policy, and Pollution. ” Environmental and Resource Economics
+81(1): 131–153.
+Jann, B. 2008. “The Blinder-Oaxaca Decomposition for Linear Regression Models. ” The Stata Journal 8(4):
+453–479.
+Kitagawa, Evelyn M. 1955. “Components of a Difference between Two Rates. ” Journal of the American Statistical
+Association 50(272): 1168–94.
+Krasovich, E., P. Lau, J. Tseng, J. Longmate, K. Bell, and S. Hsiang. 2022. “Harmonized Nitrogen and Phospho-
+rus Concentrations in the Mississippi/Atchafalaya River Basin from 1980 to 2018. ” Scientific Data 9: 524.
+Lawell, C. Y. C. L., K. P. Paudel, and M. Pandit. 2018. “One Shape Does Not Fit all: A Nonparametric Instrumen-
+tal Variable Approach to Estimating the Income-Pollution Relationship at the Global Level. ” Water
+Resources and Economics 21: 3–16.
+Liu, P., Y. Wang, and Zhang, W. 2023. “The influence of the Environmental Quality Incentives Program on local
+water quality.” American Journal of Agricultural Economics, 105: 27 –51.
+McIsaac, G., M. David, and G. Gertner. 2016. “Illinois River Nitrate-Nitrogen Concentrations and Loads: Long-
+Term Variation and Association with Watershed Nitrogen Inputs. ” Journal of Environmental Quality 45:
+1268–75.
+Oaxaca, R. 1973. “Male-Female Wage Differentials in Urban Labor Markets. ” International Economic Review 14:
+693–709.
+Paudel, K. P., H. Zapata, and D. Susanto. 2005. “An Empirical Test of Environmental Kuznets Curve for Water
+Pollution.” Environmental and Resource Economics 31: 325–348.
+Shapiro, J. S., and R. Walker. 2018. “Why Is Pollution from US Manufacturing Declining? The Roles of Environ-
+mental Regulation, Productivity, and Trade. ” American Economic Review 108(12): 3814–54.
+Stata Corporation. 2021. “Stata Treatment-effects Reference Manual: Potential Outcomes/Counterfactual Out-
+comes.” Stata Release 17. Stata Press, College Station, TX.
+US EPA. 2022. Mississippi River/Gulf of Mexico Watershed Nutrient Task Force 2019/2021 Report to Congress.
+https://www.epa.gov/system/files/documents/2022-02/hypoxia_task_force_report_to_congress_2019_21_
+final.pdf
+644 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 19]]
+AUTHOR BIOGRAPHIES
+James C. Davis is an Economist in the Rural Economy Branch of the ERS Resource and
+Rural Economics Division (RRED).
+Krishna P. Paudel is the ERS RRED Deputy Director for Research and Communications.
+Anil Rupasingha is a Senior Economist in the Rural Economy Branch of ERS RRED.
+How to cite this article: Davis, James C., Krishna P. Paudel, and Anil Rupasingha.
+2024. “Role of Income and Policy in Reducing Water Pollution: Evidence from the
+Mississippi River Basin Healthy Watersheds Initiative. ” Applied Economic Perspectives
+and Policy 46(2): 627–647. https://doi.org/10.1002/aepp.13417
+A P P E N D I X A : EXTENDED THEORETICAL MODEL
+Our theoretical model builds on previous work by Lawell et al. ( 2018) and Hu et al. ( 2022). Con-
+sider the following two equations:
+Q ¼ fI , P,XðÞ ð A1Þ
+I ¼ φ Q, P, XðÞ ð A2Þ
+where Q represents water pollutants (e.g., nitrogen concentration in waterbodies), I represents
+income level, P represents environmental policy, and X represents other factors. We assume
+there is a functional relationship f /C1ðÞ between the water pollutant, income, environmental pol-
+icy, and the other factors. At the same time, income also has a functional relationship φ /C1ðÞ with
+the pollutant, environmental policy, and other factors. Environmental policy may result in a
+possible economic slowdown and a reduction in income levels. At the same time, environmen-
+tal investment may also create new jobs and provide economic progress. Therefore, we consider
+environmental policy ( P) into φ /C1ðÞ .
+The relationship between pollution (Q) and income level (I) is captured by the partial deriv-
+ative of the pollution function with respect to income
+∂f
+∂I, and the relationship between environ-
+mental policy and pollution is captured by the partial derivative of the pollution function with
+respect to environmental policy ∂f
+∂P. To demonstrate the possibility of a biased estimate due to
+missing and endogenous policies or endogenous per capita income, we expand the analysis fur-
+ther as described below.
+First, we perform the total differential of Equations (
+A1) and ( A2) to obtain the following
+equations:
+dQ ¼ ∂f
+∂I dI þ ∂f
+∂P dP þ ∂f
+∂X dX ðA3Þ
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 645
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 20]]
+dI ¼ ∂φ
+∂Q dQ þ ∂φ
+∂P dP þ ∂φ
+∂X dX: ðA4Þ
+Meanwhile, the derivative of P and X could be as follows after substituting Equation ( A2)
+into Equation ( A1):
+dQ
+dP ¼ ∂f
+∂I
+∂φ
+∂P þ ∂f
+∂P ðA5Þ
+dQ
+dX ¼ ∂f
+∂I
+∂φ
+∂X þ ∂f
+∂X : ðA6Þ
+Rearranging Equation ( A3), we get:
+∂f
+∂I ¼ dQ
+dI /C0 ∂f
+∂P
+dP
+dI /C0 ∂f
+∂X
+dX
+dI ðA7Þ
+∂f
+∂P ¼ dQ
+dP /C0 ∂f
+∂I
+dI
+dP /C0 ∂f
+∂X
+dX
+dP : ðA8Þ
+By substituting Equation ( A4) into Equations ( A7) and ( A8), we get:
+∂f
+∂I ¼ dQ
+dI /C0
+∂f
+∂P
+∂φ
+∂Q
+dQ
+dP þ ∂φ
+∂P þ ∂φ
+∂X
+dX
+dP
+/C0
+∂f
+∂X
+∂φ
+∂Q
+dQ
+dX þ ∂φ
+∂P
+dP
+dX þ ∂φ
+∂X
+: ðA9Þ
+∂f
+∂P ¼ dQ
+dP /C0 ∂f
+∂I
+∂φ
+∂Q
+dQ
+dP þ ∂φ
+∂P þ ∂φ
+∂X
+dX
+dP
+/C18/C19
+/C0 ∂f
+∂X
+dX
+dP : ðA10Þ
+The following results are obtained after substituting Equations ( A5) and ( A6) into
+Equations (A9) and ( A10) and rearranging:
+∂f
+∂I ¼ dQ
+dI /C0
+∂f
+∂P
+∂φ
+∂Q
+∂f
+∂I
+∂φ
+∂P þ ∂φ
+∂Q
+∂f
+∂P þ ∂φ
+∂P þ ∂φ
+∂X
+dX
+dP
+/C0
+∂f
+∂X
+∂φ
+∂Q
+∂f
+∂I
+∂φ
+∂X þ ∂φ
+∂Q
+∂f
+∂X þ ∂φ
+∂P
+dP
+dX þ ∂φ
+∂X
+ðA11Þ
+∂f
+∂P ¼ dQ
+dP 1 /C0 ∂f
+∂I
+∂φ
+∂Q
+/C18/C19
+/C0 ∂f
+∂I
+∂φ
+∂P þ ∂φ
+∂X
+dX
+dP
+/C18/C19
+/C0 ∂f
+∂X
+dX
+dP : ðA12Þ
+Therefore, the following inferences are obtained from Equation ( A11):
+I. ∂f
+∂P ≠ 0, when environmental policy has effects on pollution. Therefore, ignoring the effect
+of environmental policy ( ∂f
+∂P) will result in endogeneity bias in the model when we estimate
+the relationship between income level and pollution ∂f
+∂I
+/C16/C17
+.
+II. ∂f
+∂P ≠ 0o r ∂f
+∂X ≠ 0, when environmental policy or other factors have effects on pollution.
+Therefore, ignoring the effect of pollution on income level ( ∂φ
+∂Q) will result in endogenous
+bias in the model due to reverse causality from ∂f
+∂I.
+646 APPLIED ECONOMIC PERSPECTIVES AND POLICY
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 21]]
+From Equation ( A12), we can also get the following inference:
+I. ∂f
+∂I ≠ 0, when income level has effects on environmental pollution. Therefore, ignoring the
+effect of income level ( ∂f
+∂I) will result in endogenous bias in the model due to the omitted
+variable when we estimate the relationship between environmental policy and environ-
+mental pollution ( ∂f
+∂P).
+THE ROLE OF INCOME AND POLICY IN REDUCING WATER POLLUTION 647
+ 20405804, 2024, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/aepp.13417 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [16/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

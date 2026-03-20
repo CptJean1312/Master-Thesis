@@ -1,0 +1,1246 @@
+[[PAGE 1]]
+Global exposure to river and coastal ﬂooding: Long term trends and changes
+Brenden Jongman a,b,*, Philip J. Ward a,b, Jeroen C.J.H. Aerts a,b
+a Institute for Environmental Studies (IVM), VU University Amsterdam, De Boelelaan 1087, 1081HV Amsterdam, The Netherlands
+b Amsterdam Global Change Institute (AGCI), VU University Amsterdam, De Boelelaan 1087, 1081HV Amsterdam, The Netherlands
+1. Introduction
+Flooding of coastal and ﬂuvial systems are the most signiﬁcant
+natural hazards that modern society is subject to, affecting several
+million people globally each year (Jonkman, 2005; UNISDR, 2009).
+The total population and the economic value of material assets
+located in zones prone to ﬂooding have increased dramatically
+over the past decades and are expected to increase further due to:
+(1) an overall growth in population and wealth; and (2) increases
+in sea-level and ﬂood frequency due to climate change (IPCC, 2007;
+UNISDR, 2011). Hence, it may be expected that global ﬂood risk
+will increase over time (UNISDR, 2009, 2011), whereby ﬂood risk is
+deﬁned as the product of hazard (the chance and characteristics of
+a ﬂood event), exposure (the population and value of assets subject
+to ﬂooding) and vulnerability (the capacity of a society to deal with
+the event) (e.g. Kron, 2005).
+The knowledge base with respect to global ﬂood risk is,
+however, rather limited. Traditionally, river ﬂood risk assessments
+have been limited to the local (e.g. Bouwer et al., 2010; Ward et al.,
+2011) or national (e.g. de Moel et al., 2011; Hall et al., 2005) scales.
+The potential ﬂood damage estimates in these risk assessments are
+most commonly conducted by using land-use speciﬁc depth–
+damage functions, i.e. relationships between ﬂood depth and
+relative damage per area unit, in combination with land-cover data
+of the ﬂooded area (Smith, 1994; Merz et al., 2010). However, the
+application of methodologies used in regional studies at the global
+scale has been difﬁcult. A particular problem has been modelling
+the global hazard areas, i.e. the areas that would potentially be
+inundated in the event of ﬂooding. This has been hampered by
+signiﬁcant processing times and limited data availability, for
+example on aspects such as river speciﬁc hydraulic information
+and high-resolution elevation data (e.g. Woodhead et al., 2007;
+Messner et al., 2007). Moreover, detailed land-use data are not
+available on a global scale, and depth–damage functions vary
+signiﬁcantly per country and study, both in terms of slope (the
+increase of damage with depth) and maximum damage estimates
+(total maximum loss per area unit) (Barredo and De Roo, 2010).
+In spite of these limitations, recent research has simulated the
+riverine ﬂood hazard area at the pan-European (Lugeri et al., 2006;
+Global Environmental Change 22 (2012) 823–835
+A R T I C L E I N F O
+Article history:
+Received 16 October 2011
+Received in revised form 4 July 2012
+Accepted 10 July 2012
+Available online 3 August 2012
+Keywords:
+Flood risk
+Damage estimation
+Land-use change
+Population growth
+Global change
+A B S T R A C T
+Flood damage modelling has traditionally been limited to the local, regional or national scale. Recent
+ﬂood events, population growth and climate change concerns have increased the need for global
+methods with both spatial and temporal dynamics. This paper presents a ﬁrst estimation of global
+economic exposure to both river and coastal ﬂooding for the period 1970–2050, using two different
+methods for damage assessment. One method is based on population and the second is based on land-
+use within areas subject to 1/100 year ﬂood events. On the basis of population density and GDP per
+capita, we estimate a total global exposure to river and coastal ﬂooding of 46 trillion USD in 2010. By
+2050, these numbers are projected to increase to 158 trillion USD. Using a land-use based assessment, we
+estimated a total ﬂood exposure of 27 trillion USD in 2010. For 2050 we simulate a total exposure of 80
+trillion USD. The largest absolute exposure changes between 1970 and 2050 are simulated in North
+America and Asia. In relative terms we project the largest increases in North Africa and Sub-Saharan
+Africa. The models also show systematically larger growth in the population living within hazard zones
+compared to total population growth. While the methods unveil similar overall trends in ﬂood exposure,
+there are signiﬁcant differences in the estimates and geographical distribution. These differences result
+from inherent model characteristics and the varying relationship between population density and the
+total urban area in the regions of analysis. We propose further research on the modelling of inundation
+characteristics and ﬂood protection standards, which can complement the methodologies presented in
+this paper to enable the development of a global ﬂood risk framework.
+/C223 2012 Elsevier Ltd. All rights reserved.
+* Corresponding author at: Institute for Environmental Studies (IVM), VU
+University Amsterdam, De Boelelaan 1087, 1081HV Amsterdam, The Netherlands.
+Tel.: +31 0 20 59 85683; fax: +31 0 20 59 89553.
+E-mail address: brenden.jongman@ivm.vu.nl (B. Jongman).
+Contents lists available at SciVerse ScienceDirect
+Global Environmental Change
+jo ur n al h o mep  ag e: www  .elsevier  .co  m /loc  ate/g  lo envc  h a
+0959-3780/$ – see front matter /C223 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.gloenvcha.2012.07.004
+
+[[PAGE 2]]
+De Roo et al., 2007) and global (Herold and Mouton, 2011;
+Pappenberger et al., 2012) scales. In addition, Peduzzi et al. (2009)
+have used the global hazard model produced by Herold and
+Mouton (2011) to estimate the physical and economic ﬂood
+exposure for 2009 using population density and GDP data.
+Compared to river ﬂooding, the global analysis of coastal ﬂood
+exposure has received more attention in the literature (e.g. Small
+et al., 2000; Small and Nicholls, 2003; Nicholls, 2004). Simulating
+coastal ﬂood zones is relatively easy, using accessible models of sea
+level rise, and the availability of planar GIS-based approaches to
+simulate ﬂood extent and depth. Recent work of Nicholls et al.
+(2008) demonstrates this and provides an estimate of the
+population and assets exposed to ﬂooding in the world’s  large
+port cities.
+Studies on disaster risk at the global scale are important for
+global development studies, for example for the estimation of the
+costs associated with adapting to climate change. In recent years,
+there has been increased attention to such studies (e.g. Ward et al.,
+2010; The World Bank, 2009). However, studies at the global scale
+in the water sector have been hampered by the lack of global
+datasets and methods (e.g. Ward et al., 2010).
+In this paper, we provide a ﬁrst exposure analysis that (1)
+includes both river and coastal ﬂooding; (2) is on a global scale; (3)
+applies two different methods for exposure analysis; and (4)
+assesses exposure over several decades, spanning both past and
+future. We perform our analyses on both historical and future
+time-series of spatial exposure data for the period 1970–2050,
+which will bring more insights into the spatiotemporal aspects of
+global exposure to the two types of ﬂooding. The main aims of this
+study are:
+/C15  to develop and assess two distinct approaches for simulating
+global ﬂood exposure;
+/C15  to identify the main geographical areas exposed to ﬂooding and
+the trends over time;
+/C15  to assess the differences between the two approaches.
+2. Methodology
+In this paper, we apply two distinct methodologies  for
+assessing ﬂood exposure on a global scale (Fig. 1). Both methods
+combine global datasets of the ﬂood hazard, human settlement
+and economic indices. One approach starts from population
+density data and uses national income data to estimate the value
+of assets in the hazard area. This approach is referred to as the
+‘population  method’.  The second approach, the ‘land-use
+method’,  starts from urban area data. The data and methods
+used to compute ﬂood exposure will be detailed in the following
+sections.
+2.1. Data
+2.1.1. Area boundaries
+We modelled ﬂood exposure at the geographical scale of both
+countries and Food Producing Units (FPUs). Country boundaries
+data were taken from the GADM global administrative boundaries
+database (Hijmans, 2011), which recognises 209 territories,
+divided into 9 main regions (Antarctica, Asia, Australia, Caribbean,
+Europe, Latin America, North America, North Africa and Sub-
+Saharan Africa). Because the resolution of the land-use, population
+and ﬂood extent datasets (see Sections 2.1.2 and 2.1.4) are
+relatively coarse, we present most of the results on the basis of
+these aggregated regions and FPUs rather than countries. The main
+country-level results can be found in Appendix A.
+FPUs are a hybrid between political and hydrological zones (Cai
+and Rosegrant, 2002; Rosegrant et al., 2002; de Fraiture, 2007) and
+therefore give a more detailed picture of river ﬂood exposure than
+country boundaries, especially for larger countries. For this study
+we used the version of the FPUs as described by Kummu et al.
+(2010), which has been applied in earlier global level studies (e.g.
+Ward et al., 2010).
+2.1.2. River ﬂood extent dataset
+A spatially referenced database of river ﬂood extents was
+created by Herold and Mouton (2011) and is publicly available on
+the PREVIEW Global Risk Data Platform (http://preview.grid.
+unep.ch/). The database is developed from a combination of
+hydrological modelling and historic ﬂood records of the Dartmouth
+Flood Observatory (Brakenridge and Anderson, 2011). The data are
+available as a raster GIS layer of horizontal ﬂood extents for return
+periods up to 100 years; the resolution of the dataset is 3000 /C2  3000
+(ca. 1 km /C2  1 km at the equator).
+Herold and Mouton (2011) point out several limitations of their
+database. For example, the river discharges used in the hydrologi-
+cal model are statistical estimates based on observed monthly data
+for a limited number of gauging stations, and can therefore deviate
+from reality. Also it is noted that geographical characteristics, like
+sudden elevation differences and forest cover, can lead to over and
+underestimation of the ﬂoodplain. Furthermore, the effects of ﬂood
+defences on inundation extent are not included in the database. For
+countries that do have sufﬁcient protection against 1/100 year
+river discharge, this assumption entails that some of the modelled
+ﬂood-prone areas will in reality not be ﬂooded. This assumption
+thus leads to an overestimation of potential inundation areas
+(Herold et al., 2011; Pappenberger et al., 2012). Irrespective of
+Fig. 1. Schematic overview of the two approaches for exposure estimation, with the
+population method on the left and the land-use method on the right hand side.
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835824
+
+[[PAGE 3]]
+these limitations, this dataset is the best simulation of global river
+ﬂood extents that is currently available.
+2.1.3. Coastal ﬂood extent dataset
+We produced coastal ﬂood zone maps using sea level data from
+the DIVA model (Vafeidis et al., 2008) and a digital elevation model
+(DEM). The DIVA model provides expected surge heights for a 100
+year return period for over 5000 different coastal segments, and
+has been used as a tool for risk assessment on a European scale (e.g.
+Hinkel et al., 2010). We then deﬁned ﬂood prone zones as coastal
+areas with an elevation less than the 100 year surge height, and
+with a direct connection to the sea. The elevation model used is the
+near-global SRTM DEM, with a horizontal resolution of 300 /C2  300 (ca.
+90 m /C2  90 m at the equator) (Jarvis et al., 2008). Where these data
+are not available (above 60 degrees north and below 60 degrees
+south, which includes parts of Scandinavia, northern Canada,
+Alaska and northern Russia), the GTOPO30 DEM is used (USGS,
+1996). The GTOPO30 has a horizontal resolution of 3000 /C2  3000 (ca.
+1 km /C2  1 km at the equator).
+For both coastal and river ﬂood areas we assumed that the
+hazard area remains constant over time, which means that the
+areas exposed to a 1/100 year ﬂood in 1970 are the same as those
+exposed in 2050 (i.e. we do not account for climate change and/or
+land subsidence). Given that climate change might have a
+signiﬁcant effect on the frequency and severity of future ﬂood
+events, this assumption could lead to an underestimation of future
+ﬂood prone areas. Also, like with the river ﬂood extents, we did not
+include the inﬂuence of ﬂood defences in the analysis, which leads
+to an overestimation of ﬂood plains in areas where coastal ﬂood
+protection is in place.
+2.1.4. Population, land-use and socioeconomic data
+The exposure analyses are based on current (2005) and
+historic (1970–2000)  population density and land-use data from
+the HYDE database (Klein Goldewijk et al., 2010). The population
+density data are in the format of number of people per square
+kilometre. The format of the land-use data used in the analysis is
+urban area in km2 per grid cell. Both datasets have an original
+resolution of 50 /C2  50 (ca. 10 /C2  10 km at the equator). We used GDP
+per capita data for 1970–2009  from the Penn World Tables
+(Heston et al., 2011). For comparison purposes, all GDP ﬁgures
+are in 2005 international  US dollars on purchase power parity
+(PPP) basis.
+We estimated future population and assets by applying the
+World Bank’s  population and GDP per capita projections (Hughes
+et al., 2010) to the population data extracted from the HYDE
+database. These GDP forecasts are computed by averaging the
+results of ﬁve economic models – Hope (2003), Nordhaus (1999),
+Tol (2007), IEA (2008) and EIA (2008). The resulting global real GDP
+per capita ﬁgures are very close to the IPCC A2 SRES scenario (IPCC,
+2000). The population projections are based on the Medium
+Fertility projection in UN Population Division’s  2006 Revision
+(United Nations, 2006).
+Urban extent was extrapolated from 2005 onwards on the basis
+of the same population forecasts and, in addition, expected
+changes in relative urbanisation (United Nations, 2010). This
+extrapolation is shown in Eq. (1), whereby Urban Area is the urban
+surface per country as derived from the HYDE data, Population is
+the population per country according to the Penn World Tables,
+Urbanisation is the percentage of the national population living in
+cities, and t is the speciﬁc year of analysis.
+Urban Areat ¼ Urban Areat/C0 1 /C2 Populationt
+Populationt/C0 1
+/C2 Urban Areat
+Urban Areat/C0 1
+(1)
+For the observed period 1970–2005, this function has an overall
+R2 of 0.99 with exposed urban area from the HYDE data, and is
+signiﬁcant at a 1% conﬁdence interval. In both the population and
+urban area scenarios we assumed homogenous growth over all
+3000 /C2  3000 (ca. 1 km /C2  1 km at the equator) cells within each
+country.
+2.2. Exposure estimation
+2.2.1. Population method
+Population exposed to river and coastal ﬂooding was calculated
+by selecting the population living within the ﬂood hazard areas
+and summing this for each country and FPU area. To estimate
+exposed assets, we applied Eq. (2) (developed by Nicholls et al.
+(2008, p.48)), in which Ea is exposed assets, Ep is exposed
+population and GDPpercapita(PPP) is GDP per capita at purchase
+power parity, as derived from the Penn World Tables (Heston et al.,
+2011).
+Ea ¼ Ep /C2  GDPpercapitaðpppÞ /C2  5 (2)
+As follows from the formula, the value of exposed assets is a
+function of the exposed population and GDP per capita, multiplied
+by 5. This factor 5 is estimated on the basis of relative investment,
+growth of the asset base and average asset life-time. It is assumed
+that GDP per capita is homogenous within each country. In reality
+there might be geographical variation in productivity, for example
+between cities and rural areas (Dall’erba,  2005; Broersma and van
+Dijk, 2005). The methodology as applied here should only be used
+on larger scales (e.g. national and supra-national) and may lead to
+substantial spatial errors on smaller scales (e.g. local and regional).
+2.2.2. Land-use method
+Land-use based ﬂood damage calculation is the most common
+method for estimating ﬂood damage, and studies have been
+conducted for a large range of countries and study areas (e.g. Ward
+et al., 2011; de Moel et al., 2011; Herath, 2003; Lugeri et al., 2006).
+In land-use based damage calculations the rationale is to analyse
+the different types of land-use within the ﬂood plain, estimate the
+maximum damage per unit or surface area, retrieve ﬂood depths
+and apply a speciﬁc depth–damage function for each type of land-
+use (e.g. Smith, 1994; Green et al., 2011). The maximum damage
+ﬁgures represent the total value of assets that would be lost at a
+deﬁned maximum inundation depth (generally 3–6 metres).
+Depth–damage functions represent the vulnerability of the
+respective land-use type, as the increase of damage from 0 to
+100% of the maximum damage ﬁgure with increasing inundation
+depth. Internationally, however, there is a strong variation in
+depth–damage curves and maximum damage ﬁgures used.
+Barredo and De Roo (2010) have shown that Europe currently
+has 11 nationally accepted models. In the United States the US
+Corps of Engineers applies different depth–damage curves to each
+district or ﬂood site (Scawthorn et al., 2006). In developing
+countries there are fewer well-developed ﬂood damage assess-
+ment methodologies available, and the studies that have been
+conducted are generally on a local scale (e.g. Yang and Tsai, 2000).
+Each of the developed models has developed different estimations
+of maximum damage (asset values) per square metres as well as
+different depth–damage functions
+Due to the lack of a globally applicable ﬂood damage model, we
+have applied an existing national damage estimation method,
+normalised to GDP per capita for each country. The maximum
+damage ﬁgures are taken from the Damage Scanner (Klijn et al.,
+2007), which is based on the HIS-SSM model, the standard method
+for ﬂood damage simulation in the Netherlands (Kok et al., 2005).
+Because ﬂood depth information is not available, we assessed ﬂood
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 825
+
+[[PAGE 4]]
+exposure by assuming maximum damage to all urban areas within
+the ﬂood zones, which according to the Damage Scanner model is
+reached at 6 m. In non-urban areas, damage is assumed to be zero.
+The land-use method as applied here thus approximates maximum
+total losses in a given area, which is consistent with the population
+method. Actual damages will be lower than this maximum
+exposure and ultimately depends on, amongst other factors, ﬂood
+depth, ﬂow velocity and protection standards (e.g. Merz et al.,
+2010).
+The maximum damage ﬁgure used is 910 Euros per square
+metre (base year 2005), which is the ﬁgure for high density
+residential area in the Damage Scanner. We then estimated the
+maximum damage per country in 2005 Euros using the World Bank
+GDP deﬂators per country (The World Bank, 2010). From this, a
+unique maximum damage per square metre in USD PPP is
+calculated for each country and year. This calculation is illustrated
+in Eq. (3) for The Netherlands. In this equation, Damage$PPP is the
+exposure per square metre in 2005 USD at purchase power parity,
+Damages is the exposure per square metre in 2005 local currency,
+GDP$PPP is the GDP per capita in 2005 USD at purchase power
+parity, and GDPs is the GDP per capita in 2005 local currency.
+Damage$PPP ¼ Damages /C2 GDP$PPP
+GDPs
+/C20 /C21
+(3)
+Normalised maximum damage per square metre values for
+2010 range from less than 6 USD in Zimbabwe (GDP per capita
+$158) to 2610 USD in Qatar (GDP per capita $140,236).
+The residential damage ﬁgure from the Damage Scanner, as
+compared to other models, seems especially ﬁt for our analysis
+because it is not based on individual properties. Instead, it is area-
+based and includes damage to houses, public spaces, infrastructure
+and vehicles. We have assessed the use of the normalised Damage
+Scanner parameters in our model by comparing it to four other
+national estimates. The results of this sensitivity analysis are
+elaborated upon in the Section 4.
+The land-use based exposure estimation is made by calculating
+the urban area within the ﬂood hazard zones using the
+geographical data and aggregating it both per country and FPU.
+The exposed urban area is then multiplied by the region’s
+normalised maximum damage per square metre to ﬁnd the
+maximum ﬂood damage at the country/FPU level.
+3. Results
+In this section, we discuss the results of the analysis as
+described in the preceding part. Sections 3.1 and 3.2 present the
+key outcomes regarding global exposure to river and coastal
+ﬂooding, respectively. In Section 3.3, the river and coastal hazards
+are combined in an assessment of total global exposure to 1/100
+year ﬂoods. In Section 3.4 we discuss a concise analysis of ﬂood
+exposure development in relation to general population growth.
+3.1. Global exposure to river ﬂooding
+3.1.1. Population method
+3.1.1.1. Past and current exposure. Exposed assets to river ﬂooding
+total 35 trillion (Fig. 2), up from 1.8 trillion USD in 1970. Overall,
+approximately 48% of this increase can be subscribed to population
+growth while the other 52% result from an increase in wealth. For
+2010, the total global population exposed to a 1/100 year river
+ﬂood amounts to 805 million, a ﬁgure approximately twice the
+1970 level (Fig. 3a).
+A signiﬁcant part, 73%, of the total population exposed to river
+ﬂooding is living in Asia, followed by Europe and Sub-Saharan
+Africa (Fig. 3a). The largest relative increase in exposed population
+over the period 1970–2010 is simulated in Sub-Saharan Africa
+(188%) and North Africa (132%). Sub-Saharan Africa is particularly
+characterised by a more than linear increase in population
+exposure, while on the other hand Europe experiences a
+stabilisation in total and exposed population.
+In spite of a relatively low average GDP per capita, the region
+with the largest total value of assets in river ﬂood hazard areas is
+Asia (17 trillion USD), followed by Europe and North America
+(Fig. 3b). Over the past 40 years all regions have experienced strong
+growth in the value of assets exposed to river ﬂooding. The largest
+relative increase over this period is simulated in Asia (4300%) and
+North Africa (2900%).
+These rather substantial relative increases result from simulta-
+neous strong growth in both GDP per capita and population
+between 1970 and 2010, averaging 1163% and 92% respectively in
+Asia. Also reﬂected in the results is the impact of the 2007–2009
+ﬁnancial crisis (Fig. 3b). GDP per capita in all regions dropped in
+those years, most profoundly in western economies. Since the
+applied methodology for measuring exposure is a direct function of
+GDP per capita, ﬂuctuations in GDP per capita are directly
+translated into changes in the value of exposed assets. In reality,
+this relationship may not be linear or have a time lag, and exposure
+of assets may remain constant while GDP declines. The limitations
+of the methodologies will be discussed in more detail in Section 4.
+3.2. Future exposure
+The analyses show an overall increase in population and asset
+exposure over the next decades. In 2050 the total population
+exposed to 1/100 river ﬂoods is simulated to reach 1.05 billion, a
+31% increase from current levels. The total exposed assets will
+amount to 126 trillion, up 250% from 2010.
+In relative terms, exposed population growth is projected to be
+highest in Sub-Saharan Africa (104%) (Fig. 3a). The stabilising trend
+observed in Europe over the period 1970–2010 turns into a decline
+in the subsequent 40 years – by 2050 the exposed population is
+projected to have fallen by 13%. As a result of conjunct population
+and GDP per capita growth, relative exposed assets increases are
+signiﬁcantly higher – for 75 of the countries included in the
+analysis a growth of more than 300% is simulated. Overall, the
+largest growth of economic exposure is in Asia (370%), followed by
+Sub-Saharan and North Africa. In spite of a fall in exposed
+population, the value of assets in Europe’s  river ﬂood zones is still
+growing by an estimated 127%.
+3.2.1. Land-use method
+3.2.1.1. Past and current exposure. In all regions, the relative
+increase in exposed urban area over the period 1970–2010 has
+been higher than the relative increase in exposed population. The
+largest absolute addition to urban area in river ﬂood zones is
+0
+10,000
+20,000
+30,000
+40,000
+1970
+1980
+1990
+2000
+2010
+Global flood exposure Billions
+USD (2005 PPP)
+River - population method
+River - land-use method
+Coastal - population method
+Coastal - land-use method
+Fig. 2. Global asset exposure to river and coastal ﬂooding using the population and
+land-use methods, 1970–2010.
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835826
+
+[[PAGE 5]]
+simulated in Asia (9200 km2) (Fig. 3c). In relative terms Sub-
+Saharan Africa has by far the most signiﬁcant growth (633%),
+followed by Asia (220%).
+Even though the damage estimation on the basis of urban area
+exposure shows a similar overall trend as the population-based
+method, there are some important differences. In 2010, the total
+urban area subject to river ﬂooding is simulated to be 34,000 km2,
+resulting in maximum damages of 21 trillion USD (Fig. 3b and c).
+This represents an increase of approximately 430% from the 1970
+levels. Compared to the relative increase in exposed assets
+according to the population method (1844%), this ﬁgure is
+relatively small. The gap results from the higher sensitivity of
+the population method to growth in GDP per capita. For the year
+2010, the simulated exposure ﬁgures are signiﬁcantly different
+from the population based rankings. The United States have the
+highest exposure estimate (12 trillion USD), followed by Europe
+(4.3 trillion USD). Asia, the region most exposed according to the
+population method, ranks third (3 trillion USD) in the land-use
+based estimation (Fig. 3d).
+3.3. Future exposure
+The simulation results show a continuation of the upward trend
+in urban area exposure for the period 2010–2050. Similar to
+population exposure, this trend is generally slowing in North
+America, Europe, Australia and Latin America, and increasing in the
+developing regions (Fig. 3c). In the year 2050, the total urban area
+exposed to 1/100 river ﬂoods will have reached an approximate
+49,000 km2, an increase of 61% from the 2010 levels. The resulting
+maximum damages will increase to 63 billion USD for river
+ﬂooding, up 200% from the 2010 estimates. This ﬁgure is small
+compared to the 162 trillion USD estimate according to the
+population method.
+For 2050, the maximum damage in North America is estimated
+at 27 trillion USD, followed by Asia (20 trillion USD) (Fig. 3d). Again,
+the results show a higher relative increase in exposed urban area
+than exposed population between 2010 and 2050. The largest
+relative increase is simulated in Sub-Saharan Africa (220%) and
+North Africa (104%). Similarly, the relative growth of economic
+exposure according to the land-use method is higher than the
+relative growth in exposed assets following the population
+method. Asia (562%) and Sub-Saharan Africa (544%) are simulated
+to experience the strongest relative increase.
+3.4. Global exposure to coastal ﬂooding
+3.4.1. Population method
+3.4.1.1. Past and current exposure. Exposed assets in coastal zones
+total 13 trillion USD in 2010, up from 820 billion USD in 1970
+(Fig. 2). This is as much as 60% lower than the estimated value of
+assets exposed to 1/100 river ﬂooding. Again, just over half of this
+increase is due to GDP per capita growth. The global population
+exposed to 1/100 coastal ﬂooding reached a total of 271 million in
+2010, representing an approximately 95% increase from 1970.
+As is the case for river ﬂooding, a large part of this population is
+currently living in Asia (200 million, 75% of the total), followed by
+Europe (23 million) and Latin America (18 million) (Fig. 4a). The
+Fig. 3. Results of the global river ﬂood exposure simulation at the scale of economic-hydrologic ‘Food  Producing Units’  (FPUs) using two methods, showing: (a) exposed
+population (population method), (b) exposed assets (population method), (c) exposed urban area (land-use method) and (d) maximum damage (land-use method).
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 827
+
+[[PAGE 6]]
+largest relative increases are simulated in Sub-Saharan Africa
+(242%) and Latin America (122%) (Fig. 4a).
+The regions with the highest value of assets exposed to river
+ﬂooding are again Asia (6.9 billion USD) and Europe (3.9 billion
+USD) in 2010 (Fig. 4b). The largest relative increases over the past
+four decades are found in North Africa (2674%), Sub-Saharan Africa
+and Asia (Fig. 4b), all of which are regions that experienced both
+strong population and GDP growth over this period.
+3.5. Future exposure
+In the year 2050 an estimated 345 million people will be living
+in 1/100 coastal ﬂood hazard areas; this is 25% more than in 2010.
+The corresponding value of assets is USD 43 trillion, an increase of
+approximately 200% from 2010. In absolute numbers, the largest
+increase of population in these areas is projected in Asia (the
+country results in Appendix A show that in Bangladesh alone, an
+additional 26 million people are simulated to be living in coastal
+hazard zones by 2050). Relative to current levels, exposed
+population is projected to see the strongest growth in Sub-Saharan
+and North Africa. Whereas the population exposed to river ﬂooding
+in Europe is simulated to fall by 13% between 2010 and 2050, the
+coastal population exposure increases by 2%. This is in spite of an
+expected decrease in total population of 9%, which indicates that
+on a European level coastal ﬂood hazard zones are characterised by
+higher than average population growth. The largest total increases
+in the value of assets in coastal hazard zones until 2050 are
+simulated in Asia (20 trillion USD) and Europe. In terms of relative
+exposure increase, the accent shifts to Sub-Saharan and North
+Africa (both approximately 330%).
+3.5.1. Land-use method
+3.5.1.1. Past and current exposure. In 2010, the total urban area
+within 1/100 coastal ﬂood hazard zones was 12,000 km2, with a
+corresponding maximum damage of USD 7.8 trillion. In 1970 this
+ﬁgure was only 1.5 trillion. The regional distribution of coastal
+exposure is similar to the land-use based estimates for river
+ﬂooding. In 2010, Asia (5000 km2), Europe (2300 km2) and North
+America (1900 km2) have the largest exposed urban surface area in
+coastal hazard zones (Fig. 4c). Due to differences in GDP per capita,
+the resulting monetary exposure is in reverse order – North
+America (1.6 trillion USD), followed by Europe (1.5 trillion USD)
+and Asia (1 trillion USD) (Fig. 4d). Again, the largest relative
+increase in exposed urban area between 1970 and 2010 occurred in
+Sub-Saharan Africa (878%) and North Africa (278%). In contrast to
+river ﬂooding, the largest relative change in monetary exposure is
+also simulated in these areas, 767% and 791% respectively, with
+Asia ranking only third.
+3.6. Future exposure
+By 2050, an estimated 19,000 km2 of urban area will be exposed
+to 1/100 coastal ﬂoods, an increase of 60% relative to 2010. This will
+Fig. 4. Results of the global coastal ﬂood exposure simulation using two methods, showing: (a) exposed population (population method), (b) exposed assets (population
+method), (c) exposed urban area (land-use method) and (d) maximum damage (land-use method).
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835828
+
+[[PAGE 7]]
+result in potential damages of approximately USD 22 trillion, up
+182% from the 2010 estimate.
+The growth rate of the total urban area within coastal ﬂood
+zones is positive in all regions, but decreasing in most areas.
+Exceptions are in Asia and Sub-Saharan Africa, where we simulate
+constant and exponential growth patterns respectively between
+2010 and 2050. Combined with simultaneous GDP growth, the
+simulated total value of the exposed urban area continues to
+increase at a near-exponential rate in all regions. While North
+America is expected to remain the region most exposed to river
+ﬂooding in 2050, it will be overtaken by Asia (5.2 trillion USD) in
+terms of coastal exposure.
+The largest relative growth in both urban area (100–225%) and
+monetary exposure (480–570%) is simulated in Sub-Saharan and
+North Africa.
+3.7. Total ﬂood exposure
+Because a signiﬁcant part of the global population lives in river
+deltas, areas typically threatened by both river and coastal
+ﬂooding, we expect an overlap in the population exposed to either
+of these hazards. The total population and assets exposed to 1/100
+year ﬂooding are less than the sums of river and coastal ﬂooding.
+By combining the different ﬂood hazard zones used in this study,
+assessing the overlapping areas, and applying the same exposure
+calculation methods as described previously, we have estimated
+the total global exposure to both 1/100 river- and coastal ﬂoods.
+3.7.1. Population method
+Globally, the total population exposed to this combined ﬂood
+hazard is 992 million in 2010, with a total assets value of 46 trillion
+USD. In 1970, 523 million people and assets amounting to 2.5
+trillion USD were located in the same areas. By the year 2050 we
+project approximately 1.3 billion people in ﬂood hazard zones,
+with a total value of exposed assets of 158 billion USD.
+The largest numbers of people living in the combined hazard
+zones are currently found in Asia (716 million), Europe (89
+million) and Sub-Saharan Africa (67 million). On a national scale,
+we see several countries that have large numbers of people
+exposed to both river and coastal ﬂooding.  For both hazards
+individually,  Bangladesh, China, India and Vietnam have the 4
+largest exposed populations (although the order is different for
+river and coastal ﬂooding).  Not surprisingly,  they also rank highly
+on the combined exposure measure, accounting for over 560
+million persons, or almost 60% of the world total (see
+Appendix A).
+The highest total value of assets exposed to 1/100 year ﬂoods is
+also located in Asia (6.9 trillion USD), followed by Europe (3.9
+trillion USD) and North America (1.4 trillion USD). Apart from the
+visible effect of the recent ﬁnancial recession in the exposure
+results, the value of exposed assets has been increasing more than
+linearly in all regions over the past 40 years and is projected to do
+so until 2050.
+As expected, the total number of people and value of assets
+located in ﬂood hazard zones are less than the sums of coastal and
+river exposure – the overlap is about 8% for population exposure
+and 4% for asset exposure in 2010. The region with the largest
+overlap in both exposed population and exposed assets is Asia,
+with 9% and 7% respectively; North America follows with
+approximately 6%. Sub-Saharan Africa, the Caribbean and
+Australia, on the other hand, are characterised by a small value
+of approximately 1%. Visual inspection of the data shows that the
+overlapping areas are located in areas of low elevation around river
+deltas. The people and assets located in these regions are
+confronted with two separate hazards and are, keeping everything
+else constant, at a higher risk of ﬂooding.
+3.7.2. Land-use method
+Approximately 44,000 km2 of urban area is exposed to either
+coastal or river ﬂooding in 2010, up from 18,000 km2 in 1970. For
+the year 2050, our simulations show a total urban surface of
+72,000 km2 located in ﬂood zones, causing monetary exposure to
+rise from 27 trillion USD in 2010 to 80 trillion USD by 2050. Thus,
+for the current situation, the land-use based estimate is 70% lower
+than the population based estimate.
+In 2010, the largest urban area in the combined ﬂood hazard
+zones are found in Asia (17,000 km2), North America (11,000 km2)
+and Europe (8000 km2). Again, the monetary exposures are ranked
+differently, with North America being the most exposed region (13
+trillion USD), followed by Europe (6.1 trillion USD) and Asia (4.2
+trillion USD). These estimates show a large different to those
+resulting from the population method; see Section 4.2 for a
+discussion of this discrepancy.
+The difference between the calculated total ﬂood exposure and
+the sum of river and coastal ﬂooding is similar whether we use the
+land-use method or the population method. Again, Asia and North
+America have relatively large areas exposed to both hazards, 7%
+and 6% respectively, while the Caribbean, Australia and Sub-
+Saharan Africa have a relatively small overlap.
+3.8. Exposed versus total population change
+In order to distinguish migration to hazard areas from general
+population growth, a comparison is made between relative
+changes in exposed versus total population using Eq. (4).
+Relative exposure change ratio
+¼ ½Exposed Population2010=Exposed Population1970/C138
+½Total Population2010=Total Population1970/C138 (4)
+Over the period 1970–2010 the number of people exposed to
+ﬂooding globally has increased by 2.7% more than total population
+growth. This ﬁgure is 4.7% for coastal ﬂooding and 2.6% for river
+ﬂooding (Table 1). Relatively minor as this seems, there is
+signiﬁcant geographical variation (Fig. 5). Developing countries
+have, conjoint with general high population growth, experienced
+the strongest increase in exposed relative to total population. On
+top of that, these are generally the regions with limited ﬂood
+protection capacities (Nicholls et al., 2008).
+Europe, Australia, North America and North Africa have lower
+relative exposure change ratios, with some speciﬁc countries
+showing a relative decrease in exposure (Fig. 5). Overall, however,
+the population growth in ﬂood zones has been higher than total
+population growth in all major regions.
+4. Discussion
+In this section we discuss the results of the global exposure
+analysis by assessing the differences between the used methods
+Table 1
+Relative changes in exposed population over changes in total population, 1970–
+2010. The table shows that developing regions (Sub-Saharan Africa, Asia and Latin
+America) generally have a relatively high growth in population living in ﬂood zones.
+Region River ﬂooding Coastal ﬂooding Total ﬂood hazard
+Asia 3.3% 4.7% 3.1%
+Australia /C0 0.7% 2.5% 2.1%
+Europe /C0 0.3% 6.0% 0.9%
+Latin America 2.0% 5.3% 3.2%
+North America /C0 0.5% 13.3% 1.8%
+North Africa 0.5% /C0 6.7% /C0 1.2%
+Sub-Saharan Africa 13.0% 18.9% 13.5%
+World average 2.6% 4.7% 2.7%
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 829
+
+[[PAGE 8]]
+(Section 4.1) and with previous studies (Section 4.2). Finally, we
+discuss some of the limitations of the study (Section 4.3).
+4.1. Comparison of results between methods
+While the estimates of global exposure to river and coastal
+ﬂooding show similar global trends over time, there are signiﬁcant
+differences between the two damage estimation methods used in
+this analysis. On a global level, the population method gives a
+higher estimation than the land-use method. The difference is 71%
+in 2010 and increases to 98% in 2050. Also, the regional distribution
+of exposure varies signiﬁcantly between the two approaches.
+While the population method consistently ranks Asia as having the
+highest value of exposed assets, on the basis of land-use the
+highest exposed asset values are found in the United States and
+Europe. The differences arise from important differences between
+the two approaches.
+The ﬁrst important difference is the fact that population does
+not necessarily go hand in hand with urban land-use – rural
+societies will therefore have a lower damage estimation based on
+land-use than based on population. Also, for economic and political
+reasons, population growth does not lead to an increase of urban
+area at the same degree in every region (Brueckner, 2000).
+Second, it should be noted that the population based method is
+a maximum exposure measure, based on the long-term value of
+assets, while the land-use method is designed to estimate actual
+maximum damages based on the estimated replacement value of
+urban area. For any given country the gap between the two
+methods seems to increase with growing GDP per capita, with the
+population based estimation being the higher of the two.
+Finally, it is important to acknowledge the generalisations
+made in both methods. In the population based method it is
+assumed that the value of assets, based on GDP per capita, is
+homogenous within each country. The land-use based method
+assumes a uniform value of all exposed urban area of that country.
+In reality, however, both the value of assets and the damage to
+urban fabric varies strongly with, amongst other factors, economic
+activity and land-use function (e.g. Merz et al., 2010).
+The differences between the methods are also reﬂected in the
+results and the country rankings of the two estimations. The
+United States, for example, are ranked 5th in per capita river
+ﬂooding exposure according to the population based method, but
+have the highest exposure according to the land-use method.
+China, on the other hand, has the highest total exposed assets
+ranking in the population based estimation, but ranks third under
+the land-use method (see Appendix A). The reason for the
+divergence is the regional variation in exposed population/exposed
+urban area ratios (Table 2). In 1970, these ratios range from an
+average 3529 exposed people per exposed urban km2 in Australia
+to more than 363,000 in Sub-Saharan Africa. For the United States,
+the average number of exposed persons per exposed urban km2 in
+the year 2010 is 2754, while the ﬁgure for China is 37,131,
+reﬂecting signiﬁcant differences in the degree of urbanisation. This
+illustrates the general ﬁnding that, according to the data used in
+this study, developed countries show a larger urban surface area
+per inhabitant. All regions show an increase in the amount of
+exposed urban area per exposed person, indicating a stronger
+growth of city areas relative to their population in ﬂood-prone
+areas. Table 2 shows that this trend is stronger in the developing
+than in developed regions, which means there is a trend of
+convergence. This ﬁnding corresponds to empirical studies in the
+United States (Brueckner and Fansler, 1983) and Europe (Kasanko
+et al., 2006), who also show that the total urban surface area is an
+increasing function of population and income. The changing ratio
+of population over urban area also means that the difference
+between the estimated ﬂood exposure resulting from the
+population method and land-use method is changing. With the
+regional differences in urbanisation remaining, however, this
+should be taken into account when selecting an exposure
+assessment method.
+From these results it is difﬁcult to say which of the two
+approaches is better suited for estimating ﬂood exposure on a
+global scale. In general it can be argued that land-use data of the
+actual assets being ﬂooded is the most accurate measure of
+damage, which is why land-use based assessment is the preferred
+approach in small-scale studies. On a global scale, however, land-
+use types are generalised, with only one class of urban land cover
+Fig. 5. Map of relative changes in population exposed to 1/100 ﬂoods over changes in total population, 1970–2010. Areas with ratios greater than 1 have experienced a
+relatively larger increase in population living in hazard zones than overall population growth.
+Table 2
+Exposed population over exposed urban area ratios for the main geographical
+regions.
+Average exposed population/exposed urban area ratio per region, river
+ﬂooding (people/km2)
+Region 1970 2010 2050 Change 1970–2050
+Australia 3529 3074 2917 /C0 17.3%
+North America 9102 6217 5690 /C0 37.5%
+Europe 20,625 14,094 11,453 /C0 44.5%
+North Africa 33,269 24,720 18,955 /C0 43.0%
+Caribbean 58,314 33,978 26,798 /C0 54.0%
+Latin America 111,636 62,411 46,134 /C0 58.7%
+Asia 114,350 39,498 23,348 /C0 79.6%
+Sub-Saharan Africa 363,524 67,155 37,197 /C0 89.8%
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835830
+
+[[PAGE 9]]
+included in available data sets, while in reality urban land use and
+corresponding potential damages are highly heterogeneous (e.g.
+Merz et al., 2004). Also, due to the integer nature of the land-use
+data, the model does not calculate an exposure estimate for grid
+cells with an urban area of less than 1 km2. As a result, the model
+might underestimate the exposure of rural societies.
+The population method has similar generalisation issues. These
+issues show through the assumptions of homogenous GDP per
+capita and the equally homogenous application of the value of
+assets equation. In reality, actual productivity and asset value can
+be expected to vary signiﬁcantly within any given country (e.g.
+Rice et al., 2006; Escobal and Torero, 2005). Apart from these
+issues, however, population can be argued to be more homogenous
+across different countries than urban build-up, and might
+therefore be a better proxy for global ﬂood exposure. More
+research is required to assess whether this is indeed the case.
+4.2. Comparison with other studies
+The results presented here support some important ﬁndings
+from previous studies. Similar to the observations of the IPCC
+(2007), we ﬁnd a relatively strong increase of physical and
+monetary exposure to ﬂoods in developing countries, even without
+accounting for climate change. The United Nations (UNISDR, 2011)
+recently showed that the exposure of economic assets to river
+ﬂooding is increasing in all regions, while the mortality risk in
+developed countries is declining due to increasing income and
+better governance (e.g. emergency planning and preparedness).
+Although our methodologies do not account for governance effects,
+the ﬁndings do show a decline in exposed population in Europe and
+a strong increase in Africa and Asia, while the value of exposed
+assets is rising consistently in all areas. With respect to coastal
+ﬂood risk, our ﬁnding that the population growth in ﬂood prone
+areas is higher than average population growth corresponds to the
+results of Small and Nicholls (2003), who also ﬁnd this relative
+concentration of people in coastal zones. Also, the strong
+concentration and increase of urban area in coastal ﬂood plains
+that we present in this paper is consistent with the relatively
+strong growth of coastal cities found by Nicholls (1995) and
+Nicholls et al. (2008).
+Quantitatively, our total river ﬂooding exposure estimates (ca
+35 trillion USD in 2010) are close to earlier projections by the
+United Nations (2009) (ca 40 trillion USD), who use the same ﬂood
+extent data but different GDP and population data. At the same
+time our ﬁgures of economic exposure to coastal ﬂooding are a
+factor 3 higher than the global results of Nicholls et al. (2008). The
+reason is that Nicholls et al., although applying the same
+population-based exposure equation, only includes port cities
+and does not include rural areas and smaller urban regions in his
+assessment. The two studies are also based on different population
+density databases.
+4.3. Limitations and future research
+There are several limitations intrinsic to the global analysis
+presented in this paper. In the ﬁrst place, we have assumed the
+river and coastal ﬂood hazard zones to be constant over time.
+While it is possible to correct the coastal ﬂood hazard for climate
+change, land subsidence or (changes in) ﬂood protection for a
+selection of areas (see Nicholls et al., 2008), the necessary data is
+not available on a global scale. Future studies should aim to create
+dynamic estimates of changing ﬂood extent and depth based on
+projected future climate scenarios, and including information on
+protection standards. The latter could be achieved by introducing a
+corresponding variable in the risk analysis based on, for example,
+GDP and government spending on infrastructure.
+Furthermore, both damage estimation methods have several
+limitations. The population based method is based upon a simple
+linear relation with GDP that is assumed to be constant over time
+and space, and which might actually be more complex in reality.
+The land-use approach is based on one urban land-use class and
+maximum damage ﬁgure for all urban areas, adjusted to GDP.
+Again, reality is more complicated, with maximum damage ﬁgures
+varying signiﬁcantly within urban settlements (Kok et al., 2005; de
+Moel et al., 2011; Scawthorn et al., 2006). However, the global data
+currently available over a long period of time do not allow for a
+more detailed analysis.
+In this study we applied the Damage Scanner’s  maximum
+damage per m2 estimate (Klijn et al., 2007), normalised to GDP per
+capita for 2010. The choice of this maximum damage value,
+compared to maximum damage values used in four other ﬂood
+damage models, is assessed in a sensitivity analysis. The maximum
+damage per square metre estimates derived from the different
+models for the year 2010 are shown in Fig. 6. More details can be
+found in Table A.1 in Appendix A. The Multi-coloured Manual
+(United Kingdom) (Penning-Rowsell et al., 2010) and Rhine Atlas
+(Rhine basin) (IKSR, 2001) are based on market values of exposed
+assets. The NHK2000 model (Germany) (BVBW, 2001), Damage
+Scanner (Netherlands) (Kok et al., 2005) and Flemish method
+(Belgium) (Vanneuville et al., 2006) are based on replacement
+values, which are generally higher than market values (De Moel
+and Aerts, 2011). Overall the maximum damage estimate from the
+Damage Scanner model is in the middle of the values from the
+other models in this comparison. Future studies, however, should
+aim at aggregating different national methodologies and develop-
+ing an internationally adjusted model. A ﬁrst attempt at gathering
+and aggregating models on a European scale has been carried out
+by Barredo and De Roo (2010). Further research is required to link
+damage estimates across a wider range of countries and
+continents.
+Finally, we recall the relationship risk = hazard /C2  exposure /C2
+vulnerability. In both the population and the land-use method, the
+exposure estimates are directly and positively related to GDP per
+capita. The rationale behind this assumption is that the direct and
+indirect economic value of persons and assets is higher in high-
+income than in low-income countries (UNISDR, 2011). In reality,
+however, the relationship between GDP and ﬂood exposure is more
+complex. In the analysis, countries with high additional national
+income from natural resources, like various regions in the Middle-
+East, are assigned very high exposure estimates. In fact, however,
+the high overall GDP ﬁgure might not be directly related to the
+actual productivity of the population exposed to ﬂooding. Rather,
+the main sources of income are likely to be focussed on several
+speciﬁc sites or regions (Hill, 2000). Furthermore, high-income
+Fig. 6. Estimates of maximum damage per square metre of urban area using 5
+different depth–damage models. The ﬁgures are normalised to GDP per capita at
+purchase power parity for the year 2010. The land-use method as applied used in
+this study is based on maximum damage estimates from the Damage Scanner
+model.
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 831
+
+[[PAGE 10]]
+countries may tend to have higher standards of protection against
+ﬂooding, and also a higher capacity for rebuilding after ﬂood events
+(e.g. Nicholls et al., 2008). These vulnerability factors are not
+included in our analysis.
+5. Conclusions
+We have applied two distinctive methods for deriving ﬂood
+exposure in order to estimate historical, current and future ﬂood
+risk on a global scale. Both approaches start from historical
+spatial datasets, whereby one is based on population density
+and the other on the extent of urban area within ﬂood hazard
+zones. There is already an awareness that global ﬂood risk is
+increasing over time and that the changes taking place are not
+uniform over different geographical areas. Our quantitative
+analysis on a global scale over a longer time period provides
+insights in the trends and can support international  decision
+making on land use, climate change and disaster relief policies.
+Furthermore,  the results of our study are in line with the trend
+of increasing global aggregation of natural disaster knowledge.
+In 2005, the United Nations implemented the Hyogo Framework
+for Action (HFA), a framework for international  collaboration  on
+the reduction of natural disaster risk (UNISDR, 2005). In their
+2009 assessment of global disaster risk, the United Nations
+(UNISDR, 2009) reinforce their call for further harmonisation  of
+natural hazards research.
+For 2010, we ﬁnd global population totals exposed to ﬂooding of
+992 million with corresponding value of assets of 46 trillion USD.
+The highest numbers of people exposed to river and coastal
+ﬂooding are generally found in Asian countries. In contrast, the
+highest values of exposed assets are commonly found in developed
+regions. The total area of urban land-cover in ﬂood zones is
+estimated at 44,000 km2 in 2010, resulting in an approximate land-
+use based exposure ﬁgure of 18.3 trillion USD. Both the results of
+the period 1970–2010 and the projections for 2010–2050 show an
+increase in exposure to river and coastal ﬂooding. The strongest
+increases are in those regions that experience high GDP and
+population growth over time. For 1970–2010 these regions are
+generally located in Asia and the Middle-East. In the next four
+decades, the largest relative exposure increases are expected in
+Sub-Saharan Africa, both on the basis of the population and land-
+use method.
+In this study we compared two methods for damage estimation
+and found important differences in the results. Because population
+and urbanisation do not always coincide, rural communities
+generally have a higher population based damage estimate,
+compared to the land-use based estimate. We stress that the
+available global land-use data are highly generalised, with only one
+class for urban area. This raises questions about the homogeneity
+of people and income versus buildings and their corresponding
+value. The assumption of spatial homogeneity of productivity leads
+to the apparent overestimation of damage for countries with high
+income from natural resources. Neglecting differentiation in urban
+land-use disregards variation in building style and economic
+activity.
+We highlight that more research is needed on several aspects of
+the exposure methodologies presented here. Future studies should
+focus on modelling actual ﬂood depths and more detailed land-use
+data on a global scale, which would support the application of a
+differentiated depth–damage model. Also, further work is needed
+on international normalisation of damages, using other indicators
+in addition to GDP per capita. Finally, more data is required on
+current ﬂood protection standards on river and coastal segments
+around the world. Combined with the methodologies presented in
+this paper, this would enable the development of a global
+framework for ﬂood risk assessment.
+Acknowledgements
+We are grateful to Hans de Moel and two anonymous reviewers
+for their comments and suggestions to improve earlier drafts of
+this paper. This research was conducted as part of the Climate Proof
+Flood Risk Management theme within the Knowledge for Climate
+programme; and part of a VENI project granted by the Netherlands
+Organisation for Scientiﬁc Research (NWO).
+Appendix A
+Table A.1 and Table B.1
+Table A.1
+Sensitivity analysis of the normalised maximum damage per square metre estimates resulting from different national models.^p.
+Sensitivity analysis depth–damage functions
+Model details Global ﬂood exposure
+(trillions USD PPP)
+Model Reference Cost base Maximum damage per m2
+(residential buildings)
+1970 2010 2050
+Local currency 2005 USD PPP
+Multi-Coloured Manual Penning-Rowsell et al. (2010) Market value £ 1243 $ 2047 $ 11 $ 40 $ 117
+NHK 2000 Kleist et al. (2006) Replacement value s 1180 $ 1460 $ 8 $ 28 $ 83
+Damage Scanner Kok et al. (2005) Replacement value s 910 $ 942 $ 5 $ 18 $ 54
+Flemish Method Vanneuville et al. (2006) Replacement value s 900 $ 890 $ 5 $ 17 $ 51
+Rhine Atlas IKSR (2001) Market value s 311 $ 385 $ 2 $ 7 $ 22
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835832
+
+[[PAGE 11]]
+Table B.1
+Ranking of countries on main indicators for river, coastal and total ﬂood exposure.
+Global river ﬂood exposure
+Rank Exposed population,
+2010 (millions)
+Exposed urban area,
+2010 (square km)
+Population method –
+exposed assets, 2010
+(billions USD PPP)
+Land-use method –
+exposed assets, 2010
+(billions USD PPP)
+Population method –
+increase exposed assets,
+1970–2010 (%)
+Land-use method –
+increase exposed assets,
+1970–2010 (%)
+Country Amount Country Amount Country Amount Country Amount Country Amount Country Amount
+1 India 195 United States 9367 China 8293 United States 11,040 United Arab Emirates 108,998% Qatar 25,014%
+2 China 173 China 4662 United States 5680 China 1295 Equatorial Guinea 51,374% Botswana 24,458%
+3 Bangladesh 76 India 2827 India 3722 Germany 1136 Qatar 29,744% United Arab Emirates 18,272%
+4 Vietnam 29 Russia 1231 Russia 1561 France 544 Botswana 18,335% Equatorial Guinea 18,177%
+5 United States 26 Germany 1243 Germany 1227 Australia 536 China 14,994% Rwanda 17,976%
+Global coastal ﬂood exposure
+Rank Exposed population,
+2010 (millions)
+Exposed urban area,
+2010 (square km)
+Population method –
+exposed assets, 2010
+(billions USD PPP)
+Land-use method –
+exposed assets, 2010
+(billions USD PPP)
+Population method –
+increase exposed assets,
+1970–2010 (%)
+Land-use method –
+increase exposed assets,
+1970–2010 (%)
+Country Amount Country Amount Country Amount Country Amount Country Amount Country Amount
+1 Bangladesh 50 United States 1810 China 2194 United States 2133 United Arab Emirates 82,005% China 9810%
+2 China 46 China 1118 Netherlands 1853 Australia 1185 Qatar 26,809% Congo 3663%
+3 Vietnam 28 Netherlands 1018 Japan 1669 Netherlands 1053 China 15,634% Angola 3233%
+4 India 22 Australia 951 United States 1272 Japan 500 Oman 11,983% Indonesia 2628%
+5 Indonesia 17 Japan 634 Australia 774 Belgium 383 Congo 6968% Republic of Korea 2341%
+Total global ﬂood exposure
+Rank Exposed population,
+2010 (millions)
+Exposed urban area,
+2010 (square km)
+Population method –
+exposed assets, 2010
+(billions USD PPP)
+Land-use method –
+exposed assets, 2010
+(billions USD PPP)
+Population method –
+increase exposed assets,
+1970–2010 (%)
+Land-use method –
+increase exposed assets,
+1970–2010 (%)
+Country Amount Country Amount Country Amount Country Amount Country Amount Country Amount
+1 India 211 United States 10,689 China 9982 United States 12,964 United Arab Emirates 101,393% Cameroon 24,458%
+2 China 208 China 6059 United States 6496 Australia 1768 Equatorial Guinea 51,374% Guinea 18,177%
+3 Bangladesh 102 India 3101 India 4016 China 1599 Qatar 28,951% Tunisia 15,511%
+4 Vietnam 40 Brazil 1733 Japan 2531 Germany 1434 Botswana 18,335% Tanzania 9262%
+5 Indonesia 30 Germany 1504 Netherlands 1984 Netherlands 1190 China 15,105% Dominican Republic 8079%
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 833
+
+[[PAGE 12]]
+References
+Barredo, J.I., De Roo, A., 2010. Flood damage functions for EU member states. Flood
+risk mapping using Corine land cover datasets. CONHAZ Project Presentation,
+Ghent.
+Bouwer, L.M., Bubeck, P., Aerts, J.C.J.H., 2010. Changes in future ﬂood risk due to
+climate and development in a Dutch polder area. Global Environmental Change
+20 (3), 463–471.
+Brakenridge, G.R., Anderson, E., 2011. World atlas of ﬂooded lands. In: Dartmouth
+Flood Observatory, Boulder, Colorado.
+Broersma, L., van Dijk, J., 2005. Regional differences in labour productivity in The
+Netherlands. Tijdschrift voor Economische en Sociale Geograﬁe 96 (3), 334–
+343.
+Brueckner, J.K., 2000. Urban sprawl: diagnosis and remedies. International Regional
+Science Review 23 (2), 160–171.
+Brueckner, J.K., Fansler, D.A., 1983. The economics of urban sprawl: theory and
+evidence on the spatial sizes of cities. The Review of Economics and Statistics 65
+(3), 479–482.
+BVBW, 2001. ‘‘Normalhestellungskosten  2000’’, Bundesministerium fu¨ r Verkehr,
+Bau- und Wohnungswesen, Berlin.
+Cai, X., Rosegrant, M.W., 2002. Global water demand and supply projections. Part 1:
+a modeling approach. Water International 27, 159–169.
+Dall’erba,  S., 2005. Productivity convergence and spatial dependence among Span-
+ish regions. Journal of Geographical Systems 7 (2), 207–227.
+de Fraiture, C., 2007. Integrated water and food analysis at the global and basin level.
+An application of WATERSIM. Water Resources Management 21, 185–198.
+de Moel, H., Aerts, J.C.J.H., Koomen, E., 2011. Development of ﬂood exposure in the
+Netherlands during the 20th and 21st century. Global Environmental Change
+21, 620–627.
+De Moel, H., Aerts, J.C.J.H., 2011. Effect of uncertainty in land use, damage models
+and inundation depth on ﬂood risk estimates. Natural Hazards 58, 407–425.
+De Roo, A., Barredo, J.I., Lavalle, C., Bodis, K., Bonk, R., 2007. Potential ﬂood hazard
+and risk mapping at pan-European scale. In: Peckham, R., Jordan, G. (Eds.),
+Digital Terrain Modelling – Development and Applications in a Policy Support
+Environment. Springer.
+EIA, 2008. World Energy Outlook, Energy Information Agency, Washington DC.
+Escobal, J., Torero, M., 2005. Adverse geography and differences in welfare in Peru.
+In: Kanbur, R., Venables, A.J. (Eds.), Spatial Inequality and Development. Oxford
+University Press, Oxford, pp. 77–122.
+Green, C., Viavattene, C., Thompson, P., 2011. Guidance for Assessing Flood Losses:
+CONHAZ Report. Flood Hazard Research Centre – Middlesex University, Mid-
+dlesex, WP6 Report.
+Hall, J.W., Sayers, P.B., Dawson, R.J., 2005. National-scale assessment of current and
+future ﬂood risk in England and Wales. Natural Hazards 36 (1–2), 147–164.
+Herath, S., 2003. Flood damage estimation of an urban catchment using remote
+sensing and GIS. In: International Training Program on Total Disaster Risk
+Management, Kobe, Japan.
+Herold, C., Mouton, F., 2011. Global ﬂood hazard mapping using statistical peak ﬂow
+estimates. Hydrology and Earth System Sciences Discussions 8, 305–363.
+Herold, C., Mouton, F., Verdin, K., Verdin, J., Brackenridge, R., Liu, Z., Tyagi, A., Grabs,
+W., 2011. Floods, Appendix 1: Global Risk Analysis, Global Assessment Report
+2009, available online: http://www.preventionweb.net/english/hyogo/gar/ap-
+pendices/documents/Appendix-1.doc. (Last access: 11.04.12).
+Heston, A., Summers, R., Aten, B., 2011. ‘‘Penn  world table [7.0]’’.  Pennsylvania,
+Center for International Comparisons of Production, Income and Prices at the
+University of Pennsylvania.
+Hijmans, R., 2011. Global Administrative Boundaries version 1.0. Available at http://
+www.diva-gis.org/. (Accessed: 11.05.11).
+Hill, H., 2000. Intra-country regional disparities. Report, Singapore.
+Hinkel, J., Nicholls, R.J., Vafeidis, A.T., Tol, R.S.J., Avagianou, T., 2010. Assessing risk of
+and adaptation to sea-level rise in the European Union: an application of DIVA.
+Mitigation and Adaptation Strategies for Global Change 15 (7), 703–719.
+Hope, C., 2003. The Marginal Impacts of CO2, CH4 and SF6 Emissions. Judge Institute
+of Management, Cambridge, UK.
+Hughes, G., Chinowsky, P., Strzepek, K., 2010. The costs of adaptation to climate
+change for water infrastructure in OECD countries. Utilities Policy 18 (142), 153.
+IEA, 2008. World Energy Outlook 2008, International Energy Agency (IEA), Paris.
+IKSR, 2001. U¨ bersichtskarten der U¨ berschwemmungsgefa¨ hrdung und der mo¨ gli-
+chen Vermo¨ gensscha¨den am Rhein. Wiesbaden.
+IPCC, 2000. Emission scenarios, special report of the Intergovernmental Panel on
+Climate Change, Cambridge University Press, Cambridge, UK.
+IPCC, 2007. Regional climate projections. In: Climate Change 2007: The Physical
+Science Basis. Contribution of Working Group 1 to the fourth assessment report
+of the Intergovernmental Panel on Climate Change, Cambridge University Press,
+Cambridge.
+Jarvis, A., Reuter, H.I., Nelson, A., Guevara, E., 2008. Hole-ﬁlled seamless SRTM data
+V4. Cali, Colombia, International Centre for Tropical Agriculture (CIAT).
+Jonkman, S.N., 2005. Global perspectives of loss of human life caused by ﬂoods’’.
+Natural Hazards 34 (2), 151–175.
+Kasanko, M., Barredo, J.I., Lavalle, C., McCormick, N., Demicheli, L., Sagros, V., Brezger,
+A., 2006. Are European cities becoming dispersed? A comparative analysis of 15
+European urban areas. Landscape and Urban Planning 77 (1), 111–130.
+Klein Goldewijk, K., Beusen, A., van Drecht, G., de Vos, M., 2010. The HYDE 3.1
+spatially explicit database of human-induced global land-use change over the
+past 12000 years. Global Ecology and Biogeography 20 (1), 73–86.
+Kleist, L., Thieken, A.H., Kohler, P., Muller, M., Seifert, I., Borst, D., Werner, U., 2006.
+Estimation of the regional stock of residential buildings as a basis for a
+comparative risk assessment in Germany. Natural Hazards and Earth System
+Sciences 6 (4), 541–552.
+Klijn, F., Baan, P.J.A., De Bruijn, K.M., Kwadijk, J., 2007. Overstromingsrisico’s  in
+Nederland in een veranderend klimaat, WL j delft hydraulics, Delft, Netherlands,
+Q4290.
+Kok, M., Huizinga, H.J., Vrouwenvelder, A.C.W.M., Barendregt, A., 2005. Standaard-
+methode 2004 – Schade en Slachtoffers als gevolg van overstromingen, RWS
+Dienst Weg- en Waterbouwkunde, DWW-2005-005.
+Kron, W., 2005. Flood Risk = Hazard T Values T Vulnerability. Water International
+30 (1), 58–68.
+Kummu, M., Ward, P.J., de Moel, H., Varis, O., 2010. Is physical water scarcity a new
+phenomenon? Global assessment of water shortage over the last two millennia.
+Environmental Research Letters 5 (3), 034006.
+Lugeri, N., Genovese, E., Lavalle, C., De Roo, A., 2006. Flood Risk in Europe: Analysis of
+Exposure in 13 Countries. European Commission Directorate-General Joint
+Research Centre, EUR22525 EN.
+Merz, B., Kreibich, H., Thieken, A., Schmidtke, R., 2004. Estimation uncertainty of
+direct monetary ﬂood damage to buildings. Natural Hazards and Earth System
+Sciences 4 (1), 153–163.
+Merz, B., Kreibich, H., Schwarze, R., Thieken, A., 2010. Review article ‘Assessment  of
+economic ﬂood damage’.  Natural Hazards and Earth System Sciences 10 (8),
+1697–1724.
+Messner, F., Pennning-Rowsell, E.C., Green, C., Meyer, V., Tunstall, S.M., van der
+Veen, A., 2007. Evaluating ﬂood damages: guidance and recommendations on
+principles and methods, FLOODsite, Wallingford, UK, T09-06-01.
+Nicholls, R.J., 1995. Coastal megacities and climate change. Geojournal 37 (3), 369–
+379.
+Nicholls, R.J., 2004. Coastal ﬂooding and wetland loss in the 21st century: changes
+under the SRES climate and socio-economic scenarios. Global Environmental
+Change 14 (1), 69–86.
+Nicholls, R.J., Hanson, S., Herweijer, C., Patmore, N., Hallegatte, S., Corfee-Morlot, J.,
+Chaˆteau, J., Muir-Wood, R., 2008. Ranking port cities with high exposure and
+vulnerability to climate extremes. Exposure estimates, OECD Publishing, Paris,
+France, ENV/WKP(2007)1.
+Nordhaus, W.D., 1999. Modelling induced innovation in climate-change policy, In:
+Proceedings of the Papers Presented at the IIASA Workshop on Induced Tech-
+nological Change and the Environment.
+Pappenberger, F., Dutra, E., Wetterhall, F., Cloke, H., 2012. Deriving global ﬂood
+hazard maps of ﬂuvial ﬂoods through a physical model cascade. Hydrology and
+Earth System Sciences Discussion 9, 6615–6647.
+Peduzzi, P., Dao, H., Herold, C., Mouton, F., 2009. Assessing global exposure and
+vulnerability towards natural hazards: the Disaster Risk Index. Natural Hazards
+and Earth System Sciences 9, 1149–1159.
+Penning-Rowsell, E., Viavattene, C., Pardoe, J., Chatterton, J., Parker, D., Morris, J.,
+2010. The Beneﬁts of Flood and Coastal Risk Management: A Handbook of
+Assessment Techniques. Flood Hazard Research Centre, Middlesex.
+Rice, P., Venables, A.J., Patacchini, E., 2006. Spatial determinants of productivity:
+analysis for the regions of Great Britain. Regional Science and Urban Economics
+36 (6), 727–752.
+Rosegrant, M.W., Cai, X., Cline, S.A., 2002. Global Water Outlook to 2025: Averting
+an Impending Crisis, IFPRI; IWMI.
+Scawthorn, C., Flores, P., Blais, N., Seligson, H., Tate, E., Chang, S., Mifﬂin, E., Thomas,
+W., Murphy, J., Jones, C., Lawrence, M., 2006. HAZUS-MH ﬂood loss estimation
+methodology. II. Damage and loss assessment. Natural Hazards Review 7 (2),
+72–81.
+Small, C., Nicholls, R.J., 2003. A global analysis of human settlement in coastal zones.
+Coastal Research 19 (3), 584–599.
+Small, C., Gornitz, V., Cohen, J.E., 2000. Coastal hazard and the global distribution of
+human population. Environmental Hazards 7 (1), 3–12.
+Smith, D.I., 1994. Flood damage estimation – a review of urban stage-damage curves
+and loss functions. Water SA 20 (3), 231–238.
+The World Bank, 2009. The Costs to Developing Countries of Adapting to Climate
+Change. New Methods and Estimates. The World Bank, Washington D.C.
+The World Bank, 2010. World Development Indicators 2009. The World Bank,
+Washington D.C.
+Tol, R.S.J., 2007. On the Optimal Control of Carbon Dioxide Emissions: An Applica-
+tion of FUND, Institute for Environmental Studies, Amsterdam.
+UNISDR, 2005. Hyogo Framework for Action 2005–2015: Building the Resilience of
+Nations and Communities to Disasters, United Nations, Kobe, Japan.
+UNISDR, 2009. Global Assessment Report on Disaster Risk Reduction, United
+Nations, Geneva.
+UNISDR, 2011. Global Assessment Report on Disaster Risk Reduction – Revealing
+risk, Redeﬁning Development. Summary and main ﬁndings, United Nations,
+Geneva.
+United Nations, 2006. World Population Prospects: The 2006 Revision, United
+Nations Department of Economic and Social Affairs, Population Division,
+New York.
+United Nations, 2010. World Urbanization Prospects: The 2009 Revision, United
+Nations Department of Economic and Social Affairs, Population Division, New
+York.
+USGS, 1996. GTOP030 global digital elevation model, Sioux Falls, South Dekota,
+EROS Data center. Available at: http://eros.usgs.gov/#/Find_Data/Product-
+s_and_Data_Available/gtopo30_info (Accessed 01.05.11).
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835834
+
+[[PAGE 13]]
+Vafeidis, A.T., Nicholls, R.J., McFadden, L., Tol, R.S.J., Hinkel, J., Spencer, T., Grashoff,
+P.S., Boot, G., Klein, R.J.T., 2008. A new global coastal database for impact and
+vulnerability analysis to sea-level rise. Journal of Coastal Research 24 (4), 917–
+924.
+Vanneuville, W., Maddens, R., Collard, C., Bogaert, P., de Maeyer, P., Antrop, M., 2006.
+Impact op mens en economie t.g.v. overstromingen bekeken in het licht van
+wijzigende hydraulische condities, omgevingsfactoren en klimatologische
+omstandigheden, Vakgroep Geograﬁe, Universiteit Gent, Gent, Belgium,
+MIRA/2006/02.
+Ward, P.J., Strzepek, K.M., Pauw, W.P., Brander, L.M., Hughes, G.A., Aerts, J.C.J.H.,
+2010. Partial costs of global climate change adaptation for the supply of raw
+industrial and municipal water: a methodology and application. Environmental
+Research Letters 5 (4), http://dx.doi.org/10.1088/1748-9326/5/4/044011.
+Ward, P.J., Marfai, M.A., Yulianto, F., Hizbaron, D.R., Aerts, J.C.J.H., 2011. Coastal
+inundation and damage exposure estimation: a case study for Jakarta. Natural
+Hazards 56, 899–916.
+Woodhead, S., Asselman, N., Zech, Y., Soares-Fraza˜o, S., Bates, P., Kortenhaus, A.,
+2007. Evaluation of Inundation Models. Limits and Capabilities of Models,
+FLOODsite, T08-07-01.
+Yang, C.R., Tsai, C.T., 2000. Development of a GIS-based ﬂood information system for
+ﬂoodplain modeling and damage calculation. Journal of the American Water
+Resources Association 36 (3), 567–577.
+B. Jongman et al. / Global Environmental Change 22 (2012) 823–835 835

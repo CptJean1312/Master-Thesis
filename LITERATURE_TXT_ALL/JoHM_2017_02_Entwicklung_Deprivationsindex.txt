@@ -1,0 +1,1256 @@
+[[PAGE 1]]
+Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für DeutschlandJournal of Health Monitoring
+103
+CONCEPTS & METHODS
+Autorin und Autoren: 
+Lars Eric Kroll, Maria Schumann,
+Jens Hoebel, Thomas Lampert
+Journal of Health Monitoring · 2017  2(2) 
+DOI 10.17886/RKI-GBE-2017-035.2
+Robert Koch-Institut, Berlin
+Regionale Unterschiede in der Gesundheit – Entwicklung eines 
+sozioökonomischen Deprivationsindex für Deutschland
+Abstract
+Für Deutschland sind regionale Unterschiede für verschiedene Gesundheitsindikatoren dokumentiert, die auch mit 
+sozioökonomischen Unterschieden assoziiert sind. Ziel des Beitrags ist es, einen regionalen sozioökonomischen 
+Deprivationsindex für Deutschland zu entwickeln, der (1) regionale sozioökonomische Ungleichheiten in der Gesund-
+heit sichtbar macht und (2) Ansatzpunkte zur Erklärung regionaler Unterschiede in der Gesundheit aufzeigen kann. 
+Als Datengrundlage wird die Datenbank „Indikatoren und Karten zur Raum- und Stadtentwicklung“ (INKAR) des 
+Bundesinstituts für Bau-, Stadt- und Raumforschung genutzt. Für die Indexbildung und die Gewichtung der Indi-
+katoren in den drei Dimensionen, Beruf, Bildung und Einkommen wird eine Faktorenanalyse durchgeführt. Der 
+„German Index of Socioeconomic Deprivation“ (GISD) wird auf Ebene der Gemeindeverbände, der Landkreise und 
+kreisfreien Städte sowie der Regierungsbezirke für die Jahre 1998, 2003, 2008 und 2012 generiert. Mit Aggregatda-
+ten sowie Individualdaten der Studie Gesundheit in Deutschland aktuell 2014/2015 (GEDA 2014/2015-EHIS) wer-
+den Zusammenhänge zwischen dem Index und ausgewählten Gesundheitsindikatoren exemplarisch analysiert. 
+Auf Ebene der Regierungsbezirke zeigen sich anhand des German Index of Socioeconomic Deprivation für etwa 
+zwei Drittel der Todesursachen signifikante sozioökonomische Unterschiede. Auf Kreisebene ist die Lebenserwar-
+tung in dem Fünftel der Kreise mit der höchsten Deprivation je nach Beobachtungszeitpunkt mindestens 1,3 Jahre 
+bei Frauen bzw. 2,6 Jahre bei Männern geringer als in dem Fünftel der Kreise mit der geringsten Deprivation. Der 
+Index erklärt dabei 45,5 % bzw. 62,2 % der regionalen Unterschiede bei Frauen bzw. Männern. Zudem weist die 
+Bevölkerung in Regionen mit hoher Deprivation signifikant höhere Raucherquoten auf und ist seltener sportlich 
+aktiv, aber häufiger adipös. 
+Der German Index of Socioeconomic Deprivation bildet regionale sozioökonomische Unterschiede auf verschie-
+denen räumlichen Ebenen ab und leistet einen Beitrag zur Erklärung regionaler Unterschiede in der Gesundheit. 
+Der Index wird für die Nutzung in der Forschung und Gesundheitsberichterstattung des Bundes und der Länder 
+bereitgestellt und soll dazu beitragen, neue Datenquellen für die Analyse des Zusammenhangs von sozialer Ungleich-
+heit und Gesundheit zu erschließen.
+ SOZIALE DEPRIVATION · GESUNDHEITLICHE UNGLEICHHEIT · DEUTSCHLAND · GERMAN INDEX OF SOCIOECONOMIC DEPRIVATION · 
+FAKTORENANALYSE 
+Dieser Artikel wurde korrigiert (siehe Corrigendum Seite 120), Stand 18.10.2018 
+
+[[PAGE 2]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+104
+CONCEPTS & METHODS
+1. Einleitung
+Die Gesundheitsberichterstattung des Bundes (GBE) 
+nutzt eine Vielzahl von verfügbaren Datenquellen, um 
+ein möglichst umfassendes und präzises Bild der 
+gesundheitlichen Situation der Bevölkerung zu zeich -
+nen. Hierzu zählen neben den Gesundheitssurveys des 
+Robert Koch-Instituts und sozialwissenschaftlichen bzw. 
+epidemiologischen Studien auch amtliche Statistiken 
+und prozessproduzierte Daten der Sozialversicherun -
+gen [1]. Die verwendeten Informationen sollen reprä -
+sentativ, gültig und verlässlich sein, um belastbare  
+Aussagen treffen zu können. Außerdem sollten sie kon-
+tinuierlich erhoben werden, damit zeitliche Entwicklun-
+gen abgebildet werden können. Regionale und soziale 
+Unterschiede in der Gesundheit stellen in der Bericht -
+erstattung zur Gesundheit der Bevölkerung einen 
+Schwerpunkt dar [1]. 
+Dieses Vorgehen entspricht den Forderungen der 
+Weltgesundheitsorganisation (WHO), die es als eine 
+zentrale Aufgabe von Public Health ansieht, das Aus -
+maß gesundheitlicher Ungleichheit kontinuierlich  
+zu beo  bachten und die Evidenz für Maßnahmen  
+zu deren Abbau zu liefern [2]. Zahlreiche internationale 
+Studien belegen, dass Gesundheitschancen, Krankheits-
+risiken und auch die Lebenserwartung in den meisten 
+Ländern sozial ungleich verteilt sind [3]. Auch in 
+Deutschland schätzen sozial Benachteiligte ihre 
+Gesundheit im Vergleich zu wohlhabenderen Menschen 
+schlechter ein, zeigen ein riskanteres Gesundheits -
+verhalten und weisen eine höhere Krankheitslast und 
+Sterblichkeit auf [4  – 6]. Zudem sind für Deutschland 
+ausgeprägte regionale Unterschiede für verschiedene 
+Gesundheitsindikatoren dokumentiert, die auch mit 
+sozialen Merkmalen der jeweiligen Wohnregionen im 
+Zusammenhang stehen [5,  7, 8].
+Zur Beschreibung sozialer Ungleichheit werden häu-
+fig Maße für den sozioökonomischen Status (SES) von 
+Personen oder Haushalten eingesetzt. Dabei wird unter-
+stellt, dass der sozioökonomische Status regelmäßig 
+mit bestimmten sozialen Vor- oder Nachteilen einher -
+geht. Diese definieren sich über die individuelle Verfüg-
+barkeit knapper und gesellschaftlich hoch bewerteter 
+Güter wie Geld, Vermögen, Macht, Sozialprestige, Bil -
+dung oder Wissen [9]. Bildung, Berufsstatus und Ein -
+kommen werden als die zentralen statusbildenden Merk-
+male angesehen und auch als „Kerndimensionen 
+sozialer Ungleichheit“ bezeichnet [10, 11]. In sozial- und 
+gesundheitswissenschaftlichen Studien werden diese 
+Informationen erhoben, um den sozioökonomischen 
+Status der Befragten zu bestimmen. Dies erfolgt sowohl 
+in Form von Analysen der drei statusbildenden Merk -
+male als auch mit zusammengesetzten mehrdimensio-
+nalen SES-Indizes [12 – 14].
+In vielen der für die Gesundheitsberichterstattung 
+nutzbaren Datenquellen stehen allerdings kaum Infor -
+mationen zur individuellen sozioökonomischen Situa -
+tion der hierin erfassten Personen zur Verfügung. Ana -
+lysen zum Ausmaß sozialer Unterschiede in der 
+Gesundheit sind dann auf der Individualebene nur 
+schwer möglich. Dies betrifft in Deutschland insbeson -
+dere Daten zur Lebenserwartung und zu Todesursachen, 
+die Krebsregister, die Fehlzeitenstatistik sowie die Dia -
+gnosedaten aus dem ambulanten und stationären Ver -
+Der „German Index of 
+Socioeconomic Deprivation“ 
+bildet regionale 
+sozioökonomische 
+Unterschiede auf 
+verschiedenen 
+räumlichen Ebenen ab.
+
+[[PAGE 3]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+105
+CONCEPTS & METHODS
+zes, die sich auf Arbeiten zu sozioökonomischen Unter-
+schieden von Townsend [19], Carstairs [21] und Jarman 
+[22] berufen. In neueren Indizes zur multiplen Depriva-
+tion [23] werden neben sozioökonomischen Indikatoren
+auch weitere Indikatoren wie die Lebenserwartung der
+Bevölkerung berücksichtigt. Zwar können Maße multi -
+pler Deprivation regionale Unterschiede im Versorgungs-
+bedarf in der Regel besser erklären. Da dabei eine kon -
+zeptionelle Vermengung von Einflussfaktoren der
+Gesundheit und Krankheitsfolgen vorgenommen wird,
+sind sie jedoch für die epidemiologische Forschung nur
+eingeschränkt nutzbar [20].
+Ziel des vorliegenden Beitrags ist es, einen regiona -
+len Deprivationsindex für Deutschland zu entwickeln, 
+der sozioökonomische Ungleichheiten abbildet. Der 
+Index verwendet international gängige Indikatoren und 
+orientiert sich inhaltlich am Konzept des sozioökonomi-
+schen Status, wie es in der Sozialepidemiologie zur 
+Beschreibung der sozialen Position von Individuen oder 
+Haushalten gebräuchlich ist [14]. Nachfolgend werden 
+die Konstruktion des sozioökonomischen Deprivations-
+index sowie Zusammenhangsanalysen für verschiedene 
+regionale Ebenen dargestellt. Abschließend werden die 
+Möglichkeiten und Grenzen des Vorgehens mit Blick  
+auf die Forschung und Gesundheitsberichterstattung 
+diskutiert.
+2. Daten und Methode
+2.1  Datengrundlagen 
+Als Datengrundlage für die sozioökonomischen Regio -
+nalinformationen wurden Informationen der Datenbank 
+sorgungsbereich. Aus einigen dieser Datenquellen sind 
+Informationen aufgrund hoher Datenschutzanforderun-
+gen für die Berichterstattung häufig nur regional aggre-
+giert verfügbar. Um dennoch Aussagen zum Ausmaß 
+sozialer Unterschiede in der Gesundheit ableiten zu  
+können, werden sie mit räumlich verfügbaren sozio -
+ökonomischen Indikatoren in Beziehung gesetzt. Mit 
+diesen kann die soziale Lage einer Region bestimmt 
+werden. Genutzt werden etwa die Armutsrisikoquote [15], 
+die Arbeitslosenquote, das Haushaltseinkommen [8] 
+oder aber mehrdimensionale Indizes [17, 18]. 
+Mehrdimensionale Indizes auf regionaler Ebene 
+haben den Vorteil, dass sie nicht nur einzelne Aspekte, 
+sondern die Gesamtheit sozioökonomischer Vor- und 
+Nachteile in Sozialräumen abbilden können. In der 
+internationalen Forschung wird in diesem Zusammen -
+hang häufig von „sozialer Deprivation“ gesprochen. 
+Ursprünglich bezogen auf Individuen beschreibt dieser 
+Begriff einen relativen Mangel an materiellen Ressour -
+cen. Im Vergleich zu anderen verfügt eine betroffene 
+Person über so wenige Ressourcen, dass sie an sozia -
+len Aktivitäten möglicherweise nur noch eingeschränkt 
+teilhaben kann [19, 20].
+Bezogen auf Regionen wird der Begriff soziale Depri-
+vation dagegen verwendet, um zu verdeutlichen, dass 
+gesellschaftliche Teilhabemöglichkeiten auch durch sozi-
+alräumliche Ressourcen und Belastungen beeinflusst 
+sein können. Maßzahlen regionaler sozialer Deprivation 
+werden seit den 1980er-Jahren in England genutzt, um 
+Sozialräume zu differenzieren und daraus graduelle 
+Unterschiede im gesundheitlichen Versorgungsbedarf 
+abzuleiten [20]. Verbreitet sind dabei insbesondere Indi-
+
+[[PAGE 4]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+106
+CONCEPTS & METHODS
+die Lebenserwartung bei Geburt auf Ebene der 402 
+Landkreise und kreisfreien Städte (im Folgenden: 
+Kreise) zur Verfügung. Über Eurostat sind Informatio -
+nen zur altersstandardisierten Sterblichkeit differenziert 
+nach ICD-10-Kapiteln (Internationale statistische  
+Klassifikation der Krankheiten und verwandter Gesund-
+heitsprobleme, 10. Revision) für die europäische Ver -
+waltungsebene NUTS-2 (Nomenclature des unités ter -
+ritoriales statistiques) verfügbar. Gemäß der amtlichen 
+europäischen Statistik umfasst diese Verwaltungsebene 
+in Deutschland 39 Regierungsbezirke oder statistische 
+Regionen.
+Regionalisierte Gesundheitsinformationen auf  
+Basis von Individualdaten wurden der „Studie Gesund-
+heit in Deutschland aktuell“ aus dem Jahr 2014/2015 
+entnommen (GEDA 2014/2015-EHIS). Die GEDA-  
+Studie ist Bestandteil des Gesundheitsmonitorings am 
+Robert Koch-Institut (RKI) und wird als repräsentative 
+Querschnittsbefragung zur Gesundheit von Erwachse -
+nen im Alter ab 18 Jahren seit 2009 regelmäßig  
+durchgeführt [25]. Die Stichprobe wurde als zwei -
+stufiges Clustersample konzipiert. Zuerst wurden  
+301 Gemeinden und Gemeindeverbände aus allen 
+Gemeinden Deutschlands stratifiziert nach Bundesland 
+„Indikatoren und Karten zur Raum- und Stadtentwick -
+lung“ (INKAR) des Bundesinstituts für Bau-, Stadt- und 
+Raumforschung (BBSR) genutzt [24]. INKAR ist eine 
+interaktive Online-Datenbank, über die regionale Statis-
+tiken für Deutschland und Europa abgerufen werden 
+können. Die Indikatoren liegen auf verschiedenen regi -
+onalen Ebenen vor. So sind Vergleiche zwischen euro -
+päischen Regionen, Bundesländern, Kreisen, Mittelbe -
+reichen und Gemeindeverbänden möglich. Die meisten 
+Statistiken reichen bis zum Jahr 1995 zurück und  
+wurden auf einen einheitlichen Gebietsstand bezogen 
+(31.12.2014). Aktuell enthält die Datenbank etwa 600 
+Indikatoren zu den Themenbereichen Bevölkerung und 
+Sozialstruktur, Wirtschaft und Beschäftigung, Arbeits -
+markt, Einkommen und Verdienst, Wohnen, Bildung, 
+soziale und medizinische Versorgung, Verkehr und 
+Erreichbarkeit, Flächennutzung und Umwelt sowie 
+Finanzen und öffentliche Haushalte. 
+Regionale Gesundheitsinformationen für erste 
+Zusammenhangsanalysen wurden ebenfalls aus der 
+INKAR-Datenbank sowie vom Statistischen Amt der 
+Europäischen Union (Eurostat) bezogenen. Dabei sind 
+regionale Daten auf verschiedenen räumlichen Ebenen 
+verfügbar (Tabelle 1). Über die INKAR-Datenbank steht 
+Ebene Anzahl Mittlere Bevölkerungszahl Spannweite der Bevölkerungszahlen
+Minimum Maximum
+Gemeindeverbände (GVB) 4.504 17.878 338 3.375.222
+Kreise und kreisfreie Städte (Kreise) 402 200.308 34.064 3.375.222
+Raumordnungsregionen (ROR) 96 838.789 203.544 3.375.222
+NUTS-2 39 2.064.711 518.289 5.081.061
+NUTS-2 = Nomenclature des unités territoriales statistiques, Statistische Regionen nach Vorgaben der EU, Ebene 2, Basic regions, entspricht Regierungsbezirken 
+bzw. statistischen Regionen der Länder. Gebiets- und Bevölkerungsstand 31.12.2012
+Tabelle 1 
+Räumliche Gliederungsebenen in 
+Deutschland und ihre Bevölkerungszahlen 
+Quelle: BBSR [24]
+
+[[PAGE 5]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+107
+CONCEPTS & METHODS
+und Einkommen) aufweist [10]. Zuletzt wurde die Ver -
+fügbarkeit der entsprechenden Indikatoren in der 
+INKAR-Datenbank überprüft und Indikatoren ausgewählt, 
+die für die Ebene der Kreise oder Gemeindeverbände im 
+Zeitraum von 1998 bis 2012 zur Verfügung stehen. Im 
+Hinblick auf die Dimensionen Bildung und Beruf stehen 
+dabei nur wenige Indikatoren zur Verfügung, die diese 
+Kriterien erfüllen. Demgegenüber ist die Datenlage für 
+die Dimension Einkommen etwas besser.
+Als Indikatoren für die Dimension Beruf wurden die 
+Arbeitslosenquote einer Region, der mittlere Bruttolohn 
+der Beschäftigten und die Beschäftigtenquote gewählt. 
+Der Bruttolohn wird als Indikator für den mittleren 
+Berufsstatus der Beschäftigten in den Regionen verwen-
+det, da hierfür kein besserer Indikator verfügbar ist. Für 
+die Dimension Bildung wurde der Anteil von Beschäf -
+tigten mit (Fach-)Hochschulabschluss und der Anteil 
+von Schulabgängerinnen und Schulabgängern ohne 
+Abschluss herangezogen. Die Indikatoren mittleres 
+Haushaltsnettoeinkommen, Schuldnerquote und Steu -
+ereinnahmen wurden für die Dimension Einkommen 
+verwendet ( Tabelle 2). Für die Indikatoren, bei denen 
+keine vollständigen Zeitreihen von 1998 bis 2012 vorla -
+gen, wurden fehlende Werte auf Kreisebene auf Basis 
+von Regressionsanalysen geschätzt (lineare Random-in-
+tercept-Modelle für Zeitreihen). Für die fünf Indikatoren, 
+die nur auf Ebene der Kreise vorlagen, wurden die Werte 
+für die Gemeindeverbände regressionsbasiert auf Basis 
+der anderen verfügbaren Indikatoren geschätzt 
+(Tabelle 2). Der Index ist dadurch für die Ebene der 
+Gemeindeverbände mit größeren Unsicherheiten behaf-
+tet als für die Ebene der Kreise. Zudem ist der Index für 
+sowie nach BIK-Klassifikation zufällig gezogen [26].  
+Die Ziehungswahrscheinlichkeit der Gemeinden war 
+dabei proportional zu ihrer Bevölkerung [27]. Anschlie -
+ßend wurde in den ausgewählten Gemeinden eine  
+Einwohnermeldeamtsstichprobe zufällig aus der Wohn-
+bevölkerung gezogen. Die Response lag bei 27,7  %.  
+Die Berech  nungen wurden mit einem Gewichtungs -
+faktor durchgeführt, der Abweichungen der Stichprobe  
+von der Bevölkerungsstruktur (Stand: 31.12.2014) hin -
+sichtlich Geschlecht, Alter, Bundesland, Kreistyp und 
+Bildung korrigiert. Insgesamt wurden die Daten von 
+24.016 Frauen und Männer im Alter ab 18 Jahren  
+verwendet. Eine ausführliche Darstellung der Methodik 
+von GEDA 2014/2015-EHIS findet sich im Beitrag 
+Gesundheit in Deutschland aktuell – neue Daten für 
+Deutschland und Europa in Ausgabe 1/2017 des Journal 
+of Health Monitoring.
+2.2  Indikatoren für die Konstruktion des Index zur sozio­
+ökonomischen Deprivation
+Der Auswahl geeigneter Indikatoren für die Konstrukti -
+on des „German Index of Socioeconomic Deprivation“ 
+(GISD) ging eine umfassende Literaturrecherche voraus, 
+bei der insgesamt 372 internationale Artikel zum Thema 
+„regionale Deprivation“ in den Datenbanken PubMed 
+und Google Scholar gesichtet wurden. Nach Ausschluss 
+von doppelten und irrelevanten Einträgen verblieben 49 
+Artikel, aus denen Indikatoren extrahiert wurden. Bedin-
+gung für die Übernahme eines Indikators war, dass er 
+einen engen Bezug zu einer der drei zentralen Dimen -
+sionen des sozioökonomischen Status (Bildung, Beruf 
+Für die Indexbildung 
+werden acht Indikatoren 
+aus den drei 
+Kerndimensionen sozialer 
+Ungleichheit – Bildung, 
+Beruf und Einkommen – 
+herangezogen.
+
+[[PAGE 6]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+108
+CONCEPTS & METHODS
+gen verwendet und je Dimension eine einfaktorielle 
+Lösung vorgegeben. Die drei generierten Faktoren gin -
+gen gleichbedeutend in den resultierenden Index ein, 
+also jeweils mit einem Gewicht von einem Drittel 
+(Tabelle 3). Für die Dimension Bildung lagen nur zwei 
+Indikatoren vor, sodass eine Faktoranalyse nicht 
+anwendbar war. Da die Beschäftigten einen deutlich 
+größeren Teil der Bevölkerung ausmachen, wurde  
+dem Indikator Bildungsstand der Beschäftigten ein 
+doppelt so hoher Stellenwert wie dem Indikator Anteil 
+der Schulabgängerinnen und Schulabgänger ohne 
+das Jahr 1998 ungenauer als für die nachfolgenden Jahre, 
+da insbesondere für 1998 bei mehreren Indikatoren 
+keine Daten verfügbar waren.
+2.3 Indexbildung
+Bei der Indexbildung wurde analog zum Vorgehen in 
+der internationalen Literatur eine Faktorenanalyse 
+durchgeführt, um die Indikatoren innerhalb der drei 
+Dimensionen der sozioökonomischen Deprivation zu 
+gewichten [28 – 31]. Dabei wurden rotierte Faktorladun -
+Merkmal Indikator Statistik Verfügbarkeit
+Arbeitslosigkeit Anteil der Arbeitslosen an den Einwohnern im 
+erwerbsfähigen Alter in %
+Statistik der Bundesagentur 
+für Arbeit
+Gemeindeverbände für die 
+Jahre 1998, 2003, 2008, 2012
+Beschäftigte am 
+Wohnort mit 
+(Fach-)Hoch-
+schulabschluss
+Anteil der sozialversicherungspflichtig Beschäftigten 
+am Wohnort mit Fach- oder Hochschulabschluss an 
+den sozialversicherungspflichtig Beschäftigten am 
+Wohnort in %
+Statistik der Bundesagentur 
+für Arbeit
+Kreise für die Jahre 1999, 
+2003, 2008, 2012
+Beschäftigten-
+quote
+Sozialversicherungspflichtig Beschäftigte am 
+Wohnort je 100 Einwohner im erwerbsfähigen Alter
+Statistik der Bundesagentur 
+für Arbeit
+Gemeindeverbände für die 
+Jahre 2003, 2008, 2012, 
+Kreise für 1998
+Bruttolohn und 
+-gehalt
+Bruttolohn und -gehalt in € je Arbeitnehmer Erwerbstätigenrechnung des 
+Bundes und der Länder
+Kreise für die Jahre 2000, 
+2003, 2008, 2012
+Haushaltsnetto-
+einkommen
+Durchschnittliches Haushaltseinkommen 
+in € je Einwohner
+Arbeitskreis Volkswirtschaft-
+liche Gesamtrechnung der 
+Länder
+Kreise für die Jahre 2000, 
+2003, 2008, 2012
+Schulabgänger 
+ohne Abschluss
+Anteil der Schulabgänger ohne Hauptschulab-
+schluss an den Schulabgängern in %
+Statistik der allgemeinbilden-
+den Schulen des Bundes und 
+der Länder
+Kreise für die Jahre 1998, 
+2003, 2008, 2012
+Schuldnerquote Private Schuldner je 100 Einwohner  
+18 Jahre und älter
+Statistik des Verbandes der 
+Vereine creditreform e. V. 
+Kreise für die Jahre 2004, 
+2008, 2012
+Steuereinnahmen Steuereinnahmen in € je Einwohner Realsteuervergleich des Bun-
+des und der Länder
+Gemeindeverbände für die 
+Jahre 2003, 2008, 2012, 
+Kreise für 1998
+Tabelle 2 
+Indikatoren der 
+sozioökonomischen Deprivation 
+Quelle: INKAR [24]
+
+[[PAGE 7]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+109
+CONCEPTS & METHODS
+gemäß der Verteilung ihrer Indexwerte für jedes Jahr 
+bevölkerungsgewichtet auf zwei Arten kategorisiert: 
+Zunächst wurden sie in Gruppen von je zwanzig Pro -
+zent (Quintile, Fünftel) eingeteilt. Darauf aufbauend 
+wurden anhand der Quintile Regionen mit „niedriger“ 
+(unteres Fünftel), „mittlerer“ (mittlere drei Fünftel der 
+Werte) und „hoher“ (oberes Fünftel) sozioökonomischer 
+Deprivation unterschieden. Der Variationsbereich von 
+3 bis 21 Punkten und die Kategorienbildung orientieren 
+sich am Vorgehen zur Konstruktion des individuellen 
+sozioökonomischen Status in den bevölkerungsweiten 
+epidemiologischen Studien im Rahmen des Gesund -
+heitsmonitoring am Robert Koch-Institut [14].
+2.4  Analysestrategie
+Nachfolgend wird die regionale Verteilung des  
+Index dargestellt und es werden Zusammenhänge  
+zwischen regionaler sozioökonomischer Deprivation 
+und Lebenserwartung sowie den individuellen Gesund -
+heitsindikatoren Rauchen, sportliche Inaktivität  
+und Adipositas beschrieben. Zusätzlich sollen auch 
+Abschluss aus der Schulstatistik beigemessen. Diese 
+Festsetzung erfolgte mit Blick darauf, dass das Grö -
+ßenverhältnis von Erwerbspersonen (Bildungsstand 
+der Beschäftigten) zu Erwachsenen mit Kindern im 
+Haushalt (Schulabgängerinnen und Schulabgänger 
+ohne Abschluss) etwa zwei zu eins beträgt. In Erman -
+gelung aussagekräftigerer Indikatoren zum regionalen 
+Bildungsstand handelt es sich hierbei um eine nähe -
+rungsweise Abschätzung. 
+Der Wertebereich des Index wurde anschließend für 
+jedes Untersuchungsjahr und jede räumliche Ebene 
+(Gemeindeverbände, Kreise, NUTS-2, Raumordnungs -
+regionen) so standardisiert, dass die sozioökonomische 
+Deprivation der Regionen zwischen 3 (kleinste Depri -
+vation bzw. höchster sozioökonomischer Status) und 
+21 (höchste Deprivation bzw. niedrigster sozioökono -
+mischer Status) variieren kann. Ziel der Standardisie -
+rung war es, einen mit dem sozioökonomischen Status 
+in den Gesundheitssurveys des Robert Koch-Institut [14] 
+vergleichbaren Variationsbereich zu erhalten. Zudem 
+wurden die Einheiten der genannten Raumebenen, das 
+heißt die jeweiligen Regionen, für die weiteren Analysen 
+Dimension 
+(Anteil am GISD)
+Indikator 
+(z-standardisiert)
+Faktorladung Korrelation der Indikatoren mit der 
+Dimension (nach Pearson)
+Bildung 
+(33,3  %)
+Schulabgänger ohne Abschluss - 0,33 0,76
+Beschäftigte am Wohnort mit (Fach-)Hochschulabschluss + 0,66 - 0,74
+Beruf 
+(33,3  %)
+Arbeitslosigkeit - 0,61 0,89
+Bruttolohn und -gehalt + 0,27 - 0,63
+Beschäftigtenquote + 0,50 - 0,55
+Einkommen 
+(33,3  %)
+Schuldnerquote - 0,41 0,70
+Haushaltsnettoeinkommen + 0,52 - 0,88
+Steuereinnahmen + 0,39 - 0,55
+Tabelle 3 
+Gewichtung der Indikatoren für 
+sozioökonomische Deprivation in den drei 
+Teildimensionen des German Index of 
+Socioeconomic Deprivation (GISD) 
+Quelle: INKAR; eigene Berechnungen
+
+[[PAGE 8]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+110
+CONCEPTS & METHODS
+3. Ergebnisse
+In Abbildung 1  ist die Verteilung des German Index  
+of Socioeconomic Deprivation auf Ebene der Gemein­
+de verbände, der Kreise sowie der Regierungsbezirke 
+oder statistischen Regionen gemäß der amtlichen 
+euro päischen Statistik (NUTS ­ 2) für das Jahr 2012  
+dar gestellt. Insgesamt zeigt sich dabei, dass sich 
+sozioökono  mische Deprivation ungleich auf die alten 
+und neuen Bundesländer verteilt. Viele Gemeindever ­
+bände mit hohen Werten für sozioökonomische Depri ­
+vation liegen in den neuen Bundesländern, weitere 
+Schwerpunkte finden sich aber auch im Saarland, in 
+Nordrhein ­ Westfalen und in ländlichen Regionen Nie ­
+dersachsens. Gebiete mit tendenziell geringer Depri ­
+vation der Bevölkerung finden sich dagegen vor allem 
+in Bayern, Baden ­ Württemberg, Hessen und in Teilen 
+von Nordrhein ­ Westfalen, etwa in Düsseldorf und der 
+Region Köln/Bonn.
+In Abbildung 2  werden Unterschiede in der allge ­
+meinen Lebenserwartung auf Ebene der Kreise für den  
+Zeitraum 1998/2000 bis 2011/2013 dargestellt. Die 
+sozioökonomische Deprivation wird differenziert nach 
+den drei Kategorien „niedrig“, „mittel“, „hoch“. Män ­
+ner in den bessergestellten Kreisen hatten im Beo­
+bachtungszeitraum demnach eine im Mittel 2,9 Jahre 
+längere Lebenserwartung als Männer in den am 
+schlechtesten gestellten Kreisen (SII  = 3,44). Bei Frauen 
+beträgt die entsprechende Differenz im Mittel 1,5 Jahre 
+(SII = 1,86). Über den gesamten Beobachtungszeitraum 
+hat nicht nur die Lebenserwartung der Bevölkerung, 
+sondern gemessen am SII, auch das Ausmaß der  
+Wechselwirkungen zwischen sozioökonomischer Depri­
+vation und individuellem Sozialstatus thematisiert 
+werden. 
+Der German Index of Socioeconomic Deprivation 
+wurde den jeweiligen Datensätzen über den amtlichen 
+Kreisgemeindeschlüssel zugespielt. Als Maß zur 
+Quantifizierung der Zusammenhänge wird der Rela ­
+tive Index of Inequality (RII) gewählt [32]. Diese Maß ­
+zahl wird auf Basis von Regressionsanalysen berech ­
+net und dient dazu, soziale Unterschiede für 
+verschiedene Risiken miteinander zu vergleichen, 
+deren Skalen sich unterscheiden. Sie beschreibt das 
+Risiko von Personen aus Regionen am untersten Ende 
+der jeweiligen Skala im Vergleich zu Personen am 
+obersten Ende. Er kann dadurch auch verwendet wer ­
+den, um den Einfluss der sozialen Deprivation mit 
+dem Einfluss des individuellen sozioökonomischen 
+Status ins Verhältnis zu setzen. Werte von genau 1 
+bedeuten keine regionalen sozioökonomischen Unter ­
+schiede, Werte größer als 1 sprechen für ein vermehr ­
+tes Auftreten des interessierenden Merkmals in depri ­
+vierten Regionen, Werte zwischen 0 und 1 für ein 
+selteneres Auftreten in deprivierten Regionen. Für die 
+Analyse der Entwicklung der Lebenserwartung wird 
+demgegenüber der Slope Index of Inequality (SII) ver ­
+wendet. Er beschreibt analog zum Relative Index of 
+Inequality die absolute Differenz der Lebenserwartung 
+[32] und musste verwendet werden, weil für die Ana ­
+lyse auf Kreisebene keine altersstandardisierten Ster ­
+beziffern zur Verfügung standen, die eine Berechnung
+des RII erlaubt hätten. Alle Analysen wurden mit dem
+Statistikpaket Stata SE 14.1 durchgeführt.
+Eine höhere 
+sozioökonomische 
+Deprivation findet sich 
+in Teilregionen der 
+neuen Bundesländer, 
+aber auch im Saarland, 
+in Nordrhein-Westfalen 
+und in Niedersachsen.
+
+[[PAGE 9]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+111
+CONCEPTS & METHODS
+In Tabelle 4 wird auf Ebene der Regierungsbezirke 
+und statistischen Regionen für den Zeitraum 2008 bis 
+2010 dargestellt, für welche Todesursachen (Krankheits-
+kapitel der ICD-10) die regionalen sozioökonomischen 
+Unterschiede in der Lebenserwartung besonders ausge-
+prägt sind. Signifikante sozialräumliche Ungleichheiten 
+zeigen sich anhand des Relative Index of Inequality (RII) 
+im Hinblick auf die Gesamtmortalität sowie für Krank -
+heiten des Kreislaufsystems (I00 – I99), für Neubildun-
+gen (C00 – D48), für Krankheiten des Atmungssystems 
+(J00 – J99) und für Krankheiten des Verdauungssystems 
+(K00 – K93, nur bei Männern) und damit bei 80,7 % aller 
+Sterbefälle im Bezugszeitraum.
+regionalen sozioökonomischen Ungleichheiten in der 
+Lebenserwartung signifikant um 27,7  % bei Frauen bzw. 
+20,2 % bei Männern zugenommen. Ausgedrückt in 
+Jahren ist die Differenz in der Lebenserwartung zwi -
+schen Kreisen mit hoher und niedriger Deprivation im 
+Beobachtungszeitraum bei den Frauen von 1,4 auf 1,7 
+Jahre angestiegen. Bei den Männern nahm diese Dif -
+ferenz von 2,6 auf 3,0 Jahre zu. Mit Blick auf den Erklä -
+rungsbeitrag regionaler Variation (adjustiertes R²) 
+zeigt sich, dass bei den Frauen 45,5  % und den Män -
+nern 62,2 % der regionalen Unterschiede in der Lebens -
+erwartung durch den German Index of Socioeconomic 
+Deprivation statistisch erklärt werden.
+NUTS-/two.tf Kreise Gemeindeverbände
+/one.tf       /two.tf       /three.tf       /four.tf       /five.tfQuintile: NUTS-2 = Nomenclature des unités territoriales statistiques
+Von 1 = Niedrigste Deprivation, bis 5 = Höchste Deprivation
+Abbildung 1 
+Regionale sozioökonomische Deprivation 
+(in Quintilen) auf verschiedenen räumlichen 
+Ebenen in Deutschland im Jahr 2012 
+Quelle: INKAR; eigene Berechnungen
+
+[[PAGE 10]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+112
+CONCEPTS & METHODS
+Lebenserwartung bei Geburt in Jahren
+/seven.tf/four.tf
+/seven.tf/two.tf
+/seven.tf/six.tf
+/seven.tf/eight.tf
+/eight.tf/zero.tf
+/eight.tf/two.tf
+/eight.tf/four.tf
+/eight.tf/six.tf
+/one.tf/nine.tf/nine.tf/eight.tf//two.tf/zero.tf/zero.tf/zero.tf /two.tf/zero.tf/zero.tf/three.tf//two.tf/zero.tf/zero.tf/five.tf /two.tf/zero.tf/one.tf/one.tf//two.tf/zero.tf/one.tf/three.tf /two.tf/zero.tf/zero.tf/eight.tf//two.tf/zero.tf/one.tf/zero.tf
+Männer Frauen
+niedrig
+Jahr
+/one.tf/nine.tf/nine.tf/eight.tf//two.tf/zero.tf/zero.tf/zero.tf /two.tf/zero.tf/zero.tf/three.tf//two.tf/zero.tf/zero.tf/five.tf /two.tf/zero.tf/one.tf/one.tf//two.tf/zero.tf/one.tf/three.tf /two.tf/zero.tf/zero.tf/eight.tf//two.tf/zero.tf/one.tf/zero.tf
+Sozioökonomische Deprivation: mittel hoch
+Abbildung 2 
+Regionale sozioökonomische Deprivation 
+(in Kategorien auf Kreisebene) 
+und Lebenserwartung 
+Quelle: Indikatoren und Karten zur 
+Raum- und Stadtentwicklung (INKAR); 
+eigene Berechnungen
+Die Daten der Studie GEDA 2014/2015-EHIS des  
+Robert Koch-Instituts ermöglichen es, über die gezeigten 
+Zusammenhänge auf regionaler Ebene hinaus, die  
+regionale sozioökonomische Deprivation mit der  
+individuellen Gesundheit der Befragten in Bezug zu set-
+zen. In den 255 Gemeindeverbänden, in denen die Befrag-
+ten der GEDA-Studie ihren Wohnsitz haben, sind die drei 
+Gesundheitsrisiken Rauchen (Antwort auf die Frage „Rau-
+chen Sie?“ mit „ja, täglich“ oder „ja, gelegentlich“), sport-
+liche Inaktivität (Sportliche Aktivität <  10 Minuten pro 
+Woche) und Adipositas (Body Mass Index ≥ 30 kg/m2) in 
+sozioökonomisch stärker deprivierten Gemeindeverbän-
+den signifikant häufiger als in Gebieten mit vergleichs -
+weise geringer Deprivation (Abbildung 3). Mit Ausnahme 
+von Adipositas ist der Zusammenhang mit der sozioöko-
+nomischen Deprivation bei Frauen und Männern dabei 
+vergleichbar stark. Der Relative Index of Inequality bewegt 
+sich dabei im Bereich vom 1,5-Fachen bis zum 1,7-Fachen 
+für Gemeindeverbände mit dem höchsten gegenüber 
+dem niedrigsten Ausmaß sozioökonomischer Depriva-
+tion. Für Adipositas bei Männern ist das entsprechende 
+Verhältnis um das 1,9-Fache erhöht.
+Darüber hinaus ist es mit der GEDA-Studie möglich, 
+die unterschiedliche Bedeutung des individuellen sozio-
+ökonomischen Status und der regionalen sozio -
+ökonomischen Deprivation für die Verbreitung von 
+Gesundheitsrisiken zu betrachten. In Tabelle 5 sind für 
+die zuvor betrachteten Gesundheitsrisiken Ergebnisse aus 
+jeweils vier stufenweise berechneten Regressionsmodel-
+len dargestellt, in denen zuerst die generelle regionale 
+Variation der Gesundheitsrisiken auf der Ebene der 
+Gemeindeverbände (M0) und anschließend schrittweise 
+Regionen mit höherer 
+sozioökonomischer 
+Deprivation weisen eine 
+geringere Lebenserwartung, 
+eine höhere Sterblichkeit 
+und eine Häufung von 
+Gesundheitsrisiken auf.
+
+[[PAGE 11]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2) 113
+CONCEPTS & METHODS
+Todesursache nach ICD­10­Hauptgruppen sortiert nach 
+Anteil an den altersstandardisierten Sterbefällen
+Anteil an 
+Todes­ 
+ursachen
+Standar­
+disierte 
+Mortali­
+tätsrate 
+Nach sozio­ 
+ökonomischer  
+Deprivation (GISD)
+Relative Index of Inequality 
+(RII) nach Geschlecht
+je 100.000 
+Einwohner
+Code Beschreibung Gesamt Gesamt Niedrig Hoch Gesamt Frauen Männer
+A – R,V – Y Gesamtmortalität ohne Kapitel S, T, Z 100,0 % 1.063,8 977,9 1.135,2 1,19 1,15 1,24
+I00 – I99 Krankheiten des Kreislaufsystems 42,2 % 449,2 396,8 507,3 1,26 1,24 1,29
+C00 – D48 Neubildungen 26,0 % 276,3 261,0 285,8 1,15 1,08 1,24
+J00 – J99 Krankheiten des Atmungssystems 7,6 % 80,3 67,6 81,6 1,22 1,19 1,29
+K00 – K93 Krankheiten des Verdauungssystems 4,9 % 52,4 50,2 55,4 – – 1,17
+V01 – Y98 Äußere Ursachen von Morbidität und Mortalität 3,6 % 38,8 43,3 41,2 – – –
+E00 – E90 Endokrine, Ernährungs- und  
+Stoffwechselkrankheiten
+3,3 % 35,6 35,0 41,1 – – –
+F00 – F99 Psychische und Verhaltensstörungen 2,7 % 28,3 27,2 26,5 – 0,77 –
+R00 – R99 Symptome und abnorme klinische und Labor- 
+befunde, die anderenorts nicht klassifiziert sind
+2,4 % 25,9 20,9 22,7 2,46 2,42 2,54
+G00 – G95 Krankheiten des Nervensystems,  
+des Auges, des Ohres
+2,4 % 25,9 27,0 24,6 – – –
+N00 – N99 Krankheiten des Urogenitalsystems 2,3 % 24,4 21,3 27,2 1,27 1,31 1,24
+A00 – B99 Bestimmte infektiöse und parasitäre Krankheiten 1,7 % 18,3 17,5 13,3 – – –
+M00 – M99 Krankheiten des Muskel-Skelett-Systems  
+und des Bindegewebes
+0,3 % 3,2 4,4 2,8 – 0,50 –
+D50 – D89 Krankheiten des Blutes und der blutbildenden 0,3 % 3,2 3,4 3,5 – – –
+Organe sowie bestimmte Störungen  
+mit Beteiligung des Immunsystems
+L00 – L99 Krankheiten der Haut und der Unterhaut 0,1 % 1,1 1,2 1,0 – – –
+Q00 – Q99 Angeborene Fehlbildungen, Deformitäten und 
+Chromosomenanomalien
+0,1 % 0,9 1,0 1,1 – – –
+O00 – O99 Schwangerschaft, Geburt und Wochenbett 0,0 % 0,1 0,1 0,1 – – –
+P00 – P96 Bestimmte Zustände, die ihren Ursprung in der 
+Perinatalperiode haben
+0,0 % 0,0 0,0 0,0 – – –
+Legende: GISD = German Index of Socioeconomic Deprivation; ICD-10 = Internationale Klassifikation der Krankheiten und verwandter Gesundheitsprobleme, 
+10. 10. Revision;  = Relative Index of Inequality; „–“ = nicht signifikante Ergebnisse
+Die ICD-10-Schlüsselnummern S00 – T98 und Z00 – Z99 werden in der Eurostat-Statistik nicht erfasst. Gesamt ohne Schlüsselnummern O00 – O99. 
+Standardisierte Mortalitätsrate je 100.000 Einwohner: altersstandardisierte Sterbefälle je 100.000 Einwohner (neue Europastandardbevölkerung von 2013). 
+Standardisierte Mortalitätsrate nach sozioökonomischer Deprivation: Mortalitätsrate auf NUTS-2-Ebene (Nomenclature des unités territoriales statistiques) 
+differenziert nach sozioökonomischer Deprivation (in Kategorien).
+Relative Index of Inequality nach GISD = Relative Index of Inequality der nach sozioökonomischer Deprivation differenzierten Sterberaten.
+Tabelle 4 
+Sozioökonomische Deprivation (in 
+Kategorien auf Ebene der Regierungsbezirke 
+und statistischen Regionen) und Sterbefälle 
+(2008 – 2010) nach Todesursache 
+Quelle: Statistischen Amt der Europäischen 
+Union (Eurostat) [33]; eigene Berechnungen
+
+[[PAGE 12]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+114
+CONCEPTS & METHODS
+Prozent
+/one.tf/zero.tf
+/two.tf/zero.tf
+/three.tf/zero.tf
+/four.tf/zero.tf
+/five.tf/zero.tf
+/six.tf/zero.tf
+ 
+niedrig mittel hoch niedrig mittel hoch niedrig mittel hoch niedrig mittel hoch niedrig mittel hoch niedrig mittel hoch
+Rauchen Sportliche Inaktivität Adipositas
+(aktuell) (<10 Min. pro Woche aktiv) (BMI ≥30 kg/m²)
+Frauen
+RII=/one.tf,/five.tf/one.tf*
+Männer
+RII=/one.tf,/five.tf/zero.tf*
+Frauen
+RII=/one.tf,/seven.tf/one.tf*
+Männer
+RII=/one.tf,/seven.tf/four.tf*
+Frauen
+RII=/one.tf,/six.tf/four.tf*
+Männer
+RII=/one.tf,/nine.tf/four.tf*
+Rauchen Sportliche Inaktivität Adipositas
+Frauen Männer Frauen Männer Frauen Männer
+M0: Basismodell
+MOR(GVB) 1,18* 1,13* 1,19* 1,29* 1,29* 1,31*
+M1: Deprivation
+RII(GISD) 1,51* 1,50* 1,71* 1,74* 1,64* 1,94*
+MOR(GVB) 1,12* 1,03 1,10* 1,22* 1,23* 1,22*
+M2: Deprivation und SES
+RII(GISD) 1,24* 1,25* 1,38* 1,32* 1,38* 1,66*
+RII(SES) 0,25* 0,36* 0,21* 0,19* 0,27* 0,41*
+MOR(GVB) 1,18* 1,07 1,00 1,20* 1,18* 1,19*
+M3: Interaktion von Deprivation und SES
+RII(GISD) 1,60* 1,42* 1,58* 1,18 1,21 1,31
+RII(SES) 0,33* 0,41* 0,24* 0,17* 0,23* 0,32*
+RII(GISD)*RII(SES) 0,61° 0,78 0,77 1,23 1,31 1,58
+MOR(GVB) 1,17* 1,06° 1,00 1,20* 1,18* 1,19*
+Kontrolliert für Alter (metrisch und quadriert) Ebenen: Gemeindeverband und Individuum. Effekt der Variable bzw. Variation auf räumlicher Ebene 
+signifikant * = p < 0,05 bzw. marginal signifikant ° = p < 0,10.
+SES = individueller sozioökonomischer Status; GISD = German Index of Socioeconomic Deprivation; RII = Relative Index of Inequality; MOR = Median 
+Odds Ratio für Ebene der Gemeindeverbände.
+Tabelle 5 
+Zusammenhänge zwischen individueller 
+und regionaler sozioökonomischer 
+Deprivation sowie verhaltensbezogenen 
+Risikofaktoren; Ergebnisse logistischer 
+Mehrebenen­Regressionsmodelle 
+Quelle: GEDA 2014/2015-EHIS; 
+eigene Berechnungen
+Abbildung 3 
+Regionale sozioökonomische Deprivation 
+(in Kategorien auf Ebene von Gemeinde­
+verbänden) und verhaltensbezogene 
+individuelle Risikofaktoren  
+Quelle: GEDA 2014/2015-EHIS; INKAR; 
+eigene Berechnungen RII = Relative Index of Inequality; BMI  = Body Mass Index; *:p  < 0,05
+
+[[PAGE 13]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+115
+CONCEPTS & METHODS
+Der German Index of 
+Socioeconomic Deprivation 
+ist für Forschung und 
+Gesundheitsberichterstattung 
+auf verschiedenen 
+räumlichen Ebenen 
+und für verschiedene 
+Jahre verfügbar.
+die Zusammenhänge zur regionalen sozioökonomischen 
+Deprivation (M1), zum individuellen sozioökonomischen 
+Status (M2) sowie der Interaktion beider Faktoren (M3) 
+einbezogen wurden. Bei der Interpretation der Ergebnisse 
+muss berücksichtigt werden, dass die Werte von SES-In-
+dex und dem “German Index of Socioeconomic Depriva-
+tion” entgegengesetzt interpretiert werden müssen: Hohe 
+Werte beim SES-Index deuten auf eine bessere individuelle 
+sozio ökonomische Situation, hohe Werte beim “German 
+Index of Socioeconomic Deprivation” deuten auf eine 
+schlechtere regionale sozioökonomische Lage. Die Ergeb-
+nisse zeigen daher, dass die regionale sozioökonomische 
+Deprivation und der individuelle sozioökonomische Status 
+signifikante, vonein ander unabhängige Zusammenhänge 
+mit den Gesundheitsrisiken aufweisen. Je höher der indi-
+viduelle sozioökonomische Status, desto geringer sind die 
+Prävalenzen des Rauchens, der sportlichen Inaktivität und 
+der Adipositas. In Regionen mit hoher sozioökonomischer 
+Deprivation sind diese Risikofaktoren aber unabhängig 
+vom individuellen sozio ökonomischen Status häufiger zu 
+beobachten. Die Ergebnisse des Interaktionsmodells (M3) 
+sprechen zudem dafür, dass sich der Zusammenhang zwi-
+schen regionaler sozioökonomischer Deprivation und den 
+Gesundheitsrisiken nicht signifikant in Abhängigkeit vom 
+Sozialstatus der Befragten verändert. Eine Ausnahme bil-
+det hier das Rauchverhalten bei Frauen, wo ein marginal 
+signifikanter Interaktionseffekt (p < 0,10) beobachtet wurde.
+Diskussion
+Mit der vorliegenden Studie wird ein neuer Index für die 
+regionale sozioökonomische Deprivation in Deutsch -
+land eingeführt. Der „German Index of Socioeconomic 
+Deprivation“ operationalisiert regionale Deprivation 
+multidimensional auf Bevölkerungsebene über die drei 
+gleich gewichteten Dimensionen Bildung, Beruf und Ein-
+kommen. Der Index wurde für die Jahre 1998, 2003, 2008 
+und 2012 generiert und soll in Zukunft regelmäßig in 
+mehrjährigen Abständen aktualisiert werden. In ersten 
+exemplarischen Zusammenhangsanalysen konnten  
+regionale Unterschiede in der Lebenserwartung und bei 
+wichtigen Todesursachen sowie auch im Gesundheits -
+verhalten statistisch in Teilen auf das Ausmaß regionaler 
+sozioökonomischer Deprivation zurückgeführt werden. 
+In weiterführenden Analysen zeigte sich zudem, dass 
+der Zusammenhang zwischen Deprivation und wichti -
+gen Gesundheitsrisiken teilweise über den individuellen 
+sozioökonomischen Status vermittelt wird: Wird der  
+individuelle sozioökonomische Status statistisch kont -
+rolliert, reduziert sich der Effekt regionaler Deprivation 
+erheblich, bleibt aber zumeist bestehen. Die vorliegen -
+den Ergebnisse deuten insgesamt nicht auf eine 
+Effektmodifi kation durch den sozioökonomischen Sta -
+tus, da sich der statistische Effekt regionaler Deprivation 
+auf das Gesundheitsverhalten nicht signifikant zwischen 
+Frauen und Männern mit niedrigem und hohem sozio -
+ökonomischen Status unterscheidet.
+Die vorliegenden Ergebnisse stehen im Einklang mit 
+der nationalen und internationalen Literatur. Danach 
+finden sich in Regionen mit höherer sozioökonomischer 
+Deprivation tendenziell eine schlechtere gesundheitli -
+che Lage und ein schlechteres Gesundheitsverhalten 
+[34 – 40]. Die Ergebnisse zur Abnahme der Lebenserwar-
+tung bei Geburt und auch zur Verringerung der  
+
+[[PAGE 14]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+116
+CONCEPTS & METHODS
+aktualisieren zu können, wurden daher vor allem pro -
+zessproduzierte Daten verwendet. Dadurch stehen aber 
+insgesamt nur wenige aussagekräftige Indikatoren,  
+insbesondere auf Ebene der Gemeindeverbände, zur 
+Verfügung. Zudem wurde auf einige Indikatoren zum 
+Lebensstandard – wie etwa die PKW-Dichte – verzichtet, 
+um eine bessere Vergleichbarkeit der Indexwerte zwi -
+schen städtischen und ländlichen Regionen zu gewähr-
+leisten [45 – 48]. 
+Durch die Möglichkeit, den Index auch auf Ebene der 
+Gemeindeverbände anzuwenden, ist die sozioökonomi-
+sche Homogenität der Einheiten im Vergleich zur Ebene 
+der Kreise erhöht und die Gefahr von Fehlschlüssen 
+durch Effekte administrativer Grenzen (sog. modifiable 
+areal unit problem) wird verringert [49]. Die Verwendung 
+der Faktorenanalyse ermöglicht es, die verfügbaren Infor-
+mationen besser als bei einer Gleichgewichtung zu nut-
+zen [19, 21]. Zugleich ist das Verfahren weniger anfällig 
+für systematische Verzerrungen als die subjektive 
+Gewichtung durch Expertinnen und Experten, die in 
+anderen Ländern gelegentlich zur Anwendung kommt 
+[22, 50]. Allerdings sind die möglichen Anwendungsge -
+biete für Deprivationsindizes im Unterschied zum indi-
+viduellen sozioökonomischen Status begrenzt: Sie las -
+sen sich zwar zur Identifikation sozioökonomisch 
+benachteiligter Regionen nutzen, erlauben aber keine 
+Rückschlüsse auf den individuellen sozioökonomischen 
+Status [18, 19, 51, 52] oder das Ausmaß gesundheitlicher 
+Ungleichheiten innerhalb von Regionen [53].
+Insgesamt stellt der generierte Deprivationsindex aus 
+unserer Sicht eine sinnvolle Ergänzung für die Forschung 
+und Gesundheitsberichterstattung dar. Die Beschrän -
+ferneren Lebenserwartung mit zunehmender sozioöko-
+nomischer Deprivation einer Region konnten auch in 
+anderen Ländern wie England und Neuseeland festge -
+stellt werden [34  – 36]. Auch für Deutschland sind ent -
+sprechende Zusammenhänge mit Blick auf die regionale 
+Arbeitslosenquote, das Durchschnittseinkommen oder 
+die Armutsrisikoquote dokumentiert [5, 6, 16]. Es konnte 
+zudem ein Zusammenhang mit regionalen Depriva -
+tionsmerkmalen und der Sterblichkeit aufgezeigt wer -
+den: Demnach ist die Mortalitätsrate in deprivierten 
+Regionen überdurchschnittlich hoch [37, 38]. Für die indi-
+viduellen Gesundheitsoutcomes konnte ebenso gezeigt 
+werden, dass mit steigender Deprivation die Verbreitung 
+von Adipositas [39], Rauchen und sportlicher Inaktivität 
+[40] in Deutschland steigt.
+Methodisch ist das gewählte Vorgehen anschlussfä -
+hig an die nationale und internationale Diskussion. So 
+werden beim „New Zealand Deprivation Index“ (NZDep) 
+[28, 29], beim „Deprivation Index for Quebec and Canada“ 
+(INSPQI) [41 – 43], beim „French small-area index of soci-
+oeconomic deprivation“ [30], beim „Deprivation index 
+for small areas in Spain“ [44] und beim „Danish Depri-
+vation Index“ (DANDEX) [31] ebenfalls Faktorenanalysen 
+zur Gewichtung von Indikatoren innerhalb der verschie-
+denen Dimensionen regionaler sozioökonomischer 
+Deprivation verwendet.
+Das gewählte Vorgehen hat eine Reihe von Vorteilen 
+und Limitationen. Viele Deprivationsindizes, die an die 
+Arbeiten von Townsend [19], Carstairs [21] und Jarman 
+[22] angelehnt sind, wählen Zensusdaten als Grundlage. 
+Für Deutschland liegen jedoch nur unregelmäßig Daten 
+aus Zensuserhebungen vor. Um den Index regelmäßig 
+Die Gesundheitsbericht­
+erstattung erschließt 
+durch den Index neue 
+Datenquellen für 
+die Analyse der 
+gesundheitlichen 
+Ungleichheit.
+
+[[PAGE 15]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+117
+CONCEPTS & METHODS
+http://edoc.rki.de/series/gbe-kompakt/sonstige/refJcpHqdWW-
+dA/PDF/20zkI0bFBIloV3pc.pdf (Stand: 15.05.2017)
+2. World Health Organization (2012) Europäischer Aktionsplan zur 
+Stärkung der Kapazitäten und Angebote im Bereich der öffentli-
+chen Gesundheit. EUR/RC62/12 Rev.1 World Health Organizati-
+on. Regionalbüro Europa, Genf
+3. Marmot M, Allen J, Bell R et al. (2012) WHO European review of 
+social determinants of health and the health divide. The Lancet 
+380(9846):1011-1029
+4. Robert Koch-Institut (2005) Armut, soziale Ungleichheit und 
+Gesundheit. Expertise des Robert Koch-Instituts zum 2. Armuts- 
+und Reichtumsbericht der Bundesregierung Beiträge zur 
+Gesundheitsberichterstattung. RKI, Berlin
+5. Lampert T, Kroll LE (2014) Soziale Unterschiede in der Mortalität 
+und Lebenserwartung. GBE kompakt 5(2):1-13 
+http://edoc.rki.de/series/gbe-kompakt/5-2/PDF/2_de.pdf 
+(Stand: 15.05.2017)
+6. Lampert T, Kuntz B, Hoebel J et al. (2016) Gesundheitliche 
+Ungleichheit. In: Destatis, WZB (Hrsg) Datenreport 2016: Der 
+Sozialbericht für Deutschland. Bundeszentrale für politische Bil-
+dung, Wiesbaden, S. 302 – 314
+7. Prütz F, Rommel A, Kroll LE et al. (2014) 25 Jahre nach dem Fall 
+der Mauer: Regionale Unterschiede in der Gesundheit. GBE kom-
+pakt 5(3):1-14 
+http://edoc.rki.de/series/gbe-kompakt/5-3/PDF/3.pdf  
+(Stand: 15.05.2017)
+8. Robert Koch-Institut (2011) Themenheft 52. Sterblichkeit, Todesur-
+sachen und regionale Unterschiede. Robert Koch-Institut, Berlin 
+http://edoc.rki.de/documents/rki_fv/rezEJUzMFFfDE/PDF/22b-
+QbdGjXoJY .pdf (Stand: 15.05.2017)
+9. Lampert T, Kroll LE (2009) Die Messung des sozioökonomi-
+schen Status in sozialepidemiologischen Studien. In: Richter M, 
+Hurrelmann K (Hrsg) Gesundheitliche Ungleichheit Grundlagen, 
+Probleme, Perspektiven 2, aktualisierte Auflage. VS Verlag für 
+Sozialwissenschaften, Wiesbaden, S. 309 – 334
+10. Lahelma E (2004) Pathways between socioeconomic determi-
+nants of health. Journal of Epidemiology & Community Health 
+58(4):327-332
+kung auf sozioökonomische Indikatoren erlaubt eine 
+klare Interpretation von vorgefundenen Zusammenhän-
+gen. Der Index kann dabei in Ergänzung zum individu -
+ellen sozioökonomischen Status verwendet werden und 
+liefert so Rückschlüsse auf den unabhängigen Erklä -
+rungsbeitrag regionaler sozioökonomischer Deprivation 
+sowie auf Wechselwirkungen mit dem individuellen  
+sozioökonomischen Status. Sofern eine individuelle 
+Operationalisierung des sozioökonomischen Status 
+nicht möglich ist, wie z. B. in Daten der Todesursachen-
+statistik, liefert der Index zumindest Hinweise auf das 
+Ausmaß gesundheitlicher Ungleichheiten und damit 
+zusätzliche Argumente für die Erhebung von Individu -
+aldaten [41]. Darüber hinaus können die Ergebnisse als 
+Grundlage für Anstrengungen auf gesundheitspoliti -
+scher Ebene sowie für die Strategieentwicklung der 
+Gesundheitsförderung und Prävention genutzt werden, 
+um maßgebliche Veränderungen in Regionen mit hoher 
+sozioökonomischer Deprivation erzielen zu können. 
+Indem regionale Analysen die zielgenaue Verteilung 
+finanzieller Ressourcen unterstützen können, befördern 
+sie darüber potenziell auch die gesundheitliche Chan -
+cengleichheit [28, 31].
+Hinweis: Der GISD steht für die Forschung und die 
+Gesundheitsberichterstattung über das Datenarchiv 
+datorium der GESIS zur Nutzung zur Verfügung [54].
+Literatur 
+1. Lampert T, Horch K, List S et al. (2010) Gesundheitsbericht-
+erstattung des Bundes: Ziele, Aufgaben und Nutzungsmöglich-
+keiten. GBE kompakt 1:1-7 
+
+[[PAGE 16]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+118
+CONCEPTS & METHODS
+24. BBSR (2016) INKAR 2016. Erläuterung zu den Raumbezügen. 
+Bundesinstitut für Bau-, Stadt- und Raumforschung im Bundes-
+amt für Bauwesen und Raumordnung, Bonn
+25. Lange C, Jentsch F, Allen J et al. (2015) Data Resource Profile: 
+German Health Update (GEDA)--the health interview survey for 
+adults in Germany. Int J Epidemiol 44(2):442-450
+26. Arbeitsgruppe Regionale Standards (Hrsg) (2013) Regionale 
+Standards. Eine gemeinsame Empfehlung des ADM Arbeitskreis 
+Deutscher Markt- und Sozialforschungsinstitute e.V., der Arbeits-
+gemeinschaft Sozialwissenschaftlicher Institute e.V. (ASI) und 
+des Statistischen Bundesamtes. In: GESIS (Hrsg) GESIS-Schrif-
+tenreihe. Band 12. GESIS, Mannheim
+27. Cox LH (1987) A Constructive Procedure for Unbiased Controlled 
+Rounding. Journal of the American Statistical Association 
+82(398):520-524
+28. Salmond C, Crampton P, Sutton F (1998) NZDep91: A New Zea-
+land index of deprivation. Aust N Z J Public Health 22(7):835-837
+29. Salmond C, Crampton P (2002) NZDep2001 Index of Deprivation 
+User's Manual. Department of Public Health, Wellington School 
+of Medicine and Health Science, Wellington, New Zealand
+30. Havard S, Deguen S, Bodin J et al. (2008) A small-area index of 
+socioeconomic deprivation to capture health inequalities in 
+France. Soc Sci Med 67(12):2007 – 2016
+31. Meijer M, Engholm G, Grittner U et al. (2013) A socioeconomic 
+deprivation index for small areas in Denmark. Scand J Public 
+Health 41(6):560-569
+32. Mackenbach JP, Kunst AE (1997) Measuring the magnitude of 
+socio-economic inequalities in health: An overview of available 
+measures illustrated with two examples from Europe. Social 
+Science and Medicine 44(6):757-771
+33. EUROSTAT (2016) Todesursachen nach NUTS-2-Regionen – 
+Standardisierte Sterbeziffer je 100 000 Einwohner, 3-Jahresdurch-
+schnitt hlth_cd_ysdr1) Eurostat, 
+http://ec.europa.eu/eurostat/web/products-datasets/-/hlth_cd_
+ysdr1 (Stand: 15.05.2017)
+34. Tobias MI, Cheung J (2003) Monitoring health inequalities: life 
+expectancy and small area deprivation in New Zealand. Populati-
+on Health Metrics 1(1):1-11
+35. Woods L, Rachet B, Riga M et al. (2005) Geographical variation 
+in life expectancy at birth in England and Wales is largely exp-
+lained by deprivation. Journal of Epidemiology and Community 
+Health 59(2):115-120
+11. Richter M, Hurrelmann K (2009) Gesundheitliche Ungleichheit: 
+Ausgangsfragen und Herausforderungen. In: Richter M, Hurrel-
+mann K (Hrsg) Gesundheitliche Ungleichheit Grundlagen, Prob-
+leme, Konzepte. VS-Verlag, Wiesbaden, S. 13 – 33
+12. Lynch JW, Kaplan G (2000) Socioeconomic position. In: Berkman 
+LF, Kawachi I (Hrsg) Social epidemiology. Oxford University 
+Press, New York, S. 13 – 35
+13. Galobardes B, Lynch J, Davey Smith G (2007) Measuring socioe-
+conomic position in health research. British Medical Bulletin 
+81-82:21-37
+14. Lampert T, Kroll LE, Müters S et al. (2013) Messung des sozi-
+oökonomischen Status in der Studie „Gesundheit in Deutsch-
+land aktuell“ (GEDA). Bundesgesundheitsbl - Gesundheits-
+forsch - Gesundheitsschutz 56(1):131-143
+15. Lampert T, Kroll LE (2010) Armut und Gesundheit. GBE kompakt 
+5:1-9 
+http://edoc.rki.de/documents/rki_fv/reAwH2wxwRHfM/
+PDF/29wYJ9AaKy3gU.pdf (Stand: 15.05.2017)
+16. Kroll LE, Müters S, Lampert T (2016) Arbeitslosigkeit und ihre 
+Auswirkungen auf die Gesundheit : Ein Überblick zum For-
+schungsstand und zu aktuellen Daten der Studien GEDA 2010 
+und GEDA 2012. Bundesgesundheitsbl - Gesundheits-
+forsch - Gesundheitsschutz 59(2):228-237
+17. Schulz M, Czihal T, Erhart M et al. (2016) Korrelation zwischen 
+räumlichen Sozialstrukturfaktoren und Indikatoren des medizini-
+schen Versorgungsbedarfs. Gesundheitswesen 78(05):290-297
+18. Maier W, Fairburn J, Mielck A (2012) Regionale Deprivation und 
+Mortalität in Bayern. Entwicklung eines „Index Multipler Depriva-
+tion“ auf Gemeindeebene. Gesundheitswesen 74(7):16-25
+19. Townsend P, Phillimore P, Beattie A (1988) Health and deprivati-
+on: inequality and the North. Routledge, London and New York
+20. Galobardes B, Shaw M, Lawlor DA et al. (2006) Indicators of 
+socioeconomic position. In: Oaks JM, Kaufmann JS (Hrsg) 
+Methods in Social Epidemiology. Wiley, San Francisco, S. 47 – 70
+21. Carstairs V, Morris R (1989) Deprivation: explaining differences 
+in mortality between Scotland and England and Wales. BMJ 
+299(6704):886-889
+22. Jarman B (1983) Identification of underprivileged areas. Br Med J 
+(Clin Res Ed) 286(6379):1705-1709
+23. Noble M, Wright G, Smith G (2006) Measuring multiple deprivati-
+on at the small-area level. Environment and Planning A 38:169-185
+
+[[PAGE 17]]
+Journal of Health Monitoring Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Journal of Health Monitoring 2017 2(2)
+119
+CONCEPTS & METHODS
+49. Schuurman N, Bell N, Dunn JR et al. (2007) Deprivation Indices,
+Population Health and Geography: An Evaluation of the Spatial
+Effectiveness of Indices at Multiple Scales. Journal of Urban
+Health: Bulletin of the New York Academy of Medicine
+84(4):591-603
+50. Bell N, Hayes MV (2012) The Vancouver Area Neighbourhood
+Deprivation Index (VANDIX): a census-based tool for assessing
+small-area variations in health status. Can J Public Health 103(8
+Suppl 2):S28 – 32
+51. Sloggett A, Joshi H (1998) Deprivation indicators as predictors of
+life events 1981 – 1992 based on the UK ONS Longitudinal Study.
+J Epidemiol Community Health 52(4):228-233
+52. Noble M, Wright G, Smith G et al. (2006) Measuring multiple
+deprivation at the small-area level. Environ Plann A 38:169-185
+53. Carr-Hill R, Chalmers-Dixon P (2005) The Public Health Observa-
+tory Handbook of Health Inequalities Measurement. South East
+Public Health Observatory (SEPHO), Oxford, UK
+54. Kroll LE, Schumann M, Hoebel J et al. (2017): German Index of
+Socioeconomic Deprivation (GISD) Version 1.0. GESIS Datenar-
+chiv. Datensatz.
+http://doi.org/10.7802/1460 (Stand: 15.05.2017)
+36. Raleigh VS, Kiri VA (1997) Life expectancy in England: variations
+and trends by gender, health authority, and level of deprivation.
+J Epidemiol Community Health 51(6):649-658
+37. Hofmeister C, Maier W, Mielck A et al. (2016) Regionale Depriva-
+tion in Deutschland: Bundesweite Analyse des Zusammenhangs
+mit Mortalität unter Verwendung des „German Index of Multiple
+Deprivation (GIMD)“. Gesundheitswesen 17(01):42-48
+38. Kopetsch T, Maier W (2016) Analyse des Zusammenhangs zwi-
+schen regionaler Deprivation und Inanspruchnahme – Ein Dis-
+kussionsbeitrag zur Ermittlung des Arztbedarfes in Deutschland.
+Gesundheitswesen (EFirst)
+39. Maier W, Scheidt-Nave C, Holle R et al. (2014) Area level depriva-
+tion is an independent determinant of prevalent type 2 diabetes
+and obesity at the national level in Germany. Results from the
+National Telephone Health Interview Surveys “German Health
+Update” GEDA 2009 and 2010. PLoS One 9(2):e89661
+40. Dragano N, Bobak M, Wege N et al. (2007) Neighbourhood soci-
+oeconomic status and cardiovascular risk factors: a multilevel
+analysis of nine cities in the Czech Republic and Germany. BMC
+Public Health 7(1):255
+41. Pampalon R, Hamel D, Gamache P et al. (2009) A deprivation
+index for health planning in Canada. Chronic Dis Can 29(4):178-191
+42. Pampalon R, Raymond G (2000) A deprivation index for health
+and welfare planning in Quebec. Chronic Dis Can 21(3):104-113
+43. Pampalon R, Hamel D, Gamache P et al. (2012) An area-based
+material and social deprivation index for public health in Quebec
+and Canada. Can J Public Health 103(8 Suppl 2):S17 – 22
+44. Sánchez-Cantalejo C, Ocana-Riola R, Fernández-Ajuria A (2008)
+Deprivation index for small areas in Spain. Social Indicators
+Research 89(2):259-273
+45. Barnett S, Roderick P, Martin D et al. (2001) A multilevel analysis
+of the effects of rurality and social deprivation on premature limi-
+ting long term illness. J Epidemiol Community Health 55(1):44-51
+46. Talbot RJ (1991) Underprivileged areas and health care planning:
+implications of use of Jarman indicators of urban deprivation.
+BMJ : British Medical Journal 302(6773):383-386
+47. Smith GD (1991) Second thoughts on the Jarman index. BMJ
+302(6773):359-360
+48. O'Reilly D, Steele K (1998) General practice deprivation pay-
+ments: are rural practices disadvantaged? Journal of Epidemio-
+logy and Community Health 52(8):530-531
+
+[[PAGE 18]]
+Journal of Health Monitoring
+120
+Regionale Unterschiede in der Gesundheit – Entwicklung eines sozioökonomischen Deprivationsindex für Deutschland
+Das Robert Koch-Institut ist ein Bundesinstitut im  
+Geschäftsbereich des Bundesministeriums für Gesundheit
+CONCEPTS & METHODS
+Impressum
+Journal of Health Monitoring
+Institution der beteiligten Autorin und Autoren
+Robert Koch-Institut, Abteilung für Epidemiologie und Gesundheits-
+monitoring, Berlin
+Korrespondenzadresse
+Dr. Lars Eric Kroll
+Robert Koch-Institut 
+Abteilung für Epidemiologie und Gesundheitsmonitoring
+General-Pape-Str. 62–66 
+12101 Berlin
+E-Mail: KrollL@rki.de
+Interessenkonflikt
+Der korrespondierende Autor gibt für sich, die Koautorin und die 
+Koautoren an, dass kein Interessenkonflikt besteht.
+Finanzierung 
+Die GEDA-Studie wurde mit Mitteln des Robert Koch-Instituts und 
+des Bundesministeriums für Gesundheit finanziert.
+Hinweis 
+Inhalte externer Beiträge spiegeln nicht notwendigerweise die 
+Meinung des Robert Koch-Instituts wider.
+Herausgeber
+Robert Koch-Institut
+Nordufer 20
+13353 Berlin
+Redaktion
+Susanne Bartig, Johanna Gutsche, Dr. Franziska Prütz,  
+Martina Rabenberg, Alexander Rommel, Dr. Anke-Christine Saß, 
+Stefanie Seeling, Martin Thißen, Dr. Thomas Ziese
+Robert Koch-Institut
+Abteilung für Epidemiologie und Gesundheitsmonitoring  
+General-Pape-Str. 62–66
+12101 Berlin
+Tel.: 030-18 754-3400
+E-Mail: healthmonitoring@rki.de
+www.rki.de/journalhealthmonitoring
+Satz
+Gisela Dugnus, Alexander Krönke, Kerstin Möllerke 
+Zitierweise
+Kroll LE, Schumann M, Hoebel J et al. (2017) Regionale Unterschiede 
+in der Gesundheit – Entwicklung eines sozioökonomischen Deprivati-
+onsindex für Deutschland. Journal of Health Monitoring 
+2(2): 103 – 120. DOI 10.17886/RKI-GBE-2017-035.2
+ISSN 2511-2708
+Journal of Health Monitoring 2017 2(2)
+Dieses Werk ist lizenziert unter einer 
+Creative Commons Namensnennung 4.0 
+International Lizenz.
+Corrigendum zu Seite 113
+In der ursprünglichen Version des Beitrags 
+wurden in Tabelle 4 „Sozioökonomische 
+Deprivation und Sterbefälle nach Todes-
+ursache“ einige Werte der standardisierten 
+Mortalitätsraten nach sozioökonomischer 
+Deprivation (GISD) in den Spalten „Niedrig“ 
+und „Hoch“ vertauscht. Die Tabelle wurde 
+in der vorliegenden Version korrigiert.

@@ -1,0 +1,1415 @@
+[[PAGE 1]]
+Climate change and river ﬂoods  in the European Union:
+Socio-economic consequences and the costs and beneﬁts  of adaptation
+Rodrigo Rojas a,*, Luc Feyen a, Paul Watkiss b,c
+a Climate Risk Management Unit, Institute for Environment and Sustainability, Joint Research Centre, European Commission, Via E. Fermi 2749,
+TP261, 21027 Ispra, VA, Italy
+b Paul Watkiss Associates, Oxford, UK
+c School of Geography and the Environment, University of Oxford, Oxford, UK
+1. Introduction and scope
+In the last decade, major ﬂooding  events have occurred in
+Europe including, for example, the catastrophic ﬂoods  along the
+Elbe and Danube (August 2002, March/April 2006); ﬂooding  in
+Romania and the Alpine countries (August 2005); the severe
+summertime ﬂooding  in Britain in 2007; several events in Czech
+Republic, Italy, and Poland in 2009; and very recently the
+devastating ﬂoods  that hit central and Eastern Europe in June
+2013. Between 1998 and 2009 alone, the European Environment
+Agency estimated that 213 ﬂood  events in Europe caused about
+1126 fatalities, affected more than 3 million people and caused at
+least s52 billion in losses out of which s12 billion were insured
+economic losses (EEA, 2010).
+Albeit some recent studies suggest that there may be an
+increase in the number of extreme ﬂoods  in Europe in the last
+decades (see, e.g., Kundzewicz et al., 2013) there is still no
+conclusive evidence of a climate signal in the occurrence and
+severity of ﬂoods.  Detecting a possible trend is hampered by the
+interaction between the climate-driven physical causes and socio-
+economic factors such as urban development in ﬂood-prone  areas
+(Barredo, 2009; Feyen et al., 2009; Elmer et al., 2012). Moreover,
+the statistical analysis of extreme river discharges, which serve as
+the basis to assess trends in ﬂoods,  is an inherently difﬁcult  process
+plagued with uncertainties given the natural variability of extreme
+events (see, e.g., Mudelsee et al., 2003; Kundzewicz et al., 2005;
+Wilby et al., 2008).
+The current knowledge on climate modelling suggests that
+climate change will be a determining factor in intensifying the
+hydrological cycle (Christensen and Christensen, 2007; van der
+Linden and Mitchell, 2009). This will most likely lead to an increase
+Global Environmental Change 23 (2013) 1737–1751
+A R T I C L E I N F O
+Article history:
+Received 31 January 2013
+Received in revised form 5 August 2013
+Accepted 14 August 2013
+Keywords:
+Flood damage assessment
+Avoided damages
+EU Flood Directive
+Flood risk
+Flood mitigation
+Climate change
+A B S T R A C T
+This study presents the ﬁrst  appraisal of the socio-economic impacts of river ﬂoods  in the European
+Union in view of climate and socio-economic changes. The assessment is based on two trajectories: (a) no
+adaptation, where the current levels of protection are kept constant, and (b) adaptation, where the level of
+protection is increased to defend against future ﬂooding  events. As a basis for our analysis we use an
+ensemble-based pan-European ﬂood  hazard assessment for present and future conditions. Socio-
+economic impacts are estimated by combining ﬂood  inundation maps with information on assets
+exposure and vulnerability. Ensemble-based results indicate that current expected annual population
+affected of ca. 200,000 is projected to increase up to 360,000 due to the effects of socio-economic
+development and climate change. Under the no adaptation trajectory current expected annual damages
+of s5.5 billion/year are projected to reach s98 billion/year by the 2080s due to the combined effects of
+socio-economic and climate change. Under the adaptation trajectory the avoided damages (beneﬁts)
+amount to s53 billion/year by the 2080s. An analysis of the potential costs of adaptation associated with
+the increase in protection suggests that adaptation could be highly cost-effective. There is, however, a
+wide range around these central numbers reﬂecting  the variability in projected climate. Analysis at the
+country level shows high damages, and by association high costs of adaptation, in the United Kingdom,
+France, Italy, Romania, Hungary and Czech Republic. At the country level, there is an even wider range
+around these central values, thus, pointing to a need to consider climate uncertainty in formulating
+practical adaptation strategies.
+/C223 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author. Tel.: þ39 0332785528.
+E-mail addresses: Rodrigo.Rojas@jrc.ec.europa.eu,
+rodrigo.rojasmujica@gmail.com (R. Rojas), Luc.Feyen@jrc.ec.europa.eu (L. Feyen),
+paul_watkiss@btinternet.com (P. Watkiss).
+Contents lists available at ScienceDirect
+Global Environmental Change
+jo ur n al h o mep  ag e: www  .elsevier  .co  m /loc  ate/g  lo envc  h a
+0959-3780/$ –  see front matter /C223 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.gloenvcha.2013.08.006
+
+[[PAGE 2]]
+in the magnitude and frequency of intense precipitation events in
+many parts of Europe (see, e.g., Frei et al., 2006; Christensen and
+Christensen, 2007; Fowler and Ekstro¨ m, 2009; van der Linden and
+Mitchell, 2009; Nikulin et al., 2011), which may lead to an increase
+in future ﬂood  hazard in those regions (e.g., Dankers and Feyen,
+2009; Whitﬁeld,  2012). Non-linear relationships between temper-
+ature and snow/rainfall and changes therein might also trigger
+alterations in ﬂood  hazard, especially in northern Europe. Due to
+increased temperatures, early spring snowmelt ﬂoods  are likely to
+reduce (Kundzewicz et al., 2006) but compensation effects
+between rainfall- and snow-driven river ﬂoods  in currently
+snow-dominated areas make projections of future ﬂood  hazard
+in these regions highly uncertain (Dankers and Feyen, 2009; Rojas
+et al., 2012). Using a 12-member ensemble of bias-corrected
+climate simulations based on the SRES-A1B emission scenario
+(Nakicenovic and Swart, 2000) to drive a pan-European hydrologi-
+cal model, Rojas et al. (2012) further observed a strong increase
+(>40%) in future ﬂood  hazard for the United Kingdom, northwest
+and southeast of France, and northern Italy, whereas less
+pronounced increases (10–30%)  were projected for central Europe
+and the upper reaches of the River Danube and its main tributaries.
+A signiﬁcant  variability in future ﬂood  hazard was reported by
+Rojas et al. (2012), which was explained by the diverse signals in
+the magnitude of climate changes simulated by the climate models
+used in the analysis.
+Traditionally, ﬂood  damage assessments have been limited to
+basin (e.g., de Kok and Grossmann, 2010; te Linde et al., 2011) or
+national (e.g., Hall et al., 2005; EA, 2009) scales and, up to date, only
+few studies have assessed current and/or future damages at global
+or continental scales. Lugeri et al. (2010) assessed the current
+damages at pan-European scale on the basis of a topography-based
+ﬂood  hazard map where no hydrological modelling was involved.
+Feyen et al. (2012) performed current and future damage
+assessment at pan-European scale for a small multi-scenario (A2
+and B2) ensemble of four (non-corrected for bias) climate
+simulations. Recently, Jongman et al. (2012) presented global
+yearly damage estimates until 2050 due to river and coastal
+ﬂooding  using a purely data-driven approach. From these studies,
+only the work by Feyen et al. (2012) considered large-scale
+hydrological modelling driven by future climate simulations
+forced by IPCC-based emission scenarios (Nakicenovic and Swart,
+2000). At the same time, none of the aforementioned studies
+considered adaptation scenarios, the quantiﬁcation  of avoided
+damages and/or costs of adaptation measures, or the uncertainty in
+damage estimates arising from different climate projections for the
+21st century.
+Besides changes in climate also dynamics in the socio-economic
+system may alter the consequences of ﬂoods  in the future. In
+practice, the accumulation of wealth and urban development in
+ﬂood-prone  areas as well as the expansion of residential areas may
+signiﬁcantly  contribute to rise the damages from ﬂooding  events
+(see, e.g., Mitchell, 2003; Barredo, 2009; Feyen et al., 2009; Elmer
+et al., 2012). In this work the socio-economic dimension is
+accounted for by using high-resolution land use and population
+density maps as well as socio-economic developments projected
+for the future which are in line with the SRES-A1B scenario deﬁned
+by Nakicenovic and Swart (2000). This scenario projects a fast
+economic growth, global population peaking in mid-century, rapid
+introduction of new and more efﬁcient  technologies, and a balance
+across all energy sources. The objective of our assessment is to
+evaluate how future climate and socio-economic developments
+will affect future ﬂood  risk in Europe, and at what cost the negative
+impacts could potentially be abated through adaptation.
+This article builds upon the works of Rojas et al. (2012) and
+Feyen et al. (2012). First, we use ﬂood  hazard estimates under the
+SRES-A1B emission scenario (Nakicenovic and Swart, 2000)
+obtained from Rojas et al. (2012) to calculate the expected
+damages and population affected at pan-European scale following
+the methodological framework presented in Feyen et al. (2012).
+This work provides the ﬁrst  pan-European assessment of ﬂood
+risks and potential costs and beneﬁts  of adaptation explicitly
+accounting for uncertainty arising from the deﬁnition  of an
+ensemble of climate simulations. In particular, our work shows
+several innovative aspects which overcome some of the limitations
+identiﬁed  in previous works (e.g., Feyen et al., 2012): (a) a very
+large ensemble of high-resolution (25 km) climate simulations
+considering 12 members is used, (b) biases in the precipitation and
+(min, avg, and max) temperature ﬁelds  are corrected using a
+Quantile Mapping technique (see Rojas et al., 2011; Dosio et al.,
+2012, (c) more than twice the number of gauging stations (554
+stations across Europe) are used for the validation of extreme
+discharges, (d) impacts are estimated throughout the 21st century
+and compared with current conditions, (e) socio-economic
+dynamics are taken into account through the use of GDP and
+population projections in line with the SRES-A1B scenario, and (f)
+an exploration of the possible costs and beneﬁts  of adaptation to
+increase protection against future ﬂood  hazard is provided.
+We note that a ﬂood  is deﬁned  here as the temporary covering
+of land by water outside its normal conﬁnes.  There exist different
+types of ﬂoods,  such as large-scale river ﬂoods,  ﬂash  ﬂoods,  ice-jam
+or snowmelt induced ﬂoods,  and coastal ﬂoods  due to sea level
+rise/storm surges. This work focuses on river ﬂooding,  which is
+mainly linked with prolonged or heavy precipitation events as well
+as with snowmelt. Furthermore, we limit the analysis to estimating
+the direct tangible damages derived from the physical contact of
+ﬂooding  waters with the exposed assets and population. Theoreti-
+cally, indirect damages can be estimated and there exist several
+methods to achieve this (see, e.g., Jonkman et al., 2008; Merz et al.,
+2010). In practice, however, they are hardly ever estimated given
+the current data and model limitations, and the dependence of the
+magnitude of the indirect damages on the boundaries in space and
+time of the damage assessment. Moreover, in a national or
+international setting, indirect economic damages at the regional
+scale tend to disappear as they are often compensated by
+production gains in regions outside the ﬂooded  area (Merz
+et al., 2010). Some methods include a ﬁxed  share of the total
+costs to account for indirect damages in a ﬂood  risk assessment: for
+example, the Damage Scanner used in the Netherlands adds about
+5% of indirect damages (mainly reﬂecting  business interruption) to
+the total damage, hence suggesting that direct damages dominate
+the total damage ﬁgures  (e.g., Ward et al., 2011; te Linde et al.,
+2011).
+In Section 2, we describe the methodological framework,
+including the details of the climate simulations, hydrological
+modelling, the depth-damage functions used to estimate damages
+as well as the assessment of cost/beneﬁts  of adaptation. Results are
+reported in Section 3, whereas a comprehensive discussion and
+main conclusion of this work can be found in Section 4.
+2. Methodology
+Fig. 1 shows the methodological approach used in this work. In
+a ﬁrst  step, a series of bias-corrected climate simulations (Dosio
+et al., 2012) were used to force the hydrological model LISFLOOD
+(van der Knijff et al., 2010). Subsequently, by using extreme value
+analysis techniques we obtained river discharge and water levels
+for return periods ranging between 2 and 500 years (see Rojas et al.,
+2012). A planar approximation approach following Bates and de
+Roo (2000) was then employed in which the ﬂood  wave is
+considered as a plane that is intersected with a high resolution
+digital elevation model to estimate ﬂood  inundation extent and
+water depth, resulting in inundation maps at a 100 m /C2  100 m
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511738
+
+[[PAGE 3]]
+horizontal resolution. A quantiﬁcation  of the risk associated with
+river ﬂooding  was then obtained by combining inundation maps
+(ﬂood  hazard) for different return periods with information on
+population density, exposed assets (land use), and country speciﬁc
+depth-damage functions relating water depths and potential
+damages for each land use class. The risk was obtained from
+damage-probability curves and further expressed as expected
+annual damages and expected annual population affected. Finally,
+by implementing two scenarios of ﬂood  risk mitigation an estimation
+of the avoided damages (beneﬁts)  and the corresponding costs of
+adaptation were assessed. In this case, ﬂood  protection is accounted
+for by truncating the damage-probability function at the corre-
+sponding protection level. The data and methods used in the steps
+discussed above are further described in the following sections.
+2.1. Data
+2.1.1. Climate simulations
+To effectively model ﬂood  generation processes it is important
+to capture ﬁne-scale  climatic features. The climate simulations
+used in this work (see Table 1) have been obtained from the EU FP6
+ENSEMBLES project (van der Linden and Mitchell, 2009), which
+constitutes the largest high-resolution ensemble of climate
+simulations available for Europe. Other datasets driven by different
+scenarios are available (e.g., from FP6 PRUDENCE project) but these
+are at a coarser resolution (50 km), not continuous in time, and
+fewer model runs are available to sample climate uncertainty.
+From the ensemble of climate runs performed in ENSEMBLES we
+retained those that included all the required variables to run the
+hydrological model LISFLOOD. In total, 12 climate experiments
+derived from a combination of 4 GCMs and 7 RCMs, and covering
+the period 1961–2100,  were used. These nested GCM–RCM
+simulations have a horizontal resolution of ca. 25 km, a daily
+temporal resolution, and were forced by the SRES-A1B scenario
+(Nakicenovic and Swart, 2000). Prior to running LISFLOOD, the
+precipitation and minimum, average, and maximum temperature
+ﬁelds  were corrected for bias using a Quantile Mapping (QM)
+method (Rojas et al., 2011; Dosio et al., 2012).
+2.1.2. Hydrological simulation and extreme value analysis
+River discharge simulations for different climate experiments
+(see Table 1) were obtained using the LISFLOOD model (van der
+Knijff et al., 2010). LISFLOOD is a GIS-based hydrological  model
+where processes such as inﬁltration,  water consumption by
+plants, snowmelt, freezing of soils, surface runoff and groundwa-
+ter storage are explicitly accounted for at the grid level. Being a
+fully distributed and physically based hydrological  model
+developed for large-scale ﬂood  forecasting and impact assess-
+ment studies, LISFLOOD simulates the spatial–temporal  patterns
+of catchment responses as a function of spatial information on
+meteorology,  topography, soils, and land cover. Properties for
+soils, vegetation types, land uses, and river channels constitute
+the basic input to set up a LISFLOOD run, whereas data on
+precipitation,  air temperature,  potential evapotranspiration,  and
+evaporation from water bodies and bare soil surfaces, are the main
+meteorological  drivers. For a detailed description of the processes
+and equations included in LISFLOOD as well as its calibration we
+refer the reader to van der Knijff et al. (2010) and Feyen et al.
+(2007, 2008).
+For this work, LISFLOOD was conﬁgured  using a 5 km grid, a
+daily time step, and a simulation period between 1961 and 2100.
+For time windows of 30 years (control represents 1961–1990,
+the 2000s 1981–2010,  the 2020s 2011–2040,  the 2050s 2041–
+2070, and the 2080s 2071–2100),  a Gumbel distribution  was
+ﬁtted  to the annual maximum discharges simulated by
+LISFLOOD in every grid cell of the modelled domain. From the
+ﬁtted  Gumbel distributions,  the discharge return levels were
+derived for every river pixel for return periods of 2, 5, 10, 20, 50,
+100, 250 and 500 years. For further details on the ﬂood  hazard
+assessment employed in this work we refer the reader to Rojas
+et al. (2012).
+2.1.3. Land use and population data
+Land use information reﬂecting  the assets exposed to the ﬂood
+hazard was obtained from the CORINE Land Cover 2000 (EEA,
+2002). CORINE is one of the most complete and accurate European
+databases containing 44 land use classes at a horizontal resolution
+Fig. 1. Schematic overview of the methodological approach (adapted from Feyen et al., 2012). Risk due to river ﬂooding  is expressed as the expected annual damage and the
+expected annual population affected.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1739
+
+[[PAGE 4]]
+of 100 m. Out of the 44 land use classes deﬁned  in CORINE,
+approximately one-third was excluded from the analysis. These
+correspond to different types of forest, beaches, dunes, sands, bare
+rocks, burnt areas, glaciers, wetlands and inland water bodies. As
+these classes have a negligible impact on the damage estimates,
+they were not considered in the damage calculations. The
+remaining CORINE land use classes were merged into 5 dominant
+uses, namely, residential, agriculture, transport, commerce, and
+industry.
+We should note that land use changes or a possible spatial
+expansion of the exposed assets is not accounted for in the
+calculation of the ﬂood  risk and, therefore, all damages are
+calculated on the basis of the current spatial patterns of exposed
+assets. This implies that our damage estimates might underesti-
+mate future ﬂood  impacts in some regions where substantial land
+development/urbanization in ﬂood-prone  areas is projected.
+Instead, to account for changes in wealth and the value of assets
+in ﬂood-prone  areas we scale current exposed asset values by the
+projected changes in GDP.
+In the absence of high-resolution socio-economic projections,
+downscaled country-level GDP (in 1990 US$) projections for the
+SRES-A1 scenario (see Nakicenovic and Swart, 2000) were used in
+this work to adjust the value of the exposed assets in future time
+windows. These data were obtained from the Center for
+International Earth Science Information Network (CIESIN)
+(http://ciesin.columbia.edu/datasets/downscaled/). To adjust fu-
+ture exposed assets the ratio between the future period GDP and
+the baseline asset values used in Control and 2000s was applied. As
+such, the absolute GDP ﬁgures  were not used in the analysis
+presented herein, but only the changes with respect to the baseline
+were used to rescale current exposed asset values.
+To evaluate the population affected by river ﬂooding  we used a
+dataset of gridded population density for Europe at 100 m
+horizontal resolution from 2001 (Gallego and Peedell, 2001).
+Downscaled country-level population projections for the SRES-A1
+(see Nakicenovic and Swart, 2000) were used in this work to adjust
+the (spatially distributed) values of people affected in future time
+windows. These data were obtained as well from the CIESIN
+website (http://ciesin.columbia.edu/datasets/downscaled/). To re-
+scale the future numbers of people exposed to ﬂoods  the ratio
+between the future and the baseline population values used in
+Control and 2000s was applied. Similar to the scaling of the
+exposed assets by GDP, the absolute numbers of the population
+projections were not used in the analysis presented herein, but
+only the changes with respect to the baseline to adjust the baseline
+gridded population.
+2.1.4. Depth-damage functions
+In this work a set of country speciﬁc  depth-damage functions
+was used derived from empirical ﬂood  damage data and damage
+relations from 11 countries across Europe (see Huizinga, 2007). For
+countries without historic ﬂood  data, the ‘‘GDP  per capita PPS
+(Purchasing Power Standards)’’  obtained from EUROSTAT was used
+to scale the average maximum damages (derived from countries
+for which information was available) over the different exposure
+categories. More detailed information on the derivation of the
+damage functions and maximum damages can be found in
+Huizinga (2007). The depth-damage functions represent, for each
+country and for each aggregated land use class (i.e. 27 /C2  5 depth-
+damage functions), the absolute amount of damage per unit area as
+a function of the water depth. In particular, these functions are
+used to appraise the vulnerability of the exposed assets to ﬂood
+inundation and are considered as the standard approach for large-
+scale damage assessments (Messner et al., 2007; Merz et al., 2010).
+Jongman et al. (2012) evaluated several depth-damage models for
+catchments in Germany and the United Kingdom and showed that
+the functions used herein (Huizinga, 2007) produce estimates that
+are relatively close to the reported damage in both case studies.
+As suggested by some authors (see, e.g., de Moel and Aerts,
+2011; Jongman et al., 2012), uncertainties  related to the
+construction of depth-damage  functions could be signiﬁcant.
+There is also a large degree of uncertainty in the value of the
+elements at risk and it is essential to adjust asset values to
+the regional economic situation. To account for large regional
+differences in the values of exposed assets for a given land use
+class within a country, we therefore further rescale the speciﬁc
+depth-damage functions by the GDP/capita of the administrative
+level NUTS2 regions (see http://epp.eurostat.ec.europa.eu/por-
+tal/page/portal/nuts_nome nclature/introduction ). Given the lim-
+ited availability  of spatially detailed empirical information on
+ﬂood  losses for speciﬁc  exposed assets across Europe, a
+detailed uncertainty analysis at pan-European  scale of the
+construction of the damage curves, the asset values connected
+to these curves, and the larger methodological  framework is
+not feasible. Therefore, we acknowledge our results might
+provide biased damage estimates in regions of the EU where
+the damage curves and assets used herein not fully reﬂect  true
+conditions.
+2.2. Flood risk assessment
+Flood damage assessment integrates information about the
+frequency and magnitude of ﬂoods  with inundation characteristics
+Table 1
+Climate experiments forced by the A1B scenario and used to drive LISFLOOD in the period 1961–2100.
+Model no. Driving GCM RCM Institute Acronyms
+1 HadCM3Q16a RCA3.0 The Community Climate Change Consortium for Ireland C4I-RCA-HadCM3
+2 ARPEGE ALADIN-RM5.1 Centre National de Recherches Me´ te´ orologiques,
+Meteo France
+CNRM-ALADIN-ARPEGE
+3 ARPEGE HIRHAM5 Danish Meteorological Institute DMI-HIRHAM5-ARPEGE
+4 BCM HIRHAM5 Danish Meteorological Institute DMI-HIRHAM5-BCM
+5 ECHAM5-r3b HIRHAM5 Danish Meteorological Institute DMI-HIRHAM5-ECHAM5
+6 HadCM3Q0a CLM Swiss Federal Institute of Technology ETHZ-CLM-HadCM3
+7 ECHAM5-r3b RACMO2 The Royal Netherlands Meteorological Institute KNMI-RACMO2-ECHAM5
+8 HadCM3Q0a HadRM3Q0 UK Met Ofﬁce,  Hadley Centre for Climate Prediction
+and Research
+METO-HadRM3-HadCM3
+9 ECHAM5-r3b REMO Max-Planck-Institute for Meteorology, Germany MPI-REMO-ECHAM5
+10 BCM RCA3.0 Swedish Meteorological and Hydrological Institute SMHI-RCA-BCM
+11 ECHAM5-r3b RCA3.0 Swedish Meteorological and Hydrological Institute SMHI-RCA-ECHAM5
+12 HadCM3Q3a RCA3.0 Swedish Meteorological and Hydrological Institute SMHI-RCA-HadCM3
+a Represent three versions of the HadCM3 model with perturbed parametrization impacting the simulated climate response sensitivities: Q0 (reference), Q3 (low-
+sensitivity) and Q16 (high-sensitivity) (see Collins et al., 2006).
+b Represent one run of the ECHAM5 model using three different sets of initial conditions deﬁned  as ‘‘-r1’’,  ‘‘-r2’’,  and ‘‘-r3’’  (see Kendon et al., 2010)..
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511740
+
+[[PAGE 5]]
+and damage evaluation to construct damage-probability curves.
+These damage-probability curves represent ﬂood  damages as a
+function of the probability of occurrence (or recurrence interval) of
+a ﬂood.  Estimations of direct damages were obtained by combining
+inundation water depth with land use classes, further linked with
+speciﬁc  depth-damage functions. For all the recurrence intervals
+considered (i.e. 2, 5, 10, 20, 50, 100, 250 and 500 years), a damage
+map (100 m /C2  100 m) was produced. Damage-probability curves
+were obtained at the grid cell by interpolating the damage
+estimates between the different recurrence intervals considered.
+The expected annual damages at a given grid cell due to river
+ﬂooding  are thus the integral of the damage-probability curve.
+Individual grid cell values can then be aggregated to catchment,
+NUTS2 or country level to evaluate changes in ﬂood  damage at
+large scales.
+To assess the number of people directly affected by river ﬂoods,
+a European population density map at 100 m resolution (Gallego
+and Peedell, 2001) was overlain by the ﬂood  inundation maps for
+the different return maps. Similar to ﬂood  damages, population
+exposure probability functions were derived for each grid cell
+within the modelled domain.
+In practice, defence measures are implemented in most
+European countries to protect up to a certain design ﬂood.  Flood
+protection can be included in the expected annual damages
+estimation by truncating the damage-probability curves at the
+corresponding protection level (e.g. design ﬂood  = Q100). The
+integral of the remaining part after truncation quantiﬁes  the
+expected annual damages and expected annual population
+affected caused by river ﬂooding  considering ﬂood  protection up
+to the design ﬂood.
+In order to assess the potential impacts from ﬂooding  in the
+EU a common pan-European  scenario for ﬂood  risk assessment
+and management is required. This is provided by the EU Flood
+Directive (EC, 2007). Even though this directive does not enforce
+EU member states to take immediate actions to reduce ﬂood  risk,
+by the year 2013 all member states should develop ﬂood  hazard
+and ﬂood  risk maps in areas where potential signiﬁcant  ﬂood  risk
+exists. These maps must be based on a medium likelihood of
+ﬂooding  deﬁned  by a 100-year event. Taking into consideration
+that information on ﬂood  protection measures as well as their
+probability of failure is barely available at the country or
+European level, we therefore assumed a uniform ﬂood  protection
+level up to the medium probability scenario stipulated in the EU
+Flood Directive (EC, 2007). We acknowledge that in different
+regions of Europe actual protection levels may deviate strongly
+(in both directions) from the 100-year ﬂood  protection level
+assumed here, which may locally result in biased estimates of
+expected annual damages and expected annual population
+affected. We therefore also provide impact estimates at EU
+and country level for protection levels up to the 50- and 250-year
+ﬂood  event.
+While several authors report that different socio-economic
+factors may play a signiﬁcant  role in damage estimates due to river
+ﬂoods  (see, e.g., Barredo, 2009; Feyen et al., 2009; Elmer et al.,
+2012), the risk assessment implemented in this work only
+accounts for the change in wealth in ﬂood-prone  areas based
+on changes in country-level  GDP as derived from the socio-
+economic scenarios (see Section 2.1.3). Changes in land use, which
+may increase or decrease ﬂood  risk in the future (see, e.g., de Moel
+and Aerts, 2011), are not accounted for. We further note that no
+discounting has been applied to future damages as they are
+calculated using 2006 prices on the basis of Huizinga (2007) thus
+the valuation results are presented in terms of constant 2006
+prices for the three time periods considered (i.e. the 2020s, 2050s
+and 2080s). The results are presented in this way to facilitate
+direct comparison over time.
+2.3. Flood protection – adaptation scenarios
+In this work, two scenarios of risk mitigation against ﬂooding
+events were considered: ﬁrst,  no adaptation, i.e. current levels of
+ﬂood  protection, assumed to be up to the current 100-year ﬂood
+(medium probability event according to the EU Flood Directive),
+are kept constant for future analysis, i.e. there are no upgrades in
+response to changing risks; second, adaptation, i.e. levels of
+acceptable risk are adjusted to account for future changes in ﬂood
+hazard, so that future protection levels are increased to provide
+protection up to the corresponding 100-year ﬂood  event obtained
+in future time windows (e.g., a future 100-year event may
+correspond to a current 150-year, in which case future protection
+is against a current 150-year event). The difference between these
+two management scenarios provides an estimation of the avoided
+damages (beneﬁts).
+Local implementation  of adaptation measures depends on
+site-speciﬁc  hydro-morphological  characteristics  as well as on
+socio-economic  conditions. Within the current modelling
+framework, it is not possible to undertake a detailed analysis
+of the costs of this increased level of protection. However, in
+order to provide some analysis of the relative costs of
+adaptation, the available literature on adaptation beneﬁt-to-
+cost ratios (BCR) was surveyed.
+Several studies have reported diverse ﬁgures  about beneﬁts  and
+costs of different ﬂood  mitigation strategies across Europe,
+covering different regions, types of ﬂoods,  ﬂood  protection
+measures, accounting and cost-beneﬁt  approaches (see, e.g.,
+Petrascheck, 2003; Fo¨ rster et al., 2005; Fosˇ umpaur, 2005; Lamothe
+et al., 2005; Satrapa et al., 2006; Johnson et al., 2007; Zevenbergen
+et al., 2007; Dehnhardt et al., 2008; EA, 2009, 2010; UNFCCC, 2009;
+Broekx et al., 2011). These studies indicate that the current ﬂood
+protection schemes typically have high beneﬁts  when compared to
+costs, although capital investments can be large. The studies
+reviewed provided a range of BCR between 8 and 1.5, with an
+average value of 4. These results have been used to provide
+indicative estimates (order of magnitude) of the potential costs of
+the adaptation scenario. However, the costs of protection are likely
+to rise disproportionately –  and the BC ratios likely to fall –  as ever
+higher levels of protection are set (Parry et al., 2009), in this case in
+response to the intensiﬁcation  of the hydrological cycle. The
+available literature does not provide sufﬁcient  detail to know
+whether this applies for the case of river ﬂoods,  but there is
+information to suggest this is the case for coastal ﬂoods  (Brown
+et al., 2011).
+2.4. Deﬁnition of scenarios
+We deﬁned  four alternative scenarios in order to differentiate
+the effects of climate change, socio-economic development, the
+combined impact of these two, and the beneﬁts  of adaptation. In
+the ‘‘climate  change’’  scenario, the values of exposed assets and the
+population density are assumed static over time (through to 2100)
+and are thus representative of present conditions (2006). In this
+case, only climate change derived from the climate experiments
+listed in Table 1 changes. In the second scenario (socio-economic
+change), the exposed asset values and population density change
+according to country GDP and population projections obtained
+from the CIESIN data portal (see Section 2.1.3). For this scenario,
+the climate of the control period (1961–1990)  is assumed static for
+future estimations (through to 2100). In the third and more
+realistic scenario, both climate and socio-economic change is
+accounted for. In the last scenario, also both climate and socio-
+economic change is accounted for, but, whereas in the ﬁrst  three
+scenarios the protection level is assumed static and equal to the
+current 100-year ﬂood  event, this scenario assumes upgraded
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1741
+
+[[PAGE 6]]
+defence levels to maintain protection against the corresponding
+100-year ﬂood  event in the future time window (see Section 2.2).
+3. Results
+3.1. Expected annual population affected in the European Union (EU)
+Ensemble-based estimates of the impact of river ﬂooding  on
+population are depicted in Fig. 2 for a constant protection level
+against the current 100-year ﬂood  event. In general, under a
+medium–high  emission scenario (A1B), the current EU expected
+annual population affected (ensemble mean) of ca. 200,000 aligns
+reasonably well with an average expected annual population
+affected of 250,000 reported by the European Environment Agency
+(EEA, 2010). Due to the effect of climate change alone the current
+people affected is projected to reach 300,000 by the 2050s, rising
+up to 390,000 by the 2080s (ensemble mean).
+If socio-economic growth alone is considered (i.e. future
+projections of population with no change in climate), expected
+annual population affected (ensemble mean) remains relatively
+stable up to the 2020s but then decreases to ca. 160,000 by the
+2080s. Lower values of people affected in the 2050s and 2080s
+reﬂect  the projected decline in Europe’s  population for the second
+half of this century. This partly offsets the increase in people
+affected due to climate change, resulting in approximately 360,000
+people affected in the EU by the 2080s due to the combined effect
+of climate and demographic changes.
+The variability amongst the climate experiments used to force
+LISFLOOD is clearly reﬂected  by the signiﬁcant  range of values
+observed for the 2080s, shown also in Fig. 2. Here, we see that by
+considering the combined effects of climate and socio-economic
+change, most expected annual population affected estimates are
+concentrated between 269,000 and 407,000, with a maximum
+range spanning from 180,000 to 780,000. The upper end of this
+interval is largely dominated by the high values for France
+(203,000), the United Kingdom (192,000), Italy (77,000), Germany
+(69,000) and The Netherlands (53,000) obtained from the C4I-RCA-
+HadCM3 climate experiment (see Table 1). We should note that
+this particular climate simulation shows a much stronger warming
+(average warming over Europe of 5.2 8C compared to an ensemble-
+average warming of 3.2 8C over the 11 remaining models),
+especially towards the end of this century. Despite this, it is
+worth noting that maximum expected annual population affected
+estimates for other time windows are driven by other climate
+experiments (e.g. for 2000s by ETHZ-CLM-HadCM3, whereas for
+2020s and 2050s by DMI-HIRHAM-ARPEGE).
+Fig. 3 shows the ensemble-based expected annual population
+affected estimates at country level for the combined effects of
+socio-economic and climate change when assuming a current 100-
+year protection level that remains constant in time. A clear trend
+towards a higher number of people affected by river ﬂoods  over
+time is observed for the United Kingdom, Ireland, Belgium,
+Luxembourg, France, the Netherlands, Austria, Finland and Italy,
+even if for the latter a substantial decrease in population (ca. 19%)
+with respect to present conditions is projected by the 2080s.
+Smaller (Portugal, /C0 10% by 2080s), comparable (Spain, /C0 17% by
+2080s) or more pronounced reductions in projected population
+(Slovenia, /C0 23% by 2080s; Bulgaria, /C0 45% by 2080s) reverse the
+climate-change induced trend of increasing population affected by
+the 2080s. Such climate-cancelling effect induced by negative
+population growth can be observed already earlier (2050s) in the
+Czech Republic, Slovakia, Romania and Hungary, which are
+characterized by moderate, spatially sometimes opposite changes
+in the magnitude of ﬂoods  (see Rojas et al., 2012). The strongest
+decrease in people affected is projected for Poland (/C0 25% by 2080s)
+and Estonia (/C0 65% by 2080s), due to both a reduction in ﬂood
+Fig. 2. EU expected annual population affected (people/year) for the control period, 2000s, 2020s, 2050s, and 2080s. Flood protection up to the current 100-year ﬂood  event is
+assumed constant in time. Ensemble-based average estimates and ﬁve-number  summaries based on 12-member climate ensemble for the A1B scenario. Numbers at the
+bottom of the bars represent the ratio with respect to the control period.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511742
+
+[[PAGE 7]]
+hazard and negative population growth (/C0 20% for Poland and
+/C0 40% for Estonia). We further note that discontinuities in the
+trends of people affected, e.g., for France and the Netherlands, can
+be explained by the interaction between projections of future
+population at country level and ﬂood  hazard ﬂuctuations  caused by
+inter-decadal climate variability.
+In order to understand the relative impacts across EU countries,
+Fig. 4 shows the expected annual population affected expressed as
+a percentage of the corresponding country population for the
+current situation and the end of this century. All countries
+presently (see Fig. 4a) have less than 0.1% of their population that is
+annually affected by ﬂoods,  although that for some countries (in
+particular Hungary, Slovenia and Latvia) some climate ensemble
+members yield estimates above 0.2% of the country population.
+Denmark and Portugal show the lowest share of population
+affected by ﬂooding.  By the end of this century (see Fig. 4b), the
+highest average relative impact on population is projected for
+Austria (0.15%), Hungary (0.13%), the Netherlands (0.13%), Slovenia
+(0.18%) and the UK (0.13%). In the Netherlands, however,
+protection standards by far outweigh the assumed protection
+level in our analysis; hence our estimates likely overestimate the
+true number of people affected in the Netherlands. Also note that
+for some countries (e.g., Bulgaria and Poland) the declining trend in
+absolute population affected (see Fig. 3) not necessarily implies a
+reduction in the relative impact on the projected population in the
+future. The variation in population affected across the climate
+models rises considerably for nearly all countries by the 2080s (see
+Fig. 4b), with maximum relative impacts above 0.3% for Belgium
+(0.32%), Finland (0.49%), France (0.31%), the Netherlands (0.33%),
+Slovenia (0.60%) and the UK (0.31%).
+3.2. Expected annual damages in the European Union (EU)
+Assuming a uniform protection level across the EU up to ﬂood
+events with a current recurrence interval of 100 years, the
+estimated EU expected annual damages for the control period
+(1961–1990)  and the 2000s (1981–2010)  are between s5.5 and
+s6.9 billion, respectively. These ﬁgures  are similar to the s5.5–7
+billion reported by the Association of British Insurers (ABI, 2005),
+and to the s5.2 billion (on average) reported by the European
+Environment Agency (EEA, 2010). As discussed earlier, ﬂood
+defence levels across Europe may considerably deviate from the
+assumed protection standard. Table 2 shows at country and EU
+level how different protection levels yield different damage
+estimates. Imposing a protection level up to the current 50-year
+event would result in EU aggregated damages for the baseline and
+current period that are nearly twice as large, whereas protection up
+to a 250-year ﬂood  would more than halve the EU damages
+estimate for these periods.
+Fig. 5 shows the progression in time of the ensemble-average
+expected annual damages under the no adaptation scenario, i.e.
+assuming protection against river ﬂoods  up to a current 100-year
+event that is kept constant in the future. Due to the combined effect
+of climate and socio-economic change, current EU damages
+(s6.9 billion/year) is projected to reach s20.4 billion/year by
+the 2020s, s45.9 billion/year by the 2050s, and s 97.9 billion/year
+by the 2080s (constant 2006 prices, undiscounted). The largest
+share of these damages arises from socio-economic development,
+indicating the relevance of the socio-economic dimension in the
+estimation of future damages. Assuming less stringent protection
+up to the current 50-year event (see Table 2), EU damages amount
+Fig. 3. EU expected annual population affected (people/year) by country for the 2020s, 2050s, and 2080s. Flood protection up to the current 100-year ﬂood  event is assumed
+constant in time. Ensemble-based average estimates based on 12-member climate ensemble for the A1B scenario.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1743
+
+[[PAGE 8]]
+Fig. 4. Expected annual population affected (percentage of country population) by country for the (a) 2000s and (b) 2080s under the scenario with combined effects of climate
+change and socio-economic development. Flood protection up to the current 100-year ﬂood  event is assumed constant in time. Ensemble-based average estimates and ﬁve-
+number summaries based on 12-member climate ensemble for the A1B scenario.
+Table 2
+Expected annual damages for different protection levels (assumed constant in time) at country and EU level. Monetary values are in s Millions, constant 2006 prices,
+undiscounted.
+Time period and protection level
+Country Code Control 2000s 2020s 2050s 2080s
+50y 100y 250y 50y 100y 250y 50y 100y 250y 50y 100y 250y 50y 100y 250y
+Austria AT 557 297 125 632 309 97 1725 892 332 3184 1695 655 6269 3452 1402
+Belgium BE 240 129 55 390 198 71 985 575 263 1801 1019 437 3303 1828 749
+Bulgaria BG 79 42 18 94 50 20 481 275 122 1897 1191 594 3497 2138 1062
+Cyprus CY a a a a a a a a a a a a a a a
+Czech Republic CZ 337 179 74 345 164 54 2789 1504 602 5797 3065 1182 13,037 7007 2773
+Denmark DK 36 19 8 31 14 4 81 42 16 87 40 13 273 140 52
+Estonia EE 22 12 5 25 13 4 194 119 58 353 192 79 384 200 79
+Finland FI 400 218 92 454 228 75 1306 752 329 2491 1451 644 4609 2917 1454
+France FR 1862 1011 424 3037 1559 570 5623 2937 1109 7592 3902 1444 20,872 11,436 4618
+Germany DE 924 502 214 1087 540 189 2176 1142 432 2756 1378 489 5729 2920 1061
+Greece GR 59 32 14 113 63 27 143 81 35 329 205 100 672 410 193
+Hungary HU 708 390 158 607 289 99 4191 2235 865 10,092 5444 2199 20,730 11,163 4368
+Ireland IE 66 35 15 62 30 9 208 109 42 356 182 67 971 522 205
+Italy IT 922 499 211 1662 912 343 3109 1733 726 7223 4197 1864 14,708 8720 3929
+Latvia LV 48 26 11 70 37 14 393 225 99 862 450 170 1215 612 228
+Lithuania LT 37 20 8 55 29 11 310 175 76 720 382 151 1079 593 248
+Luxembourg LU 16 9 4 21 10 3 48 24 9 70 36 14 152 80 31
+Malta MT a a a a a a a a a a a a a a a
+Netherlands NL 439 225 104 849 424 221 1404 859 423 1965 1155 526 4722 2746 1248
+Poland PL 432 239 102 381 191 68 2359 1322 559 4647 2505 997 8282 4512 1822
+Portugal PT 16 9 4 11 5 1 38 20 8 72 39 16 105 58 24
+Romania RO 296 164 69 320 166 55 2331 1257 498 7474 4294 1853 13,384 7561 3197
+Slovakia SK 231 125 51 213 100 35 1400 745 290 3963 2171 895 6373 3352 1309
+Slovenia SI 58 32 14 104 55 21 438 225 81 2239 1305 571 4359 2559 1134
+Spain ES 374 200 85 339 181 62 934 528 232 2204 1333 635 3149 1884 878
+Sweden SE 227 122 51 229 112 35 522 275 107 853 448 174 1316 710 288
+United Kingdom UK 1712 904 376 2514 1247 419 4600 2326 843 14,143 7804 3210 34,994 20,413 8941
+EU 10,098 5,439 2,291 13,647 6,924 2,509 37,789 20,378 8,157 83,168 45,883 18,979 174,184 97,934 41,293
+a No results are reported as Cyprus (CY) was not included in the modelled domain and Malta (MT) did not include relevant river cells with upstream areas larger than
+1000 km2.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511744
+
+[[PAGE 9]]
+to s 174.2 billion/year by the end of this century. For a protection
+level equal to the current 250-year event, on the other hand, EU
+damages would total s 41.3 billion/year by the 2080s.
+A large range of variability for the future damage estimates
+arises from the climate experiments.  Accounting for both the
+effect of climate and socio-economic  change and assuming a
+constant protection up to the current 1-in-100 year ﬂood  event
+the EU expected annual damages vary between s 16.0 and s 34.1
+billion/year  by the 2020s, s 24.5 and s 95.3 billion/year  by the
+2050s, and s 58.6 and ca. s 200 billion/year  by the 2080s
+(constant 2006 prices, undiscounted).  Even though at this scale of
+aggregation the majority of damage estimates across the climate
+models fall within a reasonable range of the central estimates,
+some damage estimates seriously deviate from those of the other
+ensemble members. We see, for example, that for the 2080s
+damage estimates are concentrated  between s 65.9 and s 120
+billion/year,  with the second highest damage estimate amounting
+to s 126 billion/year but a maximum damage estimate of nearly s
+200 billion/year  (obtained for the C4I-RCA-HadCM3  climate
+experiment).  These results clearly illustrate the risk of selecting
+a single climate experiment (GCM/RCM combination)  as the basis
+for the risk assessment.
+Table 2 summarizes the evolution in time of the absolute
+ensemble-averaged damages at the country (and EU) level for the
+three different protection levels assumed. In general, all countries
+will experience an increase in future damages due to the combined
+effect of socio-economic and climate change, irrespective of the
+protection level in place. Actually, the relative changes in country
+and EU damages between the different time windows are fairly
+robust across the alternative defence standards. Currently, the
+highest damage values are observed for France, Italy and the UK.
+Also in future time windows these countries will face the largest
+absolute economic impacts from ﬂooding.  However, also the Czech
+Republic, Romania and especially Hungary will likely experience
+large ﬂood  damages by the end of this century. Note that the rise in
+wealth in these countries is projected to be nearly 5 times larger
+than for West-European countries. This partly explains the large
+increases in absolute expected annual damages seen for these
+countries, as well as for neighbouring countries such as Slovenia
+and Bulgaria.
+Fig. 6 presents for the 2000s and 2080s the expected annual
+damages as a fraction of the country GDP for the scenario with
+climate and economic changes and constant protection up to the
+current 100-year ﬂood  event. For most countries present damages
+are well below 0.5% of the national GDP (Fig. 6a). In general, higher
+relative impacts are observed in Eastern European countries,
+especially in Hungary and Slovakia (0.8% and 0.6%, respectively).
+Note also that in these countries protection levels may likely not
+comply (everywhere) with the standard imposed here, hence true
+damages may actually represent a larger share of the national
+GDP. By the end of this century (Fig. 6b), relative economic
+impacts are projected to increase for all EU countries except
+Poland and the Baltic States. In relative terms, Eastern European
+countries will still be most severely affected by ﬂooding,
+especially Hungary (1.36%), but also Slovakia (0.87%), the Czech
+Republic (0.81%), and Romania (0.79%). The spread in relative
+impacts from climate variability considerably  increases with time
+for most countries, with upper estimates reaching 2.75% for
+Hungary and nearly 2% for Slovenia, Slovakia and Finland. It is
+worth noting that Finland shows a small interquartile  range but an
+extreme upper damages estimate. Contrary to most other
+countries, where the upper (damage) values are obtained for
+the C4I-RCA-HadCM3  climate experiment, in Finland the upper
+extreme estimate is driven by the ETHZ-CLM-HadCM3  climate
+Fig. 5. EU expected annual damages (billions s/year) for the control period, 2000s, 2020s, 2050s, and 2080s. Ensemble-based average estimates and ﬁve-number  summaries
+based on 12-member climate ensemble for the A1B scenario. Flood protection up to the current 100-year ﬂood  event is assumed constant in time. Monetary values are in
+constant 2006 prices, undiscounted. Numbers at the bottom of the bars represent the ratio with respect to the control period. Note that no difference for the ‘‘socio-economic
+change’’  only scenario between control period and 2000s is observed as these two are based on the exposed assets for year 2006.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1745
+
+[[PAGE 10]]
+experiment. This reinforces the idea of potentially obtaining
+biased damage estimates when relying on a single climate
+experiment.
+Fig. 7 shows a map with the relative change in ensemble-
+averaged expected annual damages with respect to the control
+period across the EU accounting only for the effects of climate
+change. These changes are based assuming a constant protection
+up to the current 100-year ﬂood  event. As noted earlier, however,
+the relative changes in damages are fairly constant irrespective  of
+the protection level assumed, hence this map is also informative
+should regionally another protection level be in place. For
+illustrative  purposes the damages have been aggregated over
+the administrative  level NUTS2 as a compromise between the
+pixel-scale (which would show a very erratic pattern due to
+large differences in damages between individual pixels) and the
+coarse country-level.  The patterns in damages changes reﬂect
+largely those observed in the changes in ﬂood  hazard (see Rojas
+et al., 2012), but local differences can be noted especially in the
+magnitude of change. These differences may originate from
+several reasons. Firstly, due to the spatial aggregation over NUTS2
+regions, some of the small-scale spatial variability in the changes
+in ﬂood  hazard is ﬁltered  out. In some regions, an increase (or
+decrease) in ﬂood  hazard may be offset by a stronger decrease (or
+increase) in other parts of the same NUTS2 region. In the lower
+reaches of the Danube (Romania and Bulgaria), for example, the
+projected decrease in ﬂoods  in many of the smaller tributaries is
+offset by the increase in ﬂoods  projected for the main river reach.
+This results in an overall increase of expected annual damages for
+these regions (blue in Fig. 7), even though most small tributaries in
+this areas show a decrease in ﬂood  hazard. At the same time, small
+changes in ﬂood  magnitude (i.e. Q100) can result in considerable
+changes in ﬂood  recurrence period and, thus, in the expected
+annual damages. A strong (mostly positive) change in ﬂood
+magnitude for a particular model will therefore more strongly
+impact the ensemble-average  damages than the ensemble-
+average ﬂood  magnitude. Finally, damages are largely determined
+by the exposed assets. Hence, changes in expected annual
+damages are largely determined by the changes in ﬂoods  in the
+areas with high exposure such as urban zones, whereas changes in
+ﬂoods  in rural and agricultural  areas, which may differ from those
+in the high-exposed  areas, are less important in the overall
+damage ﬁgures.
+In general, from Fig. 7 a strong increase in expected annual
+damages from climate change can be observed particularly  in
+Western Europe, including the United Kingdom, Ireland, the
+Netherlands,  Belgium, (western parts of) France, as well as in Italy,
+along the Mediterranean  coasts of France and Spain, and in
+Finland and northern parts of Sweden. Areas showing a consistent
+decrease in damages values are the middle and downstream parts
+of the Vistula, Odra and Elbe catchments (Poland and Eastern
+Germany). In these regions snow-driven ﬂoods  are projected to
+decline due to rising temperatures,  offsetting the increase in
+summer and autumn rainfall ﬂoods  (see Rojas et al., 2012). Other
+regions that will likely see a reduction in ﬂood  damage are the
+northern parts of Spain and the southernmost  regions of Sweden.
+These changes in ﬂood  risk become more pronounced towards the
+end of the century.
+3.2.1. Expected annual damages by land use class
+Table 3 shows the aggregation of the expected annual damages
+into ﬁve  dominant land use classes, namely, residential properties,
+agriculture, transport, commerce and industry. About 82.3% of the
+damages relate to residential areas, 6.8% to industry, 4.9% to
+commerce, 4.7% to agriculture and only 1.3% to industry. As a static
+spatial distribution of the land use and hence exposed assets is
+assumed in this work, the distribution of the damages remains
+fairly constant over time in the analysis. These percentages,
+however, will most likely change due to land use dynamics. Feyen
+Fig. 6. Expected annual damage (percentage of GDP) by country for the (a) 2000s and (b) 2080s under scenario with combined effects of climate change and socio-economic
+development. Flood protection up to the current 100-year ﬂood  event is assumed constant in time. Ensemble-based average estimates and ﬁve-number  summaries based on
+12-member climate ensemble for the A1B scenario.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511746
+
+[[PAGE 11]]
+et al. (2009), for example, showed that the effect of increased
+exposure due to urban expansion of the Madrid region could
+outweigh the effect of climate change. Note that the assumption of
+a uniform protection level implies that protection is the same
+irrespective of the land use behind the protection measure. In
+agricultural areas protection is typically much lower than in urban
+areas. However, such ‘‘over-protection’’  of agricultural land has a
+negligible impact on the overall damage estimates, as reﬂected  by
+the share of agriculture damages to the total damage (see Table 3),
+which is below 5%.
+3.3. Avoided damages (beneﬁts) and indicative costs of adaptation in
+the European Union (EU)
+Avoided damages (beneﬁts)  are estimated on the basis of the
+risk management options described in Section 2.3. Here, we deﬁne
+the avoided damages, i.e. beneﬁts,  as the difference between
+damage estimates from the no adaptation scenario, i.e. constant
+protection levels consistent with a current 100-year event, and
+damage estimates from the adaptation scenario, i.e. protecting
+against the future 100-year event obtained for each time window
+analyzed.
+EU ensemble-based avoided damages under the SRES-A1B
+scenario are shown in Fig. 8. Ensemble-average avoided damages
+for EU are estimated at s 9.2 billion/year by the 2020s, s 21.8
+billion/year by the 2050s, and s 53.1 billion/year by the 2080s
+(constant 2006 prices, undiscounted), whereas for the ‘‘climate
+change only’’  scenario these estimates are below s 10 billion/year
+by the 2080s. At the country level (not shown here) we have
+identiﬁed  signiﬁcant  beneﬁts  for the United Kingdom, France, Italy
+and Hungary from upgrading protection levels to the future 100-
+year ﬂood  event. However, also Romania, the Czech Republic,
+Slovakia, Slovenia and Bulgaria would see large beneﬁts  relative to
+their GDP. Similar as the damage estimates, the beneﬁts  vary
+strongly with the climate simulations used to force LISFLOOD. For
+the 2080s, the interquartile range for the EU avoided damage
+Fig. 7. Changes in expected annual damages compared to the control period (1961–1990)  for the (a) 2000s, (b) 2020s, (c) 2050s, and (d) 2080s. Scenario with only climate
+change, with ﬂood  protection up to the current 100-year ﬂood  event assumed constant in time. Ensemble-based average estimates based on 12-member climate ensemble for
+the A1B scenario. Values are aggregated at administrative level NUTS2 regions. (For interpretation of the references to colour in the text, the reader is referred to the web
+version of the article.)
+Table 3
+EU expected annual damages (billions s/year) by land use class. Ensemble-based
+average from LISFLOOD simulations driven by the A1B scenario for the control
+(1961–1990)  and 2000s (1981–2010)  (in parenthesis) periods. Monetary values are
+in constant 2006 prices, undiscounted.
+Land use class Expected annual damage %
+Residential 4.50 (5.70) 82.3%
+Agriculture 0.26 (0.32) 4.7%
+Transport 0.07 (0.09) 1.3%
+Commerce 0.27 (0.36) 4.9%
+Industry 0.37 (0.48) 6.8%
+Total 5.47 (6.95) 100.0
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1747
+
+[[PAGE 12]]
+estimates spans from s 24.1 up to s 67 billion/year, with an upper
+maximum close to s 144 billion/year. When moving to the country
+level, the variations across the models become even more
+important for some countries, especially for the UK and France.
+It should be noted that even after implementing the adaptation
+measures, i.e. protecting against the future 100-year ﬂood  event,
+there are still ‘‘residual  damages’’.  Under the scenario accounting
+for climate change only, these damages are kept similar to current
+levels, i.e. ca. s 6 billion/year, along time. For the scenario
+considering climate and socio-economic change, however, the
+residual damages are estimated at s 11.2 billion/year by the 2020s,
+s 24.1 billion/year by the 2050s, and s 44.8 billion/year by the
+2080s (constant 2006 prices, undiscounted). For this scenario,
+residual damages are much higher since damages would rise even
+if minimum protection levels are maintained due to socio-
+economic growth. This suggests that higher levels of protection
+may be justiﬁed  in the future.
+The reduction in future damages by implementing  the risk
+management option adaptation , however, will come at a cost. To
+derive indicative costs of adaptation, the literature-based  BCR
+values discussed in Section 2.3 were combined with the
+projected beneﬁts.  This suggests that ensemble-averaged
+adaptation costs (per year) for the EU under the SRES-A1B
+scenario –  for the combined impact of socio-economic  and
+climate change –  might be of the order of s 1.7 billion by the
+2020s, s 3.4 billion by the 2050s, and s 7.9 billion by the 2080s
+(constant 2006 prices and undiscounted).  It is stressed that
+these indicative costs are subject to many factors, such as the
+shape of the marginal cost curve for increasing protection levels
+against increasing hydrological intensity, the balance between
+soft and hard options, and the balance of capital and operating
+costs, among others. Nonetheless,  they suggest that adaptation
+(i.e. enhanced protection) could be a highly cost-effective
+strategy.
+Fig. 8. EU potential beneﬁts  (avoided damages) due to adaptation (billions s/year) to maintain 1 in 100-year levels of ﬂood  protection. Ensemble-based average estimates and
+ﬁve-number  summary from LISFLOOD simulations driven by the A1B scenario. Monetary values are in constant 2006 prices, undiscounted.
+Table 4
+Total costs of adaptation in millions s/year and as a percentage of the current GDP
+for EU and member states assuming ﬂood  protection upgrade from current to future
+100-year ﬂood  event and average BCR of 4:1. Figures represent ensemble-based
+averages based on 12-member climate ensemble for A1B scenario. Monetary values
+are in constant 2006 prices, undiscounted.
+Country Code Costs of adaptation % GDP
+Austria AT 314.5 0.12
+Belgium BE 178.1 0.06
+Bulgaria BG 153.6 0.58
+Cyprus CY a –
+Czech Republic CZ 368.6 0.31
+Denmark DK 11.2 0.01
+Estonia EE 10.4 0.08
+Finland FI 323.4 0.20
+France FR 1019.9 0.06
+Germany DE 169.8 0.01
+Greece GR 43.6 0.02
+Hungary HU 424.6 0.47
+Ireland IE 52.4 0.03
+Italy IT 921.0 0.06
+Latvia LV 29.5 0.18
+Lithuania LT 33.7 0.14
+Luxembourg LU 6.8 0.02
+Malta MT a –
+Netherlands NL 256.9 0.05
+Poland PL 126.7 0.05
+Portugal PT 3.4 0.002
+Romania RO 443.6 0.45
+Slovakia SK 126.3 0.28
+Slovenia SI 220.7 0.71
+Spain ES 158.1 0.02
+Sweden SE 46.2 0.01
+United Kingdom UK 2439.2 0.12
+EU 7882.1 0.07
+a No results are reported as Cyprus (CY) was not included in the modelled domain
+and Malta (MT) did not include relevant river cells with upstream areas larger than
+1000 km2..
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511748
+
+[[PAGE 13]]
+While these estimates are only indicative, they do highlight
+some important issues. Countries with high expected annual
+damages are expected to have higher adaptation costs and for
+some countries (notably the United Kingdom) there would
+therefore be signiﬁcant  additional levels of investment required
+(see Table 4). While it is obvious that adaptation costs will not fall
+equally across Europe, this does have important implications.  The
+analysis of indicative adaptation costs (if incurred now) by
+country shown in Table 4 indicates that some countries in Eastern
+Europe would potentially have to spend a signiﬁcant  share of their
+current GDP to abate the future impacts from ﬂooding  in view of
+socio-economic  and climate changes –  notably Slovenia (0.7%),
+Bulgaria (0.6%), Romania and Hungary (both close to 0.45% of
+current GDP).
+4. Discussion and conclusions
+EU ensemble-based damage estimates for present conditions
+obtained in this work are in agreement with independent damage
+ﬁgures  obtained from ABI (2005) and EEA (2010). In addition, our
+damage estimates for the United Kingdom for present conditions
+(ca. s 900 million) compare reasonably well to country-scale
+damages for the United Kingdom by Hall et al. (2005) and Evans
+et al. (2004) (s 617–894  million). At the same time, our estimates
+for the expected annual population affected are in line with the
+250,000 people annually affected (on average) for the period 1998–
+2009 reported by the EEA (2010). These aspects suggest that our
+framework for risk assessment is robust and tenable for appraising
+the current ﬂood  risk.
+When interpreting the results obtained in this work, several
+notes on the large-scale approach employed in this study should be
+considered. The climate-related uncertainty may still be under-
+sampled, even though we used the largest consistent ensemble of
+high-resolution climate simulations currently available for Europe.
+Correcting for biases in the main meteorological drivers used to
+force LISFLOOD drastically improved the quality of the extreme
+discharge simulations during the validation period 1961–1990
+(see Rojas et al., 2011), however, after bias-correction there is no
+guarantee that the energy balance will be preserved. Uncertainty
+arising from the ﬁtting  of extreme value distributions used to
+obtain ﬂood  return levels, as well as hydrological uncertainty, has
+not been accounted for. For the ﬁrst,  Rojas et al. (2012) suggest this
+uncertainty might be relevant, especially for high return periods,
+whereas the second layer of uncertainty is recognized to be of
+secondary importance by some authors (see, e.g., Wilby, 2005;
+Najaﬁ  et al., 2011), while others regard it as important (see, e.g.,
+Bastola et al., 2011). Relevant factors such as ﬂow  velocity and
+content of sediments are not included in the damage assessment.
+Such factors can be incorporated in local-scale studies, however,
+for a large-scale approach the level of detail and information
+required renders the implementation not feasible. Analyzing the
+Elbe catchment ﬂood  in Germany in 2002, Kreibich et al. (2009)
+found, however, only a strong inﬂuence  of ﬂow  velocity on
+structural damages of road infrastructure, whereas monetary
+losses to residential buildings, companies and business interrup-
+tion were weak to non-existent. Moreover, only direct and tangible
+damages have been considered in this analysis; hence monetary
+estimates obtained here might be relatively conservative. There is
+also uncertainty associated to the value of the exposed assets as
+well as with depth-damage functions used for quantifying ﬂood
+risks. On this regard, de Moel and Aerts (2011) found for a small
+case study in the Netherlands that uncertainty in land-use data has
+a modest effect on the resulting damage estimate (about a factor
+1.2), whereas the main source of uncertainty relates to the value of
+the elements at risk and the depth-damage curves, which can
+jointly account for about a factor 4 in the total damage variation. A
+lack of information on these aspects at pan-European or country
+scale, however, renders it very difﬁcult  to include these factors in a
+robust uncertainty analysis. Finally, there is also a wide cascade of
+uncertainty associated with the socio-economic projections. This
+wider uncertainty has not been considered, but would substan-
+tially widen the ranges reported here.
+It may also be argued that land use dynamics can contribute to
+changes in future ﬂood  risk, thus contributing to increase
+uncertainty in our results. We are aware that there exist a number
+of land use projections for Europe (e.g. SCENAR I and II, EU-
+RURALIS, ETC-LUCI). These projections, however, show several
+discrepancies with the CORINE base map such as spatial resolution
+and number and types of land use classes. Moreover, these
+projections have a limited temporal horizon (typically up to 2020s
+or 2030s) and are driven by land use scenarios not fully compatible
+with the scenario (SRES-A1B) used in this analysis. It is worth
+noting that depth-damage relations used in this work are linked to
+CORINE land use classes and there is no straightforward procedure
+to link them with land use classes used by other classiﬁcations.  All
+these issues rendered the inclusion of alternative land use
+scenarios not feasible in the present study.
+Despite the limitations listed above, our study provides
+estimates of damages and population affected by river ﬂooding
+in the EU over the 21st century. Additionally, a ﬁrst  European-wide
+estimation of the avoided damages incurred to adapt to climate
+change is obtained by deﬁning  a risk management scenario in line
+with the EU Flood Directive (EC, 2007), which requires all member
+states to take adequate and coordinated measures to reduce ﬂood
+risk. At the same time, the ensemble-based approach used in this
+work allowed for the ﬁrst  time to explicitly account for the large
+variability in the climate signals (i.e. projected changes) simulated
+by different climate models and their impacts on the damage
+estimates. We acknowledge, however, that our results can deviate
+from those obtained by local ﬂood  risk assessments as they are
+typically based on more detailed information and physical process
+representation compared to large-scale approaches as the one used
+in this work. Therefore, there is room for conﬂicting  results when
+large-scale approaches are compared against catchment-scale
+studies. This highlights the need to deﬁne  clear objectives for
+analyses at speciﬁc  scales. Large-scale studies might be limited in
+representing small-scale processes; however, they prove to be
+useful in guiding European policies (e.g. EU Climate Adaptation
+Strategy) or the allocation of funding to cope with climate change
+impacts (e.g., Lung et al., 2012). Our estimates provide an
+indication of the potential future developments of ﬂood  risk
+under a changing climate and, through an indicative based
+analysis, of the possible costs faced to adapt to future ﬂood  hazard
+in the EU. Furthermore, we identiﬁed  ‘‘hot  spots’’  across Europe
+where a signiﬁcant  to mild increase in ﬂood  risk is expected. The
+latter could guide in-depth studies at national/catchment-scale
+accounting, for instance, for local mitigation/adaptation measures.
+Our estimates for annual damages and people affected show a
+large variability around the ensemble-mean values, thus,
+highlighting two important aspects. First, there is a high
+probability of obtaining biased damage estimates when only a
+single climate simulation is used as driver for the impact
+assessment; and second, an ensemble-based framework using as
+many GCM/RCM combinations seems the most reliable approach
+to account for this variability and provide robust damage
+estimates.
+Adaptation strategies to mitigate future ﬂood  risk can be
+deﬁned  depending on whether an economic efﬁciency  criterion
+(i.e. beneﬁts  vs. costs) or risk based criterion based around an
+acceptable level of protection is sought. The adaptation scenario
+implemented in this work is in line with a risk-based strategy and,
+as such, costs will be determined by the level of ﬂood  risk
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1749
+
+[[PAGE 14]]
+protection deﬁned,  in our case, the future 100-year ﬂood  event.
+This highlights an obvious but important point that the costs of
+adaptation depend on the framework and objectives set. Thus,
+countries/regions setting higher levels of ﬂood  risk protection will
+incur higher adaptation costs. Given the large climate variability,
+beneﬁts  and costs of adaptation also show a large variability across
+different countries/regions, highlighting the strong distributional
+patterns across the EU. The variability in the beneﬁts  –  and by
+implication the costs of adaptation –  across the ensemble-based
+results highlight the inherently unknown future, and suggests
+there is potential for mal-adaptation, i.e. under- or over-designing
+to provide adequate ﬂood  protection. Therefore, recognizing and
+adapting to this uncertainty requires an approach for adaptation
+that considers hard and soft measures, as well as integrated ﬂood
+and land management. Ultimately, the move towards such
+adaptation approach must be framed in a site- and context-
+speciﬁc  response, preferably one that is based on iterative adaptive
+(risk) management.
+Our results suggest that future damages and people affected by
+river ﬂoods  in the EU are expected to considerably increase due to
+the combined impact of climate and socio-economic change. This
+ﬁnding  is in agreement with the results by Feyen et al. (2012) and
+Jongman et al. (2012). Our estimates suggest that by the end of the
+21st century (2071–2100)  ensemble-based EU damages could
+reach s 98 billion/year (constant 2006 prices, undiscounted).
+Increasing protection levels to the future 100-year ﬂood  event
+could lead to avoided damages (beneﬁts)  of s 53 billion/year. At
+the country level, the United Kingdom, France and Italy in Western
+Europe as well as Romania, Hungary, and Czech Republic in Eastern
+Europe, show the highest absolute damage estimates, and by
+association, are likely to bear the highest costs of adaptation. These
+results are in line with the current ﬂood  risk assessment performed
+for Europe by Lugeri et al. (2010), where the same regions appeared
+to be under signiﬁcant  threat. Residual damages, i.e. damages
+remaining after implementing adaptation measures, amount to ca.
+s 45 billion/year for the EU, suggesting that even higher levels of
+risk protection could be justiﬁed  and needed in the future.
+In terms of population, people affected by ﬂoods  could reach
+360,000 inhabitants/year, again with the same countries as above
+dominating the impacts.
+These results indicate that increasing ﬂood  risks could be one of
+the major impacts of climate change across Europe. Future changes
+in the socio-economic dimension could be as relevant as climate
+change in increasing future ﬂood  risks. Therefore, any action to
+address future ﬂood  risks needs to consider these two dimensions
+in the analysis and the responses. At the policy level, the high
+degree of variability derived from the climate simulations seems to
+reinforce the idea of stimulating ﬂexible,  soft non-structural
+measures of adaptation (e.g. spatial planning and watershed
+management, ﬂood  forecast and warning systems), which could be
+implemented through an adaptive management and with portfo-
+lios of strategies. Across Europe, regions where future risks will be
+considerably higher might require external funding to bear the
+increasing costs that potential adaptation strategies might
+demand.
+Acknowledgements
+We acknowledge past and present collaborators at the JRC who
+have for several years assisted in developing and calibrating the
+hydrological model LISFLOOD. This work received funding from
+the EU-FP7 project ClimateCost (Full Costs of Climate Change,
+Grant Agreement 212774, http://www.climatecost.cc/). Data used
+in this work was funded by the EU-FP6 project ENSEMBLES
+(Contract number 505539, http://ensembles-eu.metofﬁce.com/ )
+whose support is gratefully acknowledged. We thank A. Bianchi for
+preparing some of the ﬁgures  used in this work. The authors thank
+three anonymous reviewers whose valuable comments helped
+improving the original manuscript.
+References
+ABI, 2005. Financial Risks of Climate Change. Summary Report. Association of
+British Insurers. URL: http://www.abi.org.uk/Publications/ABI_Publications_Fi-
+nancial_Risks_of_Climate_Change_d07.aspx. by Climate Risk Management &
+Metroeconomica & AIR.
+Barredo, J.I., 2009. Normalised ﬂood  losses in Europe: 1970–2006.  Natural Hazards
+and Earth System Science 9, 97–104 , http://dx.doi.org/10.5194/nhess-9-97-2009.
+Bastola, S., Murphy, C., Sweeney, J., 2011. The role of hydrological modelling
+uncertainties in climate change impact assessments of Irish river catchments.
+Advances in Water Resources 34, 562–576 , http://dx.doi.org/10.1016/j.advwa-
+tres.2011.01.008.
+Bates, P., de Roo, A., 2000. A simple raster-based model for ﬂood  inundation simula-
+tion. Journal of Hydrology 236, 54–77 , http://dx.doi.org/10.1016/S0022-
+1694(00)00278-X.
+Broekx, S., Smets, S., Liekens, I., Bulckaen, D., Nocker, L., 2011. Designing a long-term
+ﬂood  risk management plan for the scheldt estuary using a risk-based approach.
+Natural Hazards 57, 245–266 , http://dx.doi.org/10.1007/s11069-010-9610-x.
+Brown, S., Nicholls, R., Vafeidis, A., Hinkel, J., Watkiss, P., 2011. The Impacts and
+Economic Costs of Sea-level Rise in Europe and the Costs and Beneﬁts  of
+Adaptation. Summary of Results from the EC RTD ClimateCost Project. The
+ClimateCost Project. Final Report. Europe, vol. 1. Stockholm Environment
+Institute, Sweden. URL: http://www.climatecost.cc/images/Policy_brief_2_-
+Coastal_10_lowres.pdf. ISBN: 978-91-86125-35-6.
+Christensen, J., Christensen, O., 2007. A summary of the PRUDENCE model projec-
+tions of changes in European climate by the end of this century. Climatic Change
+81, 7–30 , http://dx.doi.org/10.1007/s10584-006-9210-7.
+Collins, M., Booth, B., Harris, G., Murphy, J., Sexton, D., Webb, M., 2006. Towards
+quantifying uncertainty in transient climate change. Climate Dynamics 27,
+127–147 , http://dx.doi.org/10.1007/s00382-006-0121-0.
+Dankers, R., Feyen, L., 2009. Flood hazard in Europe in an ensemble of regional
+climate scenarios. Journal of Geophysical Research 114, 1–16 , http://dx.doi.org/
+10.1029/2008JD011523.
+de Kok, J., Grossmann, M., 2010. Large-scale assessment of ﬂood  risk and the effects
+of mitigation measures along the Elbe river. Natural Hazards 52, 143–166 ,
+http://dx.doi.org/10.1007/s11069-009-9363-6.
+Dehnhardt, A., Hirschfeld, J., Dru¨ nkler, D., Peschow, U., Engel, H., Hammer, M., 2008.
+Kosten-Nutzen-Analyse von Hochwasserschutzmaßnahmen. Forschungsber-
+icht 204 21 212 UBA-FB 001169. Umweltforschungsplan des Bundesminister-
+iums fu¨ r Umwelt, Naturschutz und Reaktorsicherheit.
+Dosio, A., Paruolo, P., Rojas, R., 2012. Bias correction of the ENSEMBLES high
+resolution climate change projections for use by impact models: Analysis of
+the climate change signal. Journal of Geophysical Research: Atmospheres 117
+(D17) , http://dx.doi.org/10.1029/2012JD017968.
+EA, 2009. Investing for the future: Flood and coastal risk management in England –
+A long-term investment strategy. Technical Report. UK Environment Agency.
+URL: http://publications.environment-agency.gov.uk/pdf/GEHO0609BQDF-E-
+E.pdf, 24 pp.
+EA, 2010. Future ﬂooding  in Wales: ﬂood  defences –  Possible long-term investment
+scenarios. Technical Report. UK Environment Agency. URL: http://www.envir-
+onment-agency.gov.uk/static/documents/Research/Flooding_in_Wales_-
+Flood_defences_ENGLISH_V5.pdf, 32 pp.
+EC, 2007. Directive 2007/60/EC of the European Parliament and of the Council.
+Technical Report. European Commission. URL: http://eur-lex.europa.eu/LexUr-
+iServ/LexUriServ.do?uri=CELEX:32007L0060:EN:NOT. published in the Ofﬁcial
+Journal of the European Union, L 288/27, 6 November 2007, 8 pp.
+EEA, 2002. Corine Land Cover 2000. Technical Report 89. European Commission,
+European Environment Agency (EEA). URL: http://dataservice.eea.europa.eu/
+EEA, 2010. Mapping the impacts of natural hazards and technological accidents in
+Europe –  an overview of the last decade. EEA Technical Report. European
+Environment Agency, Copenhagen, Denmark, http://dx.doi.org/10.2800/
+62638 144 pp. 13/2010, ISSN 1725-2237.
+Elmer, F., Hoymann, J., Du¨ thmann, D., Vorogushyn, S., Kreibich, H., 2012. Drivers of
+ﬂood  risk change in residential areas. Natural Hazards and Earth System Science
+12, 1641–1657 , http://dx.doi.org/10.5194/nhess-12-1641-2012.
+Evans, E., Ashley, R., Hall, J., Penning-Rowsell, E., Saul, A., Sayers, P., Thorne, C.,
+Watkinson, A., 2004. Foresight Future Flooding, Scientiﬁc  Summary, Future
+risks and their drivers, vol. 1. Technical Report. Ofﬁce  of Science and Technolo-
+gy, London, United Kingdom 366 pp.
+Feyen, L., Barredo, J., Dankers, R., 2009. Implications of global warming and urban
+land use change on ﬂooding  in Europe. In: Feyen, J., Shannon, K., Neville, M.
+(Eds.), Water & Urban Development Paradigms –  Towards an Integration of
+Engineering, Design and Management Approaches, KU Leuven. CRC Press,
+Balkema, Leiden, The Netherlands, pp. 217–225,  URL: http://publications.jrc.e-
+c.europa.eu/repository/handle/111111111/7650.
+Feyen, L., Dankers, R., Bodis, K., Salamon, P., Barredo, J., 2012. Fluvial ﬂood  risk in
+Europe in present and future climates. Climatic Change 112, 47–62 , http://
+dx.doi.org/10.1007/s10584-011-0339-7.
+Feyen, L., Kalas, M., Vrugt, J., 2008. Semi-distributed parameters for large-scale
+streamﬂow  simulation using global optimization. Hydrological Sciences Journal
+53, 293–308 , http://dx.doi.org/10.1623/hysj.53.2.293.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–17511750
+
+[[PAGE 15]]
+Feyen, L., Vrugt, J., O´ Nualla´ in, B., van der Knijff, J., de Roo, A., 2007. Parameter
+optimization and uncertainty assessment for large-scale streamﬂow  simulation
+with the LISFLOOD model. Journal of Hydrology 332, 276–289 , http://
+dx.doi.org/10.1016/j.jhydrol.2006.07.004.
+Fo¨ rster, S., Kneis, D., Gocht, M., Bronstert, A., 2005. Flood risk reduction by the use of
+retention areas at the Elbe river. International Journal of River Basin Manage-
+ment 3, 21–29 , http://dx.doi.org/10.1080/15715124.2005.9635242.
+Fosˇ umpaur, P., 2005. Optimalizace protipovodnˇ ove´ ochrany. In: Workshop 2005 –
+VZ ‘‘Udrzˇ itelna´ vy´ stavba’’,  Prague.
+Fowler, H., Ekstro¨ m, M., 2009. Multi-model ensemble estimates of climate change
+impacts on UK seasonal precipitation extremes. International Journal of Clima-
+tology 29, 385–416 , http://dx.doi.org/10.1002/joc.1827.
+Frei, C., Scho¨ ll, R., Fukutome, S., Schmidli, J., Vidale, P.L., 2006. Future change of
+precipitation extremes in Europe: intercomparison of scenarios from regional
+climate models. Journal of Geophysical Research: Atmospheres 111, http://
+dx.doi.org/10.1029/2005JD005965.
+Gallego, J., Peedell, S., 2001. Using CORINE land cover to map population density.
+Towards agri-environmental indicators. Topic Report 6. European Environment
+Agency, Copenhagen, Denmark.
+Hall, J., Sayers, P., Sawson, R., 2005. National-scale assessment of current and future
+ﬂood  risk in England and Wales. Natural Hazards 36, 147–164 , http://
+dx.doi.org/10.1007/s11069-004-4546-7.
+Huizinga, H., 2007. Flood damage functions for EU member states. Contract nr.
+382441-FISC awarded by the European Commission-Joint Research Centre. HKV
+Consultants.
+Johnson, C., Penning-Rowsell, E., Parker, D., 2007. Natural and imposed injustices:
+the challenges in implementing ‘fair’  ﬂood  risk management policy in England.
+Geographical Journal 173, 374–390 , http://dx.doi.org/10.1111/j. 1475-4959.
+2007.00256.x.
+Jongman, B., Kreibich, H., Apel, H., Barredo, J.I., Bates, P.D., Feyen, L., Gericke, A., Neal,
+J., Aerts, J.C.J.H., Ward, P.J., 2012. Comparative ﬂood  damage model assessment:
+towards a European approach. Natural Hazards and Earth System Science 12,
+3733–3752 , http://dx.doi.org/10.5194/nhess-12-3733-2012.
+Jongman, B., Ward, P.J., Aerts, J.C., 2012. Global exposure to river and coastal
+ﬂooding:  long term trends and changes. Global Environmental Change 22,
+823–835 , http://dx.doi.org/10.1016/j.gloenvcha.2012.07.004.
+Jonkman, S., Bockarjova, M., Kok, M., Bernardini, P., 2008. Integrated hydrodynamic
+and economic modelling of ﬂood  damage in the Netherlands. Ecological Eco-
+nomics 66, 77–90 , http://dx.doi.org/10.1016/j.ecolecon.2007.12.022, Special
+section: Integrated Hydro-Economic Modelling for Effective and Sustainable
+Water Management.
+Kendon, E., Jones, R., Kjellstro¨ m, E., Murphy, J., 2010. Using and designing GCM–RCM
+ensemble regional climate projections. Journal of Climate 23, 6485–6503 ,
+http://dx.doi.org/10.1175/2010JCLI3502.1.
+Kreibich, H., Piroth, K., Seifert, I., Maiwald, H., Kunert, U., Schwarz, J., Merz, B.,
+Thieken, A.H., 2009. Is ﬂow  velocity a signiﬁcant  parameter in ﬂood  damage
+modelling? Natural Hazards and Earth System Science 9, 1679–1692 , http://
+dx.doi.org/10.5194/nhess-9-1679-2009.
+Kundzewicz, Z., Graczyk, D., Maurer, T., Pin´ skwar, I., Radziejewski, M., Svensson, C.,
+Szwed, M., 2005. Trend detection in river ﬂow  series: 1. Annual maximum ﬂow.
+Hydrological Sciences Journal 50, 197–810.  doi: http://dx.doi.org/10.1623/
+hysj.2005.50.5.797.
+Kundzewicz, Z., Pin´ skwar, I., Brakenridge, R., 2013. Large ﬂoods  in Europe, 1985–
+2009. Hydrological Sciences Journal 58, 1–7 , http://dx.doi.org/10.1080/
+02626667.2012.745082.
+Kundzewicz, Z., Radziejewski, M., Pi¨ nskwar, I., 2006. Precipitation extremes in the
+changing climate of Europe. Climate Research 31, 51–58 , http://dx.doi.org/
+10.3354/cr031051.
+Lamothe, D., Neveu, G., Go¨ rlach, B., Interwies, E., 2005. Evaluation of the impacts of
+ﬂoods  and associated protection policies. European Commission DG Environ-
+ment, Contract no 07/0501/2004/389669. Ofﬁce  International de l’Eau  and
+Ecologic.
+te Linde, A.H., Bubeck, P., Dekkers, J.E.C., de Moel, H., Aerts, J.C.J.H., 2011. Future
+ﬂood  risk estimates along the river Rhine. Natural Hazards and Earth System
+Science 11, 459–473 , http://dx.doi.org/10.5194/nhess-11-459-2011.
+Lugeri, N., Kundzewicz, Z., Genovese, E., Hochrainer, S., Radziejewski, M., 2010. River
+ﬂood  risk and adaptation in Europe-assessment of the present status. Mitiga-
+tion and Adaptation Strategies for Global Change 15, 621–639 , http://
+dx.doi.org/10.1007/s11027-009-9211-8.
+Lung, T., Lavalle, C., Hiederer, R., Dosio, A., Bouwer, L., 2012. A multi-hazard regional
+level impact assessment for Europe combining indicators of climatic and
+non-climatic change. Global Environmental Change, http://dx.doi.org/
+10.1016/j.gloenvcha.2012.11.009.
+Merz, B., Kreibich, H., Schwarze, R., Thieken, A., 2010. Review article ‘‘assessment  of
+economic ﬂood  damage’’.  Natural Hazards and Earth System Science 10, 1697–
+1724, http://dx.doi.org/10.5194/nhess-10-1697-2010.
+Messner, F., Penning-Rowsell, E., Green, C., Meyer, V., Tunstall, S., van der Veen, A.,
+2007. Evaluating ﬂood  damages: guidance and recommendations on principles
+and methods. Integrated ﬂood  risk analysis and management methodologies
+TP-06-01. FLOODsite Project. .
+Mitchell, J., 2003. European river ﬂoods  in a changing world. Risk Analysis 23, 567–
+574, http://dx.doi.org/10.1111/1539-6924.00337.
+de Moel, H., Aerts, J., 2011. Effect of uncertainty in land use, damage models and
+inundation depth on ﬂood  damage estimates. Natural Hazards 58, 407–425 ,
+http://dx.doi.org/10.1007/s11069-010-9675-6.
+Mudelsee, M., Bo¨ rngen, M., Tetzlaff, G., Gru¨ newald, U., 2003. No upward trends in
+the occurrence of extreme ﬂoods  in central Europe. Nature 425, 166–169 ,
+http://dx.doi.org/10.1038/nature01928.
+Najaﬁ,  M., Moradkhani, H., Jung, I., 2011. Assessing the uncertainties of hydrologic
+model selection in climate change impact studies. Hydrologcial Processes 25,
+2814–2826 , http://dx.doi.org/10.1002/hyp.8043.
+Nakicenovic, N., Swart, R., 2000. IPCC Special Report on Emissions Scenarios.
+Cambridge University Press, Cambridge, UK.
+Nikulin, G., Kjellstro¨ m, E., Hansson, U., Strandberg, G., Ullerstig, A., 2011. Evaluation
+and future projections of temperature, precipitation and wind extremes over
+Europe in an ensemble of regional climate simulations. Tellus A 63, 41–55 ,
+http://dx.doi.org/10.1111/j.1600-0870.2010.00466.x.
+Parry, M., Lowe, J., Hanson, C., 2009. Overshoot, adapt and recover. Nature 458,
+1102–1103 , http://dx.doi.org/10.1038/4581102a.
+Petrascheck, A., 2003. The ‘‘Action  plan on Flood Defence’’  of the International
+Commission for the Protection of the Rhine as an example for European Co-
+operation. In: Flood Prevention –  an international exchange of experiences.
+Workshop, Bonn, Germany, In: http://www.ecologic-events.de/ﬂoods2003/de/
+documents/ArminPetrascheck.PDF.
+Rojas, R., Feyen, L., Bianchi, A., Dosio, A., 2012. Assessment of future ﬂood  hazard in
+Europe using a large ensemble of bias-corrected regional climate simulations.
+Journal of Geophysical Research 117, D17109, http://dx.doi.org/10.1029/
+2012JD017461.
+Rojas, R., Feyen, L., Dosio, A., Bavera, D., 2011. Improving pan-European hydrological
+simulation of extreme events through statistical bias correction of RCM-driven
+climate simulations. Hydrology and Earth System Sciences 15, 2599–2620 ,
+http://dx.doi.org/10.5194/hess-15-2599-2011.
+Satrapa, L., Fosˇ umpaur, P., Martin, H., 2006. Mozˇ nosti a ekonomicka´ efektivnost
+protipovodnˇ ovy´ ch opatrenı´ . Rocˇ nı´ k IX Cˇ I´ SLO 5/2006. Urbanismus a u´ zemnı´
+rozvoj.
+UNFCCC, 2009. Efforts undertaken to assess the costs and beneﬁts  of adaptation
+options, and views on lessons learned, good practices, gaps and needs. Technical
+Report FCCC/SBSTA/2009/MISC.9/Rev.1. Subsidiary body for scientiﬁc  and tech-
+nological advice, thirty-ﬁrst  session. Copenhagen. .
+van der Knijff, J., Younis, J., de Roo, A., 2010. LISFLOOD: a GIS-based distributed
+model for river basin scale water balance and ﬂood  simulation. International
+Journal of Geographical Information Science 24, 189–212 , http://dx.doi.org/
+10.1080/13658810802549154.
+van der Linden, P., Mitchell, J., 2009. ENSEMBLES: Climate change and its impacts:
+Summary of research and results from the ENSEMBLES project. Technical
+Report. Met Ofﬁce  Hadley Centre. URL: http://ensembles-eu.metofﬁce.com/
+docs/Ensembles_ﬁnal_report_Nov09.pdf .
+Ward, P.J., de Moel, H., Aerts, J.C.J.H., 2011. How are ﬂood  risk estimates affected by
+the choice of return-periods? Natural Hazards and Earth System Science 11,
+3181–3195 , http://dx.doi.org/10.5194/nhess-11-3181-2011.
+Whitﬁeld,  P., 2012. Floods in future climates: a review. Journal of Flood Risk Manage-
+ment 5, 336–365 , http://dx.doi.org/10.1111/j.1753-318X.2012.01150.x.
+Wilby, R., 2005. Uncertainty in water resource model parameters used for climate
+change impact assessment. Hydrological Processes 19, 3201–3219 , http://
+dx.doi.org/10.1002/hyp.5819.
+Wilby, R., Beven, K., Reynard, N., 2008. Climate change and ﬂuvial  ﬂood  risk in the
+UK: more of the same? Hydrological Processes 22, 2511–2523 , http://
+dx.doi.org/10.1002/hyp.6847.
+Zevenbergen, C., Gersonius, B., Puyan, N., ven Herk, S., 2007. Economic feasibility
+study of ﬂood  prooﬁng  domestic dwellings. In: Ashley, R., Garvin, S., Pasche, E.,
+Vassilopoulos, A., Zevenbergen, C. (Eds.), Advances in Urban Flood Manage-
+ment. Taylor & Francis, p. 499.
+R. Rojas et al. / Global Environmental Change 23 (2013) 1737–1751 1751

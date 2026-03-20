@@ -1,0 +1,852 @@
+[[PAGE 1]]
+Comprehensive Assessment of Flood Socioeconomic Impacts
+Through Text‐Mining
+Mariana Madruga de Brito
+1
+, Jan Sodoge
+1,2
+, Heidi Kreibich
+3
+, and Christian Kuhlicke
+1,2
+1
+Department of Urban and Environmental Sociology, UFZ‐Helmholtz Centre for Environmental Research, Leipzig,
+Germany,
+2
+Institute of Environmental Science and Geography, University of Potsdam, Potsdam‐Golm, Germany,
+3
+GFZ‐
+German Research Centre for Geosciences, Potsdam, Germany
+Abstract In July 2021, Germany experienced its costliest riverine floods in history, with over 189 fatalities
+and a staggering €33 billion in damages. Following this event, news outlets widely disseminated information on
+the flood's aftermath. Here, we demonstrate how newspaper data can be instrumental in the assessment of flood
+socioeconomic impacts often overlooked by conventional methods. Using natural language processing tools on
+26,113 newspaper articles, we estimate the cascading impacts of the 2021 flood on various sectors and critical
+infrastructure, including water contamination, mental health, and tourism. Our results revealed severe and
+lasting impacts in the Ahr Valley, even months after the event. At the same time, we identified smaller‐scale yet
+widespread impacts across Germany, which are typically overlooked by existing impact databases. Our
+approach advances current research by systematically examining indirect and intangible flood consequences
+over large areas. This underscores the value of leveraging complementary text data to provide a more
+comprehensive picture of flood impacts.
+1. Introduction
+Flood disasters are predicted to become more frequent in many regions due to climate, land use, and population
+demographic changes (Merz et al., 2021 ; Seneviratne et al., 2021 ), as well as the increasing interconnectedness of
+coupled human‐water systems (Fekete et al., 2021 ; Yoon et al., 2021 ). Despite this expected increase, our
+knowledge of flood's direct and indirect impacts remains fragmented. Existing studies based on damage functions
+(Carrera et al., 2015 ; Merz et al., 2010 ) and surveys (Kreibich et al., 2010 ) often provide only a partial picture of
+flood consequences. A major challenge of these studies is that they often focus on direct impacts and analyze only
+one impact type at a time. Examples include the assessment of impacts on critical infrastructure (e.g., Qiang
+et al., 2020 ), agriculture (e.g., Chen et al., 2019 ; Rahman & Di, 2020 ; Tapia‐Silva et al., 2011 ), buildings (e.g.,
+Gerl et al., 2014 ; Serpico et al., 2012 ), and fatalities (e.g., Papagiannaki et al., 2022 ). Moreover, detailed impact
+estimation studies often have a limited geographic scope. For instance, assessments of mental health distress due
+to floods, while detailed, are often restricted to single neighborhoods or districts (e.g., Francesca & Fie-
+drich, 2024 ; Zenker et al., 2024 ). These limitations are linked to difficulties in obtaining reliable estimates for
+diverse impact types simultaneously due to the time‐or data‐intensive nature of conventional impact assessment
+methods (Carrera et al., 2015 ; Kreibich et al., 2010 ; Merz et al., 2010 ).
+An additional gap in impact assessments refers to the emphasis on severe and large‐scale floods. Nevertheless,
+99.7% of all disasters worldwide between 1990 and 2013 were smaller events involving fewer than 30 deaths or
+less than 5,000 houses destroyed (UNISDR, 2015 ). Thousands of smaller‐scale floods thus go unrecorded
+because they do not generate sufficiently high impacts at the national or international levels. However, they cause
+a continuous stream of local losses (UNDRR, 2021 ). As a result, flood impacts have historically been under-
+estimated (Sanders et al., 2022 ).
+The scarcity of data sets covering both direct and indirect impacts, as well as low and high‐impact events,
+constrains our ability to understand the far‐reaching consequences of floods (de Brito et al., 2024 ). Hence,
+comprehensive assessments of how floods affect society can better support effective adaptation. Impact data
+covering diverse sectors (e.g., tourism, agriculture, infrastructure), including tangible and intangible losses, are
+needed to improve our understanding of impact dynamics (Kellermann et al., 2020 ) and serve as validation data
+for impact‐based forecasting systems (Mitheu et al., 2023 ). Such assessments can equip decision‐makers with a
+deeper understanding of all the potential flood consequences. Based on that, they can identify areas with severe
+RESEARCH ARTICLE
+10.1029/2024WR037813
+Key Points:
+• Text‐based impact assessments can
+provide a comprehensive picture of
+flood impacts at a large spatial scale
+• Our approach allows capturing a wider
+range of impact classes compared to
+conventional assessments (e.g., mental
+health, tourism)
+• While the Ahr river was the most
+affected region, smaller‐scale events
+also occurred throughout Germany in
+2021
+Supporting Information:
+Supporting Information may be found in
+the online version of this article.
+Correspondence to:
+M. Madruga de Brito,
+mariana.brito@ufz.de
+Citation:
+Madruga de Brito, M., Sodoge, J.,
+Kreibich, H., & Kuhlicke, C. (2025).
+Comprehensive assessment of flood
+socioeconomic impacts through text‐
+mining. Water Resources Research , 61 ,
+e2024WR037813. https://doi.org/10.1029/
+2024WR037813
+Received 22 APR 2024
+Accepted 7 NOV 2024
+Author Contributions:
+Conceptualization: Mariana Madruga de
+Brito, Heidi Kreibich, Christian Kuhlicke
+Data curation: Mariana Madruga de Brito
+Formal analysis: Mariana Madruga de
+Brito, Heidi Kreibich
+Funding acquisition: Mariana Madruga
+de Brito, Heidi Kreibich
+Investigation: Mariana Madruga de Brito,
+Heidi Kreibich
+Methodology: Mariana Madruga de Brito,
+Jan Sodoge
+Project administration:
+Mariana Madruga de Brito,
+Christian Kuhlicke
+Resources: Mariana Madruga de Brito
+Software: Mariana Madruga de Brito,
+Jan Sodoge
+© 2024. The Author(s).
+This is an open access article under the
+terms of the Creative Commons
+Attribution License, which permits use,
+distribution and reproduction in any
+medium, provided the original work is
+properly cited.
+MADRUGA DE BRITO ET AL. 1 of 15
+
+
+[[PAGE 2]]
+damages (Kryvasheyeu et al., 2016) as well as those with low impacts but which face frequent “nuisance” floods
+(Moftakhari et al., 2018).
+As researchers face the need for comprehensive methods to produce impact data sets, the use of text data for
+extracting information on natural hazard consequences is flourishing (e.g., Alencar et al., 2024; de Brito
+et al., 2020; Franceschini et al., 2022; Hao & Wang, 2020; Li et al., 2021; Liu & Jensen, 2018). Texts offer a rich
+yet untapped complement to the more structured data types traditionally used in research (Gentzkow et al., 2019;
+Nunes Carvalho et al., 2024). Texts are essential to our lives—they are how historical events are recorded, and
+citizens' concerns are documented. Within this context, computational text analysis offers a unique opportunity to
+automatically extract information on flood impacts stored in vast amounts of text. While natural language pro-
+cessing (NLP) tools have proven effective in detecting drought impacts from newspaper articles (e.g., Alencar
+et al., 2024; Sodoge et al., 2023), their applicability to flood events is yet to be tested. Floods, characterized by
+their brief and localized nature, present distinct challenges compared to droughts' long‐lasting and widespread
+nature. Therefore, leveraging newspapers for flood impact analysis presents unique challenges.
+Here, we use newspaper texts to infer the socioeconomic impacts of the July 2021 floods in Germany, particularly
+in the Ahr River region but also in the South and East of the country. The disaster in the Ahr River was Germany's
+most severe flood event ever recorded, with unprecedented impacts and unmatched precipitation values (Jun-
+ghänel et al., 2021; Kreienkamp et al., 2021; Kuhlicke et al., 2024). It affected more than 40,000 people (Zeit
+Online, 2021), causing over 189 direct fatalities and at least €33 billion in damage (Dietze et al., 2022; Fekete &
+Sandholz, 2021; Kron et al., 2022; Thieken et al., 2022). The main flood event occurred between the 12th and 19th
+of July, with an estimated return period exceeding 500 years in the Ahr River (Kreienkamp et al., 2021). Given its
+widespread consequences and extensive media coverage, we view this disaster as a test case for investigating
+whether newspaper articles can provide reliable data on flood impacts for both large and small‐scale events. By
+examining this extreme case, we can verify whether minor floods happening far from the catastrophe in the Ahr
+River area are potentially “ignored” by the media or if it is possible to capture them based on local and regional
+news outlets.
+Our study provides a comprehensive overview of the multifaceted effects of the 2021 floods in Germany,
+demonstrating that newspaper articles constitute a rich data source to assess flood socioeconomic impacts for both
+large and small‐scale events. Using NLP tools on a newspaper corpus, we provide empirical insights into the
+impacts of the 2021 floods in Germany and their varying spatio‐temporal magnitude. We examine indirect and
+intangible impacts often neglected by conventional methods. As such, our NLP‐based model shifts the focus away
+from damages to buildings and fatalities to encompass 20 distinct socioeconomic impact classes (e.g., mental
+health, water contamination). We evaluate our text‐based estimates of impacts against a series of independently
+collected data to examine if the news media reporting is linked to observed water levels and to how the gov-
+ernment perceived the flood consequences (i.e., by declaring a status of emergency).
+2. Methods
+2.1. Newspaper Data Collection and Pre‐Processing
+We used NLP tools to determine text patterns that predict the socioeconomic impacts of floods on multiple sectors
+based on newspaper data from a news aggregator database (www.wiso‐net.de). All the 250 printed and online
+news outlets within the Wiso newspaper database were considered. These comprise 144 local, 63 regional, and 43
+national outlets (see Table S1 in Supporting Information S1 for a list of all newspapers included). To identify
+relevant articles published in these 250 news outlets between 01.07.2021 and 31.12.2021, we searched the title
+and subtitle of the articles using various flood‐related keywords in German (Box 1). We tested different sets of
+synonyms for “flood” and manually examined the outcomes to verify whether all relevant articles were captured.
+Following the approach by Hase et al. (2021), we optimized our search to prioritize recall, that is, including a few
+irrelevant articles for the sake of completeness. To filter out news mentioning floods in other countries, we only
+considered articles with a country tag related to Germany. The accuracy of our search was verified by randomly
+evaluating a sample of 100 articles. By manually inspecting these, we found that all were related to floods, with
+only four referencing floods outside Germany. These irrelevant articles were later excluded by our location
+extraction approach (see Section 2.5). Based on this search, we retrieved 26,113 articles covering local, regional,
+and national news. An overview of the procedure used to create the multi‐sector impact database is provided
+Figure S1 in Supporting Information S1.
+Supervision: Heidi Kreibich,
+Christian Kuhlicke
+Validation: Mariana Madruga de Brito,
+Jan Sodoge
+Visualization: Mariana Madruga de Brito
+Writing – original draft:
+Mariana Madruga de Brito, Jan Sodoge,
+Heidi Kreibich, Christian Kuhlicke
+Writing – review & editing:
+Mariana Madruga de Brito, Jan Sodoge,
+Heidi Kreibich, Christian Kuhlicke
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 2 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Box 1. Search Keywords Used in the Title and Subtitle of Newspaper Articles. A
+Translation to English Is Also Provided
+German (original) : Hochwasser* OR Überschwemmung* OR Überflutung* OR “heftiger Regen” OR
+Sturzflut OR Starkreg* OR Flutkatastrop*
+English (translation) : flood* OR inundation* OR flooding* OR “heavy rain” OR “flash flood” OR
+“heavy rain” OR “catastrophic flood*”
+To ensure that our corpus consisted of unique articles, we computed Jaccard similarity scores for all article pairs.
+The Jaccard score measures the proportion of shared word sequences between two texts (Mullen, 2016 ). After
+analyzing the articles' similarity histogram and manually reading 30 article pairs, we removed duplicate articles
+with a similarity score greater than 0.75, where 1 indicates full similarity. This process left 14,888 unique articles
+for further analysis (Figure 1 ), with an average length of 467 words.
+We cleaned the raw text data by decomposing each newspaper article into single words and converting them to
+their root form through lemmatizetion. Furthermore, we removed special characters, stopwords (e.g., pronouns,
+articles), words that consisted of less than two characters, and words used less than 10 times in the entire corpus.
+2.2. Impact Typology
+To classify the articles according to specific impacts, we developed a multi‐sector flood socioeconomic impacts
+typology using both inductive and deductive approaches. For the inductive one, we built a topic model to explore
+the text corpora and identify key topics directly from the data. By doing so, we wanted to avoid missing relevant
+impacts that were not considered in previous studies. Topic modeling is an NLP technique that allows for
+discovering latent topics in the text without requiring predefined classes (Salley et al., 2024 ). In this study, we
+used the Latent Dirichlet Allocation (LDA) algorithm. LDA assumes that each document is a mixture of topics
+and each topic is a distribution of words. Topic coherence was used to determine the optimal number of topics, as
+it offers a quantitative assessment of the meaningfulness and organization of topics within a corpus. After testing
+topic coherence across different numbers of topics (i.e., from 10 to 120), we set the number of topics to 65. The
+Figure 1. Sankey plot with the steps of impact classification assessment procedure and the number of articles in each step. NUTS 3 (Nomenclature of Territorial Units for
+Statistics) comprises 401 German districts.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 3 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+LDA results consisted of a list of the most common words for each topic (Table S2 in Supporting Information S1 ).
+This provided insight into the themes mentioned in the articles, such as economic losses and damages to transport.
+However, as this is an unsupervised method, the results are not necessarily related to the consequences of
+flooding, and many unrelated topics were identified (e.g., topic 14 deals with political parties).
+While informative, the LDA results overlooked particular impact types (e.g., tourism, water contamination,
+agriculture, and livestock) and were not specific enough to assess flood impacts accurately. In fact, unsupervised
+approaches like LDA are known to fail to capture the nuances and specificity needed for identifying underrep-
+resented classes (Thielmann et al., 2023 ). To address this limitation, we also followed a knowledge‐driven
+deductive approach, leveraging the co‐authors’ expertise in flood impact assessment and previous research on
+the flood consequences (e.g., Hammond et al., 2015 ; Koks et al., 2022 ; Papagiannaki et al., 2022 ). As a result, we
+developed a comprehensive typology of 20 multi‐sector flood socioeconomic impact classes (Table S3 in Sup-
+porting Information S1 ). It incorporates key impact classes commonly included in flood impact assessments (e.g.,
+economic losses, fatalities, and damage to buildings) while exploring additional classes rarely examined (e.g.,
+flood impacts on tourism and mental health).
+2.3. Impact Data Annotation
+After defining this typology, we manually read and annotated a random subset of the unique articles with these 20
+specific impact categories. In order to build accurate machine learning classification models, we aimed for at least
+50 positive labels (e.g., articles reporting an impact) for each impact class. Since some articles mentioned multiple
+impact classes, we annotated only 640 articles, totaling 1,582 positive impact labels (for the number of labeled
+data per impact class, see Table S5 in Supporting Information S1 ).
+The articles were hand‐coded by the first author with the support of a student assistant, following the principles of
+qualitative content analysis (de Brito et al., 2021 ; Schreier, 2012 ). Both annotators initially coded the same set of
+50 articles to ensure consistency. This process was then repeated with a set of 100 documents. By this stage, we
+achieved an average agreement of 96% (F1‐score), indicating high reliability in our annotations. However, a
+higher number of annotators is preferred when feasible. The resulting annotated impact data set formed the basis
+for evaluating all impact classification models.
+2.4. Classification Models for the Assessment of Floods' Socioeconomic Impacts
+We developed five multilabel classification models to assess flood's socioeconomic impacts from the unique
+articles ( n = 14,888). The term “multilabel” implies that each article may contain multiple impact classes. To
+construct these models, we considered both dictionary‐based as well as machine‐learning approaches.
+To develop the dictionary‐based algorithm, we relied on domain knowledge and dictionaries from previous
+studies (e.g., Alderman et al., 2012 ; de Brito et al., 2020 ; Saulnier et al., 2017 ; Yari et al., 2020 ). We also analyzed
+word frequencies, word co‐occurrences, and topic modeling results (Table S2 in Supporting Information S1 ). For
+each impact class, we considered a series of seed keywords (e.g., energy, transportation) and used the word2vec
+algorithm (Jan Wijffels et al., 2023 ) to identify similar terms. This approach measures the semantic similarity
+between words and helped us to expand the dictionary. All co‐authors, who have in‐depth expertise in flood
+impact assessment, contributed to selecting relevant keywords. The resulting dictionary (Table S4 in Supporting
+Information S1 ) was used to identify sentences where these keywords occurred and tag them as related to a given
+impact class.
+In addition to the dictionary‐based approach, we also tested four machine learning models using the Python scikit‐
+multilearn library (Szymánski & Kajdanowicz, 2019 ): (a) logistic regression, (b) support vector machine, (c)
+random forest, and (d) XGboost. A description of each of these models is provided in the scikit‐multilearn library
+user guide (Szyma & Kajdanowicz, 2016 ). To train and test the models, we randomly split the annotated data set
+( n = 640) into 70% for training and 30% for testing.
+We evaluated the predictions of all five models against the manually annotated data set ( n = 640 articles). To do
+so, we computed performance metrics such as accuracy (Equation 1 ), precision (Equation 2 ), recall (Equation 3 ),
+and F1‐score (Equation 4 ).
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 4 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+Accuracy =
+True negative + True positive
+True positive + False positive + True negative + False negative
+( 1 )
+Precision =
+True positive
+True positive + False positive
+( 2 )
+Recall =
+True positive
+True positive + False negative
+( 3 )
+F 1 score = 2 ×
+Precision × recall
+Precision + recall
+( 4 )
+2.5. Location Extraction
+Extracting location information from text is a challenging and extensively studied NLP task involving identifying
+and disambiguating place names (Li et al., 2024 ; Middleton et al., 2014 ; Zheng et al., 2018 ). Usually, studies
+attempt to identify all locations mentioned in a text (e.g., van Daalen et al., 2024 ). However, since our aim here
+was to assess the impacts of the 2021 floods, not all locations mentioned are relevant to the flood impacts. As
+such, additional steps were needed to ensure the location extraction results reflected the impacts locations.
+To extract the impact‐related locations in each article, we followed the three‐step method proposed by Sodoge
+et al. ( 2023 ) (see Figure S2 in Supporting Information S1 ). First, we used the Google BERT named entity
+recognition algorithm (Devlin et al., 2018 ) to identify all location names mentioned in the text. These include
+names of regions, cities, neighbourhoods, streets, and rivers. This procedure was done at the word or sequences of
+words level. This step resulted in a list with all locations mentioned in each article.
+Next, we matched the identified locations with the GeoNames gazetteer (GeoNames, 2022 ) to obtain their
+corresponding geographical coordinates. Given that the names of these locations are not unambiguous in the
+GeoNames data set, we excluded locations whose name appeared more than 5 times in the gazetteer data. This
+step was necessary to eliminate locations that cannot be unambiguously identified. For example, hundreds of
+streets in Germany are named “ Hauptstraße ” (“main street” in English). This measure affected only detailed
+location names (e.g., neighborhoods and streets) as district names are unique according to the European Union
+Nomenclature of Territorial Units for Statistics (NUTS).
+Finally, to remove locations that were mentioned but not affected by floods (e.g., location of the newspaper
+headquarters), we excluded those geographically separated from the majority of identified locations. For instance,
+newspaper headquarters tend to be mentioned once at the beginning of the articles while they are not related to the
+impacts described in the text. To this end, an agglomerative hierarchical clustering algorithm known as Wards's
+linkage method was used (Murtagh & Contreras, 2012 ). This technique begins by treating each identified location
+as its own cluster, then progressively merges the two closest clusters at each step based on their geographic
+proximity. The largest resulting cluster was assumed to represent the area directly impacted by the flood, while
+any distant or sparsely connected locations were treated as outliers and excluded from further analysis. For
+instance, if an article mentioned three districts, including two that were closely located (districts A and B) and one
+far away (district C), the clustering algorithm would only map the two closely located districts due to their high
+location tag density. Different from the approach by Sodoge et al. ( 2023 ), we considered a lower cutoff value (ξ)
+for the hierarchical clustering which describes the pre‐specified maximum distance between the two closest
+clusters. For the selected cutoff value, the algorithms results in clusters with a maximum diameter of approxi-
+mately 75 km. This value was selected as it resulted in highest accuracy of identifying the true impact location.
+This was needed as floods are much more localized than droughts. We then aggregated the obtained data by their
+NUTS level 3, which refers to the most detailed NUTS classification (i.e., district scale).
+The three‐step location extraction method was thoroughly evaluated in previous research (Alencar et al., 2024 ;
+Sodoge et al., 2022 , 2023 ). Here, we tested its performance using a random sample of 50 newspaper articles. By
+manually reading them, we verified whether the extracted impact‐related locations ( n = 236) were mentioned in
+the text. We focused on the locations identified after applying the hierarchical clustering and removing outliers
+(e.g., newspaper headquarters). We found that all impact‐related locations extracted (100%) were indeed
+mentioned in the text. However, not all extracted locations referred to the actual sites of flood consequences. As
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 5 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+such, an accuracy of 79% was obtained for estimating the impact true locations. Mismatches occurred due to
+articles mentioning nearby but unaffected locations (e.g., firefighters from “city A” supported evacuating resi-
+dents in “city B”). Importantly, no impact‐relevant locations were missed, meaning no false negatives were
+recorded in this sample of 50 articles.
+2.6. Flood Impact Statements (FIS) Spatiotemporal Database
+To identify the time of the impact occurrence, we considered the time stamps of the newspapers. The identified
+impacts with a corresponding location were integrated into a final spatial‐temporal data set of flood impact
+statements (FIS). A FIS consists of a sentence that describes a flood impact classified into 20 different classes
+(Table S2 in Supporting Information S1) and locates it at the NUTS 3 scale (i.e., district level). One article can
+contain multiple FIS of different classes. However, an article can only contain one FIS of the same class, even
+when multiple sentences refer to the same impact.
+2.7. Empirical Evaluation of the FIS Data Set
+To verify to which extent the FIS data set corresponds to observed reality, we evaluated it against: (a) the flood
+emergency levels issued by the German Civil Defense, (b) the number of flood fatalities recorded in each district,
+(c) the maximum flood water levels observed in each district in July 2021, and (d) a flood damage model
+(Table 1).
+Standard non‐parametric tests were used to measure the strength and direction of the relationship between the FIS
+impact data set and these independent variables. We computed Spearman rho coefficients between the data in
+Table 1 and the FIS impact data set. Furthermore, the Kruskal‐Wallis test was performed to test the differences in
+distribution between the number of FIS and categorical variables (i.e., flood emergency levels and maximum
+flood water level observed).
+To verify biases introduced by the media reporting as more news are produced in heavily populated cities, we
+contrasted the FIS magnitude with the population size in each district (Figure S6 in Supporting Information S1).
+To this end, we computed the coefficient of determination and the Spearman rho coefficients. All analyses were
+Table 1
+Overview of Data Sets Used for Evaluation, Their Spatial and Temporal Scale, Data Sources, and Impact Classes Used for Correlation Analysis
+Data Spatial scale Temporal scale Source Comparison performed with
+Flood emergency levels
+of each district
+according to 3
+classes: not affected,
+affected, and
+catastrophe
+NUTS 3 July 2021 (BBK, 2021) The results for each of the individual 20 FIS classes and
+the sum of all FIS
+Number of fatalities NUTS 3 July 2021 (Thieken et al., 2022) Loss of life FIS
+Maximum flood water
+level observed
+according to 5
+classes: no flood,
+minor, moderate,
+major and extreme
+flood
+Point data July 2021 (Länderübergreifendes
+Hochwasser (LHP), 2021)
+The results for each of the individual 20 FIS classes and the
+sum of all FIS
+Flood damage model for
+buildings
+NUTS 3
+a
+July 2021 (Sieg & Thieken, 2022) Damage to buildings FIS
+Population size of each
+district
+NUTS 3 December 2021 (Federal Statistical
+Office, 2022)
+Sum of all FIS
+Note. For instance, the flood emergency levels for each of the 401 districts in Germany were compared to the sum of the FIS for each impact class and district, resulting in
+20 comparisons.
+a
+The model was produced only for six districts located in the federal states of North Rhine‐Westphalia and Rhineland‐P alatine: Ahrweiler Eifelkreis
+Bitburg‐Prüm, Euskirchen, Heinsberg, Rhein‐Erft‐ Kreis, Städteregion Aachen. The final model results are not yet published, and the linked reference refers to previous
+studies using the same model.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 6 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+performed in R (version 4.1.3), all statistical tests were two‐sided, and statistical significance was considered
+when p‐ value < 0.05.
+It should be highlighted that the evaluation was restricted due to the lack of available data. For some FIS classes, a
+comparison was not feasible as no other data‐driven assessment exists for the entire country (e.g., mental health,
+physical injuries). For instance, damage models for the 2021 event have been produced for only six districts
+despite many others being affected. Also, some of the existing impact data have temporal limitations. Indeed, the
+water gauge levels data set provided by LHP (n.d.) covered only the month of July 2021.
+3. Results and Discussion
+3.1. Consequences of the 2021 German Floods on Multiple Sectors According to Newspaper Articles
+Following the devastating floods in Germany in July 2021 (Junghänel et al., 2021 ; Kreienkamp et al., 2021 ), both
+printed and online media provided extensive coverage of their aftermath. Over 26,000 flood‐related news were
+published between July and December 2021 in Germany, which became the primary data source for this study.
+To uncover and categorize the consequences of this disaster as reported by newspapers, we designed five different
+NLP‐based classification models. After evaluating their performance against a manually annodated data set, we
+found that the dictionary‐based approach was the most accurate, with an average accuracy of 98% and an F1‐score
+of 91% (Figure S3 and Table S5 in Supporting Information S1 ). As such, we used it throughout this study to assign
+one or more impact classes to each article. By applying the dictionary‐based model to the newspaper corpus, we
+identified 20,052 FIS. Each FIS consists of a sentence that describes and locates a flood impact at the district level.
+An article can only contain one FIS of the same class, even when multiple sentences refer to the same impact.
+Each article describes an average of 1.34 FIS (mode = 0, standard deviation 1.58).
+Our analyses revealed that the floods had far‐reaching consequences on multiple sectors, affecting critical
+infrastructure, individuals, buildings, and different economic sectors (Figure 2 ). Numerous critical infrastructures
+were disrupted, including roads, wastewater treatment plants, water supply, mobile phone services, and elec-
+tricity, gas, and heating systems. Media reports on “transport and mobility” FIS were particularly prevalent, being
+mentioned in 3,038 articles. These describe disruptions to roads, railways, and the collapse of bridges. Of the 112
+bridges located in the flooded area of the Ahr valley, 62 were destroyed (Schäfer et al., 2021 ). Until July 2022,
+none of the 18 bridges on the Ahr river were functional, and temporary crossings were used instead (The
+Guardian, 2022 ). Furthermore, major access routes, 600 km of railway, and 50 railway bridges were damaged,
+causing significant disruptions to transportation (Schäfer et al., 2021 ).
+A significant number of “electricity, gas and heating” FIS ( n = 1,580) were reported. More than 200,000
+households were left without energy–some for months (Reuters, 2021 ). The contamination of rivers and drinking
+water due to floating and bursting oil tanks (Bosseler et al., 2021 ; Koks et al., 2021 ) was also a major concern, as
+reported in 214 articles. FIS on “physical damage to buildings” ( n = 3,777) were also predominant. These
+describe impacts such as flooded cellars and damaged commercial buildings. In the states of North‐Rhine
+Westphalia and Rhineland Palatinate alone, at least 200,000 buildings were affected, with insurance losses on
+residential buildings and household goods totaling €6.5 billion (GDV, 2021 ).
+Impacts on individuals were primarily associated with “loss of life” FIS ( n = 1,933). FIS regarding fatalities were
+frequently linked with “damage to building” and “transport and mobility” FIS (Figure S4 in Supporting Infor-
+mation S1 ), which can provide insight into the circumstances surrounding these incidents. FIS on “mental health
+( n = 345) mainly involved statements that describe how people suffered adverse effects such as post‐traumatic
+stress disorder. These statements discussed the availability, or the lack thereof, of post‐disaster support and
+mental health care services.
+FIS on economic sectors reported mainly impacts on “industry and commerce” activities ( n = 917). Despite the
+importance of tourism in the Ahr valley (Vaughan, 2022 ), the FIS pertaining to this sector ( n = 163) were less
+prominently mentioned in the news.
+While a large portion of the articles do not report on impacts (37.87%, n = 5,639 out of 14,888 unique articles),
+those who do tend to report multiple FIS concomitantly. In fact, of all unique articles mentioning an impact and a
+NUTS 3 location ( n = 7,246), 55.1% mentioned two or more FIS of different classes simultaneously. In particular,
+articles that referred to impacts on “education” FIS also reported on “child care” problems (Spearman rho
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 7 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+test = 0.34, 0.33–0.36 95% confidence interval–CI, p < 0.0001). Moreover, infrastructure‐related FIS (e.g.,
+“water supply” and “electricity, gas and heating”) were often reported simultaneously (Figure S4 in Supporting
+Information S1 ). These linkages shed light on sectors that would benefit from joint adaptation measures.
+3.2. Magnitude of Flood Socioeconomic Impacts
+To estimate the magnitude of the socioeconomic impacts, we aggregated the counts of FIS over time (01 July to
+31 December 2021). This choice was motivated by the observation that disasters with widespread effects typically
+attract heightened media coverage, as shown by previous studies (Kryvasheyeu et al., 2016 ; Li et al., 2018 ;
+Sodoge et al., 2023 ). The FIS magnitude was then compared with a series of independent data to investigate the
+reliability of this assumption.
+Overall, we found that trends in the socioeconomic impacts of floods can be robustly inferred from the FIS
+magnitude derived based on news coverage. Figure 3a shows that the impact magnitude increases with the
+proximity to stream gauges with recorded extreme floods (Figure 3b ). Districts with “extreme,” and “major” flood
+levels have significantly more FIS in July (Kruskal‐Wallis test, p < 0.0001) (Figure 4a ). The districts with the
+highest FIS magnitude are located along the Ahr river, where water levels reached their highest values since
+Figure 2. Number of flood impact statements (FIS) according to different socioeconomic impact classes. See Table S3 in Supporting Information S1 for a description of
+each FIS class.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 8 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+measurements commenced (Szymczak et al., 2022). In addition, FIS hotspots were identified in the south and east
+of Germany. In these regions, stream gauge measurements recorded extreme or major flood levels. It should be
+highlighted that the exact water levels are unclear in some gauges along the Ahr River because the flood wave
+damaged or destroyed many of the gauging stations (Ludwig et al., 2022; Szymczak et al., 2022).
+The FIS magnitude (Figure 3a) is also associated with the emergency levels declared by the German Civil Defense
+(Figure S5 in Supporting Information S1). Districts reported as having a “flood catastrophe” presented a
+significantly higher number of FIS (Kruskal‐Wallis test, p < 0.0001) (Figure 4b). Conversely, districts deemed as
+Figure 3. Spatial distribution of flood events and their consequences. (a) The sum of all Flood Impact Statements (FIS) from 01 July to 31 December 2021. The districts
+with the highest FIS magnitude are highlighted. (b) The maximum recorded flood levels at stream gauges between 01 and 31 July 2021. No stream gauge data is
+available for the Lower Saxony (NI).
+Figure 4. Flood Impact Statements magnitude in July 2021 according to (a), the maximum recorded flood levels at stream gauges and (b), the flood level issued by the
+German Civil Defense.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 9 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+“not affected” by floods had fewer FIS. The few outliers include Koblenz, Cologne, and Bonn, located on the
+Rhine river, a distributary of the Ahr river. Even though the Civil Defense considered them as not‐affected
+districts, minor and moderate floods were recorded at the stream gauges (Figure 3b ). Indeed, several critical
+infrastructure, roads, and highways were disrupted in Koblenz, Bonn, and Cologne (Fekete & Sandholz, 2021 ;
+Kron et al., 2022 ; Schauff & Schneider, 2021 ). Since these districts are densely populated, the flood waters
+impacted many people (i.e., higher exposure), which explains the high number of FIS.
+The correlation between the “loss of life” FIS and the observed fatalities (Spearman rho test = 0.89, 95% CI 0.87–
+0.91, p < 0.0001) is very strong (Figure 5a ). The districts with the highest FIS magnitude also had the highest
+number of recorded fatalities: Ahrweiler and Euskirchen, with 133 and 27 fatal victims respectively.
+We found strong and positive correlations between our data and modeled damages (Sieg & Thieken, 2022 ). For
+instance, “damage to buildings” FIS correlate with modeled economic damages to buildings (Spearman
+rho = 0.98, 95% CI 0.80–0.99, p = 0.0007) (Figure 5b ) and the estimated number of affected buildings (Spearman
+rho test = 0.98, 95% CI 0.80–0.99, p < 0.0001) (Figure 5c ). Furthermore, moderate correlations were found
+between “industry & commerce” FIS and modeled economic damages to industry and commerce (Spearman
+rho = 0.91, 95% CI 0.60–0.99, p = 0.0310). This suggests that our approach reflects patterns created by data‐
+intensive damage models, with the advantage that our data covers large areas.
+An analysis of biases introduced by unequal media reporting in highly‐populated cities suggests that the popu-
+lation size in each district does not correlate with the FIS magnitude (Figure S6 in Supporting Information S1 ).
+The coefficient of determination was R
+2
+= 0.10, indicating that the population size alone is not a good predictor of
+the FIS number, attesting to the robustness of our findings. In fact, districts with a relatively low population, such
+as Euskirchen and Ahrweiler, had a high FIS magnitude.
+3.3. Dynamics of FIS Across Time, Regions, and Sectors
+When analyzing the time transect of the FIS (Figure 6a ), we find that their peak was on 24 July, days after the main
+floods on 12–19 July 2021. This delay was expected, given the time required for news outlets to gather infor-
+mation and send reporters to flood‐affected areas. The weekly number of FIS reduced by one order of magnitude
+3 months later. While the FIS magnitude faded out in Bayern (BY) and Baden‐Württemberg (BW), it persisted for
+the extreme events in North‐Rhine Westphalia (NW) and Rheinland‐Pfalz (RP) (Figure 6b ). The FIS magnitude
+decreased for most impact classes over time. However, its share remained high months after the floods for some
+impact classes (Figure S7 in Supporting Information S1 ).
+In early July 2021 (Figure 7a ), minor floods occurred in BY, NW, BW, and Saxony‐Anhalt (SH). These events are
+often overlooked in studies investigating the 2021 floods in Germany as they were not as destructive as the Ahr
+Valley event. Yet, they caused local disruptions and should not be dismissed. For instance, 53 fire brigades and
+more than 650 emergency services were called due to flooding in the east of BY from 05.07.2021 to 07.07.2021.
+This event led to one fatality, damaged buildings, and affected agricultural fields. As a result, 49 articles reported
+Figure 5. Spatial correlation between different Flood Impact Statements (FIS) classes and the (a), number of observed fatalities. (b) Estimated damage in a million euros
+(c), estimated number of affected buildings. Each circle represents a district. The Spearman's rank correlation coefficient (rho) was used to examine the relationship
+between the FIS values ( x ‐axis) and external data.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 10 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+flood impacts in BY during the first 10 days of July 2021. These findings underscore the importance of using
+complementary text‐based approaches to assess flood impacts, as they can account for small flood events that are
+typically ignored in impact data sets such as HANZE (Paprotny et al., 2018 ) and EM‐Dat ( 2021 ).
+During and directly after the main flood event (Figure 7b ), multiple FIS were reported across Germany. FIS
+mentioning damage to buildings were rampant in NW ( n = 521), and RP ( n = 288), which presented record
+precipitation sums. Extreme flood levels were observed in SN, BW, and BY. However, the FIS magnitude was
+considerably lower in these states when compared to NW and RP. Indeed, only 199 FIS were identified in BY
+between 15 and 24.07.2021, whereas there were 1,070 FIS in NW and 524 in RP. The FIS magnitude drastically
+reduced 2 months after the floods (Figure 7c ). Nonetheless, it remained high for some impact classes, such as
+Figure 6. Distribution of flood impact statements (FIS) over time and across different impact classes. (a) Aggregated FIS per week for Germany. (b) Aggregated FIS per
+month for the states of Nordrhein‐Westfalen (NW); Rheinland‐Pfalz (RP), Bayern (BY) and Baden‐Württemberg (BW). Only states with the highest number of FIS are
+shown. The share of FIS for each of the 20 classes is given Figure S7 in Supporting Information S1 .
+Figure 7. Spatiotemporal evolution of Flood Impact Statements (FIS). (a) Before, (b) during and directly after, (c) after the main flood event. Logarithmic scales are used
+to represent the number of FIS. BW = Baden‐Württemberg; BY = Bayern; BE = Berlin; BB = Brandenburg; HB = Bremen; HH = Hamburg; HE = Hessen;
+MV = Mecklenburg‐Vorpommern; NI = Niedersachsen; NW = Nordrhein‐Westfalen; RP = Rheinland‐Pfalz; SL = Saarland; SN = Sachsen; ST = Sachsen‐Anhalt;
+SH = Schleswig‐Holstein; TH = Thüringen.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 11 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+“need for economic support,” “transport and mobility,” and “damage to buildings” in NW and RP (Figure S7 in
+Supporting Information S1 ). This trend may indicate that the floods had long‐term effects on these sectors. As
+Koks et al. ( 2022 ) highlighted, until December 2021, roads, railways, education facilities, and wastewater
+treatment plants had not yet been reestablished in the Ahr Valley.
+4. Limitations and Further Research Directions
+Notwithstanding the advancements of our approach, it also has its limitations. First, the typology of impact
+classes, while comprehensive, is not exhaustive. By following both an inductive (i.e., expert‐based) and deductive
+approach (i.e., data‐driven), we identified 20 key impact classes (see Figure 2 ). Although we aimed for thor-
+oughness, other researchers might suggest additional classes, such as infectious diseases or impacts to forestry.
+However, this risk is low since the topic model results (Table S2 in Supporting Information S1 ) and the manual
+annotation of 640 articles did not reveal any other significant impact classes with substantial document repre-
+sentation. Therefore, even if new classes were proposed, they likely would not account for many impacts.
+Second, our method assigns the detected impacts (i.e., FIS) to the multiple locations mentioned in an article. For
+instance, if one article mentions that impact x occurred in cities A and B, and impact y occurred only in city B, our
+approach assigns both impacts to both cities. However, we expect that this approach does not significantly affect
+overall trends since most articles refer to only one location (mode = 1, average = 1.67, standard deviation = 0.97)
+and one impact (mode = 0, average = 1.34, standard deviation 1.58). Moreover, since we used a clustering al-
+gorithm and assigned impact locations only within the same spatial cluster, the results still represent regional
+trends, as can be seen in our validation results (Figures 3–5 ). The use of large language models is a promising way
+forward to address this issue (Li et al., 2024 ).
+A third limitation refers to the size of the annotation data set, which influences the results of the machine‐learning
+models. As shown in Table S5 in Supporting Information S1 , the number of annotated articles directly affects the
+F1‐score, indicating that 50 positive labels per each impact class are a very good basis, but likely insufficient for
+high performance. This is supported by the findings of previous research by Sodoge et al. ( 2023 ), who found that
+at least 100 labels are needed for detecting drought impacts from newspaper text. In future studies, techniques
+such as active learning (Jacobs et al., 2022 ) and few‐shot learning (Gupta et al., 2020 ) could be used to reduce the
+need for extensive labeled data sets. Given the excellent performance of the dictionary‐based model (average
+accuracy of 98% and F1‐score of 91%), we used it throughout the analysis. This high performance is due to the
+extensive set of keywords used, derived based on previous studies (e.g., Alderman et al., 2012 ; de Brito
+et al., 2020 ; Saulnier et al., 2017 ; Yari et al., 2020 ), expert knowledge, and various NLP methods (see detailed
+description in Section 2.4 ).
+Finally, newspaper coverage biases could have affected the obtained FIS data set. In fact, previous research has
+shown that some topics may be overlooked or exaggerated depending on the newspaper's political orientation
+(Bohr, 2020 ; Boykoff & Boykoff, 2004 ; Sodoge et al., 2024 ). To address this, we considered a broad array of
+newspaper sources ( n = 250) covering different political orientations, spatial scales, and geographical regions
+(Table S1 in Supporting Information S1 ). We also removed duplicate articles to minimize overreporting of
+extreme impacts.
+5. Conclusions
+In this study, we assessed the magnitude of the socioeconomic impacts of the 2021 floods in Germany using a
+large corpus of newspaper articles published from about 2 weeks before up to 6 months after the main flood event
+in the Ahr Valley. Our empirical results revealed that the floods had far‐reaching impacts across multiple sectors,
+underscoring the complex interplay between socioeconomic and infrastructure systems. The bulk of impacts
+results largely from “damage to buildings” and “transport and mobility” FIS, which triggered cascading effects in
+other sectors and infrastructure.
+Our estimates show evidence for enhanced reporting of FIS in Ahrweiler, Euskirchen, and surrounding districts.
+In these regions, the FIS magnitude remained high even months after the event, which may indicate the lasting
+impacts of floods. Notably, we also detected small‐scale events with fewer FIS in the south and east of Germany.
+These events were overlooked in previous studies and often go unnoticed in the national media or official disaster
+reports (e.g., Junghänel et al., 2021 ) and databases such as HANZE (Paprotny et al., 2018 ) and EM‐Dat ( 2021 ).
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 12 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+Despite their low impact, their cumulative effects over the years can be severe due to their high frequency
+(Kuhlicke et al., 2020). As such, despite the heightened attention to the Ahr Valley event, we could also detect
+small floods that took place in a similar time period.
+Our findings support the hypothesis that the spatial and temporal trends in the occurrence of socioeconomic
+impacts of floods can be accurately inferred from news data. The FIS magnitude was associated with their
+proximity to gauges with extreme flood levels and correlated closely to official impact data (e.g., the number of
+fatalities) and modeled damages (e.g., economic losses to buildings). However, our approach has the added
+advantage of capturing a wider range of impact classes compared to conventional damage assessments. Indeed,
+text‐based analyses such as the one presented here are one of the few means available for assessing impact classes
+such as mental health, tourism, and water contamination over large areas. Hence, our results demonstrate that text‐
+based impact assessments can provide a comprehensive picture of flood impacts at a large spatial scale, going
+beyond the established “snap‐shot” impact assessment approaches.
+Data Availability Statement
+The data sets used for validation are available from the sources shown in Table 1. The resulting socioeconomic
+FIS database is provided in the Data Set S1. The newspaper text data used in this analysis are restricted from
+public use due to copyright restrictions imposed by wiso‐net.de. The data can be purchased by directly contacting
+Wiso. A list of the newspaper titles considered in this study is provided Table S1 in Supporting Information S1.
+References
+Alderman, K., Turner, L. R., & Tong, S. (2012). Floods and human health: A systematic review. Environment International, 47, 37–47. https://doi.
+org/10.1016/j.envint.2012.06.003
+Alencar, P. H. L., Sodoge, J., Paton, E., & de Brito, M. M. (2024). Flash droughts and their impacts – Using newspaper articles to assess the
+perceived consequences of rapidly emerging droughts. Environmental Research Letters, 19 (7), 074048. https://doi.org/10.1088/1748‐9326/
+ad58fa
+BBK. (2021). Zwischenbericht zur Flutkatastrophe 2021: Katastrophenhilfe, Soforthilfen und Wiederaufbau.
+Bohr, J. (2020). Reporting on climate change: A computational analysis of U.S. Newspapers and sources of bias, 1997–2017. Global Envi-
+ronmental Change, 61, 102038. https://doi.org/10.1016/j.gloenvcha.2020.102038
+Bosseler, B., Salomon, M., Schlüter, M., & Rubinato, M. (2021). Living with urban flooding: A continuous learning process for local munici-
+palities and lessons learnt from the 2021 events in Germany. Water, 13 (19), 2769. https://doi.org/10.3390/w13192769
+Boykoff, M. T., & Boykoff, J. M. (2004). Balance as bias: Global warming and the US prestige press. Global Environmental Change, 14 (2), 125–
+136. https://doi.org/10.1016/j.gloenvcha.2003.10.001
+Carrera, L., Standardi, G., Bosello, F., & Mysiak, J. (2015). Assessing direct and indirect economic impacts of a flood event through the inte-
+gration of spatial and computable general equilibrium modelling. Environmental Modelling & Software, 63, 109–122. https://doi.org/10.1016/j.
+envsoft.2014.09.016
+Chen, H., Liang, Q., Liang, Z., Liu, Y., & Xie, S. (2019). Remote‐sensing disturbance detection index to identify spatio‐temporal varying flood
+impact on crop production. Agricultural and Forest Meteorology, 269–270, 180–191. https://doi.org/10.1016/j.agrformet.2019.02.002
+de Brito, M. M., Kuhlicke, C., & Marx, A. (2020). Near‐real‐time drought impact assessment: A text mining approach on the 2018/19 drought in
+Germany. Environmental Research Letters. https://doi.org/10.1088/1748‐9326/aba4ca
+de Brito, M. M., Otto, D., & Kuhlicke, C. (2021). Tracking topics and frames regarding sustainability transformations during the onset of the
+COVID‐19 crisis. Sustainability, 13 (19), 11095. https://doi.org/10.3390/su131911095
+de Brito, M. M., Sodoge, J., Fekete, A., Hagenlocher, M., Koks, E., Kuhlicke, C., et al. (2024). Uncovering the dynamics of multi‐sector impacts of
+hydrological extremes: A methods overview. Earth's Future, 12 (1). https://doi.org/10.1029/2023EF003906
+Devlin, J., Chang, M.‐W., Lee, K., & Toutanova, K. (2018). BERT: Pre‐training of deep bidirectional transformers for language understanding.
+Retrieved from http://arxiv.org/abs /1810.04805
+Dietze, M., Bell, R., Ozturk, U., Cook, K. L., Andermann, C., Beer, A. R., et al. (2022). More than heavy rain turning into fast‐flowing water – A
+landscape perspective on the 2021 Eifel floods. Natural Hazards and Earth System Sciences, 22 (6), 1845–1856. https://doi.org/10.5194/nhess‐
+22‐1845‐2022
+EM‐Dat. (2021). The emergency events database. Retrieved from https://www.emdat.be/
+Federal Statistical Office. (2022). Population statistics. Wiesbaden: Destatis. Retrieved from https://www.destatis.de
+Fekete, A., Aslam, A. B., de Brito, M. M., Dominguez, I., Fernando, N., Illing, C. J., et al. (2021). Increasing flood risk awareness and warning
+readiness by participation – But who understands what under ‘participation’? International Journal of Disaster Risk Reduction, 57, 102157.
+https://doi.org/10.1016/j.ijdrr.2021.102157
+Fekete, A., & Sandholz, S. (2021). Here comes the flood, but not failure? Lessons to learn after the heavy rain and pluvial floods in Germany 2021.
+Water, 13 (21), 3016. https://doi.org/10.3390/w13213016
+Francesca, M., & Fiedrich, F. (2024). Psychosocial aspects of the 2021 flood disaster in Euskirchen district, Germany: Strains, Resources, and the
+role of social media. In ISCRAM.
+Franceschini, R., Rosi, A., del Soldato, M., Catani, F., & Casagli, N. (2022). Integrating multiple information sources for landslide hazard
+assessment: The case of Italy. Scientific Reports, 12 (1), 20724. https://doi.org/10.1038/s41598‐022‐23577‐z
+GDV. (2021). Ver‐si‐che‐rungs‐schä‐den durch Flut‐ka‐ta‐stro‐phe bei rund sie‐ben Mil‐li‐ar‐den Euro. Retrieved from https://www.gdv.de/de/
+medien/aktuell/versicherungsschaeden‐durch‐flutkatastrophe‐bei‐rund‐sieben‐milliarden‐euro‐69800
+Gentzkow, M., Kelly, B., & Taddy, M. (2019). Text as data. Journal of Economic Literature, 57 (3), 535–574. https://doi.org/10.1257/jel.
+20181020
+Acknowledgments
+This work was conducted in the frame of
+the KAHR project (Climate Adaptation,
+Flood, Resilience)–Funded by the German
+Federal Ministry of Education and
+Research (BMBF) (Grant 01LR2102A).
+This work was also supported by the
+Helmholtz Visiting Research Grant by The
+Helmholtz Information & Data Science
+Academy (HIDA). Maaz Amjad is thanked
+for his support with the Python scikit‐
+multilearn library. This work contributes to
+the goals of the IAHS scientific decade of
+HELPING (2023–2032). Open Access
+funding enabled and organized by Projekt
+DEAL.
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 13 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+GeoNames. (2022). GeoNames. Retrieved from https://www.geonames.org/
+Gerl, T., Bochow, M., & Kreibich, H. (2014). Flood damage modeling on the basis of urban structure mapping using high‐resolution remote
+sensing data. Water , 6 (8), 2367–2393. https://doi.org/10.3390/w6082367
+Gupta, A., Thadani, K., & O'Hare, N. (2020). Effective few‐shot classification with transfer learning. In Proceedings of the 28th international
+conference on computational linguistics (pp. 1061–1066). International Committee on Computational Linguistics. https://doi.org/10.18653/v1/
+2020.coling‐main.92
+Hammond, M. J., Chen, A. S., Djordjević, S., Butler, D., & Mark, O. (2015). Urban flood impact assessment: A state‐of‐the‐art review. Urban
+Water Journal , 12 (1), 14–29. https://doi.org/10.1080/1573062X.2013.857421
+Hao, H., & Wang, Y. (2020). Leveraging multimodal social media data for rapid disaster damage assessment. International Journal of Disaster
+Risk Reduction , 51 , 101760. https://doi.org/10.1016/j.ijdrr.2020.101760
+Hase, V., Mahl, D., Schäfer, M. S., & Keller, T. R. (2021). Climate change in news media across the globe: An automated analysis of issue
+attention and themes in climate change coverage in 10 countries (2006–2018). Global Environmental Change , 70 , 102353. https://doi.org/10.
+1016/j.gloenvcha.2021.102353
+Jacobs, P. F., Maillette de Buy Wenniger, G., Wiering, M., & Schomaker, L. (2022). Active learning for reducing labeling effort in text clas-
+sification tasks. Communications in Computer and Information Science , 3–29. https://doi.org/10.1007/978‐3‐030‐93842‐0_1
+Jan, W., Watanabe, K., & Fomichev, M. (2023). word2vec: Distributed representations of words. https://doi.org/10.32614/CRAN.package.
+word2vec
+Junghänel, T., Bissolli, P., Daßler, J., Fleckenstein, R., Imbery, F., Janssen, W., et al. (2021). Hydro‐klimatologische Einordnung der Stark‐und
+Zusammenhang mit dem Tiefdruckgebiet „Bernd“ Dauerniederschläge in Teilen Deutschlands im vom 12. bis 19. Juli 2021 . Deutscher
+Wetterdienst. Retrieved from https://www.dwd.de/DE/leistungen/besondereereignisse/niederschlag/20210721_bericht_starkniederschlaege_
+tief_bernd.pdf?__blob = publicationFile&v = 6
+Kellermann, P., Schröter, K., Thieken, A. H., Haubrock, S.‐N., & Kreibich, H. (2020). The object‐specific flood damage database HOWAS 21.
+Natural Hazards and Earth System Sciences , 20 (9), 2503–2519. https://doi.org/10.5194/nhess‐20‐2503‐2020
+Koks, E., Van Ginkel, K., Van Marle, M., & Lemnitzer, A. (2021). Brief Communication: Critical Infrastructure impacts of the 2021 mid‐July
+western European flood event. Natural Hazards and Earth System Sciences Discussions , 1–11. https://doi.org/10.5194/nhess‐2021‐394
+Koks, E. E., van Ginkel, K. C. H., van Marle, M. J. E., & Lemnitzer, A. (2022). Brief communication: Critical infrastructure impacts of the 2021
+mid‐July western European flood event. Natural Hazards and Earth System Sciences , 22 (12), 3831–3838. https://doi.org/10.5194/nhess‐22‐
+3831‐2022
+Kreibich, H., Seifert, I., Merz, B., & Thieken, A. H. (2010). Development of FLEMOcs – A new model for the estimation of flood losses in the
+commercial sector. Hydrological Sciences Journal , 55 (8), 1302–1314. https://doi.org/10.1080/02626667.2010.529815
+Kreienkamp, F., Philip, S. Y., Tradowsky, J. S., Kew, S. F., Lorenz, P., Arrighi, J., et al. (2021). Rapid attribution of heavy rainfall events leading
+to the severe flooding in Western Europe during July 2021 (Vol. 13). Royal Netherlands Meteorological Institute (KNMI). Retrieved from
+https://www.meteo.be/fr/infos/actualite/ce‐que‐lon‐sait‐sur‐les‐pluies
+Kron, W., Bell, R., Thiebes, B., & Thieken, A. (2022). The July 2021 flood disaster in Germany. In HELP global report on water and disasters
+2022 .
+Kryvasheyeu, Y., Chen, H., Obradovich, N., Moro, E., Van Hentenryck, P., Fowler, J., & Cebrian, M. (2016). Rapid assessment of disaster
+damage using social media activity. Science Advances , 2 (3). https://doi.org/10.1126/sciadv.1500779
+Kuhlicke, C., de Brito, M. M., Otto, D., & Reckhaus, Z. (2024). Resilienter wiederaufbauen? Erste Thesen zur Rekonfiguration hydrosozialer
+Territorien nach dem Hochwasser 2021. In Die resiliente stadt (pp. 267–281). Springer Berlin Heidelberg. https://doi.org/10.1007/978‐3‐662‐
+66916‐7_17
+Kuhlicke, C., Masson, T., Kienzler, S., Sieg, T., Thieken, A. H., & Kreibich, H. (2020). Multiple flood experiences and social resilience: Findings
+from three surveys on households and companies exposed to the 2013 flood in Germany. Weather, Climate, and Society , 12 (1), 63–88. https://
+doi.org/10.1175/WCAS‐D‐18‐0069.1
+Länderübergreifendes Hochwasser (LHP). (2021). Hochwasserzentralen. Retrieved from https://www.hochwasserzentralen.de /
+Li, L., Bensi, M., Cui, Q., Baecher, G. B., & Huang, Y. (2021). Social media crowdsourcing for rapid damage assessment following a sudden‐
+onset natural hazard event. International Journal of Information Management , 60 , 102378. https://doi.org/10.1016/j.ijinfomgt.2021.102378
+Li, N., Zahra, S., de Brito, M. M., Flynn, C. M., Görnerup, O., Koffi, W., et al. (2024). Using LLMs to build a database of climate extreme impacts.
+In Proceedings of the ClimateNLP conference .
+Li, Z., Wang, C., Emrich, C. T., & Guo, D. (2018). A novel approach to leveraging social media for rapid flood mapping: A case study of the 2015
+South Carolina floods. Cartography and Geographic Information Science , 45 (2), 97–110. https://doi.org/10.1080/15230406.2016.1271356
+Liu, L., & Jensen, M. B. (2018). Green infrastructure for sustainable urban water management: Practices of five forerunner cities. Cities ,
+74 (February 2017), 126–133. https://doi.org/10.1016/j.cities.2017.11.013
+Ludwig, P., Ehmele, F., Franca, M. J., Mohr, S., Caldas‐Alvarez, A., Daniell, J. E., et al. (2022). A multi‐disciplinary analysis of the exceptional
+flood event of July 2021 in central Europe. Part 2: Historical context and relation to climate change. Natural Hazards and Earth System
+Sciences Discussions , 2021 , 1–42. https://doi.org/10.5194/nhess‐2022‐225
+Merz, B., Blöschl, G., Vorogushyn, S., Dottori, F., Aerts, J. C. J. H., Bates, P., et al. (2021). Causes, impacts and patterns of disastrous river floods.
+Nature Reviews Earth & Environment , 2 (9), 592–609. https://doi.org/10.1038/s43017‐021‐00195‐3
+Merz, B., Kreibich, H., Schwarze, R., & Thieken, A. (2010). Assessment of economic flood damage. Natural Hazards and Earth System Sciences ,
+10 (8), 1697–1724. https://doi.org/10.5194/nhess‐10‐1697‐2010
+Middleton, S. E., Middleton, L., & Modafferi, S. (2014). Real‐time crisis mapping of natural disasters using social media. IEEE Intelligent
+Systems , 29 (2), 9–17. https://doi.org/10.1109/MIS.2013.126
+Mitheu, F., Tarnavsky, E., Ficchì, A., Stephens, E., Cornforth, R., & Petty, C. (2023). The utility of impact data in flood forecast verification for
+anticipatory actions: Case studies from Uganda and Kenya. Journal of Flood Risk Management , 18 (1). https://doi.org/10.1111/jfr3.12911
+Moftakhari, H. R., AghaKouchak, A., Sanders, B. F., Allaire, M., & Matthew, R. A. (2018). What is nuisance flooding? Defining and monitoring
+an emerging challenge. Water Resources Research , 54 (7), 4218–4227. https://doi.org/10.1029/2018WR022828
+Mullen, L. (2016). Textreuse: Detect text reuse and document similarity. R package version 0.1.4.9000 .
+Murtagh, F., & Contreras, P. (2012). Algorithms for hierarchical clustering: An overview. WIREs Data Mining and Knowledge Discovery , 2 (1),
+86–97. https://doi.org/10.1002/widm.53
+Nunes Carvalho, T. M., de Souza Filho, F. A., & Madruga de Brito, M. (2024). Unveiling water allocation dynamics: A text analysis of 25 years of
+stakeholder meetings. Environmental Research Letters , 19 (4), 044066. https://doi.org/10.1088/1748‐9326/ad37cd
+Papagiannaki, K., Petrucci, O., Diakakis, M., Kotroni, V., Aceto, L., Bianchi, C., et al. (2022). Developing a large‐scale dataset of flood fatalities
+for territories in the Euro‐Mediterranean region, FFEM‐DB. Scientific Data , 9 (1), 166. https://doi.org/10.1038/s41597‐022‐01273‐x
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 14 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+Paprotny, D., Morales‐Nápoles, O., & Jonkman, S. N. (2018). HANZE: A pan‐European database of exposure to natural hazards and damaging
+historical floods since 1870. Earth System Science Data , 10 (1), 565–581. https://doi.org/10.5194/essd‐10‐565‐2018
+Qiang, Y., Huang, Q., & Xu, J. (2020). Observing community resilience from space: Using nighttime lights to model economic disturbance and
+recovery pattern in natural disaster. Sustainable Cities and Society , 57 , 102115. https://doi.org/10.1016/j.scs.2020.102115
+Rahman, M. S., & Di, L. (2020). A systematic review on case studies of remote‐sensing‐based flood crop loss assessment. Agriculture , 10 (4), 131.
+https://doi.org/10.3390/agriculture10040131
+Reuters. (2021). Floods cut power to 200,000 households in western Germany. Retrieved from https://www.reuters.com/business/environment/
+floods‐cut‐power‐200000‐households‐western‐germany‐2021‐07‐15/
+Salley, C., Fox, N., & Schubert, A. (2024). Tweeting through the flood: Application of BERT topic modeling for a comparative flood
+communication analysis. In ISCRAM .
+Sanders, B. F., Schubert, J. E., Kahl, D. T., Mach, K. J., Brady, D., AghaKouchak, A., et al. (2022). Large and inequitable flood risks in Los
+Angeles, California. Nature Sustainability , 6 (1), 47–57. https://doi.org/10.1038/s41893‐022‐00977‐7
+Saulnier, D. D., Brolin Ribacke, K., & von Schreeb, J. (2017). No calm after the storm: A systematic review of human health following flood and
+storm disasters. Prehospital and Disaster Medicine , 32 (5), 568–579. https://doi.org/10.1017/S1049023X17006574
+Schäfer, A., Mühr, B., Daniell, J., Ehret, U., Ehmele, F., Brand, J., et al. (2021). Hochwasser Mitteleuropa, Juli 2021 (Deutschland). 2021 . https://
+doi.org/10.5445/IR/1000135730.CEDIM
+Schauff, D., & Schneider, D. (2021). Hochwasser drückt in die Straßen der Region – Verkehrsbehinderungen und Wasserschäden. Rhein Zeitung .
+Retrieved from https://www.rhein‐zeitung.de/region/aus‐den‐lokalredaktionen/koblenz‐und‐region_artikel,‐hochwasser‐drueckt‐in‐die‐
+strassen‐der‐region‐verkehrsbehinderungen‐und‐wasserschaeden‐_arid,2283957.html
+Schreier, M. (2012). Qualitative content analysis in practice . SAGE.
+Seneviratne, S. I., Zhang, X., Adnan, M., Badi, W., Dereczynski, C., Di Luca, A., et al. (2021). Weather and climate extreme events in a changing
+climate. In Climate change 2021: The physical science basis. Contribution of working Group I to the sixth assessment report of the . Inter-
+governmental Panel on Climate Change. https://doi.org/10.1017/9781009157896.013
+Serpico, S. B., Dellepiane, S., Boni, G., Moser, G., Angiati, E., & Rudari, R. (2012). Information extraction from remote sensing images for flood
+monitoring and damage evaluation. Proceedings of the IEEE , 100 (10), 2946–2970. https://doi.org/10.1109/JPROC.2012.2198030
+Sieg, T., & Thieken, A. H. (2022). Improving flood impact estimations. Environmental Research Letters , 17 (6), 064007. https://doi.org/10.1088/
+1748‐9326/ac6d6c
+Sodoge, J., Kuhlicke, C., & de Brito, M. M. (2023). Automatized spatio‐temporal detection of drought impacts from newspaper articles using
+natural language processing and machine learning. Weather and Climate Extremes , 41 , 100574. https://doi.org/10.1016/j.wace.2023.100574
+Sodoge, J., Kuhlicke, C., Mahecha, M. D., & de Brito, M. M. (2024). Text mining uncovers the unique dynamics of socio‐economic impacts of the
+2018–2022 multi‐year drought in Germany. Natural Hazards and Earth System Sciences , 24 (5), 1757–1777. https://doi.org/10.5194/nhess‐24‐
+1757‐2024
+Sodoge, J., Madruga de Brito, M., & Kuhlicke, C. (2022). Automatized drought impact detection using natural language processing. Wasser-
+wirtschaft , 112 (S1), 30–31. https://doi.org/10.1007/s35147‐022‐1008‐7
+Szyma, P., & Kajdanowicz, T. (2016). scikit‐multilearn: A scikit‐based Python environment for performing multi‐label classification. 1 , 1–15.
+Szymánski, P., & Kajdanowicz, T. (2019). Scikit‐multilearn: A scikit‐based Python environment for performing multi‐label classification.
+Journal of Machine Learning Research , 20 , 1–22.
+Szymczak, S., Backendorf, F., Bott, F., Fricke, K., Junghänel, T., & Walawender, E. (2022). Impacts of heavy and persistent precipitation on
+railroad infrastructure in July 2021: A case study from the Ahr Valley, Rhineland‐Palatinate, Germany. Atmosphere , 13 (7), 1118. https://doi.
+org/10.3390/atmos13071118
+Tapia‐Silva, F.‐O., Itzerott, S., Foerster, S., Kuhlmann, B., & Kreibich, H. (2011). Estimation of flood losses to agricultural crops using remote
+sensing. Physics and Chemistry of the Earth, Parts A/B/C , 36 (7–8), 253–265. https://doi.org/10.1016/j.pce.2011.03.005
+The Guardian. (2022). After the floods: Germany's Ahr valley then and now – In pictures. Retrieved from https://www.theguardian.com/world/
+2022/jul/13/floods‐then‐and‐now‐photographs‐germany‐ahr‐valley‐flooding‐disaster‐july‐2021#:~:text = Noneofthe18bridges,
+onmanyofthebuildings
+Thieken, A. H., Bubeck, P., Zenker, M. L., & Wutzler, B. (2022). Strukturierte Auswertung der Dokumentationen zu allen Hochwassertode-
+sopfern in Nordrhein‐Westfalen im Juli 2021 und Herausarbeitung von Verbesserungspotenzialen in der Risikokommunikation und in den
+Warnprozessen anhand der Todesumstände und ‐ursachen sow. Retrieved from https://www.landtag.nrw.de/home/der‐landtag/ausschusse‐
+und‐gremien‐1/untersuchungsausschusse/untersuchungsausschuss‐ii‐hochwa.html
+Thielmann, A., Weisser, C., Krenz, A., & Säfken, B. (2023). Unsupervised document classification integrating web scraping, one‐class SVM and
+LDA topic modelling. Journal of Applied Statistics , 50 (3), 574–591. https://doi.org/10.1080/02664763.2021.1919063
+UNDRR. (2021). Regional assessment report on disaster risk in Latin America and the Caribbean.
+UNISDR. (2015). Making development sustainable: The future of disaster risk management. Global assessment report on disaster risk reduction .
+UNISDR.
+van Daalen, K. R., Tonne, C., Semenza, J. C., Rocklöv, J., Markandya, A., Dasandi, N., et al. (2024). The 2024 Europe report of the lancet
+countdown on health and climate change: Unprecedented warming demands unprecedented action. The Lancet Public Health , 9 (7), e495–e522.
+https://doi.org/10.1016/S2468‐2667(24)00055‐0
+Vaughan, A. (2022). The day the floods came. New Scientist , 253 (3375), 8–9. https://doi.org/10.1016/S0262‐4079(22)00308‐6
+Yari, A., Ostadtaghizadeh, A., Ardalan, A., Zarezadeh, Y., Rahimiforoushani, A., & Bidarpoor, F. (2020). Risk factors of death from flood:
+Findings of a systematic review. Journal of Environmental Health Science and Engineering , 18 (2), 1643–1653. https://doi.org/10.1007/
+s40201‐020‐00511‐x
+Yoon, J., Klassert, C., Selby, P., Lachaut, T., Knox, S., Avisse, N., et al. (2021). A coupled human–natural system analysis of freshwater security
+under climate and population change. Proceedings of the National Academy of Sciences , 118 (14). https://doi.org/10.1073/pnas.2020431118
+Zeit Online. (2021). Rund 40.000 Menschen im Ahrtal von Hochwasser‐Folgen betroffen. Retrieved from https://www.zeit.de/gesellschaft/2021‐
+07/hochwasser‐rheinland‐pfalz‐ahrweiler‐folgen‐ueberschwemmung
+Zenker, M.‐L., Bubeck, P., & Thieken, A. H. (2024). Always on my mind: Indications of post‐traumatic stress disorder among those affected by
+the 2021 flood event in the Ahr valley, Germany. Natural Hazards and Earth System Sciences , 24 (8), 2837–2856. https://doi.org/10.5194/
+nhess‐24‐2837‐2024
+Zheng, X., Han, J., & Sun, A. (2018). A survey of location prediction on Twitter. IEEE Transactions on Knowledge and Data Engineering , 30 (9),
+1652–1671. https://doi.org/10.1109/TKDE.2018.2807840
+Water Resources Research 10.1029/2024WR037813
+MADRUGA DE BRITO ET AL. 15 of 15
+ 19447973, 2025, 1, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024WR037813 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [19/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,1472 @@
+[[PAGE 1]]
+ORIGINAL ARTICLE
+Managing rising residual flood risk: A national survey of
+Aotearoa-New Zealand
+Xinyu Fu 1 | Rob Bell 1,2 | Juliana Reu Junqueira 3 | Iain White 1 |
+Silvia Serrao-Neumann 1
+1The University of Waikato School of
+Social Sciences, Hamilton, Waikato,
+New Zealand
+2Bell Adapt Ltd, Hamilton, New Zealand
+3Hamilton City Council, Hamilton,
+New Zealand
+Correspondence
+Xinyu Fu, The University of Waikato
+School of Social Sciences, Hamilton,
+Waikato, New Zealand.
+Email:
+xinyuf@waikato.ac.nz
+Funding information
+Ministry of Business, Innovation, and
+Employment (MBIE) Endeavour Fund,
+Grant/Award Number: C01X2014;
+University of Waikato ALPSS Divisional
+Fund
+Abstract
+Flooding is one of the most frequent and costliest natural hazards around the
+world. Traditionally, flood risk management has relied on building protective
+structures such as levees and dams to protect assets based on historical data
+(e.g., 1% AEP flood), which encourages development on floodplains, provides a
+potentially false sense of security to communities, particularly in the context of
+climate change, and increases residual flood risk (the risk remaining after
+implementing risk reduction measures). This article aims to contribute to the
+management of residual risk by drawing on empirical findings from a survey
+carried out with flood risk practitioners from the public and private sector in
+Aotearoa New Zealand. Findings indicate fundamental concerns relating to
+how to best manage residual flood risk, despite its long profile and integration
+in current policy and practice. Other issues revolve around the use of outdated
+information to guide decisions and the lack of regulatory power to restrict
+developments in flood-prone areas protected by hard defense structures. Iden-
+tified barriers to improving current practice include the lack of national guid-
+ance and support, financial resources, public awareness, and some technical
+constraints such as uncertainties in flood modeling, staff expertise, and data
+availability.
+KEYWORDS
+climate change, flood mitigation, residual risk, urban planning
+1 | INTRODUCTION
+Floods are one of the costliest natural hazards worldwide
+(ICNZ, 2022; Swiss Re, 2022a). While managing flood
+risk has long been conducted to reduce its impacts, there
+has still been an increased number of occurrences caus-
+ing significant socio-economic disruption and devastating
+losses (WMO,
+2022). Recently, in Aotearoa-New Zealand
+(hereafter referred to A-NZ), Cyclone Gabrielle caused
+widespread devastation and 11 casualties in February
+2023; the highest death toll from a flood event since 1938
+(Harrington et al.,
+2023; Kerr et al., 2023). For Auckland
+City, the largest urban area in A-NZ, Gabrielle followed
+soon after a major flood in late January 2023, which also
+caused extensive damage and four fatalities
+(NZ Herald,
+2023). Many of the /C2455,000 houses in
+Received: 8 March 2023 Revised: 16 May 2023 Accepted: 26 July 2023
+DOI: 10.1111/jfr3.12944
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License, which permits use, distribution and reproduction in any
+medium, provided the original work is properly cited and is not used for commercial purposes.
+© 2023 The Authors. Journal of Flood Risk Management published by Chartered Institution of Water and Environmental Management and John Wiley & Sons Ltd.
+J Flood Risk Management. 2023;16:e12944. wileyonlinelibrary.com/journal/jfr3 1o f1 5
+https://doi.org/10.1111/jfr3.12944
+
+
+[[PAGE 2]]
+floodplains in Auckland were inundated during the
+January event, including those recently built
+(Newton,
+2023). These recent events have been a vivid
+manifestation of the increasing flood risk in A-NZ
+(including residual risk), particularly Gabrielle that
+resulted in breaches or overtopping of around 30 levees/
+stopbanks (Bidwell, 2023).
+In part, this increase in flood impacts is due to more
+frequent and intense precipitation events arising from cli-
+mate change (Arnell & Gosling, 2016; Frame et al., 2020;
+Harrington et al., 2023; Hirabayashi et al., 2013). How-
+ever, one of the primary reasons for this upward trend in
+impacts can be attributed to the increased development
+and urbanization of flood-prone areas (Iglesias
+et al.,
+2021; Swiss Re, 2022b). This is especially the case
+in A-NZ because a lack of coordination between flood
+risk management and spatial planning enables private
+developers to pressure local decision makers about devel-
+opment in low-lying floodplain and coastal areas that are
+often high in economic value (van Buuren et al.,
+2018).
+This has led to continuous development in the flood-
+plains and significantly increased flood risk profile
+nationwide in A-NZ over time (Ministry for the
+Environment,
+2008) and manifested in the recent floods
+experienced in Auckland. These pressures present chal-
+lenges to how we manage and plan for present and future
+flood risks (Scott et al.,
+2013; Tullos, 2018), especially for
+the often unseen and lower profile residual flood risk —
+that is, the risk that remains after the implementation of
+risk treatment actions (Serra-Llobet et al., 2022).
+No matter how effectively a flood hazard risk is man-
+aged, residual risk can still be realized. In the flood risk
+management context, typical strategies include structural
+protective measures such as levees (stopbanks) and dams
+which are designed to withstand up to a certain risk level
+(e.g., a 1% or higher annual exceedance probability). This
+is problematic because protective structures tend to offer
+a false sense of security, further encouraging floodplain
+development (White et al.,
+2001). Structural protection
+measures have adaptation limits (i.e., no absolute protec-
+tion; Berkhout & Dow, 2023; Serra-Llobet et al., 2022),
+which means they can fail through overtopping or
+breaches during extreme flood events. More investment
+is needed to upgrading the existing levees with outdated
+design standards, building new protective structures (giv-
+ing more room for rivers and streams), or undertake
+managed retreat to keep up with increasingly more fre-
+quent and intense floods due to urban development and
+climate change (Collins,
+2021; Lawrence et al., 2013).
+Consequently, understanding the management of resid-
+ual risk is important in avoiding catastrophic loss or
+lengthy disruption, yet research suggests it can be over-
+looked and under-managed and thus not perceived by
+either floodplain communities or infrastructure providers
+(Ludy & Kondolf,
+2012). In reality, current flood risk
+management practice generally relies on insurance to
+help manage residual risk, but only a fraction of the
+losses—5% in emerging economies and 34% in advanced
+economies globally —are actually insured (Swiss
+Re, 2022a). This means that there is a high potential for
+residual risk transfer onto the public through current
+insurance mechanisms, which means if a major disaster
+takes place most households would need to bear the sig-
+nificant economic losses themselves.
+Residual risk is not a new concept in risk manage-
+ment. With regard to flood risk however, it has taken on
+increasing importance as flood risk management moved
+away from the conventional river engineering view of
+hazard control to a more holistic understanding of the
+concept of risk (Bubeck et al.,
+2017; Serra-Llobet
+et al., 2022). This includes, inter alia, the consideration of
+residual risk behind the protective measures (Serra-
+Llobet et al., 2022), resilient spatial planning approaches
+(White et al., 2010), or the implementation of concepts,
+such as creating more room for rivers (Dottori
+et al., 2020; Rijke et al., 2012). Yet, literature specifically
+on residual risk as a component of effective flood risk
+management remains scarce (Wagner et al.,
+2021). In a
+recent comparative study between the United States,
+France, and Quebec (Canada), Serra-Llobet et al. ( 2022)
+found significant variability in how residual flood risk is
+managed. For example, in the US residual flood risk
+is depicted in the national regulatory Flood Insurance
+Rate Maps (FIRMs) under the National Flood Insurance
+Program (NFIP). The minimum NFIP land use standards
+and the purchase of flood insurance are only required in
+flood-prone areas (the 1-in-100-year flood) which are not
+protected by accredited levees. Hence, developments are
+allowed behind accredited levees and residual flood risk
+is generally managed by a national flood insurance
+scheme. In contrast, France has adopted a more top-
+down approach to managing residual flood risk which
+mandates land use restrictions and building codes in
+areas behind levees, designated as part of their regulatory
+flood-prone area. Similarly, Quebec's approach also regu-
+lates the development of areas behind levees through
+mandatory development restrictions with few exceptions.
+Aotearoa-New Zealand comprises a suitable case
+study to investigate how residual flood risk is evaluated
+and managed because of its high flood risk profile (Craig
+et al.,
+2021). The country has little national-level hazard
+policy statement, or guidance, dedicated to managing
+flood risk, and it is currently unclear how residual flood
+risk is being managed (Rouse, 2011). It is therefore
+imperative to understand how and to what extent the
+country's flood risk management practices considers,
+2o f1 5 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+analyses, and treats residual flood risk and how this is
+understood, communicated, and utilized in land-use
+planning decisions. Importantly, if the country's present
+flood risk governance does not understand and act on
+residual flood risk, insurance penetration may reduce,
+posing difficult decisions for risk managers, land-use
+planners, and ultimately the community in managing
+pre-existing or new development (Serra-Llobet
+et al.,
+2022). To fill this gap in research, this article aims
+to draw on practitioners' knowledge from A-NZ through
+a national survey to understand how present and future
+residual flood risk is evaluated and managed across the
+country. Our objectives are to investigate: (1) to what
+extent residual flood risk is considered, (2) how residual
+flood risk is managed, and (3) what barriers there are for
+managing residual risk locally.
+This article is organized in the following order: we
+first start by outlining current flood risk management
+practice and implications for managing residual flood
+risk. We then discussed our survey methodology followed
+by the presentation of results. We lastly conclude by dis-
+cussing implications for future research and practice with
+applicability in A-NZ and elsewhere. While the discus-
+sion focuses on A-NZ we anticipate that this research will
+be of interest to other jurisdictions internationally simi-
+larly grappling with the growing issue of residual risk.
+2 | FLOOD RISK MANAGEMENT
+AND RESIDUAL FLOOD RISK
+A core activity of flood risk management typically
+involves the implementation of government-funded
+structural measures aiming at risk reduction (Jha
+et al.,
+2012). These include the application of physically
+constructed engineering techniques to minimize hazard
+or improve resilience of structures or systems (Batica &
+Gourbesville, 2014). Examples of structural measures
+include flood storage reservoirs, flood walls, levees,
+embankments, and tidal barriers (Birkland et al., 2003).
+Extreme rainfall events are, however, testing the protec-
+tion capacity of flood defense structures with climate
+change impacts set to escalate this further (Hutton
+et al.,
+2019; Kreibich et al., 2022).
+In parallel, recent flood risk management approaches
+also incorporate non-structural measures, including the
+involvement of the public, communication of flood risks,
+and dialog about mitigation options (Hammond
+et al.,
+2015; Jha et al., 2012). Non-structural measures
+also include the strengthening of legislation for urban
+flood management; urban planning; institutional coordi-
+nation and cooperation; improvement in investment for
+monitoring; capacity building; and, decentralization of
+resources from national to local levels (Batica &
+Gourbesville,
+2014). Residual flood risk is primarily man-
+aged through non-structural measures, especially related
+to development control legislation and regulations, albeit
+information about residual flood risk is also used to guide
+the design of structural measures (Serra-Llobet
+et al.,
+2022).
+Importantly, as there has been a shift in responsibility
+for flood risk management from water managers to com-
+munity members (Puzyreva et al., 2022; Thaler &
+Hartmann, 2016), quantification and understanding of
+residual flood risk is, therefore, paramount. Whether
+directly or indirectly, many actors are involved in the
+development of flood risk management initiatives (Jha
+et al.,
+2012), hence how people perceive and understand
+residual flood risk has implications for the assets and
+communities being the subject of such initiatives. For
+example, if not properly accounted for in land-use plan-
+ning regulatory maps, development may intensify in
+flood-prone areas protected by physical structures,
+thereby increasing overall flood risk profile for the com-
+munity (Serra-Llobet et al.,
+2022). It is also important to
+note that people's perception and understanding of the
+risk they face influences their decision to adopt protective
+measures themselves (e.g., insurance, property
+improvements, or relocation; Ludy & Kondolf,
+2012;
+Starominski-Uehara, 2021). This is especially important
+when structural measures are being used to mitigate
+floods, therefore, reducing people's direct flood experi-
+ence and potentially undermining their flood prepared-
+ness (Gissing et al.,
+2017). With population growth and
+housing demand placing pressure on urban development
+and intensification to continue along floodplains, it is
+critical to both (i) understand how residual flood risks
+are understood and managed so as to avoid putting more
+people at greater risk (Hutton et al.,
+2019), and (ii) clearly
+communicate and disclose this to communities involved
+in collaborative flood risk management initiatives so that
+personal or community disaster management plans are
+up-to-date (Goodwin,
+2009).
+In A-NZ, the two main pieces of legislation relevant
+to flood risk management and effects of climate change
+are the Resource Management Act ( 1991) (RMA) and the
+Civil Defense Emergency Management Act (CDEMA)
+2002 (Ministry for the Environment,
+2010), both of which
+devolved responsibilities for flood management and
+recovery from events to the local/regional government
+(after decades of a more centralized model, including
+substantial funding of flood schemes). A third older, but
+revised, statute (Soil Conservation and Rivers Control
+Act 1941), includes objectives of prevention of damage by
+floods, prevention and mitigation of soil erosion, and the
+utilization of land in a manner that attains these
+FU ET AL . 3o f1 5
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+objectives. Under this legislation, regional councils can
+make bylaws for flood protection works and allow acqui-
+sition of land (with fair compensation) for such purposes.
+In summary, regional councils are responsible for river/
+stream and catchment management (including flood and
+drainage schemes) and territorial authorities for manag-
+ing stormwater in urban or peri-urban catchments, with
+unitary councils combining both sets of functions. This
+has resulted in fragmented governance and resourcing
+(staff and funding), with each local authority developing
+their own approaches and measures with no collabora-
+tion, funding, or coordination between and across gov-
+ernment levels (van Buuren et al.,
+2018). Risk reduction
+is supposed to be achieved through proactive planning as
+required by the RMA and the CDEMA, along with other
+relevant legislation such as the Building Act 2004, the
+Local Government Act (
+2002; Ministry for
+the Environment, 2010), which is mainly undertaken at
+the district or city level (rather than regional level). This
+complex array of responsibilities for flood management
+presents challenges in understanding the spatiality of
+residual risk, such as where it could be well or poorly
+managed (including maintenance and re-investment),
+how this could affect future climate-influenced risks, and
+how and what adaptation pathways can be developed
+and implemented (Lawrence et al.,
+2020; Lawrence &
+Haasnoot, 2017). It also makes it difficult to address and
+communicate residual risk in a nationally consistent way
+to different actors (e.g., governmental agencies, private
+consultancies, and communities) as well as its integration
+into land-use planning, operational management, and
+broader risk reduction strategies.
+Regional or unitary councils have the primary respon-
+sibility for operational management of flood risk under
+the RMA for rural or large catchments; therefore, their
+flood managers are the core survey respondents for
+understanding residual flood risk management in this
+research. However, regional councils can delegate or
+transfer responsibilities to a territorial authority, and ter-
+ritorial authorities also have the responsibility to manage
+flood and stormwater risks through their district plans,
+but how such powers have been separated varies from
+region to region (McSweeney,
+2006). In practice, most
+territorial authorities are small councils (i.e., median total
+population of territorial authorities is 50,562 according to
+the latest NZ Census
+1) and, therefore, lack the resources
+and expertise to manage flood risk by themselves so they
+usually rely on the relevant regional council or consul-
+tants for addressing flood risks, with the exceptions of the
+larger, resourceful territorial authorities. However, juris-
+dictional responsibilities for flood and stormwater risk
+management at the territorial level across the nation are
+unclear. To this end, the national survey in this study tar-
+geted regional or unitary councils primarily, given their
+principal role in flood risk management, but also sent out
+survey requests to some territorial authorities with flood-
+risk expertise and also distributed it through the key river
+and stormwater professional networks, since private con-
+sultancies often worked closely with councils, to obtain
+additional insights. The following methodology
+section further describes the procedure for survey
+distribution.
+3 | METHODOLOGY
+Data were collected through a nationwide survey aimed
+to collect information on the level of awareness and
+availability of residual flood risk information, how the
+risk was managed, and the barriers to manage residual
+risk. The survey was developed into a self-administered,
+web-based questionnaire using Google Form. The target
+participants were primarily practitioners, including plan-
+ners and river managers, from regional and unitary coun-
+cils. We also extended the surveys to territory authorities
+and private consultancies to get a more well-rounded pic-
+ture of the residual flood risk management practices in
+A-NZ. We asked in total 20 questions regarding aware-
+ness of residual flood risk, causes of residual risk, avail-
+able risk information, how such risk is managed, and a
+few other relevant questions about the outlook of future
+risk management. The majority of the survey questions
+are qualitative and open-ended, allowing respondents to
+provide their individual viewpoints. There is also one
+qualitative Likert scale question on barriers, in which we
+asked survey respondents to identify key barriers by rat-
+ing a list of choices on a linear scale of 0 to 4 based on
+their importance, where 0 denotes not important
+(i.e., not a major barrier) and 4 denotes very important (i.-
+e., a major barrier). The full survey protocol can be found
+in
+Appendix A.
+We followed the procedures of the Total Design
+Method (TDM) proven to be effective in improving
+response rates for online surveys (Dillman, 2000). We
+first compiled a list of potential participants from
+11 regional councils, 6 unitary councils, and 61 territorial
+district councils. The survey was initially sent out to key
+contact persons in local governments (March 2022), fol-
+lowed by two remainders a month apart from each other;
+one in April and one in May. The survey was also distrib-
+uted through two key professional networks of flood risk
+management: The Engineering New Zealand/Water NZ
+Rivers Group, and the water-sector professional group
+Water New Zealand, through their social media and
+1New Zealand 2018 Census: https://nzdotstat.stats.govt.nz/
+4o f1 5 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+newsletter to further extend the survey exposure to
+potential participants in the public and private sectors,
+with also two remainders.
+After collating the survey responses, we first prepared
+them into an Excel spreadsheet and then analyzed the
+qualitative content using deductive coding to group
+responses and label quotes to answer specific research
+questions and to identify emergent themes. For the quan-
+titative Likert scale question on barriers, we visualized
+each of the responses over the different barriers in a heat-
+map chart and provided a mean for each barrier to high-
+light the dominant ones.
+4 | RESULTS
+We received 17 responses, 10 of which were from the
+regional council (5 out of 11 regional councils) and uni-
+tary councils (5/6), with a combined response rate of 59%
+at the regional level. Of the rest 7, 4 responses were from
+the territorial authorities (out of 61) and 3 were from pri-
+vate consultancies who work closely with councils. As
+discussed previously, regional and unitary councils have
+the primary responsibility for flood risk management
+and, therefore, it is not surprising that we have a low
+response rate from the territorial authorities. From early
+responses to our survey request, a dozen of them pointed
+to the staff at the regional council for any information
+regarding flood risk. The low response rate from territo-
+rial authorities can also be explained by their small size
+as they usually have very few staff members, and where
+stormwater/flood management is intertwined with a
+wider responsibility for delivery of three waters infra-
+structure and other utility services and felt disinclined to
+participate in the survey. Nevertheless, respondents in
+the survey are largely from regional and unitary councils,
+and, combined with the territorial authorities, cover
+major urban areas with over 80% of the national popula-
+tion and nearly half of the larger catchment flood
+schemes (Walsh et al.,
+2019). Hence, our survey provides
+a reasonable national representation of flood risk man-
+agement practice. Our survey respondents are also very
+knowledgeable about flood risk management as over 88%
+(15/17) have worked in flood risk management for over
+5 years and 76% (13/17) for over 10 years.
+4.1 | Awareness and availability of
+residual flood risk information
+All survey respondents were aware of and concerned
+with residual flood risk affecting their communities. The
+two predominant types of residual risk mentioned were
+related to extreme weather events and potential failure of
+protective structures (see Figure
+1). While a few
+responses combined them as one risk type, that is, flood-
+ing that occurs exceeding the design standard, the major-
+ity recognized them as two separate risks, yet highly
+interconnected. This is because protective structures can
+still fail in the absence of an extreme flooding event such
+as “stormwater network blockage, ”“ floodgate debris
+blockage leading to backflow, ” and “stormwater pumping
+station outrage ” (quotes from a regional council official).
+According to one of the respondents from the private sec-
+tor who has ample experiences working with councils
+across the nation: “Council vary in their awareness of the
+residual risk; while residual risks such as dam failure and
+stopbank (levee) overtopping are commonly recognized,
+most councils fail to quantify and carry these risks into
+broader flood asset management. ” Several respondents
+identified the misunderstanding and misperception of
+flood risk among stakeholders (including some council
+departments, developers, and the public) as another type
+of residual flood risk. Many also recognized that residual
+flood risk stems from the mismatch between dynamic
+external environments and the conventional “static” risk
+analyses that only offers a snapshot of a risk at the time
+of the assessment and corresponding design of the flood-
+management asset, as well as the uncertainties inherent
+to the actual hazard and risk modeling.
+Respondents unanimously agreed that residual flood
+risk was increasing. Although many causes were
+reported, one respondent from a regional council noted
+that “whether residual risk is increasing is a complex
+consideration” due to the complex relationship between
+risk and risk management measures in urban systems.
+Among the reported causes, climate change and urban
+intensification of floodplains were the two primary
+answers (see Figure
+2). Additionally, the majority of
+respondents expressed serious concerns about continuing
+development of floodplains and the political or regulatory
+ability to prevent that. One respondent from the regional
+council reported that “development in some cases is still
+occurring in floodplains, reliant on infrastructure or
+building design solution ”; and, one respondent from a
+territorial authority added that “there is pressure from
+land developers to want to develop areas within existing
+low areas and potential floodplains, because land prices
+are high (in these areas) and many landowners want to
+take advantage of the potential financial gain. ” Other
+reported causes included the lack of flood mitigation
+actions, lack of robust (residual) flood risk information,
+weak public risk literacy, and changing geographic topog-
+raphy. Most respondents also expressed serious concerns
+FU ET AL . 5o f1 5
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+regarding the lack of financial resources to upgrade or
+maintain existing protective infrastructures to keep pace
+with the rising residual flood risk. Although lack of
+financial resources is quite a common issue internation-
+ally, local governments in A-NZ are additionally bur-
+dened by technical issues, including having to undertake
+their own flood risk assessments without any consistent
+directive, national guidance or standards (van Buuren
+et al.,
+2018; Woods et al., 2010) and, in many cases, with-
+out high-precision spatial data for robust hydrological
+modeling. Significantly, 18% of the respondents reported
+that there was no reliable flood risk information available
+at the local level (e.g., outdated flood maps). While the
+rest (82%) reported having reliable risk information, only
+half of them (40%) claimed to have made it publicly avail-
+able, which inhibits the ability for residual risk manage-
+ment by a wider range of stakeholders.
+4.2 | Residual flood risk management
+The majority of the respondents reported that residual
+flood risk has been considered (29%), or at least partially
+considered (65%), in the available flood risk information.
+The most common approach is the inclusion of protective
+structures in flood modeling, and generating flood maps
+for failing schemes (e.g., flood defense failure, drainage
+system blockage, or dam breach) using the 1% annual
+exceedance probabilities (AEP) or 100-year flood design
+event. Many respondents were unsatisfied with their
+existing flood risk information. Several explicitly
+acknowledged that the 1% AEP design event was not ade-
+quate to represent the actual flood risk mainly due to
+ongoing climate change risks. Some reported that the
+existing flood risk information was outdated and did not
+consider the changed land use patterns and
+FIGURE 1 Frequency table
+of types of residual flood risk
+reported.
+FIGURE 2 Frequency table
+of reported reasons of the
+increasing residual flood risk.
+6o f1 5 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+intensification. Others discussed the technical insufficien-
+cies in the existing modeling approach, including the fact
+as reported by the respondents from the private sector
+that “limited and inconsistent breach mapping creates
+more risks such as mapping a breach at one location
+rather than along length of a defense ” and the adoption
+of “bathtub inundation projections rather than fully
+hydrodynamic modeling of overland flow. ” However,
+respondents also identified the use of more advanced
+approaches to manage residual risk, including taking cli-
+mate change rainfall projections and/or sea-level rise into
+account, and undertaking joint probability analysis for
+compound flooding, such as combined fluvial, pluvial,
+and coastal flood levels.
+When asked whether residual flood risk is an integral
+element of local flood risk management, the majority
+reported positive, with half of the respondents (53%)
+reported “Yes,” four “Partially” (24%), three “No” (18%),
+and one “Unknown” (5%). Depending on the quality of
+the information, residual flood risk was reported to be
+incorporated into local long-term land use planning,
+building codes, risk assessments for new developments
+and capital improvement programs, as well as emergency
+management endeavors. Additionally, when asked about
+the future outlook in this rapidly evolving space, particu-
+larly with respect to the potential for insurance retreat,
+participants agree that risk-based insurance scheme
+would become the norm and over time private insurance
+would eventually become unaffordable. The majority
+expressed that local councils remain unsure how they
+might respond but they expect better flood risk informa-
+tion including about residual risk and anticipate stronger
+support and guidance from the state.
+While A-NZ has high insurance penetration that
+includes flood insurance, underinsurance remains a sub-
+stantial issue nationally (Stepanova,
+2021) and interna-
+tionally (Lamond & Penning-Rowsell, 2014). When asked
+their opinion on the recent adoption of risk-based pricing
+by insurance providers and how councils may respond to
+the potential for private insurance retreat which would
+raise residual risk, some were generally in support of the
+risk-based approach, and most respondents were uncer-
+tain and unsure what their council will do at this stage,
+yet they all acknowledged that councils will need to
+respond to this eventually. One respondent from a uni-
+tary council commented: “I suspect that private insur-
+ance retreat would drive a reduction in risk appetite
+amongst the affected community, leading to calls on the
+council to increase protection. ” Another anticipated that
+the risk-based approach and insurance retreat will lead to
+the more rapid transformative move from disaster
+response to disaster risk reduction, and will thus vacate
+high-risk properties out of the floodplains over time and
+changed land-use patterns to activities with lower conse-
+quences from flooding. A common theme from the
+responses was the large regulatory uncertainty regarding
+the (new) role councils should play in flood risk manage-
+ment. Many were looking for more guidance from the
+central government with the upcoming planning reform
+(i.e., the RMA reform) and potential update of the regula-
+tory framework guiding local governments for better land
+use and natural hazards management.
+4.3 | Barriers to managing residual
+flood risk
+Participants reported the existence of significant barriers
+to managing residual flood risk at the local levels, albeit
+we note the barriers we listed to choose from (see
+Figure
+3) may not be necessarily limited to managing
+residual flood risk but to flood risk management in gen-
+eral. Although some specific barriers seem to be more
+prevalent, large variation exists in terms of the major bar-
+riers that hinder local residual flood risk management.
+All 13 barrier choices were rated at least as slightly
+important (mean ≥ 1), and nine were rated as greater
+than important (mean ≥ 2). Unsurprisingly, the lack of
+national guidance/support (mean = 2.9) was the most
+significant barrier, which was already repeatedly men-
+tioned across the prior survey responses, followed by
+financial resources (2.8), and public awareness (2.6). Bar-
+riers related to evaluating and modeling local residual
+flood risk were also among the most significant barriers.
+These included data availability (2.6), uncertainties due
+to modeling and future climate change (2.6), data quality
+(2.6), and staff experience and expertise (2.2). Other
+important barriers included guidance on recording flood
+risk in land information memorandums (LIMs) of prop-
+erties (2.2), local political will (2.1), economic disincen-
+tives from private insurers (1.8), and institutional
+inertia (1.8).
+5 | DISCUSSION
+Two key messages can be distilled from the results to bet-
+ter manage residual flood risk in A-NZ. First, a clearer
+national directive of how flood risk and residual risk
+should be managed is urgently needed, particularly for
+guidance on the regulatory provisions to restrict inappro-
+priate development in flood-prone areas, including those
+behind protective structures. Second, more dedicated
+resources and support are necessary to allow local
+FU ET AL . 7o f1 5
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+councils to compile more rigorous and consistent (resid-
+ual) flood risk information and to actively engage with
+the public for better flood risk awareness and outreach.
+A lack of a clear national directive on managing flood
+risk and residual risk is a repeated theme raised by partic-
+ipants in the survey. Local practitioners in A-NZ agree
+that residual flood risk is increasing, mainly due to cli-
+mate change and continuing development in the flood-
+prone areas. As climate change is constantly changing
+the risk profiles of flood-prone communities, the current
+practice of flood risk management that relies on lengthy
+historical observations to predict and design for future
+extreme events is seen by some as no longer adequate.
+Although a more adaptive approach is deemed necessary,
+participants note that such a change is difficult due to the
+existing institutional context, such as the long-standing
+defense-oriented risk management paradigm. This sup-
+ports other research which has similarly identified the
+strong influence of administrative traditions, disciplinary
+practices, or outdated standards or codes of practice in
+continuing more “static” practices (Gersonius et al.,
+2016;
+Hanna et al., 2022, Lawrence et al., 2013; van Buuren
+et al., 2018; Vojinovic, 2015; White & Lawrence, 2020).
+The clear direction is vital as preventing new develop-
+ments in flood-prone areas remains a key challenge fac-
+ing flood managers and land use planners. It is especially
+the case in the low-lying coastal regions, such as New
+York City and Miami in the United States, which are
+accessible to a range of amenities and often have very
+high land values (Fu & Nijman,
+2021; Qiang et al., 2017).
+Flood managers and land use planners in these areas
+often have very limited capacity to restrict developments
+in floodplains (even with the rising climate risks), within
+a neoliberal market-driven regulatory framework that
+can hardly restrict or deny development proposals in
+either fluvial or coastal floodplains, such as
+in New Zealand, Australia and the United States
+(Cradduck et al.,
+2020; Elrick-Barr & Smith, 2021;
+Glavovic et al., 2010; Hutton et al., 2019; Local Govern-
+ment NZ, 2014).
+In addition to the lack of a national directive, a lack
+of financial support and poor (residual) flood risk model-
+ing and information are among the most important bar-
+riers as ranked by the survey participants. Our findings
+are aligned with a previous study that surveyed
+researchers and risk professions about flood risk manage-
+ment research in A-NZ (Rouse,
+2011), implying that there
+has been little improvement within the last decade. These
+are also consistent with the barriers identified in the liter-
+ature on flooding mitigation (Brody et al.,
+2010) and
+other planning efforts, such as climate change adaptation
+planning (Eisenack et al., 2014; Fu, 2020; Hamin
+et al., 2014) and extreme heat (Meerow & Keith, 2022).
+Several respondents reported “other” barriers, including
+“public perception and expectation relating to legal liabil-
+ity and risk transfer ” and “Iwi interests ” (i.e., M /C22aori
+tribe). Clearly, practitioners were quite concerned with
+the political and public buy-ins for proactive flood risk
+reduction actions that are transformative and can be
+deemed radical, such as pre-emptive managed retreat
+(Anderson,
+2022; Lawrence et al., 2020; Tubridy
+et al., 2021).
+Although residual flood risk has recently emerged in
+the flood risk literature, it is more positive to note that
+local practitioners in A-NZ are generally well aware of
+the issue in managing local flood risk. Given the lack
+of national directives or standards to work within the
+context of devolved local responsibility for flood risk
+management, and large variation in local capacity and
+resources, it is not surprising to find that how residual
+risk is considered varies significantly across the nation
+between regions and districts. Many councils, especially
+the smaller ones, do not have the resources or expertise
+to develop rigorous flood risk information to share with
+FIGURE 3 Heatmap for survey respondents' perception of barriers (* LIMs, Land Information Memorandums).
+8o f1 5 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+developers and the public. Such risk information is not
+only important for local government to inform risk man-
+agement and land use planning, but also critical for effec-
+tive risk communication with local communities to
+increase the public understanding of the potential flood
+risk including residual risk, foreknowledge of emergency
+management arrangements and to improve public buy-in
+for risk mitigation measures (Feldman et al.,
+2016;
+Henstra et al., 2019; White et al., 2010). Even when coun-
+cils have good (residual) flood risk information, the
+“levee effect, ” a false sense of security caused by protec-
+tive measures like levees, is likely in play across commu-
+nities, which hinders the ability of proactive councils to
+regulate development of hazard-prone areas or better
+inform individuals from buying properties in areas
+behind protective measures.
+This unveils two common gaps in the existing flood
+risk management not exclusive to the A-NZ context,
+within which local governments and communities often
+fail to mainstream residual flood risk into managing
+flood risk, and a lack of consideration for (residual) flood
+risk from a wider systemic view. It is worth noting that
+the systems perspective entails a deeper understanding of
+interconnectedness of various flood-relevant sectors such
+as land-use planning, insurance, financial institution,
+infrastructure, society, and emergency management, as
+well as how their connections influence flood risk behav-
+iors within individual communities (Mai et al.,
+2020;
+Sayers et al., 2013). It also resonates with the ongoing
+aspirations for urban resilience internationally which
+advocates systems thinking and transformative adaptions
+(Fu & Li,
+2022).
+Most communities in A-NZ, as well as in many other
+western countries, rely heavily on flood insurance to
+cover residual flood risks, but most existing insurance
+schemes are not sustainable because they generally do
+not fully account for the growing risk due to climate
+change, and the insurance pay-outs are often used to
+rebuild in the same location where flood risk remains
+high (known as the “build-disaster-rebuilt” cycle). More
+fundamentally, there is the risk of insurance retreat,
+whereby a private sector actor could greatly increase
+residual flood risk due to a private commercial decision.
+In A-NZ, the state-operated Earthquake Commission
+(EQC) insurance cover for rare, high-impact hazards,
+does not include climate change induced flooding apart
+from damage to land or land-supporting structures
+(Paster et al.,
+2018). Therefore, as climate change con-
+tinues exacerbating the risk of flooding in most areas,
+insurance premiums, and/or policy excesses will increase
+and ultimately retail insurance will become unprofitable
+or unviable in many places leading to the retreat by pri-
+vate and/or public insurers (Lamond & Penning-
+Rowsell,
+2014; Raschky & Weck-Hannemann, 2007;
+Siders, 2019; Storey et al., 2020). This is a particularly
+imperative issue in A-NZ, because unlike many other
+countries that provide publicly subsided flood insurance
+(e.g., the United States, the United Kingdom, France),
+flood insurance on assets is only offered through the pri-
+vate sector, that is, changing practices on a company
+level. An example is the recent adoption of a spatial risk-
+based approach for pricing flood insurance by Tower, a
+private insurer in A-NZ, who are the first to do so. This
+move signals a long-term issue facing local communities
+and state governments with respect to how to support the
+insurance sector, both public and private, so that residual
+risk can be effectively managed.
+While awareness is high professionally, it is clear that
+residual risk remains an emerging topic for flood risk
+management more generally, particularly with regards to
+effective governance, appetite for more control over pri-
+vate sector development rights, and public awareness of
+the unseen potential harm. Even though this study pro-
+vides a useful first step into understanding residual flood
+risk management in A-NZ, research on this topic, even
+globally, is still limited particularly in the face of rising
+climate change influence of flooding and parallel
+agendas, such as relating to the housing crisis, demand-
+ing easier planning or the widening of development
+rights. Hence, we argue more future research is needed
+to better address residual risk in two specific contexts:
+(1) flooding in urban areas that are subject to significant
+growth pressures, particularly those facing more intense
+precipitation events or compounding flood hazards
+including pluvial, fluvial, groundwater rise, coastal storm
+surge, and sea level rise; (2) flooding in peri-urban and
+rural areas predicted to experience more intense com-
+pounding pluvial and/or fluvial flooding hazards. Addi-
+tionally, based on this survey, there is still a need for
+more quality information on the extent to which residual
+flood risk is actually leading to different planning deci-
+sions or influencing wider risk management decision-
+making processes in practice. Future research can also
+focus on how residual flood risk is managed in other
+countries in comparison to A-NZ with a view to deriving
+transferrable best practices, or to undertake in-depth case
+studies of residual flood risk management in specific
+communities to better understand local barriers and how
+they can be overcome. Data such as these would also be
+useful in tracking the extent to which the state of practice
+has changed or how the forthcoming new resource-
+management legislation and hazard planning framework
+proposed for A-NZ influences effective residual flood risk
+management. With the rising attention paid to residual
+flood risk and better understanding of how to manage it
+(including adaptive approaches), it enables more
+FU ET AL . 9o f1 5
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+informed land use planning, policy changes, and risk
+decision-making to improve the resilience of our cities
+and rural floodplains in the face of climate change and
+significant development pressures.
+6 | CONCLUSION
+Flooding is one of the most frequent, harmful, and costli-
+est natural hazards around the world. For many years,
+structural measures, such as levees and seawalls, have
+been the principal mitigation actions for flood risk man-
+agement, focusing primarily on reducing flood exposure
+to a certain level (e.g., 1% AEP). While it will always play
+a role, this conventional engineering-oriented approach
+to manage flood risk can have more hidden side-effects
+because development usually increases behind protective
+structures due to a false sense of security known as the
+“levee effect, ” thereby increasing residual flood risk
+(e.g., Hutton et al.,
+2019). Adding climate change to the
+formula, flooding is exacerbating the threat to communi-
+ties, as evidenced by the increasing frequency and sever-
+ity of flooding around the world. In this context, it is
+imperative that we need a more holistic understanding of
+risk and manage flood risk more effectively by addressing
+residual flood risk and how it changes over time
+(Lawrence et al.,
+2020; Lawrence & Haasnoot, 2017). We
+conducted a national survey of practitioners from local
+councils (i.e., regional and territorial) and consultants
+who work closely with councils on managing flood risk
+in A-NZ, which provides a valuable baseline study to
+understand how residual flood risk is being managed and
+to identify the barriers that hinder such endeavors.
+We find that flood risk professionals are well aware of
+and concerned with residual flood risk in their communi-
+ties. All acknowledged that residual risk is increasing in
+their communities for multiple reasons, including climate
+change, increasing developments in the floodplains
+(“levee effect ”), inadequate flood mitigation measures,
+lack of robust (residual) flood risk information, low pub-
+lic (residual) flood risk literacy, and changing topogra-
+phy. The majority reported that residual flood risk had
+been considered when managing local flood risk, but to
+varying levels. The most common approach incorporates
+protective structures into flood hazard/risk assessments
+and generates specific levee or dam failure scenarios from
+flood modeling to inform risk decision-making. However,
+many expressed concerns regarding their existing
+approach such as using 1% AEP design event that could
+underestimate flood risk, relying on outdated risk
+information that fails to consider the changed land use
+patterns, and adopting unsophisticated (i.e., non-
+hydrodynamic “bath-tub”) flood modeling.
+Finally, we find that significant barriers exist in man-
+aging (residual) flood risk at the local levels in A-NZ. The
+highest-rated barriers are the (lack of) national guidance/
+support, (lack of) financial resources, (lack of) public
+awareness, and a number of technical barriers related to
+flood data, modeling, and staff expertise. Consequently,
+we argue that to better manage residual flood risk in
+A-NZ requires a clearer national directive of how flood
+risk and residual risk should be managed, particularly on
+enabling the local governments with the regulatory provi-
+sions to restrict developments from flood-prone areas
+behind protective structures. Moreover, more dedicated
+resources and support are needed to allow local govern-
+ments to acquire more rigorous and consistent (residual)
+flood risk information, and actively engage with the pub-
+lic for better (residual) flood risk awareness and outreach.
+Without these improvements, residual flood risk will
+likely continue rising in flood-prone communities, which
+will cause all stakeholders to underestimate their flood
+risk as well as the necessary insurance coverage. Without
+a change in approach regarding residual risk, we antici-
+pate we will witness an increased national flood risk
+exposure into the future and reduced insurance afford-
+ability and penetration.
+ACKNOWLEDGEMENTS
+The authors would like to thank the survey respondents
+for their participation in this study. This research is pri-
+marily funded by the MBIE Endeavor Fund C01X2014 —
+Reducing flood inundation hazard and risk across
+Aotearoa/New Zealand. All opinions expressed and
+errors belong solely to the authors. Open access publish-
+ing facilitated by The University of Waikato, as part of
+the Wiley - The University of Waikato agreement via the
+Council of Australian University Librarians.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available
+on request from the corresponding author. The data are not
+publicly available due to privacy or ethical restrictions.
+ORCID
+Xinyu Fu
+https://orcid.org/0000-0002-3591-4158
+REFERENCES
+Anderson, R. B. (2022). The taboo of retreat: The politics of sea level
+rise, managed retreat, and coastal property values in California.
+Economica Anthropology, 9, 284–296.
+Arnell, N. W., & Gosling, S. N. (2016). The impacts of climate
+change on river flood risk at the global scale. Climatic Change ,
+134(3), 387–401.
+Batica, J., & Gourbesville, P. (2014). Flood resilience index-
+methodology and application . CUNY Academic Works.
+10 of 15 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+Berkhout, F., & Dow, K. (2023). Limits to adaptation: Building an
+integrated research agenda. WIREs Climate Change , 14, e817.
+https://doi.org/10.1002/wcc.817
+Bidwell, H. (2023). Cyclone Gabrielle: One-in-500-year flood pre-
+vention system on its way. New Zealand Herald. https://www.
+nzherald.co.nz/hawkes-bay-today/news/cyclone-gabrielle-one-
+in-500-year-flood-prevention- system-on-its- way/PF57ZTX7OF
+G4TKS4YNNTEX22DA/
+Birkland, T. A., Burby, R. J., Conrad, D., Cortner, H., &
+Michener, W. K. (2003). River ecology and flood hazard mitiga-
+tion. Natural Hazards Review , 4(1), 46–54.
+Brody, S. D., Kang, J. E., & Bernhardt, S. (2010). Identifying factors
+influencing flood mitigation at the local level in Texas and Flor-
+ida: The role of organizational capacity. Natural Hazards ,
+52(1), 167–184.
+Bubeck, P., Kreibich, H., Penning-Rowsell, E. C., Botzen, W. J. W.,
+de Moel, H., & Klijn, F. (2017). Explaining differences in flood
+management approaches in Europe and in the USA –a compar-
+ative analysis. Journal of Flood Risk Management , 10(4),
+436–445.
+Collins, D. B. (2021). Hydrological sentinels and the relative emer-
+gence of climate change signals in New Zealand river flows.
+Hydrological Sciences Journal , 66(15), 2146–2154.
+Cradduck, L., Warren-Myers, G., & Stringer, B. (2020). Courts'
+views on climate change inundation risks for developments:
+Australian perspectives and considerations for valuers. Journal
+of European Real Estate Research , 13, 435–453.
+Craig, H., Paulik, R., Djanibekov, U., Walsh, P., Wild, A., &
+Popovich, B. (2021). Quantifying national-scale changes in agri-
+cultural land exposure to fluvial flooding. Sustainability, 13(22),
+12495–12516.
+Dillman, D. A. (2000). Procedures for conducting government-
+sponsored establishment surveys: Comparisons of the total
+design method (TDM), a traditional cost-compensation model,
+and tailored design. In: Proceedings of American statistical
+association, second international conference on establishment
+surveys (pp. 343 –352).
+Dottori, F., Mentaschi, L., Bianchi, A., Alfieri, L., & Feyen, L.
+(2020). Adapting to rising river flood risk in the EU under climate
+change. Joint Research Centre (JRC).
+Eisenack, K., Moser, S. C., Hoffmann, E., Klein, R. J., Oberlack, C.,
+Pechan, A., Rotter, M., & Termeer, C. J. (2014). Explaining and
+overcoming barriers to climate change adaptation. Nature Cli-
+mate Change, 4(10), 867–872.
+Elrick-Barr, C. E., & Smith, T. F. (2021). Policy is rarely intentional
+or substantial for coastal issues in Australia. Ocean & Coastal
+Management, 207, 105609.
+Feldman, D., Contreras, S., Karlin, B., Basolo, V., Matthew, R.,
+Sanders, B., Houston, D., Cheung, W., Goodrich, K., Reyes, A.,
+Serrano, K., Schubert, J., & Luke, A. (2016). Communicating
+flood risk: Looking back and forward at traditional and social
+media outlets. International Journal of Disaster Risk Reduction ,
+15,4 3–51.
+Frame, D. J., Rosier, S. M., Noy, I., Harrington, L. J., Carey-
+Smith, T., Sparrow, S. N., Stone, D., & Dean, S. M. (2020). Cli-
+mate change attribution and the economic costs of extreme
+weather events: A study on damages from extreme rainfall and
+drought. Climatic Change, 162(2), 781–797.
+Fu, X. (2020). Measuring local sea-level rise adaptation and adap-
+tive capacity: A national survey in the United States.
+Cities, 102,
+102717.
+Fu, X., & Li, C. (2022). How resilient are localities planning for cli-
+mate change? An evaluation of 50 plans in the United States.
+Journal of Environmental Management , 318, 115493.
+Fu, X., & Nijman, J. (2021). Sea level rise, homeownership, and resi-
+dential real estate markets in South Florida. The Professional
+Geographer, 73(1), 62–71.
+Gersonius, B., van Buuren, A., Zethof, M., & Kelder, E. (2016).
+Resilient flood risk strategies: Institutional preconditions for
+implementation. Ecology and Society , 21(4), 28–39.
+Gissing, A., Van Leeuwen, J., Tofa, M., & Haynes, K. (2017). Flood
+levee influences on community preparedness: A paradox?
+Australian Journal of Emergency Management , 33(3), 38–43.
+Glavovic, B. C., Saunders, W. S. A., & Becker, J. S. (2010). Realising
+the potential of land-use planning to reduce hazard risks in
+New Zealand. Australasian Journal of Disaster and Trauma
+Studies, 1,1 –14.
+Goodwin, C. (2009). The levee risk: If all players understood the
+Hazard, we would see more action. Journal of Contemporary
+Water Research & Education , 141(1), 60 –61.
+https://doi.org/10.
+1111/j.1936-704X.2009.00037.x
+Hamin, E. M., Gurran, N., & Emlinger, A. M. (2014). Barriers to
+municipal climate adaptation: Examples from coastal Massa-
+chusetts' smaller cities and towns. Journal of the American
+Planning Association, 80(2), 110–122.
+Hammond, M. J., Chen, A. S., Djordjevi /C19c, S., Butler, D., & Mark, O.
+(2015). Urban flood impact assessment: A state-of-the-art
+review. Urban Water Journal , 12(1), 14–29.
+Hanna, C., White, I., Fu, X., Crossland, K., & Serrao-Neumann, S.
+(2022). Green or grey pandemic recovery? Revealing the blue –
+green infrastructure influences in Aotearoa-New Zealand's
+“shovel ready ” Covid-19 response. Urban Policy and Research ,
+41(1), 38–54.
+Harrington, L. J., Dean, S. M., Awatere, S., Rosier, S., Queen, L.,
+Gibson, P. B., Barnes, C., Zachariah, M., Philip, S., Kew, S.,
+Koren, G., Pinto, I., Grieco, M., Vahlberg, M., Singh, R.,
+Heinrich, D., Thalheimer, L., Li, S., Stone, D., … Otto, F. E. L.
+(2023). The role of climate change in extreme rainfall associated
+with cyclone Gabrielle over Aotearoa New Zealand's East Coast.
+Scientific Report Collection . Faculty of Natural Sciences, Impe-
+rial College.
+Henstra, D., Minano, A., & Thistlethwaite, J. (2019). Communicat-
+ing disaster risk? An evaluation of the availability and quality
+of flood maps. Natural Hazards and Earth System Sciences ,
+19(1), 313–323.
+Hirabayashi, Y., Mahendran, R., Koirala, S., Konoshima, L.,
+Yamazaki, D., Watanabe, S., Kim, H., & Kanae, S. (2013).
+Global flood risk under climate change. Nature Climate
+Change, 3(9), 816–821.
+Hutton, N. S., Tobin, G. A., & Montz, B. E. (2019). The levee effect
+revisited: Processes and policies enabling development in Yuba
+County, California. Journal of Flood Risk Management , 12(3),
+e12469.
+Iglesias, V., Braswell, A. E., Rossi, M. W., Joseph, M. B.,
+McShane, C., Cattau, M., Koontz, M. J., McGlinchy, J.,
+Nagy, R. C., Balch, J., Leyk, S., & Travis, W. R. (2021). Risky
+FU ET AL . 11 of 15
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+development: Increasing exposure to natural hazards in the
+United States. Earth's Future, 9(7), e2020EF001795.
+Insurance Council of New Zealand (ICNZ). (2022). Cost of natural
+disasters. https://www.icnz.org.nz/natural-disasters/cost-of-
+natural-disasters
+Jha, A. K., Bloch, R., & Lamond, J. (2012). Cities and flooding: A
+guide to integrated urban flood risk management for the 21st cen-
+tury. World Bank Publications.
+Kerr, J., Thomson, G., & Wilson, N. (2023). Cyclone Gabrielle joins
+list of Aotearoa NZ's ‘sudden mass fatality events ’. Public
+Health Communication Centre Briefing. https://www.phcc.org.
+nz/briefing/cyclone-gabrielle-joins-list-aotearoa-nzs-sudden-mass-
+fatality-events
+Kreibich, H., van Loon, A. F., Schröter, K., Ward, P. J.,
+Mazzoleni, M., Sairam, N., Abeshu, G. W., Agafonova, S.,
+AghaKouchak, A., Aksoy, H., Alvarez-Garreton, C., Aznar, B.,
+Balkhi, L., Barendrecht, M. H., Biancamaria, S., Bos-
+Burgering, L., Bradley, C., Budiyono, Y., Buytaert, W., … Di
+Baldassarre, G. (2022). The challenge of unprecedented floods
+and droughts in risk management. Nature, 608(7921), 80 –86.
+https://doi.org/10.1038/s41586-022-04917-5
+Lamond, J., & Penning-Rowsell, E. (2014). The robustness of flood
+insurance regimes given changing risk resulting from climate
+change. Climate Risk Management , 2,1 –10.
+Lawrence, J., Boston, J., Bell, R., Olufson, S., Kool, R.,
+Hardcastle, M., & Stroombergen, A. (2020). Implementing pre-
+emptive managed retreat: Constraints and novel insights. Cur-
+rent Climate Change Reports , 6(3), 66–80.
+Lawrence, J., & Haasnoot, M. (2017). What it took to catalyse uptake
+of dynamic adaptive pathways planning to address climate
+change uncertainty. Environmental Science & Policy, 68,4 7–57.
+Lawrence, J., Reisinger, A., Mullan, B., & Jackson, B. (2013).
+Exploring climate change uncertainties to support adaptive
+management of changing flood-risk. Environmental Science &
+Policy, 33, 133–142.
+Local Government Act, (2002).
+http://www.legislation.govt.nz/act/
+public/2002/0084/latest/DLM170873.html
+Local Government NZ. (2014). Managing natural hazard risk in
+New Zealand – towards more resilient communities. https://
+www.lgnz.co.nz/assets/Publications/de504aaea2/Managing-
+natural-hazards-LGNZ-think-piece.pdf
+Ludy, J., & Kondolf, G. M. (2012). Flood risk perception in lands
+“protected” by 100-year levees. Natural Hazards, 61(2), 829–842.
+Mai, T., Mushtaq, S., Reardon-Smith, K., Webb, P., Stone, R.,
+Kath, J., & An-Vo, D. A. (2020). Defining flood risk manage-
+ment strategies: A systems approach. International Journal of
+Disaster Risk Reduction , 47, 101550.
+McSweeney, J. (2006). Overview of flood management legislation in
+New Zealand. https://riversgroup.org.nz/wp-content/uploads/
+2018/06/2.1-Overview-of-flood-management-legislation-in-NZ.pdf
+Meerow, S., & Keith, L. (2022). Planning for extreme heat: A
+national survey of US planners. Journal of the American Plan-
+ning Association, 88(3), 319–334.
+Ministry for the Environment. (2008). Meeting the challenges of
+future flooding in New Zealand. https://environment.govt.nz/
+assets/Publications/Files/meeting-challenges-of-future-flooding-
+in-nz.pdf
+Ministry for the Environment. (2010). Preparing for future flooding:
+A guide for local government in New Zealand. Publication
+ME1012. https://environment.govt.nz/publications/preparing-
+for-future-flooding-a-guide-for-local-government-in-new-zealand/
+Newton, K. (2023). For sale: New, warm and dry homes. The catch?
+They're in a flood plain, and the flood is coming sooner than
+you think. Stuff.
+https://www.stuff.co.nz/national/131196837/
+for-sale-new-warm-and-dry-homes-the-catch-theyre-in-a-flood-
+plain-and-the-flood-is-coming-sooner-than-you-think
+NZ Hearld. (2023). Auckland flood victims: The four people killed
+in extreme and unprecedented weather event. New Zealand
+Herald.
+https://www.nzherald.co.nz/nz/faces-of-the-flood-four-
+killed-across-auckland-and-waikato-in-extreme-and-unprecedented-
+weather-event/Z7VR72Z3YJAILCOAVOG4B72DXQ/
+Paster, J., Noy, I., & Sin, I. (2018). Flood risk and flood insurance in
+New Zealand. http://idl.iscram.org/files/jacobpastor/2018/
+1669_JacobPastor_etal2018.pdf
+Puzyreva, K., Henning, Z., Schelwald, R., Rassman, H.,
+Borgnino, E., de Beus, P., Casartelli, S., & Leon, D. (2022). Pro-
+fessionalization of community engagement in flood risk man-
+agement: Insights from four European countries. International
+Journal of Disaster Risk Reduction , 71, 102811.
+Qiang, Y., Lam, N. S., Cai, H., & Zou, L. (2017). Changes in expo-
+sure to flood hazards in the United States. Annals of the Ameri-
+can Association of Geographers , 107(6), 1332–1350.
+Raschky, P. A., & Weck-Hannemann, H. (2007). Charity hazard —A
+real hazard to natural disaster insurance? Environmental Haz-
+ards, 7(4), 321–329.
+Resource Management Act. (1991).
+http://www.legislation.govt.nz/
+act/public/1991/0069/latest/DLM230265.html
+Rijke, J., van Herk, S., Zevenbergen, C., & Ashley, R. (2012). Room
+for the river: Delivering integrated river basin management in
+The Netherlands. International Journal of River Basin Manage-
+ment, 10(4), 369–382.
+Rouse, H. (2011). Flood risk management research in New Zealand:
+Where are we, and where are we going? GNS Science Report ,
+2012(4), 77p.
+Sayers, P., Yuanyuan, L., Galloway, G., Penning-Rowsell, E.,
+Fuxin, S., Kang, W., Wei, Y., & Le Quesne, T. (2013). Flood risk
+management: A strategic approach . Asian Development Bank.
+Scott, M., White, I., Kuhlicke, C., Steinführer, A., Sultana, P.,
+Thompson, P., Minnery, J., O'Niell, E., Cooper, J.,
+Adomson, M., & Russell, E. (2013). Living with flood risk/the
+more we know, the more we know we don't know: Reflections
+on a decade of planning, flood risk management and false
+precision/searching for resilience or building social capacities
+for flood risks?/participatory floodplain management: Lessons
+from Bangladesh/planning and retrofitting for floods: Insights
+from Australia/Neighbourhood design considerations in flood
+risk management/flood risk management –challenges to the
+effective implementation of a paradigm shift. Planning Theory &
+Practice, 14(1), 103–140.
+Serra-Llobet, A., Tourment, R., Montané, A., & Buffin-Belanger, T.
+(2022). Managing residual flood risk behind levees: Comparing
+USA, France, and Quebec (Canada). Journal of Flood Risk Man-
+agement, 15(2), e12785.
+Siders, A. R. (2019). Managed retreat in the United States. One
+Earth, 1(2), 216–225.
+Starominski-Uehara, M. (2021). How structural mitigation shapes
+risk perception and affects decision-making. Disasters, 45(1),
+46–66.
+https://doi.org/10.1111/disa.12412
+12 of 15 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+Stepanova, K. (2021). How do we solve New Zealand's underinsur-
+ance problem? https://www.insurancebusinessmag.com/nz/news/
+breaking-news/how-do-we-solve-new-zealands-underinsurance-
+problem-312429.aspx
+Storey, B., Owen, S., Noy, I., & Zammit, C. (2020). Insurance
+retreat: Sea level rise and the withdrawal of residential insur-
+ance in Aotearoa New Zealand. Report for the Deep South
+National Science Challenge, December 2020.
+Swiss Re. (2022a). In 5 charts: What you need to know about grow-
+ing flood risk. https://www.swissre.com/institute/research/
+sigma-research/sigma-2022-01/five-charts.html
+Swiss Re. (2022b). Natural catastrophes in 2021: the floodgates are
+open. https://www.swissre.com/dam/jcr:326182d5-d433-46b1-
+af36-06f2aedd9d9a/swiss-re-institute-sigma-natcat-2022-en.pdf
+Thaler, T., & Hartmann, T. (2016). Justice and flood risk manage-
+ment: Reflecting on different approaches to distribute and allo-
+cate flood risk management in Europe. Natural Hazards , 83,
+129–147.
+Tubridy, F., Scott, M., & Lennon, M. (2021). Managed retreat in
+response to flooding: Lessons from the past for contemporary cli-
+mate change adaptation. Planning Perspectives, 36(6), 1249–1268.
+Tullos, D. (2018). How to achieve better flood-risk governance in
+the United States. Proceedings of the National Academy of Sci-
+ences, 115(15), 3731–3734.
+van Buuren, A., Lawrence, J., Potter, K., & Warner, J. F. (2018).
+Introducing adaptive flood risk management in England,
+New Zealand, and The Netherlands: The impact of administra-
+tive traditions. Review of Policy Research , 35(6), 907–929.
+Vojinovic, Z. (2015).Flood risk: The holistic perspective. IWA Publishing.
+Wagner, S., Souvignet, M., Walz, Y., Balogun, K., Komi, K.,
+Kreft, S., & Rhyner, J. (2021). When does risk become residual?
+A systematic review of research on flood risk management in
+West Africa. Regional Environmental Change , 21,1 –18.
+Walsh, P., Paulik, R., & Robertson, T. (2019). Flood schemes, flood
+hazards, and awareness in New Zealand. Flood Hazards, and
+Awareness in New Zealand (May 5, 2019). Available at SSRN:
+https://ssrn.com/abstract=3383224
+White, G. F., Kates, R. W., & Burton, I. (2001). Knowing better and
+losing even more: The use of knowledge in hazards manage-
+ment. Global Environmental Change Part B: Environmental
+Hazards, 3(3), 81–92.
+White, I., Kingston, R., & Barker, A. (2010). Participatory geo-
+graphic information systems and public engagement within
+flood risk management. Journal of Flood Risk Management ,
+3(4), 337–346.
+White, I., & Lawrence, J. (2020). Continuity and change in national
+riskscapes: A New Zealand perspective on the challenges for
+climate governance and theory. Cambridge Journal of Regions,
+Economy and Society , 13(2), 215–231.
+Woods, R., Mullan, A. B., Smart, G., Rouse, H., Hollis, M.,
+McKerchar, A., Ibbitt, R., Dean, S., & Collins, D. (2010). Tools
+for estimating the effects of climate change on flood flow: A guid-
+ance manual for local government in New Zealand . Ministry for
+the Environment.
+World Meteorological Organization (WMO). (2022). Weather-related-
+disasters increase over past 50 years, causing more damage but
+fewer deaths.
+https://public.wmo.int/en/media/press-release/
+weather-related-disasters-increase-over-past-50-years-causing-
+more-damage-fewer
+How to cite this article: Fu, X., Bell, R., Reu
+Junqueira, J., White, I., & Serrao-Neumann, S.
+(2023). Managing rising residual flood risk: A
+national survey of Aotearoa-New Zealand. Journal
+of Flood Risk Management , 16(4), e12944. https://
+doi.org/10.1111/jfr3.12944
+FU ET AL . 13 of 15
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+APPENDIX
+Survey on understanding residual flood risk
+management in Aotearoa-New Zealand
+The survey was developed based on a review of the latest
+literature on residual flood risk management, and then
+pilot-tested with academics and practitioners in this field
+to seek external feedback. The survey was later finalized
+after revising the survey by incorporating the collated
+comments and feedback. Then ethical approval was later
+obtained from the Human Research Ethics Committee at
+the University of Waikato before survey distribution.
+This survey aims to explore how and to what extent
+flood risk management in NZ considers, analyzes, and treats
+residual risk. Your response will help us better understand
+and potentially improve flood risk management nationally.
+This survey has five sections with 20 questions in total,
+which will take /C2410–15 min to complete. It is up to you if
+you wish to take part. If you start and change your mind,
+you can stop at any time. Your responses are confidential.
+ Respondent Information (1/5)
+The following questions about the survey participant
+are to ensure the responses are robust and representative
+for New Zealand. All the information will remain confi-
+dential and be later aggregated to reduce the risk of spon-
+taneous recognition.
+1. Please identify the authority or consultancy you
+work for.
+2. Please identify the council department that you work
+in (or work with as consultancy).
+3. What is your position title?
+4. How many years have you worked in this position?
+5. How many years have you worked in flood risk
+management?
+ Knowledge about Residual Flood Risk (2/5)
+Questions in this section are to understand your
+knowledge about residual flood risk and how such risk is
+managed in your jurisdiction. Residual flood risk
+is defined as the potential risk of flooding that remains
+after the implementation of risk treatment actions.
+6. What are the types of flood risk in your jurisdiction?
+ fluvial flooding
+ pluvial flooding (including stormwater and drainage)
+ coastal flooding
+ compound flooding (compound flooding refers to a
+phenomenon in which two or more flooding sources
+occur simultaneously or subsequently within a short
+period of time)
+7. What types of residual flood risk is the council aware
+of? (Please add 1 idea per line)
+8. Is the residual flood risk increasing in your commu-
+nity, and, if yes, what do you think are the underpin-
+ning causes for the increasing residual flood risk?
+(Please add 1 idea per line)
+9. Is high quality flood risk information available for
+your jurisdiction yet?
+ Yes, it is available to all the practitioners.
+ Yes, it is available to both the practitioners and the
+general public.
+ No, we do not have reliable flood risk information.
+10. Does the flood risk information consider residual
+flood risk?
+ Yes
+ No
+ Partially
+11. (Optional) If yes (or partially), how does the flood
+risk information consider residual flood risk?
+ Council Behavior Questions (3/5)
+The following questions ask about your practical
+understanding of how council may alter its current prac-
+tice in response to the external changes such as climate
+change and private insurance retreat. Please use your
+best knowledge to address these questions, but note that
+they are optional so you can skip if you are unsure.
+12. (Optional) What is the council's current insurance
+scheme on flood-protection assets? For example, is the
+council covered by insurance of their flood-protection
+assets up to an agreed flood protection threshold or
+self-insured? Do you expect changes in the council's
+insurance scheme in the near future and, if so, why?
+13. (Optional) How will the council respond to private
+insurance retreat from the flood-prone areas
+(e.g., Tower recently adopted risk-based pricing)?
+14. (Optional) Under the Climate Change Response
+(Zero Carbon) Amendment Act 2019, how would
+regular requests for information on how the council
+manages climate risks (Section 5ZW), alter you coun-
+cil's approach to residual flood risks?
+ (Residual) Flood Risk Management and Land Use Plan-
+ning (4/5)
+14 of 15 FU ET AL .
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+The following questions ask whether (residual) flood
+risk is being integrated into land use planning in your
+jurisdiction and how.
+15. To your best knowledge, how is flood risk informa-
+tion utilized in land use planning and decision-
+making in your jurisdiction?
+16. Is residual risk considered as an integral element of
+flood risk decision-making and management in your
+jurisdiction?
+ Yes
+ No
+ Partially
+ Do not know
+17. (Optional) What mechanisms or planning instru-
+ments are being utilized to manage residual flood
+risk in your jurisdiction?
+ Barriers and Obstacles for Managing Residual Flood
+Risk (5/5)
+This section aims to gain insights into existing bar-
+riers and obstacles that hinder the effective management
+of residual flood risk in your community and collectively
+in New Zealand.
+18. What are the barriers that hinder your council from
+managing the residual flood risk? (rate the following
+with respect to their importance being an existing
+barrier one a scale of not at all important, slightly
+important, important, fairly important, very impor-
+tant, or no opinion).
+ Lack of local political will due to other priorities
+ Lack of national guidance and support
+ Lack of public/stakeholder engagement
+ Lack of public community awareness
+ Lack of systematic mechanisms to revisit and improve
+flood risk management (i.e., institutional inertia to
+adapt and change)
+ Lack of a mandate on public disclosure of flood risk to
+properties
+ Lack of financial resources
+ Lack of staff and expertise
+ Insufficient data
+ Poor data quality
+ Uncertainties due to flood modeling, and future cli-
+mate change
+ Lack of a mandate on flood risk disclosure on proper-
+ties to the public
+ Lack of disincentive/price signals from the private
+insurers
+ No clear guidance entering residual risk on LIMs
+(LIM: Land Information Memorandum)
+19. (Optional) Are there any other barriers other than
+those listed?
+20. (Optional) If you would like to explain the reasons
+for your choice, please leave your comments below.
+Ka nui te mihi
+Thank you very much for your participation and your
+contribution will help us better understand how we can
+manage flood risk more wisely at our local communities
+and collectively as a nation. If you would like to receive
+future updates of this research, please leave your email
+information below.
+FU ET AL . 15 of 15
+ 1753318x, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12944 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

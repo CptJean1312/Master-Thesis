@@ -1,0 +1,593 @@
+[[PAGE 1]]
+ORIGINAL PAPER
+Flood risk perception in lands ‘‘protected’’ by 100-year
+levees
+Jessica Ludy • G. Matt Kondolf
+Received: 2 August 2011 / Accepted: 15 December 2011 / Published online: 4 January 2012
+/C211 Springer Science+Business Media B.V. 2012
+Abstract Under the US National Flood Insurance Program, lands behind levees certiﬁed
+as protecting against the 100-year ﬂood are considered to be out of the ofﬁcially recognized
+‘‘ﬂoodplain.’’ However, such lands are still vulnerable to ﬂooding that exceeds the design
+capacity of the levees—known as residual risk. In the Sacramento-San Joaquin Delta of
+California, we encounter the curious situation that lands below sea level are considered not
+‘‘ﬂoodplain’’ and open to residential and commercial development because they are
+‘‘protected’’ by levees. Residents are not informed that they are at risk from ﬂoods, because
+ofﬁcially they are not in the ﬂoodplain. We surveyed residents of a recently constructed
+subdivision in Stockton, California, to assess their awareness of their risk of ﬂooding.
+Median household income in the development was $80,000, 70% of respondents had a
+4-year university degree or higher, and the development was ethnically mixed. Despite the
+levels of education and income, they did not understand the risk of being ﬂooded. Given
+that literature shows informed individuals are more likely to take preventative measures
+than uninformed individuals, our results have important implications for ﬂood policy.
+Climate-change-induced sea-level rise exacerbates the problems posed by increasing
+urbanization and aging infrastructure, increasing the threat of catastrophic ﬂooding in the
+California Delta and in ﬂood-prone areas worldwide.
+Keywords Risk perception /C1Flood insurance /C1100-year ﬂood /C1Levee /C1
+Residual risk /C1Delta
+J. Ludy /C1G. M. Kondolf
+Department of Landscape Architecture and Environmental Planning, University of California,
+202 Wurster Hall #2000, Berkeley, CA 94720-2000, USA
+e-mail: kondolf@berkeley.edu
+J. Ludy ( &)
+Division of Flood Management, American Rivers, 2150 Allston Way, Suite 320,
+Berkeley, CA 94720, USA
+e-mail: jessica.ludy@gmail.com
+123
+Nat Hazards (2012) 61:829–842
+DOI 10.1007/s11069-011-0072-6
+
+[[PAGE 2]]
+1 Introduction
+On ﬂoodplains behind levees, new developments attract residents to lands perceived as
+‘‘protected’’ from ﬂoods, but which are still vulnerable to inundation by ﬂoods exceeding
+the design ﬂood magnitude. In effect, the levees ‘‘ﬁlter’’ small ﬂoods and change the
+perception of ﬂood likelihood, thereby encouraging human settlement of marginal lands
+that might not otherwise be occupied (or at least as extensively). These human settlements
+are then vulnerable to destruction by infrequent, large events. The dynamics of such
+coupled human-natural systems have been well documented for barrier islands by
+McNamara and Werner ( 2008) and for back-swamp areas of New Orleans (Werner and
+McNamara 2007) and are applicable more generally to ﬂoodplains ‘‘protected’’ by levees.
+Many residents of lands vulnerable to ﬂoods or other disasters underestimate their ﬂood
+risk (Gardner and Stern 1996). Of particular interest are new developments on ﬂoodplains,
+because in these cases residents choose to move into newly constructed houses behind
+recently constructed (or in the United States (US), recertiﬁed) levees. How well do these
+individuals understand the true ﬂood risk? This question has important public policy
+implications with respect to safety because informed individuals are more likely to take
+preventative measures than uninformed individuals. Further, where individuals can take
+measures to reduce risk, they can minimize consequences of a disaster such as loss of life and
+property damage. As such, if an individualvoluntarily accepts a risk, he or she is presumed to
+have the option to avoid the risk (Raaijmakers et al. 2008). It follows that if an individual is
+unaware of a risk, the individual cannot make a fully informed decision about taking the risk.
+Since the motivation to protect oneself comes from the perceived severity of the threat
+and the perceived probability of the occurrence or vulnerability (Grothmann and Reusswig
+2006), misperceptions of ﬂood risk have been found to result in larger losses than nec-
+essary (Sniedovich and Davis 1977). One’s level of ﬂood risk awareness directly inﬂuences
+his or her actions before and during a ﬂood (Grothmann and Reusswig 2006; Burningham
+et al. 2008).
+In the Sacramento-San Joaquin Delta of California, new developments have proliferated
+on ﬂood-prone lands, many behind levees and below sea level. To understand public
+perceptions of ﬂood risk in these developments requires that we ﬁrst examine US federal
+ﬂood policy, and how it encourages local land-use decisions to permit development in
+potentially unsafe areas. Despite a policy aimed at reducing ﬂood losses, damages have
+risen since the policy’s adoption, and ﬂood risk is increasing.
+Urbanization of ﬂoodplains has altered the natural hydrologic regime by constricting
+river channels and increasing impervious surfaces (where water may previously have
+inﬁltrated), both of which increase water surface elevations and increase the likelihood of a
+ﬂood inundation of lands downstream. Additionally, more and more people have settled on
+ﬂoodplains behind levees (Kelley 1998; Burby 2001; Pinter 2005), which has increased the
+consequences of ﬂooding due to levee failure or overtopping.
+1.1 The US National Flood Insurance Program
+The US National Flood Insurance Program (NFIP) was established by the Flood Insurance
+Act in 1968 to provide coverage to ﬂood-prone properties, which private insurers would
+not cover. For its residents to receive insurance, participating communities were required
+to adopt land-use regulations to prevent further development in ﬂood-prone lands, to
+prevent the problem from getting worse in the future. For the purposes of the insurance
+program, in 1973, the Senate Committee on Banking, Housing, and Urban Affairs adopted
+830 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 3]]
+the ‘‘100-year ﬂoodplain’’ as the regulatory threshold. The 100-year ﬂood (i.e., with a
+return interval of 100 years as annual maximum) has a one percent probability of occurring
+in any given year, so this is often termed the ‘‘one-percent’’ approach.
+The 100-year ﬂoodplain is delineated in an engineering study, usually by application of
+hydrologic and hydraulic models (Fig. 1). The 100-year ﬂoodplain is subject to both an
+insurance requirement and ‘‘community ﬂoodplain management.’’ In the high-velocity
+‘‘ﬂoodway,’’ new development is prohibited. In the outer ﬂoodplain ‘‘fringe,’’ new structures
+must be elevated above expected ﬂood levels and must demonstrate that they will not raise
+the level of the ﬂood by more than 0.3 m (1 ft). Under the NFIP, if a property is in a ﬂood
+zone as determined by the Special Flood Hazard Area map, a federally backed mortgage
+requires the property owner to purchase a ﬂood insurance policy, but properties owned
+outright are not required to have ﬂood insurance. Properties outside the ofﬁcially designated
+ﬂoodplain by virtue of a hydraulic structure (e.g., levee) are not required to purchase ﬂood
+insurance, though there are arguments for mandatory purchase in these areas (H 1309, 2011).
+Burby ( 2001) argued that the costs of construction and insurance should discourage
+development in ﬂoodplains if three conditions are met: If the government requires property
+owners to purchase ﬂood insurance, if the government sets insurance rates such that they
+reﬂect actual ﬂood damage costs, and if risk can be lowered through building regulations
+and avoiding development in ﬂoodplains, and then the costs of construction and insurance
+should discourage construction in ﬂoodplains. However, because houses behind levees are
+considered ‘‘out of the ﬂoodplain’’ and homeowners are not required to purchase insurance,
+NFIP may encourage construction of levees rather than discourage construction in areas
+that are still vulnerable to ﬂooding, but at probabilities \1% likelihood per year.
+The use of the 100-year ﬂood as a standard has been widely criticized. The calculated
+100-year ﬂood commonly changes (it is usually redeﬁned as larger) as new data become
+available (Mount 1995), and this larger 100-year ﬂood would mean a more extensive
+100-year ﬂoodplain. At least 25–30% of ﬂood damage claims come from areas outside of
+the designated 100-year ﬂoodplain. (FEMA 2010, Loucks & Stedinger 2007). Additionally,
+the ‘‘100-year ﬂood’’ is widely misunderstood. Many believe the ﬂoodplain will be safe
+from ﬂooding for the next 99 years after a 100-year ﬂood (Mount 1995). It is clear that the
+NFIP has had tremendous inﬂuence on land-use regulation and planning in local jurisdic-
+tions. In conversations with FEMA staff, we have been reminded that ‘‘It’s just an insurance
+program.’’ But in practice, the 100-year ﬂoodplain has become the default working deﬁ-
+nition of ‘‘ﬂoodplain’’ for land-use planning and ﬂood-control projects in the United States.
+1.2 Levees and residual risk
+As the NFIP was being implemented, the question arose of whether ﬂoodplain lands
+protected by levees were still ‘‘ﬂoodplain.’’ The decision was made that these lands were
+(adapted from Eisenstein et. al 2007)
+“Out of the ﬂ oodplain”
+No insurance required
+No building restrictions
+“In the ﬂ oodplain”
+No new development
+Insurance required 
+Must elevate buildings
+100-year ﬂ oodplain
+Fig. 1 How the National Flood Insurance Program works
+Nat Hazards (2012) 61:829–842 831
+123
+
+[[PAGE 4]]
+outside the ofﬁcial ﬂoodplain, and thus residents would not be required to purchase ﬂood
+insurance for federally backed mortgages (Montz and Tobin 2008), nor were they required
+to elevate houses or retroﬁt structures to be ‘‘ﬂood proof.’’ In fact, residents would not be
+informed that they were living in (or purchasing a house in) the ﬂoodplain, because
+according to the program rules, they were not. This element of the program has had
+unintended consequences, and may have led to greater development on ﬂood-vulnerable
+lands than would have been the case in the absence of the program (Burby 2001).
+A levee may ‘‘remove’’ the risk of a 100-year ﬂood, but not the risk from ﬂoods larger
+than the 100-year ﬂood, such as the 200-year, the 500-year, or even the 101-year ﬂood
+(Carter 2005). Assuming the levees function as designed and protect against the 100-year
+ﬂood, there is still a residual risk of being ﬂooded by ﬂoods larger than the design 100-year
+ﬂood. Over the life of a 30-year mortgage, this residual risk from larger ﬂoods adds up to
+26% (Bell and Tobin 2007). Beyond this residual risk from larger ﬂoods, levees may fail
+from factors such as earthquakes, subsidence, sea-level rise, and human, organizational,
+and institutional factors (Mount and Twiss 2005; Bea et al. 2009).
+How well do residents in ﬂoodplains now protected by 100-year levees (so not ofﬁcially
+‘‘in the ﬂoodplain’’) understand these risks? In the Netherlands, where extensive areas are
+habitable only because of levees and dikes, surveys found that residents perceived ﬂood risk
+to be low, attributed to the belief that ﬂood protection is government responsibility (Terpstra
+and Gutteling 2008). In Switzerland, residents in areas with expert-estimated 1% annual risk
+of ﬂoods perceived their risk to be low and were subsequently not prepared for disaster
+(Siegrist and Gutscher 2006). Property values in levee-protected lands in St. Louis County,
+Missouri, before the Great Mississippi ﬂoods in 1993 suggested that residents were unaware
+of the ﬂood risk (Kousky 2010). However, our literature search encountered no previous
+study directly measuring the perception of risk by residents on lowlands behind accredited
+‘‘100-year’’ levees. Four years after Hurricane Katrina ﬂooded New Orleans, we surveyed
+risk perception in a suburban development in the Sacramento-San Joaquin Delta of Cali-
+fornia, which lies below sea level but is ‘‘protected’’ by a 100-year levee.
+2 Factors inﬂuencing ﬂood risk perception
+The literature suggests that risk perception is unique to the individual, constructed by
+sensory experiences (Lee 1981), and inﬂuenced by knowledge, personal attributes, pre-
+vious experience, and environmental conditions (Rohrmann 1994). Many have identiﬁed
+prior ﬂood experience as one of the most inﬂuential factors in hazard perception (Burn
+1999; Burningham et al. 2008; Siegrist and Gutscher 2006), as previous experience or
+familiarity with a similar event (to the one being assessed) allows an individual recall its
+occurrence and assign a future probability (Brilly and Polic 2005). Other factors that
+inﬂuence the public perception of a risk are the public’s trust in expert knowledge and
+safety measures (including land-use decisions and levees), a misunderstanding of proba-
+bilities like the ‘‘100-year ﬂood,’’ and how such concepts are portrayed in the media.
+In a 2007 position statement, the Association of State Floodplain Managers (ASFPM
+2007) argued that thousands of ﬂoodplain residents believe they are safe because ‘‘they do
+not believe government would allow them to live behind a levee if it were not safe.’’ Trust
+in ﬂood control structures greatly inﬂuences risk perception (McPherson and Saarinen
+1977), so much that in some cases, individuals living in a levee-enclosed area believed the
+structures reduce their risks to zero (Pinter 2005). When residents are told they are not ‘‘in
+the ﬂoodplain’’ it is not surprising that they underestimate their ﬂood risk.
+832 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 5]]
+How media frames an issue affects how information is perceived, ampliﬁed, and
+attenuated by the public (Kasperson and Kasperson 1996). When certain events are
+reported disproportionately, the public’s perception of the frequency of those events is
+biased (Combs and Slovic 1979). Because of media coverage, lower probability events
+may seem more common than they actually are, and higher probability events like ﬂoods
+may appear to occur less frequently than they do.
+3 Study objectives
+The objectives of this study were to determine whether residents of a recently constructed
+subdivision protected by a 100-year levee were aware of their risk of ﬂooding, both
+residual risk of inundation by ﬂoods with return periods greater than the design ﬂood, and
+from levee failure through seismic shaking or other mechanisms. We selected a subdivision
+of new houses (ranging in elevation from just above sea level to 1.8 m below), whose
+owners were well-educated professionals with higher incomes than average for the city and
+county. Thus, we could look for risk awareness in a population that was as likely to be
+aware as any, in a location whose ﬂood risk would seem especially obvious by virtue of its
+position below sea level.
+4 Materials and methods
+4.1 Study area
+The Sacramento-San Joaquin Delta has experienced rapid urbanization in recent decades,
+as urban sprawl has spilled over from the San Francisco Bay and Sacramento regions.
+Previously, inexpensive agricultural lands have been converted to subdivisions, with the
+result that San Joaquin County has been the ﬁfth fastest growing county in the state, with
+more than 30,800 new housing units approved for development since the ﬂoods of 1997 on
+lands that can be considered ﬂood-prone by virtue of meeting at least two of the following
+criteria: (1) they have ﬂooded since 1862, (2) they are protected by certiﬁed ‘‘100-year’’
+levees, and/or (3) they are no more than three meters above sea level (Shaw and Nichols
+2005). The Spanos Park West development in north Stockton, San Joaquin County (Fig. 2),
+was constructed from 2000 to 2004. It is representative of much of the suburban ﬂoodplain
+development within the Delta, on lands ranging in elevation from just above sea level
+(?0.3 m) to 1.6 m below (Fig. 3a, b).
+4.2 Site reconnaissance
+We reviewed maps and conducted multiple site visits to validate map analyses, examine
+characteristics of housing, and to survey a topographic cross section from Bear Creek,
+across the levee, and on the adjacent lands in the development.
+4.3 Survey instrument and selection
+We administered a questionnaire containing 20 questions (both open and close-ended)
+designed to elicit speciﬁc information about a households’ perceived level of ﬂood risk in
+Nat Hazards (2012) 61:829–842 833
+123
+
+[[PAGE 6]]
+several categories—prior experience with ﬂoods, personal assessment of ﬂood likelihood
+and damages, general ﬂood knowledge, and behavior, including self-protective or prepa-
+ratory measures. The survey extracted categorical data including ordinal, nominal, and
+binary. Approved by the UC Berkeley Committee for the Protection of Human Subjects,
+the survey was also reviewed and edited by more than 24 international professionals,
+academics, and practitioners via the listserve of the Natural Hazards Center in Boulder,
+Colorado.
+We administered a survey to 500 households randomly selected from the 1,284
+households in the subdivision. After subtracting vacant properties and foreclosures, we had
+a usable sample of 490 households, from which we received 114 usable responses (23%
+response rate, 9% of the entire development). Following the Tailored Design Method for
+Fig. 2 Location map, Sacramento-San Joaquin Delta and Spanos Park West
+834 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 7]]
+writing and administering surveys (Dillman 2000), we mailed 20 pre-test surveys with a
+letter introducing the study and revised any potentially confusing questions. Four weeks
+later, we mailed the revised survey instrument and letter of introduction to the full sample,
+reminded residents 11 days later with a post card, and ﬁnally re-mailed the surveys to
+addresses that had not responded after 5 weeks. We did not conduct a post-survey follow-
+up to check for non-response bias. To test for relationships between ﬂood risk awareness
+and education level or income, we assigned numerical values (ranking) to some select
+qualitative (ordinal) data, and conducted a contingency table analysis. Because of the form
+of our variables, we could not compute a correlation matrix for all variables. However, our
+purpose was not to explore relations between risk perception and income/education, which
+have been documented elsewhere, rather to determine how well our sample population (of
+well-educated professionals) understood their true ﬂood risk.
++3.0m
+mean sea-level
++0.7m
+15m 30m0 m
+a
+b
+-0.7m  high tide
+low tide-1.3m
+Bear Creek Levee
+Bear Creek Levee
+Fig. 3 a –b Cross section of Bear Creek levee at Spanos Park West
+* 32 residents 
+“unsure”
+my property will not ﬂ  ood
+yard
+ﬁ r s t  ﬂ o o r
+01 0 6 0 504020 30
+# households
+second ﬂ  oor
+roof
+n=114
+perceived inundation (ﬂoors)
+Fig. 4 Respondents’ perceived
+inundation depth in the event of
+failure during a ‘‘100-year’ ’ ﬂood
+Nat Hazards (2012) 61:829–842 835
+123
+
+[[PAGE 8]]
+5 Results
+5.1 Sample characteristics
+Survey respondents were 46% female and 54% male. Ages ranged from 18 years to older
+than 65 with 67% between 35 and 54 years old. 73% of respondents reported speaking
+English as a ﬁrst language. Mean respondent household size was 3.31 people, ranging from
+one person to more than six. Annual mean and median household income of respondents in
+Spanos Park West were roughly $80,000 and $90,000, respectively, higher than county-
+wide average of $63,739 (San Joaquin Council of Governments 2005a). 43% of respondent
+households in Spanos Park West earned $100,000 or greater annually.
+The respondents in Spanos Park West were well-educated: 37% had a 4-year university
+degree, 27% post-graduate, and 10% had a professional degree. No respondent households
+reported an education level less than secondary school. Our sampled population was better
+educated than the rest of San Joaquin County, where only 17.3% have a bachelor’s degree
+or higher (San Joaquin Council of Governments 2005b). The population in Spanos Park
+West was ethnically diverse, with 30% White, 23% Asian, 19% Hispanic, and 10% African
+American. While most respondents (69%) had lived in their house for 3–5 years, most had
+lived in Stockton for longer: 19% for 11–20 years, 39% for more than 20 years. 107
+respondents owned their houses, six rented (and one did not respond to this question).
+5.2 Survey responses to risk perception questions
+When asked to assess their risk of ﬂooding from ‘‘no risk,’’ ‘‘low risk,’’ ‘‘medium risk,’’ to
+‘‘high risk,’’ 59% of respondents believed their risk was ‘‘low,’’ 6% said ‘‘no risk,’’ and
+only 35% said ‘‘medium’’ or ‘‘high’’ risk. When inquired about level of concern, 34% were
+‘‘not at all concerned’’ about their property ﬂooding and 47% were ‘‘somewhat con-
+cerned.’’ Respondents were mixed in their levels of conﬁdence that Bear Creek Levee
+would protect them during a ﬂood: 39% were ‘‘conﬁdent’’ or ‘‘very conﬁdent,’’ 42% were
+‘‘somewhat conﬁdent’’ or ‘‘not at all conﬁdent’’ in the levee’s protection, and 18% were
+unsure.
+When asked to estimate the water depth and damage at their property in the event of a
+levee break (Fig. 4), ranging from ‘‘my property would not ﬂood’ ’ to expecting ﬂooding as
+high as ‘‘the roof,’’ 18% of respondents anticipated water only reaching the yard, 45%
+stated water would reach the ﬁrst ﬂoor, and another 28% did not know. Few selected the
+second ﬂoor or the roof. Comparing respondents’ expectations to the actual ﬂood depths at
+their houses from a levee break during a 100-year ﬂood, 47% of respondents either
+underestimated the depth or were unsure how deep it would be. 46% estimated correctly
+and roughly 6% overestimated the depth. The main factor controlling actual ﬂood depths
+will be location of the house within the subdivision, whose lands slopes westward from sea
+level to 1.6 m below sea level. The questionnaire included an opportunity for respondents
+to describe the damage they thought their property would sustain if a levee broke near their
+home. Not all respondents answered this question, but of those that did, most anticipated
+minimal damages: ‘‘water, mold, or mud damage,’’ ‘‘Little if any—mostly exterior,’’ and
+‘‘Hardly any damage at all or maybe just ﬂooding of the front lawn.’’ A few anticipated
+greater losses and damage: ‘‘Major damage … If the levee broke, my ﬁrst ﬂoor and
+everything in it would be completely destroyed beyond repair,’’ ‘‘I would not live in it
+anymore,’’ and ‘‘My home is only one level so I think it will be completely destroyed.’’ As
+the development is below sea level, damage would in fact be signiﬁcant, because the
+836 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 9]]
+inundation would occur suddenly as a wall of water, and the properties would not drain
+after passage of the ﬂood peak.
+When asked to assess their ﬂood risk in comparison with other risks faced, such as
+illness, accidents, or other natural hazards, most respondents thought they were equally
+likely to experience a ﬂood as a ﬁre. However, the likelihood of a house catching ﬁre over
+a 30-year mortgage period is 4% (Loucks and Stedinger 2007) compared to the 26%
+residual risk of ﬂooding on lands behind 100-year levees. On a scale from ‘‘not at all
+likely’’ to ‘‘almost certainly,’’ a combined 82% of respondents believed ﬂooding was ‘‘not
+at all likely’ ’ or only ‘‘somewhat unlikely.’’
+5.3 Prior ﬂood experience, knowledge, and risk disclosure
+2.6% of respondents reported having indirect prior experience with ﬂoods. None had
+personal experience with ﬂoods in their own house. Given reports in the literature that prior
+experience with ﬂoods is one of the most inﬂuential factors of risk awareness, this factor
+could contribute to underestimating the local ﬂood threat.
+When asked if they were familiar with the term, ‘‘100-year Flood,’’ 34% of respondents
+said they were familiar with the term, 52% were unfamiliar, and 14% were somewhat
+familiar. However, only three respondents (2.6%) deﬁned the term correctly. 31% stated
+they understood the term, but their responses indicated that they did not. The most common
+responses were some variation of, ‘‘A major ﬂood comes every 100 years—it’s a worst-
+case scenario,’’ ‘‘According to history, every 100 years or so, major ﬂooding has occurred
+in the area and through documented history, they can predict or hypothesize on what to
+expect and plan accordingly and hopefully correctly.’’
+Six percent of respondents had been informed by their real estate agents that the
+subdivision was at risk of ﬂooding, and only 12% reported any discussion of ﬂooding with
+a real estate agent. Two respondents said they had asked their real estate agents speciﬁcally
+whether they were in a ﬂoodplain and were told, ‘‘no.’ ’ Ofﬁcially, this is correct, because
+the development is outside the FEMA-designated ‘‘ﬂoodplain’’ for the insurance program.
+One respondent who identiﬁed himself as a consultant in the planning and commercial
+development industry wrote: ‘‘The disclosure has been that even though there is a theo-
+retical ﬂood risk, the appropriate mechanism is the construction and maintenance of strong
+levees for which all homeowners contribute annually. Conversely, if such levees were not
+certiﬁed, then issuance of a building permit will not be possible in the ﬁrst place.’’
+60% of Spanos Park West survey respondents reported that they had not been informed
+of their risk and that they did not frequently hear about ﬂood-related issues. In fact, 30% of
+households reported they never hear about ﬂooding, 54% hear rarely, and only 15% of
+households hear about ﬂood-related issues on a monthly basis. Some respondents requested
+more information and one resident commented additionally, ‘‘I contacted Stockton City
+Hall after hearing this information and was glibly told I had little to worry about.’’ Of the
+40% of households that had been informed of their ﬂood risk, most found out through an
+insurance agency or local newspapers. Television also was a major source for ﬂood
+information.
+5.4 Behavior, insurance purchase, and preparation
+20% of respondents had purchased a ﬂood insurance policy. This is higher than the 1%
+national average for purchase outside of the ofﬁcial ‘‘ﬂoodplain’’ (Dixon et al. 2006).
+When asked whether or not their households had taken any measures to be ‘‘generally
+Nat Hazards (2012) 61:829–842 837
+123
+
+[[PAGE 10]]
+prepared’’ for a ﬂood, 13% of respondents answered ‘‘yes,’’ citing discussing evacuation
+routes and storing valuables on the second ﬂoor. No residents reported keeping a boat
+despite extensive media coverage of rescues during Hurricane Katrina by boats.
+At the end of the questionnaire, one respondent noted, ‘‘It is my understanding that my
+area is not in a ﬂood zone. That the levees have been reinforced in the 1980s. If I felt or
+learned that a ﬂood was eminent, I would take the steps to protect my property.’’
+When asked whether respondents would evacuate or shelter at home if advised of a
+voluntary evacuation order, 79% responded they would evacuate, 17% that they would stay
+at home, citing a desire to protect their property, not knowing anywhere else to go,
+disability, or fear that the disaster would be a repeat of what happened in the Superdome in
+post-Katrina New Orleans. Others would avoid evacuating because they were still
+unconcerned about the risk. ‘‘Flooding is unlikely and if a ﬂood occurs, it will be mini-
+mal,’’ ‘‘FEMA set new standards and this should be safe,’’ and, ‘‘I personally don’t feel my
+home would ﬂood, especially because of the height it was built off the street. As per the
+most recent home assessment, my home wasn’t in the worst ﬂoodplain rating.’’
+6 Discussion
+One might expect that a population in which 75% of respondents have at least a four-year
+university degree would understand their risk. However, our study clearly shows that in a
+subdivision of houses selling for $200,000–$1,000,000 in August 2008 (Movoto Real
+Estate 2008), the mostly well-educated, professional residents were unaware of their true
+risk of ﬂooding, believing that the ‘‘100-year’’ levee protected them from all ﬂooding.
+Most had taken no precautions such as keeping a boat available for escape during a ﬂood.
+In the Sacramento-San Joaquin Delta, ﬂoodwaters will be more lethal than those experi-
+enced by New Orleans residents during Hurricane Katrina, because the ﬂoods will likely
+occur during the winter, when water temperatures are typically below 10 /C176 C. Katrina
+ﬂoodwaters in New Orleans in August 2005 were around 30/C176 C, warm enough that a person
+can survive over 12 h. Flood victims will survive less than an hour in waters below 10 /C176 C.
+Previous studies have suggested that risk perception was correlated with education and
+income (Burningham et al. 2008). However, our population had a relatively narrow range:
+mostly well-educated professionals with high incomes, so it is not surprising that a con-
+tingency table analysis showed that ﬂood risk perception was not related to educational
+level or annual income at a = 0.05.
+Research to improve our understanding of how people think about risk can have an
+important role in informing policy (Slovic et al. 1982). It is likely that other ﬂood-prone
+communities across the country are similarly unaware of their true risks and are compa-
+rably unprepared for ﬂoods.
+Studies in the Netherlands (Terpstra and Gutteling 2008) and in Japan (Motoyoshi
+2006) demonstrated that residents considered safety to be the responsibility of the gov-
+ernment. Consistent with this attitude, our respondents may have assumed that because the
+government allowed them to live in a given area implied that the government considered
+that area safe. ‘‘We are not considered to be in a ﬂoodplain because the levees have been
+improved,’’ wrote one resident. ‘‘We are in a FEMA Zone-X, [we are] protected by
+levees,’’ wrote another.
+This study is a ﬁrst look into ﬂood risk perception on lands protected by 100-year levees
+in the United States. It answers the important questions, are these residents aware of their
+residual ﬂood risk and are they prepared for a ﬂood? A more detailed look with a more
+838 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 11]]
+in-depth questionnaire (such as conducted by Terpstra and Gutteling 2008) might reveal
+which factors inﬂuence the perceived levels of risk in Spanos Park West and those factors
+which might inﬂuence future self-protective behavior. These results could then be used to
+target effective and appropriate measures for raising risk awareness and reducing risk.
+In the meantime, it signiﬁcant that those who are exposed are unaware of the threat, and
+policy makers could develop measures aimed at reducing risk given the current risk per-
+ception of their constituency. In what might be considered a partial recognition of the
+problems inherent in the use of the 100-year ﬂood in land-use planning, the State of
+California has adopted laws requiring use of the 200-year ﬂood as a basis for planning
+instead (Central Valley Flood Protection Act of 2008). However, in the Sacramento-San
+Joaquin Delta, where water surface elevations are driven more by sea level than by riverine
+hydrology, the difference between the 100- and 200-year water surface elevations is
+commonly on the order of centimeters or tens of centimeters, yet the residual risk for lands
+protected by a 200-year levee remains high.
+The State of California also now requires annual ﬂood risk notiﬁcation to all residences
+in State and Federal ‘‘Levee Flood Protection Zones,’’ though this notice is mailed after
+home purchase.
+7 Conclusion
+Residents in our studied subdivision in the Sacramento-San Joaquin Delta of California
+were unaware of the residual of ﬂooding threat on levee-protected lands. Under federal
+ﬂood insurance rules, these lands are not considered as ‘‘ﬂoodplain,’’ despite being below
+sea level. Residents do not understand that they still face signiﬁcant ﬂood risk: both from
+the residual risk from ﬂoods exceeding the design ﬂood, and from other threats to levee
+integrity in this seismically active region, an earthquake is likely to cause extensive levee
+failure (Mount and Twiss 2005). Thus, the residents are involuntarily exposed to risk.
+Investment in ‘‘prevention, protection, and preparedness’’ has recently become an
+overarching strategy for reducing ﬂood risk in the Netherlands and the European Union,
+and risk perception contributes to preparedness (European Commission on the Environ-
+ment 2009).
+While knowledge and acceptance of a risk does not guarantee a behavioral response,
+public policy to provide better information on ﬂood risk to residents (Wenk 2006) would
+increase the likelihood that residents would take precautionary action (Rogers 1975).
+Along rivers in long-settled landscapes, it is common to see buildings, walls, and pillars
+marked with high water marks of past ﬂoods, a visible reminder that the land is ﬂood prone
+(Fig. 5). A similar approach could be used in these newly built, ‘‘memory-free’’ subdivi-
+sions by posting expected levels of inundation from ﬂoods exceeding the 100-year design
+ﬂood or levee failure from other causes.
+Other public education approaches should be developed to ensure people behind levees
+understand their true ﬂood risk such as ﬂood risk disclosure prior to any real estate
+transaction. Fridirici (2008) suggests integrating rally points or clear evacuation routes into
+neighborhoods as a likely way to raise awareness. In light of Palm’s ( 1981) ﬁndings that
+natural hazard disclosure does not guarantee risk-avoidance behavior, policies that dis-
+courage development in hazardous areas might be considered as ‘‘preventative’’ measures
+by minimizing threat exposure to life and property. Or, as one respondent added to the
+open comment section of his questionnaire, ‘‘The correct way of addressing ﬂood hazard is
+to never allow building in a risk prone area.’’
+Nat Hazards (2012) 61:829–842 839
+123
+
+[[PAGE 12]]
+Acknowledgments Ron Baldwin of San Joaquin County Ofﬁce of Emergency Services and Chris Neu-
+deck of KSN Inc. shared insights from years dealing with ﬂood risk in the region and helped immensely with
+introductions and logistics. Professors Robert Bea and John Radke (UC Berkeley) provided extremely
+helpful guidance, and the Natural Hazards Center at the University of Colorado, Boulder, helped us obtain
+review comments on our survey instrument through an appeal to experts over its listserve; the comments of
+Kristin Hoskin and Toni Morris-Oswald were especially helpful. Herve ´ Pie´gay computed a contingency
+table and provided helpful comments on the nature of the data and potential statistical tools. The work was
+partially supported by the National Science Foundation EFRI Grant No. 0836047 and the Beatrix Farrand
+Fund of the Department of Landscape Architecture and Environmental Planning, UC Berkeley.
+References
+Bea R, Mitroff I, Farber D, Foster H, Roberts K (2009) A new approach to risk: the implications of E3. Risk
+Manag 11(1):30–43
+Bell H, Tobin M (2007) Efﬁcient and effective? The 100-year ﬂood in the communication and perception of
+ﬂood risk. Environ Hazards 7(4):302–311
+Brilly M, Polic M (2005) Public perception of ﬂood risks, ﬂood forecasting and mitigation. Nat Hazards
+Earth Syst Sci 5(3):345–355
+Burby RJ (2001) Flood insurance and ﬂoodplain management: The US experience. Global Environ Change
+Part B Environ Hazards 3(3–4):111–122
+Burn D (1999) Perceptions of ﬂood risk: a case study of the Red River ﬂood of 1997. Water Resour Res
+35(11):3451–3458
+Burningham K, Fielding J, Thrush D (2008) ‘It’ll never happen to me’: understanding public awareness of
+local ﬂood risk. Disasters 32(2):216–238
+Carter NT (2005) Flood risk management: Federal role in infrastructure (CRS report for congress no.
+RL33129). Congressional Research Service, Library of Congress, Washington, DC. Retrieved from
+http://digital.library.unt.edu/govdocs/crs/data/2005/meta-crs-7915.tlk
+Central Valley Flood Protection Act of 2008, Senate Bill 5 §9601–9602. California Statutes
+Combs B, Slovic P (1979) Causes of death: biased newspaper coverage and biased judgments. J Q
+56:837–843
+Dillman D (2000) Mail and internet surveys: the tailored design method, 2nd edn. Wiley, New York
+Dixon L, Clancy N, Seabury SA, Overton A (2006) The national ﬂood insurance program’s market pene-
+tration rate: estimates and policy implications. Retrieved 18 Nov 2011 from http://www.fema.gov/
+library/viewRecord.do?id=2599
+Fig. 5 High water marks from Elbe River, Sachsen, Germany
+840 Nat Hazards (2012) 61:829–842
+123
+
+[[PAGE 13]]
+European Commission on the Environment (2009) A European ﬂood action programme. Retrieved Oct 2009
+from http://ec.europa.eu/environment/water/ﬂood_risk/ﬂood_risk.htm
+Federal Emergency Management Agency (FEMA) (2010) Myths and facts about the National Flood
+Insurance Program. Retrieved 26 Apr 2010 from http://www.fema.gov/library/viewRecord.do?id=3002
+Flood Insurance Reform Act of 2011, (§107) H 1309, 112th congress, 1st session (2011)
+Fridirici R (2008) Floods of people: new residential development into ﬂood-prone areas in San Joaquin
+County, California. Nat Hazards Rev 9(3):158
+Gardner GT, Stern P (1996) Environmental problems and human behavior. Allyn and Bacon, Boston
+Grothmann T, Reusswig F (2006) People at risk of ﬂooding: why some residents take precautionary action
+while others do not. Nat Hazards 38(1):101–120
+Kasperson RE, Kasperson JX (1996) The social ampliﬁcation and attenuation of risk. Ann Am Acad
+Political SS 545:95–105
+Kelley R (1998) Battling the inland sea. University of California Press, Berkeley
+Kousky C (2010) Learning from extreme events: risk perceptions after the ﬂood. Land Econ
+86:395–422
+Lee T (1981) The public’s perception of risk and the question of irrationality. Proc R Soc Lond A Math Phys
+Sci (1934–1990) 376(1764):5–16
+Loucks DP, Stedinger JR (2007) Thoughts on the economics of ﬂoodplain development. In: Vasilieve O,
+van Gelder P, Plate E, Bolgov M (eds) US extreme hydrological events: new concepts for security,
+vol 78. Springer, London, England, pp 3–19. Retrieved from http://www.springerlink.com/content/
+v4705324616m07n7/. doi:10.1007/978-1-4020-5741-0_1
+McNamara D, Werner B (2008) Coupled barrier island-resort model: 1. Emergent instabilities induced by
+strong human-landscape interactions. J Geophys Res 113:F01016. doi: 10.1029/2007JF000840
+McPherson HJ, Saarinen TF (1977) Flood plain dwellers’ perception of the ﬂood hazard in Tuscon, Arizona.
+Ann Reg Sci 11(2):25–40
+Montz B, Tobin G (2008) Livin large with levees: lessons learned and lost. Nat Hazards Rev 9(3):150–157.
+doi:10.1061/(ASCE)1527-6988(2008)9:3150
+Movoto Real Estate (2008) Home prices. Retrieved 10 Dec 2008 from http://www.movoto.com/real-
+estate/homes-for-sale/CA/Stockton/
+Motoyoshi T (2006) Public perception of ﬂood risk and community-based disaster preparedness. Terra
+Scientiﬁc Publishing Company, pp 121–134. Retrieved from http://www.terrapub.co.jp/e-library/nied/
+pdf/121.pdf
+Mount JF (1995) California rivers and streams: the conﬂict between ﬂuvial process and land use. University
+of California Press, London
+Mount J, Twiss R (2005) Subsidence, sea level rise, and seismicity in the Sacramento-San Joaquin Delta.
+San Franc Estuary Watershed Sci 3(1):5
+Palm RI (1981) Public response to earthquake hazard information. Ann Assoc Am Geogr 71:389–399
+Pinter N (2005) One step forward, two steps back on US ﬂoodplains. Science 308(5719):207–208
+Raaijmakers R, Krywkow J, van der Veen A (2008) Flood risk perceptions and spatial multi-criteria
+analysis: an exploratory research for hazard mitigation. Nat Hazards 46:307–322
+Rogers RW (1975) A protection motivation theory of fear appeals and attitude change. J Psychol
+91(1):93–114
+Rohrmann B (1994) Risk perception of different societal groups in Australia. Aust J Psychol 46(3):150–163
+San Joaquin Council of Governments (2005a) Data services and economic characteristics. Retrieved from
+http://www.sjcog.org/docs/pdf/Census%20Data/Data%20Tables%20for%20Website/San%20Joaquin%20
+County/SJCE.pdf
+San Joaquin Council of Governments (2005b) Data services and social characteristics. Retrieved from
+http://www.sjcog.org/docs/pdf/Census%20Data/Data%20Tables%20for%20Website/San%20Joaquin%20
+County/SJCS.pdf
+Shaw H, Nichols D (2005, 30 May) When the levees break. The record. Retrieved from http://www.
+recordnet.com/apps/pbcs.dll/article?AID=/20050530/SPECIALREPORTS04/50920006
+Siegrist M, Gutscher H (2006) Flooding risks: a comparison of lay people’s perceptions and expert’s
+assessments in Switzerland. Risk Anal 26(4):971–979
+Slovic P, Fischoff B, Lichtenstein S (1982) Why study risk perception? Risk Anal 2(2):83–93
+Sniedovich M, Davis DR (1977) Evaluation of ﬂood forecasting-response systems. J Water Res Pl-ASCE
+103(1):83–97
+Terpstra T, Gutteling J (2008) Households’ perceived responsibilities in ﬂood risk management in the
+Netherlands. Water Resour Dev 24(4):555–565
+Wenk E (2006) Appendix H. How safe is safe enough? Investigation of the performance of the New Orleans
+ﬂood protection systems in Hurricane Katrina on August 29, 2005 (Independent Levee Investigation
+Nat Hazards (2012) 61:829–842 841
+123
+
+[[PAGE 14]]
+Team Report.). Berkeley, California. Retrieved from http://www.ce.berkeley.edu/*new_orleans/
+report/H.pdf
+Werner B, McNamara D (2007) Dynamics of coupled human-landscape systems. Geomorphology
+91(2007):393–407
+842 Nat Hazards (2012) 61:829–842
+123

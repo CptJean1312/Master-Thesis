@@ -1,0 +1,1142 @@
+[[PAGE 1]]
+Earth’s Future
+Adaptation to ﬂood risk: Results of international paired ﬂood
+event studies
+Heidi Kreibich1 , Giuliano Di Baldassarre2 , Sergiy Vorogushyn1 ,J e r o e nC .J .H .A e r t s3,
+Heiko Apel1 , Giuseppe T. Aronica4 , Karsten Arnbjerg-Nielsen5 , Laurens M. Bouwer6,
+Philip Bubeck7 , Tommaso Caloiero8 , Do T. Chinh1, Maria Cortès9, Animesh K. Gain1 ,
+Vincenzo Giampá10, Christian Kuhlicke11 , Zbigniew W. Kundzewicz12, Maria Carmen Llasat9,
+Johanna Mård2 , Piotr Matczak13, Maurizio Mazzoleni14, Daniela Molinari15 ,
+Nguyen V. Dung1,O l g aP e t r u c c i10 , Kai Schröter1, Kymo Slager6, Annegret H. Thieken7 ,
+Philip J. Ward3 , and Bruno Merz1
+1Section5.4Hydrology,GFZGermanResearchCentreforGeosciences,Potsdam,Germany, 2DepartmentofEarth
+Sciences,CentreofNaturalhazardsandDisasterScience(CNDS),UppsalaUniversity,Uppsala,Sweden, 3Departmentof
+WaterandClimateRisk,InstituteforEnvironmentalStudies,VrijeUniversiteitAmsterdam,Amsterdam,TheNetherlands,
+4DepartmentofEngineering,UniversityofMessina,Messina,Italy, 5UrbanWaterSystemsSection,Departmentof
+EnvironmentalEngineering,Bygningstorvet,TechnicalUniversityofDenmark,Kgs.Lyngby,Denmark, 6Deltares,Delft,
+TheNetherlands, 7InstituteofEarthandEnvironmentalScience,UniversityofPotsdam,Potsdam,Germany,
+8CNR-ISAFOMNationalResearchCouncil,InstituteforAgriculturalandForestSystemsintheMediterranean,Rende,
+Italy,9GAMA,DepartmentofAppliedPhysics,UniversityofBarcelona,Barcelona,Spain, 10CNR-IRPINationalResearch
+Council,ResearchInstituteforGeo-HydrologicalProtection,Rende,Italy, 11DepartmentUrban&Environmental
+Sociology,UFZHelmholtzCentreforEnvironmentalResearch,Leipzig,Germany, 12InstituteforAgriculturalandForest
+Environment,PolishAcademyofSciences,Pozna ´n,Poland, 13InstituteofSociology,AdamMickiewiczUniversity,
+Poznan,Poland, 14IntegratedWaterSystems&Governance,IHEDelftInstituteforWaterEducation,Delft,The
+Netherlands,15DepartmentofCivilandEnvironmentalEngineering,PolitecnicodiMilano,Milan,Italy
+Abstract Asﬂoodimpactsareincreasinginlargepartsoftheworld,understandingtheprimarydrivers
+ofchangesinriskisessentialforeﬀectiveadaptation.Togainmoreknowledgeonthebasisofempirical
+casestudies,weanalyzeeightpairedﬂoods,thatis,consecutiveﬂoodeventsthatoccurredinthesame
+region,withthesecondﬂoodcausingsigniﬁcantlylowerdamage.Thesesuccessstoriesofriskreduction
+wereselectedacrossdiﬀerentsocioeconomicandhydro-climaticcontexts.Thepotentialofsocietiesto
+adapt is uncovered by describing triggered societal changes, as well as formal measures and sponta-
+neousprocessesthatreducedﬂoodrisk.Thisnovelapproachhasthepotentialtobuildthebasisforan
+internationaldatacollectionandanalysiseﬀorttobetterunderstandandattributechangesinriskdueto
+hydrologicalextremesintheframeworkoftheIAHSsPantaRheiinitiative.Acrossallcasestudies,weﬁnd
+thatlowerdamagecausedbythesecondeventwasmainlyduetosigniﬁcantreductionsinvulnerabil-
+ity,forexample,viaraisedriskawareness,preparedness,andimprovementsoforganizationalemergency
+management. Thus, vulnerability reduction plays an essential role for successful adaptation. Our work
+showsthatthereisahighpotentialtoadapt,butthereremainsthechallengetostimulatemeasuresthat
+reducevulnerabilityandriskinperiodsinwhichextremeeventsdonotoccur.
+1. Introduction
+Damageduetoﬂoodsisincreasinginlargepartsoftheworld[ IPCC,2012].Moreknowledgeaboutwhether
+ﬂood risk increases over time in speciﬁc regions, and if so, why, is essential for policy response in terms of
+ﬂood risk management and adaptation strategies [Merzetal., 2010; Bouwer, 2011]. According to the IPCC
+SREX concept, risk depends on hazard, exposure, and vulnerability [IPCC, 2012]: In this context, hazard is
+deﬁnedasthepotentialoccurrenceofanaturalorhuman-inducedphysicaleventthatmaycauseadverse
+eﬀects to social elements. Exposure is deﬁned as the presence of people, livelihoods, environmental ser-
+vicesandresources,infrastructure,oreconomic, social,orculturalassetsinplacesthatcouldbeadversely
+aﬀected by physical events. Vulnerability is deﬁned generically as the propensity or predisposition to be
+adversely aﬀected [IPCC, 2012]. Such predisposition constitutes an internal characteristic of the aﬀected
+element, and it includes the characteristics of a person or society and the situation that inﬂuences their
+RESEARCH ARTICLE
+10.1002/2017EF000606
+Special Section:
+AvoidingDisasters:
+StrengtheningSocietal
+ResiliencetoNaturalHazards
+Key Points:
+• Acrossdiﬀerentsocio-economicand
+hydro-climaticcontextsthereishigh
+potentialtoadapttofutureﬂoodrisk
+• Focusingeventsactastriggersfor
+raisingriskawareness,preparedness
+andimprovementsofemergency
+managementwhichreduce
+vulnerability
+• Vulnerabilityreductioniskeyfor
+successfuladaptationbutthe
+challengeremainstostimulaterisk
+reductionwhennoextremeevents
+occur
+Supporting Information:
+• Supporting Information S1
+Corresponding author:
+H.Kreibich,
+heidi.kreibich@gfz-potsdam.de
+Citation:
+Kreibich,H.etal(2017),Adaptationto
+ﬂoodrisk:Resultsofinternational
+pairedﬂoodeventstudies, Earth’s
+Future,5,953–965,
+doi:10.1002/2017EF000606.
+Received 29 APR 2017
+Accepted 24 JUL 2017
+Accepted article online 26 JUL 2017
+Published online 3 OCT 2017
+© 2017 The Authors.
+This is an open access article under
+the terms of the Creative Commons
+Attribution-NonCommercial-NoDerivs
+License, which permits use and distri-
+bution in any medium, provided the
+original work is properly cited, the use
+is non-commercial and no modiﬁca-
+tions or adaptations are made.
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 953
+
+[[PAGE 2]]
+Earth’s Future 10.1002/2017EF000606
+capacity to anticipate, cope with, resist, and recover from the adverse eﬀects of physical events [Wisner
+etal., 2004].
+The observed increase in ﬂood damage in many regions of the world is dominated by exposure increase,
+whileanimpactofchangesinﬂoodhazardduetoanthropogenicclimatechangehashardlybeenobserved
+to date [Bouwer, 2011;Merzetal., 2012]. The climate signal might be masked by a counteracting decrease
+in vulnerability, as suggested by studies at global [Jongmanetal., 2015] and regional [DiBaldassarreetal.,
+2015;MechlerandBouwer ,2015]scales.However,knowledgeisstillscarceabouttheunderlyingprocesses
+thatdrivechangesinﬂoodrisk,particularlyinrespecttovulnerability[ UNISDR,2015].
+The vulnerability of societies may be inﬂuenced by ﬂood risk management, other formal measures like
+land use planning, societal changes, as well as spontaneous processes that inﬂuence ﬂood risk. “Focusing
+events,”thatis,eventsthatprovideasudden,strongpushforaction,oftentriggerﬂoodriskmitigationand
+improvements of risk management [Kingdon, 1995;Kreibichetal., 2011]. For example, the 1953 North Sea
+ﬂood disaster lead to the Delta Works in The Netherlands [VanKoningsveldetal., 2008] and the construc-
+tion of the Thames Barrier [McRobieetal., 2005] in the UK. Several studies are available on various aspects
+ofsocietalvulnerability[e.g., Tapselletal., 2002;Brouweretal., 2007;Kuhlickeetal., 2011]andlearning[e.g.,
+Birkland,1998; Pahl-Wostl,2009; Armitageetal., 2008].However,webelievethatourstudyprovidesempiri-
+calevidenceaddingessentialinformationabouthowextremeﬂoodeventsstimulatechangesinﬂoodrisk
+managementandhowthesemanifestduringasubsequentﬂoodinthesameregion.
+Theobjectiveofourstudyistogainknowledgeonhowﬂoodeventstriggeradaptationtofutureﬂoodrisk.
+Weassesseightpairedﬂoodevents,whicharereal-worldexamplesforsuccessfulriskreduction.Thisallows
+ustoderiverobustconclusionsfromcommonalitiesanddiﬀerencesbetweenthecasestudies,acrossawide
+rangeofhydro-climaticandsocioeconomicconditions.
+2. Compilation of Paired Flood Event Studies
+This study is based on a selection of success stories of risk reduction, that is, case studies, collected from
+aroundtheworldwheresocietieseﬀectivelyimplementedﬂoodriskmanagementorothermeasuresand
+societal changes, which signiﬁcantly mitigated potential ﬂood damage (Figure1). Besides such success
+storiesthereare,unfortunately,examplesofdevelopmentswhichleadtoanincreaseofﬂoodrisk.Examples
+concernhigherexposureduetourbanizationorassetvalueincrease[e.g., Domeneghettietal., 2015;Faccini
+etal., 2015; Ferguson and Ashley, 2017]; an increase in vulnerability due to a lack of maintenance of pro-
+tection structures [e.g.,Orlandinietal., 2015; IKSE, 2001]; or fading of preparedness of administration and
+aﬀectedparties[e.g.KreibichandMerz, 2007;Nkwunonwoetal., 2016].However,suchcasesarenotconsid-
+eredinthisstudy,sinceweaimtoshowhowsuccessfulﬂoodriskmitigationcanbeachieved.Theapproach
+isbasedontheanalysisofpairedﬂoodeventsindiﬀerentriverbasinsacrossdiﬀerentsocioeconomicand
+hydro-climatic conditions. Paired ﬂood events were deﬁned as consecutive ﬂoods that occurred in the
+same region. Such paired events are natural experiments where processes which change ﬂood risk can
+beanalyzed.Theapproachisanalogoustotheconceptof“pairedcatchmentstudies”inhydrology,which
+is widely used to determine the magnitude of water yield changes resulting from changes in vegetation
+[Brownetal., 2005].
+Toassesschangesinﬂoodriskanditsdrivers,detailedcasestudyanalyseswereundertaken(seeSupport-
+ingInformationS1).Onthisbasis,hazard,exposure,andvulnerabilityindicatorswerederivedandevaluated
+foreachcasestudy.Inherently,thecharacterizationofriskanditscomponentscombinesbothquantitative
+and qualitative aspects. For this study, hazard is described using the following indicators: the event pre-
+conditions(e.g.,antecedentcatchmentwetness,saturatedorfrozensoils,etc.),thefrequencyandintensity
+ofprecipitation,thehydrologicalseverity(e.g.,returnperiodoftheﬂooddischarge,aﬀectedlengthofthe
+rivernetwork,inundationextent,etc.)andthefailureofprotectionmeasures(likedikes,dams,etc.).Tochar-
+acterizeexposure,thefollowingindicatorsareused:thenumberofpeopleaﬀected,theareaaﬀected(e.g.,
+settlementarea,agriculturalland,assetsaﬀected,etc.)andthepresenceofexposurehotspots,whichshall
+indicate if there was particularly high exposure in the ﬂooded area, for example, due to aﬀected cities or
+industrial areas. There are various concepts and deﬁnitions of “Vulnerability” [Thywissen, 2006], many of
+whichconsideraquitebroadcontext[e.g. NakamuraandLlasat, 2017;Brooksetal., 2005;Turneretal., 2003;
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 954
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Earth’s Future 10.1002/2017EF000606
+Figure 1. Casestudiesacrossdiﬀerentsocioeconomic(e.g.,populationdensity,grossdomesticproductpercapita[ WorldBank,2016])andhydro-climatic(e.g.,climate,ﬂoodtype)
+contexts(fordetailedinformationontheindividualcasestudiesseeSupportingInformationS1(textsS1–S8)).Thedistributionofglobalﬂoodfre quencyintheperiod1985–2003is
+shownusingabluescale.Theﬂoodfrequencygridwasclassiﬁedinto10classesofapproximatelyequalnumberofgridcells.Thedarkerbluethegridcel lis,thehighertherelative
+frequencyofﬂoodoccurrence[ CHRRandCIESIN ,2005].
+KellyandAdger , 2000]. For our case study comparison, we narrow the few and focus on the following vul-
+nerabilityindicators:lackofawareness(e.g.,lackofﬂoodexperience,informationcampaigns,precautionary
+measures), lack of preparedness (e.g., lack of early warning, lead times, risk communication during event,
+private emergency measures) and insuﬃcient organizational emergency management (e.g., performance
+ofthegovernmentalcrisismanagement,civilprotection,emergencyplans,evacuation,etc.).Thenegative
+form(e.g.,lackof)ischosentohaveapositivecorrelationwithvulnerabilityandtobeconsistentwiththe
+eﬀects of the hazard and exposure indicators so that a reduction in an indicator leads to a reduction in
+ﬂoodriskandassuchreﬂectsapositivedevelopment.Forinstance,areductionoflackofawarenessrelates
+toareductionofvulnerabilityandassuchtoareductioninﬂoodrisk.Thisisparticularlyimportantforour
+compilationofallpairedeventstudiesinFigure2.
+Detailedanalysesoftheindividualpairedﬂoodeventsarebasedoncasestudyresearch,literaturereview,
+and expert knowledge about the impacted regions. These detailed analyses are provided in Supporting
+Information S1 (texts S1 to S8). Based on these results, the hazard, exposure and vulnerability indicators
+were derived. When available, quantitative empirical evidence from case study research was used for a
+quantiﬁcation of indicators. Where no empirical evidence was available, a qualitative assessment based
+on the literature review and expert knowledge was used. For each case study, we examine how these
+indicators manifested during both ﬂoods and particularly how they changed from the ﬁrst ﬂood to the
+second ﬂood. Particularly important is how their changes inﬂuenced the diﬀerence in the resulting dam-
+age, that is, number of fatalities and monetary damage. These results were abstracted and compiled in
+Figure2 to achieve a homogenous cross-case study comparison and as such more generic results than
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 955
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+Earth’s Future 10.1002/2017EF000606
+Figure 2. Analysisoftheeightpairedﬂoodevents(formoredetailedinformationseeTable1andSupportingInformationS1,texts
+S1–S8).Theﬁgureshowsthediﬀerenceoftheprimarydriversofﬂoodriskchangeaswellasoffatalitiesandeconomicdamagebetween
+theﬁrstﬂoodevent,usedasbaseline,andthesecondevent.Driversareexpressedusinghazard,exposure,andvulnerabilityindicators.
+on the basis of individual case study analyses only. Changes of the hazard, exposure, and vulnerability
+indicators as well as of the resulting damage (fatalities and monetary damage) from the ﬁrst ﬂood used
+asbaselinetothesecondﬂoodareindicatedbyupwardanddownwardarrowsforincreaseanddecrease,
+respectively (or circles for no change). In case of quantitative comparisons (e.g., precipitation intensities,
+monetary damage) a change of less than 50% is indicated by a small arrow, and larger changes by large
+arrows. The diversity of amount and quality of available information about the change of the individual
+indicatorsareindicatedbyhollowandﬁlledarrows/circlesforlimitedandrobustevidence.Thisdistinction
+isbasedonexpertjudgmentinspiredbytheIPCCconceptoftreatmentofuncertainties[ Mastrandreaetal.,
+2010]. Generally, evidence is evaluated to be robust when there is one (or preferably more consistent)
+good-quality measurement, analysis, or study available from a reputable source (e.g., scientiﬁc study or
+governmentalreport)whichindicate(s)thechangeofindicator.
+Our approach of analyzing pairs of events as well as undertaking a comparative analysis of various
+event pairs yields generic results. A problem of extreme event or catchment studies is that every event,
+catchment, region, situation, etc. is unique and has its own characteristics and processes which make it
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 956
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+Earth’s Future 10.1002/2017EF000606
+challenging to draw general, transferable conclusions. Transferring the established approach of paired
+catchmentstudies[ Brownetal., 2005;Prosdocimietal., 2015]toeventcomparisonsandcomplementingit
+with(semi-)qualitativedataonexposureandvulnerabilityenableacomprehensiveattributionofchanges
+in risk, as demonstrated for ﬂoods in this study and as suggested for droughts byVan Loon etal. [2016].
+Anotherapproachtoreachuniversalresultsiscomparativeanalysis,whichaimstoﬁndgeneralpatternsby
+analyzingalargesetofcasestudies(e.g.,catchments)fromallovertheworld[ Duanetal., 2006;Blöschletal.,
+2013].Combiningthesetwoapproachesincollecting alargenumberofpairedeventsseemsapromising
+way forward for attributing changes in risk of hydrological extremes. Thus, the eight paired event studies
+compiled in this study may be the starting point for an international eﬀort to collect and analyze paired
+events,forexample,intheframeworkoftheIAHSsPantaRheiinitiative.
+3. Flood Risk Change
+Thecompilationofpairedeventsshowsthatinallcases,reductionsinﬂooddamagebetweentheﬁrstand
+secondﬂoodoccurredmainlyalongwithlargereductionsofthethreemainelementsofvulnerability,that
+is, lack of risk awareness, lack of preparedness, and insuﬃcient organizational emergency management.
+In some cases additionally structural ﬂood protection and reduction in exposure played a role (Figure2).
+Clearly,thediﬀerentdriversofriskchange(vulnerability,exposureandhazard)actsimultaneously.Ininte-
+grated ﬂood risk management, ﬂood protection is complemented with nonstructural measures such as
+land-use planning to reduce exposure, and improved private preparedness or organizational emergency
+managementtoreducevulnerability[ Klijnetal., 2015].TheGermanElbe,Danube2002/2013caseisagood
+exampleofthecombinedeﬀectsofstructuralandnonstructuralmeasures.Althoughthehydrologicalsever-
+ityofthesecondeventin2013wasmuchlarger(hydrologicalseverityindex:75in2013,35in2002[ Schröter
+etal., 2015]),themonetarydamagewasreducedbyabout50%andthefatalitiesby33%duetoimproved
+structural protection, as well as reduced vulnerability due to timely ﬂood warning and better awareness
+andpreparednessofaﬀectedpeopleandemergencymanagers[ Thiekenetal., 2016b].
+3.1. Hazard Changes
+Catchment preconditions and precipitation diﬀer from event to event and cannot be inﬂuenced by ﬂood
+risk management. In all paired event cases, these factors are either insigniﬁcantly diﬀerent between the
+events or slightly lower for the second event with only a few exceptions (Figure2). In the German Elbe,
+Danubecase,thehydrologicalseverityintermsofthemagnitudeandspatialcoverageofthesecondevent
+was higher and driven by strong catchment wetness [Schröter etal.,2015]. Still, a strong damage reduc-
+tionforthesecondeventwasachieved,whichunderscoresthedecisiverolesofreductionsinvulnerability
+andexposure.LargelylowerprecipitationisobservedintheItaliancaseforthesecondevent,whichpartly
+explainsreductionsofdamagealongwiththereducedvulnerability.
+There is a general tendency to improve structural ﬂood defenses and increase the protection level after
+majorﬂoodevents.Forinstance,intheGermanElbe,Danube2002/2013case,massiveinvestmentsinthe
+reinforcementofdikesafterthe2002ﬂoodwereundertaken.ThefederalstateofSaxonyinGermanyalone
+allocatedmorethan€800millionforstructuralﬂooddefensesafterthe2002ﬂood[ Müller,2010].Therein-
+forced protection infrastructure has led to reductions in protection failures: only 30 dike failures occurred
+in 2013, compared to over 130 failures in 2002. Monetary damage was reduced by about 50% (Table1).
+Some reduction in damage as a result of reduced protection failures is also noted in the Bangladesh, Ital-
+ian, and Spanish case studies. For these case studies, no evidence for massive investments into structural
+ﬂood protection is reported. It could be the case that fewer failures occurred during the later ﬂoods due
+tosmallerhydrologicalseverityandlowerhydrologicalloadonﬂoodprotectionstructures.Thecausalityis
+diﬀerentintheVietnamesecase:Manyprotectiondikes,whicharedesignedtoprotectfarmlandfromﬂood
+throughouttheyear,werebuiltquicklyonrelativelyweaksoilfoundationsintheyearsfollowingthe2000
+ﬂood.Thedikesystemin2011ledtoconﬁnedstreamﬂow,causinghigherﬂowvelocitiesandwaterlevels
+thanmighthavebeenconsideredfordikeconstructionandstability.Thisledtomanydikefailuresduring
+theﬂoodin2011.However,sincemanydikeswerenewlybuiltafterthe2000ﬂood,thedikesystem(despite
+the failures) still caused a reduction of aﬀected agricultural area by 78% (Table1). Given the hydrological
+severity of the 2000 event, it has to be expected that many more dikes would have failed, if they were in
+place.Constructionofdikesiscostlyandtimeconsuming;hence,ifthetimelagbetweentwoﬂoodevents
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 957
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+Earth’s Future 10.1002/2017EF000606
+is short,as was the case for Germany Rhine 1993/1995, it is unlikely that defenses are suﬃciently repaired
+or upgraded. However, where we have an indication of substantial investments into the ﬂood protection
+infrastructure(Elbe/DanubeandMekongbasins),astrongevidenceofriskreductionispresent(Figure2).
+3.2. Exposure Changes
+Across the eight case studies, the role of changes in exposure diﬀers, with positive and negative trends
+reported (Figure2). In single cases, changes in exposure have clearly contributed to lower damage. For
+example, in Vietnam 200,000 households were relocated to protected grounds after the ﬂood in 2000.
+Thus, the number of aﬀected people was reduced by 88% (Table1). Similarly, for the Mozambican case
+the number of aﬀected people was reduced by 93% mainly due to decreasing the number of settlements
+inﬂood-proneareasaftertheeventin2000.Themonetarydamagewasreducedby94%andthefatalities
+by83%(Table1).
+In contrast, in the Italian case, industry moved out of the aﬀected areas after the ﬁrst ﬂood, but was then
+substitutedbyprivateresidentsoveralongertime(Table1).Thisleadtoanincreaseofexposure,particularly
+the number of aﬀected people increased by 86% (Table1). This case highlights the necessity of keeping
+ﬂoodriskawarenessatahighleveloverlongtimeperiods.
+In the German Elbe, Danube case the change of exposure is rather unclear. WhileEM-Dat[ 2015]reported
+anincreaseofaﬀectedpeopleby82%,theaﬀectedareaofresidentialandmixedusewascalculatedtobe
+reducedby74%(Table1).Thiscombinationappearsveryunlikelyandpointstohighuncertaintiesassoci-
+atedwiththeexposureinformation(Figure2).
+Duringshorttimeperiodsofafewyears,exposurechangesarehardlypossible,asobservablefortheRhine
+ﬂoods in 1993 and 1995 in Germany (Figure2). Large reductions in exposure are only observed in case
+studiesinwhichthetimeintervalbetweenthepairedeventsismorethan10years(Figure2).Thus,ittakes
+timeuntilspatialplanningprograms,settlementprotection(e.g.,byhardengineeringworks)orrelocation
+areimplemented.
+3.3. Vulnerability Changes
+In almost all paired event cases, that is, success stories of risk reduction, a medium to large reduction in
+vulnerability indicators is seen. Large reductions in all three vulnerability indicators occurred in both Ger-
+man cases and in the Vietnamese case, indicating eﬀective learning by societies, that is, of administra-
+tive/governmental, commercial, and private sectors, after the focusing events using these as windows of
+opportunity[Kreibichetal., 2011;Kingdon,1995].Apparently,measurestoreducevulnerabilitycanberead-
+ilyimplementedandunfoldtheirpositiveeﬀectsquickly.Forinstance,aftertheRhineﬂoodinGermanyin
+1993,thenumberofprecautionarymeasuresthatwereimplementedbyprivatehouseholds,suchassecur-
+ing oil tanks or the deployment of mobile ﬂood barriers, more than doubled [Bubeck etal.,2012]. Large
+reductions in vulnerability were achieved between the ﬂoods in 1993 and 1995, resulting in a 67% lower
+monetarydamageinthelatter(Table1).AlsointheotherGermanpairedﬂoodeventcaseintheElbeand
+Danube catchment, aﬀected parties and authorities reduced their vulnerability after the extreme ﬂood in
+2002. Many governmental ﬂood management programs and initiatives were launched, for instance, the
+German Weather Service (DWD) has signiﬁcantly improved its numerical weather forecast models and its
+warningmanagement[ KreibichandMerz, 2007;Thiekenetal., 2016b].Alsoahighpercentageoftheprivate
+households and companies adopted precautionary measures and were much better prepared for emer-
+gencyactions[ Kreibichetal., 2011;Kienzleretal., 2015].ThecomparisonoftheMekongﬂoodeventsin2000
+and 2011 in Vietnam showed that considerable improvements regarding the vulnerability were possible,
+supportingasigniﬁcantreductionofmonetarydamageby58%andoffatalitiesby81%(Table1).
+IntheItalianandSpanishcases,largereductionsoccurredintwovulnerabilityindicatorsandasmallreduc-
+tioninthethirdone.However,thetimebetweentheeventswassolong,thatnotonlytheeﬀectsoflearning
+aftertheﬁrstﬂoodeventcanbeobservedduringthesecondevent;improvedawarenessandpreparedness,
+aswellasanimprovedemergencymanagement,areprobablyalsoduetogeneralvulnerabilitydecreasing
+developments stimulated by policies such as the European Flood Directive [European Commission, 2007]
+and the Hyogo/Sendai frameworks by UN-ISDR. In the Spanish case, monetary damage was reduced by
+83%andfatalitiesbyeven99%mainlyduetoasigniﬁcantlyimprovedearlywarningbythemeteorological
+services,basedonadvancesinhydro-meteorologicalmonitoringandmodeling.Additionally,theactivation
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 958
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+Earth’s Future 10.1002/2017EF000606
+Table 1. InformationonRiskDriversandResultingDamageoftheIndividualSuccessStoriesofRiskReduction,thatis,PairedFloodEvents(forDetailedInfo rmationseeSupportingInformation
+S1,TextsS1–S8)
+GermanyRhine
+(SupportingInformationS1,
+Text S1)
+Bangladesh
+(SupportingInformationS1,
+Text S2)
+GermanyElbe,Danube
+(SupportingInformationS1,TextS3)
+Vietnam
+(SupportingInformationS1,
+Text S4)
+1993 1995 1998 2004 2002 2013 2000 2011
+Hazard Preconditions Wetness-index:
+49.2[Schröter
+etal., 2015]
+Wetness-index:
+30.8[Schröter
+etal., 2015]
+Saturatedsoils
+duetoregular
+monsoonrainfall
+Saturatedsoils
+duetoregular
+monsoonrainfall
+Wetness-index:
+47[Schröteretal.,
+2015]
+Wetnessindex:
+114[Schröter
+etal., 2015]
+ND
+a Saturatedsoils
+Precipitation Precipitation
+index:21.97
+[Schröteretal.,
+2015]
+Precipitation
+index:8.6
+[Schröteretal.,
+2015]
+1870mm 2000mm Precipitation
+index:30
+[Schröteretal.,
+2015]
+Precipitation
+index:17
+[Schröteretal.,
+2015]
+ND
+a Highcontinuous
+rainfallcombined
+withhighnumber
+oftyphoons
+Hydrological
+severity
+Severityindex:
+44.4[Schröter
+etal., 2015],lower
+Rhinemainly
+aﬀected
+Severityindex:
+51.2[Schröter
+etal., 2015]lower
+Rhinemainly
+aﬀected
+68%of
+Bangladesh
+inundated
+40%of
+Bangladesh
+inundated
+Severityindex:35
+[Schröteretal.,
+2015]
+Severityindex:75
+[Schröteretal.,
+2015]
+Bivariate
+probabilityof
+peakdischarge
+andvolume:0.05
+[MRC,2015];0.01
+[Dungetal., 2015]
+Bivariate
+probabilityof
+peakdischarge
+andvolume:0.1
+[MRC,2015];0.02
+[Dungetal., 2015]
+Protection
+failures
+0 0 4500kmdikes
+partially/totally
+damaged
+3100kmdikes
+partially/totally
+damaged
+131dikefailures 30dikefailures
+including3major
+breaches[DKKV,
+2015]
+1270kmdikes
+failed/were
+over-topped
+[DMC-CCFSC,
+2016]
+3370kmdikes
+failed
+[DMC-CCFSC,
+2016]
+Exposure Peopleaﬀected 100,000[ EM-Dat,
+2015]
+ND
+a 30,000,000 36,000,000 330,000[ EM-Dat,
+2015]
+600,000[EM-Dat,
+2015]
+∼5million
+people,895,499
+housesaﬀected
+[DMC-CCFSC,
+2016]
+590,000people,
+176,588houses
+aﬀected
+[DMC-CCFSC,
+2016]
+(Settlement)area
+aﬀected
+ND
+a NDa 100,250km2 54,720km2 52.6km2 (own
+calculation,see
+S3)
+13.7km
+2 (own
+calculation,see
+S3)
+615,704ha
+[DMC-CCFSC,
+2016]
+137,599ha
+[DMC-CCFSC,
+2016]
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 959
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Earth’s Future 10.1002/2017EF000606
+Table 1. continued
+GermanyRhine
+(SupportingInformationS1,
+Text S1)
+Bangladesh
+(SupportingInformationS1,
+Text S2)
+GermanyElbe,Danube
+(SupportingInformationS1,
+Text S3)
+Vietnam
+(SupportingInformationS1,
+Text S4)
+1993 1995 1998 2004 2002 2013 2000 2011
+Exposure
+hotspots
+Cologne,
+Koblenz,Bonn
+Cologne,
+Koblenz,Bonn
+Easternpartof
+DhakaCity.
+Sylhetcity,
+easternpartof
+DhakaCity
+Dresden(Cultural
+heritage)
+Passau,Deggen-dorf,
+Halle(Saale)
+Noparticular
+hotspots
+Noparticular
+hotspots
+Vulnerability Lackof
+awareness
+Lastsevereﬂoods
+in1926and1970
+Experiencewith
+ﬂoodeventjust
+13monthsbefore
+[Bubecketal.,
+2012]
+Highawareness
+duetoannual
+ﬂooding,last
+severeﬂoodsin
+1987and1988
+Increasedcoping
+capacitydueto
+decreasing
+poverty,
+increasingaccess
+toeducation
+Lastsevereﬂoods
+in1974and1954
+[Kreibichetal.,
+2011;Kreibichand
+Thieken,2009]
+Severalrecentﬂoods
+in2002,2005,2006,
+2010,2011[ Kienzler
+etal., 2015]
+Lastsevereﬂood
+22yearsago
+Experiencewith
+2000ﬂood
+Lackof
+preparedness
+Low
+preparedness
+[Bubecketal.,
+2012;Engeletal.,
+1999]
+Improvedearly
+warningandsign.
+Increased
+preparedness
+[Bubecketal.,
+2012;Engeletal.,
+1999]
+Good
+preparednessand
+earlywarning
+(forecastsfor24
+and48hlead
+times)[Gainetal.,
+2015]
+After1998,
+furtherimproved
+forecast-
+ing/warning
+(forecastsfor72h
+leadtime)
+Warnings
+relativelylateand
+imprecise,low
+preparedness
+[Kreibichand
+Merz,2007]
+Sign.Improved
+warningand
+preparedness
+[Thiekenetal.,2016b]
+Low
+preparedness
+Mediumtohigh
+preparedness,
+goodearly
+warning
+Insuﬃcient
+organizational
+emergency
+management
+Publicﬂood
+management
+badlyprepared
+Public
+management
+sign.Improved
+duetolearningin
+1993[Engeletal.,
+1999]
+Weakdisaster
+preparednessand
+response
+planning
+Weakdisaster
+preparednessand
+response
+planning
+Exerciseswithin
+individualrelief
+organizations
+Every2years
+trans-organizational
+nationalcrisis
+management
+exercise(LÜKEX)
+[Thiekenetal., 2016b]
+Unpreparedand
+notwell
+organized
+Muchbetter
+organized,frogm
+communalto
+governmental
+level
+Damage fatalities 5 5 1050 730 21[ DKKV,2015;
+Thiekenetal.,
+2016a]
+14[DKKV,2015;
+Thiekenetal., 2016a]
+481[DMC-CCFSC,
+2016]
+89[DMC-CCFSC,
+2016]
+Monetary
+damage
+b
+EUR767million EUR256million US$5000million US$2200million EUR14.6billion
+[DKKV,2015;
+Thiekenetal.,
+2016a]
+EUR6to8billion
+[DKKV,2015;Thieken
+etal., 2016a]
+US$500million
+[Chinhetal., 2016]
+US$208.9million
+[Chinhetal., 2016]
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 960
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+Earth’s Future 10.1002/2017EF000606
+Table 1. continued
+Poland
+(SupportingInformationS1,
+Text S5)
+Mozambique
+(SupportingInformationS1,
+Text S6)
+Italy
+(SupportingInformationS1,
+Text S7)
+Spain
+(SupportingInformationS1,
+Text S8)
+1997 2010 2000 2013 1987 2013 1962 2000
+Hazard Preconditions Saturatedsoils
+after1stintense
+precipitation
+event
+(Decisively)
+saturatedsoils
+Saturatedsoils Lesssaturated
+soils
+Windandstorm
+surgecaused
+backwatereﬀects
+Windandstorm
+surgecaused
+backwatereﬀects
+Eventafter
+4monthswithout
+rainfall
+Eventaftersome
+weekswithout
+rainfall
+Precipitation Extremerainfall Rainfallless
+extremethanin
+1997
+5weeksofheavy
+persistentrainfall
+1weekofheavy
+rainfall
+24-h
+rainfall—return
+period:
+>50years
+(3hrp:11years)
+24-hrainfallrp:
+30years(3hrp:
+20years)
+Rainfallmax.
+6mm/min;
+250mminless
+than3h[ Llasat
+etal., 2003]
+Rainfallmax.
+100mm/h,
+150mmin3h
+[Llasatetal.,
+2003]
+Hydrological
+severity
+Catastr.,rareﬂood Catastr.,rare
+ﬂood,butless
+severethan1997
+Floodlevel13m
+(Chokwe)
+Floodlevel10m
+(Chokwe)
+Smallerarea
+aﬀectedthan
+2013
+Largerarea
+aﬀectedthan
+1987
+LlobregatRiver
+dischargeat
+gaugeMartorell:
+1.550m
+3/s
+LlobregatRiver
+dischargeat
+gaugeMartorell:
+1.400m
+3/s
+Protection
+failures
+Approximately
+460kmdikes
+damaged
+37dikebreaches ND
+a Dikefailurein
+Chokwe
+1200mdikes
+failed
+Severaldikes
+over-topped
+Destructionof
+bridgesand
+hydraulic
+structures
+Destructionof
+bridges
+Exposure Peopleaﬀected 160,000people
+evacuated[Butts
+etal., 2007];
+46,000houses
+aﬀected
+14,565families
+evacuated;
+18,194residential
+buildings
+aﬀected
+4,500,000 315,910 About7000 About13,000
+>50,000 >20,000
+(Settlement)area
+aﬀected
+665,000ha
+[Kundzewiczetal.,
+2012]
+682,894ha 140,000ha 170,000ha Industries,
+cultivatedﬁelds
+Urbanarea,roads,
+cultivatedﬁelds
+509,35km2
+highlyaﬀected
+area
+5037,42km2
+aﬀectedarea
+Exposure
+hotspots
+Klodzko,
+Raciborz,Opole,
+Wroclaw
+Sandomierz,
+Tarnobrzeg,
+Wilkow,Swiniary.
+Gazaprovince
+(Chokwetown,
+XaiXaiCity)
+Gazaprovince
+(Chokwetown,
+XaiXaiCity)
+Urbanareas,
+hospitals,roads,
+railways,
+industries
+Urbanareas,
+hospitals,roads,
+railways
+Vallèscounty
+industrialarea,
+Barcelona
+Montserrat
+touristicregion,
+Barcelona
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 961
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+Earth’s Future 10.1002/2017EF000606
+Table 1. continued
+Poland
+(SupportingInformationS1,
+Text S5)
+Mozambique
+(SupportingInformationS1,
+Text S6)
+Italy
+(SupportingInformationS1,
+Text S7)
+Spain
+(SupportingInformationS1,
+Text S8)
+1997 2010 2000 2013 1987 2013 1962 2000
+Vulnerability Lackofawareness Longtime
+withoutmajor
+ﬂoods
+Experiencewith
+1997ﬂood
+Lastﬂoodsin
+1975,1977,1981,
+1996
+Experiencewith
+2000ﬂood
+Lowawareness Highattention
+duetosevere
+ﬂoodinSardinia
+thedaybefore
+Very low
+awareness,
+particularly
+amongmigrant
+population
+Civilprotection
+campaigns
+increased
+awareness
+Lackof
+preparedness
+Organizational
+deﬁcienciesat
+ﬁrst,improved
+forecastingand
+warningnext
+Forecastingand
+warningsystems
+signiﬁcantly
+improvedafter
+1997
+Qualitativeearly
+warningswere
+issued
+Earlywarning
+system
+implemented
+after2000[ Di
+Baldassarreetal.,
+2015]
+Civilprotection
+didnotissue
+earlywarnings.
+Successful
+information
+spreadbymobile
+phoneandsocial
+networks.
+Earlywarning
+systemdidnot
+exist.
+Meteorological
+servicesissued
+goodearly
+warnings
+Insuﬃcient
+organizational
+emergency
+management
+Deﬁcient,
+particularlyat
+centrallevel,
+missinglegal
+basis,ambiguous
+divisionof
+responsibility
+Sign.
+Improvement
+dueto2007Crisis
+ManagementAct
+ND
+a ND Emergency
+managementwas
+relativelypoor:
+peoplefelt
+“abandonedfrom
+authorities”
+Emergency
+management
+improved
+considerably
+Civilprotection
+didnotexist,
+emergency
+management
+planswerenot
+available
+INUNCATPlan
+(CivilProtection
+Planforﬂoods)
+wasactivated
+Damage fatalities 54[ Kundzewicz
+etal., 2012]
+19[EM-Dat,2015;
+Kundzewiczetal.,
+2012]
+800 136 0 0 815 5
+Monetary
+damage
+b
+EUR2.7–5.4
+billion
+EUR3.0billion US$
+∼541million US$30million EUR >3million EUR514,022ﬁrst
+aidrestoration
+costs
+EUR375million EUR65million
+aND,nodataorinformationavailable.
+bMonetarydamageforcomparisoncalculatedasatyearofsecondﬂood.
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 962
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+Earth’s Future 10.1002/2017EF000606
+oftheINUNCATCivilProtectionPlanforﬂoodssupporteddamagereduction(Table1).Technicaldevelop-
+ments can also support improved preparedness: For instance, early warning information was successfully
+spreadthroughmobilephoneandsocialnetworksduringthe2013ﬂoodinItaly(Table1).
+Vulnerability did not decrease much in Bangladesh between 1998 and 2004 (Figure2). Yet, an extraordi-
+naryreductionofvulnerabilityhadalreadytakenplaceinthepreviousdecades.Forinstance,the1974ﬂood
+killed about 29,000 people, 40 times more than the number of fatalities caused 30years after by the 2004
+ﬂood, which had a similar magnitude [MechlerandBouwer , 2015]. This reduction of people’s vulnerability
+is explained by a number of factors, such as the emergence of spontaneous or informal processes (e.g.,
+ﬂood experience leading to increased awareness and preparedness) or the implementation of deliberate
+and formal measures like the implementation of building codes. Bangladesh also had external assistance
+andinvestedabout10billionUSDoverthelastﬁvedecadesintodisasterriskreduction[ WorldBank,2010].
+During the ﬂood of 1998, the Flood Forecasting and Warning Centre of Bangladesh provided ﬂood fore-
+castingfor24and48hlead-timeswithaccompanyingwarningmessages[ Gainetal., 2015].Afterthisﬂood,
+furtherimprovementswereundertakenwiththeproject“ConsolidationandStrengtheningofFloodFore-
+castingandWarning Services”.Duringthe2004 ﬂood,theearlywarningsystemprovidedforecastswitha
+72-hlead-time(Table1).
+In Poland, most improvements occurred in the administrative/governmental sector. Since the 1997 ﬂood,
+theforecastingandwarningsystemsofPolandhavebeensigniﬁcantlyimprovedbothtechnicallyandorga-
+nizationally.In2007,theCrisisManagementActconstitutedtheorganizationalstructureoftheemergency
+management. This clariﬁcation of the legal basis for operations and division of responsibility lead to sig-
+niﬁcantimprovementsoftheorganizationalemergencymanagement,whichwasprovenduringthe2010
+ﬂood. In Mozambique, vulnerability reduction is mainly attributed to increased awareness and prepared-
+ness.Thishasbeenachievedprimarilybypromotingeducationalprogramsonﬂoodriskatdiﬀerentlevels
+[Lumbrosoetal., 2008]. Educational tools included: (1) material on sustainable ﬂood risk management for
+organizationsinvolvedinwaterplanning;(2)postersandpamphletstoraiseﬂoodawarenessatcommunity
+level;and(3)“livingwithﬂoods”manualandcardgametoraiseawarenessamongyoungpeopleandless
+literateadults,whichweredistributedtoruralandurbancommunitiesthroughoutMozambique[ Lumbroso
+etal., 2008].
+Overall, across the paired event cases, the observed reduction in vulnerability is in line with the observed
+decreaseinﬂooddamage,whichsuggestsanimportantroleofvulnerabilityinadaptationtoﬂoodrisk.
+However,themajorityofthechangesinvulnerabilityarebasedonlimitedevidence(depictedinFigure2by
+opensymbols),whichisincontrasttothemajorityoftrendsinhazardanddamage,thelatterbeingmainly
+basedonrobustevidence(Figure2).Forexposure,theunderlyingevidenceissomewhereinbetween,with
+abouthalfoftheobservedchangesbeingbasedonlimitedevidence.Thisisontheonehandduetothefact
+thatmanyhazardparameters,likeprecipitationordischarge,canbemeasuredandareoftencontinuously
+monitored,incontrasttovulnerabilityindicatorssuchasawarenessorpreparedness,whichcannotbeeasily
+measured and are only recorded occasionally, mostly after extreme damaging events. On the other hand,
+this also reﬂects the fact that far more event analyses focus on the hydrological processes of ﬂoods than
+onexposureorvulnerability.Thus,ourknowledgeonvulnerabilityisfarmorelimited.BothGermancases
+areexceptions,asdetailedvulnerabilityanalyseswereundertakenbasedonposteventsurveysofaﬀected
+parties(Table1).
+4. Conclusions
+Thisﬁrststudyofpairedﬂoodeventsshowshowsocietiesadapttoﬂoodriskthroughavarietyofactions.
+There is a clear signal that the ﬁrst event acted as a trigger for raising risk awareness, preparedness, and
+improvements of organizational emergency management, which in turn reduced vulnerability and dam-
+age.Also,reinforcingﬂoodprotectioninfrastructuresreducedﬂooddamage.Exposurecanalsobereduced,
+but it requires policy and legal changes and enforcement in the area of land use planning, and its eﬀects
+mostlyoccuronalonger(decadal)timescale.Ouranalysisunderlinestheessentialroleofreducingvulnera-
+bilityforeﬀectiveadaptation,butalsotheneedforanimprovedunderstandingofvulnerability,inthesense
+ofitschangesandeﬀectsondamageandrisk.Webelievethatourcompilationofpairedﬂoodeventscanbe
+thestartingpointforabroaderinternationalinitiativetocollectandanalyzealargenumberofpairedevent
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 963
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+Earth’s Future 10.1002/2017EF000606
+studies, for example, in the framework of the IAHSs Panta Rhei initiative. Generally, the challenge remains
+tostimulateadaptationprocesseswithouttheoccurrenceofdisastrousﬂoodsandmakeriskreductionper-
+sistentoverlongtimescales.
+References
+Armitage,D.,M.Marschke,andR.Plummer(2008),Adaptiveco-managementandtheparadoxoflearning, GlobalEnviron.Change ,18,
+86–98.
+Birkland,T.A.(1998),Focusingevents,mobilization,andagendasetting, J.PublicPolicy ,18(3),53–74.
+Blöschl,G.,M.Sivapalan,T.Wagener,A.Viglione,andH.Savenije(2013), RunoﬀPredictioninUngaugedBasins.SynthesisacrossProcesses,
+PlacesandScales ,CambridgeUniv.Press,NewYork.
+Bouwer,L.M.(2011),Havedisasterlossesincreasedduetoanthropogenicclimatechange? Bull.Am.Meterol.Soc. ,92(1),39–46.
+Brooks,N.,W.N.Adger,andP.M.Kelly(2005),Thedeterminantsofvulnerabilityandadaptivecapacityatthenationallevelandthe
+implicationsforadaptation, GlobalEnviron.Change ,15(2),151–163.https://doi.org/10.1016/j.gloenvcha.2004.12.006.
+Brouwer,R.,S.Akter,L.Brander,andE.Haque(2007),Socioeconomicvulnerabilityandadaptationtoenvironmentalrisk:Acasestudyof
+climatechangeandﬂoodinginBangladesh, RiskAnal.,27(2),313–326.
+Brown,A.E.,L.Zhan,T.A.McMahon,A.W.Western,andR.A.Vertessy(2005),Areviewofpairedcatchmentstudiesfordetermining
+changesinwateryieldresultingfromalterationsinvegetation, J.Hydrol.,310,1–4.https://doi.org/10.1016/j.jhydrol.2004.12.010.
+Bubeck,P.,W.J.W.Botzen,H.Kreibich,andJ.C.J.H.Aerts(2012),Long-termdevelopmentandeﬀectivenessofprivateﬂoodmitigation
+measures:AnanalysisfortheGermanpartoftheriverRhine, Nat.HazardsEarthSyst.Sci. ,12(11),3507–3518.
+Butts,M.,A.Dubicki,K.Stronska,G.Jorgensen,A.Nalberczynski,A.Lewandowski,andT.vanKalken(2007),Floodforecastingforthe
+upperandmiddleOdraRiverbasin,in FloodRiskManagementinEurope ,editedbyS.Begum,M.J.F .StiveandJ.W .Hall,Springer,
+Dordrecht,TheNeth.
+Chinh,D.T.,N.V.Dung,H.Kreibich,andP.Bubeck(2016),The2011ﬂoodeventintheMekongDelta:Preparedness,response,damage
+andrecoveryofprivatehouseholdsandsmallbusinesses, Disasters,40(4),753–788.https://doi.org/10.1111/disa.12171.
+CHRR(CenterforHazardsandRiskResearch,ColumbiaUniversity),andCIESIN(CenterforInternationalEarthScienceInformation
+Network,ColumbiaUniversity)(2005), GlobalFloodHazardFrequencyandDistribution ,NASASocioecon.DataandAppl.Center
+(SEDAC),Palisades,N.Y.https://doi.org/10.7927/H4668B3D.
+DiBaldassarre,G.,A.Viglione,G.Carr,L.Kuil,K.Yan,L.Brandimarte,andG.Blöschl(2015),Perspectivesonsocio-hydrology:Capturing
+feedbacksbetweenphysicalandsocialprocesses, WaterResour.Res. ,51,4770–4781.
+DKKV(GermanCommitteeforDisasterReduction)(2015),DasHochwasserimJuni2013:Bewährungsprobefürdas
+HochwasserrisikomanagementinDeutschland. DKKV-SchriftenreiheNr.53,Bonn,ISBN978-3-933181-62-6,207S(inGerman).
+DMC-CCFSC(DisasterManagementCenter-CentralCommitteeforFloodandStormControl)(2016),25Jun.2017.[Availableathttp://
+www.dmc.gov.vn,http://118.70.74.167:8081/DesInventar/proﬁletab.jsp?countrycode=vnn&continue=y].
+Domeneghetti,A.,F.Carisi,A.Castellarin,andA.Brath(2015),Evolutionofﬂoodriskoverlargeareas:QuantitativeassessmentforthePo
+River,J.Hydrol.,527,809–823.https://doi.org/10.1016/j.jhydrol.2015.05.043.
+Duan,Q.,J.Schaake,V.Andréassian,S.Franks,G.Goteti,H.V.Gupta,Y.M.Gusev,F.Habets,A.Hall,L.Hay,etal.(2006),Modelparameter
+estimationexperiment(MOPEX):Anoverviewofsciencestrategyandmajorresultsfromthesecondandthirdworkshops, J.Hydrol.,
+320,3–17.
+Dung,N.V.,B.Merz,A.Bárdossy,andH.Apel(2015),Handlinguncertaintyinbivariatequantileestimation – Anapplicationtoﬂood
+hazardanalysisintheMekongDelta, J.Hydrol.,527,704–717.https://doi.org/10.1016/j.jhydrol.2015.05.033.
+EM-Dat(2015),Datafrom“InternationalDisasterDatabase”1Oct.2015.[Availableathttp://www.emdat.be/].
+Engel,H.,N.Busch,K.Daamen,J.Helm,M.Keller,J.Ottens,B.Parmet,andE.Sprokkereef(1999),EineHochwasserperiodeimRheingebiet:
+ExtremereignissezwischenDez.1993undFebr.1995,, BerichtNr.I-17 ,Int.Komm.fürdieHydrol.desRheingebietes(KHR).
+EuropeanCommission(2007),Directive2007/60/ECoftheEuropeanParliamentandoftheCouncilof23October2007onthe
+AssessmentandManagementofFloodRisks(FloodsDirective).Eur.Comm.,Brussels,Belgium.
+Faccini,F.,F.Luino,A.Sacchini,andL.Turconi(2015),Flashﬂoodeventsandurbandevelopmentingenoa(Italy):Lostintranslation,in
+EngineeringGeologyforSocietyandTerritory ,vol. 5,editedbyG.Lollino,A.Manconi,F .Guzzetti,M.Culshaw,P .BobrowskyandF .Luino,
+Springer,Basel,Switz.,797–801.
+Ferguson,A.P.,andW.S.Ashley(2017),SpatiotemporalanalysisofresidentialﬂoodexposureintheAtlanta,Georgiametropolitanarea,
+Nat.Hazards,87(2),989–1016.https://doi.org/10.1007/s11069-017-2806-6.
+Gain,A.K.,V.Mojtahed,C.Biscaro,S.Balbi,andC.Giupponi(2015),Anintegratedapproachofﬂoodriskassessmentintheeasternpartof
+DhakaCity, Nat.Hazards,29(3),1499–1530.https://doi.org/10.1007/s11069-015-1911-7.
+IKSE(InternationaleKommissionzumSchutzderElbe)(2001), BestandsaufnahmedesvorhandenenHochwasserschutzniveausim
+EinzugsgebietderElbe .Magdeburg,Jan.2001,74pp,23Jun.2017.[Availableathttp://www.ikse-mkol.org/ﬁleadmin/media/user_
+upload/D/06_Publikationen/02_Hochwasserschutz/2001_IKSE-Bestandsaufnahme_Hochwasserschutzniveau.pdf]
+IPCC(IntergovernmentalPanelonClimateChange)(2012), ManagingtheRisksofExtremeEventsandDisasterstoAdvanceClimateChange
+Adaptation.ASpecialReportofWorkingGroupsIandIIoftheIntergovernmentalPanelonClimateChange,CambridgeUniv.Press,
+NewYork.
+Jongman,B.,H.C.Winsemius,J.C.J.H.Aerts,E.C.dePerez,M.K.vanAalst,W.Kron,andP.J.Ward(2015),Decliningvulnerabilitytoriver
+ﬂoodsandtheglobalbeneﬁtsofadaptation, Proc.Natl.Acad.Sci.U.S.A. ,E2271–E2280https://doi.org/10.1073/pnas.1414439112.
+Kelly,P.M.,andW.N.Adger(2000),Theoryandpracticeinassessingvulnerabilitytoclimatechangeandfacilitatingadaptation, Clim.
+Change,47(4),325–352.https://doi.org/10.1023/A:1005627828199.
+Kienzler,S.,I.Pech,H.Kreibich,M.Müller,andA.H.Thieken(2015),Aftertheextremeﬂoodin2002:Changesinpreparedness,response
+andrecoveryofﬂood-aﬀectedresidentsinGermanybetween2005and2011, Nat.HazardsEarthSyst.Sci. ,15,505–526.
+Kingdon,J.W.(1995), Agendas,Alternatives,andPublicPolicies ,2nded.,Longman,Harlow,U.K.
+Klijn,F.,H.Kreibich,H.deMoel,andE.Penning-Rowsell(2015),Adaptiveﬂoodriskmanagementplanningbasedonacomprehensive
+ﬂoodriskconceptualization, Mitig.Adapt.Strateg.GlobalChange ,20(6),845–864.
+Kreibich,H.,andB.Merz(2007),LessonslearnedfromtheElberiverﬂoodsinAugust2002-Withaspecialfocusonﬂoodwarning,in
+ExtremeHydrologicalEvents:NewConceptsforSecurity .NATOScienceSeries78,editedbyO.F.Vasiliev,P.H.A.J.M.Gelder,E.J.Plate
+andM.V.Bolgov,Springer,Dordrecht,TheNeth.,69–80.
+Acknowledgments
+Thepresentworkwasdevelopedbythe
+PantaRheiWorkingGroup“Changesin
+ﬂoodrisk”withintheframeworkofthe
+Panta Rhei Research Initiative of the
+InternationalAssociationofHydrolog-
+icalSciences(IAHS).Alldataandinfor-
+mationusedforthisstudyareavailable
+inAppendixS1(textsS1toS8).
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 964
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+Earth’s Future 10.1002/2017EF000606
+Kreibich,H.,andA.H.Thieken(2009),CopingwithﬂoodsinthecityofDresden,Germany, Nat.Hazards,51(3),423–436.
+Kreibich,H.,I.Seifert,A.H.Thieken,E.Lindquist,K.Wagner,andB.Merz(2011),Recentchangesinﬂoodpreparednessofprivate
+householdsandbusinessesinGermany, Reg.Environ.Change ,11(1),59–71.
+Kuhlicke,C.,A.Scolobig,S.Tapsell,A.Steinfuhrer,andB.deMarchi(2011),Contextualizingsocialvulnerability:Findingsfromcasestudies
+acrossEurope, Nat.Hazards,58(2),789–810.
+Kundzewicz,Z.W.,A.Dobrowolski,H.Lorenc,T.Nied ´zwied´z,I.Pinskwar,andP.Kowalczak(2012),FloodsinPoland,in ChangesinFlood
+RiskinEurope ,editedbyZ.W.Kundzewicz,IAHSPressandCRCPress/Balkema,Wallingford,U.K.,319–334.IAHSSpecialPublication,10
+Llasat,M.C.,T.Rigo,andM.Barriendos(2003),The“Montserrat-2000”ﬂash-ﬂoodevent:Acomparisonwiththeﬂoodsthathaveoccurred
+inthenorth-easternIberianpeninsulasincethe14thcentury, Int.J.Climatol. ,23,453–469.
+Lumbroso,D.,D.Ramsbottom,andM.Spaliveiro(2008),Sustainableﬂoodriskmanagementstrategiestoreduceruralcommunities’
+vulnerabilitytoﬂoodinginMozambique, J.FloodRiskManage. ,1,34–42.
+Mastrandrea,M.D.,C.B.Field,T.F.Stocker,O.Edenhofer,K.L.Ebi,D.J.Frame,H.Held,E.Kriegler,K.J.Mach,P.R.Matschoss,G.-K.Plattner,
+G.W.Yohe,andF.W.Zwiers(2010), GuidanceNoteforLeadAuthorsoftheIPCCFifthAssessmentReportonConsistentTreatmentof
+Uncertainties,IntergovernmentalPanelonClimateChange(IPCC).14Apr.2016.[Availableathttp://www.ipcc.ch].
+McRobie,A.,T.Spener,andH.Gerritsen(2005),Thebigﬂood:NorthSeastormsurge, Philos.Trans.R.Soc.A ,363,1263–1270.https://doi
+.org/10.1098/rsta.2005.1567.
+Mechler,R.,andL.M.Bouwer(2015),Understandingtrendsandprojectionsofdisasterlossesandclimatechange:Isvulnerabilitythe
+missinglink? Clim.Change,133(1),23–35.
+Merz,B.,J.Hall,M.Disse,andA.Schumann(2010),Fluvialﬂoodriskmanagementinachangingworld, Nat.HazardsEarthSyst.Sci ,10,
+509–527,www.nat-hazards-earth-syst-sci.net/10/509/2010/.
+Merz,B.,Z.W.Kundzewicz,J.Delgado,Y.Hundecha,andH.Kreibich(2012),Detectionandattributionofchangesinﬂoodhazardandrisk,
+inChangesinFloodRiskinEurope ,editedbyZ.W.Kundzewicz,IAHSSpecialPublication,10,IAHSPressandCRCPress/Balkema,
+Wallingford,U.K.,435–454.
+MRC(MekongRiverCommission)(2015),AnnualMekongFloodReport2011.MekongRiverComm.,72pp.
+Müller,U.(2010), Hochwasserrisikomanagement.TheorieundPraxis ,Vieweg+TeubnerVerlag,Berlin,Germany.ISBN:978-3-8348-1247-6.
+Nakamura,I.,andM.C.Llasat(2017),Policyandsystemsofﬂoodriskmanagement:acomparativestudybetweenJapanandSpain, Nat.
+Hazards,87(2),919–943.https://doi.org/10.1007/s11069-017-2802-x.
+Nkwunonwo,U.C.,M.Whitworth,andB.Baily(2016),Reviewarticle:Areviewandcriticalanalysisoftheeﬀortstowardsurbanﬂoodrisk
+managementintheLagosregionofNigeria, Nat.HazardsEarthSyst.Sci. ,16(2),349–369.https://doi.org/10.5194/nhess-16-349-2016.
+Orlandini,S.,G.Moretti,andJ.D.Albertson(2015),EvidenceofanemergingleveefailuremechanismcausingdisastrousﬂoodsinItaly,
+WaterResour.Res. ,51,7995–8011.https://doi.org/10.1002/2015WR017426.
+Pahl-Wostl,C.(2009),Aconceptualframeworkforanalysingadaptivecapacityandmulti-levellearningprocessesinresourcegovernance
+regimes,Glob.Environ.Change ,19,354–365.
+Prosdocimi,I.,T.R.Kjeldsen,andJ.D.Miller(2015),Detectionandattributionofurbanizationeﬀectonﬂoodextremesusing
+nonstationaryﬂoodfrequencymodels, WaterResour.Res. ,51,4244–4262.
+Schröter,K.,M.Kunz,F.Elmer,B.Mühr,andB.Merz(2015),WhatmadetheJune2013ﬂoodinGermanyanexceptionalevent?A
+hydro-meteorologicalevaluation, Hydrol.EarthSyst.Sci. ,19,309–327.
+Tapsell,S.M.,E.C.Penning-Rowsell,S.M.Tunstall,andT.L.Wilson(2002),Vulnerabilitytoﬂooding:Healthandsocialdimensions, Philos.
+Trans.R.Soc.Lond.A ,360(1796),1511–1525.https://doi.org/10.1098/rsta.2002.1013.
+Thieken,A.H.,T.Bessel,S.Kienzler,H.Kreibich,M.Müller,S.Pisi,andK.Schröter(2016a),TheﬂoodofJune2013inGermany:Howmuch
+doweknowaboutitsimpacts? Nat.HazardsEarthSyst.Sci. ,16,1519–1540.
+Thieken,A.H.,S.Kienzler,H.Kreibich,C.Kuhlicke,M.Kunz,B.Mühr,M.Müller,A.Otto,T.Petrow,S.Pisi,etal.(2016b),Reviewoftheﬂood
+riskmanagementsysteminGermanyafterthemajorﬂoodin2013, Ecol.Soc.,21,2.
+Thywissen,K.(2006), Componentsofrisk – Acomparativeglossary .Source,vol. 2.
+Turner,B.L.,P.A.Matson,J.J.McCarthy,R.W.Corell,L.Christensen,N.Eckley,G.K.Hovelsrud-Broda,J.X.Kasperson,R.E.Kasperson,A.
+Luers,etal.(2003),Aframeworkforvulnerabilityanalysisinsustainabilityscience, Proc.Natl.Acad.Sci.U.S.A ,100(14),8080–8085.
+https://doi.org/10.1073/pnas.1231334100.
+UNISDR(UnitedNationsInternationalStrategyforDisasterReduction)(2015), GAR2015MakingDevelopmentSustainable:TheFutureof
+DisasterRiskManagement ,UNInt.Strat.forDisasterReductionSecretariat,Geneva,Switz.
+VanKoningsveld,M.,J.P.M.Mulder,M.J.F.Stive,L.VanderValk,andA.W.VanderWeck(2008),Livingwithsea-levelriseandclimate
+change:AcasestudyoftheNetherlands, J.Coast.Res. ,24,367–379.
+VanLoon,A.F.,K.Stahl,G.DiBaldassarre,J.Clark,S.Rangecroft,N.Wanders,T.Gleeson,A.I.J.M.VanDijk,L.M.Tallaksen,J.Hannaford,
+etal.(2016),Droughtinahuman-modiﬁedworld:Reframingdroughtdeﬁnitions,understanding,andanalysisapproaches, Hydrol.
+EarthSyst.Sci. ,20,3631–3650.https://doi.org/10.5194/hess-20-3631-2016.
+Wisner,B.,P.Blaike,T.Cannon,andI.Davis(2004), AtRisk:NaturalHazards,People’sVulnerabilityandDisasters ,Routledge,London.
+WorldBank(2010), EconomicsofAdaptationtoClimateChange.SynthesisReport ,WorldBank,Washington,D.C.
+WorldBank(2016),Datafrom“GDPpercapita,PPP(currentinternational$)”WorldDevelopmentIndicatorsdatabase.14Apr.2016.
+[Availableathttp://databank.worldbank.org/data/reports.aspx?source=world-development-indicators].
+KREIBICHETAL. ADAPTATIONTOFLOODRISK 965
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000606, Wiley Online Library on [19/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

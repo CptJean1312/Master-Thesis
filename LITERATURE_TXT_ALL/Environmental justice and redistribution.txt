@@ -1,0 +1,863 @@
+[[PAGE 1]]
+Contents lists available at ScienceDirect
+Landscape and Urban Planning
+journal homepage: www.elsevier.com/locate/landurbplan
+Environmental justice and ﬂood prevention: The moral cost of ﬂoodwater
+redistribution
+Kuei-Hsien Liao a,⁎
+,J e ﬀrey Kok Hui Chan b, Yin-Ling Huang c
+a Graduate Institute of Urban Planning, National Taipei University, Taiwan
+b Humanities, Arts and Social Sciences, Singapore University of Technology and Design, Singapore
+c Department of Social Work, Soochow University, Taiwan
+ARTICLE INFO
+Keywords:
+Environmental justice
+Flood adaptation
+Flood control infrastructure
+Flood prevention
+Floodwater redistribution
+Taipei
+ABSTRACT
+Flood prevention is a predominant practice in ﬂood hazard mitigation. Governments around the world have been
+striving to protect important urban centers from ﬂooding at all cost. Often carried out through ﬂood control
+infrastructure and commonly perceived as a technical exercise, ﬂood prevention can however lead to environ-
+mental injustice. This is because ﬂood prevention measures do not eliminate but only redistribute ﬂoodwater;
+they often impose new ﬂood risks on people elsewhere or precipitate ﬂooding in another place that would bring
+about the displacement of an entire community. As governments around the world have come to prioritize
+economic and political centers for ﬂood protection, the costs of ﬂood prevention are often disproportionately
+borne by communities that are already vulnerable, disadvantaged, and marginalized —resulting in gross in-
+justice. However, the environmental injustice precipitated by ﬂood prevention through the inequitable process
+of ﬂoodwater redistribution has yet to be systematically examined. We illustrate the problem through the case of
+the Taipei Area Flood Control Plan, which have unjustly harmed two marginalized communities of Zhouho and
+Shezidao. Because ﬂood prevention measures are likely to be more intensively implemented in the face of in-
+creasingly extreme storms against the backdrop of accelerating urbanization, the moral cost of ﬂood prevention
+requires greater attention. To address this environmental injustice, we argue for a paradigm shift towards ﬂood
+adaptation in ﬂood hazard mitigation.
+1. Introduction
+Flood prevention —deﬁned here as the prevention of riverine
+ﬂooding—has long been a universal ideology. It has been taken for
+granted that ﬂoods must not occur in urban centers or urban develop-
+ment will be severely impeded. Flood prevention is largely achieved
+through ﬂood control infrastructure (FCI) that uses structural measures,
+such as channelization, levees, dams, and ﬂood diversion, to modify the
+geomorphology and hydrology of the river. Often portrayed as a tech-
+nical exercise, FCI is nevertheless politically charged and morally sig-
+niﬁcant because it can confer ﬂood safety for some at the cost of others.
+For example, FCI can worsen ﬂood risk for others, and while this ﬂood
+risk is unintended, it is a foreseeable imposition (see Pinter, Hutho ﬀ,
+Dierauer, Remo, & Damptz, 2016 ). However, relatively little has been
+discussed on how ﬂood prevention measures, as interventions to pro-
+vide safety for certain groups, could end up compromising the well-
+being of others. We argue that ﬂood prevention could lead to a parti-
+cular form of environmental injustice through the process of unjust
+ﬂoodwater redistribution .
+Unjust ﬂoodwater redistribution can be framed in at least the fol-
+lowing two ways. Typically, such a redistribution occurs when a ﬂood
+prevention measure alters the ﬂow locally to increase the ﬂood stage
+elsewhere ( Hartmann, 2011 ). Philosophically, this redistribution re-
+sembles a class of ‘upstream/downstream’ ethical problems ( Scherer,
+1990), where one party makes a unilateral decision that is non-re-
+ciprocal and that entails negative impacts on another party, and this
+impacted party is unable to a ﬀect or protest this mistreatment. In either
+or both framings, the outcomes are unjust because the impacted party
+often does not bene ﬁt from the ﬂood prevention measure (see Doorn,
+2015).
+Furthermore, unjust ﬂoodwater redistribution is compounded by
+the fact that ﬂooding does not occur uniformly across geographical
+space. Flood risk is inherently unfair ( Johnson, Penning-Rowsell, &
+Parker, 2007 ), and such inequity is already built into how urban
+landscapes are shaped amid certain geographies ( Colten, 2007). In this
+article, we argue that unjust ﬂoodwater redistribution by ﬂood
+https://doi.org/10.1016/j.landurbplan.2019.04.012
+Received 2 September 2018; Received in revised form 10 March 2019; Accepted 12 April 2019
+⁎ Corresponding author at: Graduate Institute of Urban Planning, National Taipei University, New Taipei City 237, Taiwan.
+E-mail addresses: liaokh@mail.ntpu.edu.tw (K.-H. Liao), jeﬀrey_chan@sutd.edu.sg (J.K.H. Chan).
+Landscape and Urban Planning 189 (2019) 36–45
+Available online 23 April 2019
+0169-2046/ © 2019 Elsevier B.V. All rights reserved.
+T
+
+[[PAGE 2]]
+prevention—even when it is a concerted e ﬀort to safeguard certain
+social groups in one location —can further exacerbate both the ﬂood
+and displacement risks of the already vulnerable social groups in other
+locations. In other words, ﬂood prevention measures confer safety for
+certain groups at a moral cost of disadvantaging others. Our arguments
+complicate an otherwise clear visual of securing ﬂood safety and well-
+being through ﬂood prevention. The complex moralities of ﬂood pre-
+vention beg the question of what kind of moral framework of justice is
+able to address the ‘wicked’ implications of ﬂood prevention (see Rittel
+& Webber, 1973).
+Precedent cases suggest that communities imposed with heighted
+ﬂood risks or displacement by ﬂood prevention planning usually had
+neither participated in the decision-making process, nor given their
+voluntary consent to accept these risks. These communities were often
+neither identi ﬁed beforehand nor duly recognized as legitimate stake-
+holders and rightful claimants (see Penz, Drydyk, & Bose, 2011); their
+rights to safety and well-being were often unjustly denied. For example,
+during the 2011 catastrophic ﬂood of Central Thailand, the Thai Gov-
+ernment built a ﬁfteen kilometers long ring of dikes and sandbags in
+order to keep central Bangkok dry, which led to a buildup of water
+outside the protected zone and trapped the residents there amid rising,
+ﬁlthy, and stagnant ﬂoodwater for weeks ( Edmonds, 2014 ). In ﬂood
+prevention planning, environmental injustice tends to emerge ﬁrst
+through a lack of recognition for certain socioeconomically margin-
+alized communities, which subsequently leads to their absence from
+participation and a lack of their inputs. This likely results in ﬂoodwater
+being redirected to these communities during extreme storm events,
+which can lead to irreversible losses that compromise the critical
+functions of these communities ( Penz et al., 2011 ). For this reason,
+environmental justice in ﬂood prevention planning must consider re-
+cognition, participation, and the capabilities approach (see Schlosberg,
+2007).
+In the remainder of this article our arguments are organized as
+follows: Firstly, we articulate the notion of ﬂoodwater redistribution.
+Secondly, we provide a framework of environmental justice con-
+textualized in ﬂood prevention. Thirdly, we demonstrate the problem of
+ﬂoodwater redistribution by using an actual case of the Taipei Area
+Flood Control Plan in Taiwan, focusing on how two marginalized
+communities—Zhouho and Shezidao —have been unjustly harmed in
+order to prevent ﬂooding
+in more economically valuable urban areas.
+Fourthly, we discuss the challenges of environmental justice in ﬂood
+prevention. In the conclusion, we draw out the contours for future re-
+search on the ethical dimensions of ﬂood prevention and argue for a
+paradigm shift in ﬂood hazard mitigation from ﬂood prevention to
+ﬂood adaptation.
+2. Flood prevention as ﬂoodwater redistribution
+Flood prevention, which is often synonymous with ﬂood protection,
+is a deliberate intervention to prevent riverine ﬂooding in order to
+avoid life and property losses in an area that is naturally subjected to
+riverine ﬂooding. In addition to FCI, there are other ﬂood prevention
+measures that are deployed during an emergency event when the ex-
+isting FCI appears incapable of defending against a ﬂood. These include
+controlled ﬂooding, arti ﬁcial levee breach, and emergency ﬂood
+ﬁghting using sandbags or mobile ﬂood barriers. Similar to FCI, these
+ad hoc measures often aim to protect more important urban centers at
+the expense of marginalized communities by unfairly redistributing
+ﬂoodwater to them. Due to the limited scope of this article, our fol-
+lowing arguments will only focus on FCI.
+FCI is the dominant approach to ﬂood prevention; however, it is also
+inherently limited: it cannot prevent all ﬂoods. Therefore, in reality, the
+so-called ﬂood prevention measures only reduce ﬂood frequency by
+preventing smaller ﬂoods. We argue that ﬂood prevention is a form of
+ﬂoodwater redistribution. In this section, we discuss how FCI redis-
+tributes ﬂoodwater during storm events, which then leads to
+environmental injustice. The following four most common structural
+measures of FCI will be discussed: (i) channelization; (ii) levees and
+ﬂoodwalls; (iii) ﬂood control dams; and (iv) ﬂood diversion. Essentially,
+all of them function by altering the spatial and temporal distributions of
+river discharge during storm events.
+Channelization refers to any combination of the following measures:
+removing instream and riparian vegetation; modifying channel width,
+depth, and gradient; armoring the river bank and/or bed; and straigh-
+tening the river. Channelization increases the hydraulic e ﬃ ciency of
+the channel such that the river drains faster, which prevents overbank
+ﬂows ( Brookes, 1988). Because ﬂoodwater reaches downstream faster,
+channelization can be seen as a ﬂood prevention measure that redis-
+tributes ﬂoodwater from upstream to downstream.
+Levees and ﬂoodwalls
+ conﬁne high ﬂows within the channel to
+prevent ﬂoodwater from spilling over the ﬂoodplain. These structures
+redistribute ﬂoodwater from the ﬂoodplain to the channel, resulting in
+higher ﬂow stages (i.e., ‘levee surcharges ’) in the channel and higher
+ﬂood levels in the surrounding areas ( Pinter et al., 2016; Tobin, 1995).
+For instance, through a modelling exercise, Pinter et al. (2016) show
+that the Sny Island levee system could increase the ﬂow stage by 2.4 m
+for a ﬂood of the same magnitude as the 1993 Mississippi Flood. The
+‘additional’ discharge would then be redistributed downstream to areas
+that are either unprotected or protected only by lower levees. Urban
+rivers are often both channelized and leveed, resulting in the increase of
+both ﬂood velocity and magnitude downstream of the protected area
+(Green, 2010). However, when the ﬂow, which otherwise would be
+spread over the ﬂoodplain, encounters a clogged channel or when high
+tide impedes drainage, levees and ﬂoodwalls can also redistribute
+ﬂoodwater in the opposite direction from downstream to upstream.
+Food control dams detain river discharge upstream to prevent
+downstream ﬂooding. It results in the inundation of an extensive area
+upstream that otherwise would rarely be ﬂooded. Dams therefore re-
+distribute ﬂoodwater from downstream to upstream. Ironically, a
+multifunctional dam, the operation of which is highly complex, can
+worsen downstream ﬂooding due to operational misjudgment ( Green,
+2010).
+Similar to dams, ﬂood diversion is also an upstream measure to
+prevent downstream ﬂooding. It redirects a portion of the discharge of a
+river through another channel during extreme storm events. The di-
+version is via either an arti ﬁcial channel or an existing natural channel.
+This diversion channel is also called a ﬂoodway or ﬂood bypass. During
+extreme storm events, the ﬂoodwater upstream is redistributed to the
+ﬂoodway and where the ﬂow is eventually discharged. The discharge
+location is usually further downstream of the river or in another wa-
+tershed.
+In sum, FCI prevents ﬂooding of a certain area by shifting ﬂood-
+water around the watershed or channeling ﬂoodwater across the wa-
+tershed. In other words, FCI does not so much prevent ﬂooding during
+storm events, but rather, it merely changes the space and time of
+ﬂooding. While ﬂood engineers rarely describe FCI in this light, this
+reality of FCI is long known. For example, Bower (2010) provides a
+historic account of the endeavors of dyking (i.e., leveeing) along the
+Assiniboine River in Manitoba, Canada. She reports that in the early
+20th century, ﬂood engineers, governments, and local residents were
+already well aware that “[w]hile dyking might prevent ﬂooding some
+locations, it did so by in e ﬀect passing along the high water ” (p. 62).
+Although this side-e ﬀect from ﬂoodwater redistribution by FCI is
+known (see Bower, 2010; Douglas et al., 2009 ), it continues to be ne-
+glected ( Lebel & Sinh, 2009). Society tends to focus on the success of
+FCI in preventing most ﬂoods and the overall bene ﬁts of FCI, which are
+often measured solely in economic terms ( Penning-Rowsell & Pardoe,
+2012).
+3. Deﬁ ning environmental justice in ﬂood prevention
+Environmental justice has only been recently applied to examine
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+37
+
+[[PAGE 3]]
+ﬂood-related issues (see Lynn, 2017; Walker, 2012 ), and discussion on
+the implications of justice in relevant literature remains scarce ( Thaler
+& Hartmann, 2016 ). One of the key contributions of environmental
+justice research has been to examine and evaluate the geography of risk
+(Walker & Burningham, 2011 ). Until the catastrophe caused by Hurri-
+cane Katrina in 2005, when it became obvious that existing social
+vulnerabilities could amplify environmental harm, ﬂooding was not
+perceived as a distinct form of environmental risk ( Walker &
+Burningham, 2011 ).
+Even though justice is a socially constructed framework with dif-
+ferent actors attributing di ﬀerent meanings to this concept ( Kaufmann,
+Priest, & Leroy, 2018 ), and no universally accepted deﬁ nition of en-
+vironmental justice exists ( Walker & Burningham, 2011 ), environ-
+mental justice in the context of ﬂooding nevertheless has been ex-
+amined through the following two key approaches ( Kaufmann et al.,
+2018). The ﬁrst is distributive justice, which comprises of either the
+equitable distribution of ﬂood protection resources or ﬂood risks; the
+second is procedural justice, which involves the constitution of fair
+decision-making process behind these distributive decisions.
+Existing literature re ﬂects this general distinction between dis-
+tributive and procedural justice. Distributive justice has been explored
+through the examination of the di ﬀerent allocation of resources, re-
+sponsibilities, and costs for ﬂood prevention ( Begg, 2018; Colten,
+Simms, Grismore, & Hemmerling, 2018); and through emphasizing the
+uneven distribution of ﬂood risks across di ﬀerent social groups and
+geographical spaces ( Collins, Grineski, & Chakraborty, 2018; Fielding,
+2007; Johnson et al., 2007; O ’Hare & White, 2018; Walker &
+Burningham, 2011). Procedural justice has been discussed in relation to
+the constitution of governance and decision-making institutions in ﬂood
+management ( Hartmann & Driessen, 2017; Kaufmann et al., 2018 ), for
+example, by considering which community is included to participate in
+ﬂood prevention planning and how collective decisions are made (see
+Owen, 2012 ). Because procedural justice has to presume equal re-
+presentation and voice, recent articulations on environmental justice
+have also expanded to encompass critical components of recognition,
+participation, and the capabilities approach ( Schlosberg, 2007 ).
+Following this, we can further distinguish between the ex ante
+frame of justice and the ex post frame of justice in the context of ﬂood
+prevention (see Thaler, Zischg, Keiler, & Fuchs, 2018 ). The former ex-
+amines whom or what to protect and how to allocate ﬂood protection
+resources before a ﬂood; the latter ponders on the distribution of the
+ﬂood
+impacts, as well as the reparation and reconstruction after a ﬂood.
+Because ﬂood-prone communities are unequally treated in ﬂood man-
+agement, the ex ante frame aims to preempt injustice, while the ex post
+frame aims to correct injustice. Each frame entails a di ﬀerent set of
+issues, questions, and actions that are important for environmental
+justice.
+Even when di ﬀerent individuals or communities can agree on the
+importance of distributive and procedural justice in both ex ante and ex
+post frames, their respective deﬁ nitions of justice can still vary widely
+(Davy, 1996). Ineluctably, there are many conceptions of justice (see
+Sandel, 2010 ), but the utilitarian and the Rawlsian conceptions are
+particularly salient because of their relevance in contemporary public
+policy. It has been observed that distributive justice is often de ﬁned by
+utilitarian justice , where communities that are deemed economically
+more valuable ought to be protected at the expense —or even by the
+sacriﬁce—of less economically valuable communities (see Roth &
+Warner, 2009). However, others might deﬁ ne distributive justice
+through a form of Rawlsian justice, where due priorities are given to the
+least advantaged members in an unequal social arrangement. Through
+Rawlsian justice, marginalized communities become the most likely
+beneﬁciaries ( Thaler et al., 2018 )—not only would these communities
+be free from being burdened with the redistributed ﬂoodwater, but also
+they would enjoy special treatment because of their marginalized
+status. The con ﬂict between utilitarian and Rawlsian justice have yet to
+be conclusively settled in moral philosophy, or in ﬂood management.
+Nevertheless, it is important to register that principled di ﬀerences exist
+between these di ﬀerent conceptions of justice, and the fairest recourse
+may be to subject these di ﬀerences to democratic scrutiny characterized
+by publicity, equal representation, and voice.
+Our argument that ﬂood prevention can lead to unjust outcomes
+combines the angles of distributive and procedural justice with an
+emphasis on the ex ante frame of justice. FCI can unfairly redistribute
+ﬂoodwater to unwilling or under-prepared communities. Furthermore,
+it can also complicate and worsen the collective prospect of fair deci-
+sion-making in the watershed, leading to a situation where environ-
+mental justice becomes even more elusive. For example, when a com-
+munity in a particular watershed erects FCI to protect itself, this FCI
+inevitably redistributes ﬂoodwater elsewhere. The redistributed ﬂood-
+water often implies a greater ﬂood risk elsewhere ( Green, 2010; Tobin,
+1995). This is why the so-called ﬂood
+risk ‘reduction’ is often simply
+ﬂood risk ‘redistribution’ (Lebel & Sinh, 2007 ), because the ‘reduced
+risk’ is merely shifted from one place to another. To paraphrase Hardin
+(2003), the bene ﬁts of ﬂood prevention enjoyed by this community are
+derived at the cost of in ﬂicting probable harm on other communities
+around it.
+To compound this moral problem, other communities that are now
+burdened with the unjust ﬂoodwater redistribution would subsequently
+demand more protection for themselves, which leads to new FCI being
+built or existing FCI being reinforced, thereby creating a vicious cycle
+for even more FCI and higher levee surcharges for the watershed as a
+whole ( Liao, 2014; Pinter et al., 2016; Tobin, 1995). In this way, FCI
+not only leads to higher ﬂood risk, but also incites distrust between
+communities that compete to construct ever higher levees. The side-
+eﬀects of unjust ﬂoodwater redistribution of FCI corrode the prospects
+for both distributive and procedural justice.
+4. The case of the Taipei Area Flood Control Plan
+We ﬂesh out the side-e ﬀects of unjust ﬂoodwater redistribution of
+FCI through the case of the Taipei Area Flood Control Plan (TAFCP).
+The Taipei Area is the most important political, economic, and cultural
+center in Taiwan. Geographically, it includes the low-lying Taipei
+Basin, with elevations under 20 m a.s.l. It is drained by the Danshui
+River and its major tributaries, including the Keelung River, Xindian
+River, and Dahan River ( Fig. 1). It covers the municipalities of Taipei
+City and a portion of New Taipei City —the former is the capital of
+Taiwan, while the latter is the most populated city in Taiwan. In this
+section, we ﬁrst provide an overview of TAFCP and subsequently dis-
+cuss its impacts on Zhouho and Shezidao.
+This case study relies on archival government documents, grey lit-
+erature, and ﬁeld visits. Unless noted otherwise, the description of
+TAFCP is largely based on the “Evaluation Report on the Flood Control
+Schemes for the Taipei Area ” (WRPC-MEA, 1970), a key document that
+details the scope, rationale, and measures of TAFCP. Since Zhouho has
+already disappeared for decades, the case has been assembled mainly
+from grey literature, including a magazine article ( Li & Li, 1986 ) and
+other unpublished manuscripts. On the other hand, the Shezidao case
+has been assembled from a locally-published book in Taiwan ( Yang,
+2016), together with various government reports, plans, and minutes
+from more than 20 review committee meetings and town hall meetings
+on the current development plan of Shezidao. Furthermore, ﬁeld visits
+were conducted between August 2014 and August 2017 to verify the
+details of this case and to document the present condition in Shezidao.
+To
+better understand the controversy surrounding the current devel-
+opment of Shezidao, the lead author attended eight of the aforemen-
+tioned review committee meetings between July 2017 and March 2019.
+4.1. The Taipei Area Flood Control Plan (TAFCP)
+In the 1910s, during the Japanese Colonization (from 1895 to
+1945), concrete embankments and levees were ﬁrst introduced to
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+38
+
+[[PAGE 4]]
+control some sections of the Danshui River and its tributaries. In lieu of
+the increasing population in the Taipei Area after World War II in the
+1960s, the Taiwan Government started to enhance its ﬂood control
+infrastructure. The “Danshui River Permanent Flood Control Plan ” was
+carried out from 1964 to 1967. A few years later in 1970, the afore-
+mentioned “Evaluation Report on the Flood Control Schemes for the
+Taipei Area ” was published. It speci ﬁed the most feasible scheme to
+protect the Taipei Area more extensively, and it gave rise to TAFCP,
+which was carried out from 1981 to 1999. Hereafter, the scheme spe-
+ciﬁed in this report will be referred to as ‘the 1970 scheme ’. It is ne-
+cessary to distinguish between the early planning of TAFCP and its
+physical outcome, because today, TAFCP is largely used to refer to the
+entire physical FCI of the Taipei Area.
+The overall objective of TAFCP is to protect the Taipei Area against
+a 200-year ﬂood. Quintessentially, TAFCP relies on levees, in con-
+junction with the Erchung Floodway that can divert more than one-
+third of the ﬂood ﬂows from the Danshui River ( Fig. 2). TAFCP was
+carried out in four construction phases, spanning across nearly four
+decades. Besides the levees and the Erchung Floodway, other structural
+measures included dredging, channel straightening, channel widening,
+urban drainage systems, pumping stations, etc. After the o ﬃ cial com-
+pletion of TAFCP in 1999, the government implemented another capital
+plan to address the upstream sections of the Keelung River in New
+Taipei City that was not included in the 1970 scheme. The objective is
+Fig. 1. The Taipei Area. It refers to the low-lying Taipei Basin that is drained by the Danshui River and its major tributaries, including Keelung River, Xindian River,
+and Dahan River. It covers the municipalities of Taipei City (dashed line) and a portion of New Taipei City (the rest in the map).
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+39
+
+[[PAGE 5]]
+to protect this relatively recent urbanized area along the Keelung River
+against a 200-year ﬂood. The measures include levees and channeli-
+zation, as well as the Yuanshanzi Floodway that was located further
+upstream of the Keelung River and was completed in 2005.
+Today, it is claimed that the Taipei Area is capable of resisting a
+200-year ﬂood. The highest levee stands as tall as 9.4 m (Taipei City
+Hydraulic Engineering O ﬃ ce, personal communication). In the past
+decades, TAFCP has successfully prevented a number of riverine ﬂoods
+that could have caused widespread disasters. However, not all com-
+munities within the Taipei Area have bene ﬁted from TAFCP. When the
+1970 scheme was being drafted, the Taipei Area was not as extensively
+urbanized as it is today, and there were still many rural communities.
+Zhouho and Shezidao are two such communities that were excluded
+from the 1970 scheme and had to bear the brunt of TAFCP. In fact,
+Zhouho no longer exists and was entirely erased by the Erchung
+Floodway. Shezidao continues to be disadvantaged by being ‘outside
+the levees ’ and threatened by the higher levees that protect other parts
+of the Taipei Area.
+4.2. Zhouho —erased by ﬂood diversion
+Located in New Taipei City, the Erchung Floodway is the key
+component of TAFCP ( Fig. 2). The curvilinear channel runs through the
+ﬂoodplain of the left bank of the Danshui River, designed to divert up to
+9200 cms out of 23,500 cms of ﬂood ﬂow at the con ﬂuence of the
+Xindian and Dahan River. It is 7.7 km long with an average width of
+450 m, covering a total area of 424 ha. Since its completion in 1984, the
+Erchung Floodway has diverted ﬂows for ten times to successfully
+prevent downstream ﬂooding. Today, the Erchung Floodway also
+functions as a public park when it is not used for diversion.
+Fig. 2. Overview of the Taipei Area Flood Control Plan (TAFCP). TAFCP relies on levees (shown as thick red lines), in conjunction with the Erchung Floodway to
+protect most of the Taipei Area against a 200-year ﬂood. Excluded from TAFCP are Shezidao, Wugu, and Guandu, which were all rural areas in the 1970s. Today most
+of Guandu is natural reserve and farmlands. While currently there are levees in Shezidao and Wugu to protect against a 20-year ﬂood, these levees are not parts of
+TAFCP. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.)
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+40
+
+[[PAGE 6]]
+However, the Erchung Floodway used to be home to four villages of
+∼2000 people. The village of Zhouho, comprised of ∼300 families and
+∼1400 residents, was particularly heavily impacted because it was si-
+tuated entirely within the Erchung Floodway ( Fig. 3). Before ﬂood di-
+version emerged as a key solution to ﬂood prevention for the Taipei
+Area, widening the channel at the left bank of the Danshui River near
+the Taipei Bridge ( Fig. 3) was ﬁrst considered because it is the nar-
+rowest downstream section of the river. This scheme was deemed in-
+tractable because it would involve large-scale land resumption and
+relocation of numerous residents in Sanchong, which was already
+densely urbanized. Alternatively, ﬂood diversion through a rural area
+would involve relocating a much smaller population. After a com-
+parative study of di ﬀerent ﬂood diversion schemes, it was deemed that
+creating a ﬂoodway through the Erchung area was ﬁnancially and hy-
+draulically most feasible ( MEA, 1973 ), hence the Erchung Floodway.
+Facing forced relocation, the a ﬀected villagers of Zhouho ﬁercely
+protested against the decision to construct the Erchung Floodway,
+citing reasons of questionable site selection, unclear demolition and
+relocation plan, and inadequate compensation ( Wang & Lin, 2013). Led
+by Zhouho villagers, the ﬁercest protest took place in 1983 when the
+aﬀected villagers took to the street, blocked a major thoroughfare, and
+brought tra ﬃ c to a standstill for nine hours ( Wang & Lin, 2013 ). It
+should be noted that forced relocation in the name of infrastructural
+and urban development was commonplace during the 1970s and 1980s,
+when Taiwan underwent rapid economic development. However, the
+people who faced relocation, in spite of their indignation, rarely pro-
+tested openly because Taiwan then was still under martial law. Against
+this backdrop, the open protests by the villagers a ﬀected by the
+Erchung Floodway only indicated their extreme outrage.
+Since 1979 when their homeland was o ﬃ cially designated as the
+Erchung Floodway, the a ﬀected villagers su ﬀered from extreme anxiety
+because they were neither informed on the exact date of demolition nor
+the exact site for relocation; they only knew a few days before the
+government demolished their homes, factories, and farms sometime in
+1984 ( Li & Li, 1986). The monetary compensation was also too low for
+the displaced villagers to a ﬀord to buy or even rent a home elsewhere in
+the Taipei Area. Many did not even receive their compensation until
+twenty years later. Those who were quali ﬁed to be rehoused ended up
+waiting for two years before they could relocate to a permanent
+dwelling after demolition. Most of the displaced villagers were farmers,
+and the displacement resulted in the loss of farmland and their liveli-
+hood. During this time, stories of depression and suicides were rampant
+(Li & Li, 1986). Although no systematic research exists to document the
+trauma borne by the a ﬀected villagers, the vast amount of literature on
+the
+negative impacts of forced relocation bears testimony to the tre-
+mendous su ﬀering of these villagers (see e.g., Campos, Liao, & Yiu,
+2018; Cernea, 2000 ).
+While the Erchung Floodway was the direct cause of the hardship
+for Zhouho villagers, their hardship was also in part the legacy of a
+previous ﬂood control work. After a major ﬂood catastrophe in 1964,
+the government dynamited the Shizito Hill near the mouth of the
+Danshui River to widen the channel to facilitate drainage in the hope of
+reducing ﬂooding ( Fig. 3). Unexpectedly, this resulted in the tides
+moving unimpededly further inland, causing tidal ﬂooding and sea-
+water intrusion in and around Zhouho; subsequently, Zhouho su ﬀered
+from frequent ﬂooding and the degradation of their farmland ( Li & Li,
+1986). In 1968, the a ﬀected area was then designated as a ‘ﬂoodplain
+control zone ’, where further development was restricted. This desig-
+nation ﬁrst resulted in low land values, which translated into ﬁnancial
+tractability for the planners to acquire this land, and also explained why
+Fig. 3. The historic location of Zhouho in relationship to the Erchung Floodway. There were three other villages located in the path of the Erchung Floodway.
+Because Zhouho was entirely situated within the ﬂoodway, it was disproportionately impacted and subsequently entirely erased.
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+41
+
+[[PAGE 7]]
+this site was selected as a ﬂoodway in the ﬁrst place (see WRPC-MEA,
+1970). Subsequently, this low land values also resulted in the low
+compensation for villagers when they were displaced by the Erchung
+Floodway.
+In sum, the irreparable displacement of Zhouho was the con-
+sequence of a channel widening work that led to its designation as a
+ﬂoodplain control zone, which subsequently made it an ideal site for a
+ﬂoodway. The uprooting of Zhouho has resulted in the compromised
+capabilities of the residents because of livelihood losses and the se-
+verance of communal ties.
+4.3. Shezidao —burdened by levees elsewhere
+Although Shezidao continues to exist, it has been successively dis-
+advantaged by TAFCP’s systemic protection of other communities in the
+Taipei Area. With a total area of 302 ha and a current population of
+∼11,000, Shezidao is a peninsula located at the western border of
+Taipei City ( Fig. 1). A sand bar formed at the con ﬂuence of the Danshui
+River and Keelung River, Shezidao is low-lying, with an average ele-
+vation of 2.5 m a.s.l. Before the 1970s, Shezidao supplied most of the
+vegetables for the Taipei Area. It was not considered for protection in
+the 1970 scheme because it was predominantly agricultural with a re-
+latively low economic output. As such, it was marked as a ‘ﬂood zone ’
+in the 1970 scheme, where land use should remain agricultural in order
+to reduce ﬂood loss. Subsequently, Shezidao was also designated as a
+‘development restricted zone ’, where any physical development was
+prohibited, including the retro ﬁtting of any existing built structure.
+Only temporary repair was allowed, and any permanent repair would
+irrevocably classify the entire building as an illegal structure.
+Over time, numerous buildings deteriorated and were rendered
+unﬁt for safe human habitation. Moreover, as families grew over time,
+more and more people were forced to cramp in the same old buildings.
+This reality has led many residents, who are more economically abled,
+to leave Shezidao. Today, the majority of those who are left behind are
+either too old or ﬁnancially strapped. As a result, Shezidao ’s population
+tends to comprise mostly of socio-economically disadvantaged groups
+(Yang, 2016 ).
+Under the development restriction, living in Shezidao would be
+nearly impossible had this restriction been fully complied. Many re-
+sidents had to build additional structures on top of or adjacent to ex-
+isting structures and had to even constructi entirely new independent
+structures to create more room for growing families. The government
+has chosen to ignore these illegal structures. Over the past ﬁve decades
+as the rest of the Taipei City developed and the quality of its built en-
+vironment gradually improved, Shezidao has instead become increas-
+ingly ‘backward’, as the media often reports. Along with Shezidao ’s
+present deteriorating environment is a growing sense of abandonment
+by the government. Because Shezidao residents are not protected by
+TAFCP and do not enjoy the same standard of living as the rest of the
+city, they often describe themselves as ‘second-class citizens ’ (Yang,
+2016).
+While Shezidao is not included in TAFCP, it has had some protection
+against ﬂooding.
+In 1973, embankments of 2.5 m high were built at
+selected locations to prevent tidal ﬂooding. Later in 1978, these em-
+bankments were raised to 4 m in response to the increased ﬂood risk
+after the completion of the levees for Zhumei in the opposite bank of the
+Keelung River (Fig. 2). In 1986, the ﬂood risk of Shezidao was increased
+again with the completion of the levees for Sanchong and Luzhou in the
+opposite bank of the Danshui River ( Fig. 2). Finally, in 1987 a 6 m high
+levee system was built to protect the entire Shezidao; however, it is only
+able to defend Shezidao against a 20-year ﬂood, while the rest of the
+Taipei Area is protected against a 200-year ﬂood. Because of the un-
+equal protection standards, Shezidao is imposed by a higher ﬂood risk;
+therefore, a strong sentiment of injustice is prevalent among Shezidao
+residents, who feel that they are being sacri ﬁced for the safety of the
+rest of the Taipei Area ( Fig. 2). For this reason, local leaders have been
+calling for the same protection standard as the rest of the Taipei Area.
+Nevertheless, Shezidao continues to be disadvantaged by the path-
+dependent demarcation of a ﬂood zone. Relocation has never been
+proposed by the government as an option to address Shezidao ’s ﬂood
+risk, but to address Shezidao ’s ‘backwardness’, nearly every mayor of
+the Taipei City had, at one point or another, proposed a development
+plan as a solution (see Taipei City Government, 2018 ). However, the
+concern that Shezidao’ s development might compromise TAFCP had
+prevented the realization of many of these plans ( Taipei City
+Government, 2010). This is because carrying out urban development in
+Shezidao would require Shezidao to be protected against a 200-year
+ﬂood like the rest of the Taipei Area. This would mean an increase of
+Shezidao’s existing levee system to 9.65 m in height, which would in
+turn reduce the ﬂood carrying capacity in the watershed because She-
+zidao has been serving as a ﬂood zone. Raising existing levees in She-
+zidao could increase the ﬂood stages in the Danshui River, which might
+overtop existing levees in the Taipei Area during an extreme storm
+event. In June 2018, a new development plan for Shezidao, along with
+its ﬂood control scheme that involves a 9.65 m high levee system, was
+approved. The ﬂood control scheme is based on a hydraulic modeling
+study, which suggests that in order not to compromise TAFCP, the
+proposed levee system has to operate under several conditions. They
+include levee setbacks in Shezidao, the removal of old waterfront
+landﬁlls to maintain overall ﬂood carrying capacity in the watershed,
+and levee reinforcement in Wugu ( Taipei City Government, 2010;
+Fig. 4).
+Within a ﬂood hazard mitigation paradigm that continues to be
+ﬁxated
+on ﬂood prevention as the only solution to ﬂood safety, it is
+perceived that the conundrum of Shezidao can only be tackled by
+building more FCI, which would further redistribute ﬂoodwater to
+other places to implicate other communities. Moreover, and ironically,
+while the proposed levee system may be what Shezidao residents have
+longed for, it would however result in large-scale displacement because
+it requires land resumption of the waterfront areas, home to most of
+Shezidao’s population.
+5. Discussion: challenges of environmental justice in ﬂood
+prevention
+The case of TAFCP shows how ﬂood prevention for the urban cen-
+ters has marginalized two communities and reveals the prevalence of
+utilitarian justice, where lost livelihoods and compromised interests of
+the economic minority were deemed a lesser harm, relative to a greater
+harm of the economic majority had ﬂooding impacted the latter. The
+suﬀering of Zhouho and Shezidao re ﬂects a long-standing assumption
+behind many development projects, where vaguely de ﬁned bene ﬁts
+that accrue at larger scales tend to trump more concrete losses ex-
+perienced at smaller or local scales ( Penz et al., 2011 ).
+The dominance of utilitarian justice in ﬂood hazard mitigation
+means that only the interests of higher income communities are salient
+because they tend to represent the highest economic value. The equa-
+tion of moral salience with high economic value may in turn suppress
+other equally legitimate interests that are made less morally salient
+because of their perceived low economic value. If decision makers in-
+tend to rely on utilitarian justice as the basis of their ﬂood hazard mi-
+tigation policies, they may be obliged to correct the biases of utilitarian
+justice. Consider the case of Shezidao: while utilitarian justice is still
+acknowledged by the decision makers —after all, the Taipei Area has to
+be protected from a major storm event by designating Shezidao as a
+ﬂood zone, the new development plan approved in 2018 also appears to
+have enacted Rawlsian justice in recognizing the residents ’ right to
+safety, which is especially acute for the already disadvantaged residents
+of Shezidao. On the other hand, the case of Zhouho appears to suggest
+that even if utilitarian justice may be a necessary framework to guide
+decision-making on ﬂood hazard mitigation, it is never su ﬃ cient be-
+cause the actual consequences can never be known in any exact way
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+42
+
+[[PAGE 8]]
+ahead of time ( Hansson, 2013). No decision maker can ever ﬁgure the
+cost of compromised capabilities for two or three generations of the
+original residents of Zhouho when they were evicted and lost their
+friends and neighbors.
+Furthermore, the case of Shezidao demonstrates that the co-ex-
+istence of these two conceptions of justice can also create new un-
+certainties for decision makers. These uncertainties are observed in the
+following two ways. Firstly, by constructing FCI to protect Shezidao
+with the same protection standards as the rest of the Taipei Area,
+ﬂoodwater that otherwise would have been redistributed to Shezidao
+during an extreme storm event would then be redistributed elsewhere,
+and it may even endanger the rest of the Taipei Area by overtopping its
+existing levees. Secondly, by acquiring the land required for FCI on
+Shezidao, many residents would have to be relocated, which under-
+mined their right as residents. This relocation, if it ever happens, is
+likely to further precipitate anxiety and resistance among the residents.
+The case of Shezidao then reveals how two major conceptions of justice
+applied together in one location could con ﬂict, and this can lead to new
+uncertainties that are created not so much by ﬂooding but rather, by
+ﬂood hazard mitigation itself. And even if the decision makers had only
+pursued either the utilitarian or Rawlsian justice, each notion of justice
+is accompanied by its own moral cost. Utilitarian justice would have to
+accept the unacceptable moral costs of denying certain communities
+their right to safety and well-being, while Rawlsian justice would have
+to wrestle with just how justi ﬁable it is to compromise the safety and
+well-being of a far larger population for the sake of protecting a much
+smaller group.
+6. Conclusion: toward a ﬂood adaption paradigm
+Because ﬂood prevention measures do not eliminate but only re-
+distribute ﬂoodwater, protecting a naturally ﬂood-prone area from
+ﬂooding would inevitably subject other areas to increased ﬂooding,
+which would lead to either increased ﬂood risks or displacement. This is
+an ethical issue of great moral signi ﬁcance because it often entails
+preferential treatment and perhaps even deliberate acts of intentional
+harm. If ﬂooding must be prevented, who should be ﬂooded in order to
+protect whom? How is the ultimate decision justi ﬁable? There are no
+easy answers to these questions. Utilitarian calculus may justify the
+injustice of redistributing ﬂoodwater from one community to another,
+but the equal right of the impacted community to safety and well-being
+should not be neglected. For this reason, the question of ‘who to ﬂood at
+whose expense ’ cannot be the right question for any ethical society,
+where a moral imperative also has to exist to prevent the emergence of
+this question. Particularly, in an era of climate change and continuing
+urbanization, where ﬂoodwater redistributed from one community is
+highly likely to end up impacting another community, the search for
+ethical ﬂood hazard mitigation needs to look beyond the ideology, or
+the paradigm, of ﬂood prevention.
+While our arguments can neither refute the e ﬃ cacy of FCI to protect
+certain locations, nor nullify the anticipation —or misconception, to be
+more precise —that FCI provides ﬂood
+ safety, they question the foun-
+dational assumption of the ﬂood prevention paradigm, which is that a
+river can be controlled by technologies. This assumption ignores the
+escalating moral and social costs, as well as the negative side-eﬀ ects, of
+ﬂood prevention measures; it also ignores the gross uncertainties as-
+sociated with climate change. Together, the foundational assumption
+behind the public endeavor of FCI, which promises visible political
+eﬃ cacy and apparent psychological comfort, has to be carefully scru-
+tinized now. A di ﬀerent paradigm for ﬂood hazard mitigation is ur-
+gently needed.
+What could possibly be a paradigm alternative to ﬂood prevention?
+It should be noted ﬁrst that ﬂooding does not always lead to disasters.
+Natural ﬂooding is key to the health of riverine ecosystems; and in some
+parts of the world, ﬂooding is not only bene ﬁcial, but also necessary for
+maintaining livelihoods. To try to prevent all forms of ﬂooding as
+Fig. 4. Five conditions that need to be met in order for the proposed 9.65 m high levee system not to compromise TAFCP: (1) the levee in Shezidao along the Keelung
+River needs to be set back for 80 –130 m; (2) the levee in Shezidao along the Danshui River needs to be set back for 30 m; (3) the decommissioned land ﬁll in Luzhou
+along the Danshui River needs to be removed; (4) the decommissioned land ﬁll in Shanchong along the Danshui River needs to removed; (5) the levee along the Wugu
+area needs to be heightened such that it can defend against a 200-year ﬂood ( Taipei City Government, 2010 ).
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+43
+
+[[PAGE 9]]
+though they are all hazardous is erroneous. Even when ﬂooding is ha-
+zardous, FCI is hardly the only solution to ﬂood safety. Many forms of
+vernacular settlements, even entire societies and civilizations, have
+evolved to live harmoniously with periodic ﬂooding (Laituri, 2000). For
+example, in many rural villages in the Mekong Delta, people have de-
+veloped amphibious lifestyles and built forms to adapt to and bene ﬁt
+from seasonal ﬂooding ( Liao, Tuan, & Nguyen, 2016 ). It demonstrates
+that ﬂood exposure does not necessarily result in ﬂood loss and damage.
+Although these adaptive exemplars are from settlement patterns dif-
+ferent from the urban centers in the Global North, they are nonetheless
+instructive counterpoises against the prevailing ﬂood prevention para-
+digm today. Since ﬂood safety does not necessarily require ﬂood pre-
+vention in the ﬁrst place, ﬂood prevention is hardly the only option for
+ﬂood safety. Flood adaptation can be an alternative paradigm (see Liao,
+2014; Liao et al., 2016).
+Here, ﬂood adaptation means making the built en-
+vironment—buildings, open spaces, infrastructure, etc. —“ﬁt for the
+actual and expected ﬂood regime” (Liao et al., 2016, p. 70). Contrasting
+with the ﬂood prevention paradigm, the ﬂood adaptation paradigm
+does not involve the intention to change the natural ﬂood regime for
+ﬂood safety. Hence, it does not necessitate ﬂoodwater redistribution. A
+paradigm shift from ﬂood prevention to ﬂood adaptation implies ret-
+roﬁtting the existing built environments or designing new urban de-
+velopments in ways that when ﬂooded, ﬂood loss and damage can be
+avoided. It requires a major shift in the focus of ﬂood hazard mitigation
+from ﬂood control engineering to environmental design, i.e., urban
+design, landscape architecture, and architecture. Although the im-
+portant role of environmental design in ﬂood hazard mitigation has
+been advocated, environmental design measures today remain merely
+supplementary to structural measures. FCI remains a key staple for far
+too many urban areas. Addressing the moral pitfalls of ﬂood prevention
+requires
+environmental design to play a much greater role in ﬂood
+hazard mitigation.
+But how is a paradigm shift to ﬂood adaptation possible when re-
+lentless urbanization is also a principal factor behind increasing ﬂood
+risks ( Alﬁeri et al., 2017 )? What are the odds of this ﬂood adaption
+paradigm, when it appears to entail systemic recalibrations of every-
+thing from everyday life to political formations in a spatial con ﬁgura-
+tion that is both re ﬂective and responsive to the needs of this adaptive
+way of life? Future research is necessary to identify speci ﬁc sub-sections
+within the city that are deemed appropriate for the demonstration of
+ﬂood adaption. While certain challenges and even intractable political
+resistance abound for this ﬂood adaptation paradigm, the costs con-
+cealed within the technological and political comfort zone of ﬂood
+prevention are even more prohibitive. For this reason, the corrective
+exempliﬁed by a stance of ﬂood adaptation may be the ﬁrst actual step
+towards a more environmentally just approach to ﬂood safety.
+References
+Alﬁeri, L., Bisselink, B., Dottori, F., Naumann, G., de Roo, A., Salamon, P., ... Feyen, L.
+(2017). Global projections of river ﬂood risk in a warmer world. Earth’s Future, 5 ,
+171–182.
+Begg, C. (2018). Power, responsibility and justice: A review of local stakeholder parti-
+cipation in European ﬂood risk management. Local Environment: International Journal
+of Justice and Sustainability, 23 , 383 –397.
+Bower, S. S. (2010). Natural and unnatural complexities: Flood control along Manitoba ’s
+Assiniboine River. Journal of Historical Geography, 36 ,5 7 –67.
+Brookes, A. (1988). Channelized rivers: Perspectives for environmental management. New
+York: Wiley .
+Campos, B. C., Liao, K.-H., & Yiu, E. C. Y. (2018). The displacement risks and impacts of
+Hong Kong’s nonindigenous villagers: A ground theory analysis. Urban Aﬀairs Review.
+Cernea, M. M. (2000). Risks, safeguards and reconstruction: A model for population
+displacement and resettlement. Economic and Political Weekly, 35 (41), 3659 –3678.
+Collins, T. W., Grineski, S. E., & Chakraborty, J. (2018). Environmental injustice and ﬂood
+risk: A conceptual model and case comparison of metropolitan Miami and Houston,
+USA. Regional Environmental Change, 18 , 311 –323.
+Colten, C. E. (2007). Environmental justice in a landscape of tragedy. Technology in
+Society, 29 , 173 –179.
+Colten, C. E., Simms, J. R. Z., Grismore, A. A., & Hemmerling, S. A. (2018). Social justice
+and mobility in coastal Louisiana, USA. Regional Environmental Change, 18 (2),
+371–383.
+Davy, B. (1996). Fairness as compassion: Towards a less unfair facility siting policy. Risk:
+Health, Safety & Environment, 7 (2), 99 –108.
+Doorn, N. (2015). The blind spot in risk ethics: Managing natural hazards. Risk Analysis,
+35(3), 354 –360.
+Douglas, I., Alam, K., Maghenda, M., McDonnell, Y., McLean, L., & Campbell, J. (2009).
+Unjust waters: Climate change, ﬂooding and the urban poor in Africa. In J. Bicknell,
+D. Dodman, & D. Satterthwaite (Eds.). Adapting cities to climate change: Understanding
+and addressing the development challenges (pp. 201 –223). London: Earthscan .
+Edmonds,
+D. (2014). Would you kill the fat man? The Trolley problem and what your answer
+tells us about right and wrong. Princeton: Princeton University Press .
+Fielding, J. (2007). Environmental injustice or just the lie of the land: An investigation of
+the socio-economic class of those at risk from ﬂooding in England and Wales.
+Sociological Research Online, 12 ,4 .
+Green, C. (2010). Towards sustainable ﬂood risk management. International Journal of
+Disaster Risk Science, 1 ,3 3 –43.
+Hansson, S. O. (2013). The ethics of risk: Ethical analysis in an uncertain world. New York:
+Palgrave Macmillan .
+Hardin, R. (2003). Indeterminacy and society. Princeton: Princeton University Press .
+Hartmann, T. (2011). Clumsy ﬂoodplains: Responsive land policy for extreme ﬂoods.
+Burlington: Ashgate .
+Hartmann, T., & Driessen, P. (2017). The ﬂood risk management plan: Towards spatial
+water governance. Journal of Flood Risk Management, 10 , 145 –154.
+Johnson, C., Penning-Rowsell, E., & Parker, D. (2007). Natural and imposed injustices:
+The challenges in implementing ‘fair’ ﬂood risk management policy in England.
+Geographical Journal, 173 , 374 –390.
+Kaufmann, M., Priest, S. J., & Leroy, P. (2018). The undebated issue of justice: Silent
+discourses in Dutch ﬂood risk management. Regional Environmental Change, 18 (2),
+325–337.
+Laituri, M. J. (2000). Cultural perspectives of ﬂooding. In E. E. Wohl (Ed.). Inland ﬂood
+hazards: Human, riparian, and aquatic communities (pp. 451 –468). Cambridge:
+Cambridge University .
+Lebel, L., & Sinh, B. T. (2007). Politics of ﬂoods and disasters. In L. Lebel, J. Dore, R.
+Daniel, & Y. S. Koma (Eds.). Democratizing water governance in the mekong region (pp.
+37–54). Chiang Mai: Mekong Press .
+Lebel, L., & Sinh, B. T. (2009). Risk reduction or redistribution? Flood management in the
+Mekong region. Asian Journal of Environment and Disaster Management, 1 ,2 5 –41.
+Li, W. G., & Li, M. (1986). When a village disappears on the map. Ren Jien Magazine, 4 ,
+18–31
+[in Chinese].
+Liao, K.-H. (2014). From ﬂood control to ﬂood adaptation: A case study on the Lower
+Green River Valley and the City of Kent in King County, Washington. Natural Hazards,
+71, 723 –750.
+Liao, K.-H., Tuan, A. L., & Nguyen, K. V. (2016). Urban design principles for ﬂood resi-
+lience: Learning from the ecological wisdom of living with ﬂoods in the Vietnamese
+Mekong Delta. Landscape and Urban Planning, 155 ,6 9 –78.
+Lynn, K. (2017). Rising recreancy: Flood control and community relocation in Houston,
+TX, from an environmental justice perspective. Local Environment, 22 , 321 –334.
+MEA: Ministry of Economic A ﬀairs (1973). Revised ﬂood control plan for Shezidao and
+Wuku. Taiwan: Ministry of Economic A ﬀairs [in Chinese].
+O’Hare, P., & White, I. (2018). Beyond ‘just’ ﬂood risk management: The potential
+for—And limits to —Alleviating ﬂood disadvantage. Regional Environmental Change,
+18(2), 385 –396.
+Owen, G. (2012). Move your city: Ethics, place and risk in the reconstruction of New
+Orleans. The International Journal of the Constructed Environment, 2 (1), 23 –35.
+Penning-Rowsell, E. C., & Pardoe, J. (2012). Who bene ﬁts and who loses from ﬂood risk
+reduction? Environment and Planning C: Government and Policy, 30 , 448 –466.
+Penz, P., Drydyk, J., & Bose, P. S. (2011). Displacement by development: Ethics, rights and
+responsibilities. New York: Cambridge University Press .
+Pinter, N., Hutho ﬀ, F., Dierauer, J., Remo, J. W. F., & Damptz, A. (2016). Modeling re-
+sidual ﬂood risk behind levees, Upper Mississippi River, USA. Environmental Science &
+Policy, 58 , 131 –140.
+Rittel,
+H. W. J., & Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy
+Sciences, 4 , 155 –169.
+Roth, D., & Warner, J. (2009). Rural solutions for threats to urban areas. Built environment,
+35, 545 –562.
+Sandel, M. J. (2010). Justice: What ’s the right thing to do? New York: Farrar, Straus and
+Giroux.
+Scherer, D. (1990). Introduction. In D. Scherer (Ed.). Upstream/downstream: Issues in en-
+vironmental ethics (pp. 3 –18). Philadelphia: Temple University Press .
+Schlosberg, D. (2007). Deﬁning environmental justice: Theories, movements, and nature.
+Oxford: Oxford University Press .
+Taipei City Government (2010). An analysis of the bene ﬁts of the development of Shezidao
+and its impact on the Taipei Area Flood Control Plan. [in Chinese] .
+Taipei City Government (2018). Rezoning of the master plan of Shezidao, Shilin District,
+Taipei City. [in Chinese].
+Thaler, T., & Hartmann, T. (2016). Justice and ﬂood risk management: Reﬂ ecting on
+diﬀerent approaches to distribute and allocate ﬂood risk management in Europe.
+Natural Hazards, 83 , 129 –147.
+Thaler, T., Zischg, A., Keiler, M., & Fuchs, S. (2018). Allocation of risk and
+beneﬁts—Distributional justices in mountain hazard management. Regional
+Environmental Change, 18 , 353 –365.
+Tobin, G. A. (1995). The levee love a ﬀair: A stormy relationship. Water Resources Bulletin,
+31, 359 –367.
+Walker, G. (2012). Environmental justice: Concepts, evidence and politics. Abingdon,
+Oxfordshire: Routledge .
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+44
+
+[[PAGE 10]]
+Walker, G., & Burningham, K. (2011). Flood risk, vulnerability and environment justice:
+Evidence and evaluation of inequality in a UK context. Critical Social Policy, 31 ,
+216–240.
+Wang, C.-H., & Lin, C.-H. (2013). The governance and transformation of urban natures-
+the case of Erchong Floodway in New Taipei City, Taiwan. A radical quarterly in Social
+Studies, 92 ,3 5 –71.
+WRPC-MEA: Water Resources Planning Committee (1970). Evaluation report on ﬂood
+control scheme for Taipei Area. Taiwan: Ministry of Economic A ﬀairs [in Chinese].
+Yang, L. (2016). A forgotten Island, prisoned for half a century. New Taipei City: Walkers
+Cultural [in Chinese] .
+K.-H. Liao, et al. Landscape and Urban Planning 189 (2019) 36–45
+45

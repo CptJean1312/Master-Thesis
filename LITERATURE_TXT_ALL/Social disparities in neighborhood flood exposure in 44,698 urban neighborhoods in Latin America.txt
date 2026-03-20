@@ -1,0 +1,947 @@
+[[PAGE 1]]
+Nature Cities | Volume 2 | March 2025 | 246–253 246
+nature cities
+Article
+https://doi.org/10.1038/s44284-025-00203-3
+Social disparities in neighborhood flood 
+exposure in 44,698 urban neighborhoods in 
+Latin America
+ 
+Josiah L. Kephart    1,2 , Usama Bilal    1,3, Nelson Gouveia    4, 
+Olga Lucia Sarmiento    5, Emily Shingara    3, Karla Rangel Moreno    6, 
+Maryia Bakhtsiyarava    1,7, Juan Pablo Rodriguez8, Salvador Ayala9, 
+Gabriel Carrasco-Escobar    10, Ana V . Diez Roux1,3 & the SALURBAL Group*
+Climate change is expected to greatly increase exposure to flooding, 
+particularly among urban populations in low- and middle-income countries. 
+Here we used daily flood data (2000–2018) to describe socioeconomic 
+disparities in flooding on the basis of neighborhood educational attainment, 
+comparing disparities across and within cities. We used multilevel models 
+to examine disparities in area flooding by city- and neighborhood-level 
+factors, including 44,698 neighborhoods in 276 cities from eight countries 
+with a total of 223 million residents and 117 distinct flood events. One in 4 of 
+residents of neighborhoods in the lowest quintile of educational attainment 
+were exposed to flooding, compared with 1 in 20 residents of neighborhoods 
+in the highest quintile of educational attainment. Neighborhoods 
+experiencing more flooding included those with lower educational 
+attainment, that were coastal, less dense, further from the city center and 
+greener, and that had steeper slopes. We show large social disparities in 
+neighborhood flooding within Latin American cities. Policymakers must 
+prioritize flood adaptation and recovery efforts in neighborhoods with 
+lower socioeconomic status.
+Floods are the most frequently occurring climate-related disaster, 
+affecting more people than any other disaster type1. Climate change 
+is projected to increase the frequency, intensity and extent of major 
+flood events through rising sea levels, faster snowmelt and a greater 
+frequency of storms with extreme precipitation2– 5. Increasing levels 
+of urbanization have exacerbated flood hazards in densely populated 
+areas by replacing natural rainwater sinks and watersheds that absorb 
+precipitation with impervious surfaces that increase the amount of 
+rainwater runoff directed toward streams6. The combined forces of 
+climate change and urbanization have led to rapid growth in the propor-
+tion of the global population that lives in flood-prone areas4,6. Between 
+2000 and 2015, the global population affected by floods grew by  
+58–86 million, an alarming increase of 20–24% within just 16 years4.
+Increases in population exposure to floods are unequally distrib-
+uted between countries and are projected to disproportionately impact 
+residents of low- and middle-income countries4,7. Within high-income 
+Received: 30 July 2024
+Accepted: 13 January 2025
+Published online: 10 February 2025
+ Check for updates
+1Urban Health Collaborative, Dornsife School of Public Health, Drexel University, Philadelphia, PA, USA. 2Department of Environmental and Occupational 
+Health, Dornsife School of Public Health, Drexel University, Philadelphia, PA, USA. 3Department of Epidemiology and Biostatistics, Dornsife School of 
+Public Health, Drexel University, Philadelphia, PA, USA. 4University of São Paulo Medical School, São Paulo, Brazil. 5School of Medicine, Universidad de los 
+Andes, Bogotá, Colombia. 6Instituto Nacional de Salud Pública, Cuernavaca, Mexico. 7Institute of Transportation Studies, University of California, Berkeley, 
+Berkeley, CA, USA. 8Department of Civil and Environmental Engineering, Universidad de los Andes, Bogotá, Colombia. 9Instituto de Salud Poblacional, 
+Facultad de Medicina, Universidad de Chile, Santiago, Chile. 10Health Innovation Laboratory, Alexander von Humboldt Institute of Tropical Medicine, 
+Universidad Peruana Cayetano Heredia, Lima, Peru. *A list of authors and their affiliations appears at the end of the paper.  e-mail: jlk465@drexel.edu
+
+[[PAGE 2]]
+Nature Cities | Volume 2 | March 2025 | 246–253
+ 247
+Article https://doi.org/10.1038/s44284-025-00203-3
+had the lowest median population educational attainment (67.6% of 
+adults aged 25+ years completed primary school, interquartile range  
+(IQR 14.9), while neighborhoods in Mexico (91.8%, IQR 8.7) had the 
+countries, marginalized communities experience greater flood haz -
+ards8– 10 and greater susceptibilities to the health, social and economic 
+impacts of floods10,11. However, little is known about how flood haz -
+ards are distributed along social gradients in highly urbanized Latin 
+America12,13, where wide social, health and environmental inequalities 
+are common14–16  and patterns of neighborhood segregation and envi-
+ronmental disparities often differ from those observed in high-income 
+countries16–18 . Furthermore, little is known about what features of the 
+urban environment are associated with differences in flood hazards 
+between and within the cities of Latin America12. This lack of knowledge 
+on the interplay between floods, population risk, social disparities 
+and the urban environment is a barrier to climate adaptation planning 
+across Latin America12,19, where 80% of the population lives in highly 
+unequal urban areas 20 and climate-related flooding is expected to 
+increase in the coming decades2,5,21,22. There is a critical need to examine 
+the linkages between population flood hazards, social disparities and 
+the urban environment to inform flood adaptation efforts that protect 
+public health and decrease inequality across urban Latin America23.
+T o address these gaps, we described neighborhood socioeco -
+nomic disparities in exposure to recent floods and urban characteristics 
+associated with flooding within 276 Latin American cities diverse in 
+climate, socioeconomic factors and features of the urban environment.
+Results
+Study neighborhoods, population and urban characteristics
+We examined 44,698 neighborhoods in 276 cities with a total of 117 
+recorded flood events in Argentina, Brazil, Chile, Colombia, Costa 
+Rica, Guatemala, Mexico and Panama (Table 1  and Supplementary 
+Dataset 1). The geographic locations of observed cities are shown in  
+Fig. 1, where study cities (all with recorded flood events) are represented 
+by blue points while excluded cities without recorded flood events 
+(n = 50) are indicated as dark-gray points. Neighborhoods in Brazil 
+Table 1 | Population and urban environment characteristics of 44,698 study neighborhoods in 276 Latin American cities with 
+recorded flood events in the GFD from 2000 to 2018, overall and by country. Results presented as number (n) and percent 
+or mean (standard deviation)
+Total Argentina Brazil Central Americaa Chile Colombia Mexico
+Neighborhood level
+ n of neighborhoods 44,698 2,002 3,660 4,929 1,824 2,907 29,376
+ Population densityb 8.1 (11.0) 8.7 (9.8) 6.3 (7.1) 11.1 (24.8) 5.9 (5.0) 12.9 (11.9) 7.5 (6.9)
+  Educational attainment (% 
+primary school or less)
+86.3 (13.6) 89.4 (7.9) 67.9 (11.8) 73.9 (22.0) 88.9 (9.5) 88.7 (14.5) 90.5 (8.0)
+ Intersection densityc 150 (172) 81 (43) 89 (57) 101 (112) 135 (101) 251 (544) 162 (100)
+ Greenness (NDVI)d 0.47 (0.20) 0.46 (0.20) 0.57 (0.19) 0.60 (0.19) 0.46 (0.22) 0.57 (0.20) 0.42 (0.18)
+ Distance from city center (km) 12.7 (13.8) 21.2 (19.2) 14.9 (14.5) 11.8 (8.1) 9.2 (12.0) 9.7 (12.4) 12.5 (14.1)
+ n (%) of coastal neighborhoods 2,244 (5.0%) 149 (7.4%) 592 (16.2%) 160 (3.2%) 358 (19.6%) 182 (6.3%) 803 (2.7%)
+ Altitude (m) 1,063 (921) 134 (287) 409 (369) 1,409 (675) 218 (429) 1,163 (992) 1,253 (943)
+ Slope (°) 4.4 (3.8) 2.8 (2.0) 5.2 (3.4) 7.0 (5.3) 5.0 (4.4) 6.0 (5.7) 3.8 (3.0)
+City level
+ n of cities 276 21 124 5 16 29 81
+ City population (×1,000) 721 (2,036) 1,023 (3,078) 715 (2,021) 1,130 (1,018) 228 (158) 759 (1,479) 711 (2,168)
+ GDP per capita (US$, ×1,000) 15.5 (11.3) 17.4 (7.2) 15.2 (8.1) 16.9 (7.4) 21.2 (18.3) 10.3 (3.8) 16.1 (15.5)
+ Population densityb 7.1 (3.8) 5.6 (1.3) 6.1 (2.1) 7.5 (2.7) 7.0 (1.4) 15.7 (5.1) 5.9 (1.5)
+  Education (% primary school 
+or less)
+74.1 (10.0) 79.6 (2.8) 65.6 (6.1) 86.6 (6.1) 89.5 (2.5) 83.9 (3.7) 78.2 (7.0)
+ Intersection densityc 92.3 (25.3) 85.1 (16.3) 84.4 (19.2) 60.5 (23.7) 125.1 (15.1) 117.6 (31.1) 92.9 (23.4)
+ Greenness (NDVI) 0.56 (0.12) 0.52 (0.11) 0.60 (0.06) 0.69 (0.06) 0.42 (0.20) 0.63 (0.07) 0.50 (0.14)
+aCentral America grouping includes urban neighborhoods in Costa Rica (n = 1 city), Guatemala (n = 1) and Panama (n = 3). bThousands of residents per square kilometer. cStreet intersections per 
+square kilometer. dMedian normalized vegetation index within the neighborhood or city.
+N
+40° S
+20° S
+0°
+20° N
+120° W 100° W 80° W 60° W 40° W
+Recorded flood
+events 2000−2018 
+None
+1+
+Fig. 1 | Study cities with recorded floods in the GFD from 2000 to 2018. A total 
+of 276 cities had recorded floods and were included in the analysis (blue color); 50 
+cities had no recorded floods and were excluded (dark-gray color).
+
+[[PAGE 3]]
+Nature Cities | Volume 2 | March 2025 | 246–253 248
+Article https://doi.org/10.1038/s44284-025-00203-3
+highest median educational attainment. Neighborhoods in Colombia 
+had the highest population density (11.0 (IQR 15.8) thousand residents 
+per square kilometer), while neighborhoods in Brazil were the least 
+dense (4.1, IQR 7.5). Neighborhood and city population and character-
+istics are described overall and by country in Table 1.
+Neighborhood flood population exposures and education
+There were 117 unique floods across the 276 study cities between 2000 
+and 2018. Large-scale floods often affected more than one city or coun-
+try. The number of flood events ranged from 12 floods in Chile to 62 
+floods in Brazil (Table 2). Supplementary Dataset 1 shows the number 
+of flood events by individual city. Of the 228.3 million residents resid-
+ing in study cities as of the last census, 38.1 million people (16.7% of 
+residents) lived in neighborhoods that flooded at least once between 
+2000 and 2018 (Table 2). Supplementary Fig. 2 shows neighborhood 
+flooding within two select cities: the metropolitan area of Buenos Aires, 
+Argentina, and Medellín, Colombia. We observed large differences 
+by country in the percentage of urban residents in neighborhoods 
+with flooding. While 24.0% of residents of Brazilian cities and 19.5% 
+of residents of Colombian cities lived in neighborhoods with flood-
+ing, just 4.3% of residents in Central American cities lived in flooded 
+neighborhoods (Table 2).
+We also observed linear associations between greater flood 
+hazard and lower neighborhood educational attainment. Across the 
+distribution of 44,698 study neighborhoods, 24.0% of residents of 
+neighborhoods in the lowest quintile of education attainment lived 
+in flooded neighborhoods, while only 5.6% of residents of the highest 
+educational quintile neighborhoods lived in neighborhoods with 
+flooding (Table 2 and Fig. 2). Across study cities, residents of the lowest- 
+education neighborhoods were 4.3 times more likely to live in neigh-
+borhoods with flooding than residents of the highest-education neigh-
+borhoods. We also examined the relationship between neighborhood 
+education and two or more neighborhood floods. The association of 
+higher neighborhood education with lower probability of neighbor -
+hood flooding was consistent across all education quintiles and when 
+comparing single (Table 2) and multiple floods (Fig. 2).
+When we examined within-city disparities in flooding in each of 
+276 cities, disparities by neighborhood education were even more 
+pronounced (Table 3 ). Across all 276 cities, 80.1% of cities showed 
+educational disparities in flooding with higher prevalence of flood -
+ing in neighborhoods of lower education. The median slope index of 
+inequality (SII) for flooding was 8.3, indicating that the prevalence of 
+flooding was 8.3 times higher in neighborhoods of the lowest versus 
+highest educational quintile. These disparities were very heterogene-
+ous, with 25% of cities having an SII at or below 1.3 (that is, the preva-
+lence of flooding was 1.3 times higher in neighborhoods of the lowest 
+versus highest educational quintile) and 25% of cities having an SII at 
+or above 100 (that is, the prevalence of flooding was 100 times higher 
+in neighborhoods of the lowest versus highest educational quintile). 
+This overall pattern of substantially higher odds of flooding in lowest 
+versus highest education neighborhoods within cities was consistent 
+across all countries, although the median SII for Mexican cities was 
+substantially higher than for other countries (25.4 versus 3.0–8.6).  
+Table 2 | Neighborhood and population exposures to flood events, by neighborhood education attainment and country in 
+44,698 neighborhoods in 276 cities in eight Latin American countries from 2000 to 2018
+Total 
+neighborhoods
+Number of 
+unique flood 
+eventsb
+City-specific percentage of 
+neighborhoods with flooding: 
+median (P10, P90)c
+Total 
+population 
+(millions)
+Population in flooded 
+neighborhoods 
+(millions)
+Percentage of total 
+population in flooded 
+neighborhoods
+Overall 44,698 117 14% (1, 56) 228.3 38.1 16.7%
+By country grouping
+ Argentina 2,002 43 31% (7, 66) 23.2 2.8 12.1%
+ Brazil 3,660 62 23% (8, 75) 101.0 24.4 24.0%
+ Central Americana 4,929 17 2% (1, 6) 6.2 0.3 4.3%
+ Chile 1,824 12 5% (2, 26) 5.1 0.4 8.2%
+ Colombia 2,907 23 17% (3, 37) 22.4 4.4 19.5%
+ Mexico 29,376 31 2% (1, 11) 70.0 5.9 8.4%
+By neighborhood educational attainment
+ 1st quintile (lowest) 8,940 – – 97.6 23.5 24.0%
+ 2nd 8,940 – – 42.1 7.6 18.2%
+ 3rd 8,940 – – 34.4 3.1 9.1%
+ 4th 8,939 – – 32.7 2.7 8.2%
+ 5th quintile (highest) 8,939 – – 21.5 1.2 5.6%
+aIncludes cities in the countries of Costa Rica (n = 1 city), Guatemala (n = 1) and Panama (n = 3). bThe number of unique flood events overall does not equal the sum of unique flood events by 
+country because some floods affected multiple countries (as well as multiple cities). cP10 = 10th percentile; P90 = 90th percentile.
+0
+5
+10
+15
+20
+25
+1 2 3 4 5
+Neighborhood educational attainment (1 = lo w est)
+Percentage of residents in flooded neighborhoods (%)
+Obser ved floods
+Single e vent
+Multiple e vents
+Fig. 2 | Percentage of total residents experiencing flooding in their 
+neighborhoods. The data represent residents in 276 Latin American cities with 
+recorded flood events between 2000 and 2018, by neighborhood education 
+attainment (percentage of population at least 25 years of age who completed 
+primary education) quintile.
+
+[[PAGE 4]]
+Nature Cities | Volume 2 | March 2025 | 246–253
+ 249
+Article https://doi.org/10.1038/s44284-025-00203-3
+In many cities, the relative risk (RR) was greater than 100, indicating that 
+floods occurred almost exclusively in lower-education neighborhoods. 
+When stratifying cities by size (quintile of population), we found more 
+extreme results in smaller cities.
+Neighborhood flooding and the urban environment
+In Table 4, we present associations between neighborhood flooding 
+and features of the urban environment. In multilevel models adjusting 
+for both neighborhood and city characteristics simultaneously, higher 
+neighborhood population density (odds ratio (OR) 0.47 per unit higher 
+z score, 95% confidence interval (CI) 0.41–0.52) and intersection density 
+(OR 0.71 per unit higher z score, 95% CI 0.64–0.77) were associated with 
+lower odds of flooding. Coastal neighborhoods were substantially 
+more likely to experience flooding than noncoastal neighborhoods 
+(OR 46.24, 95% CI 38.30–55.82). We found that neighborhoods that 
+were greener (OR 1.43 per unit higher z score, 95% CI 1.32–1.55) and 
+more distant from the city center (OR 1.19 per unit higher z score, 95% 
+CI 1.13–1.25) were more likely to experience flooding compared with 
+less green, central neighborhoods. In this same model, higher altitude 
+and flatter slope were also associated with higher odds of neighbor-
+hood flooding. In our sensitivity analysis restricting these models to 
+the 196 cities with two or more flood events, we found nearly identical 
+associations, suggesting that flood patterns within cities are reason-
+ably captured by as few as one recorded flood event (Supplementary  
+Table 2). In our sensitivity analysis using an alternative metric of greens-
+pace (greenspace as percentage of neighborhood land area, replacing 
+the normalized difference vegetation index (NDVI)), we found qualita-
+tively similar findings (Supplementary Table 3).
+Our descriptive findings of educational disparities in neighbor -
+hood flooding were consistent even after adjusting for urban features. 
+After simultaneously adjusting for a suite of city- and neighborhood-
+level urban and natural features, neighborhoods with higher edu -
+cation had lower odds of flooding than neighborhoods with lower 
+education (OR 0.81 per unit higher educational attainment z  score, 
+95% CI 0.75–0.86). However, we did not find an association between 
+city-level education and flood hazard.
+Discussion
+We conducted a descriptive analysis at high spatial resolution of 117 
+floods across nearly 45,000 neighborhoods of 276 cities in eight Latin 
+American countries, representing 228 million residents. Our study 
+provides four key findings. First, 17% of the 228 million residents of 
+these cities lived in neighborhoods with at least one flood during the 
+study period. Second, there are substantial disparities in flood expo-
+sure by education attainment across Latin American cities. Across the 
+region, residents of neighborhoods in the lowest education quintile 
+were 4.3 times more likely to live in a neighborhood that had flooded 
+than residents of neighborhoods in the highest education quintile. 
+Third, there are massive disparities within cities of which neighbor-
+hoods did and did not experience flooding. Within each of 276 cities, 
+the median RR of neighborhood flooding was eight times higher in 
+neighborhoods with the lowest education levels than in those with 
+the highest education levels within the same city. Overall, 80% of cit-
+ies demonstrated educational inequities in flood exposure, a pattern 
+consistent across all study countries. Fourth, among Latin American 
+cities, coastal neighborhoods and neighborhoods that are less dense, 
+greener and peripheral to the city center were more likely to flood.
+Our study identified consistent patterns of social inequities in 
+neighborhood flooding within cities across Latin America. We are 
+unaware of other studies that report social disparities in floods in Latin 
+America at the neighborhood level, yet our findings corroborate other 
+studies at higher geographic levels. Rentschler et al. examined flood 
+exposure and poverty in 188 countries, with some subnational analyses 
+at the department or state level, finding that, as of 2020, 89% of the 
+world’s flood-exposed people lived in low- and middle-income coun-
+tries7. Within Latin America, Rasch et al. conducted a national analysis 
+of Brazil at the municipal level, finding that differences in income across 
+municipalities predict flood hazards24. While there is a growing recogni-
+tion of environmental injustices in flood exposure at the national and 
+subnational levels8, we provide initial evidence of detrimental social 
+inequities in neighborhood flooding within cities in Latin America. In 
+the median city, we found that the lowest-education neighborhoods 
+have eight times greater RR of flooding than the highest-education 
+neighborhoods and that these inequities persist (but vary) across all 
+study countries. We emphasize that this analysis is descriptive and 
+does not provide causal evidence on whether flooding impacts neigh-
+borhood socioeconomic status (SES), or whether individuals of lower 
+SES disproportionately move to neighborhoods that flood (or both). 
+Moreover, we found that neighborhoods with lower density (popula-
+tion and intersection), with more vegetation and that are peripheral to 
+the urban core face higher odds of flooding. This may reflect patterns 
+of social segregation and urban infrastructure in Latin America, where, 
+in many cities, communities on the urban periphery are more likely to 
+experience lower SES17 and inferior municipal services25.
+Our study should be interpreted in the context of some limitations. 
+Although we examined neighborhood flooding at an exceptionally fine 
+spatial scale, we were unable to examine or draw conclusions regarding 
+personal exposure to a flood event. Nevertheless, flooding is directly 
+and indirectly disruptive to communities even beyond injury to specific 
+individual people or houses. Our focus was on describing disparities 
+across neighborhoods using neighborhood education as a proxy for 
+neighborhood socioeconomic characteristics. These analyses of neigh-
+borhood inequities are highly relevant to the spatial targeting of protec-
+tive interventions or policies. The use of neighborhood education as a 
+proxy of neighborhood SES has its limitations and may not fully capture 
+neighborhood inequities. Neighborhood educational attainment has 
+been demonstrated to be a key driver of disparities in life expectancy26 
+in Latin America. However, other facets of neighborhood SES, as well as 
+Table 3 | Within-city disparities in flood exposure by 
+neighborhood educational attainment within 276 cities in 
+eight countries of Latin America that experienced flooding 
+between 2000 and 2018
+City-specific slope indices of 
+inequality of flooding in lowest 
+versus highest education 
+neighborhoods
+Percentage of cities 
+with higher RR of 
+flooding in lowest 
+versus highest 
+education quintile 
+neighborhoods 
+(SII >1)
+25th 
+percentile
+Median 75th 
+percentile
+Overall 1.3 8.3 >100 80.1%
+By country grouping
+ Argentina 1.6 5.6 27.5 85.7%
+ Brazil 1.0 4.0 >100 73.4%
+ Central Americaa 2.0 5.0 9.4 80.0%
+ Chile 1.8 8.6 >100 81.2%
+ Colombia 1.7 3.0 30.9 86.2%
+ Mexico 2.3 25.4 >100 86.4%
+By city population size
+ 1st quintile 
+(smallest)
+2.5 25.2 >100 82.1%
+ 2nd 1.2 8.7 >100 78.2%
+ 3rd 2.0 9.6 >100 85.5%
+ 4th 1.2 13.6 >100 80.0%
+ 5th quintile 
+(largest)
+1.0 2.13 8.2 74.5%
+aIncludes cities in the countries of Costa Rica (n = 1 city), Guatemala (n = 1) and Panama (n = 3).
+
+[[PAGE 5]]
+Nature Cities | Volume 2 | March 2025 | 246–253 250
+Article https://doi.org/10.1038/s44284-025-00203-3
+neighborhood racial or ethnic segregation27,28, are also important and 
+may better capture inequities than neighborhood education alone. An 
+important assumption of our analyses is that the neighborhood SES 
+measure that we use is relatively stable over time. This is supported by 
+additional analyses we conducted of the correlation of the same meas-
+ure of educational attainment (percentage of adults who completed 
+high school) at a more aggregated, subcity (that is, municipality) level 
+across the two most recent censuses (these data were available only at 
+the subcity, not neighborhood, level). We found a Pearson correlation 
+coefficient of 0.96 between educational attainment in the same subcity 
+area longitudinally across consecutive census surveys, suggesting a 
+high level of consistency in areas that have higher versus lower educa-
+tional attainment over the study period.
+Although the Global Flood Database (GFD) provides high-spa -
+tial-resolution estimates of flooding events, particularly for low- and 
+middle-income countries, it represents 29% of floods events reported 
+in the Dartmouth Flood Observatory (DFO) (and 28% within our eight 
+study countries). Of note, nearly half (47%) of excluded events were 
+excluded because no flooding beyond permanent water was detected at 
+250 m resolution. This could imply that hyperlocal, small-scale flooding 
+events were more likely to be excluded. If these tend to be more concen-
+trated in lower-SES neighborhoods (as suggested by other research25), 
+our results may underestimate associations of lower neighborhood SES 
+with more flooding. Another major reason for exclusion of the flood 
+event (23% of excluded events) was cloud cover. It is unlikely that this 
+type of exclusion (or exclusions for other miscellaneous reasons) sys-
+tematically excluded flood events that were different in their neighbor-
+hood SES distribution than those included, and therefore are unlikely 
+to have substantially impacted our findings. Nevertheless, more com-
+plete flood hazard data at fine spatial resolution are needed to better 
+understand the spatial and social distributions of flood hazards. We also 
+emphasize that, although the GFD data can provide insight into within-
+city distributions of flood hazards, they should not be used to derive 
+estimates of the prevalence of urban flooding in Latin America given 
+the low proportion of DFO events included and the possible limitations 
+of the DFO data. As a sensitivity analysis, we included only cities with at 
+least two recorded floods and found similar findings, suggesting that 
+overall patterns of social disparities in flood exposure are somewhat 
+consistent across cities with one versus multiple observed flood events.
+Furthermore, we found an association between higher odds of 
+flooding and higher greenness (both NDVI or, as a sensitivity analysis, 
+percentage of area that is greenspace) in models adjusted for popula-
+tion and intersection density, slope, altitude and distance from city 
+center. This may reflect higher levels of natural vegetation in flood 
+plains, wetlands and other flood-prone areas as greater concentration 
+of water correlates with both flood hazard and vegetation. Vegetation 
+is particularly effective at absorbing rainwater at the point where 
+precipitation falls, reducing stormwater runoff into waterways. How-
+ever, urban centers are often built along waterways that may be some 
+distance from where rainfall occurs, and localized urban vegetation 
+may be insufficient to prevent localized flooding from watershed-level 
+precipitation events. We were unable to include other indicators of the 
+ecological and geological capacity for water accumulation or for den-
+sity of rivers and tributaries. Further research that incorporates addi-
+tional ecological information and longitudinal analyses may help shed 
+light on the potentially bidirectional linkages between vegetation and 
+neighborhood flood hazard, and how these linkages vary by climate.
+Our findings reinforce the importance of prioritizing the needs 
+of socially marginalized communities in environmental risk manage-
+ment and climate adaptation policies29. We found substantial within-
+city disparities in flood exposure and higher flood hazards among 
+geographically peripheral communities, underscoring the need for 
+urban policymakers to allocate resources toward mitigating the human 
+impacts of flooding and not only economic impacts. While environ-
+mental inequities between the Global North and Global South are 
+substantial, these disparities can also be found at a local level.
+Our analysis integrated high-quality satellite-derived estimates 
+of large, historical flood events from 2000 to 2018 with harmonized 
+Table 4 | ORs of neighborhood flooding associated with a one-standard-deviation higher value for neighborhood- and city-
+level features in 44,698 neighborhoods in 276 cities in eight Latin American countries from 2000 to 2018
+Univariable Multivariable (all)
+Estimate 95% CI Estimate 95% CI
+Neighborhood level
+Population density 0.24 0.22, 0.27 0.47 0.41, 0.52
+Education 0.67 0.63, 0.70 0.81 0.76, 0.86
+Intersection density 0.31 0.28, 0.34 0.71 0.65, 0.78
+Greenness 1.96 1.86, 2.06 1.43 1.32, 1.55
+Distance from city center 1.52 1.40, 1.58 1.19 1.13, 1.25
+Coastal (<1 km) 33.4 28.1, 39.6 46.6 38.6, 56.3
+Altitude 0.88 0.74, 1.04 1.39 1.16, 1.66
+Slope 1.09 1.04, 1.14 0.79 0.75, 0.84
+Population size 0.86 0.76, 0.99 0.95 0.83, 1.09
+Population density 0.94 0.74, 1.18 0.93 0.72, 1.19
+Education 0.87 0.66, 1.13 0.95 0.72, 1.25
+City level
+Intersection density 0.81 0.68, 0.97 0.99 0.83, 1.19
+Greenness/vegetation 1.31 1.11, 1.55 0.97 0.78, 1.20
+GDP 0.98 0.84, 1.15 1.03 0.87, 1.20
+Climate
+- Temperate 1 (reference) 1 (reference)
+- Arid 0.68 0.43, 1.08 0.62 0.36, 1.07
+- Tropical 1.75 1.21, 2.53 1.15 0.78, 1.70
+All independent variables have been z-transformed using the distribution of all study neighborhoods, except for proximity to coast, which is binary (yes/no <1 km from coast), and climate zone 
+(categorical). Estimates in bold font represent effect sizes where 95% CI does not cross unity.
+
+[[PAGE 6]]
+Nature Cities | Volume 2 | March 2025 | 246–253
+ 251
+Article https://doi.org/10.1038/s44284-025-00203-3
+census records from 8 countries to examine social disparities in flood 
+exposure across 228 million residents of 44,698 neighborhoods in 276 
+Latin American cities. We found consistent intraurban disparities in 
+flood exposure, with less educated, coastal and peripheral communi-
+ties often more vulnerable. These patterns persisted across all study 
+countries. As climate change increases human exposure to floods, our 
+findings highlight the urgent need for policymakers to implement 
+environmental and climate adaptation actions that protect marginal-
+ized communities13.
+Methods
+Study setting
+We conducted this study as part of the Salud Urbana en América Latina 
+(SALURBAL) project. This international scientific collaboration has 
+compiled and harmonized data on social, environmental and health 
+characteristics for all cities of 100,000 residents or more in 2010 in 11 
+Latin American countries (n = 371)30. In SALURBAL, cities are defined 
+as clusters of administrative units (that is, municipalities) or single 
+administrative units encompassing the visually apparent built-up area 
+of urban agglomerations as identified using satellite imagery 31 and 
+include a diverse set of cities, from small cities to megacities.
+We excluded cities in El Salvador, Nicaragua and Peru owing to the 
+lack of available data at the neighborhood level. Because this study 
+focuses on within-city disparities in flood hazards, we excluded 50 cities 
+without any recorded flood events during the study period within city 
+boundaries. Accordingly, we examined neighborhoods in 276 cities in 
+Argentina, Brazil, Chile, Colombia, Costa Rica, Guatemala, Mexico and 
+Panama. Neighborhood administrative units varied in name and official 
+definition by country. We used the country-specific, small-area admin-
+istrative units most analogous to US census tracts, henceforth referred 
+to as neighborhoods. Across countries, these neighborhoods had a 
+median population of 2,137 and a median area of 0.36 km2 (equivalent 
+to a square with 0.6 km sides). Detailed information on the administra-
+tive units used for each country is available in Supplementary Table 1.
+Neighborhood flood exposures
+Estimates of recent flooding were extracted from the GFD 4. The GFD 
+examines flood events identified by the DFO. The DFO monitors and 
+compiles generally large-media-coverage flood events from news 
+sources from every country in the world, synthesizing information 
+from news reports to estimate flood start and end dates and the geo -
+graphical area affected. For floods identified in the DFO database, the 
+GFD team analyzed satellite imagery to estimate the extent and dura -
+tion of individual flood events at daily, 250-m resolution extending 
+the geographic area of interest to include all watersheds intersecting 
+with DFO records of flood-affected areas. The final GFD product is 
+a database of global raster datasets showing the maximum spatial 
+extent of flooding at 250-m resolution for 913 large flood events 
+worldwide from 2000 to 2018 (ref. 4 ). A total of 273 flood events 
+compiled by the DFO affected any part of SALURBAL cities between 
+2000 and 2018, and a subset of 117 (43%) were included in the GFD 
+and, therefore, this analysis. Globally, the reasons for flood events 
+in the DFO not being included in the GFD database were a lack of 
+detectable inundation at a 250-m resolution within the geographic 
+areas reported as flood-affected by news reports (47% of excluded 
+events), persistent cloud cover preventing satellite observation 
+(23% of excluded events) or other/unknown causes (30%). Further 
+details on the GFD data sources and methods have been previously 
+published 4. T o link flood frequency data to city and neighborhood 
+data, we overlayed floods events in the GFD with SALURBAL city and 
+neighborhood boundaries. We considered a neighborhood to have 
+flooded if flooding occurred anywhere within the neighborhood 
+boundary. The resulting analysis dataset was the cumulative number 
+of recorded, distinct flood events between 2000 and 2018 for each 
+neighborhood in 276 Latin American cities.
+Neighborhood and city characteristics
+We used data on neighborhood characteristics and population com-
+piled from national census bureaus and other sources by the SALURBAL 
+project31. We used the most recent available census for each country 
+with census years ranging from 2002 to 2018. Information on the year 
+of each census used is available in Supplementary Table 1. We compiled 
+neighborhood and city educational attainment (percentage of the 
+population aged 25 years or older who completed primary education 
+or above) from censuses, as this was the most relevant socioeconomic 
+variable available across all eight national census surveys. We used 
+neighborhood education as a proxy for neighborhood SES condi -
+tions. This is a commonly used proxy for neighborhood SES and has 
+been used alone or in combination with other neighborhood metrics 
+in other analyses17,26,32. Within Latin America, educational attainment 
+has been shown to be a key driver of disparities in life expectancy26. At 
+both the neighborhood and city levels, the SALURBAL project previ -
+ously estimated population density (population divided by built-up 
+area)31, intersection density (density of the set of nodes with more 
+than one street emanating from them per square kilometer of built-
+up area) 31, area median greenness measured by the NDVI 33 and, as 
+a sensitivity analysis, area greenspace as a percentage of total land 
+(that is, nonwater) area. We defined neighborhoods as coastal if their 
+spatial boundaries were within 1 km of an ocean coastline. For each 
+neighborhood, we calculated distance from the city center as the 
+Euclidean distance (km) between the neighborhood centroid and, 
+generally, city hall. Neighborhood mean elevation and mean slope 
+were estimated using a well-established 30-m-resolution topography 
+model34, excluding permanent water. At the city level, we also used 
+population estimates from national censuses and statistical agencies14, 
+gross domestic product (GDP) per capita (computed as purchasing 
+power parities in constant 2011 international US dollars of each city 
+in 2015 derived from regional estimates)35, and Köppen climate zone 
+(first level)36. Supplementary Appendix 1 details the creation of urban 
+environment variables.
+Statistical analysis
+We calculated summary statistics of neighborhood-level exposures 
+to flooding by country and city and stratified by neighborhood edu -
+cational attainment overall and by country. We estimated the total 
+population in cities with recorded flooding and the number and per-
+centage of the total city population residing in neighborhoods that had 
+experienced flooding. We grouped neighborhoods into quintiles of 
+neighborhood educational attainment (percentage of the population 
+aged 25 years or older who completed primary education or above) 
+based on the full sample of study neighborhoods. Due to the small 
+number of cities represented by each country in Central America, we 
+pooled the cities of Costa Rica (n = 1 city), Guatemala (n = 1) and Panama 
+(n = 3) into a single grouping for all analyses.
+T o describe magnitudes of within-city disparities in flooding, 
+we used a city-specific Poisson model with neighborhood flooding  
+(yes/no) as the outcome and city-specific quintiles of education as 
+the exposure, operationalized as ordinal and rescaled from 0 to 1. 
+This makes the interpretation of the education coefficient analogous 
+to a SII: the RR of flooding comparing lowest versus highest levels of 
+education, while considering the entire distribution of education.  
+A city-specific RR of >1 signifies higher prevalence of flooding in  
+lower-education neighborhoods.
+T o examine associations of city and neighborhood characteris-
+tics with flooding, we used multilevel logistic models with a random 
+intercept for each city and fixed effect for country. All neighborhood 
+variables were operationalized as z scores of the overall distribution of 
+44,698 neighborhoods for each respective variable, except for coastal 
+neighborhood (yes/no), altitude (meters above sea level) and mean 
+slope (degrees). Similarly, city-level variables were operationalized as z 
+scores of the overall distribution of 276 cities for each variable, with the 
+
+[[PAGE 7]]
+Nature Cities | Volume 2 | March 2025 | 246–253 252
+Article https://doi.org/10.1038/s44284-025-00203-3
+exception of climate zone (categorical: temperate, arid or tropical). We 
+first conducted a univariable analysis of each independent variable and 
+the dependent variable of neighborhood flooding. We then assessed 
+all variables for collinearity using Spearman correlation coefficients 
+(Supplementary Fig. 1). No covariates had correlation coefficients 
+greater than 0.57 (city greenness versus neighborhood greenness), so 
+we modeled all neighborhood- and city-level predictors concurrently 
+as a single multivariable model. As a sensitivity analysis, we repeated all 
+models above but leveraged the same multivariable modeling approach 
+but using only the 196 cities with at least two floodings events. As 
+an additional sensitivity analysis, we used an alternate measure of 
+greenspace (greenspace as percentage of neighborhood land area), 
+which replaced NDVI in the models. Reported 95% CIs are from Wald 
+two-tailed tests. The assumptions of these tests were determined to 
+have been met plotting model residuals for normality of residuals and 
+heteroskedasticity. Data processing and analyses were conducted in 
+R version 4.4.1 (ref. 37), and multilevel models were performed using 
+the lme4 package38.
+Ethics and inclusion statement
+All co-authors are co-investigators and/or trainees in the SALURBAL 
+Group, an international collaboration of researchers from institutions 
+across the Americas. A majority of authors are based at institutions 
+within the study region (that is, Latin American urban areas). All co-
+authors have been involved in all steps of study design and imple -
+mentation since the start of study formation through manuscript 
+development and the decision to submit for publication.
+Reporting summary
+Further information on research design is available in the Nature 
+Portfolio Reporting Summary linked to this article.
+Data availability
+Historical flood event data were downloaded from the publicly avail-
+able GFD at https://developers.google.com/earth-engine/datasets/
+catalog/GLOBAL_FLOOD_DB_MODIS_EVENTS_V1. Population and cen-
+sus data for Brazil, Chile and Mexico were downloaded from publicly 
+available repositories from statistical agencies in each country. Popula-
+tion and census data for Argentina, Costa Rica, El Salvador, Guatemala, 
+Panama and Peru were obtained directly from statistical agencies 
+in each country. A link to these agency websites can be accessed via 
+https://drexel.edu/lac/data-evidence/data-acknowledgements/. Urban 
+boundaries and features obtained from the SALURBAL-Climate project 
+are freely available at https://data.lacurbanhealth.org/. Please contact 
+the corresponding author about access to any urban features that are 
+not yet published on the SALURBAL-Climate portal.
+Code availability
+Code for the main and secondary analyses is publicly available via GitHub 
+at https://github.com/Drexel-UHC/MS218A_LA_flood_disparities.
+References
+1. The Human Cost of Disasters: An Overview of the Last 20 Years 
+(2000–2019) (CRED & UNDRR, 2020).
+2. Hirabayashi, Y. et al. Global flood risk under climate change.  
+Nat. Clim. Change 3, 816–821 (2013).
+3. Winsemius, H. C. et al. Global drivers of future river flood risk.  
+Nat. Clim. Change 6, 381–385 (2015).
+4. Tellman, B. et al. Satellite imaging reveals increased proportion 
+of population exposed to floods. Nature 596, 80–86 (2021).
+5. Hidalgo, H. G., Alfaro, E. J. & Quesada-Román, A. Flood 
+projections for selected Costa Rican main basins using  
+CMIP6 climate models downscaled output in the HBV 
+hydrological model for scenario SSP5-8.5. Hydrol. Res. Lett. 18, 
+35–42 (2024).
+6. Liu, X. et al. High-spatiotemporal-resolution mapping of global 
+urban change from 1985 to 2015. Nat. Sustain. 3, 564–570 (2020).
+7. Rentschler, J., Salhab, M. & Jafino, B. A. Flood exposure and 
+poverty in 188 countries. Nat. Commun. 13, 3527 (2022).
+8. Qiang, Y. Disparities of population exposed to flood hazards in the 
+United States. J. Environ. Manage. 232, 295–304 (2019).
+9. Fielding, J. L. Inequalities in exposure and awareness of flood risk 
+in England and Wales. Disasters 36, 477–494 (2012).
+10. Tate, E., Rahman, M. A., Emrich, C. T. & Sampson, C. C. Flood 
+exposure and social vulnerability in the United States. Nat. 
+Hazards 106, 435–457 (2021).
+11. Du, W., FitzGerald, G. J., Clark, M. & Hou, X. Y. Health impacts of 
+floods. Prehosp. Disaster Med. 25, 265–272 (2010).
+12. Pinos, J. & Quesada-Román, A. Flood risk-related research trends 
+in Latin America and the Caribbean. Water 14, 10 (2022).
+13. Calvo-Solano, O. & Quesada-Román, A. Worldwide research 
+trends and networks on flood early warning systems. GeoHazards 
+5, 582–595 (2024).
+14. Bilal, U. et al. Life expectancy and mortality in 363 cities of Latin 
+America. Nat. Med. 27, 463–470 (2021).
+15. Quesada-Román, A. & Campos-Durán, D. Natural disaster risk 
+inequalities in Central America. Pap. Appl. Geogr. 9, 36–48 (2022).
+16. Bakhtsiyarava, M. et al. Modification of temperature-related 
+human mortality by area-level socioeconomic and demographic 
+characteristics in Latin American cities. Soc. Sci. Med. 317, 115526 
+(2023).
+17. Kephart, J. L. et al. Ambient nitrogen dioxide in 47 187 
+neighbourhoods across 326 cities in eight Latin American 
+countries: population exposures and associations with urban 
+features. Lancet Planet. Health 7, e976–e984 (2023).
+18. Gouveia, N. et al. Ambient fine particulate matter in Latin 
+American cities: levels, population exposure, and associated 
+urban factors. Sci. Total Environ. 772, 145035 (2021).
+19. Slovic, A. D. et al. Climate hazards in Latin American cities: 
+understanding the role of the social and built environments and  
+barriers to adaptation action. Clim. Risk Manag. 45, 100625 (2024).
+20. Population Division & World Urbanization Prospects 2018: 
+Highlights (United Nations Department of Economic and Social 
+Affairs, 2019).
+21. Quesada-Román, A., Torres-Bernhard, L., Hernández, K. & 
+Martínez-Rojas, N. Historical trends and future implications of 
+disasters in Honduras. Nat. Hazards 120, 12313–12339 (2024).
+22. Quesada-Román, A., Rivera-Solís, J. & Picado-Monge, A. 
+Occurrence, impacts, and future challenges of disaster risk in 
+Panama. Georisk https://doi.org/10.1080/17499518.2024.2337389 
+(2024).
+23. Males, J. & Quesada-Román, A. Priorities for natural disaster risk 
+reduction in Central America. PLoS Clim. 2, e0000168 (2023).
+24. Rasch, R. Income inequality and urban vulnerability to flood 
+hazard in Brazil. Soc. Sci. Quart. 98, 299–325 (2017).
+25. Quesada-Román, A. Disaster risk assessment of informal 
+settlements in the Global South. Sustainability 14, 10261 (2022).
+26. Bilal, U. et al. Inequalities in life expectancy in six large Latin 
+American cities from the SALURBAL study: an ecological analysis. 
+Lancet Planet. Health 3, e503–e510 (2019).
+27. Barber, S. et al. At the intersection of place, race, and health in 
+Brazil: residential segregation and cardio-metabolic risk factors 
+in the Brazilian Longitudinal Study of Adult Health (ELSA-Brasil). 
+Soc. Sci. Med. 199, 67–76 (2018).
+28. Guimaraes, J. M. N. et al. Racial inequities in self-rated health 
+across Brazilian cities: does residential segregation play a role? 
+Am. J. Epidemiol. 191, 1071–1080 (2022).
+29. Garro-Quesada, M. d. M., Vargas-Leiva, M., Girot, P. O. & Quesada-
+Román, A. Climate risk analysis using a high-resolution spatial 
+model in Costa Rica. Climate 11, 127 (2023).
+
+[[PAGE 8]]
+Nature Cities | Volume 2 | March 2025 | 246–253
+ 253
+Article https://doi.org/10.1038/s44284-025-00203-3
+30. Diez Roux, A. V. et al. A novel international partnership for 
+actionable evidence on urban health in Latin America: LAC-Urban 
+Health and SALURBAL. Glob. Chall. 3, 1800013 (2019).
+31. Quistberg, D. A. et al. Building a data platform for cross-country 
+urban health studies: the SALURBAL Study. J. Urban Health 96, 
+311–337 (2019).
+32. Ortigoza, A. F. et al. Characterising variability and predictors 
+of infant mortality in urban settings: findings from 286 Latin 
+American cities. J. Epidemiol. Community Health 75, 264–270 
+(2021).
+33. Schinasi, L. H. et al. Greenness and excess deaths from heat in 
+323 Latin American cities: do associations vary according to 
+climate zone or green space configuration? Environ. Int. 180, 
+108230 (2023).
+34. Farr, T. G. et al. The Shuttle Radar Topography Mission. Rev. 
+Geophys. https://doi.org/10.1029/2005rg000183 (2007).
+35. Kummu, M., Taka, M. & Guillaume, J. H. A. Gridded global datasets 
+for gross domestic product and human development index over 
+1990–2015. Sci. Data 5, 180004 (2018).
+36. Rubel, F. & Kottek, M. Observed and projected climate shifts 
+1901–2100 depicted by world maps of the Köppen-Geiger climate 
+classification. Meteorol. Z. 19, 135–141 (2010).
+37. R: A Language and Environment for Statistical Computing  
+(R Foundation for Statistical Computing, 2022).
+38. Bates, D., Mächler, M., Bolker, B. & Walker, S. Fitting linear mixed-
+effects models using lme4. J. Stat. Softw. https://doi.org/10.18637/
+jss.v067.i01 (2015).
+Acknowledgements
+This study was financially supported by the Wellcome Trust 
+(227810/Z/23/Z, AVDR/OLS). We acknowledge the contribution of all 
+SALURBAL project team members. For more information on SALURBAL 
+and to see a full list of investigators, see https://drexel.edu/lac/
+salurbal/team/. SALURBAL acknowledges the contributions of many 
+different agencies in generating, processing, facilitating access to 
+data or assisting with other aspects of the project. Please visit https://
+drexel.edu/lac/data-evidence for a complete list of data sources. J.L.K. 
+was supported by the Drexel FIRST (Faculty Institutional Recruitment 
+for Sustainable Transformation) Program funded by the National 
+Institutes of Health (grant number U54CA267735-02, A.V.D.R.) and the 
+Cotswold Foundation Postdoctoral Fellowship (grant number 230356, 
+J.L.K.). U.B. was also supported by Office of the Director of the National 
+Institutes of Health (award number DP5OD026429, U.B.). The funders 
+had no role in study design, data collection and analysis, decision to 
+publish or preparation of the manuscript.
+Author contributions
+J.L.K., U.B. and A.V.D.R. conceptualized the analysis. A.V.D.R. acquired 
+funding and provided supervision. J.L.K. curated data, completed 
+the formal analysis and created the original draft of the manuscript. 
+J.L.K. and U.B. verified underlying data. All authors (J.L.K., U.B., N.G., 
+O.L.S., E.S., K.R.M., M.B., J.P.R., S.A., G.C.-E. and A.V.D.R.) contributed to 
+methodology, manuscript review and editing, had full access to all the 
+data in the study and had final responsibility for the decision to submit 
+for publication.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary 
+material available at https://doi.org/10.1038/s44284-025-00203-3.
+Correspondence and requests for materials should be addressed to 
+Josiah L. Kephart.
+Peer review information Nature Cities thanks Dino Collalti,  
+Maria Fernanda Lemos and the other, anonymous, reviewer(s) for their 
+contribution to the peer review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+Publisher’s note Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+Open Access This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons licence, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons licence, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons licence and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this licence, visit http://creativecommons.
+org/licenses/by/4.0/.
+© The Author(s) 2025
+the SALURBAL Group
+Josiah L. Kephart1,2, Usama Bilal1,3, Nelson Gouveia4, Olga Lucia Sarmiento5, Karla Rangel Moreno6, 
+Maryia Bakhtsiyarava1,7, Juan Pablo Rodriguez8, Salvador Ayala9, Gabriel Carrasco-Escobar10 & Ana V . Diez Roux1,3
+
+[[PAGE 9]]
+1 nature portfolio  |  reporting summaryApril 2023
+Corresponding author(s): Josiah L. Kephart, PhD
+Last updated by author(s): Dec 19, 2024
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency 
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+The statistical test(s) used AND whether they are one- or two-sided 
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+A description of all covariates tested
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) 
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted 
+Give P values as exact values whenever suitable.
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+Our web collection on statistics for biologists contains articles on many of the points above.
+Software and code
+Policy information about availability of computer code
+Data collection All data collection was conducted in R (version 4.4.1).
+Data analysis All analyses were performed in R (version 4.4.1) and modeling was done with the lme4 package. Analysis code is available at: https://
+github.com/Drexel-UHC/MS218A_LA_flood_disparities
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and 
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+Data
+Policy information about availability of data
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable: 
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A description of any restrictions on data availability 
+- For clinical datasets or third party data, please ensure that the statement adheres to our policy 
+ 
+Historical flood event data was downloaded from the publicly available Global Flood Database at https://developers.google.com/earth-engine/datasets/catalog/
+GLOBAL_FLOOD_DB_MODIS_EVENTS_V1. Population and census data for Brazil, Chile, and Mexico were downloaded from publicly available repositories from 
+statistical agencies in each country. Population, and census data for Argentina, Costa Rica, El Salvador, Guatemala, Panama and Peru were obtained directly from 
+
+[[PAGE 10]]
+2 nature portfolio  |  reporting summaryApril 2023
+statistical agencies in each country. A link to these agency websites can be accessed via https://drexel.edu/lac/data-evidence/data-acknowledgements/. Urban 
+boundaries and features were obtained from the SALURBAL-Climate project and are freely available at https://data.lacurbanhealth.org/. Please contact the 
+corresponding author about access to any urban features that are not yet published on the SALURBAL-Climate portal.
+Research involving human participants, their data, or biological material
+Policy information about studies with human participants or human data. See also policy information about sex, gender (identity/presentation), 
+and sexual orientation and race, ethnicity and racism.
+Reporting on sex and gender Not applicable
+Reporting on race, ethnicity, or 
+other socially relevant 
+groupings
+Not applicable
+Population characteristics Not applicable
+Recruitment Not applicable
+Ethics oversight Not applicable
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+Field-specific reporting
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+Life sciences Behavioural & social sciences  Ecological, evolutionary & environmental sciences
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+Behavioural & social sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+Study description This quantitative study is a cross-sectional, ecological analysis of neighborhood level flood exposure, educational disparities in 
+flooding, and associations with the neighborhood and city urban environments.
+Research sample Our data consists of every city (N=326 cities) with at least 100,000 residents in Argentina, Brazil, Chile, Colombia, Costa Rica, 
+Guatemala, Mexico, and Panama. Cities were identified by the SALURBAL project. We excluded N=50 cities without recorded floods 
+from 2000-2018, leaving N=276 cities in our main analysis. These 276 cities had a total of 228.3 million residents as of the most 
+recent census.
+Sampling strategy We included all cities of at least 100,000 residents, as of 2010, within eight Latin American countries. This threshold was selected to 
+capture cities from a range of population sizes, from small cities to megacities. We included the entire population, without exclusion 
+for age, sex, or otherwise.
+Data collection We used the Global Flood Database to estimate cumulative flooding from 2000-2018 for each neighborhood. Population counts and 
+area-level education attainment were compiled directly from governmental vital records and census agencies. The analysis was 
+completed by the first author, who also conceptualized the study and hypotheses.
+Timing The observation period was from 2000-2018, as per availability of published flood data from the Global Flood Database.
+Data exclusions We excluded cities without recorded flood events (N=50), leaving a total of N=276 cities in the main analysis. As the study focused on 
+within-city disparities, we were unable to observe disparities within cities with no reported flood events.
+Non-participation No participants were involved in the study. 
+Randomization This study is designed to examine cross-sectional associations between historical flooding and neighborhood educational attainment. 
+We grouped neighborhoods by quintile of educational attainment based on the full sample of study neighborhoods.
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, 
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. 
+
+[[PAGE 11]]
+3 nature portfolio  |  reporting summaryApril 2023
+Materials & experimental systems
+n/a Involved in the study
+Antibodies
+Eukaryotic cell lines
+Palaeontology and archaeology
+Animals and other organisms
+Clinical data
+Dual use research of concern
+Plants
+Methods
+n/a Involved in the study
+ChIP-seq
+Flow cytometry
+MRI-based neuroimaging
+Novel plant genotypes Describe the methods by which all novel plant genotypes were produced. This includes those generated by transgenic approaches, 
+gene editing, chemical/radiation-based mutagenesis and hybridization. For transgenic lines, describe the transformation method, the 
+number of independent lines analyzed and the generation upon which experiments were performed. For gene-edited lines, describe 
+the editor used, the endogenous sequence targeted for editing, the targeting guide RNA sequence (if applicable) and how the editor 
+was applied.
+Seed stocks Report on the source of all seed stocks or other plant material used. If applicable, state the seed stock centre and catalogue number. If 
+plant specimens were collected from the field, describe the collection location, date and sampling procedures.
+Authentication Describe any authentication procedures for each seed stock used or novel genotype generated. Describe any experiments used to 
+assess the effect of a mutation and, where applicable, how potential secondary effects (e.g. second site T-DNA insertions, mosiacism, 
+off-target gene editing) were examined.
+Plants

@@ -1,0 +1,575 @@
+[[PAGE 1]]
+3Justice and Resilience in Flood Risk
+Management: What Are
+the Socio-Political Implications?
+Thomas Thaler
+3.1 Introduction
+The concept of ﬂood resilience has become a central paradigm in current ﬂood
+risk management strategies around the globe. In particular, various international
+and national documents encourage authorities to develop and implement commu-
+nity or individual resilience to various threats and risks (Doorn et al. 2019; Kim
+et al. 2018). The UN Hyogo Framework for Action 2005–2015, the UN Sendai
+Framework for Disaster Risk Reduction 2015–2030 or US based initiatives such
+as 100Resilience city initiated by the Rockefeller Foundation, represent resilience
+as the key goal and ideal for different communities (Béné et al. 2018; Doorn et al.
+2019; Spaans and Waterhout 2017;U N 2005, 2015).
+Scholars have often linked the term ‘resilience’ to an engineering understan-
+ding (Doorn et al. 2019), such as in Crawford Stanley Holling’s seminal paper.
+In 1973, Holling introduced resilience in the understanding of ecosystems in con-
+texts where a system might change ( = reborn) or revert back to the previous status
+(Holling 1973). Resilience is seen as “a process that links a network of adaptive
+capacities (resources with dynamic attributes) to adaptation after a disturbance or
+adversity” (Norris et al. 2008, p. 127). Resilience aims to minimize the vulnerabi-
+lity of a ﬂood event based on the community and individual adaptive and coping
+capacity, as well as lessening the time of return to ‘normal’ (Agudelo-V era et al.
+2012; Emrich and Tobin 2018;L i a o 2012). More recently, scholars have linked
+T. Thaler (B)
+Institute of Mountain Risk Engineering, University of Natural Resources and Life Sciences,
+Vienna, Austria
+e-mail: thomas.thaler@boku.ac.at
+© The Author(s), under exclusive license to Springer Fachmedien Wiesbaden GmbH,
+part of Springer Nature 2021
+G. Hutter et al. (eds.), Building Resilience to Natural Hazards in the Context
+of Climate Change, Studien zur Resilienzforschung,
+https://doi.org/10.1007/978-3-658-33702-5_3
+41
+
+[[PAGE 2]]
+42 T. Thaler
+the concept of resilience to the concept of bouncing forward (including social lear-
+ning) or the ability to bounce forward (Grinberger and Felsenstein 2014; Manyena
+et al. 2011), ending the debate around built-forward-better (Kelman et al. 2016).
+Nevertheless, the main understanding and goal of resilience for large numbers
+of policy makers has been to increase community resilience in terms of to return
+as fast as possible to the previous (or “normal”) pre-disaster stage with all its con-
+sequences that initially led to the disaster (Mika and Kelman 2020). In disaster
+risk reduction, the focus has been on efﬁciency and robustness measures at regio-
+nal, community or individual household levels (Doorn et al. 2019). Resilience
+often overlooks the pre-disaster situation, including distributional and procedural
+aspects of justice within a community. To realize community resilience, aspects
+of justice must be addressed by both scholars and policy-makers (Kasperson and
+Kasperson 2001; Lebel et al. 2009;D o o r ne ta l .2019). The practical implicati-
+ons of resilience is that already existing inequalities within a community are not
+addressed. For example, the unequal distribution of the burdens of ﬂood risk and
+social vulnerability cannot be changed following an event. A key problem is the
+social exclusion of individuals in the policy making and decision-making proces-
+ses, which is rarely considered in the wake of an event (Wisner et al. 2004; Collins
+et al. 2018; Sayers et al. 2018;T h a l e re ta l .2018a, 2020; Thaler and Fuchs 2020).
+The question of justice is widespread and differently understood by scientists,
+policy makers, stakeholders and citizens. There exist a wide range of different
+theoretical conceptual understandings of justice and how to reach it as a goal.
+The chapter focuses on three main themes within the current debate on justice,
+mainly (i) social justice, (ii) environmental justice and (iii) climate justice. This
+does not imply that social, environmental and climate justice has only one theo-
+retical concept and understanding. Social justice, for example, includes various
+philosophical schools that tackle how to understand, analyse, and reach social
+justice. Having said that, this chapter presents some theoretical concepts and their
+understanding and how to reach resilience as political and societal goal. The-
+refore, the current chapter concentrates far more on conceptual than empirical
+research regarding the link between justice and resilience in the example of ﬂood
+risk management at the community level. It concludes with a possible outline of
+a research agenda within this ﬁeld.
+
+[[PAGE 3]]
+3 Justice and Resilience in Flood Risk Management … 43
+3.2 Social Justice—Environmental Justice—Climate
+Justice: Different, but the Same
+Generally, ﬂood hazard and risk management are often unequally distributed in
+societies. In some regions, it is more likely that deprived communities (who are
+more likely vulnerable to ﬂood risks) are living in ﬂoodplain areas (Chakrab-
+orty et al. 2019; Collins et al. 2018; Maldonado et al. 2016). In addition, these
+groups are usually less well connected within their national political systems and
+decision-making processes to ensure their interests and needs are met (Thaler
+and Levin-Keitel 2016; Thaler and Priest 2014). Deprived communities also often
+receive less support (such as ﬁnancial resources) from the public administration
+(Emrich et al. 2020; Munoz and Tate 2016). Scholars have referred to these
+unequal policies as discrimination perpetrated by many public administrations
+(Bolin et al. 2005; Maldonado et al. 2016). Consequently, ﬂood risk management
+policies often encourage or increase social and spatial inequalities that enhance
+ﬂood risks (Chakraborty et al. 2014;T h a l e re ta l .2018b).
+3.2.1 Social Justice and Resilience
+Social justice focuses on the relationship between individuals or groups within a
+society. The question is how fair and just are the wealth, possibilities and privi-
+leges distributed, as well as means to engage in the political process (Patterson
+et al. 2018; Thaler and Hartmann 2016). Discussion of social justice and how to
+reach social justice goals was already happening in antiquity with Plato (Plato
+2006). The concept of justice itself has a broad understanding and interpretation
+(Elster 1992; Mill 2006; Kaufmann et al. 2018; Thaler et al. 2018b, 2020;B e n -
+nett et al. 2019). At its most basic conception, social justice concerns questions of
+fairness in the allocation of resources, capital and wealth among different mem-
+bers of a given society (Thaler and Hartmann 2016). There are many different
+models of social justice dictating different interpretations of fair resource alloca-
+tion and distribution, such as neoclassic economic approaches that strongly focus
+on fair distribution and allocation through their atomic views of society. These
+approaches often harness some faith in methodological individualism and general
+market equilibrium (V arian 1975). Honneth ( 2001) deﬁnes social justice as a link
+between ‘how, and in what way, individuals recognize one another reciprocally’
+(ibid, p. 45). The rules of distribution (material and cultural) are mirrors of a
+society and its institutions; ‘rules of distribution cannot simply be derived from
+the relations of production, but are rather to be seen as the institutional expression
+
+[[PAGE 4]]
+44 T. Thaler
+of a sociocultural dispositive that determines in what esteem particular activities
+are held at a speciﬁc point in time’ (ibid, p. 54). However, conﬂicts over dis-
+tribution are only understandable as ‘symbolic struggles over the legitimacy of
+the sociocultural dispositive’ (ibid, p. 54). To achieve fair distribution, the politi-
+cal discussion and especially that surrounding institutions (formal and informal)
+require change. In the discussion of justice and ﬂood protection, the actual allo-
+cation of ﬂood protection measures is signiﬁcant (Mancilla and Campbell 2012;
+Neal et al. 2014), but so is the way in which this allocation is achieved. Social
+justice is more than distributional effects of costs or risks (Zwarteveen and Boe-
+lens 2014). It also relates to the procedural process by which a certain distribution
+is selected (Johnson et al. 2007; Walker and Burningham 2011).
+In summary, there have been many different theoretical conceptual frameworks
+developed over the centuries to consider social justice (such as utilitarian, ega-
+litarian, libertarian, prioritarian (or needs-based), merit-based, or rights-based),
+which foresee different policy directions and support to reach the goal of resi-
+lience. Some theoretical concepts include a strong focus on the support of the
+most vulnerable groups within our society in terms of capacity building by the
+government to reach resilience in these groups. Other concepts foresee a strong
+individualistic approach, which states that each household is self-responsible to be
+resilient against ﬂood hazards. Therefore, implementation of resilience or activi-
+ties by the government to reach such resilience depends on different philosophical
+schools:
+ First, in the case of a utilitarian policy, the distribution of resources is based on
+the goal to achieve the “greatest” happiness within a given society. The deﬁni-
+tion of “greatest” happiness in ﬂood risk management involves understanding
+the cost–beneﬁt logic; higher beneﬁt = more happiness (Johnson et al. 2007).
+Investments and activities of individuals, businesses or communities only occur
+when the cost–beneﬁt ratio is positive or favors the highest outcome in cases
+that would improve resilience. In pursuing resilience, every activity requires a
+cost–beneﬁt analysis. Moreover, actions to reach resilience will be implemen-
+ted in high-income communities, as their physical vulnerability (core impact
+factor in cost–beneﬁt analysis) is higher in comparison with deprived com-
+munities. On the other hand, deprived communities may be provided with
+sandbags (as a low cost investment) or even no protection at all.
+ A second policy approach ( egalitarian policy) foresees the distribution of
+resources, such as the aim to increase individual or community resilience based
+
+[[PAGE 5]]
+3 Justice and Resilience in Flood Risk Management … 45
+on an “equal distribution” principle within the catchment or community. Con-
+sequently, high risk areas reach the same level of resilience as low risk areas
+as the actions are equally distributed (Ciullo et al. 2020).
+ Another interpretation of social justice (mainly libertarian policy) advocates
+for the distribution of resources based on an individualistic perspective (Thaler
+et al. 2018b). In such a conception, each person (or household) is responsi-
+ble for managing and organizing itself. Consequently, a libertarian ﬂood risk
+management system would foresee privatization of public tasks in ﬂood risk
+management, expecting to provide information on hazards. This would allow
+each person to individually (and freely) decide if they would choose to live on
+a ﬂoodplain.
+ In contrast, a prioritarian justice policy concentrates on identifying the ‘most’
+vulnerable groups in a society. Here, the focus lies on households who need
+support from the public administration to increase their resilience. In particu-
+lar, deprived communities are typically located in more hazard-prone areas.
+These communities usually face strong challenges to recovering in the case of
+a ﬂood event, as these highly vulnerable groups are more at risk of physical
+and psychological impacts, as well as unemployment, not to mention ﬁnancial
+difﬁculties restoring or rebuilding their homes (Deeming et al. 2011; Elliott
+and Pais 2006; Emrich et al. 2020; Medd et al. 2015).
+ A similar direction includes merit-based justice. A merit-based policy would
+distribute support from a public administration according to who actually
+deserves it based on their inputs and efforts. People who are engaging in ﬂood
+risk management would receive more aid from the public administration in
+reaching the goal of resilience. However, actually deprived communities show
+low participation in ﬂood risk management policy because they tend to lack
+individual resources (time, social networks, cultural capital, needs) (Thaler and
+Levin-Keitel 2016). Consequently, deprived communities, i.e. those who need
+the most help/are the most vulnerable, would not receive support from the
+public administration.
+ Finally, a rights-based approach would focus on human-rights. Rights-based
+approaches foresee to encourage a strong capacity building based on the ideals
+of the capabilities approach (Nussbaum 1998). In this case, the distribution
+of resources should ensure basic human rights and pre-existing rights of First
+Nations communities into the decision-making process (Bennett et al. 2019).
+A central aim is to provide strong capabilities within the communities to
+reach the goal. A rights-based approach to justice also means that resilience
+would respect indigenous knowledge and expertise and their deﬁnitions of
+resilience. In line with this understanding, resilience must include traditional
+
+[[PAGE 6]]
+46 T. Thaler
+knowledge from First Nations communities rather than relying exclusively on
+a Eurocentric understanding of resilience (Amin 2010).
+The question of who takes the responsibility to reach the goal of resilience (such
+as government vs. individual household) highly depends on which direction of
+justice is implemented in a country. Following a radical libertarian understanding,
+for example, would mean that policy makers concentrate on providing information
+about the hazards and risks of ﬂoods, but not on ﬁnancial support to imple-
+ment resilient measures. Other policy strategies, such as utilitarianism, show the
+danger of focusing most activities on high income communities, wherein low-
+income communities might get relocated by public administration owing to the
+cost–beneﬁt ratio being too low or negative (Siders 2019).
+3.2.2 Environmental Justice and Resilience
+The environmental justice strand strongly follows the 1980s debate on environ-
+mental injustice in the United States of America, explaining the disproportionate
+exposure of individuals according to socio-economic status (Bullard 2000; Harri-
+son 2014; Schlosberg 2007;W a l k e r2012). Environmental justice strongly focuses
+on assessing the unequal distribution of exposed householders in terms of hazard-
+areas, such as ﬂoodplains, high risk of air pollution, or poor water quality.
+This involves asking questions pertaining to who is living in these areas and
+where water is contaminated, therefore identifying how to diffuse pollutions, for
+example, insecticides and herbicides, domestic waste, chemical waste, and heavy
+metals caused by industry or mines and so forth (Boelens et al. 2018). Most of
+the studies in environmental justice are often focusing on the question of tech-
+nological hazards, like unequal distribution of air pollution, cancer and social
+vulnerability (Collins et al. 2015; Dobbie and Green 2015;G r i n e s k ie ta l .2015;
+Walker 2012). In past years, a new direction within the current environmental
+justice debate has involved considering social and spatial inequities involved in
+ﬂood risk (Chakraborty et al. 2014, 2019; Collins et al. 2018;L i a oe ta l . 2019;
+Montgomery and Chakraborty 2015; Walker and Burningham 2011).
+Environmental justice often uses “traditional” socio-economic variables to
+explain the spatial and social inequalities pertaining to ﬂood risk. Nevertheless,
+the literature often identiﬁes socio-economic injustice in addition to cultural inju-
+stices. Cultural injustice is reﬂected in discrimination based on nationality, ‘race’,
+sexuality, gender or/and ethnicity (Fraser 1995). Fraser sees main cultural inju-
+stices in the cultural domination of one or more groups with the result of not
+
+[[PAGE 7]]
+3 Justice and Resilience in Flood Risk Management … 47
+recognizing and disrespecting minor groups. Unequal material distribution reﬂects
+the income and property ownership of each individual citizen. Unequal economic
+distribution involves barriers to accessing the labor market, education system,
+health care etc., but also natural injustice like living in ﬂoodplain areas based on
+socio-economic inequality. Fraser deﬁned social fairness as a combination of eco-
+nomic and cultural justice, noting that, ‘People who are subject to both cultural
+injustice and economic injustice need both recognition and redistribution’ (ibid,
+p. 74).
+Assessing the vulnerability (to support them in terms of reaching resilience)
+of residents is not simply a matter of socio-demographic attributes. The variable
+age, for example, is no more than a rough indicator for underlying economic and
+social dynamics. There are further questions like how much pension the person
+receives, how much savings they have, whether they live alone in a building in
+need of renovations, whether the person is physically frail, whether they have
+nearby family members to serve as helping hands, or whether they have expe-
+riences from past hazard events (Davis and Bellers 1995; Dibben and Chester
+1999). By shifting the perspective from plain socio-economic status to speciﬁcs
+of living situations, it becomes clear that affected households are widely diverse
+in how strongly they are threatened by ﬂood risk and which resources they can
+mobilize. Acknowledging diversity among affected households implies that some
+are better off while others are worse off.
+For example, the Vietnamese population in New Orleans weathered Hurricane
+Katrina in 2005 fairly well despite being highly vulnerable in terms of poverty
+and housing conditions, largely owing to their close-knit network among families
+and neighbors that enabled them to cope with the disaster’s impacts (Leong et al.
+2007). In a similar example in Austria, elderly people with savings recovered
+better from the St. Lorenzen mudﬂow event in 2012 than young families who
+were indebted from building their homes (Weber 2015). This understanding also
+comprises decisions on how to support people in reaching resilience. Assessing
+environmental justice is far more complex because one must integrate variables
+and concepts of vulnerability, coping and adaptive behavior to support indivi-
+duals or communities. Of course, individuals might need and request different
+(individualistic) support.
+
+[[PAGE 8]]
+48 T. Thaler
+Environmental justice need to assess socio-spatial inequalities within commu-
+nities. The aim is to understand and explain why low-income families often live
+in ﬂoodplain areas and what the consequences would be in case of a ﬂood event.
+Here, the research encourages authorities to improve resilience of marginalized
+groups by changing the actual power distribution. Environmental justice strongly
+stresses the need to overcome the unequal distribution of power and resources
+(Allen et al. 2017). Researchers have stressed that decision-makers must reco-
+gnize communities and include them in the decision-making process to ensure
+their interests and needs are addressed through a fair distribution of investments
+and burdens. This includes changing the current political debates to tackling how
+to overcome environmental racism, as well as overcoming inequalities in other
+ﬁelds, such as income, gender, or sexuality (Fraser 1995).
+3.2.3 Climate Justice and Resilience
+In past years, there has been a stronger focus on the intergenerational aspects
+of justice, mainly in the case of climate change. The climate justice debate has
+mirrored the unequal distribution of climate change impacts (Schlosberg and Col-
+lins 2014; Schlosberg et al. 2017). Recent climate observations clearly show an
+increasing risk of extreme weather events related to climate change. Flood events
+or heat waves and extreme temperatures are likely to occur more frequently in
+the future (IPCC 2018). For example, structurally dense urban areas with high
+amounts of sealed surfaces and low shares of green and blue areas are more vul-
+nerable (Markolf et al. 2019). Climate justice often follows a strong principle of
+equality, where the main aim is to include intra- and inter-generational equality
+in the process of sharing risk-burdens (Schuppert 2011).
+For example, an approach towards realizing the vision of a city resilient
+towards climate change involves implementing urban ecological infrastructure
+like parks, pocket parks or parklets, green roofs, green facades, alleys in streets,
+de-sealing of impermeable surfaces, percolation troughs and water bodies. Nevert-
+heless, the goal of climate justice often neglects a number of questions pertaining
+to social equality (Kabisch et al. 2016; Perkins et al. 2004), even leading to non-
+intended side effects and trade-offs, such as gentriﬁcation processes (Checker
+2011; Meishar 2018; Rigolon and Németh 2019). As climate justice, for exam-
+ple, can improve living conditions in targeted urban areas, dynamics of residential
+self-selection and shifts in real estate pricing can lead to uneven access to the
+beneﬁts, i.e. privileging people who are already resistant or recover easily because
+
+[[PAGE 9]]
+3 Justice and Resilience in Flood Risk Management … 49
+of their wealth. This may undermine ongoing political efforts for social diver-
+sity and equity, perhaps leading to displacement of less afﬂuent residents when
+marginalized families have to relocate to affordable residential spaces (Astmars-
+son et al. 2013; Rigolon and Németh 2018). Refurbishing entire urban quarters
+may advance residential segregation by pushing out the less afﬂuent and the less
+outspoken (Pareja-Eastaway and Winston 2017). Such action may also push peo-
+ple to move to a built environment where they can easily uphold their existing
+preferences and ﬁnancial possibilities regarding mobility, leisure activities, and
+cultural context (Cao et al. 2009). When transforming the urban fabric to reach
+climate justice, from the outset it is paramount to address the necessity to inte-
+grate the needs of marginalized groups while ensuring that the negative impacts
+of a warmer climate are reduced (Iwaniec et al. 2019; Patterson et al. 2018).
+3.3 Conclusion
+This chapter discusses a wide variety of notions and concepts of justice in the
+current literatures. The chapter presents different perspectives (such as social,
+environmental or climate justice), but also a wide range of different theoretical-
+philosophical understanding, at the same time displaying debates on what justice
+might be and how to reach it. Nevertheless, policy makers around the world follow
+justice principles with strong implications for the concept of resilience (Johnson
+et al. 2007; Thaler and Hartmann 2016). The political implications vary highly in
+terms of who receives support, resources or information from public administrati-
+ons. In addition, policy goals and strategies with the aim to increase resilience
+in low-income communities might include negative trade-offs (like gentriﬁca-
+tion processes)—this has been evident with the implementation of “Nature-based
+Solutions (NbS)” in urban areas.
+In future research, there exist several aspects that need to be addressed. First,
+there is a need for better conceptual connections in the ﬁeld of ﬂood risk mana-
+gement, justice, and resilience. As a ﬁrst step, scholars must assess the aspect of
+justice in theoretical discourses in ﬂood risk management (Kuhlicke et al. 2020).
+Second, there is a need to have a stronger focus on the question of empirical
+research. The different theoretical streams in justice require reﬂection surrounding
+how we might collect data and analyze them. Finally, there is a need to address
+justice in all ﬁelds of resilience activities in ﬂood risk management. There are
+diverse traditions regarding how to reach resilience, but these actions need to be
+seen through a lens of justice to address the needs and interests of the community
+in general.
+
+[[PAGE 10]]
+50 T. Thaler
+Acknowledgements This research has been funded by the Austrian Climate and Energy Fund
+and was carried out within the Austrian Climate Research Program (funding no. B769942)
+and by the Vienna Science and Technology Fund (WWTF) through project ESR20-011.
+References
+Agudelo-V era, C., Leduc, W., Mels, A., & Rijnaarts, H. (2012). Harvesting urban resources
+towards more resilient cities. Resources, Conservation and Recycling, 64, 3–12
+Allen, A., Grifﬁn, L., & Johnson, C. (Eds.). (2017).Environmental justice and urban resilience
+in the global South. London: Palgrave Macmillan.
+Amin, S. (2010). Eurocentrism. (2nd ed.). New Y ork: Monthly Review Press.
+Astmarsson, B., Jensen, P . A., & Maslesa, E. (2013). Sustainable renovation of residential
+buildings and the landlord/tenant dilemma. Energy Policy, 63, 355–362
+Béné, C., Mehta, L., McGranahan, G., Cannon, T., Gupte, J., & Tanner, T. (2018). Resilience
+as a policy narrative: Potentials and limits in the context of urban planning. Climate and
+Development, 10(2), 116–133
+Bennett, N. J., Blythe, J., Cisneros-Montemayor, A. M., Singh, G. G., & Sumaila, U. R.
+(2019). Just transformations to sustainability. Sustainability, 11(14), 3881
+Boelens, R., Perreault, T., & V os, J. (Eds.). (2018). Water justice. Cambridge: Cambridge
+University Press.
+Bolin, B., Grineski, S. E., & Collins, T. W. (2005). The geography of despair: Environmental
+racism the the making of South Phoenix, Arizona, USA. Human Ecology Review, 12(2),
+156–168
+Bullard, R. (2000). Dumping in Dixie: Race, class, and environmental quality . (3rd ed.).
+Boulder: Westview Press.
+Cao, X., Mokhtarian, P . L., & Handy, S. L. (2009). Examining the impacts of residential self-
+selection on travel behaviour: A focus on empirical ﬁndings. Transport Reviews, 29(3),
+359–395
+Chakraborty, J., Collins, T. W., & Grineski, S. E. (2019). Exploring the environmental justice
+implications of hurricane Harvey ﬂooding in Greater Houston, Texas. American Journal
+of Public Health, 2, 244–250
+Chakraborty, J., Collins, T. W., Montgomery, M. C., & Grineski, S. E. (2014). Social and
+spatial inequities in exposure to ﬂood risk in Miami, Florida. Natural Hazards Review,
+15(3), 04014006
+Checker, M. (2011). Wiped out by the “greenwave”: Environmental gentriﬁcation and the
+paradoxical politics of urban sustainability. City & Society, 23(2), 210–229
+Ciullo, A., Kwakkel, J. H., De Bruijn, K. M., Doorn, N., & Klijn, F. (2020). Efﬁcient or
+fair? Operationalizing ethical principles in ﬂood risk management: A case study on the
+Dutch-German Rhine. Risk Analysis, 40(9), 1844–1862
+Collins, T. W., Grineski, S. E., & Chakraborty, J. (2015). Household-level disparities in cancer
+risks from vehicular air pollution in Miami. Environmental Research Letters, 10, 095008
+Collins, T. W., Grineski, S. E., & Chakraborty, J. (2018). Environmental injustice and ﬂood
+risk: A conceptual model and case comparison of metropolitan Miami and Houston, USA.
+Regional Environmental Change, 18(2), 311–323
+
+[[PAGE 11]]
+3 Justice and Resilience in Flood Risk Management … 51
+Davis, I., & Bellers, R. (1995). The context of community vulnerability assessment (CVA)
+and summary of workshop issues. Paper presented at The Assessment of Community
+Vulnerability in Hazard Prone Areas, Workshop, London 31 March, Committee of UN
+IDNDR.
+Deeming, H., Whittle, R., & Medd, W. (2011).Recommendations for changes in UK National
+Recovery Guidance (NRG) and associated guidance, from the perspective of Lancaster
+University’s Hull Flood Studies. Lancaster: Lancaster University.
+Dibben, C., & Chester, D. K. (1999). Human vulnerability in volcanic environments: The
+case of Furnas, Sao Miguel, Azores. Journal of Volcanology and Geothermal Research,
+92, 133–150
+Dobbie, B., & Green, D. (2015). Australians are not equally protected from industrial air
+pollution. Environmental Research Letters, 10, 055001
+Doorn, N., Gardoni, P ., & Murphy, C. (2019). A multidisciplinary deﬁnition and evaluation
+of resilience: The role of social justice in deﬁning resilience. Sustainable and Resilient
+Infrastructure, 4(3), 112–123
+Elliott, J. R., & Pais, J. (2006). Race, class, and hurricane Katrina: social differences in human
+responses to disaster. Social Science Research, 35(2), 295–321
+Elster, J. (1992). Local justice: how institutions allocate scarce goods and necessary burdens.
+New Y ork: Russell Sage Foundation.
+Emrich, C. T., & Tobin, G. A. (2018). Resilience: An introduction. In S. Fuchs & T. Tha-
+ler (Eds.), Vulnerability and resilience to natural hazards. (pp. 124–144). Cambridge:
+Cambridge University Press.
+Emrich, C. T., Tate, E., Larson, S. E., & Zhou, Y . (2020). Measuring social equity in ﬂood
+recovery funding. Environmental Hazards, 19(3), 228–250
+Fraser, N. (1995). Recognition or redistribution? A critical reading of Iris Y oung’s Justice and
+the politics of difference. The Journal of Political Philosophy, 3(2), 166–180
+Grinberger, A. Y ., & Felsenstein, D. (2014). Bouncing back or bouncing forward? Simulating
+urban resilience. Proceedings of the Institution of Civil Engineers –Urban Design and
+Planning 167(3), 115–124.
+Grineski, S. E., Collins, T. W., & de Lourdes Romo Aguilar, M. (2015). Environmental
+injustice along the US–Mexico border: Residential proximity to industrial parks in Tijuana,
+Mexico. Environmental Research Letters, 10, 095012
+Harrison, J. L. (2014). Neoliberal environmental justice: Mainstream ideas of justice in poli-
+tical conﬂict over agricultural pesticides in the United States. Environmental Politics, 23,
+650–669
+Holling, C. S. (1973). Resilience and stability of ecological systems.Annual Review of Ecology
+and Systematics, 4, 1–23
+Honneth, A. (2001). Recognition: Invisibility: On the epistemology of ‘recognition.’ The
+Aristotelian Society Supplementary, 75(1), 111–126
+IPCC (2018). Special report on global warming of 1.5 °C. https://www.ipcc.ch/sr15/.
+Accessed: 20. Nov. 2020.
+Iwaniec, D. M., Cook, E. M., Barbosa, O., & Grimm, N. B. (2019). The framing of urban
+sustainability transformations. Sustainability, 11, 573
+Johnson, C., Penning-Rowsell, E. C., & Parker, D. (2007). Natural and imposed injustices:
+The challenges in implementing ‘fair’ ﬂood risk management policy in England. The
+Geographical Journal, 173(4), 374–390
+
+[[PAGE 12]]
+52 T. Thaler
+Kabisch, N., Frantzeskaki, N., Pauleit, S., Naumann, S., Davis, M., Artmann, M., Haase,
+D., Knapp, S., Korn, H., Stadler, J., Zaunberger, J., & Bonn, A. (2016). Nature-based
+solutions to climate change mitigation and adaptation in urban areas: perspectives on
+indicators, knowledge gaps, barriers, and opportunities for action. Ecology & Society, 21,
+39
+Kasperson, R. E., & Kasperson, J.X. (2001). Climate change, vulnerability, and social justice.
+Stockholm: Stockholm Environment Institute.
+Kaufmann, M., Priest, S. J., & Leroy, P . (2018). The undebated issue of justice: silent
+discourses in Dutch ﬂood risk management. Regional Environmental Change, 18 (2),
+325–337
+Kelman, I., Gaillard, J. C., Lewis, J., & Mercer, J. (2016). Learning from the history of disaster
+vulnerability and resilience research and practice for climate change. Natural Hazards,
+82, 129–143
+Kim, H., Marcouiller, D. W., & Woosnam, K. M. (2018). Rescaling social dynamics in cli-
+mate change: The implications of cumulative exposure, climate justice, and community
+resilience. Geoforum, 96, 129–140
+Kuhlicke, C., Seebauer, S., Hudson, P ., Begg, C., Bubeck, P ., Dittmer, C., Grothmann, T.,
+Heidenreich, A., Kreibich, H., Lorenz, D. F., Masson, T., Reiter, J., Thaler, T., Thieken, A.
+H., & Bamberg, S. (2020). The behavioral turn in ﬂood risk management, its assumptions
+and potential implications. WIREs Water, 7(3), e1418
+Lebel, L., Foran, T., Garden, P ., & Manuta, J. (2009). Adaptation to climate change and social
+justice: Challenges for ﬂood and disaster management in Thailand. In F. Ludwig, P . Kabat,
+H. van Schaik, & M. van der V alk (Eds.), Climate change adaptation in the water sector.
+(pp. 125–141). Milton Park: Routledge.
+Leong, K. J., Airriess, C. A., Li, W., Chia-Chen Chen, A. C., & Keith, V . M. (2007). Resilient
+history and the rebuilding of a community: The Vietnamese American community in New
+Orleans East. The Journal of American History, 94(3), 770–779
+Liao, K.-H. (2012). A theory on urban resilience to ﬂoods—A basis for alternative planning
+practices. Ecology & Society, 17(4), 48
+Liao, K.-H., Hui Chan, J. K., & Huang, Y .-L. (2019). Environmental justice and ﬂood preven-
+tion: The moral cost of ﬂoodwater redistribution. Landscape and Urban Planning, 189 ,
+36–45
+Maldonado, A., Collins, T. W., & Grineski, S. E. (2016). Hispanic immigrants’ vulnerabilities
+to ﬂood and hurricane hazards in two United States metropolitan areas. Geographical
+Review, 106(1), 109–135
+Mancilla, A., & Campbell, T. (Eds.). (2012). Theories of justice. Milton Park: Routledge.
+Manyena, S. B., O’Brien, G., O’Keefe, P ., & Rose, J. (2011). Editorial. Disaster resilience: A
+bounce back or bounce forward ability? Local Environment 16(6), 1–8.
+Markolf, S. A., Hoehne, C., Fraser, A., Chester, M. V ., & Underwood, B. S. (2019). Trans-
+portation resilience to climate change and extreme weather events—Beyond risk and
+robustness. Transport Policy, 74, 174–186
+Medd, W., Deeming, H., Walker, G., Whittle, R., Mort, M., Twigger-Ross, C., Walker, M.,
+Watson, N., & Kasheﬁ, E. (2015). The ﬂood recovery gap: A real-time study of local
+recovery following the ﬂoods of June 2007 in Hull, North East England. Journal of Flood
+Risk Management, 8(4), 315–328
+
+[[PAGE 13]]
+3 Justice and Resilience in Flood Risk Management … 53
+Meishar, N. (2018). The social aftermaths of landscape architecture: Urban parks and green
+gentriﬁcation. Landscape Metropolis, 5(2), 3303
+Mika, K., & Kelman, I. (2020). Shealing: Post-disaster slow healing and later recovery. Area,
+52, 646–653.
+Mill, J. S. (2006). Utilitarianism/Der Utilitarismus. Leipzig: Reclam, Philipp, jun. GmbH,
+Ve r l a g .
+Montgomery, M. C., & Chakraborty, J. (2015). Assessing the environmental justice conse-
+quences of ﬂood risk: A case study in Miami, Florida. Environmental Research Letters,
+10, 095010
+Munoz, C. E., & Tate, E. (2016). Unequal recovery? Federal resource distribution after a Mid-
+west ﬂood disaster. International Journal of Environmental Research and Public Health,
+13(5), 507
+Neal, M., Lukasiewicz, A., & Syme, G. J. (2014). Why justice matters in water governance:
+Some ideas for a ‘water justice framework’. Water Policy, 16(S2), 1–18
+Norris, F. H., Stevens, S. P ., Pfefferbauam, B., Wyche, K. F., & Pfefferbaum, R. L. (2008).
+Community resilience as a metaphor, theory, set of capacities, and strategy for disaster
+readiness. American Journal of Community Psychology, 41(1–2), 127–150
+Nussbaum, M. (1998). Capabilities and human rights. Fordham Law Review, 66(2), 273
+Pareja-Eastaway, M., & Winston, N. (2017). Sustainable communities and urban housing: A
+comparative European perspective. London: Routlege & CRC Press.
+Patterson, J. J., Thaler, T., Hoffmann, M., Hughes, S., Oels, A., Chu, E., Mert, A., Huitema,
+D., Burch, S., & Jordan, A. (2018). Political feasibility of 1.5° C societal transformations:
+The role of social justice. Current Opinion in Environmental Sustainability, 31, 1–9
+Perkins, H. A., Heynen, N., & Wilson, J. (2004). Inequitable access to urban reforestation:
+the impact of urban political economy on housing tenure and urban forests. Cities, 21,
+291–299
+Plato (2006). Republic. Translated and with an introduction by R. E. Allen. New Haven: Y ale
+University Press.
+Rigolon, A., & Németh, J. (2018). What shapes uneven access to urban amenities? Thick
+injustice and the legacy of racial discrimination in Denver’s park. Journal of Planning
+Education and Research 1–14.
+Rigolon, A., & Németh, J. (2019). Toward a socioecological model of gentriﬁcation: How
+people, place, and policy shape neighborhood change. Journal of Urban Affairs, 41 (7),
+887–909
+Sayers, P ., Penning-Rowsell, E. C., & Horritt, M. (2018). Flood vulnerability, risk, and social
+disadvantage: Current and future patterns in the UK. Regional Environmental Change,
+18(2), 339–352
+Schlosberg, D. (2007). Deﬁning environmental justice: Theories, movements, and nature .
+Oxford: Oxford University Press.
+Schlosberg, D., & Collins, L. (2014). From environmental to climate justice: Climate change
+and the discourse of environmental justice. WIREs Climate Change, 5(3), 359–374
+Schlosberg, D., Collins, L., & Niemeyer, S. (2017). Adaptation policy and community
+discourse: Risk, vulnerability, and just transformation.Environmental Politics, 26(3), 1–25
+Schuppert, F. (2011). Climate change mitigation and intergenerational justice. Environmental
+Politics 20(3), 303.321.
+
+[[PAGE 14]]
+54 T. Thaler
+Siders, A. R. (2019). Social justice implications of US managed retreat buyout programs.
+Climatic Change, 152, 239–257
+Spaans, M., & Waterhout, B. (2017). Building up resilience in cities worldwide—Rotterdam
+as participant in the 100 Resilient Cities Programme. Cities, 61, 109–116
+Thaler, T., & Hartmann, T. (2016). Justice and ﬂood risk management: Reﬂecting on different
+approaches to distribute and allocate ﬂood risk management in Europe. Natural Hazards,
+83(1), 129–147
+Thaler, T., & Priest, S. (2014). Partnership funding in ﬂood risk management: New localism
+debate and policy in England. Area, 46(4), 418–425
+Thaler, T., & Fuchs, S. (2020). Financial recovery schemes in Austria: How planned relocation
+is used as an answer to future ﬂood events. Environmental Hazards, 19(3), 268–284
+Thaler, T., & Levin-Keitel, M. (2016). Multi-level stakeholder engagement in ﬂood risk mana-
+gement—A question of roles and power: Lessons from England. Environmental Science
+& Policy, 55, 292–301
+Thaler, T., Doorn, N., & Hartmann, T. (2020). Justice of compensation for spatial ﬂood risk
+management–comparing the ﬂexible Austrian and the structured Dutch approach. Die
+Erde, 151(2–3), 104–115
+Thaler, T., Fuchs, S., Priest, S., & Doorn, N. (2018). Social justice in the context of adaptation
+to climate change—Reﬂecting on different policy approaches to distribute and allocate
+ﬂood risk management. Regional Environmental Change, 18(2), 305–309
+Thaler, T., Zischg, A., Keiler, M., & Fuchs, S. (2018). Allocation of risk and beneﬁts—
+Distributional justices in mountain hazard management.Regional Environmental Change,
+18(2), 353–365
+UN. (2005). Hyogo framework for action. Geneva: United Nations.
+UN. (2015). Sendai framework for disaster risk reduction 2015–2030 . Geneva: United
+Nations.
+V arian, H. R. (1975). Distributive justice, welfare economics, and the theory of fairness.
+Philosophy and Public Affairs, 4(3), 223–247
+Walker, G. (2012). Environmental Justice. Concepts, evidence and politics. Milton Park,
+Abingdon, Oxon: Routledge.
+Walker, G., & Burningham, K. (2011). Flood risk, vulnerability and environmental justice:
+Evidence and evaluation of inequality in a UK context. Critical Social Policy, 31 (2),
+216–240
+Weber, K. (2015). Landschaftsplanerische Betrachtung des Umgangs mit Naturgefahren aus
+genderspeziﬁscher Perspektive - am Fallbeispiel des Murenabganges in St. Lorenzen im
+Paltental 2012. Master thesis. Vienna: University of Natural Resources and Life Sciences.
+Wisner, B., Blaikie, P ., Cannon, T., & Davis, I. (2004). At risk. Natural hazards, people’s
+vulnerability and disasters. Milton Park: Routledge.
+Zwarteveen, M. Z., & Boelens, R. (2014). Deﬁning, researching and struggling for water
+justice: Some conceptual building blocks for research and action. Water International,
+39(2), 143–158

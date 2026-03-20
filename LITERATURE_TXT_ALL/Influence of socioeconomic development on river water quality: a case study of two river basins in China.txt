@@ -1,0 +1,1262 @@
+[[PAGE 1]]
+RESEARCH ARTICLE
+Influence of socioeconomic development on river water quality:
+a case study of two river basins in China
+Shiwei Yang1 & Hongsheng Hao2 & Bing Liu 3 & Yuanming Wang1 & Yongan Yang4 & Ruifeng Liang1 & Kefeng Li 1
+Received: 7 January 2021 / Accepted: 4 May 2021
+# The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2021
+Abstract
+Social and economic development processes require large amounts of natural resources and in some cases seriously
+deteriorate river water quality. Since the reform and expansion era began, China has vigorously pursued socioeconomic
+development but neglected environmental protection. Howeve r, in recent years, improvements in environmental aware-
+ness and the implementation of environmental protection meas ures have led to a balanced relationship between economic
+development and the environment. In this study, the Yangtze River Basin and the Yellow River Basin were selected as
+research areas. We used a combination of canonical correlation analysis (CCA) and a distance- based influence assessment
+method to quantitatively assess the influence of socioeconomi c development on river water quality. The results revealed a
+strong correlation between socioeconomi c development and river water quality. Th e degree of influence of socioeconomic
+development on water quality varied not only temporally but also spatially due to differences in socioeconomic develop-
+ment and hydrometeorology in the two basins in North and So uth China. The average degree of influence in the Yangtze
+River Basin was between 0.22 and 0.27, and that in the Yellow River Basin was between 0.2 and 0.36. Moreover, the
+degree of influence in the Yangtze River Basin in the wet season was greater than that in the dry season, whereas the
+opposite pattern was observed in the Yellow River Basin. The degree of influence in both basins gradually declined after
+2011, indicating that the coupling and coordination between socioeconomic development and environmental protection
+have continuously improved and that the water quality has g radually improved. By analysing the influences of various
+socioeconomic indicators on water quality, we found that the main factors that influence water quality are per capita GDP
+and urbanization rate in the Yangtze River Basin and urbanization rate in the Yellow River Basin. The results provide a
+basis for future sustainable development in the Yangtze River Basin and the Yellow River Basin.
+Keywords Socioeconomic development. Water quality . Degree of influence . CCA . Yangtze River Basin . Yellow River Basin
+Introduction
+Urbanization is an inevitable trend of the development of hu-
+man society and a common trend of economic development
+(Wang & Zhao 2009). Currently, more than 55% of the
+world’ s population lives in urban areas (UNDESA, 2018).
+Industrialization promotes urbanization, and urbanization
+serves as the spatial foundation on which the sustainable de-
+velopment of industrialization depends (Xie 2020). The for-
+mation of urban agglomerations is a process through which
+industries constantly develop, transform and upgrade.
+Industrial vicissitudes impact spatial forms and structures,
+and the geographic concentration and agglomeration of indus-
+tries drive changes in production space and together affect the
+spatial evolution of urban agglomeration (Niu et al. 2020). In
+the process of urbanization, a large number of people move to
+Responsible Editor: Xianliang Yi
+* Ruifeng Liang
+LiangRuifeng@scu.edu.cn
+1 State Key Laboratory of Hydraulics and Mountain River
+Engineering, Sichuan University, Chengdu 610065, China
+2 POWERCHINA Kunming Engineering Corporation Limited,
+Kunming 650051, China
+3 Emergency Response Centre, Ecology and Environment Bureau of
+Suining, Suining 629000, China
+4 College of Environmental Science and Engineering, China West
+Normal University, Nanchong 637009, China
+https://doi.org/10.1007/s11356-021-14338-y
+/ Published online: 26 May 2021
+Environmental Science and Pollution Research (2021) 28:53857–53871
+
+[[PAGE 2]]
+cities. The increases in the urban population and water con-
+sumption lead to the accumulation of pollutants, which is con-
+sidered to be the main factor affecting river water quality
+(Lokhande & Tare 2021; Obropta & Del Monaco 2018;
+Polonenko et al. 2020; Riechel et al. 2016; Wijesiri et al.
+2018).
+In the past few decades, China has achieved large-scale
+urbanization, with a large number of people moving from
+rural areas to cities. The urban area and urban population
+density have increased year by year. Since reform and expan-
+sion began in the late 1970s, according to the National Bureau
+of Statistics of China (NBSC) ( 2017), China ’ su r b a n i z a t i o n
+rate has increased from 17.92% in 1978 to 57.35% in 2017.
+China’ s average urbanization rate is approximately 2.45 times
+that of the world over the same period (Ren et al. 2018). It is
+estimated that by 2030, China’ s urban population will reach 1
+billion, and the urbanization rate will reach 70%
+(Development Research Center of the State Council 2014).
+With the world’ s largest developing country and the world ’ s
+second largest economy, China has had a far-reaching influ-
+ence on global development (Wu et al. 2019).
+However, urbanization has not only yielded positive bene-
+fits for social and economic development in China but also led
+to adverse effects to the ecological environment. The urbani-
+zation process requires a large amount of natural resources
+and can lead to water shortages, biodiversity loss, environ-
+mental destruction and other problems (Chang & Zhu 2020,
+Wang et al. 2019, Zhu et al. 2020). Increasing populations and
+rapid economic development have intensified basin water re-
+source use and destroyed the original hydrological system.
+Additionally, the water deman ds for agriculture, industry
+and urban living have increased, and sewage emissions have
+intensified, further deteriorating the quality of river water.
+Agricultural water use results in irrigation wastewater, indus-
+trial water use produces large amounts of industrial wastewa-
+ter, and the domestic water use produces a large amount of
+domestic sewage. All of these wastewater types increase the
+pollution load in rivers and worsen river water quality (Gong
+et al. 2015). These phenomena have generated severe chal-
+lenges related to Chinese resources and the environmental
+carrying capacity (Liao et al. 2020, Yigitcanlar &
+Kamruzzaman 2015). All these factors resulted from
+neglecting to consider environmental protection in the process
+of urbanization and reflect a correlation between the water
+environment and human activities (Li et al. 2013).
+In recent years, with economic development, the govern-
+ment has taken corresponding environmental protection mea-
+sures to improve water quality. The State Council released the
+Action Plan for the Prevention and Control of Water Pollution
+(Water 10) in 2015, aiming to improve the water quality of the
+country ’ s ten largest river basins, with the main goal of
+reaching good water quality levels in 70% of the seven major
+river basins by 2020 and in 75% by 2030 (State Council in
+China 2015). These environmental protection measures can
+improve water quality by increasing the centralized sewage
+treatment rate in cities and controlling diffuse pollution in
+rural areas. Compared with purely considering economic
+growth alone, relevant environmental protection policies can
+effectively reduce water pollution and improve the negative
+influence of economic development on the environment
+(Wang & Wei 2019). As described by the environmental
+Kuznets curve, in the early stages of economic growth, pollu-
+tion emissions increase, and environmental quality declines,
+but as per capita income levels rise, economic growth leads to
+environmental improvements (Shahbaz et al. 2020).
+Many studies
+have focused on the effects of social and
+economic development on water quality, and some notable
+studies have focused on the influence of various human activ-
+ities (urbanization, land use, dam building, etc.) and socioeco-
+nomic development on river water quality (Cheng et al.
+2018a, Deng et al. 2016, Liu et al. 2017, Luo et al. 2018,
+Luo et al. 2020, Vrebos et al. 2017). The applied research
+methods can be roughly divided into the following categories:
+(1) simple statistical methods (O ’ Donoghue et al. 2021;T u
+2011), (2) watershed models (Bussi et al. 2016), (3) multiple
+regression models (Eslamian et al. 2016)a n d( 4 )c a n o n i c a l
+correlation analysis methods (Wei et al. 2018). The above
+methods have distinct advantages and disadvantages. A
+simple statistical method can only qualitatively analyse the
+correlations between variables; it cannot quantitatively
+analyse them. Modelling m ethods based on physical
+foundations have high precision but require considerable
+data support and complex calculations. Multiple regression
+models are suitable for identifying relationships between one
+variable and multiple others but not for identifying
+relationships between two sets of multivariate data. CCA is
+a good choice for studying relationships between two sets of
+multivariate data. This method does not require high data
+accuracy and is simple to perform. Luo et al. ( 2019) first
+proposed the combination of CCA and distance-based influ-
+ence assessment methods to quantitatively study the effects of
+various socioeconomic indicators on water quality. In this
+study, we applied this approach to basins in China to analyse
+differences in the degree of influence of socioeconomic devel-
+opment in two typical basins in China and the year-by-year
+changes in the degree of influence.
+River basins function as complete hydrological units that
+provide important support for aquatic ecosystems, and they
+also support regional economic development. When the pol-
+lution generated by development is not adequately controlled,
+the water environment is degraded (Xian et al. 2007). Most
+research on this topic has concentrated on comparisons and
+analyses of water quality within a single river basin (Liu2015;
+Wang et al. 2016). However, China is a large country, and the
+level of economic development varies greatly among river
+basins. The differences between the north and the south of
+53858 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 3]]
+the country are particularly significant. The Yangtze River,
+located in the south of China, is the third longest river in the
+world. The economic development and urbanization process-
+es in the Yangtze River Economic Belt in this basin have been
+rapid, and increases in the population and economic level have
+significantly influenced the water quality of the rivers in this
+basin (Liu et al. 2020b,P e n ge ta l .2020). The Yellow River,
+located in the north of China, is the second longest river in
+China and the fifth longest river in the world, but the GDP in
+the Yellow River Basin is lower than that in the Yangtze River
+Basin. Due to the lagged nature of economic system reform
+and the outflow of the northern labour force, the regional
+economic development level between northern and southern
+China is unbalanced (Zhang et al. 2019).
+We divided the study period into two stages, namely, the
+wet season (July to September) and the dry season (January to
+March), to study the influence of socioeconomic development
+on the water quality in the Yangtze River Basin and the
+Yellow River Basin from 2005 to 2017. This study is the first
+to investigate the relationships between socioeconomic factors
+and water quality in these two important basins in China. The
+correlations between the socioeconomic system and the river
+system in these basins were calculated, and the impacts of the
+socioeconomic system on water quality were assessed. The
+main socioeconomic factors that influence river system chang-
+es were identified. The results of this study can inform the
+coordinated development of economic and environmental
+protection in the two basins in the future.
+Materials and methods
+Study area
+The watershed map is shown in Fig. 1. Located between 90–
+122° east longitude and 24 –35° north latitude, the Yangtze
+River Basin covers an area of 1.8 million square kilometres,
+accounting for 18.8% of China’ s total land area. The Yangtze
+River Basin is mainly located in a subtropical and temperate
+climate zone. The average annual precipitation in the region is
+approximately 1100 mm, and this precipitation mainly occurs
+in summer. The annual mean air temperature is approximately
+14 °C (Xiao et al. 2020). The main channel of the Yangtze
+River is 6300 km long and spans 19 provinces in China and
+across three economic zones in eastern, central and western
+China. The Yangtze River Economic Belt is the most power-
+ful social and economic area in China. As a major national
+strategic development zone, this area is also an inland river
+economic belt of global influence (the State Council about
+relying on the golden waterway to promote the development
+of the Yangtze River Economic Belt, 2019). The Yangtze
+Economic Belt covers three state-level city clusters: the
+Yangtze River Delta Urban Agglomerations, the Triangle of
+Central China and the Chengdu-Chongqing City Group. In
+2015, the population of the Yangtze River Economic Belt
+was 6.16 million, accounting for 40% of the national popula-
+tion, and the regional GDP was approximately $4.12 trillion,
+accounting for 42.3% of the total national GDP.
+The Yellow River Basin is located between 96 –119° east
+longitude and 32 –42° north latitude, covering an area of
+795,000 km
+2, most of which are located in semiarid and arid
+climate zones. The long-term annual mean precipitation and
+runoff in the whole basin are approximately 466 and 73 mm,
+respectively, with a low runoff coefficient of less than 0.16.
+The annual mean temperature in the Yellow River Basin
+varies from 8 to 14 °C, with a relatively high water demand
+for evapotranspiration (Ma et al. 2020). With a total length of
+5464 km and a drop of 4480 m, the Yellow River flows
+through nine provinces of China. This river is an important
+water source for Northwest and North China. In 2015, the
+resident population of the Yellow River Basin was approxi-
+mately 1.30 million, accounting for 9.1% of the national pop-
+ulation, and the total GDP was approximately $0.94 trillion,
+accounting for only 9.28% of the national GDP. Due to his-
+torical and natural conditions in the basin, economic develop-
+ment in the Yellow River Basin has been relatively lagged,
+and there is an obvious gap between the development level
+there and that in the Yangtze River Basin area.
+Data collection
+Socioeconomic indicators
+In this study, the social and economic indicators are based on
+data from the National Bureau of Statistics ( https://data.stats.
+gov.cn/) and the statistical yearbooks of the provinces. The
+indicators used to measure social and economic
+development are mainly divided into three categories:
+population urbanization, economic urbanization and spatial
+urbanization. Considering the urbanization and environment
+in the Yangtze River Basin and Yellow River Basin, per capita
+GDP, urbanization rate and population density are selected as
+the socioeconomic indicators (Guo et al. 2015). These indica-
+tors represent the level of socioeconomic development and
+take into account both urban and rural development. The data
+for these indicators cover the period from 2005 to 2017.
+Urbanization rate is a measure of the urbanization level, per
+capita GDP measures the regional level of macroeconomic
+development, and the population density is a landmark indi-
+cator of the population distribution in a country or region.
+For the selected timescale, the selected socioeconomic in-
+dicators (percent change, amount per capita, etc.) are quite
+stable over a year and therefore are considered to be evenly
+distributed over time. In this study, we mainly studied the wet
+season and dry season. The wet season is from June to
+September, and the dry season is from January to March.
+53859Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 4]]
+We unified the timescale of the socioeconomic indicator data
+with the research period. According to the selected control
+section, the watershed was divided into several subregions,
+and then statistics for the socioeconomic indicators were ob-
+tained by subregion.
+Water quality indicators
+The water quality indicator data used in this study are from the
+water environment quality data set of the Ministry of Ecology
+and Environment Data Center (https://datacenter.mee.gov.cn/
+websjzx/queryIndex.vm). The data set mainly includes pH,
+dissolved oxygen (DO), the permanganate index (COD
+Mn)
+and NH 4-N data. In this study, we selected 6 monitoring
+sections along the main stem of the Yangtze River, which
+we denoted as YP1 –YP6. Moreover, we selected four
+monitoring sections along the main stem of the Yellow
+River, labelled HP1 –HP4 (Fig. 1). Based on the data from
+the monitored sections, we analysed the temporal and spatial
+variations in water quality in each basin under the influence of
+socioeconomic development, as well as the difference in the
+degree of influence between the two basins.
+The timescale of water quality data used in this study was
+from 2005 to 2017, and data were observed weekly. The qua-
+dratic interpolation method was used for missing data. To
+unify the timescale of the water quality data and the socioeco-
+nomic indicator data, we adopted the mean value of the water
+quality data during the wet season and the dry season.
+Research framework and methods
+The research framework used in this study is shown in Fig. 2.
+The principle of the statistical method is shown in Table 1.
+First, we collected socioeconomic indicator data and water
+quality data (see Sections “Study area” and “Data collection”
+for detailed data sources). The study area and monitoring
+points were divided and plotted with GIS technology. Six
+monitoring points were selected for the main stem of the
+Yangtze River, and 4 monitoring points were selected for
+the main stem of the Yellow River.
+Next, we determined the analysis indicators and unified
+their temporal and spatial scales. Since the socioeconomic
+indicators were divided based on administrative units and
+the water quality indicators were based on the actual
+Fig. 1 Summary of the Yangtze River Basin and Yellow River Basin
+53860 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 5]]
+monitoring sections, it was necessary to calculate the socio-
+economic indicators within the subbasins. The Kolmogorov-
+Smirnov (K-S) test was used to test the distribution of each of
+the selected indicators for normality (Cho & Choi 2014), and
+variance inflation factor (VIF) analysis was used to test for
+multicollinearity among the selected indicators. Following
+previous studies, we considered VIF greater than 5 to indicate
+multicollinearity (Katrutsa & Strijov 2017).
+Third, one-way ANOVA was used to determine whether
+there were significant differences among various water quality
+data. Before one-way ANOVA, a variance homogeneity test
+was performed on the sample data, and significance was eval-
+uated at P < 0.05 (Zhang et al. 2019). Then, we selected
+typical water quality indicators to analyse the corresponding
+spatial and temporal variation trends.
+To assess the influence of socioeconomic development on
+water quality, we used the CCA method combined with
+distance-based influence assessment methods for water qual-
+ity indicators assuming normally distributed and non-
+multicollinear sample data. In this study, the threshold value
+was set as 0.6, and a strong correlation was considered to exist
+if the typical correlation coefficient was greater than 0.6. The
+degree of influence of water quality indicators was determined
+according to the threshold values of various water quality
+indicators in the surface water environmental quality stan-
+dards (State Environmental Protection Administration and
+State Administration of Supervision, Inspection and
+Quarantine of Tributaries, 2002). The distance-based influ-
+ence assessment method was adopted to determine the degree
+of influence, and the comprehensive degree of influence was
+Table 1 Principles of the statistical analysis methods
+Method Equations Variable interpretation
+Kolmogorov-Smirnov
+(Conover et al.,1971)
+Fn xðÞ ¼ 1
+n ∑I −∞;x½/C138 xiðÞ
+Dn ¼ sup
+x
+Fn xðÞ −FxðÞjj
+When ﬃﬃ ﬃnp Dn > Kα , the samples
+satisfy the hypothesized
+distribution F(x)
+Where Fn(x) is an empirical and normal distribution function, F(x) is a given
+cumulative distribution and a normal distribution in our study, n is the
+number of values, x
+i is the measured indicator data, Dn is the K-S statistic, α
+is the confidence coefficient, andKα is found from Pr(K≤Kα)=1−α. This test
+was used to test the distributions of the selected indicators for normality
+Variance inflation factor (VIF)
+(Vu et al. 2015)
+VIF ¼ 1
+1−R2
+i
+If VIF>5, multicollinearity exists
+Where Ri is the multiple correlation coefficient of the indicator Xi and the
+remaining indicatorsXj (I = 1, 2,… ,k; i ≠j). In our study, X refers to the set of
+indicators of socioeconomics and water quality. This statistic was used to test
+for multicollinearity among the selected indicators
+One-way analysis of variance
+(ANONA) (Cano et al.
+2016)
+SE ¼ ∑
+s
+j¼1
+∑
+i¼1
+n j
+xij−xj
+/C0/C1 2
+SA ¼ ∑
+s
+j¼1
+n j xj−x
+/C0/C1/C0 2Þ
+F ¼ SA = s−1ðÞ
+SE = n−sðÞ ∼Fα s−1; n−sðÞ
+When F > Fα (s-1,n-s), the results
+are significant at the level α
+Where SE is the “within-group” sum of squares of water quality indicators with
+a total of four in our study, S A is the “between-group” sum of squared
+differences of water quality indicators, s is the number of groups and is equal
+to four indicators in our study, nj is the number of values per group, xij is the
+measured water quality indicator value, and F is the test statistic of the F
+distribution. This test was used to determine whether there were significant
+differences in the various water quality indicators among groups
+Canonical correlation analysis
+(CCA) (Luo et al. 2019)
+S=αX=α1x1 +α2x2 +⋯ +αnxn
+T=βY=β1y1 +β2y2 +⋯ +βnyn
+ρ S; TðÞ ¼ Cov αX ;βYðÞﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ ﬃ
+Var αXðÞ
+p ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+Var βYðÞ
+p
+If ρ(α′∙X,β′∙Y)=max[ρ(α∙X,β∙Y)],
+then α′,∙X and β′∙Y are typical
+correlation variables, and ρ(α′∙X,
+β′∙Y) is the typical correlation
+coefficient of systems X and Y
+PIt
+j ¼
+xide; j −xt
+j
+xide; j −xLide; j
+/C12/C12
+/C12
+/C12
+/C12
+/C12; Fy
+t
+i ¼ ∑
+n
+j¼1
+αijPIt
+j
+ωi ¼ γijj
+∑m
+i¼1 γijj ; Ft
+Y ;X ¼ ∑
+m
+i¼1
+ωi∙Ft
+yi
+Taking the effect of socioeconomic development on water quality as an
+example, xi and S are single and integrated water quality indicators, yi and T
+are single and integrated socioeconomic development indicators,ρ(S T) is the
+correlation coefficient of S and T, γi is the correlation coefficient of each
+socioeconomic development indicator and water quality indicator,ω i is the
+weight used to integrate the influence of each socioeconomic development
+indicator on water quality,PIj
+t is the degree of influence of each water quality
+indicator, aij is calculated based on the eigenvector of each socioeconomic
+indicator and water quality indicator (α in CCA method), Fyi
+t is the degree of
+influence of each socioeconomic indicator on water quality, FY,X
+t is the
+degree of influence of each socioeconomic and water quality indicator, and t
+is time. The principle of this method is to replace a group of variables with a
+comprehensive variable by linear combination and then use the
+comprehensive single variable to calculate the correlation coefficient.
+Through a series of deductions and simplifications, the problem of
+determining the correlation between one group of variables and another is
+transformed into a problem of maximization under the constraint of variance
+Distance-based influence
+assessment
+(Luo et al. 2019)
+PIt
+j ¼
+xide; j −xt
+j
+xide; j −xLide; j
+/C12/C12/C12
+/C12/C12/C12 Where PIt
+j is the influence degree of river system indicator j in year t. If
+PIt
+j > 1,t h e nPIt
+j ¼ 1. xt
+j is the measured value of indicator j of the water
+quality system in year t;xide, j and xLide, j are the ideal value and least desirable
+value, respectively, of indicator j and are determined by adding or subtracting
+the amount of change of the extrema of the indicators determined according
+to the definition of “Surface Water Environmental Quality Standard”
+53861Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 6]]
+weighted. By extracting the weights of various social and
+economic indicators, we can quantitatively study the degree
+of influence of various indicators on water quality and the
+comprehensive degree of influence of various indicators.
+The core steps in CCA and distance-based influence as-
+sessment methods can be simplified as follows: (1) calculate
+the degree of influence of each water quality indicator by
+using the distance-based influence assessment method; (2)
+use the CCA method to calculate the canonical correlation
+coefficient between social and economic development sys-
+tems and water quality systems; (3) based on the CCA meth-
+od, the eigenvalue (used to calculate the weights of socioeco-
+nomic indicators) and the eigenvector (used to calculate the
+linear coefficient of water quality and socioeconomic indica-
+tors) calculated in Step 2 are used to calculate the degree of
+influence of each socioeconomic indicator related to water
+quality; and (4) the comprehensive degree of influence of
+socioeconomic development as it relates to water quality is
+calculated by weighting and summing the corresponding de-
+gree for each indicator in the third step. A detailed description
+of this process was provided by Luo et al. ( 2019).
+In this study, the degree of influence obtained from the
+final calculation is divided into 10 levels, that is, no influence
+(less than 0.1), level I (between 0.1 and 0.2), level II (between
+0.2 and 0.3) and so on. The higher the level is, the greater the
+degree of influence.
+Results and discussion
+Spatiotemporal variations in water quality indicators
+In this study, we selected four typical water quality indica-
+tors: COD
+Mn,N H 4-N, DO and pH. The variations of these
+parameters in all sections of the two major basins are
+shown in Fig. 3.
+The concentration of COD Mn in the Yangtze River
+Basin fluctuated between 1.47 mg/L and 3.82 mg/L, and
+the average value was 2.33 mg/L. The concentration of
+NH
+4-N fluctuated between 0.093 mg/L and 0.4 mg/L with
+an average of 0.23 mg/L. The concentration of DO fluctu-
+ated between 5.97 mg/L and 11.57 mg/L and had an aver-
+age value of 8.37 mg/L. The pH fluctuated between 7.15
+mg/L and 8.25 mg/L with an average of 7.77 mg/L.
+Correspondingly, the concentration of COD
+Mn in the
+Yellow River Basin fluctuated between 2 mg/L and 4.7
+mg/L with an average value of 4 mg/L, and the concentra-
+tion of NH 4- Nf l u c t u a t e db e t w e e n0 . 0 4m g / La n d1 . 3m g / L
+Fig. 2 The research framework
+for assessing the degree of
+influence of socioeconomic
+development on river water
+quality
+53862 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 7]]
+with an average of 0.38 mg/L. The concentration of DO
+fluctuated between 5.86 mg/L and 11.16 mg/L, with an
+average of 8.45 mg/L. The pH fluctuated between 7.06
+mg/L and 8.74 mg/L and had an average value of 7.99
+mg/L. The water quality of the Yellow River Basin was
+generally lower than that of the Yangtze River Basin.
+The pollutant concentrations in all sections of the two ba-
+sins display a certain degree of decline over time, and this
+finding is similar to the resul ts of previous research (Li
+et al. 2015).
+According to the surface water environmental quality stan-
+dards, surface water quality was divided into five grades. The
+grade three water quality threshold values for COD
+Mn and
+NH4-N are 4 mg/L and 1 mg/L, respectively, and the grade
+four threshold values are 6 mg/L and 1.5 mg/L, respectively.
+The concentration of DO was greater than 5, and pH was
+between 6 and 9. The overall water quality in the Yangtze
+River Basin and the Yellow River Basin was good. This find-
+ing was the result of the control of rural diffuse pollution and
+the improvement of urban centralized sewage treatment facil-
+ities (Cheng et al. 2018b; Xue et al. 2020).
+Relevance analysis of socioeconomic and river
+systems
+The typical correlation coefficients of YP1 –YP6 in the mon-
+itoring sections of the Yangtze River Basin during the wet
+season were 0.863, 0.973, 0.915, 0.885, 0.931 and 0.907, with
+a mean value of 0.912. The typical correlation coefficients of
+each section in the dry season were 0.773, 0.952, 0.886,
+0.917, 0.789 and 0.918, with a mean value of 0.873. The
+typical correlation coefficients of all sections in the Yangtze
+River Basin in the above two periods were all greater than 0.6,
+indicating a strong correlation between the socioeconomic
+system and the water quality system in this area. The correla-
+tion in the wet season was greater than that in the dry season in
+the Yangtze River Basin. The typical correlation coefficients
+of monitoring sections HP1–HP4 in the Yellow River Basin in
+the wet season were 0.767, 0.882, 0.909 and 0.931, respec-
+tively, with a mean value of 0.872. The typical correlation
+coefficients of various sections in the dry season were 0.899,
+0.992, 0.971 and 0.891, with a mean value of 0.938. There
+was a strong correlation between the socioeconomic system
+and water system in the Yellow River Basin. The correlation
+in the dry season was generally greater than that in the wet
+season in the Yellow River Basin.
+The correlation range between socioeconomic indicators
+and water quality indicators in all sections of the Yangtze
+River Basin in the wet season was between –0.79 and 0.63,
+and the correlation range in the dry season was between–0.84
+and 0.7. The correlation ranges between systems in the same
+period were 0.86–0.97 and 0.77–0.95, respectively. The cor-
+relation range between socioeconomic indicators and water
+quality indicators in various sections of the Yellow River
+Basin in the wet season was between –0.86 and 0.74, and
+the correlation range in the dry season was between –0.96
+and 0.89 (Fig. 4). The correlation ranges between systems in
+the same period were 0.77 –0.93 and 0.89–0.99, respectively.
+The correlation between the systems in the two basins was
+generally greater than those among the various indicators,
+which indicates that the water quality in the two basins was
+influenced by multiple factors. Luo et al. ( 2019) studied the
+correlation between socioeconomic and water quality systems
+in Shaying River Basin. They found that the correlations be-
+tween indicators with changes ranging from –0.67 to 0.73 in
+July and from –0.81 to 0.79 in December were smaller than
+those between socioeconomic and river systems with changes
+ranging from 0.89 to 0.99 in July and from 0.87 to 0.95 in
+December, which agrees with the results of this study.
+In addition, the correlation in the wet season between
+the socioeconomic system and water quality system in the
+Yangtze River Basin was greater than that in the dry sea-
+son, and the opposite trend was found in the Yellow River
+Basin. These findings were mainly related to the differ-
+ences in the climate and regional characteristics of the
+two basins. The rainfall in the Yangtze River Basin, a typ-
+ical southern basin, was significantly higher than that in the
+Yellow River Basin (Huang et al. 2019). Moreover, there
+are more agricultural and industrial bases in the Yangtze
+River Basin than in the Yellow River Basin, and large
+amounts of pollutants are transported into the river by
+rainfall-induced runoff. Therefore, the influence of human
+a c t i v i t i e si nt h ew e ts e a s o ni nt h eY a n g t z eR i v e rB a s i ni s
+greater than that in the dry season and also greater than that
+in the Yellow River Basin. However, the correlation in the
+Yellow River Basin in the dry season is higher than that in
+the wet season. Some rivers in the Yellow River Basin in
+the dry season from January to March are affected by river
+drying and ice floods, resulting in the accumulation of
+pollutants and making the water quality in the Yellow
+River Basin susceptible to the effects of human activities
+(Puczko & Jekatierynczuk-Rudczyk 2020).
+Effects of socioeconomic development on river water
+quality
+Before CCA, normal distribution and multicollinearity tests
+were performed for the socioeconomic indicator data and wa-
+ter quality data. For the Yangtze River Basin, the K-S test
+statistics for the indicators COD Mn,N H 4-N, DO, pH, per
+capita GDP, urbanization rate and population density were
+0.105, 0.062, 0.2, 0.2, 0.2, 0.2 and 0.054, respectively. All
+of these values were greater than 0.05, suggesting that the data
+exhibited normal distributions. The VIF values of the water
+quality indicators and socioeconomic indicators were 3.833
+and 2.931, respectively; both values were less than 5,
+53863Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 8]]
+53864 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 9]]
+suggesting the absence of multicollinearity among the vari-
+ables. For the Yellow River Basin, the K-S test statistics for
+the indicators CODMn,N H4-N, DO and pH were 0.199, 0.059,
+0.2, 0.73, 0.09, 0.2 and 0.129, suggesting that the data distri-
+butions were normal. The VIF values of the water quality
+indicators and socioeconomic indicators were 3.511 and
+2.866, respectively, suggesting no multicollinearity among
+Fig. 3 The temporal trends of water quality concentrations in the two
+basins from 2005 to 2017. (a), (b), (c) and (d) present COD Mn,N H4-N ,
+DO and pH in the Yangtze River Basin, and (e), (f), (g) and (h) present
+CODMn,N H4-N, DO and pH in the Yellow River Basin
+Y1: Per capita GDP; Y2: Urbanization rate; Y3: Population density
+X1: pH; X2: DO; X3: CODMn; X4: NH4-N
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+Wet season-The Yangtze River Basin
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+X1 X2 X3 X4
+Y1
+Y2
+Y3
+s r o t a c i d n i m e t s y s c i m o n o c e - o i c o S
+Water quality indicators
+(a)
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+s r o t a c i d n i m e t s y s c i m o n o c e - o i c o S
+(b)
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+X1 X2 X3 X4
+Y1
+Y2
+Y3
+Dry season-The Yangtze River Basin
+Water quality indicators
+Y1
+Y2
+Y3
+(c)
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+X1 X2 X3 X4
+Y1
+Y2
+Y3
+Water quality indicators
+s r o t a c i d n i m e t s y s c i m o n o c e - o i c o S
+Wet season-The Yellow River Basin
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+Y1
+Y2
+Y3
+X1 X2 X3 X4
+Y1
+Y2
+Y3
+Dry season-The Yellow River Basin
+Water quality indicators
+s r o t a c i d n i m e t s y s c i m o n o c e - o i c o S
+(d)
+Fig. 4 The correlation coefficien ts of indicators between the
+socioeconomic system and water quality system at sampling points in
+the two basins. (a) and (b) represent the Yangtze River Basin (that is,
+YP1, YP2, YP3, YP4, YP5 and YP6 from top to bottom). (c) and (d)
+represent the Yellow River Basin (that is, HP1, HP2, HP3 and HP4 from
+top to bottom). Y1, per capita GDP; Y2, urbanization rate; Y3, population
+density; X1, pH; X2, DO; X3, COD
+Mn;X 4 ,N H4-N
+53865Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 10]]
+the variables. All the above test results passed the significance
+level of 0.05.
+A ss h o w ni nT a b l e2, the average degree of influence in
+the Yangtze River Basin was between 0.23 and 0.33 in the
+wet season and between 0.18 and 0.23 in the dry season.
+The degree of influence in the wet season was generally
+greater than that in the dry season. The average degree of
+influence in the Yellow River Basin in the wet season
+ranged from 0.22 to 0.33, and the degree of influence in
+t h eY e l l o wR i v e rB a s i ni nt h ed r ys e a s o nr a n g e df r o m0 . 1 6
+to 0.42. Before 2011, the degree of influence in the dry
+season was greater than that in the wet season; however,
+it gradually became lower than that in the wet season fol-
+lowing 2011. The degree of influence in the Yangtze River
+Basin was lower overall than that in the other basin. The
+implementation of water pollution prevention and control
+measures effectively improved water quality (Wang &
+Song 2020). The degree of influence in the Yellow River
+Basin was slightly higher than that in the Yangtze River
+Basin. Since 2011, the degree of influence has generally
+Table 2 Influence levels of the
+socioeconomic system on the
+river systems in the two basins
+Yangtze River Yellow River
+Year Season Degree of influence Level Year Season Degree of influence Level
+2005 Wet 0.28 II 2005 Wet 0.30 II
+Dry 0.21 II Dry 0.42 IV
+2006 Wet 0.28 II 2006 Wet 0.30 II
+Dry 0.22 II Dry 0.35 III
+2007 Wet 0.25 II 2007 Wet 0.23 II
+Dry 0.19 I Dry 0.38 III
+2008 Wet 0.32 III 2008 Wet 0.31 III
+Dry 0.21 II Dry 0.28 II
+2009 Wet 0.27 II 2009 Wet 0.33 III
+Dry 0.23 II Dry 0.27 II
+2010 Wet 0.24 II 2010 Wet 0.30 III
+Dry 0.20 II Dry 0.29 II
+2011 Wet 0.33 III 2011 Wet 0.31 III
+Dry 0.20 II Dry 0.32 III
+2012 Wet 0.26 II 2012 Wet 0.30 III
+Dry 0.21 II Dry 0.23 II
+2013 Wet 0.23 II 2013 Wet 0.25 II
+Dry 0.21 II Dry 0.18 I
+2014 Wet 0.25 II 2014 Wet 0.23 II
+Dry 0.21 II Dry 0.17 I
+2015 Wet 0.24 II 2015 Wet 0.22 II
+Dry 0.20 I Dry 0.16 I
+2016 Wet 0.30 II 2016 Wet 0.25 II
+Dry 0.19 I Dry 0.16 I
+2017 Wet 0.34 III 2017 Wet 0.24 II
+Dry 0.18 I Dry 0.18 I
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+e e r g e d  e c n e u l f n I
+Time
+ YB
+ HB
+Fig. 5 Comprehensive degrees of influence of the socioeconomic system
+indicators on the river system in the two basins from 2005 to 2017.
+Yellow bars represent the Yangtze River Basin, and green bars
+represent the Yellow River Basin
+53866 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 11]]
+decreased to level I or level II, suggesting that the “Twelfth
+Five-Year Plan ” has been effective.
+Figure 5 shows the variations in the degrees of influence of
+socioeconomic development on water quality in the Yangtze
+River Basin and the Yellow River Basin. The comprehensive
+influence value in the Yellow River Basin was between 0.2
+and 0.36, with an average value of 0.27. The comprehensive
+influence degree in the Yangtze River Basin was between 0.22
+and 0.27, with a small variational amplitude. The degree of
+influence in the Yellow River Basin was generally higher than
+that in the Yangtze River Basin because most of the Yellow
+River Basin is in a fragile area of the Loess Plateau region with
+a shortage of water resources, so human activities have a no-
+table influence on water quality. However, with economic
+development, environmental protection has received increas-
+ing attention. The centralized treatment of wastewater has
+effectively improved the water quality in the river basin
+(Wang & Wei 2019). The environmental governance degrees
+of the Yellow River Basin and the Yangtze River Basin have
+improved, and the comprehensive degree of influence in the
+two basins decreased from 2005 to 2017. In the early stage of
+urbanization, ecological environmental quality is generally
+sacrificed for socioeconomic development. With the advance-
+ment of urbanization, the ecological environment is often im-
+proved, and the coordination among economic development,
+resource use and environmental protection is also enhanced
+(Zhao et al. 2016).
+Figure 6 shows the temporal and spatial variations in the
+average annual degree of influence in each section of the
+Yangtze River Basin and the Yellow River Basin, and Fig. 7
+shows the box diagram of the comprehensive degree of influ-
+ence of various socioeconomic indicators in the Yangtze
+(a) (b) 
+YP1 YP2 YP3 YP4 YP5 YP6
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Locations
+r a e Y
+HP1 HP2 HP3 HP4
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+Locations
+r a e Y
+Fig. 6 Temporal and spatial variations in the comprehensive degree of influence. Figure ( a) represents the Yangtze River Basin, and Figure ( b)
+represents the Yellow River Basin
+(a) (b) 
+YP1 YP2 YP3 YP4 YP5 YP6
+0.0
+0.2
+0.4
+0.6
+0.8
+e e r g e d e c n e u l f n I
+Locations
+HB1 HB2 HB3 HB4
+e e r g e d c n e u l f n I
+Locations
+Fig. 7 Box diagrams of the degree of influence in each section. Figure (a) represents the Yangtze River Basin, and Figure (b) represents the Yellow River
+Basin
+53867Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 12]]
+River Basin and the Yellow River Basin on water quality.
+Based on a comprehensive comparison of the two figures,
+the average annual values of the comprehensive degree of
+influence in each section of YP1 –YP6 were 0.28, 0.25, 0.18,
+0.16, 0.26 and 0.31, respectively. The degree of influence of
+socioeconomic development first decreased and then in-
+creased over the study period, but the overall degree of influ-
+ence was not large. Above the controlled section YP2, the
+basin is mainly concentrated in the Chengdu-Chongqing
+City Group area, which has a high level of socioeconomic
+development, a high population density and a high degree of
+influence of human activities on water quality. After the SP2
+section, the main channel does not flow through large urban
+agglomerations and is joined by several tributaries, so the
+influence of human activitie s is reduced to some extent.
+Starting from SP3, the average influence gradually increases.
+After this section, the main stem of the Yangtze River flows
+through two national city clusters: the Triangle of Central
+China and Yangtze River Delta Urban Agglomerations. Due
+to the increase in socioeconomic development level and pop-
+ulation density along the middle and lower reaches of the
+Yangtze River, the influence of human activities increases
+along the river channel. Specifically, the Chengdu-
+Chongqing City Group and the Yangtze River Delta Urban
+Agglomerations are greatly affected by human activities.
+From the perspective of timescale, the influence of each sec-
+tion decreased year by year. In recent years, the regions with
+the highest degrees of influence were mainly concentrated in
+the middle and lower reaches of the Yangtze River.
+The average annual values of the comprehensive degree of
+influence in each section HP1–HP4 of the Yellow River Basin
+were 0.3, 0.31, 0.24 and 0.22, and the average value was 0.27.
+The comprehensive degree of influence displayed a decreas-
+ing trend along the river. Notably, the upper and middle
+reaches of the Yellow River Basin flow through the Loess
+Plateau, which exhibits high environmental vulnerability and
+experiences serious soil and water loss (Shi & Shao 2000). In
+addition, the accumulation of some inland urban agglomera-
+tions has led to great fluctuations in the degree of influence.
+Tributaries flow into the Yellow River, increase the water
+volume and decrease pollutant levels to some extent; addition-
+ally, the degree of influence of human activities on water
+quality has improved. This trend was similar to that reported
+by Liu et al. ( 2020a).
+Main socioeconomic system factors that affect river
+systems
+The interactions between the socioeconomic system and river
+system were mainly affected by many factors such as per
+capita GDP, urbanization rate and population density. As
+shown in Fig. 8, the degree of influence of various socioeco-
+nomic indicators on water quality in the Yangtze River Basin
+fluctuated to a small extent. Rapid urbanization in some re-
+gions of the Yangtze River Basin is still ongoing. Although
+water pollution reduction in the Yangtze River Basin is limit-
+ed in the past few years, the deterioration of the water envi-
+ronment caused by economic development has been alleviated
+at present (Zhou et al.2021). The average degrees of influence
+of the socioeconomic indicators noted above on water quality
+from 2005 to 2017 were 0.25, 0.25 and 0.22, respectively. The
+main socioeconomic factors related to water quality in the
+Yangtze River Basin are the per capita GDP and urbanization
+rate. The degree of influence of various socioeconomic indi-
+cators on water quality in the Yellow River Basin has
+displayed a significant downward trend since 2011. This result
+may be related to natural runoff, precipitation, vegetation cov-
+erage, sewage discharge, urbanization and changes in
+(a) (b) 
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+e e r g e d e c n e u l f n I
+Time
+per capita GDP
+urbanization rate
+population density
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+e e r g e d e c n e u l f n I
+Time
+per capita GDP
+urbanization rate
+population density
+Fig. 8 Degree of influence of socioeconomic system indicators on river systems from 2005 to 2017. Figure (a) represents the Yangtze River Basin, and
+Figure (b) represents the Yellow River Basin
+53868 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 13]]
+industrial structure (Wu et al., 2021). The average degrees of
+influence of the three socioeconomic indicators noted above
+on water quality from 2005 to 2017 were 0.26, 0.28 and 0.25,
+respectively. The main socioeconomic factor affecting the wa-
+ter quality in the Yellow River Basin was urbanization rate.
+Moreover, the influence of socioeconomic indicators on water
+quality in the Yellow River Basin was generally higher than
+that in the Yangtze River Basin.
+Conclusions
+In view of the unbalanced economic development in the
+Yangtze River Basin and the Yellow River Basin, we
+analysed differences in the impacts of social and economic
+development on water quality. From 2008 to 2017, the overall
+degree of influence in the Yangtze River Basin exhibited
+small fluctuations, whereas that in the Yellow River Basin
+displayed a significant decline. The degree of influence also
+exhibited seasonal variations. The water quality was generally
+good. GDP per capita and urbanization rate are the main fac-
+tors affecting the water quality of the Yangtze River Basin.
+The main factor affecting water quality in the Yellow River
+Basin is urbanization rate. The above results can help guide
+the coordination of economic development and environmental
+protection in the two basins in the future.
+Acknowledgements We thank the editors of Environmental Science and
+Pollution Research and all reviewers for their contributions to this paper.
+Availability of data and materials The data sets used and analysed dur-
+ing the current study are available from the corresponding author on
+reasonable request.
+Author contribution Hongsheng Hao, Bing Liu and Yongan Yang par-
+ticipated in the data collection of this manuscript. Yuanming Wang and
+Kefeng Li participated in the data analysis and provision of ideas of this
+manuscript. Ruifeng Liang was primarily responsible for preparation and
+process of this manuscript. Shiwei Yang conceived of the study design
+and data analysis with input from all co-authors. All the authors read and
+contributed to the submitted version of the manuscript.
+Funding This work was sponsored by the key research and development
+project of Yunnan Province under permission number 2020QT004-
+2019BC002 and the fund of Sichuan Province under permission number
+2018SZYZF0001.
+Declarations
+Ethics approval and consent to participate Not applicable
+Consent for publication Not applicable
+Competing interests The authors declare no competing interests.
+References
+Bussi G, Whitehead PG, Bowes MJ, Read DS, Prudhomme C, Dadson SJ
+(2016) Impacts of climate change, land-use change and phosphorus
+reduction on phytoplankton in the River Thames (UK). Sci Total
+Environ 572:1507–1519
+Cano JA, Carazo C, Salmeron D (2016) Linear contrasts for the one way
+analysis of variance: a Bayesian approach. Stat Probabil Lett 109:
+54–62
+Chang YJ, Zhu DM (2020) Urban water security of China's municipali-
+ties: comparison, features and challenges. J Hydrol 587:125023
+Cheng X, Chen LD, Sun RH, Kong PR (2018a) Land use changes and
+socio-economic development strongly deteriorate river ecosystem
+health in one of the largest basins in China. Sci Total Environ 616:
+376–385
+Cheng P, Li XY, Su JJ, Hao SN (2018b) Recent water quality trends in a
+typical semi-arid river with a sharp decrease in streamflow and con-
+struction of sewage treatment plants. Environ Res Lett 13
+Cho E, Choi M (2014) Regional scale spatio-temporal variability of soil
+moisture and its relationship with meteorological factors over the
+Korean peninsula. J Hydrol 516:317–329
+Conover WJ (1971) Practical nonparametric statistics. John Wiley and
+Sons, New York, pp 295–301
+Deng X, Xu Y, Han L, Yang M, Yang L, Song S, Li G, Wang Y (2016)
+Spatial–temporal evolution of the distribution pattern of river sys-
+tems in the plain river network region of the Taihu Basin, China.
+Quat Int 392:178–186
+Development Research Center of the State Council (2014) China:
+Promote efficient, inclusive and sustainable urbanization. https://
+www.drc.gov.cn/DocView.aspx?chnid=353&leafid=223&docid=
+2879174
+Eslamian SA, Li SS, Haghighat F (2016) A new multiple regression
+model for predictions of urban water use. Sustain Cities Soc 27:
+419–429
+Gong Y, Yu ZG, Yao QZ, Chen HT, Mi TZ, Tan JQ (2015) Seasonal
+variation and sources of dissolved nutrients in the Yellow River,
+China. Int J Env Res Pub He 12:9603 –9622
+Guo Y, Wang H, Nijkamp P, Xu J (2015) Space –time indicators in
+interdependent urban–environmental systems: a study on the Huai
+River Basin in China. Habitat Int 45:135–146
+Huang Y, Wang H, Xiao WH, Chen LH, Yang H (2019) Spatiotemporal
+characteristics of precipitation concentration and the possible links
+of precipitation to monsoons in China from 1960 to 2015. Theor
+Appl Climatol 138:135–152
+Katrutsa A, Strijov V (2017) Comprehensive study of feature selection
+methods to solve multicollinearity problem according to evaluation
+criteria. Expert Syst Appl 76:1–11
+Li DY, Zhao M, Cong CC, Cai YC (2013) Current status analysis and
+countermeasure research on water ecological environment of urban
+rivers and lakes in China. Adv Mater Res-Switz 616-618:1455 –
+1460
+Li J, Meng X, Zhang Y, Li J, Xia L, Zheng H (2015) Analysis of the
+temporal and spatial distribution of water quality in China ’ sm a j o r
+river basins, and trends between 2005 and 2010. Front Earth Sci 9:
+463–472
+Liao SJ, Wu Y, Wong SW, Shen LY (2020) Provincial perspective anal-
+ysis on the coordination between urbanization growth and resource
+environment carrying capacity (RECC) in China. Sci Total Environ
+730:138964
+Liu JY, Zhang Q, Singh VP, Shi PJ (2017) Contribution of multiple
+climatic variables and human activities to streamflow changes
+across China. J Hydrol 545:145–162
+Liu SM (2015) Response of nutrient transports to water –sediment regu-
+lation events in the Huanghe basin and its impact on the biogeo-
+chemistry of the Bohai. J Mar Syst 141:59 –70
+53869Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 14]]
+Liu K, Qiao Y, Shi T, Zhou Q (2020a) Study on coupling coordination
+and spatiotemporal heterogeneity between economic development
+and ecological environment of cities along the Yellow River Basin.
+Environ Sci Pollut Res Int
+Liu YL, Zhang XH, Pan XY, Ma XX, Tang MY (2020b) The spatial
+integration and coordinated industrial development of urban ag-
+glomerations in the Yangtze River Economic Belt, China. Cities 104
+Lokhande S, Tare V (2021) Spatio-temporal trends in the flow and water
+quality: response of river Yamuna to urbanization. Environ Monit
+Assess 193:117
+Luo K, Hu XB, He Q, Wu ZS, Cheng H, Hu ZL, Mazumder A (2018)
+Impacts of rapid urbanization on the water quality and macroinver-
+tebrate communities of streams: a case study in Liangjiang New
+Area, China. Sci Total Environ 621:1601–1614
+Luo ZL, Zuo QT, Shao QX, Ding XY (2019) The impact of socioeco-
+nomic system on the river system in a heavily disturbed basin. Sci
+Total Environ 660:851–864
+Luo ZL, Shao QX, Zuo QT, Cui YK (2020) Impact of land use and
+urbanization on river water quality and ecology in a dam dominated
+basin. J Hydrol:584
+Ma MW, Yuan F, Cui HJ, Ren LL, Liu Y (2020) A comprehensive
+analysis of meteorological drought stress over the Yellow River
+basin (China) for the next 40 years. Int J Climatol
+National Bureau of Statistics of China (NBSC) (2017) China Statistical
+Yearbook, Beijing
+Niu F, Yang X, Wang F (2020) Urban agglomeration formation and its
+spatiotemporal expansion process in China: from the perspective of
+industrial evolution. Chin Geogr Sci 30:532–543
+Obropta CC, Del Monaco N (2018) Reducing directly connected imper-
+vious areas with green stormwater infrastructure. J Sustain Water
+Built Environ:4
+O’ Donoghue C, Buckley C, Chyzheuskaya A, Green S, Howley P, Hynes
+S, Upton V, Ryan M (2021) The spatial impact of rural economic
+change on river water quality. Land Use Policy 103:105322
+Peng L, Xia J, Li ZH, Fang CL, Deng XZ (2020) Spatio-temporal dy-
+namics of water-related disaster risk in the Yangtze River Economic
+Belt from 2000 to 2015. Resour Conserv Recy 161
+Polonenko LM, Hamouda MA, Mohamed MM (2020) Essential compo-
+nents of institutional and social indicators in assessing the sustain-
+ability and resilience of urban water systems: challenges and oppor-
+tunities. Sci Total Environ 708:135159
+Puczko K, Jekatierynczuk-Rud czyk E (2020) Extreme hydro-
+meteorological events influence to water quality of small rivers in
+urban area: a case study in northeast Poland. Sci Rep-Uk 10
+Ren Y, Li H, Shen L, Zhang Y, Chen Y, Wang J (2018) What Is the
+Efficiency of Fast Urbanization? A China Study. Sustainability-
+Basel 10
+Riechel M, Matzinger A, Pawlowsky-Reusing E, Sonnenberg H, Uldack
+M, Heinzmann B, Caradot N, von Seggern D, Rouault P (2016)
+Impacts of combined sewer overflows on a large urban river - un-
+derstanding the effect of different management strategies. Water Res
+105:264–273
+Shahbaz M, Shafiullah M, Khalid U, Song M (2020) A nonparametric
+analysis of energy environmental Kuznets curve in Chinese prov-
+inces. Energy Econ 89:104814
+Shi H, Shao MG (2000) Soil and water loss from the Loess Plateau in
+China. J Arid Environ 45:9–20
+State Council in China (2015) Action Plan for Prevention and Control of
+Water Pollution. http://www.gov.cn/zhengce/content/2015-04/16/
+content_9613.htm.
+Tu J (2011) Spatially varying relationships between land use and water
+quality across an urbanization gradient explored by geographically
+weighted regression. Appl Geogr 31:376–392
+UNDESA (2018): 2018 Revision of World Urbanization Prospects.
+https://www.un.org/development/desa/publications/2018-revision-
+of-world-urbanization-prospects.html
+Vrebos D, Beauchard O, Meire P (2017) The impact of land use and
+spatial mediated processes on the water quality in a river system.
+Sci Total Environ 601:365–373
+Vu DH, Muttaqi KM, Agalgaonkar AP (2015) A variance inflation factor
+and backward elimination based robust regression model for fore-
+casting monthly electricity demand using climatic variables. Appl
+Energy 140:385–394
+Wang Y, Zhao PD (2009): Strategy research for development of
+recycling economy in urbanization process. Urbanization and
+Land Reservation Research, 278-
+Wang A, Tang LH, Yang DW, Lei HM (2016) Spatio-temporal variation
+of net anthropogenic nitrogen inputs in the upper Yangtze River
+Basin from 1990 to 2012. Sci China Earth Sci 59:2189 –2201
+Wang J, Song Y (2020) Effect of water pollution control on provincial
+boundaries of River-Director System: based on the study of the
+Yangtze River valley in China. Environ Sci Pollut Res Int 27:
+35217–35227
+Wang JH, Shen LY, Ren YT, Wei XX, Tan YT, Shu TH (2019) An
+alternative model for evaluating the balance of carrying capacity
+between functional urban infrastructures. Environ Impact Asses
+79:106304
+Wang JS, Wei YHD (2019) Agglomeration, environmental policies and
+surface water quality in China: a study based on a quasi-natural
+experiment. Sustainability-Basel 11
+Wei
+HB, Yu HB, Zhang GC, Pan HW, Lv CJ, Meng FS (2018) Revealing
+the correlations between heavy metals and water quality, with in-
+sight into the potential factors and variations through canonical cor-
+relation analysis in an upstream tributary. Ecol Indic 90:485–493
+Wijesiri B, Deilami K, Goonetilleke A (2018) Evaluating the relationship
+between temporal changes in land use and resulting water quality.
+Environ Pollut 234:480–486
+Wu N, Liu SM, Zhang GL, Zhang HM (2021) Anthropogenic impacts on
+nutrient variability in the lower Yellow River. Sci Total Environ
+755:142488
+Wu Y, Tam VWY, Shuai CY, Shen LY, Zhang Y, Liao SJ (2019)
+Decoupling China's economic growth from carbon emissions: em-
+pirical studies from 30 Chinese provinces (2001-2015). Sci Total
+Environ 656:576–588
+Xian G, Crane M, Su J (2007) An analysis of urban development and its
+environmental impact on the Tampa Bay watershed. J Environ
+Manag 85:965–976
+Xiao S, Xia J, Zou L (2020) Evaluation of multi-satellite precipitation
+products and their ability in capturing the characteristics of extreme
+climate events over the Yangtze River Basin, Basin. Water-Sui 12
+Xie H (2020) Spatial heterogeneity strategies for pollution agglomeration
+control in China: based on the coordination between industrializa-
+tion and urbanization. Arab J Geosci:13
+Xue LH, Hou PF, Zhang ZY, Shen MX, Liu FX, Yang LZ (2020)
+Application of systematic strategy for agricultural non-point source
+pollution control in Yangtze River Basin, China. Agric Ecosyst
+Environ 304
+Yigitcanlar T, Kamruzzaman M (2015) Planning, development and man-
+agement of sustainable cities: a commentary from the guest editors.
+Sustainability-Basel 7:14677–14688
+Zhang CJ, Wang CZ (2019) Analysis and suggestions on the differences
+of economic development between north and south China. J
+Lanzhou Univ Arts Sci 35:57–65 (in Chinese)
+Zhang J, Li SY, Dong RZ, Jiang CS, Ni MF (2019) Influences of land use
+metrics at multi-spatial scales on seasonal water quality: a case study
+53870 Environ Sci Pollut Res (2021) 28:53857–53871
+
+[[PAGE 15]]
+of river systems in the Three Gorges Reservoir Area, China. J Clean
+Prod 206:76–85
+Zhao YB, Wang SJ, Zhou CS (2016) Understanding the relation between
+urbanization and the eco-environment in China's Yangtze River
+Delta using an improved EKC model and coupling analysis. Sci
+Total Environ 571:862–875
+Zhou K, Wu JX, Liu HC (2021) Spatiotemporal variations and determi-
+nants of water pollutant discharge in the Yangtze River Economic
+Belt, China: a spatial econometric analysis. Environ Pollut 271
+Zhu MC, Shen LY, Tam VWY, Liu Z, Shu TH, Luo WZ (2020) A load-
+carrier perspective examination on the change of ecological environ-
+ment carrying capacity during urbanization process in China. Sci
+Total Environ 714:136843
+Publisher’sn o t eSpringer Nature remains neutral with regard to jurisdic-
+tional claims in published maps and institutional affiliations.
+53871Environ Sci Pollut Res (2021) 28:53857–53871

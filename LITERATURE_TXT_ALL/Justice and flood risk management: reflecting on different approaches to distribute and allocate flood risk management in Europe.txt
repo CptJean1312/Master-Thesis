@@ -1,0 +1,1031 @@
+[[PAGE 1]]
+ORIGINAL PAPER
+Justice and ﬂood risk management: reﬂecting
+on different approaches to distribute and allocate
+ﬂood risk management in Europe
+Thomas Thaler 1,2 • Thomas Hartmann 3
+Received: 2 December 2015 / Accepted: 16 March 2016 / Published online: 24 March 2016
+/C211 The Author(s) 2016. This article is published with open access at Springerlink.com
+Abstract This paper compares the inherent notions of justice in four different approaches to
+ﬂood risk management in Europe. As protection against ﬂood risks becomes increasingly
+difﬁcult, dilemmas of justice emerge: some beneﬁts from ﬂood protection measures whereas
+others loose. Decisions on whom to protect differentiate between upstream and downstream
+or left and right side of a river. This raises a central but barely discussed conﬂict: what (or
+rather who) should be protected against inundations? This question deals in essence with
+justice. Justice concerns questions over fairness in the allocation of resources, capital and
+wealth across different members of society. There are different and contradicting concepts of
+justice, which differ in interpretations of fair resource allocation and distributions. ‘What’s
+the right thing to protect’ is thus a question of concepts of justice. This contribution is not an
+attempt to answer this fundamental question, but it offers a debate on how different concepts
+of justice provide different answers. These answers will then be related to ﬂood risk man-
+agement approaches in England, the Netherlands, Germany, and Austria.
+Keywords Flood risk management /C1Policy /C1Property rights /C1Justice /C1Allocation /C1
+Distribution
+1 Introduction: what should be protected?
+Protection against ﬂood risks is becoming increasingly difﬁcult. Not only is the likelihood
+of ﬂoods increasing (IPCC 2012), but, due to continuing settlement and the resulting higher
+degree of vulnerability in ﬂoodplains, it becomes more and more difﬁcult to protect all
+& Thomas Thaler
+thomas.thaler@boku.ac.at
+1 Flood Hazard Research Centre, Middlesex University, London, UK
+2 Institute of Mountain Risk Engineering, University of Natural Resources and Life Sciences,
+Vienna, Austria
+3 Urban and Regional Research Centre Utrecht (URU), Utrecht University, Utrecht, The Netherlands
+123
+Nat Hazards (2016) 83:129–147
+DOI 10.1007/s11069-016-2305-1
+
+[[PAGE 2]]
+properties along a river with the same standard—for economic and also for hydrological
+reasons (Fuchs 2009; Fuchs et al. 2015). This goes beyond the question of where to locate
+dikes and how high they need to be.
+Flood protection measures—especially but not only dikes—inﬂuence property values,
+because, with their establishment, the land becomes more proﬁtable for uses that would not
+have been possible without high design level (Tempels and Hartmann 2014; Hartmann and
+Spit 2015). Is such value increase just a windfall gain for landowners? Barraque ´ explains
+that providing ﬂood protection means socially reinterpreting ﬂoods: they are no longer a
+force majeure—an act of God—but instead an issue of the welfare state (Barraque ´ 2014).
+Several questions can arise in response to this: Should a commercial area be inundated
+more often than a residential area, or vice versa? What is the right level of protection for
+cultural heritage buildings or other public buildings? Also ﬁnancing ﬂood risk management
+brings with it the following issues: How should ﬂood protection affect (tax)payers who do
+not live in risk areas (intragenerational generation). How will policy instruments of
+adaptation and mitigation strategies affect future generations (intergenerational generation)
+(Walker 2009; McKinnon 2009; Moellendorf 2009; Neal et al. 2014). These issues of
+justice are barely discussed in the scholarly debate on ﬂood risk management (Doorn
+2015). Therefore, key questions surrounding those problems include the following: What
+justiﬁes the protection of a particular piece of land? Whose land should be protected?
+Should ﬂood risk management protect the upstream and sacriﬁce the downstream, or vice
+versa? Who—or rather what—should be protected best? These questions are recognised by
+recent policy, although they are not expressed in such sharp terms.
+The European Floods Directive (EC 2007) requires member states of the European Union
+to develop ﬂood risk management plans. These plans must be in effect by 2015 and set
+‘appropriate objectives for the management of ﬂood risk and [reduce] potential adverse
+consequences of ﬂooding for human health, the environment, cultural heritage and economic
+activity’ (EC 2007). The directive requires that different scenarios be taken into considera-
+tion. This means that spatial planners, rather than considering one line of defence, must
+integrate various lines—this change moves the emphasis from security towards risk (Hart-
+mann and Ju¨pner 2014; Thaler 2014). This has crucial consequences for the allocation of land
+use since it balances ﬂood risk on a much more differentiated level, raising questions such as
+whether a commercial area might be inundated more often than a residential area or what
+might be the right level of protection for cultural heritage (Hartmann and Ju ¨pner 2013).
+Different countries have found different answers to these questions about allocation princi-
+ples and processes and the distribution of costs and liabilities. These answers are not always
+connected to the geological or geomorphological conditions (Mazzorana et al. 2012). One
+could argue that the Dutch Water Boards emerged as a result of their location in a Delta area,
+whereas the North Rhine Westphalian Water Boards can be traced back to industrialisation.
+However, the allocation and distribution principles are not derived from environmental
+condition per se; rather they are a social construction. Discussion and implications of justice
+in ﬂood risk management literature is scarce (Johnson et al. 2007; Doorn 2015). With this
+paper, we aim to address this gap. We compare four European countries (Austria, Germany,
+England and the Netherlands) in terms of their answers to these questions of ﬂood risk
+management. These four countries have been selected for this study because their approaches
+cover a sizeable variety of different concepts of justice.
+This paper is divided into two main parts. The ﬁrst part provides a short overview and analysis
+of the existing literature, which provides the context for the development of an analytical con-
+ceptual framework. The second part analyses and assesses empirical results.The empirical results
+demonstrate the different uses of justices’ arrangement in ﬂood risk management.
+130 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 3]]
+2 Concepts of justice
+Different schools of thought have produced different concepts of justice (Elster 1992; Mill
+2010; Patrick 2014). At its most basic level, the type of justice discussed in this article
+concerns questions of allocation and distribution of resources and, further, capital and
+wealth across different members of society. Varying concepts of justice differ in their
+interpretations of fair resource distribution (Varian 1975). In the discussion of justice and
+ﬂood protection, not only the actual allocation of ﬂood protection measures is signiﬁcant
+(Campbell 2012; Neal et al. 2014), but also the way in which this allocation is achieved.
+Justice also relates to the process by which a certain distribution is selected (procedural
+justice) (Johnson et al. 2007; Walker and Burningham 2011; May and Morrow 2012;
+Patrick 2014). However, justice in ﬂood risk management demands more than just a fair
+socio-economic distribution or recognition of cultural circumstances (Zwarteveen and
+Boelens 2014); it has to consider geohydrological, climatological, and socio-technical
+aspects as well as legal cultural regulations (Zwarteveen and Boelens 2014).
+Important concepts of justice include utilitarianism, libertarianism and egalitarianism
+(Hayek 1991; Rawls 2005; Mill 2010; Sen 2010). Each concept has implications for the
+allocation principles and processes and for the distribution of costs and liabilities of ﬂood
+risk management. Therefore, in the following sections, we will brieﬂy describe the basic
+rationales of each of these three concepts.
+2.1 Utilitarianism (maximise utility)
+According to the concept of utilitarianism, developed by classical economists Mill and
+Bentham, justice and equity are the sum of individual beneﬁts. Utilitarianism tries to
+understand how to maximise happiness (utility) in a society (Johnson et al. 2007; Mill
+2010). In fact, the main focus is the beneﬁt of each individual. The utilitarian concept of
+utility involves two main outcomes: (1) pleasure (positive reaction) and (2) pain (negative
+reaction). Between both concepts, there is a neutral (indifferent) outcome (Elster 1992). A
+utilitarian policy discussion would ensure a maximal beneﬁt to society, or in other words,
+the ‘greatest beneﬁt to the greatest number’ (Hunold and Young 1998, p. 84).
+In ﬂood risk management, utilitarianism leads to criteria that secure the greatest risk
+reduction per unit of resource input. Flood risk management strategies are applied to those
+areas within a country where the beneﬁts offer the greatest gain to the society (Johnson
+et al. 2007). In sum, the distribution principle is the aggregated utility function of indi-
+vidual well-being, where the role of the state is to ensure individual freedom and indi-
+vidualism (Mill 2010). A typical tool to assess what should be protected and what should
+not is the cost-beneﬁt analysis (CBA).
+2.2 Libertarianism (individual responsibility)
+The main principles of libertarian justice are free market principles, especially competition,
+availability of full information, equilibrium in market process and freedom of individual
+self-decision (economic freedom) (Hayek 1991; Johnson et al. 2007). According to Hayek
+(1991), the key aspects are the availability of full information and pre-deﬁned rules (e.g.,
+compensation payments). The distribution principle relies on the freedom of choices and
+the invisible hand of the market, whereas the role of the state is to deﬁne rules for
+individual action (Ostrom 1986; North 1990). Rules are the basic instrument for regulating
+Nat Hazards (2016) 83:129–147 131
+123
+
+[[PAGE 4]]
+individual freedom and relationships within the society (Ostrom 1986). Rules can be seen
+as ‘prescriptions commonly known and used by a set of participants to order repetitive,
+interdependent relationships’ (Ostrom 1986, p. 5). Key objectives of rules are to deﬁne the
+interaction with the objective of individual freedom (North 1990).
+Libertarian ﬂood risk management entails a limited inﬂuence of the public government on
+ﬂood risk management. It is organised by the market forces, which means that they facilitate
+insurance schemes or provide information on ﬂood hazards zones. Libertarianism promotes
+non-governmental activities in adaptation instead of public ﬂood risk management.
+2.3 Egalitarianism (maximise rule and equality)
+Main focus of egalitarian principle is on equal and fair distribution of goods, services, and
+burdens between citizens (equally between all citizens). ‘Goods ought to be divided
+equally among everybody. Even when there is no consensus that equality is inherently fair,
+it is often the only focal point for the resolution of conﬂicts’ (Elster 1992, p. 70). The key
+argument is to ensure the equal opportunity of each citizen in the policy process (proce-
+dural justices). Main critiques are the aspect that different citizens need different resources
+to achieve the same targets and objectives (Roemer 1987). Rawls ( 2005) posited justice as
+a concept that is deﬁned by society to ensure basic needs and equality in terms of rights and
+duties (maximise rule). Based on this understanding, Rawls justiﬁes inequalities ‘only
+when it is necessary to avoid an even greater injustice’ (Rawls 2005, p. 4). He tolerates
+injustices if unequal developments in the society increase the overall beneﬁt (wealth) of the
+society. If the outcome reﬂects injustice, individuals will not be punished or discriminated
+against in another aspect (Zwarteveen and Boelens 2014). In sum, the Rawlsian concept of
+justice focuses on the distribution of primary goods as a central precondition of equality
+instead of the power relationship between the different actors and stakeholders in the
+decision-making process (Johnson et al. 2007; Lu et al. 2014).
+For ﬂood risk management, egalitarianism posits that the distribution of ﬂood risk
+management strategies and implementations should be addressed to the most vulnerable
+people and objectives, such as implementing ﬂood storages in the upper part of the
+catchment principle to protect downstream communities (Johnson et al. 2007; Thaler
+2014). The key aim is to analyse the social capacity of individuals referring to ﬂood risk
+management events (Gardoni and Murphy 2009). The concept focuses on vulnerability
+reduction and public-funded ﬂood risk management strategies for communities who were
+disadvantaged. Therefore, it requires that ﬂood risk management strategies should target at
+the most vulnerable people with the key objective of funding local self-help adaptation
+strategies, since large-scale investments cannot justify local ﬂood risk management
+strategies. The key objective is to avoid favouring high-value assets and areas within the
+country when selecting ﬂood risk management strategies (Johnson et al. 2007).
+3 Conceptual framework
+To translate and analyse justice discourse within ﬂood risk management, a heuristic-
+analytical framework (Table 1) is used. In sum, the table compares the implications of the
+three main justice principles for ﬂood risk management. The actual measures of ﬂood risk
+management in the four countries will be compared based on the following questions:
+• What are the allocation principles for ﬂood protection measures?
+132 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 5]]
+• How is the process for the allocation organised?
+• How are measures ﬁnanced?
+• Who is liable (and pays) for damage incurred by ﬂood events?
+These questions will be evaluated according to the prevalent concept of justice in the
+respective countries. To accomplish this, a qualitative assessment of the basic principles
+and theories of justice must be applied.
+4 Method
+The research method applied in this paper focuses on qualitative research. The aim is to
+adopt different theoretical concepts and methods, such as policy analysis as well as semi-
+structured in-depth interviews. The key objective is to generate or to redeﬁne theoretical
+concepts and discussions and not to test theoretical concepts and ideas (Mabry 2009). For
+this purpose, we analyse policy documents, laws and the literature of the four countries. As
+a ﬁrst step, all relevant data—like research papers, consultant reports, reports, statement
+and acts from public authorities, press articles and online websites—must be gathered. This
+analysis is not meant to represent all the details of the countries’ ﬂood risk management
+approaches and policies—such an analysis would be a Herculean task. Rather the aim of
+this paper is to identify the underlying notions of justice behind the predominant instru-
+ments of ﬂood management in each of the four countries. The results will then be assessed
+in comparison with and juxtaposition to each other. The analysis has been complemented
+by semi-structured interviews and discussions with experts in the different countries. We
+conducted a series of semi-structured interviews with representatives from national,
+regional and local authorities.
+5 Results
+Due to the actual economic and ﬁnancial crises as well as technical limitations, protection
+against ﬂood risks becomes increasingly difﬁcult. Therefore, not all properties along a river
+can be protected with the same standard. This raises a central yet barely discussed issue of
+Table 1 Justice principles for ﬂood risk management
+Utilitarianism Libertarianism Egalitarianism
+Allocation of
+ﬂood
+protection
+measures
+Differentiated
+protection
+standards based
+on CBA ratio
+Local and individual
+protection measures
+Equal protection standards
+for all
+Process of
+allocation
+Expert-based
+decision-making
+Process of allocation is
+based on a market system
+Consensus on general
+protection standards
+Share of costs
+for ﬂood
+protection
+Public funding
+based on
+calculated fees
+Private–private partnerships General public budget
+(i.e., tax-ﬁnanced)
+Liability of
+damage
+Clear
+responsibilities
+and liabilities by
+public authorities
+No compensation from the public
+authorities; facilitating market
+mechanisms (insurance with
+premiums depending on risk zones)
+No speciﬁc liability; in the
+case of a ﬂood, the State
+steps in and compensates
+Nat Hazards (2016) 83:129–147 133
+123
+
+[[PAGE 6]]
+justice in ﬂood risk management, such as how to allocate ﬂood protection measures (which
+areas to protect best), and who should pay for these measures. In Table 2, the four national
+ﬂood risk management policies are compared in terms of the four criteria.
+5.1 England
+5.1.1 Allocation of ﬂood protection measures
+At the beginning of 2000, the New Labour government signiﬁcantly redeﬁned the ﬂood
+policy in England. They partly redesigned the funding scheme and introduced an inte-
+grated-holistic view of ﬂood risk management that also affected the allocation of ﬂood
+protection schemes (Defra 2005). In the 1990s, the national government introduced the
+Table 2 Comparing results of justice in the national ﬂood risk management policy
+England Austria Germany Netherlands
+Allocation of ﬂood protection measures
+National funding based on
+cost-beneﬁt analysis
+(utilitarianism)
+Exemption in deprived
+areas: structural
+measures for the most
+vulnerable people
+(egalitarianism)
+Equal protection
+standards (mostly
+1:100) without further
+prioritisation
+(egalitarianism)
+Equal protection standards
+(mostly 1:100) without
+further prioritisation
+(egalitarianism)
+Transition from an
+egalitarian model
+towards a more
+utilitarian approach
+(utilitarianism)
+Differentiated
+protection levels in
+dike rings (up to
+1:10.000)
+(utilitarianism)
+Process of allocation
+Decision mainly based on
+experts’ decision based
+on cost-beneﬁt analysis
+(utilitarianism)
+Decision mainly based
+on experts’ decision
+based on cost-beneﬁt
+analysis
+(utilitarianism)
+Decision mainly based on
+experts’ decision based
+on cost-beneﬁt analysis
+(utilitarianism)
+Increasing centralisation
+of decision-making
+(utilitarianism)
+Elected Water boards
+(egalitarianism)
+Share of costs for ﬂood protection
+General state budget with
+individual contributions
+of landowners and
+tenants
+(utilitarianism)
+Exemption with
+communities falling
+under partnership
+funding: state budget
+and fee proportional to
+beneﬁt
+(liberalism)
+General state budget
+with individual
+contributions of
+landowners and
+tenants
+(utilitarianism)
+Local contributions
+based on beneﬁt
+proportionality
+(liberalism)
+Mainly state-ﬁnanced
+ﬂood risk management
+policy with different
+responsibilities for
+different water bodies
+(utilitarianism)
+Change towards more
+national and state
+funding
+(egalitarianism)
+General state budget
+with individual
+contributions of
+landowners and
+tenants
+(utilitarianism)
+Possibility of private
+insurance (state-funded),
+because of no public
+compensation
+(utilitarianism)
+Usually, the state
+voluntarily
+compensates with
+focus on most
+vulnerable people
+(egalitarianism)
+Usually, the state
+voluntarily compensates
+(egalitarianism)
+Flooding in most places
+insurable
+(libertarianism)
+Usually, the state
+voluntarily
+compensates (areas
+within the dike
+rings)
+(egalitarianism)
+134 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 7]]
+priority scoring system, in which the different ﬂood risk management projects were ranked
+based on their beneﬁt-cost ratio. The objective of the priority scoring was to identify if the
+project can be realised with the current national funds (to ensure the realisation of projects
+with highest beneﬁts) and with effective use of public money. In 2010, the national
+government redesigned the allocation of ﬂood protection measures by introducing the
+Outcome of Measures (OM). The OM approach ranks the selection of ﬂood risk man-
+agement schemes based on four elements.
+1 A further change came with the introduction of
+OM4, which focussed on requirements requested by the European Water Framework
+Directive (WFD)—the renaturation of rivers. With the introduction of the coalition gov-
+ernment in 2010, we observed the latest step in the English ﬂood risk management funding
+regime: the introduction of the partnership funding scheme in April 2011. The main reason
+for the introduction was the ﬁscal squeeze and state budget deﬁcit. However, the part-
+nership funding initiative is still in an experimental stage and not fully implemented for the
+whole country.
+5.1.2 Procedural justices: process of allocation
+The ﬂood risk management system in England includes a wide range of different legis-
+lations and stakeholders. Main stakeholders are the Department of Environment, Food and
+Rural Affairs (Defra) and the Environment Agency (EA). Defra is responsible for the
+deﬁnition of the policy directions in England. EA has the operational responsibility, such
+as preliminary ﬂood risk assessment, ﬂood hazards and risk maps, realisation of ﬂood
+defence schemes, ﬂood warning and ﬂoodplain development advice. Further, the Internal
+Drainage Boards (IDB), Water industry and Highway Road Authorities are generally
+responsible for the ordinary water courses or pre-deﬁned areas. Nevertheless, the process
+of allocation is mainly based on experts (strong top-down politics).
+Within the introduction of the partnership funding scheme, also the politics of stake-
+holder engagement in the politics of ﬂood risk management changed. Partnership funding
+encourages local actors to get actively involved in the decision process, which is a central
+objective of the new funding regime to encourage local actors, stakeholders and citizens to
+engage in ﬂood risk management. In particular, a central objective is to encourage gov-
+erning bodies at the local level to take over the responsibility from the national government
+(Thaler and Priest 2014; Begg et al. 2015; Thaler and Levin-Keitel 2016).
+5.1.3 Share of costs for ﬂood protection measures
+Within partnership funding, the government grants the possibility of executing ﬂood
+defence schemes, even if they do not match the necessary requirements for 100 % funding.
+Today, approximately 75 % of the projects are fully funded by the national government;
+the other 25 % need additional funding from other parties. The central government has
+recognised the need for additional ﬁnancial contributions from third parties (i.e., non-state
+actors, EU or county councils). These additional funding sources permit the country to
+realise more ﬂood protection measures even if they do not match the necessary require-
+ments for 100 % funding.
+Partnership funding anticipates a stronger engagement of non-state actors, such as local
+citizens, in the ﬂood risk management discussion (Thaler and Priest 2014; Begg et al. 2015;
+1 OM 1 (economic beneﬁts), OM 2 (households at risk), OM 3 (deprived areas at risk) and OM 4
+(biodiversity).
+Nat Hazards (2016) 83:129–147 135
+123
+
+[[PAGE 8]]
+Thaler and Levin-Keitel 2016). Local actors and stakeholders have gained an important
+role in funding and in organising external contributions to close the ﬁnancial gap for
+implementing structural ﬂood protection. In England, for example, the contribution from
+third parties was approximately £13 million in the period from 2008 to 2011; approxi-
+mately £10 million came from local authorities and approximately £3 million came from
+private actors (Committee on Climate Change 2012).
+5.1.4 Liability for damage
+Flood insurance plays a central role in the English ﬂood risk management system (Lamond
+et al. 2009). In terms of compensation, landowners have no recourse for requesting
+compensation from the national government. The policy has functioned on a voluntary
+insurance system since 1961. The payment rates are based on policy agreements between
+the national government and insurance companies: a gentleman’s agreement (Penning-
+Rowsell et al. 2014). However, the outcome was that the government has sent a false sense
+of security to the society with the consequence of encouraging the exposure within the
+country (Crichton 2002; Tarlock 2012). Furthermore, a central policy makes insurance
+coverage a prerequisite for obtaining a mortgage; this requirement has implications for
+selling the property. The availability of coverage depends on the following:
+• Properties (private householders or businesses) in areas with a design level of 1:75 or
+less are available; the premium depends on the level of risk;
+• Properties (private householders or businesses) in areas with a ﬂood risk of 1:75 or
+more were only covered if the national authorities planned new or improved design
+level within 5 years.
+5.2 Austria
+5.2.1 Allocation of ﬂood protection measures
+The Austrian policy on ﬂood risk management follows the ‘classical’ understanding of
+Central Europe. Overall, the policy aims to provide the same protection level to all citizens
+(1:100 design level). Therefore, the allocation of ﬁnancing for ﬂood protection measures
+also follows this principle; no distinction is made between the actual risk levels (including
+vulnerabilities); only the achievement of the design level is relevant (as in Germany)
+(Krieger 2012). Nevertheless, we observed a change in the ﬂood risk management policy.
+Since the 1990s, the Austrian ﬂood risk management has shifted slightly away from local
+ﬂood protection schemes to a more holistic catchment management ideal (upstream–
+downstream cooperations). The aim is to establish ﬂood storages in the upper part of
+catchments to reduce vulnerability within the whole catchment instead of a local point
+(Thaler 2014; Thaler et al. 2016). In particular, downstream communities, which are more
+vulnerable within the catchment, beneﬁt from this policy shift. This shift includes a ‘safety
+transfer’ from the upstream to the downstream communities and a ‘money transfer’ from
+the downstream to the upstream communities. The arrangements are deﬁned based on a
+voluntary approach, although the interaction is based on formalised (pre-deﬁned) rules,
+such as organisational structure, foundation, contract design, etc., as deﬁned under the
+Austrian Water Act from 1959 (Austrian Government 1959).
+136 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 9]]
+5.2.2 Procedural justices: process of allocation
+In terms of procedural distribution, the inter-local cooperation has been transferring more
+responsibility and possibility to the local authorities, in contrast to the ‘classical’ man-
+agement approach. Inter-local cooperation requires strong engagement of local authorities
+in the ﬂood risk management discussion, such as planning, managing, designing and
+maintaining ﬂood protection measures. Most of the inter-local cooperations demonstrate an
+active role in the planning and the strategic implementation process of ﬂood risk man-
+agement. The outcome is a stronger bottom-up approach. Nevertheless, the key problem
+within the inter-local cooperation approach is the power shift to a steering group that
+manages the cooperation. From the different examples investigated, we found that usually
+large communities are members of the steering group. The consequence is that small
+members often have less power in the overall decision process (Thaler 2014; Thaler et al.
+2016).
+5.2.3 Share of costs for ﬂood protection measures
+The ﬂood risk management funding is based on national income tax as well as nationally
+guaranteed funding towards regional and local authorities. In general, the WLV (Austrian
+Service for Torrent and Avalanche Control) and BWV (Federal Water Engineering
+Administration) hold the responsibility for planning, designing and funding ﬂood protec-
+tion measures in Austria. The WLV is responsible for ﬂood protection on the national
+level, whereas the BWV is an institution on the federal state level under the directive of the
+national level. Accordingly, two institutions at different at different spatial levels have the
+operational responsibility for ﬂood protection. Together, they share the costs of a large
+ﬁnancial contribution to ﬂood protection measures (approximately 80 % of the total costs).
+Section 6 of the law for subsidising water works (‘Wasserbautenfo ¨rderungsgesetz’)
+determines that the costs for ﬂood risk management have to be shared among the national
+WLV (around 40–50 %), state-level BWV (around 30–40 %) and local authorities and
+interests groups (20 % of total costs), such as landowners, public or private companies.
+According to the Austrian water law, partnership funding allows for sharing the local
+contribution among the members of the cooperation (‘Wasserrechtsgesetz’). This includes
+that the inter-local cooperation is paying the necessary partnership funding.
+5.2.4 Liability for damage
+The Austrian water law does not provide a general right for ﬂood protection measures that
+makes it possible for individual householders to claim a right for protection or security.
+The consequences of this are that individual householders may be required to take pre-
+cautionary measures. Nevertheless, the main barriers and challenges of this model are the
+political systems that do not foresee an exclusion of ﬂood protection. The Austrian policy
+decision makers understand ﬂood risk management as a public good, which needs to be
+ﬁnanced by general tax money (Holub and Fuchs 2009). However, if ﬂood alleviation
+structures are built, the maintenance of these structures is the responsibility of local
+authorities. In terms of compensation, the different federal states have different rules
+governing the level of compensation, administration processes and legal exemptions in
+cases of social hardship (Holub and Fuchs 2009). However, the ﬂood losses compensation
+Nat Hazards (2016) 83:129–147 137
+123
+
+[[PAGE 10]]
+scheme is based on public tax money and mainly excluded from property insurance
+policies. In generally, the range of compensation is between 30 and 50 % of the total loss.
+5.3 Germany
+5.3.1 Allocation of ﬂood protection measures
+German ﬂood protection is much entrenched in a design-level orientation. Germany aims
+to provide the same protection level to all citizens (1:100 design level) (Krieger 2012).
+This means that, except for the hinterland, the embankments of most rivers protect against
+a centennial ﬂood. This is a basic principle not only in German regional planning, where
+the term originates, but it also has an impact on the distribution of tax incomes among the
+states (Wierer and Stauske 2005).
+The allocation of ﬁnances for ﬂood protection measures also follows this principle.
+Rather than the actual risk (including vulnerabilities), only the achievement of the design
+level is relevant (Krieger 2012). This undifferentiated allocation of ﬂood risk management
+helps in understanding why, in Germany, a relatively large number of urban development
+projects takes place close to rivers (Hartmann 2011a, b). No differentiation is made
+between riparian and other areas (Kreibich et al. 2011). Nevertheless, the National Flood
+Protection Program from 2014 changes this situation in some respects. As a consequence
+of the ﬂood events in 2013 in Eastern Germany and large parts of South Germany, ﬂood
+protection measures have been prioritised (LAWA 2014). Speciﬁc weak spots in ﬂood
+protection have been identiﬁed, and with a focus on critical national infrastructure, tech-
+nical protection measures have been deﬁned. Another criterion for prioritising measures in
+the National Flood Protection Program is the beneﬁt of a certain measure for a certain area,
+taking into account the size of beneﬁting residential areas, commercial areas and the
+number of inhabitants for an extreme event (LAWA 2014). This resembles the emergence
+of a utilitarian approach to the allocation of ﬂood protection measures in Germany (see also
+Table 2).
+5.3.2 Procedural justices: process of allocation
+For structural ﬂood protection measures such as dikes, dams or retention polders, the
+Federal Water Act ( WHG, Wasserhaushaltsgesetz ) is the most important national law.
+Beyond this, ﬂood protection is in the responsibility of the each Federal State (in total 16
+different legislations). Each state released water laws that regulate the responsibility for
+ﬂood risk management. An exception is the large rivers such as the Rhine, Elbe or Danube,
+which belong to the federation because they are federal waterways [Federal Act for
+Waterways (WaStrG), Section 1].
+Section 40 WHG states that, in general, the owner of a water body is responsible for its
+maintenance (Section 40 WHG). Structural ﬂood protection measures fall under the
+maintenance of water bodies (Section 39 and 67 WHG).
+The states then divide the remaining water bodies into categories, called ‘orders’
+(‘Gewa¨sserordnung’). For example, like most other federal water authorities, North Rhine-
+Westphalia determined that water bodies of the ﬁrst order belong to the state.
+2 Those are
+usually the larger rivers in a state (Section 1 WaStrG and Section 4 of the water law of
+North Rhine-Westphalia). For water bodies of the second order, North Rhine-Westphalia
+2 If they do not belong to the system of federal waterways.
+138 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 11]]
+determined that ownership is linked to the ownership of adjacent land (if the water body is
+not real estate on its own). Other German states also deﬁne third-order water bodies as
+municipal water bodies. So, for most water bodies, some public institution is the respon-
+sible owner. Most states such as Saxony-Anhalt (Hartmann 2011c) or Saxony (Hartmann
+and Albrecht 2014) assign public bodies to be responsible for ﬂood risk management, and
+only North Rhine-Westphalia has a particular system build on sophisticated water boards
+(Johann and Leismann 2014). The National Flood Protection Program has considerable
+impact on the federal organisation of ﬂood protection, in that it aims at a stronger coor-
+dination of ﬂood protection measures from the national level. This is the ﬁrst time that
+ﬂood risk management is attempted to be coordinated at the national level. Ultimately, it
+can be said that there is a tendency towards centralising the decision-making on the
+allocation of ﬂood protection measures in Germany, triggered by recent ﬂood events (see
+also Table 2).
+5.3.3 Share of costs for ﬂood protection measures
+However, usually a public body ﬁnances the majority of the costs of structural measures.
+Section 40 WHG determines that the costs for ﬂood protection measures can be shared
+among landowners and others who proﬁt from the measure in question (Knopp 2010). The
+responsibility for ﬂood risk management is assigned to the state level; hitherto, ﬂood
+protection schemes that exceed the regional scale could not have been implemented due
+the central State funding (BMUB 2016). This led to insufﬁcient realisation of upstream
+retention measures.
+The National Flood Protection Program explicatively addresses the conﬂict of interests
+between upstream and downstream. The program wants to emphasise a principle of soli-
+darity to ﬁnance measures in a catchment. Therefore, the national government set up a
+special fund, where more than 300 million Euro are foreseen for implementing measures.
+This fund is meant to compensate costs and beneﬁts between upstream and downstream.
+5.3.4 Liability for damage
+Individual landowners cannot legally claim a right to a particular ﬂood protection measure
+(not even against the one-in-a-hundred-years ﬂood) (Breuer 2006). Legal claims may be
+made only if a governmental action was not proportional to the damages in question or in
+cases of negligence (Reinhardt 2004). In constitutional terms, landowners take all the
+beneﬁts but also all the risks of landownership (Davy 2006).
+There is no general entitlement to ﬂood risk management, but once a dike has been
+built, water management agencies are liable for the maintenance of that dike (Hartmann
+2009). This has several effects: ﬁrst, water managers have an interest in the maintenance of
+dikes, which is positive for effectively defending against ﬂoods. But another effect is that
+landowners can rely on water management agencies—there is no special need to take
+action to realise precautionary measures.
+In true practice, however, the state often intervenes in the case of disasters (Krieger
+2012). For example, in 2002, a tax reform was postponed to alleviate the burden on ﬂood
+victims (Deutscher Bundestag 2002). However, the state is not formally liable for indi-
+vidual damages (Reinhardt 2004).
+Nat Hazards (2016) 83:129–147 139
+123
+
+[[PAGE 12]]
+5.4 The Netherlands
+5.4.1 Allocation of ﬂood protection measures
+In the Netherlands, water management has always been an essential issue in providing safe
+living conditions for the people (Needham 2007; Kabat et al. 2009; Hartmann and Spit
+2012). A big issue—triggered by the large storm surge in 1953—is, of course, coastal
+ﬂooding. But river ﬂoods also play an important role. In 1993, a major river ﬂood event in
+the Netherlands initiated a paradigm shift in ﬂood risk management away from a purely
+dike-dominated approach to comprehensive ﬂood risk management (Hartmann 2012).
+However, dikes still remain the most important element of the national ﬂood risk man-
+agement (Wesselink et al. 2007).
+Different ﬂood protection levels exist in the Netherlands. Whereas most parts of the
+Randstad—the economic heart of the Netherlands, including the four big cities of Ams-
+terdam, The Hague, Rotterdam and Utrecht—are protected against ﬂood events of
+1:10,000, less densely settled parts of the Netherlands are protected against ﬂooding that
+occurs statistically once in 4000, 2000 or 1250 years (Kabat et al. 2009).
+5.4.2 Procedural justices: process of allocation
+For centuries, water boards have been essential institutions in the Netherlands (van der
+Cammen et al. 2012). These are local authorities that have evolved as bottom-up initiatives
+since the 13th century and are responsible for water control, including the maintenance of
+dikes (van Steen and Pellenbarg 2004). Currently, 26 of those water boards exist based on
+catchment-oriented boundaries (respectively dike rings). So, the administrative boundaries
+follow the water bodies, which is an important feature for all decisions regarding the
+allocation of protection measures. The water boards are composed of democratically
+elected representatives of public and private stakeholders (Heer et al. 2004). Water boards
+are considered to be the oldest democratic institutions in the Netherlands (Huisman 2002).
+The power of representatives depends on the beneﬁt they receive from their activities
+(these beneﬁts cover not only ﬂood risk management but also water quality or quantitative
+water management). The collaboration between public and private entities is a typical way
+of organisation in the Netherlands (‘Poldermodel’) (Schreuder 2001). Besides the water
+boards, the Dutch Directorate-General ‘Rijkswaterstaat’ is the most important and central
+institution for water management in the Netherlands. It also builds on a long-lasting
+tradition, and it centrally governs and initiates all water-related issues with ‘hegemony of
+the state’ (Wiering and Crabbe ´ 2006).
+5.4.3 Share of costs for ﬂood protection measures
+Whereas water boards take care of local and regional ﬂood protection measures, Rijk-
+swaterstaat is responsible for national ﬂood risk management. Rijkswaterstaat uses a
+general budget assigned by the government (via taxes) (Huisman 2002). Water boards
+cannot rely on subsidies from the national budget to pursue their tasks—they need to
+reﬁnance their activities; therefore, water boards can make use of their authority to collect
+their own taxes (Kuks 2002; Rijkswaterstaat 2012).
+As a result, tenants and landowners also pay a contribution to ﬂood protection measures.
+Their contribution is collected in different taxes. The two most important taxes are the
+140 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 13]]
+inhabitant tax and the property tax. Every tenant of a living accommodation pays for ﬂood
+protection in the form of the inhabitant tax. In addition, landowners pay for ﬂood risk
+management via the property tax. The tax is calculated based on the surface area of the
+individual property and the value of the buildings (appraised by the municipalities)
+(Huisman 2002).
+5.4.4 Liability for damage
+One important framing condition with respect to liability for ﬂood damages in the
+Netherlands is that ﬂoods are, in general, not insurable. The whole Dutch system of ﬂood
+risk management builds on the ideology that ﬂooding just may not happen. This means that
+the options for private ﬁnancial preventions are limited. Since 1995, it has been under
+consideration that the liability for ﬂood damages be attributed to water boards and
+landowners (Kuks 2002).
+6 Discussion
+6.1 Allocation of ﬂood protection measures
+The English allocation of ﬂood risk management policy includes a strong vein of utili-
+tarianism—the maximisation of total beneﬁts to society. One of the negative consequences
+of this policy direction is generating a moral hazards within the society. The government
+rewards moral hazards actions, because especially large urban developments (high number
+of exposure) will get secured by structural defence schemes (Tarlock 2012). In general, the
+selection of protection level is mainly based on the results from the beneﬁt-cost ratio
+(Johnson et al. 2007). This ﬁts the Dutch approach of differentiated ﬂood protection levels
+for the Randstad and more rural areas. However, the English partnership funding policy
+indicate a shift towards a liberalist approach, where people with adequate ﬁnancial
+resources are able to realise a protection scheme that beneﬁts only them or a certain area
+(Thaler and Priest 2014). On the other hand, the Austrian clearly follows an egalitarian
+model within the allocation process in ﬂood risk management. Inﬂuentially, the Austrian
+policy tries to redistribute the resources in ﬂood risk management in order to equalise the
+distribution of investments (independently between rural or urban areas). The aim is to
+provide an equal-similar security-approach between the different regions. Equality is
+regarded here in the sense of Rawls idea of ‘equality of outcome’ (opposed to Friedman’s
+‘equality of opportunity’) (Sandel 2007). Although the German system also ﬁts this
+egalitarian approach of equal protection standards, it seems to be in transition from an
+egalitarian model towards a more utilitarian approach, initiated by the National Flood
+Protection Program.
+6.2 Procedural justices: process of allocation
+The public administrations in the selected countries play the central role in ﬂood risk
+management policy (top-down approach). These organisations are the key actors in the
+policy discussion and deﬁnition, where local stakeholders are mainly excluded from the
+discussion and decision-making process. The main reasons for this are their technical
+knowledge, their central role in funding and their permission power. Overall the local
+Nat Hazards (2016) 83:129–147 141
+123
+
+[[PAGE 14]]
+actors and stakeholder strategically depend on the national and regional authorities.
+Nevertheless, some examples with high local capacity and existing of space of engagement
+at regional or national level show a strong leadership at local level and bottom-up concepts
+and ideas. In particular, local knowledge and experiences play a role in the planning and
+implementation of ﬂood risk management strategies. The local involvement in the dis-
+cussion and decision process depends on the local capacity (capacity to act), such as
+resources (knowledge, ﬁnancial, time), interest, social and cultural capital (Kuhlicke et al.
+2011; Thaler and Priest 2014; Thaler and Levin-Keitel 2016). It strongly depends on the
+fact whether localities are able to ensure their interest and needs with national authorities.
+The English ﬂood risk management policy slightly opens the discussion process within
+the introduction of the partnership funding scheme. The implications are that local
+organisations have become more important in the English ﬂood risk management policy. In
+terms of justice, this notion of equality of opportunity of different stakeholders is an
+important indicator for a more libertarian process. Dutch water management is organised
+from the bottom up, and water boards, which are backed by a strong state institution, are
+directly elected. This makes the Dutch system more egalitarian than the other models. In
+Germany, as well as in Austria, allocation decisions are mainly based on cost-beneﬁt
+analysis (utilitarianism). The National Flood Protection Program in Germany leads to an
+increasing centralisation of decision-making, strengthening this utilitarian approach.
+6.2.1 Share of costs for ﬂood protection measures
+The English system in the allocation of ﬂood risk management is mainly based on the
+beneﬁt-cost ratio (strong utilitarianism approach; see also Johnson et al. 2007). However,
+within the introduction of the outcome of measure system, the government begins to give a
+greater weight to deprived areas across the country, where the central government con-
+sidered these areas as more worthy of receiving funds for ﬂood management measures
+(shift towards a more egalitarianism thinking). Consequently, the national support were
+higher for deprived households, where they are least likely to be insured, less able to afford
+local protection measures and least likely to be able to recover from a ﬂood event without
+additional welfare support. Therefore, a key change was that the aspects of justice played
+into the ﬁnal decision process for the ﬁrst time. Furthermore, the government excluded
+private businesses and infrastructure operators in the calculation—they had to manage their
+risk independently. Here, we observed a strong shift from an economic priority towards
+focusing on people. The latest step, within the introduction of the partnership funding,
+focuses on the method developed by the New Labour government but allows ‘third parties’
+(non-state stakeholders or local authorities) to contribute to the ﬂood risk management
+budget (depending on their income). This shift towards a beneﬁciary pays principle system
+clearly ﬁts within the libertarian model (Watkinson et al. 2007). Germany and Austria
+probably lie on the other side of the spectrum, with a mainly state-ﬁnanced ﬂood risk
+management policy, although in many of the federal states, variations of state ﬁnancing
+apply (whereas the National Flood Protection Program centralises the ﬁnancing). It is
+worth mentioning that in Germany and the Netherlands a difference is made between
+national, regional and sometimes local water ways. Different institutions are responsible
+for the measures then. This nested hierarchy points towards a utilitarian system. However,
+as indicated earlier, the German system seems to change at the moment towards a more
+egalitarian scheme, because the National Flood Protection Program clearly states the goal
+of establishing a principle of solidarity among upstream and downstream.
+142 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 15]]
+6.3 Liability for damage
+The English liability for damage system includes a strong focus on private actors (insur-
+ance companies). Private insurance system clearly ﬁts within the utilitarian model (Johnson
+et al. 2007), where the industry is focussing to ensure the greatest return to the share-
+holders. Further, the insurance system cannot ﬁt to the egalitarianism approach, because
+usually the most vulnerable people at high risk are most likely uninsured (Lamond et al.
+2009; Holub and Fuchs 2009; Penning-Rowsell et al. 2014). The interconnection between
+the private insurance system and the public policy of ﬂood risk management can be
+understood as a dialectical interaction, where the private interests of householders and
+businesses—affordable insurance bills and access to mortgage—have become part of the
+general interests. In contrast in Austria where ﬂood insurance has no signiﬁcant inﬂuence
+in ﬂood risk management policy, because the ﬂood losses compensation scheme is based
+on public tax and mainly excluded from property insurance policies (Holub and Fuchs
+2009). Further, the Austrian policy foresees a greater focus on the most social vulnerable
+people within the country. In particular, householders with low income get a higher support
+from the government. This clearly ﬁts within the egalitarianism concept (Rawls 2005;
+Johnson et al. 2007; Sen 2010). Although there is no formal liability of the state for ﬂood
+damages, the state usually steps into help victims of ﬂood events. This ﬁts an egalitarian
+approach. However, in addition to this, ﬂooding in Germany is in almost all places
+insurable (within a scheme that includes also other natural hazards). In the Netherlands, in
+contrast, ﬂooding is non-insurable. Also liability is barely discussed, because ﬂooding is
+considered not an option at all. Most activities focus on technical ﬂood protection measures
+to keep the water out—although this approach is very slowly changing due to the inter-
+national debate on ﬂood risk management. In recent election campaigns for the water
+boards, ﬂooding of dike rings have been an issue. So, this issue is getting some awareness
+in the Netherlands.
+7 Conclusion
+Our study’s results have yielded new insights regarding concepts of justice in the politics
+of ﬂood risk management. In the four compared study sites, different notions of justice are
+applied to ﬂood risk management. This paper compares the concept of justice reﬂected in
+four European countries’ (Austria, Germany, England and the Netherlands) different
+approaches to ﬂood risk management. In general, we can distinguish between an Anglo-
+Saxon justice approach (with a greater focus on Utilitarianism) and a continental European
+understanding of justice (with an emphasis on social justice). The greatest differences
+between England and continental Europe can be observed regarding issues of liability for
+damages and the allocation of ﬂood risk management. Here, the English government
+follows a strongly technical decision-making process. The differences are mainly based on
+a historical development in the social contract between state and society (Johnson et al.
+2007; Adger et al. 2013; Thaler and Priest 2014; Begg et al. 2015). However, each country
+has its own characteristic concept of justice. For example, Austrian ﬂood risk management
+policy focuses on catchment-wide management as an ideal policy instrument to implement
+the European Floods Directive. In contrast, in the Netherlands and in Germany, the
+Government concentrates more on locally based ﬂood risk management strategies (see also
+Hartmann 2011a, b and Thaler 2014). Moreover, the European Union has released a
+Nat Hazards (2016) 83:129–147 143
+123
+
+[[PAGE 16]]
+Directive calling for a more convergent approach all over Europe. This creates tensions
+because of the practical relevance of implementing the directive, notably the European
+Flood Risk Management Plans (Tempels and Hartmann 2014).
+The allocation of ﬂood protection measures differs in the four countries. In terms of
+justice, it is relevant to consider what is protected by the different approaches. Whereas
+ﬂood protection measures in Germany are not an obligatory responsibility of the state, in
+reality, the allocation of ﬂood protection measures follows the ideal of Rawls. No matter
+one’s position in society or in terms of ﬂood risk, everyone is protected equally. This
+concept is also applied in Austria, complemented by a CBA. The main consequence of the
+introduction of partnership funding in England is a strong involvement of local citizens in
+the planning and decision-making practices. On the one hand, we observed a ‘privatisation’
+of responsibility, moving to non-state actors and stakeholders. On the other hand, the
+Austrian and German ﬂood risk management systems include strong top-down decision-
+making practices, where experts from public administration or politicians design new ﬂood
+risk management plans. This relationship is also characterised by a technocratic nature in
+these two countries, since civil servants have the main responsibility and workload in this
+relationship (Perkmann 2007). Meanwhile, the Dutch system incorporates more democratic
+elements (water boards are democratically elected bodies). In general, public administra-
+tion is responsible for ﬂood risk management; therefore, it is part of the executive estate of
+the state. This stands in contrast to the English ﬂood risk management system, where,
+based on the Water Act from 1989 (UK Legislation 1989), private water companies are
+responsible for the urban drainage (Thaler and Priest 2014). An exception is the Dutch
+system of water boards, where water management authorities are composed of represen-
+tatives of municipalities and industry (Hartmann and Spit 2012).
+We conclude that no country has one clear-cut concept of justice; each of them
+incorporates elements from all concepts of justice. There also is not one prevailing
+approach to the allocation of ﬂood protection measures, to the processes for allocation, the
+distribution of costs or the liability issues. This is important not only for the international
+collaboration in common catchments (which is least relevant for England), but also for the
+implementation of supranational legislation, notably European directives, such as EU
+Floods Directive or Water Framework Directive.
+Acknowledgments Open access funding provided by University of Natural Resources and Life Sciences
+Vienna (BOKU). The research leading to these results has partly funding from the JPI-Climate project
+TRANS-ADAPT funded by the Austrian Federal Ministry of Science, Research and Economy (BMWFW),
+the French National Research Agency (ANR), the Ireland Environmental Protection Agency (EPA) and the
+Netherlands Organisation for Scientiﬁc Research (NWO) and Middlesex University, London.
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 Inter-
+national License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution,
+and reproduction in any medium, provided you give appropriate credit to the original author(s) and the
+source, provide a link to the Creative Commons license, and indicate if changes were made.
+References
+Adger WN, Quinn T, Lorenzoni I, Murphy C, Sweeney J (2013) Changing social contracts in climate-
+change adaptation. Nat Climate Change 3:330–333. doi: 10.1038/nclimate1751
+Austrian Government (1959) Wasserrechtsgesetz 1959 (WRG 1959) idF BGBI I Nr 14 2011, Vienna
+Barraque´ B (2014) The common property issue in ﬂood control through land use in France. J Flood Risk
+Manag. doi: 10.1111/jfr3.12092
+144 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 17]]
+Begg C, Walker G, Kuhlicke C (2015) Localism and ﬂood risk management in England: the creation of new
+inequalities. Environ Plan C. doi: 10.1068/c12216
+BMUB (2016) Fragen und Antworten zum Nationalen Hochwasserschutzprogramm. Retrieved from http://
+www.bmub.bund.de/themen/wasser-abfall-boden/binnengewaesser/hochwasser/hochwasserschutzprog
+ramm/. Accessed 08 Mar 2016
+Breuer R (2006) Die neuen wasserrechtlichen Instrumente des Hochwasserschutzgesetzes vom 3.5.2005.
+Nat Recht 28(10):614–623
+Campbell T (2012) Theories of justice. Ashgate, Farnham
+Committee on Climate Change (2012) Climate change—is the UK preparing for ﬂooding and water scar-
+city? Retrieved from www.preventionweb.net. Accessed 26 Nov 2015
+Crichton D (2002) UK and global insurance responses to ﬂood hazard. Water Int 27(1):119–131. doi: 10.
+1080/02508060208686984
+Davy B (2006) Innovationspotentiale fu ¨r Fla¨chenentwicklung in schrumpfenden Sta ¨dten. Retrieved from
+www.iba-stadtumbau.de. Accessed 26 Nov 2015
+Department for Environment (Defra) (2005) Making space for water: taking forward a new government
+strategy for ﬂood and coastal erosion risk management in England. Retrieved from http://archive.defra.
+gov.uk. Accessed 26 Nov 2015
+Deutscher Bundestag (2002) Gesetzentwurf der Fraktionen SPD und BU¨ NDNIS 90/DIE GRU¨ NEN. Entwurf
+eines Gesetzes zur A ¨ nderung steuerrechtlicher Vorschriften und zur Errichtung eines Fonds ‘Auf-
+bauhilfe’ (Flutopfersolidarita¨tsgesetz). Drucksache 14/9894. Berlin: Deutscher Bundestag
+Doorn N (2015) The blind spot in risk ethics: managing natural hazards. Risk Anal 35(3):354–360. doi: 10.
+1111/risa.12293
+Elster J (1992) Local justice: how institutions allocate scarce goods and necessary burdens. Russell Sage
+Foundation, New York
+European Floods Directive (EC) (2007) On the assessment and management of ﬂood risks. 23 October 2007.
+Off J Eur Union, L 288
+Fuchs S (2009) Susceptibility versus resilience to mountain hazards in Austria – paradigms of vulnerability
+revisited. Nat Hazards Earth Syst Sci 9(2):337–352. doi: 10.5194/nhess-9-337-2009
+Fuchs S, Keiler M, Zischg A (2015) A spatiotemporal multi-hazard exposure assessment based on property
+data. Natural Hazards Earth Syst Sci 15(9):2127–2142. doi: 10.5194/nhess-15-2127-2015
+Gardoni P, Murphy C (2009) Capabilities-based approach to measuring the societal impacts of natural and
+man-made hazards in risk analysis. Nat Hazards Rev 10(2):29–37
+Hartmann T (2009) Clumsy ﬂoodplains and the law: towards a responsive land policy for extreme ﬂoods.
+Built Environ 35(4):531–544
+Hartmann T (2011a) Clumsy ﬂoodplains: responsive land policy for extreme ﬂoods. Ashgate, Farnham
+Hartmann T (2011b) Contesting land policies for space for rivers: rational, viable, and clumsy ﬂoodplain
+management. J Flood Risk Manag 4(3):165–175. doi: 10.1111/j.1753-318X.2011.01101.x
+Hartmann T (2011c) Den Flu ¨ssen mehr Raum geben: umsetzungsrestriktionen in Recht und Praxis.
+Raumforsch Raumordn 69(4):257–268
+Hartmann T (2012) Land policy for German rivers: making space for the rivers. In: Warner JF, van Buuren
+A, Edelenbos J (eds) Making space for the river: governance experiences with multifunctional river
+planning in the US and Europe. IWA Publishing, London, pp 121–133
+Hartmann T, Albrecht J (2014) From ﬂood protection to ﬂood risk management: condition-based and
+performance-based regulations in German water law. J Environ Law 26(2):243–268. doi: 10.1093/jel/
+equ015
+Hartmann T, Ju ¨pner R (2013) Der Hochwasserrisikomanagementplan: Herausforderung fu ¨r Wasser-
+wirtschaft und Raumplanung. In Stamm J, Graw K-U (eds) Wasserbaukolloquium 2013. Technischer
+und organisatorischer Hochwasserschutz (pp 183–192). Dresden: Dresdner Wasserbauliche
+Mitteilungen
+Hartmann T, Ju¨pner R (2014) The ﬂood risk management plan—an essential step towards the institution-
+alization of a paradigm shift. Int J Water Gov 2(1):107–118. doi: 10.7564/13-IJWG5
+Hartmann T, Spit T (2012) Managing riverside property: spatial water management in Germany from a
+Dutch perspective. In: Hartmann T, Needham B (eds) Planning by law and property rights reconsid-
+ered. Ashgate, Farnham, pp 97–114
+Hartmann T, Spit T (2015) Implementing the European ﬂood risk management plan. J Environ Plan Manag.
+doi:10.1080/09640568.2015.1012581
+Hayek FA (1991) The road to serfdom. Routledge, London
+Heer JD, Nijwening S, de Vuyst S, Rijswick M, van Smit T, Groenendijk J (2004) Towards integrated water
+legislation in the Netherlands: lessons from other countries. Retrieved from www.uu.nl/faculty/leg.
+Accessed 26 Nov 2015
+Nat Hazards (2016) 83:129–147 145
+123
+
+[[PAGE 18]]
+Holub M, Fuchs S (2009) Mitigating mountain hazards in Austria: legislation, risk transfer, and awareness
+building. Nat Hazards Earth Syst Sci 9(2):523–537. doi: 10.5194/nhess-9-523-2009
+Huisman P (2002) How The Netherlands ﬁnance public water management. European Water Management.
+Retrieved from www.ewa-online.eu. Accessed 26 Nov 2015
+Hunold C, Young IM (1998) Justice, democracy, and hazardous siting. Polit Stud 46(1):82–95. doi: 10.1111/
+1467-9248.00131
+IPCC (2012) Managing the risks of extreme events and disasters to advance climate change adaptation. A
+special report of working groups I and II of the intergovernmental panel on climate change. Cambridge
+University Press, Cambridge
+Johann G, Leismann M (2014) How to realise ﬂood risk management plans efﬁciently in an urban area: the
+Seseke project. J Flood Risk Manag. doi: 10.1111/jfr3.12075
+Johnson CL, Penning-Rowsell E, Parker D (2007) Natural and imposed injustices: the challenges in
+implementing ‘fair’ ﬂood risk management policy in England. Geograph J 173(4):374–390. doi: 10.
+1111/j.1475-4959.2007.00256.x
+Kabat P, Fresco LO, Stive MJF, Veerman CP, van Alphen JSLJ, Parmet BWAH et al (2009) Dutch coasts in
+transition. Nat Geosci 2(7):450–452. doi: 10.1038/ngeo572
+Knopp G-M (2010) Das neue Wasserhaushaltsrecht: WHG-Novelle 2010. Beck, Mu ¨nchen
+Kreibich H, Seifert I, Thieken AH, Lindquist E, Wagner K, Merz B (2011) Recent changes in ﬂood
+preparedness of private households and businesses in Germany. Reg Environ Change 11(1):59–71.
+doi:10.1007/s10113-010-0119-3
+Krieger K (2012) Norms, structures, procedures and variety in risk-based governance: the case of ﬂood
+management in Germany and England. Jerus Papers Regul Gov 2012(47):1–33
+Kuhlicke C, Steinfuehrer A, Begg C, Bianchizza C, Bruendl M, Buchecker M, De Marchi B, Di Masso
+Tarditti M, Hoeppner C, Komac B, Lemkow L, Luther J, McCarthy SS, Pellizzoni L, Renn O, Scolobig
+A, Supramaniam M, Tapsell S, Wachinger G, Walker G, Whittle R, Zorn M, Faulkner H (2011)
+Perspectives on social capacity building for natural hazards: outlining an emerging ﬁeld of research
+and practice in Europe. Environ Policy 14:804–814. doi: 10.1016/j.envsci.2011.05.001
+Kuks S (2002) The evolution of the national water regime in The Netherlands. Retrieved from www.
+euwareness.nl. Accessed 26 Nov 2015
+Lamond JE, Proverbs DG, Hammond FN (2009) Accessibility of ﬂood risk insurance in the UK: confusion,
+competition and complacency. J Risk Res 12(6):825–841. doi: 10.1080/13669870902768614
+LAWA (2014) Zusammenfassende Analyse der Ergebnisse der vom Hochwasser 2013 betroffenen
+Flussgebietsgemeinschaften beschlossen auf der 147. LAWA-VV am 27./28. Ma ¨rz 2014 in Kiel, Kiel
+Legislation UK (1989) Water Act 1989. UK Parliament, London
+Lu F, Ocampo-Raeder C, Crow B (2014) Equitable water governance: future directions in the understanding
+and analysis of water inequities in the global South. Water Int 39(2):129–142. doi: 10.1080/02508060.
+2014/896540
+Mabry L (2009) Case study in social research. In: Alasuutari P, Bickman L, Brannen J (eds) The SAGE
+handbook of social research methods. SAGE, London, pp 214–227
+May L, Morrow P (2012) Procedural justice. The library of essays on justice. Ashgate, Farnham
+Mazzorana B, Levaggi L, Keiler M, Fuchs S (2012) Towards dynamics in ﬂood risk assessment. Nat
+Hazards Earth Syst Sci 12(11):3571–3587. doi: 10.5194/nhess-12-3571-2012
+McKinnon C (2009) Runaway climate change: a justice-based case for precautions. J Soc Philos
+40(2):187–203. doi: 10.1111/j.1467-9833.2009.01446.x
+Mill JS (2010) Utilitarianism, liberty and representative government. Wildside Press, Milton Keynes
+Moellendorf D (2009) Justice and the assignment of the intergenerational costs of climate change. J Soc
+Philos 40(2):204–224. doi: 10.1111/j.1467-9833.2009.01447.x
+Neal MJ, Lukasiewicz A, Syme GJ (2014) Why justice matters in water governance: some ideas for a ‘water
+justice framework’. Water Policy 16:1–18. doi: 10.2166/wp.2014.109
+Needham B (2007) Dutch land use planning: planning and managing land use in the Netherlands, the
+principles and the practice. SDU, The Hague
+North DC (1990) Institutions, institutional change, and economic performance. The political economy of
+institutions and decisions. Cambridge University Press, Cambridge
+Ostrom E (1986) An agenda for the study of institutions. Public Choice 48(1):3–25
+Patrick MJ (2014) The cycles and spirals of justice in water-allocation decision making. Water Int
+39(1):63–80. doi: 10.1080/02508060.2013.863646
+Penning-Rowsell EC, Priest S, Johnson C (2014) The evolution of UK ﬂood insurance: incremental change
+over six decades. Int J Water Resour Dev 89(4):694–713. doi: 10.1080/07900627.2014.903166
+Perkmann M (2007) Construction of new territorial scales: a framework and case study of the EUREGIO
+cross-border region. Reg Stud 41(2):253–266. doi: 10.1080/00343400600990517
+146 Nat Hazards (2016) 83:129–147
+123
+
+[[PAGE 19]]
+Rawls J (2005) A theory of justice. Harvard University Press, Cambridge
+Reinhardt M (2004) Hochwasserschutz zwischen Enteignungsentscha ¨digung und Amtshaftung. Nat Recht
+26(7):420–429
+Rijkswaterstaat (2012) Flood risk and water management in The Netherlands: A 2012 update. Retrieved
+from http://wetten.overheid.nl. Accessed 26 Nov 2015
+Roemer JE (1987) Egalitarianism, responsibility and information. Econ and Philos 3(2):215–244. doi: 10.
+1017/S026626710000290X
+Sandel MJ (2007) Justice: a reader. Oxford University Press, Oxford
+Schreuder Y (2001) The polder model in Dutch economic and environmental planning. Bull Sci Technol
+Soc 21(4):237–245. doi: 10.1177/027046760102100401
+Sen A (2010) The idea of justice. Penguin, London
+Tarlock DA (2012) Takings, water rights, and climate change. 36 Vt. L. Rev. 731. http://scholarship.
+kentlaw.iit.edu/cgi/viewcontent.cgi?article=1675&context=fac_schol. Accessed 02 Mar 2016
+Tempels B, Hartmann T (2014) A co-evolving frontier between land and water: dilemmas of ﬂexibility
+versus robustness in ﬂood risk management. Water Int 39(6):872–883. doi: 10.1080/02508060.2014.
+958797
+Thaler T (2014) Developing partnership approaches for ﬂood risk management: implementation of inter-
+local co-operations in Austria. Water Int 39(7):1018–1029. doi: 10.1080/02508060.2014.992720
+Thaler T, Levin-Keitel M (2016) Multi-level stakeholder engagement in ﬂood risk management – a question
+of roles and power: lessons from England. Environ Sci Policy 55(1):292–301. doi: 10.1016/j.envsci.
+2015.04.007
+Thaler T, Priest S (2014) Partnership funding in ﬂood risk management: new localism debate and policy in
+England. Area 46(4):418–425. doi: 10.1111/area.12135
+Thaler T, Priest S, Fuchs S (2016) Evolving interregional co-operation in ﬂood risk management: distances
+and types of partnership approaches in Austria. Reg Environ Change 16(3):841–853. doi: 10.1007/
+s10113-015-0796-z
+van der Cammen H, Klerk LAD, Dekker G, Witsen PP, O’Loughlin M (2012) The selfmade land: culture
+and evolution of urban and regional planning in The Netherlands. Spectrum, Houten
+van Steen PJ, Pellenbarg PH (2004) Water management challenges in the Netherlands. Tijdschr Econ Soc
+Geogr 95(5):590–598
+Varian HR (1975) Distributive justice, welfare economics, and the theory of fairness. Philos Public Aff
+4(3):223–247
+Walker G (2009) Beyond distribution and proximity: exploring the multiple spatialities of environmental
+justice. Antipode 41(4):614–636. doi: 10.1111/j.1467-8330.2009.00691.x
+Walker G, Burningham K (2011) Flood risk, vulnerability and environmental justice: evidence and eval-
+uation of inequality in a UK context. Crit Soc Policy 31(2):216–240. doi: 10.1177/0261018310396149
+Watkinson AR, Cornell SE, Tinch R (2007) Sustainability of ﬂood risk management responses. In: Thorne
+CR, Evans EP, Penning-Rowsell E (eds) Future ﬂooding and coastal erosion risks. Thomas Telford,
+London, pp 461–474
+Wesselink A, Bijker WE, de Vriend HJ, Krol MS (2007) Dutch dealings with the delta. Nat Culture
+2(2):188–209
+Wierer E, Stauske J-C (2005) Gleichwertige Lebensverha¨ltnisse. Retrieved from http://www.landtag.nrw.de.
+Accessed 26 Nov 2015
+Wiering M, Crabbe´ A (2006) The institutional dynamics of water management in the low countries. In: Arts
+B, Leroy P (eds) Institutional dynamics in environmental governance. Springer, Dordrecht, pp 93–114
+Zwarteveen MZ, Boelens R (2014) Deﬁning, researching and struggling for water justice: some conceptual
+building blocks for research and action. Water Int 39(2):143–158. doi: 10.1080/02508060.2014.891168
+Nat Hazards (2016) 83:129–147 147
+123

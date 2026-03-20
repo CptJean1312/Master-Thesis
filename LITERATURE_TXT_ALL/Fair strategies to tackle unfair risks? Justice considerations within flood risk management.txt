@@ -1,0 +1,1062 @@
+[[PAGE 1]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+Available online 22 December 2021
+2212-4209/© 2021 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Fair strategies to tackle unfair risks? Justice considerations within 
+flood risk management 
+Mathilde de Go ¨er de Herve 
+Risk and Environmental Studies, Karlstad University, 651 88, Karlstad, Sweden 
+Centre for Research on Sustainable Societal Transformation, Karlstad University, Sweden 
+Centre for Societal Risk Research, Karlstad University, Sweden   
+ARTICLE INFO  
+Keywords: 
+Fairness 
+Justice 
+Equity 
+Risk management 
+Floods 
+Flood risk justice 
+ABSTRACT  
+Risk management, justice (i.e. equity, fairness), and sustainability are tightly interconnected. This 
+literature review investigates how and why justice is considered in flood risk management. 20 
+scientific documents published between 2015 and 2020 are analyzed in depth. The results show a 
+distinction between distributive and procedural justice and a complicated judgment of fairness 
+based on different philosophies that vary depending on the country, the type of flood, and the 
+type of strategy studied. Equity is found to be an under-discussed topic compared to its impor -
+tance. Justice in flood risk management matters because (i) the impacts of floods affect different 
+people unevenly, (ii) the interest in equity evinced by public authorities influences societal 
+transformation, and (iii) the perception of fairness matters at both individual and collective 
+levels. This paper analyzes the link between justice considerations and sustainability in relation to 
+four dimensions: social, ecological, spatial, and temporal. Social and spatial issues are the most 
+commonly studied in the literature, while ecological and temporal ones have generally been 
+overlooked, creating a research gap. The results are discussed in terms of their diversities of 
+justice concepts, places of investigation, and types of strategies. Various justice frameworks are 
+used, but since none of them focus specifically on the contribution of flood risk management to 
+sustainability through justice considerations, a flood risk justice framework is developed, which 
+translates into theoretical and practical tools. It is based on the considerations of both humans 
+and non-humans into different spatio-temporal scales.   
+1. Introduction: the imbrication of sustainability, risk management, and justice 
+2015 was a crucial year in the promotion of both sustainable development and risk management with the adoption of several key 
+international agreements such as the Sustainable Development Goals (SDGs), the Paris Agreement, and the Sendai Framework for 
+Disaster Risk Reduction 2015 – 2030. “ There is substantial interest and merit in pursuing integrated approaches to the three post-2015 
+agendas ” ([ 1 ]; p. 27). Kelman, Gaillard, and Mercer [ 2 ] advocated this integrated approach already in 2015. Indeed, sustainability and 
+risk management are closely interrelated issues: successful transformation must go through risk-informed sustainable development 
+[ 3 ], especially in light of climate change [ 4 , 5 ] and its related risks such as floods. In this context, this paper aims at investigating the 
+nexus between risk management and sustainability through justice. To do so, a literature review of justice considerations in flood risk 
+management is conducted and analyzed. 
+Risk is often viewed as a combination of hazards, exposure, and vulnerability [ 4 ], and risk management embraces broad processes 
+E-mail address: mathilde.degoerdeherve@kau.se .  
+Contents lists available at ScienceDirect 
+International Journal of Disaster Risk Reduction 
+journal homepage: www.elsevier.com/locate/ijdrr 
+https://doi.org/10.1016/j.ijdrr.2021.102745 
+Received 24 May 2021; Received in revised form 24 November 2021; Accepted 20 December 2021   
+
+[[PAGE 2]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+2
+defined as “ activities to handle risk ” ([ 6 ]; p. 8). It includes strategies for prevention, preparedness, response, and recovery of disaster 
+events (PPRR model), as well as other actions such as “ addressing the underlying drivers of risk, preventing the creation of new risks, 
+reducing the existing stock of risk and strengthening the resilience of nations and communities ” ([ 3 ]; p. 28). Aven [ 7 ] reviews many 
+principles which show that risk management is a broad concept encompassing a wide range of diverse strategies. In order to narrow the 
+scope, this paper focuses on societal risk management and considers in particular the example of floods. 
+Perspectives on sustainability can inform risk management for it to contribute to the current development of societies. There is no 
+consensus on a unique definition of the concept of sustainability and Walker and Shove [ 8 ] point out the ambivalence of the term. 
+“ There is only one consensus among sustainability researchers – that of the broad variety and different connotations and definitions of 
+sustainable development ” ([ 9 ]; p. 83). According to Martinuzzi and Meyer [ 9 ]; sustainability is characterized by three main com -
+ponents which are suitable for the framing of this study: vertical, horizontal, and intergenerational integrations. Horizontal integration 
+is related to the targets. They are various and often categorized in relation to the three pillars of sustainability (social, environmental, 
+economic), sometimes extended with complementary pillars such as culture or policy. Vertical integration is related to territories since 
+it is important that different places and geographical scales can accommodate joint action towards shared goals. Intergenerational 
+integration is based on the definition of sustainability from the so-called Brundtland report and relates to the importance of long-term 
+perspectives. Building on these three components of sustainability, this article considers the following four aspects relevant for risk 
+management. First, sustainability deals with protecting all living entities, humans and non-humans (social and ecological issues), since 
+the targets of horizontal integration are related to the well-being of people or the well-being of natural entities. Secondly, sustainability 
+handles long-term management of available resources and risks in order to offer future generations the same or better conditions for 
+well-being compared to today (temporal issues). This aspect extends the inter-generational integration to include future non-human 
+entities. Finally, sustainability is a global challenge and thus needs to happen everywhere to be effective (spatial issues). As underlined 
+by vertical integration, the actions taken in one territory to be more sustainable should not prevent the possibility of sustainable 
+development for others. 
+Justice (i.e. equity, fairness) is an essential and necessary element of sustainability [ 10 ]. Fairness is relevant for all the identified 
+issues: social, ecological, temporal, and spatial. Social justice is an important lever of sustainable development since social issues 
+constitute one of the traditional three pillars of sustainability. If the concept of social justice has evolved over time [ 11 ], a common 
+current understanding is that it concerns the equality of opportunities and outcomes in a society [ 12 ], inherently linked to the 
+socio-economic positions of people [ 13 ]. Justice in relation to sustainability can cover many more dimensions than the social ones, 
+such as intergenerational justice [ 14 , 15 ] and multispecies justice [ 16 ]. 
+Justice considerations are also essential to risk management. For instance, social and environmental aspects of justice are 
+intrinsically connected to climate change adaptation and mitigation [ 17 , 18 ], which is a part of risk management. In addition, equity 
+has historically been proven to be an important factor for successful risk management, since “ in more equitable societies, both assets 
+and risks are more evenly distributed ” (p. 118) and decision-making processes more flexible and adaptable [ 19 ]. Justice issues related 
+to risks are increasing concerns locally and internationally, as the rich literature on environmental and climate justice asserts. There is 
+no unique definition of environmental justice [ 20 , 21 ], but simplified descriptions generally refer to environmental injustice as the 
+uneven repartition of environmental risks among different social groups in society. There are also various definitions of climate justice 
+[ 22 ], and to put it simply, climate justice concerns who is responsible for climate change, who suffers the most from climate-related 
+risks, and the ability of the latter to protect themselves. Disaster justice is a new and growing field of research. According to Luka -
+siewicz [ 23 ]; it is at the intersection of environmental, climate, and social justice. It aims at addressing all steps of disaster management 
+through the lens of justice [ 23 ]. 
+Thus, societal risk management, sustainability, and equity are three imbricated components of a complex system. Since risk 
+management contributes to sustainable transformation, and since justice is an essential component of sustainability, this intersection 
+opens up a study area which approaches the contribution of risk management to sustainability through justice considerations. The 
+present paper adds to this field of research. In light of the above description of sustainability, four dimensions are identified as essential 
+when judging the fairness of risk management in order to promote sustainable development: social justice (between groups of people 
+sharing socio-economic-cultural characteristics), ecological justice (between humans and non-humans, as well as between different 
+non-human entities), spatial justice (between different areas), and temporal justice (between current and future living entities). 
+This paper aims to investigate why and how justice is considered within societal risk management research since 2015, identify 
+gaps related to its potential contribution to sustainability as well as discuss the way of framing these issues. It results in the suggestion 
+of a new justice framework specifically applicable to risk management. 
+Floods have been selected as the focus of this investigation because they have been the most frequent natural hazard turning into 
+disasters between 2000 and 2019 [ 24 ], and “ overall, floods have affected more people than any other type of disaster in the 21st 
+century ” ([ 25 ]; p. 1). Fairness has been a concern related to flood risk for several years. For instance, Walker and Burningham [ 26 ] 
+conclude their analysis of flood risk and injustice in the United Kingdom by stating that there is evidence of inequalities in exposure 
+and vulnerability to flood risks and that there are grounds for claims of injustice based on the processes producing patterns of 
+inequality, the decisional system of risk management, and the consequences of climate change. Matczak and Hegger [ 27 ] more 
+recently underline the important emergence of discussions about justice in flood risk governance. Since “ flood risk is inherently unfair ” 
+([ 28 ]; p. 387), there is a need of integrating justice in flood risk management. Sustainability is also a relevant issue when it comes to 
+flood risk management. Floods can be a threat to sustainable development because of their effects on the economy, the environment, 
+and human health [ 29 ]. In addition, Johnson et al. [ 28 ] note that sustainable development policy goals have influenced flood risk 
+management in England since the beginning of the century. The fundamental policy position for flood risk management in England and 
+Wales since 2000 is therefore “ to manage flood risks equitably and in accordance with the principles of ecologically sustainable 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 3]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+3
+development ” (p. 375). All these reasons make floods relevant to study in relation to the theme of this article. 
+The following section presents the literature review methods. Then the findings from the review are detailed in the results part, 
+divided into three fields of investigation: how justice is understood in relation to flood risk management, why it is important to take 
+justice into consideration within flood risk management, and the contribution to sustainability of justice concerns in flood risk 
+management. The last part discusses the various connections between justice and flood risk management and suggests a new way of 
+framing justice in flood risk management in order to consider several dimensions of its contribution to sustainability. 
+2. Methods 
+The results are based on a scoping literature review. Munn et al. [ 30 ] identify six purposes for this kind of review; this paper aims at 
+addressing two of them: to clarify key concepts/definitions in the literature and to identify and analyze knowledge gaps. 
+A pilot literature review was completed previous to the one presented here to determine the most relevant keywords for infor -
+mation retrieval. The final selection of keywords for each umbrella concept (‘risk ’ , ‘management ’ and ‘justice ’ ) is presented in Table 1 . 
+The use of the truncation symbol * allows for searches that consider prefixes and suffixes when relevant. It was mostly used for 
+integrating the plural forms of the words, and also the negation in the ‘justice ’ concept since in/unjust(ices), unjust, unfair(ness) and 
+inequity(ies) could also yield relevant documents. 
+Note that the word proce* can bring results both related to procedure(s) and process(es). During the pilot review, Cris*, Cata -
+stroph* and *rgenc* were considered as possibilities in the concept of ‘risk ’ but their results focused mostly on very short-term de -
+cision-making and individual health risks, which are not the focus of the current paper. They have therefore been excluded. The pilot 
+review showed that justice, fairness, and equity are used as synonyms while ethics is a different concept, thus the search term *ethic* 
+has also been excluded. 
+The steps of the information retrieval process are presented in Table 2 . Since risk studies are a combination of natural and social 
+sciences, the databases Scopus and Web of Science (WoS) have been selected, the first one for its diversity in social and physical 
+sciences (see Ref. [ 31 ]), the second one for its selection of technological and social sciences (see Ref. [ 32 ]). 
+After removing duplicates, the total number of unique documents from the information retrieval is 65. 
+Step #4 is limiting the literature review to documents written since 2015. This choice was made in accordance with the context 
+described in the introduction. Since international guidelines for both sustainability and disaster risk management have been renewed, 
+the recent literature is the most relevant for current practitioners. Note that considering English literature only (step #6) is limiting the 
+results to a certain cultural background and point of view. In the final selection, most documents present case studies in North America 
+(6 in the USA, 2 in Canada) and Europe (7, mostly Western Europe, only one includes countries in Eastern Europe and Russia). The 
+other countries represented are Bangladesh (2), Pakistan (1), and Thailand (1). One other does not focus on any particular 
+geographical area. The selected literature addresses various management strategies such as long-term resilience building, recovery 
+support, or insurance programs. This diversity of geographical areas and types of strategies makes the review summary challenging but 
+allows a broader understanding of the meaning of justice within flood risk management. Another important decision was to select only 
+articles in which the concept of risk and the concept of justice are at the center of the research, and thus have related words in the title 
+Table 1 
+Keywords for information retrieval.  
+Concept Risk Management Justice 
+Keywords Risk* 
+Disaster* 
+Hazard* 
+Management 
+Governance 
+Decision* 
+Choice* 
+Strateg* 
+Proce* 
+Polic* 
+*just* 
+*fair* 
+*equit*  
+Table 2 
+Information retrieval process (15th of September 2021).  
+Step Research stream on Scopus (equivalent is used in WoS) Scopus WoS 
+#1 TITLE ( risk * OR disaster * OR hazard *) 936,960 884,750 
+#2 TITLE (* just * OR * fair * OR * equit *) 298,638 262,216 
+#3 TITLE-ABS-KEY ( management OR governance OR decision * OR choice * OR strateg * OR proce * OR polic *) 23,290,318 12,152,666 
+#4 #1 AND #2 AND #3 3297 2120 
+#5 #4 with date of publication from 2015 to 2020 included only 1268 935 
+#6 #5 with language (English) only 1220 899 
+#7 #6 with type of documents (article OR book chapter OR conference paper OR review OR Book) only 1153 849 
+#8 #7 with subject areas (Social Sciences OR Environmental Sciences OR Decision Sciences OR Earth and Planetary Sciences 
+OR Multidisciplinary) only in Scopus 
+#7 with research areas (Environmental Sciences OR Ecology OR Environmental Studies OR Social Sciences Interdisciplinary 
+OR Urban Studies OR Social Issues OR Geography Physical OR Geography) only in WoS 
+376 105 
+#9 #8 with search within results (flood*) 63 17  
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 4]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+4
+itself (steps #1 and #2). This is based on the results found in the pilot literature review in which these words were considered in all 
+titles, abstracts, and keywords. The number of documents found with these broad research streams was too high for a scoping literature 
+review that aims at assessing the state of a research field without going into detail. Therefore, some references that could have been 
+relevant are not included (e.g. Refs. [ 33 , 34 ]). It is likely that the relevant articles which do not include a synonym of risk or justice in 
+their titles appear as citations within the ones that do, so that their ideas are still indirectly included. 
+Out of the 65 documents, all abstracts were read and 20 documents were selected for full reading based on their relevance for the 
+topic studied in this article. The inclusion criteria stipulated a clear justice dimension, that the main case study was about flooding, and 
+that the analysis could inform just risk management. The main exclusion criteria for the other documents were a focus on another type 
+of risk than floods (or no mention of floods in the abstract), unclear uses of the justice concept, individual decision-making focus, 
+specific tool focus, non-suitable type of document such as short opinion articles, and the term ‘adjust(ment) ’ instead of a synonym of 
+justice in the title. The final selection included 16 articles published in scientific journals (15 were peer-reviewed and one has been 
+reviewed by a panel of editors), one conference paper, and three book chapters. The content was coded following a thematic analysis, 
+which aims to identify themes and/or patterns in the collected qualitative data [ 35 ]. The main themes involved justifications for an 
+interest in justice in relation to flood management and the aspects of justice analyzed, with particular attention to the four dimensions 
+of justice contributing to sustainability: social, ecological, spatial, and temporal. The results are presented in the following section. 
+3. Results 
+The literature review confirms that floods constitute a relevant example when it comes to justice consideration in societal risk 
+management because of the importance of flood-related damage and the expected increase of flood risks. Both of these phenomena can 
+impact sustainability. 
+Gourevitch et al. [ 36 ] explain that “ flooding is the most common, widely experienced, and deadliest natural disaster globally ” (p. 
+1). Floods threaten a huge part of the worldwide population [ 37 ], and concern both the so-called ‘Global North ’ (e.g. Ref. [ 38 – 41 ]) and 
+‘Global South ’ [ 42 – 45 ]. The main reason for this exposure is historical settlements near water accesses [ 38 ]. 
+Floods are a major societal concern [ 46 ] because of their numerous serious effects. The loss of human lives [ 36 , 43 , 45 , 46 ], and the 
+adverse effects on health [ 46 , 47 ] are considerable, including effects on mental health [ 43 ]. Sherwin [ 47 ] insists on health conse -
+quences resulting from pollutant inputs carried by floods. The economic consequences of floods are also important [ 43 – 45 , 47 ], with 
+for instance the direct loss of habitats making families and individuals homeless. Marks et al. [ 43 ] underline that economic damages 
+can also be indirect, for example the incapacity to work and thus earn an income. In addition, floods can have specific consequences 
+that combine economic and human features, since they impact the “ traditional practices, community infrastructures and cultural sites ” 
+(p. 297) of indigenous communities [ 48 ]. All these impacts affect the functionality of both urban and rural systems according to 
+Montgomery and Chakraborty [ 46 ]. 
+The risks of flooding have increased over the last decade [ 44 ], are still increasing [ 49 ], and are expected to increase even more in 
+the future because of both human and natural features [ 36 ]. There are several reasons for this expectation: climate change [ 38,39, 
+50 – 53 ], and its related sea-level rise [ 47 , 48 ]; urbanization and growing population settling in exposed areas [ 39 , 41 , 42 , 50 , 51 ]; eco -
+nomic development [ 39 ]; and changes in land-use patterns [ 38 , 47 ]. 
+Begg [ 37 ] underlines that the management of flood risks is getting more complex over time. Because of the increasing risks, 
+combined economic and financial crises, and technical limitations, Thaler and Hartmann [ 41 ] also point out that flood management is 
+becoming more and more difficult. They argue that choices have to be made, especially about who should be protected and who should 
+not. O ’ Hare and White [ 51 ] agree: “ Given the uncertainty surrounding flood risk [ … ] complete protection against flooding is 
+impossible ” (p. 387). Thaler et al. [ 53 ] highlight that these decisions have to be made rather quickly because of the emergency of 
+climate change adaptation, and that the new context challenges traditional strategies so new ones are implemented and need to be 
+tested and discussed. 
+The necessary choices raise justice issues, purposely or not. Therefore, it is necessary to understand how justice is considered and 
+why it matters within flood risk management, as well as how it contributes to sustainable development in a global context. 
+3.1. How? The difficulty of defining justice within flood risk management 
+Adger et al. [ 38 ] define fairness a bit differently from justice, but the rest of the literature considers them as synonyms together with 
+equity (see e.g. Ref. [ 50 ]). Fairness is different from equality [ 54 ] since a strategy can be unequal and still considered fair. 
+Among the reviewed literature, one study considers justice as a tool for urban planners and risk communication [ 55 ]; otherwise (in) 
+justice is seen as a characteristic of the strategies, the impact of disasters, or the decision-making procedure. Justice considerations are 
+present in different facets of risk management: preventive management and pre-disaster preparedness (e.g. Refs. [ 41 , 42 , 50 , 55 ]), 
+response during the event [ 43 ], and post-disaster recovery (e.g. Refs. [ 38 , 44 ]). 
+The literature uses different justice frameworks as a background of their studies: social justice (e.g. Refs. [ 49 , 52 ]), environmental 
+justice (e.g. Refs. [ 42 , 46 ]), disaster justice (e.g. Ref. [ 43 ]), climate justice (e.g. Refs. [ 53 , 55 ]), and flood disadvantage [ 51 ]. Despite the 
+various theoretical frameworks, the literature reveals two distinct justice areas within flood risk management: procedural and 
+distributive (also sometimes called distributional) justice. Procedural justice is about the process of management choices and who 
+decides which strategy should be implemented, while distributive justice is about the allocation of benefits and burdens of the risk 
+itself and the management strategies. These two areas of justice are highly interrelated and influence each other [ 38 ]. The procedural 
+system impacts the distribution of resources [ 51 , 53 ] with the power structure playing an important role in unjust allocations [ 40 ], both 
+in pre-disaster and in post-disaster strategies [ 45 ]. In addition, Mazepus and van Leeuwen [ 54 ] find that the perception of distributive 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 5]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+5
+and procedural justice are correlated. However, Begg [ 37 ] and O ’ Hare and White [ 51 ] warn that if procedural justice does influence 
+distributive justice, the relationship is complex and not straightforward. Promoting local stakeholders ’ involvement does not neces -
+sarily lead to a fairer distribution. O ’ Hare and White [ 51 ] insist that participatory methods usually include certain privileged social 
+categories of people, the most vulnerable often being excluded because of various limitations (e.g. resources, abilities, inclination to 
+participate), so the unjust distribution continues. Begg [ 37 ] mentions that the inverse relationship of distributive and procedural 
+justice is also necessary: distributive justice is needed to promote and implement procedural justice through the allocation of resources 
+that guarantee the capacity for involvement in the decision-making processes. 
+What is just or unjust is not objective. Values, culture, and context are among the essential parameters that determine the fairness of 
+a strategy. For instance, Gourevitch et al. [ 36 ] develop equity-based utility functions and acknowledge that the weight of the equity 
+parameter should depend on what the society in question considers as fair. 
+Different justice philosophies can be brandished (see examples in Table 3 ) to justify the choices and present them as fair. Each 
+justice approach has a different definition of fairness in relation to both distributive and procedural justice (e.g. Refs. [ 41 , 50 , 53 ]). “ If 
+FRM [Flood Risk Management] policies are to be considered equitable or ‘fair ’ , they will likely exemplify one of the [ … ] philosophies 
+of justice ” ([ 49 ]; p. 2). Different justice philosophies apply in different countries [ 37 , 41 ]. Marks et al. [ 43 ] explain that the applied 
+justice philosophies are related to the historical and cultural context. They underline that most studies of disaster justice focus on 
+Western Europe and thus offer philosophies of justice that fit liberal societies, but are not systematically applicable in other countries 
+such as Thailand. In addition, the diversity of justice philosophies is not only true at the international level, but also in national 
+contexts: “ no country has one clear-cut concept of justice ” ([ 41 ]; p. 144). Within the same country, different approaches can apply 
+depending on the type of flood (coastal, fluvial or pluvial) studied [ 50 ] or the type of strategy (flood defense, property protection, 
+insurance) studied [ 49 ]. There can be disagreement at the local level as well, between different individuals: “ if equity or justice is a 
+concern, equity criteria or norms come into many colors, and decision-makers, invoking different ones, will typically disagree on which 
+solution is most equitable or just ” ([ 44 ]; pp. 152 – 153). 
+Therefore, judging the fairness of a strategy is a complex enterprise according to the literature, and sometimes even impossible 
+[ 42 ]. There can be “ some contradictory elements with regard to social justice and fairness ” ([ 49 ]; p. 5) within a unique strategy. 
+3.1.1. Distributive justice: the allocation of benefits and burdens 
+Floods and their management reveal two important distributive issues: the risk is distributed unevenly, and the outcomes of the 
+management strategies can be as well. Both of them raise justice questions. 
+The literature shows that both the vulnerability and the exposure (which are the main components of a risk together with the 
+hazard as defined in the introduction) vary depending on places and people, which leads to an uneven distribution of risks. Sherwin 
+[ 47 ] gives an example of uneven exposure: people from ‘colored communities ’ in the USA are more likely to be settled near hazardous 
+sites, increasing the risk of toxic leaks during flood events and thus the risk of health problems. This type of uneven exposure is 
+combined with uneven vulnerabilities. For example, suicide rates resulting from environmental risks are higher for the indigenous 
+communities in Vancouver, Canada, than for the rest of the population [ 48 ]. It is important to take into consideration that these 
+inequities in the distribution of risk are expected to grow, for instance since climate change impacts indigenous communities more 
+[ 48 ]. 
+The variable exposures and vulnerabilities are linked to distributive injustices since some people benefit from the risk creation 
+while others have to face it [ 40 ]. Yumagulova [ 48 ] mentions that “ disaster risk management processes rarely identify or quantify 
+which stakeholders bear the risks and which contribute to its construction ” (p. 295). Decision-makers of risk management strategies 
+should include more considerations of the unjust distribution of risks [ 47 ]. Indeed, the second aspect of distributive justice is about the 
+allocation of benefits and burdens from the strategies implemented to handle flood risks. 
+Collins et al. [ 40 ] explain that social elites in Miami, USA, are more likely to live near the coast in order to benefit from coastal 
+amenities such as the view and access to the beaches, and thus also more likely to be exposed to coastal flood risk. This leads to a 
+distributive injustice, since the whole community is financing public flood risk management while the richest segment of the popu -
+lation is the most at risk and the most exposed and thus benefits most from protective measures. 
+Various types of strategies raise distributive issues between different social groups, such as the allocation of flood protection 
+measures, the share of the costs, and the liability of damages [ 41 ]. One type of strategy, such as insurance, reveals several social issues 
+Table 3 
+The identified philosophical approaches to judge the distributive justice of flood risk management strategies in the reviewed literature.  
+Philosophical 
+approaches 
+Simplified definition Examples of references using 
+it 
+Utilitarian The greatest reduction of risk for the society as a whole per unit of resources used [ 36 , 37 , 41 , 49 , 50 , 53 ] 
+Libertarian/Elitist Those who pay get protected [ 37 , 41 , 50 , 53 ] 
+Egalitarian/equality Everyone at risk gets the same level of protection, independent on their socio-economic 
+characteristics 
+[ 37 , 41 , 43 , 44 , 49 , 50 , 53 ] 
+Rawlsian/Prioritarian The ones the most in need or the most vulnerable get the most protection and help [ 39 , 49 , 50 , 53 ] 
+Hierarchical The protection of people is dependent on their position in the national society [ 43 ] 
+Proportional No individual person carries a disproportional burden even if it benefits the society as a whole [ 53 ] 
+Ability-to-pay equity
+a 
+The financial help is inversely proportional to the net income of the households [ 44 ] 
+Vertical equity
+a 
+As ability-to-pay approach but the richest households are excluded [ 44 ]  
+a
+The ability-to-pay and vertical approaches to equity are offered in a study focusing on the housing reconstruction in the aftermath of a disaster [ 44 ]. 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 6]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+6
+related to, for instance, the housing market and property values, the ability to file claims, the affordability of flood insurance, and the 
+impact on the economic situation of individual households [ 52 ]. Distributive justice concerns both short-term strategies (recovery after 
+a disaster) and longer-term ones (micro-credits allocation, skill-trainings) as shown by Swapan et al. [ 45 ]. 
+In addition to social inequities, the literature describes spatial injustices, such as protecting the inner city at the expense of the 
+suburbs [ 43 ] and protecting urban areas that are often situated downstream at the expense of the upstream countryside [ 53 ]. Thaler 
+et al. [ 53 ] show that protecting downstream communities comes with heavy burdens for landowners of upstream lands. 
+Swapan et al. [ 45 ] demonstrate that the distribution of aid by the government and NGOs in pre- and post-disaster management in 
+Khulna City, Bangladesh, depends on various spatial and social aspects (socio-economic variables of households). They note that “ there 
+is a strong positive relationship between the different types of supports received ” (p. 177), so distributive injustice can be reinforced 
+automatically through the implementation of the strategies. 
+The fact that the strategies have uneven effects illustrates a need for trade-offs. A reason for this is the limited budget which for 
+instance forces the government to choose between the quantity and the quality of housing reconstruction after a disaster [ 44 ]. Another 
+reason is rooted in values. Prioritizing the protection of economic or fiscal assets comes at the cost of social or environmental concerns 
+[ 48 ]. When green spaces are erased in favor of factories, flood-related health effects increase because less water is absorbed by the 
+ground and because the risk of contamination by pollutants increases [ 47 ]. Marks et al. [ 43 ] show that the choice of protecting the 
+inner city instead of other parts where lower-income communities live during the 2011 Bangkok flood was afterward justified by the 
+government as the necessity to protect heritage buildings, economic assets, and the international reputation of Thailand. 
+These value choices can explain and be explained by some general societal patterns. Yumagulova [ 48 ] differentiates between 
+specific risk management, meaning planning for specific hazards like floods, and general resilience, which is the overall ability to 
+handle change. The author shows how both influence each other historically. For instance, because of the lack of protection against 
+floods, the indigenous communities of Vancouver, Canada, have accumulated a delay in general economic development, which in turn 
+impairs their capacity to face future floods. In line with this, O ’ Hare and White [ 51 ] call for a more general understanding of the root 
+causes of what they call flood disadvantage, including the general socio-economic policies that are usually treated as independent from 
+flood risk management. 
+As explained earlier, in order to judge the fairness of the distributive outcomes of a strategy, the definition of a justice approach is 
+needed. Several philosophies are encountered in the reviewed literature; an overview is presented in Table 3 . There is no agreement on 
+what would be ‘the fairest way ’ . 
+Some of the studies describe the strategies and find which philosophy applies (e.g. Refs. [ 37 , 41 , 49 , 50 ]), while some others argue 
+for one approach being more appropriate than the others to promote equity, sometimes by clearly stating the preferences (e.g. [ 39 ]) 
+and sometimes by focusing on one approach without explicitly describing it (e.g. Ref. [ 36 ]). 
+There is some fuzziness around the definition of each approach, and some overlap. For instance, the definition of egalitarianism by 
+Thaler and Hartmann [ 41 ] and Thaler et al. [ 53 ] seems closer to the description of the Rawlsian philosophy than the egalitarian one 
+proposed by Kaufmann et al. [ 50 ] and Penning-Rowsell et al. [ 49 ]. Another example: even though Gooley and Bakema [ 42 ] speak 
+about “ equal distribution of different kinds of capacities and entitlements ” (p. 163), they do offer a framework in order to redistribute 
+resources, knowledge, information, and services towards the most vulnerable communities, suggesting then a more Rawlsian approach 
+of justice. However, this Rawlsian approach could indeed bring equal opportunities to face disaster risk for different social groups. This 
+fuzziness can relate to the difference between equal opportunities and equal outcomes which are both parts of the definition of social 
+justice. 
+It is essential to keep in mind that the implementation of a strategy aiming at being fair under one approach can generate unex -
+pected outcomes. For instance, Schilizzi and Azeem [ 44 ] show that the ability-to-pay allocation benefits the richest and poorest 
+households at the expense of the middle-income ones. 
+Marks et al.‘s study [ 43 ] demonstrates that different groups in society can call for different justice approaches, depending on their 
+situation and their needs. However, because of the power structure, some can implement their vision while others can only protest and 
+strive for a change. This introduces the role of procedural justice in flood risk management. 
+3.1.2. Procedural justice: who influences and chooses strategies 
+Various reasons can explain the unjust decision-making processes within flood risk management, from the historical exclusion of 
+some communities [ 48 ] and traditions [ 43 ], to preconceptions about some groups of people such as the poorest [ 47 ]. Methods and 
+tools used in the process such as traditional modeling and mapping techniques can also focus on some groups in the population, 
+excluding others [ 51 ]. 
+However, for strategies such as a resettlement or relocation project to be successful, they need to include the perspective of the 
+community in question from the beginning of the decision process [ 47 ]. There is a need for a shift from a top-down approach to an 
+integrative one, which includes all concerned stakeholders such as those at risk and policy-makers, for instance to shape national 
+insurance programs [ 52 ]. 
+An example of the importance of the participation of people at risk in the decision-making process is given by Yumagulova [ 48 ]: 
+indigenous communities have a different vision of sea-level rise protection measures that considers not only structural protection of 
+settlements but also the effects on biodiversity, the loss of food security, and the impacts on culture. However, a pure bottom-up 
+approach may not be the most adequate solution, because the most vulnerable communities may lack resources required to lead 
+and implement risk management strategies [ 37 , 42 ], or even participate in decision processes [ 51 ]. Gooley and Bakema [ 42 ] promote 
+bottom-linked governance, that mixes top-down and bottom-up approaches, in order to help communities to develop resilience by 
+themselves, by providing complementary resources. This supports the conclusions of Begg ’ s study [ 37 ] pointing out that for local 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 7]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+7
+stakeholders to be able to participate in the process, they need to be supported with resources. Begg [ 37 ] and O ’ Hare and White [ 51 ] 
+note that the participation of local stakeholders can be a pretext for governments to transfer responsibility on their shoulders and make 
+them accept decisions instead of promoting real fairness. 
+Thus, there is no unique solution to promote procedural justice. But how does one judge the fairness of the process? Thaler and 
+Hartmann [ 41 ] name justice philosophies as grounds for distributive justice: utilitarianism (the process is considered as fair if based on 
+expert decision-making), libertarianism (if based on a market system), and egalitarianism (if there is a consensus on general protection 
+standards). However, since procedural justice is often analyzed with regard to how much local communities can influence public 
+policies that concern them, Begg [ 37 ] prefers Hunold and Young ’ s principles [ 56 ]: inclusive processes, involvement of participants at 
+each stage of the decision-making process, elimination of disparities, promotion of joint decision-making between participants, and 
+influence on the final decision. 
+As much as distributive justice, the fairness of decision-making processes is very hard to evaluate according to the literature. Thaler 
+et al.‘s study [ 53 ] gives a good example of this complexity when analyzing the attribution system for compensation of landowners 
+whose properties are designated as retention basins: 
+“ from the perspective of equal treatment of citizens, the Dutch system scores higher on procedural justice. The Austrian 
+compensation scheme allows subjective criteria to influence the level of compensation, which results in distrust of the com -
+munity. However, if we focus on the power aspect of procedural justice and the question of whether citizens have a genuine 
+opportunity to appeal to decisions that affect them, we could say that the Dutch system scores lower on procedural justice ” (pp 
+111 – 112). 
+3.2. Why? Reasons to consider justice in flood risk management 
+The reviewed literature reveals three main reasons to consider justice in flood risk management: floods impact different social 
+groups unevenly, the interest of public authorities in equity influences societal development, and the perception of fairness matters. 
+3.2.1. Flood impacts are uneven 
+An essential characteristic of floods presented earlier is the uneven distribution of risks. The distribution is not only uneven 
+depending on exposure, but one unique flood event also does not impact everyone the same way. “ The experiences of flooding are very 
+uneven – not just in terms of spatial exposure, but also regarding the ability of people to recover or to meaningfully engage in risk 
+agendas ” ([ 51 ]; p. 385). Collins et al. [ 40 ] explain that since researchers have been integrating a vulnerability perspective in their 
+studies on risks, floods revealed themselves as one of the hazards with most differences in the ways they affect different people. The 
+uneven impact of a catastrophic event such as Hurricane Katarina is a good example [ 37 , 40 ]. Some communities (e.g. Ref. [ 48 ]) or 
+places (e.g. Ref. [ 42 ]) have indeed been shown to suffer more than others from floods: floods impact different communities unevenly 
+since some are more exposed and vulnerable [ 46 – 48 , 51 ]. 
+For instance, the consequences of an event are proportionally uneven depending on the pre-disaster situation of the households: 
+owners of mobile homes are more affected than the owners of houses in proportion to the value of their property [ 36 ]. In addition, the 
+most vulnerable communities may not be able to afford insurance and therefore suffer more during the recovery process [ 47 ]. 
+Furthermore, O ’ Hare and White [ 51 ] underline that already disadvantaged people become even more vulnerable after a flood event. 
+Since “ disasters have a cumulative negative effect on the resilience of [ … ] poorer communities ” ([ 42 ]; p. 147), the uneven impacts of 
+floods reinforce themselves over time. O ’ Hare and White [ 51 ] confirm this reinforcement mechanism due to vicious circles of exposure 
+and vulnerability. 
+The uneven consequences may be invisible depending on the level of analysis. Montgomery and Chakraborty [ 46 ] demonstrate that 
+some communities such as ‘the Hispanic community ’ are often taken as a whole while sub-categories of this population are unevenly 
+affected by flood hazards in Miami, USA. O ’ Hare and White [ 51 ] also warn that “ the homogenising of populations at risk neglect the 
+personal, spatial and temporal vagaries of disadvantage and vulnerability ” (p. 393). 
+Disasters often reveal inequalities that are embedded into the global economic and social system [ 42 ], highlighting the important 
+role of historical roots [ 48 ] and general public policies [ 51 ]. Since people have uneven capacities [ 51 ] and some lack the resources and 
+knowledge required to face floods, it is the role of societal actions to protect them [ 42 , 45 ]. To be more effective and efficient, the 
+strategies must take into account the socio-economic characteristics of the population in all the facets of risk management from disaster 
+preparedness to recovery processes [ 39 ]. Penning-Rowsell et al. [ 49 ] conclude their study by stating that “ while we recognize that 
+flooding itself is not ‘fair ’ [ … ] movements in the policy arena that exacerbate rather than minimize unfairness would not seem to be a 
+sustainable or sensible way forward ” (p. 6); and Thaler et al. [ 53 ] conclude theirs by pointing out that “ including social justice in the 
+decision-making process is [ … ] crucial to reduce future conflicts and to be more inclusive in flood risk management policy ” (p. 112). 
+3.2.2. The interest of public authorities in equity influence societal development 
+According to the literature, there is a lack of fairness considerations by both policy-makers and researchers, for instance when it 
+comes to housing reconstruction [ 44 ]. The literature on justice within flood risk management is scarce according to Begg [ 37 ] and 
+Thaler and Hartmann [ 41 ]. Because “ there is hardly any public debate ” ([ 50 ]; p. 332) about it and the policy documents rarely discuss 
+it, the consideration of justice can be stuck in a traditional discourse, as in the Netherlands [ 50 ]. Yet, formal institutions such as public 
+authorities should acknowledge the need for justice, since “ communities can only problem-solve when their leaders recognize that 
+there is a problem ” ([ 47 ]; p. 300), and the legitimacy of public strategies depends on an open and inclusive debate about it in order to 
+strengthen public support [ 50 ]. Thus the interest of public authorities in justice matters, especially since policies and strategies can 
+reinforce injustice [ 51 ] and “ policy initiatives in one area will affect vulnerability in another ” (p. 389). 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 8]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+8
+Justice within flood management is a concern more and more prominent for public authorities. It has started in the USA with the 
+observation of the uneven consequences of Hurricane Katarina in 2005 [ 37 , 40 ] and Sherwin [ 47 ] mentions that the Supreme Court in 
+the USA once stated that the Fifth Amendment should enforce fairness and justice by avoiding “ some people alone to bear public 
+burdens ” (p. 295). In Europe, the institutional frameworks encourage equity considerations [ 37 , 41 , 50 ] through the European Floods 
+Directive. 
+Since institutional reforms of flood risk management are good opportunities to consider justice issues [ 46 , 49 ], public authorities 
+can initiate change. It is complicated to consider all social justice aspects when reforming national risk management policies, as shown 
+by Shively [ 52 ] regarding the USA flood insurance program. However, the study concludes by stating that a reform, even if it has some 
+negative effects on social justice, is better than no reform at all since the lack of solvability would lead to a radical stop of the insurance 
+program. In that case, the negative effects on social justice would be worse. Thus, considerations of equity at the level of public au -
+thorities can change societal development. 
+3.2.3. Perception of fairness matters 
+The perception of fairness is not an objective measure of fairness itself since the perception of distributive justice depends on the 
+comparison of a personal situation to the situation of other people [ 54 ]. Despite this, several studies show that the perception itself 
+matters. Perceptions of justice have repercussions on behaviors [ 38 , 55 ], individual wellbeing [ 38 ], and the legitimacy of governments 
+[ 43 , 54 ]. “ Fairness matters [ … ] because among other things, it affects intentions, behaviors, and the legitimacy of state-society re -
+lations ” ([ 38 ]; p. 1080). 
+Individuals have a higher willingness to supplement public flood management with private complementary measures if they 
+perceive the public management as fair [ 38 ], so their behavior is impacted by their perception of fairness. In addition, “ climate justice 
+perception could affect the willingness to act upon climate action plans and implementation ” ([ 55 ]; p. 47), including risk management. 
+During the recovery process after a flood, both perceived distributive and procedural justice, together with the personal outcome of 
+the aid, impact the perceived legitimacy of the state as seen by individuals [ 54 ]. Marks et al. [ 43 ] show that the lower income 
+communities who were the most negatively impacted by the management of the 2011 flood in Bangkok, Thailand, perceived the 
+strategy aiming at protecting the inner city as unfair and it led to several protests. Thus, perceptions of injustice can incite protest 
+against the power in place. Therefore, “ when preparing policies for how to respond to disasters, governments might not just plan the 
+distribution of aid, but also attend if this distribution satisfies citizens ’ concerns about fairness ” ([ 54 ]; p. 634). 
+3.3. What? The multiple dimensions of justice for sustainability are unevenly addressed 
+The contribution to sustainability is not directly mentioned as a main justification for justice considerations within flood risk 
+management. This section identifies in the literature the different dimensions of justice promoting the contribution of societal risk 
+management to sustainability: social, ecological, spatial, and temporal issues. 
+As the previous results have shown, the literature focuses on social (e.g. Refs. [ 38 , 44 , 52 ]) and spatial (e.g. Refs. [ 36 , 53 ]) con -
+siderations, most of the time together (e.g. Refs. [ 43 , 45 , 46 ]) since specific places often host specific social groups. Spatial concerns 
+have been discussed in the literature for some time [ 51 ]. They are related to the unevenness of flood-related damage in different places, 
+or to the spatial targeting of strategies such as the creation of retention basins (see Ref. [ 53 ]). However, as pointed out in the intro -
+duction, there is also a need for considerations of temporal and ecological issues to address additional facets of sustainability. 
+Yumagulova ’ s work [ 48 ] is based on the concept of “ riskscapes ” , which takes into consideration social and ecological impact 
+repartition in spatial and temporal scales. In this aspect, it is the only document in this review that takes into account the four di -
+mensions essential to promote sustainability. The author writes that “ planning for resilience requires conceiving the social-ecological 
+system as integrated and interdependent over space and time ” (p. 295). 
+In addition, temporal concerns appear in some of the reviewed literature, often mentioned as important to take into consideration 
+in the introduction: justice considerations should include the impacts on future generations [ 41 ], managing floods is both about risks 
+today and about risks in the future [ 49 ], and the spatio-temporal distribution of benefits and burdens is important to take into 
+consideration in order to design effective and socially just strategies [ 39 ]. However, these issues are not elaborated further in the 
+analyses. Most of the time, temporal concerns are reduced to statistical evaluation of the risk, for instance in terms of ‘100-years events ’ 
+[ 36 , 46 , 52 ], or limited to the capacity of communities to continue the recovery and resilience-building processes after the end of the 
+post-disaster aids [ 42 ]. One notable exception is the discussion by O ’ Hare and White [ 51 ] which clearly argues for the importance of 
+spatio-temporal dynamics of flood disadvantage (through exposure, sensitivity, and general vulnerability): future exposure is evolving 
+because of climate change and urbanization for instance. They mention the importance of intergenerational justice and summarize: 
+“ the dynamic nature of flood risk intersects with the dynamic nature of disadvantage ” (p. 392). 
+Another way of considering temporal issues in the reviewed literature is indirect and relates to the promotion of societal reforms as 
+a contribution to long-term risk management: reducing general inequalities [ 52 ], build-back-better after a disaster [ 44 ], micro-credits 
+and training skills for reducing vulnerability [ 45 ]. Swapan et al. [ 45 ] point out that in Bangladesh, the government is more in charge of 
+short-term recovery processes in post-disaster situations, while NGOs facilitate longer-term programs. Finally, Yumagulova [ 48 ] looks 
+at the temporal dimension of uneven distribution of risks in a retrospective way, as well as how this unevenness is linked with pro -
+cedural issues: digging into history to explain the current situation of indigenous communities in Vancouver, Canada. The author 
+argues that colonialism has been the main reason explaining the difference of treatments between the indigenous communities and the 
+‘white ’ settlements concerning flood risks, because of various factors including the spatial repartition of the reserves and the spatial 
+choices of flood protection building. This statement supports societal reforms in order to promote long-term considerations of justice. 
+Ecological concerns are scarcer in the literature. Shively [ 52 ], looking at the impact of climate change on risk perception, mentions 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 9]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+9
+the importance of taking into consideration non-human concerns, and the coupled impacts of floods on both human and non-human 
+systems. Yumagulova [ 48 ] does mention several times the ecological issues resulting from flood management, both because of the 
+traditional and cultural values of nature for indigenous communities, but also its intrinsic value. It is the only study underling this 
+aspect in the reviewed literature. 
+For instance, Gourevitch et al. [ 36 ] study nature restoration undertaken to reduce flood risk. Yet, the equity-weighted utility 
+function they develop focuses on social equity between property owners and the cost of nature restoration in different places. They 
+acknowledge that the benefits of nature restoration are more global and include various ecosystem services that are not taken into 
+account in their mathematical optimization. Taking ecological issues into consideration for themselves and not only for human benefit 
+is a challenge. Pahl-Wostl, Becker, Knieper, and Sendzimir ’ s study [ 57 ]; referred to in Begg [ 37 ]; gives an example in which German 
+decision-makers worked together with an NGO to promote a flood risk management strategy that also benefits nature restoration, 
+suggesting that the consideration for ecological justice is possible. 
+To conclude, if social and spatial issues related to the contribution of justice to sustainability are developed in the literature, there 
+are very few justice concerns about temporal issues and even less about ecological ones within flood risk management. This is 
+identified as a knowledge gap for the contribution of flood risk management to sustainability. 
+4. Discussion 
+4.1. The nexus flood risk management and justice is diverse 
+The literature establishes clear reasons to consider justice in flood risk management. Yet, in spite of an agreement on the impor -
+tance of fairness, the results show diversities in many aspects of justice considerations within flood risk management. These involve 
+justice concepts, places, types of strategies, and frameworks. 
+First of all, an important diversity of justice concepts is represented. This diversity shows the complexity of justice considerations 
+that are relevant for disaster management (as noted by Lukasiewicz [ 23 ] who identifies not less than 19 relevant approaches to justice 
+in their non-exhaustive typology) and is not necessarily problematic per se. Indeed, Johnson et al. [ 28 ] also identify pluralism as one 
+justice philosophy applicable in the context of flood risk management in England. It gathers different justice philosophies together 
+depending on the strategies in order to provide a coherent understanding of fairness within a specific place. The pluralistic vision 
+described by Johnson et al. [ 28 ] includes both distributive and procedural justice. Their approach mixes utilitarian criteria as 
+background for flood risk management in general, equalitarian criteria for procedural justice and Rawlsian criteria for distributive 
+justice. The more recent considerations shown in the results section reveal that the choice of philosophical approach depends on the 
+place, the type of flood, and the type of strategies. Thus, within a unique country, different criteria apply which also suggests a 
+pluralistic vision. The application of the different justice approaches found in this review focus on distributive and procedural justice. 
+The literature on justice often considers also a third branch: justice as recognition. Recognitional justice is the acknowledgment of the 
+differences between groups of people that determine the roots of distributive injustice in a society [ 20 ]. If some documents of the 
+literature review could contribute to the recognition of these differences in the face of flood risks, none discuss the concept and the 
+implications of recognitional justice deeply except for O ’ Hare and White [ 51 ] who argue for the recognition of global inequitable 
+patterns due to broad institutional settings. Further research could investigate more thoroughly the effects of recognitional justice on 
+flood risk management. 
+Secondly, the places investigated in the literature on justice related to flood risks are diverse. The spatial scale varies depending on 
+the studies and goes from international comparisons to local investigations. The place of investigation is an essential variable that 
+influences the understanding of fairness through specific historical and cultural contexts. The literature presents studies about justice 
+in different countries: North America, Europe, and South-East Asia. Even though the meaning of justice varies among these places, it is 
+clear that fairness is a concern wherever flood risk occurs. The inevitability of justice as an aspect of flood risk could be explained by the 
+fact that it is impossible to protect everyone and the fact that floods are not fair per se. However, except for a few cases in South-East 
+Asia, most of the selected literature focuses on the so-called ‘Global North ’ . This could reflect a more general focus of scientific in -
+vestigations of flood governance on those territories since it is in line with what Matczak and Hegger [ 27 ] find in their literature review 
+of flood resilience through governance strategies. Further investigations of justice in flood risk management could look at other regions 
+in the world such as Africa, Central and South America, and Oceania. 
+Thirdly, various types of strategies are studied: the reviewed literature acknowledges a wide range of possible applications of 
+justice concerns within all aspects of flood risk management. It includes preventive strategies as much as recovery ones and insurances. 
+This diversity mirrors the complexity of flood risk management. Matczak and Hegger [ 27 ] explain that recently the focus has moved 
+towards flood resilience with three types of capacities to consider: the capacity to resist, the capacity to absorb and recover, and the 
+capacity to adapt and transform. They note that enhancing these capacities requires various governance strategies and the diversity of 
+flood risk management strategies has been shown to generally contribute to flood resilience. Therefore the results that show a variety 
+of settings in which justice can be considered mean that fairness is important within all types of strategies that increase flood resilience. 
+Further investigations could look at the difference in efficiency in terms of increasing flood resilience between strategies that take into 
+consideration justice and those that do not. 
+These diversities of justice concepts, places, and types of strategies are reflected in the diversity of frameworks used for studying 
+justice within flood risk management. The ones identified in the literature comprise social, environmental, climate, and disaster 
+justice. Each framework brings different perspectives on justice within flood risk management, however none of them are especially 
+focusing on the contribution of risk management to sustainability. Social justice focuses on equity between living people. Environ -
+mental justice, which is the most encountered framework in this review, usually considers targeted populations unwillingly highly 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 10]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+10
+exposed to risks. Climate justice looks at people exposed to climate-related risks while not having contributed much to climate change. 
+Finally, disaster justice involves a more holistic approach at the nexus of justice and disaster management, without specifically 
+considering its contribution to sustainability. Thus there is no agreement on which justice framework to use in societal risk man -
+agement and the diversity of justice considerations within flood risk management reflects the fact that there are different interests at 
+stake and that the normative question of the hierarchy of these interests should be raised, as it has been done in climate adaptation 
+policies for instance (see Ref. [ 58 ]). The following part focuses on putting sustainability at the center of societal interests, and therefore 
+suggests a flood risk justice analytical framework that helps to consider justice dimensions of sustainability in the context of flood risk 
+management. 
+In spite of the diversities of types of justice, places, strategies, and frameworks, the results show that more issues need to be 
+addressed for flood risk management to contribute to sustainability through justice, according to the definition of sustainability 
+discussed in the introduction. Social and spatial issues related to equity are the most studied, while the results reveal a clear gap in the 
+domains of ecological and temporal concerns. The timid acknowledgments in the literature of the importance of temporal concerns 
+could be taken further. For example, Finucane, Acosta, Wicker, and Whipkey [ 59 ] discuss the possibility to look at disaster recovery as 
+a means of long-term reduction of inequities. Establishing different scenarios for the future is an opportunity to take equity into 
+consideration in the long term as suggested by Daniels, Grim, and Morgan [ 60 ] in the case of flood management in Houston, USA. 
+Concerning ecological issues, they do not only relate to direct ecological benefits to humans but also benefits to the natural systems 
+themselves. Dekker and Fantini [ 61 ] show that the interpretation of justice in a case of nature-based solution for flood control needs to 
+take into account the implications for both humans and non-humans. In a more general sense, the climate crisis is increasingly 
+revealing the interconnections between humans and non-humans and thus the importance to consider all aspects of the natural world 
+[ 62 ]. To address the identified gaps, the following section presents a new framework that specifically considers justice within flood risk 
+management in order to contribute to sustainability through its four dimensions: social, ecological, spatial, and temporal. 
+4.2. Flood risk justice: a framework to consider the contribution of flood risk management to sustainability through justice 
+Inspired by the findings about justice understanding within flood risk management, a framework called flood risk justice is pro -
+posed. Flood risk justice takes into consideration both distributive and procedural issues, under the four dimensions (social, ecological, 
+spatial, temporal) identified in the introduction (see Fig. 1 ). 
+Flood risk justice is anchored in existing discussions on different aspects of justice, such as social, ecological, and multispecies 
+justice (left part of Fig. 1 ). Social risk justice is about fairness issues between different groups of people. Ecological risk justice is about 
+fairness between humans and non-human entities, as well as between different non-human entities. Social risk justice and ecological 
+risk justice consider both how the risk affects different human and non-human interests (distributive justice) and how the strategy 
+implemented to handle the risk affects them (both distributive and procedural justice), as shown in the middle of Fig. 1 . These issues 
+related to humans and non-humans are analyzed on different spatio-temporal scales (right part of Fig. 1 ). This analysis reflects the area 
+of spatial risk justice, meaning the fairness between different places, and temporal risk justice which is about fairness between living 
+entities now and in the future. 
+Flood risk justice is a theoretical and practical tool to think justice in its complexity related to flood risk management in a sus -
+tainable development context and to enable risk managers, policy-makers, researchers, and evaluators to discuss the fairness of past, 
+current, and future strategies in the light of various aspects. There is still a need to determine what is fair or not (values and justice 
+philosophies) but it allows for a larger thinking framework, taking into consideration the complexity of the matter and encouraging 
+system thinking concerning the contribution of justice to sustainability. Future investigations of the fairness of specific risk man -
+agement strategies should consider justice as a whole, and include the different dimensions in the frame of sustainability. Otherwise, 
+the effort to remedy one instance of injustice may create or reinforce another one, through, for instance, a risk transfer. A risk transfer 
+can happen between two different times (a risk transferred to the future), two places (a risk transferred spatially), two types of risks 
+(the reduction of one risk increases another), two targets (for example, from some people to others or from humans to non-humans). In 
+all these cases, there can be impacts on sustainability. 
+As pointed out in the results, decisions about strategies have to be made rather urgently because of the increasing unevenness of 
+flood consequences and increasing complexity of the management. The flood risk justice framework can be transcribed into practical 
+Fig. 1. Flood risk justice: an analytical framework mapping out the multidimensionality of justice considerations within flood risk management for its contribution to 
+sustainability. 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 11]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+11
+tools and enables managers to create checklists such as the matrix presented in Table 4 in order to frame the discussions. 
+Table 4 underlines various issues raised by justice considerations within flood risk management. When working on justice while 
+deciding on a strategy, there is a need for trade-offs. Flood risk justice allows a broader understanding and promotes transparency 
+regarding these trade-offs through considerations of several aspects of fairness. 
+These considerations of different facets of justice within flood risk management may be applicable for other societal risks. After 
+screening the literature that was not selected for in-depth reading because it did not focus on floods but that appeared in the infor -
+mation retrieval, the issues related to justice consideration in other types of risks seem to be similar to the ones related to floods: 
+landslides [ 63 ], wildfires [ 64 , 65 ], mountain hazards [ 66 ], air pollutants [ 67 ], industrial hazards [ 68 ], disasters in general [ 69 ]. 
+Further elaborations of the flood risk justice framework could broaden its applicability to other societal risks. 
+5. Conclusion 
+This paper argues that risk management, sustainability, and justice are three imbricated concepts and that risk management can 
+contribute to sustainability through justice. After reviewing the literature to investigate justice considerations within flood risk 
+management, it can be concluded that the understanding of justice is very broad and does not follow any unique definition. It com -
+prises distributive issues of risks and strategies, as well as procedural issues for decision-making. To judge the fairness of flood risk 
+management, the application of justice philosophies and values, themselves context-dependent, is necessary. They vary depending on 
+the place, the type of flood, and the type of strategy analyzed. Despite these difficulties, justice should be a concern for flood risk 
+managers because of three reasons that were identified in the literature: one flood can impact people unevenly, the interest of public 
+authorities in justice influences societal development, and the perception of fairness matters at both the individual and the collective 
+levels. However, sustainability does not appear in the literature as an essential reason to consider justice in flood risk management. It 
+turns out that some aspects of sustainability are tackled anyway: the social and spatial issues. Yet the ecological and temporal di -
+mensions of sustainability remain largely missing in the literature focusing on justice. The discussion of the paper has first detailed 
+several diversities related to justice in flood risk management. Indeed, justice concepts, places of investigation, and types of strategies 
+Table 4 
+Non-exhaustive checklist for flood risk managers based on the flood risk justice framework.  
+Dimensions Distributive justice Procedural justice 
+Benefits Burdens 
+Social Direct: Who is the strategy aiming to protect? 
+What are their socio-economic and cultural 
+characteristics? 
+Indirect: Are there other people who will benefit 
+from the strategy who are not targeted? E.g. 
+people who could afford to protect themselves but 
+get the benefits at a reduced cost? 
+Direct: Who pays for the strategy 
+implementation? 
+Who gets negatively impacted by the 
+strategy? (e.g. whose properties are 
+classified as retention basins)? 
+Indirect: What other policies are not 
+prioritized in the budget? 
+Who is exposed to other risks (e.g. 
+different types of floods) that are not 
+covered by the strategy? 
+Is there a risk transfer? To the same 
+people or others? 
+Are the ones who are directly impacted by the 
+strategy listened to? Do they have the power to 
+influence the decision? How? Do they have the 
+resources to participate in the decision process? Are 
+different types of knowledge from different people 
+considered? 
+Ecological Are the impacts on nature taken into consideration? How (e.g. ecological services)? Will 
+nature benefit or be negatively impacted by the strategy? Today and in the future (e.g. 
+pollution, emissions that contribute to climate change … )? 
+Is nature directly impacted by the strategy because targeted (e.g. nature-based solution, 
+restoration … )? 
+How are the interests of non-human entities taken 
+into consideration during the decision process? Are 
+there any representatives (e.g. NGOs) for their 
+interests? 
+Spatial What places will benefit from the strategy? How? Direct: What places will be negatively 
+impacted by the strategy? 
+What are the characteristics of the 
+living entities there (e.g. people, 
+trees, animals … )? 
+Indirect: What places are excluded 
+from the strategy? 
+Is there a risk transfer from one place 
+to another? 
+Where is the decision process taking place 
+compared to the targeted area of the 
+implementation of the strategy (e.g. are the 
+decision-makers living in an urban area while the 
+strategy aims at protecting countryside territories)? 
+Are the inhabitants of the targeted place included 
+in the decision process? How? 
+Is there a particular competition between these places? Are there historical injustices that 
+affect the relationship between them? 
+Temporal Does the strategy reduce risks only today or also in 
+the future? 
+What are the expected long-term 
+negative externalities from the 
+strategy? 
+Is there a risk transfer from today to 
+the future? 
+How are the interests of future generations and 
+future non-human entities taken into 
+considerations during the decision process? Do we 
+listen to children? Do they have any power to 
+influence the decision? 
+Are there representatives of the interests of future 
+generations not born yet? 
+What are the long-term impacts of the strategy? Mostly positive or negative? On people and 
+on nature? 
+How will the strategy influence the capacity for future strategies to be put in place (e.g. path 
+dependency)?  
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 12]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+12
+considered in the literature are diverse. Even if it is not problematic per se, several ideas for further investigation have been suggested. 
+In addition, this diversity is mirrored by the various frameworks used to analyze justice within flood risk management: social justice, 
+environmental justice, climate justice, and disaster justice. None of them focus on the contribution to sustainability, and therefore a 
+new framework is developed: flood risk justice. It takes into consideration both distributive and procedural justice under the four 
+dimensions that have been identified as essential for sustainability: social, ecological, spatial, and temporal. Further elaboration of the 
+framework could extend its applicability to other societal risks. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Acknowledgements 
+The author would like to thank the four anonymous reviewers and the editor for their helpful comments and advice. 
+Appendix A. Characteristics of the selected documents for the literature review  
+Reference (in 
+alphabetical order) 
+Flood risk management focus Type of justice 
+addressed 
+Main 
+dimensions 
+studied 
+Claimed justice 
+framework 
+Place of the case 
+studies 
+[ 38 ] Individual adaptive behavior following government 
+intervention to manage flood risk 
+Distributive 
+Procedural 
+Social Environmental 
+justice 
+Social justice 
+United 
+Kingdom 
+Ireland 
+[ 37 ] Participative approaches to flood risk management 
+decision-making 
+Procedural 
+Distributive 
+Social 
+Spatial 
+Environmental 
+justice 
+England 
+Germany 
+The 
+Netherlands 
+[ 39 ] Place-based relative social vulnerability to floods Distributive Social 
+Spatial 
+Environmental 
+Justice 
+Canada 
+[ 55 ] Effective risk communication for local support and 
+implementation of strategies 
+Distributive Spatial 
+Social 
+Climate justice USA 
+[ 40 ] Relationship between social vulnerability and flood 
+exposure 
+Distributive Spatial 
+Social 
+Environmental 
+justice 
+USA 
+[ 42 ] Governance framework of disaster risk management Procedural 
+Distributive 
+Social Environmental 
+justice 
+Bangladesh 
+[ 36 ] Spatial targeting of floodplain restoration Distributive Spatial 
+Social 
+– USA 
+[ 50 ] Costs and responsibilities of pre-emptive risk 
+management and post-event recovery for coastal, 
+fluvial and pluvial flood risks 
+Distributive Spatial 
+Social 
+– The 
+Netherlands 
+[ 43 ] Spatially targeted floods, their decision-processes 
+and their influences on protests 
+Distributive 
+Procedural 
+Spatial 
+Social 
+Disaster justice Thailand 
+[ 54 ] Government legitimacy after disaster management Distributive 
+Procedural 
+Social – The 
+Netherlands 
+France 
+Poland 
+Ukraine 
+Russia 
+[ 46 ] Social vulnerability to coastal and inland floods Distributive Social 
+Spatial 
+Environmental 
+justice 
+USA 
+[ 51 ] Flood disadvantages in general Distributive 
+Procedural 
+Recognitional 
+Social 
+Spatial 
+Temporal 
+Flood disadvantage 
+Environmental 
+justice 
+– 
+[ 49 ] Flood defense, property level protection and flood 
+insurance 
+Distributive Social Social justice United 
+Kingdom 
+[ 44 ] Housing reconstruction following flood disaster Distributive Social Disaster justice Pakistan 
+[ 47 ] Impacts of floods and access to recovery depending 
+on income and possible preventive measures 
+Distributive 
+Procedural 
+Social 
+Spatial 
+Environmental 
+justice 
+USA 
+[ 52 ] Flood insurance program Distributive 
+Procedural 
+Social Social justice USA 
+[ 45 ] Spatial targeting of disaster-related support Distributive Social 
+Spatial 
+Temporal 
+Disaster justice Bangladesh 
+[ 41 ] Allocation of flood protection measures, the process 
+of allocation and share of costs for flood protection 
+Distributive 
+Procedural 
+Social 
+Spatial 
+– England 
+The 
+Netherlands 
+( continued on next page ) 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 13]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+13
+( continued ) 
+Reference (in 
+alphabetical order) 
+Flood risk management focus Type of justice 
+addressed 
+Main 
+dimensions 
+studied 
+Claimed justice 
+framework 
+Place of the case 
+studies 
+Germany 
+Austria 
+[ 53 ] Spatial flood risk reduction measures and the 
+compensations of private landowners 
+Distributive 
+Procedural 
+Spatial 
+Social 
+Environmental 
+justice 
+Climate justice 
+Austria 
+The 
+Netherlands 
+[ 48 ] Historic creation of riskscapes and impacts of sea- 
+level rise on Indigenous communities 
+Procedural 
+Distributive 
+Social 
+Spatial 
+Temporal 
+– Canada  
+References 
+[1] UN Climate Change Secretariat, Opportunities and Options for Integrating Climate Change Adaptation with the Sustainable Development Goals and the Sendai 
+Framework for Disaster Risk Reduction 2015-2030, Technical paper, United Nations Climate Change Secretariat, Bonn, Germany, 2017 . 
+[2] I. Kelman, J.C. Gaillard, J. Mercer, Climate change ’ s role in disaster risk reduction ’ s future: beyond vulnerability and resilience, Int. J. Disaster Risk Sci. 6 (1) 
+(2015) 21 – 27, https://doi.org/10.1007/s13753-015-0038-5 . 
+[3] UNDRR, Global Assessment Report on Disaster Risk Reduction 2019, United Nations Office for Disaster Risk Reduction, Geneva, Switzerland, 2019, https://doi. 
+org/10.18356/f4ae4888-en . 
+[4] IPCC, Summary for policymakers, in: C.B. Field, V.R. Barros, D.J. Dokken, K.J. Mach, M.D. Mastrandrea, T.E. Bilir, M. Chatterjee, K.L. Ebi, Y.O. Estrada, R. 
+C. Genova, B. Girma, E.S. Kissel, A.N. Levy, S. MacCracken, P.R. Mastrandrea, L.L. White (Eds.), Climate Change 2014: Impacts, Adaptation, and Vulnerability. 
+Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, 
+Cambridge University Press, Cambridge (United Kingdom) & New York (USA), 2014, pp. 1 – 32 . 
+[5] E. Sainz de Murieta, I. Galarraga, M. Olazabal, How well do climate adaptation policies align with risk-based approaches? An assessment framework for cities, 
+Cities 109 (2021), https://doi.org/10.1016/j.cities.2020.103018 . 
+[6] SRA, Society for Risk Analysis Glossary, 2018. Retrieved from, https://www.sra.org/wp-content/uploads/2020/04/SRA-Glossary-FINAL.pdf . (Accessed 22 May 
+2021). 
+[7] T. Aven, Risk assessment and risk management: review of recent advances on their foundation, Eur. J. Oper. Res. 253 (2016) 1 – 13, https://doi.org/10.1016/j. 
+ejor.2015.12.023 . 
+[8] G. Walker, E. Shove, Ambivalence, sustainability and the governance of socio-technical transitions, J. Environ. Pol. Plann. 9 (3 – 4) (2007) 213 – 225, https://doi. 
+org/10.1080/15239080701622840 . 
+[9] A. Martinuzzi, W. Meyer, Evaluating sustainable development in a global society, in: R. Stockmann, W. Meyer (Eds.), The Future of Evaluation: Global Trends, 
+New Challenges, Shared Perspectives, Palgrave Macmillan, 2016, pp. 81 – 94 . 
+[10] J. Agyeman, Introducing Just Sustainabilities: Policy, Planning, and Practice, Zed Books, London (UK) & New York (USA), 2013 . 
+[11] M. Reisch, Defining social justice in a socially unjust world, Fam. Soc. 83 (4) (2002) 343 – 354, https://doi.org/10.1606/1044-3894.17 . 
+[12] K.M. Weigert, Social justice: historical and theoretical considerations, in: second ed., in: J.D. Wright (Ed.), International Encyclopedia of the Social & Behavioral 
+Sciences, vol. 22, Elsevier, Oxford, 2015, pp. 397 – 400, https://doi.org/10.1016/B978-0-08-097086-8.32081-5 . 
+[13] International Forum for Social Development, in: U. Nations (Ed.), Social Justice in an Open World: the Role of the United Nations, United Nations, Departement 
+of Economic and Social Affairs, Division for Social Policy and Development, New York, 2006, https://doi.org/10.18356/56bfb5b6-en . 
+[14] S. Faets, N. Tamoudi, M. Reder, Fresh perspectives on intergenerational justice: comments on social criticism, temporality, and future narratives, in: Praktische 
+Philosophie in Globaler Perspektive/Practical Philosophy in a Global Perspective (Jahr Buch/Year Book) vol. 2, Verlag Karl Alber, Munich, Germany, 2018, 
+pp. 279 – 304 . 
+[15] R.B. Howarth, Intergenerational justice, in: J.S. Dryzek, R.B. Norgaard, D. Schlosberg (Eds.), The Oxford Handbook of Climate Change and Society, Oxford 
+University Press, Oxford (UK), 2012, https://doi.org/10.1093/oxfordhb/9780199566600.003.0023 . 
+[16] P. Tschakert, D. Schlosberg, D. Celermajer, L. Rickards, C. Winter, M. Thaler, B. Verlie, Multispecies justice: climate-just futures with, for and beyond humans, 
+Wiley Interdiscip. Rev. : Clim. Change 12 (e699) (2021), https://doi.org/10.1002/wcc.699 . 
+[17] ATD Quart Monde, Justice, climat : m ˆeme combat, Revue Quart Monde 3 (250) (2019) 3 – 41. Montreuil (France): 
+´
+Editions Quart Monde . 
+[18] M.E.M. da Silveira, S.B. de S Thiago, L.P.C. Ribeiro, A.C.M. da Silveira, J.B.S.O. de Andrade Guerra, J. Garcia, S.A. da Silva, Environmental justice and climate 
+change adaptation in the context of risk society, in: F. Alves, et al. (Eds.), Theory and Practice of Climate Adaptation, Climate Change Management: Springer 
+Nature, 2018, pp. 251 – 268, https://doi.org/10.1007/978-3-319-72874-2_15 . 
+[19] B. van Bavel, D. Curtis, J. Dijkman, M. Hannaford, M. de Keyzer, E. van Onacker, T. Soens, Disasters and History: the Vulnerability and Resilience of Past 
+Societies, Cambridge University Press, Cambridge (UK), 2020, https://doi.org/10.1017/9781108569743 . 
+[20] D. Schlosberg, Defining Environmental Justice: Theories, Movements, and Nature, Oxford University Press, Oxford (UK), 2007, https://doi.org/10.1093/acprof: 
+oso/9780199286294.001.0001 . 
+[21] G. Walker, Environmental Justice: Concepts, Evidence and Politics, Routledge, Oxford (UK), 2012, https://doi.org/10.4324/9780203610671 . 
+[22] M. Meikle, J. Wilson, T. Jafry, Climate justice: between mammon and mother Earth, Int. J. Clim. Change Strat. Manag. 8 (4) (2016) 488 – 504, https://doi.org/ 
+10.1108/IJCCSM-06-2015-0089 . 
+[23] A. Lukasiewicz, The emerging imperative of disaster justice, in: A. Lukasiewicz, C. Baldwin (Eds.), Natural Hazards and Disaster Justice: Challenges for Australia 
+and its Neighbours, Palgrave Macmillan, Singapore, 2020, pp. 3 – 23, https://doi.org/10.1007/978-981-15-0466-2_1 . 
+[24] CRED, Human Cost of Disasters (2000-2019), CRED Crunch, 2020, p. 61 . 
+[25] CRED, Disasters 2018: Year in Review, CRED Crunch, 2019, p. 54 . 
+[26] G. Walker, K. Burningham, Flood risk, vulnerability and environmental justice: evidence and evaluation of inequality in a UK context, Crit. Soc. Pol. 31 (2) 
+(2011) 216 – 240, https://doi.org/10.1177/0261018310396149 . 
+[27] P. Matczak, D. Hegger, Improving flood resilience through governance strategies: gauging the state of the art, Wiley Interdiscip. Rev. : Water 8 (4) (2021), 
+https://doi.org/10.1002/wat2.1532 . 
+[28] C. Johnson, E. Penning-Rowsell, D. Parker, Natural and imposed injustices: the challenges in implementing ’ fair ’ flood risk management policy in England, 
+Geogr. J. 173 (4) (2007) 374 – 390, https://doi.org/10.1111/j.1475-4959.2007.00256.x . 
+[29] S.J. Priest, C. Suykens, H.F.M.W. van Rijswick, T. Schellenberger, S. Goytia, Z.W. Kundzewicz, S. Homewood, The European Union approach to flood risk 
+management and improving societal resilience: lessons from the implementation of the Floods Directive in six European countries, Ecol. Soc. 21 (4:50) (2016), 
+https://doi.org/10.5751/ES-08913-210450 . 
+[30] Z. Munn, M.D.J. Peters, C. Stern, C. Tufanaru, A. McArthur, E. Aromataris, Systematic review or scoping review? Guidance for authors when choosing between a 
+systematic or scoping review approach, BMC Med. Res. Methodol. 18 (143) (2018), https://doi.org/10.1186/s12874-018-0611-x . 
+M. de Go ¨er de Herve                                                                                                                                                                                                  
+
+[[PAGE 14]]
+International Journal of Disaster Risk Reduction 69 (2022) 102745
+14
+[31] Elsevier, Scopus: Content Coverage Guide, 2020. Retrieved from, https://www.elsevier.com/__data/assets/pdf_file/0007/69451/Scopus_ContentCoverage_ 
+Guide_WEB.pdf [2021-05-22 . 
+[32] Clarivate, Web of Science: List of Subject Classifications for All Databases, 2018. Retrieved from, https://support.clarivate.com/ 
+ScientificandAcademicResearch/s/article/Web-of-Science-List-of-Subject-Classifications-for-All-Databases?language = en_US . (Accessed 22 May 2021). 
+[33] C.T. Emrich, E. Tate, S.E. Larson, Y. Zhou, Measuring social equity in flood recovery funding, Environ. Hazards 19 (3) (2020) 228 – 250, https://doi.org/ 
+10.1080/17477891.2019.1675578 . 
+[34] C.E. Mu ˜noz, E. Tate, Unequal recovery? Federal resource distribution after a midwest flood disaster, Int. J. Environ. Res. Publ. Health 13 (5) (2016), https://doi. 
+org/10.3390/ijerph13050507 . 
+[35] C. Wagner, B.B. Kawulich, M. Garner, Doing Social Research : A Global Context, McGraw-Hill Higher Education, Berkshire (UK), 2012 . 
+[36] J.D. Gourevitch, N.K. Singh, J. Minot, K.B. Raub, D.M. Rizzo, B.C. Wemple, T.H. Ricketts, Spatial targeting of floodplain restoration to equitably mitigate flood 
+risk, Global Environ. Change 61 (2020), https://doi.org/10.1016/j.gloenvcha.2020.102050 . 
+[37] C. Begg, Power, responsibility and justice: a review of local stakeholder participation in European flood risk management, Local Environ. 23 (4) (2018) 
+383 – 397, https://doi.org/10.1080/13549839.2017.1422119 . 
+[38] W.N. Adger, T. Quinn, I. Lorenzoni, C. Murphy, Sharing the pain: perceptions of fairness affect private and public response to hazards, Ann. Assoc. Am. Geogr. 
+106 (5) (2016) 1079 – 1096, https://doi.org/10.1080/24694452.2016.1182005 . 
+[39] L. Chakraborty, H. Rus, D. Henstra, J. Thistlethwaite, D. Scott, A place-based socioeconomic status index: measuring social vulnerability to flood hazards in the 
+context of environmental justice, Int. J. Disaster Risk Reduc. 43 (2020), https://doi.org/10.1016/j.ijdrr.2019.101394 . 
+[40] T.W. Collins, S.E. Grineski, J. Chakraborty, Environmental injustice and flood risk: a conceptual model and case comparison of metropolitan Miami and 
+Houston, USA, Reg. Environ. Change 18 (2018) 311 – 323, https://doi.org/10.1007/s10113-017-1121-9 . 
+[41] T. Thaler, T. Hartmann, Justice and flood risk management: reflecting on different approaches to distribute and allocate flood risk management in Europe, Nat. 
+Hazards 83 (2016) 129 – 147, https://doi.org/10.1007/s11069-016-2305-1 . 
+[42] K. Gooley, M.M. Bakema, The Resiliency Web - a bottom-linked governance model for resilience and environmental justice in the context of disasters, in: B.R.E.- 
+M. Trell, M.M. Bakema, B. van Hoven (Eds.), Governing for Resilience in Vulnerable Places, Routledge, Oxford (UK) & New York (USA), 2017, pp. 146 – 167, 
+https://doi.org/10.4324/9781315103761 . 
+[43] D. Marks, J. Connell, F. Ferrara, Contested notions of disaster justice during the 2011 Bangkok floods: unequal risk, unrest and claims to the city, Asia Pac. 
+Viewp. 61 (1) (2020) 19 – 36, https://doi.org/10.1111/apv.12250 . 
+[44] S. Schilizzi, M.M. Azeem, How to Be fair in prioritizing support in the aftermath of disasters: Pakistan ’ s housing reconstruction challenges following the 2010 
+flood disaster, in: A. Lukasiewicz, C. Baldwin (Eds.), Natural Hazards and Disaster Justice: Challenges for Australia and its Neighbours, Palgrave Macmillan, 
+Singapore, 2020, pp. 151 – 166, https://doi.org/10.1007/978-981-15-0466-2_8 . 
+[45] M.S.H. Swapan, M. Ashikuzzaman, M.S. Iftekhar, Equitable Access to formal disaster management programmes: experience of residents of urban informal 
+settlements in Bangladesh, in: A. Lukasiewicz, C. Baldwin (Eds.), Natural Hazards and Disaster Justice: Challenges for Australia and its Neighbours, Palgrave 
+Macmillan, Singapore, 2020, pp. 169 – 183, https://doi.org/10.1007/978-981-15-0466-2_9 . 
+[46] M.C. Montgomery, J. Chakraborty, Assessing the environmental justice consequences of flood risk: a case study in Miami, Florida, Environ. Res. Lett. 10 (2015), 
+https://doi.org/10.1088/1748-9326/10/9/095010 . 
+[47] B. Sherwin, After the storm: the importance of acknowledging environmental justice in sustainable development and disaster preparedness, Duke Environ. Law 
+Pol. Forum 29 (2) (2019) 273 – 300 . 
+[48] L. Yumagulova, Disrupting the riskscapes of inequities: a case study of planning for resilience in Canada ’ s Metro Vancouver region, Camb. J. Reg. Econ. Soc. 13 
+(2020) 293 – 318, https://doi.org/10.1093/cjres/rsaa029 . 
+[49] E.C. Penning-Rowsell, S.J. Priest, D. King, Flood risk management and ’ fairness ’ : aspirations and reality, in: Paper Presented at the E3S Web of Conferences 7, 
+2016, https://doi.org/10.1051/e3sconf/20160724001 . 
+[50] M. Kaufmann, S.J. Priest, P. Leroy, The undebated issue of justice: silent discourses in Dutch flood risk management, Reg. Environ. Change 18 (2018) 325 – 337, 
+https://doi.org/10.1007/s10113-016-1086-0 . 
+[51] P. O ’ Hare, I. White, Beyond ‘just ’ flood risk management: the potential for — and limits to — alleviating flood disadvantage, Reg. Environ. Change 18 (2) (2018) 
+385 – 396, https://doi.org/10.1007/s10113-017-1216-3 . 
+[52] D. Shively, Flood risk management in the USA: implications of National Flood Insurance Program changes for social justice, Reg. Environ. Change 17 (2017) 
+1663 – 1672, https://doi.org/10.1007/s10113-017-1127-3 . 
+[53] T. Thaler, N. Doorn, T. Hartmann, Justice of compensation for spatial flood risk management – comparing the flexible Austrian and the structured Dutch 
+approach, Erde 151 (2 – 3) (2020) 104 – 115, https://doi.org/10.12854/erde-2020-467 . 
+[54] H. Mazepus, F. van Leeuwen, Fairness matters when responding to disasters: an experimental study of government legitimacy, Governance 33 (2020) 621 – 637, 
+https://doi.org/10.1111/gove.12440 . 
+[55] C. Cheng, J.Y. Tsai, Y.C.E. Yang, R. Esselman, M. Kalcic, X. Xu, P. Mohai, Risk communication and climate justice planning: a case of Michigan ’ s Huron river 
+Watershed, Urban Plann. 2 (4) (2017) 34 – 50, https://doi.org/10.17645/up.v2i4.1045 . 
+[56] C. Hunold, I.M. Young, Justice, democracy, and hazardous siting, Polit. Stud. 46 (1998) 82 – 95, https://doi.org/10.1111/1467-9248.00131 . 
+[57] C. Pahl-Wostl, G. Becker, C. Knieper, J. Sendzimir, How multilevel societal learning processes facilitate transformative change: a comparative case study analysis 
+on flood management, Ecol. Soc. 18 (4:58) (2013), https://doi.org/10.5751/ES-05779-180458 . 
+[58] P.P.J. Driessen, H.F.M.W. Van Rijswick, Normative aspects of climate adaptation policies, Clim. Law 2 (4) (2011) 559 – 581, https://doi.org/10.3233/CL-2011- 
+051 . 
+[59] M.L. Finucane, J. Acosta, A. Wicker, K. Whipkey, Short-term solutions to a long-term challenge: rethinking disaster recovery planning to reduce vulnerabilities 
+and inequities, Int. J. Environ. Res. Publ. Health 17 (482) (2020), https://doi.org/10.3390/ijerph17020482 . 
+[60] K. Daniels, T. Grim, T. Morgan, Using foresight to explore the impacts of flooding in Houston on health, poverty, and equity out to 2050, Futures 131 (2021), 
+https://doi.org/10.1016/j.futures.2021.102754 . 
+[61] I. Dekker, E. Fantini, Nature based solution for flood control in The Netherlands. Socialising water or naturifying society? Res. Ital. Soc. 61 (2) (2020) 253 – 278, 
+https://doi.org/10.1423/97800 . 
+[62] P. Tschakert, More-than-human solidarity and multispecies justice in the climate crisis, Environ. Polit. (2020), https://doi.org/10.1080/ 
+09644016.2020.1853448 . 
+[63] L. Mendes Barbosa, G. Walker, Epistemic injustice, risk mapping and climatic events: analysing epistemic resistance in the context of favela removal in Rio de 
+Janeiro, Geograph. Helv. 75 (2020) 381 – 391, https://doi.org/10.5194/gh-75-381-2020 . 
+[64] M.D.O. Adams, S. Charnley, The environmental justice implications of managing hazardous fuels on federal forest lands, Ann. Assoc. Am. Geogr. 110 (6) (2020) 
+1907 – 1935, https://doi.org/10.1080/24694452.2020.1727307 . 
+[65] S.D. Wong, J.C. Broader, S.A. Shaheen, Can sharing economy platforms increase social equity for vulnerable populations in disaster response and relief? A case 
+study of the 2017 and 2018 California wildfires, Transport. Res. Interdiscip. Perspect. 5 (2020), https://doi.org/10.1016/j.trip.2020.100131 . 
+[66] T. Thaler, A. Zischg, M. Keiler, S. Fuchs, Allocation of risk and benefits — distributional justices in mountain hazard management, Reg. Environ. Change 18 
+(2018) 353 – 365, https://doi.org/10.1007/s10113-017-1229-y . 
+[67] M. Hernandez, T.W. Collins, S.E. Grineski, Immigration, mobility, and environmental injustice: a comparative study of Hispanic people ’ s residential decision- 
+making and exposure to hazardous air pollutants in Greater Houston, Texas, Geoforum 60 (2015) 83 – 94, https://doi.org/10.1016/j.geoforum.2015.01.013 . 
+[68] J. Chakraborty, P. Basu, Linking industrial hazards and social inequalities: environmental injustice in Gujarat, India, Int. J. Environ. Res. Publ. Health 16 (42) 
+(2019), https://doi.org/10.3390/ijerph16010042 . 
+[69] A. Jerolleman, Disaster Recovery through the Lens of Justice, Palgrave Pivot, Cham (Switzerland), 2019, https://doi.org/10.1007/978-3-030-04795-5 . 
+M. de Go ¨er de Herve                                                                                                                                                                                                  

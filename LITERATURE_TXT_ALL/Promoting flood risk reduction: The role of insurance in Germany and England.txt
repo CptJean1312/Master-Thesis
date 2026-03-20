@@ -1,0 +1,1333 @@
+[[PAGE 1]]
+Earth’s Future
+Promoting ﬂood risk reduction: The role of insurance in
+Germany and England
+Swenja Surminski1 and Annegret H. Thieken2
+1GranthamResearchInstituteonClimateChangeandtheEnvironment,LondonSchoolofEconomics,London,UK,
+2InstituteofEarthandEnvironmentalScience,UniversityofPotsdam,Potsdam,Germany
+Abstract Improving society’s ability to prepare for, respond to and recover from ﬂooding requires
+integrated, anticipatory ﬂood risk management (FRM). However, most countries still focus their eﬀorts
+onrespondingtoﬂoodingeventsifandwhentheyoccurratherthanaddressingtheircurrentandfuture
+vulnerabilitytoﬂooding.Floodinsuranceisonemechanismthatcouldpromoteamoreexanteapproach
+to risk by supporting risk reduction activities. This paper uses an adapted version of Easton’s System
+TheorytoinvestigatetheroleofinsuranceforFRMinGermanyandEngland.Weintroduceananticipatory
+FRM framework, which allows ﬂood insurance to be considered as part of a broader policy ﬁeld. We
+analyzeifandhowﬂoodinsurancecancatalyzeachangetowardamoreanticipatoryapproachtoFRM.In
+particularweconsiderinsurance’sroleininﬂuencingﬁvekeycomponentsofanticipatoryFRM:riskknow-
+ledge, prevention through better planning, property-level protection measures, structural protection
+and preparedness (for response). We ﬁnd that in both countries FRM is still a reactive, event-driven
+process, while anticipatory FRM remains underdeveloped. Collaboration between insurers and FRM
+decision-makershasalreadybeensuccessful,forexampleinimprovingriskknowledgeandawareness,
+whileinotherareasinsuranceactsasadisincentiveformoreriskreductionaction.Inbothcountriesthere
+isevidencethatinsurancecanplayasigniﬁcantroleinencouraginganticipatoryFRM,butthisremains
+underutilized.Eﬀectivecollaborationbetweeninsurersandgovernmentshouldnotbeseenasacost,but
+asaninvestmenttosecurefutureinsurabilitythroughﬂoodresilience.
+1. Introduction
+Inmanycountriesaroundtheworldﬂoodingisaverycostlynaturalhazard,causinglossoflife,destroying
+or damaging assets, as well as bringing disruption to communities and business processes. The impact of
+ﬂooding has been increasing in the last few decades and is expected to continue to do so as a result of
+climate change and socioeconomic developments [IPCC, 2012]. This is putting pressure on existing gov-
+ernance strategies to cope with ﬂoods and to mitigate their impacts. Improving society’s ability to pre-
+pare for, respond to and recover from these growing risks requires an integrated ﬂood risk management
+(FRM) approach that addresses risks in an anticipatory way, rather than just responding to ﬂood events.
+This involves considering future risks alongside current trends in order to achieve a more ﬂood resilient
+society[e.g., Merzetal., 2014],andengagingwithabroadrangeofstakeholders.
+However,therealitystilllooksdiﬀerent,withaclearimbalancebetweenreactiveandanticipatorymeasures:
+internationally,just12%offundsfordisastermanagementareputintoriskreductionandpreventionprior
+to a disaster, while 88% go into response during, and repair or reconstruction after an event [Tanneretal.,
+2015].Intimesofrisingrisksandchangingriskproﬁlesthisisahighlyineﬀectiveandcostlyapproach,which
+is unlikely to lead to long-lasting ﬂood resilience. In response, recent policies have strengthenedanticipa-
+tory FRM worldwide, see for exampleEijgenraametal . [2016] for the Netherlands, or the U.S. Army Corps’
+eﬀortscombiningengineeringandotherﬂoodriskmanagementapproaches[ U.S.ArmyCorpsofEngineers ,
+2015].Atthegloballevel,theSendaiFrameworkforDisasterRiskReduction(SFDRR),adoptedbytheUnited
+Nations General Assembly in March 2015, calls for “a culture of prevention” and enhanced risk reduction.
+Priority3oftheSFDRRfocuseson“investingindisasterriskreductionforresilience”,proposingthat“public
+andprivateinvestmentindisasterriskpreventionandreductionthroughstructuralandnon-structuralmea-
+suresareessentialtoenhancetheeconomic,social,healthandculturalresilienceofpersons,communities,
+RESEARCH ARTICLE
+10.1002/2017EF000587
+Special Section:
+AssessingRiskGovernance
+PerformanceintheFaceof
+GlobalChange
+Key Points:
+• Theimportanceofanticipatoryﬂood
+riskmanagement,withanenhanced
+focusonriskreduction,isincreasing,
+butremainsunderdeveloped
+• Floodinsurancecanplayasigniﬁcant
+roleinencouraginganticipatory
+ﬂoodriskmanagement,butthis
+remainsunderutilized
+• Collaborationbetweeninsurersand
+governmentisnotacost,butan
+investmenttosecureinsurability
+throughbetterﬂoodresilience
+Correspondence to:
+S.Surminski,
+s.surminski@lse.ac.uk
+Citation:
+Surminski,S.,andA.H.Thieken(2017),
+Promotingﬂoodriskreduction:Therole
+ofinsuranceinGermanyandEngland,
+Earth’sFuture,5,979–1001,
+doi:10.1002/2017EF000587.
+Received 31 MAR 2017
+Accepted 10 AUG 2017
+Accepted article online 21 AUG 2017
+Published online 5 OCT 2017
+© 2017 The Authors.
+This is an open access article under
+the terms of the Creative Commons
+Attribution License, which permits use,
+distribution and reproduction in any
+medium, provided the original work is
+properly cited.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 979
+
+[[PAGE 2]]
+Earth’s Future 10.1002/2017EF000587
+countries and their assets, as well as the environment” [UNISDR, 2015]. Another example from Europe is
+theEUFloodsDirective[EuropeanCommission,2007],whichhasestablishedaframeworkforEUmember
+statestoassessandmanageﬂoodrisks.
+Whilethesearepromisingsigns,itstillraisesthequestionhowsuchamovetowardananticipatoryandrisk
+reduction-oriented approach to FRM can be achieved. The governance literature suggests that a change
+in the way of handling ﬂood risk is driven by two key aspects: the risk itself, including occurrence of dam-
+aging events, changes in risk levels, vulnerability and awareness, which are often driven by events; and
+societalchangesincludingtheroleofstakeholders,newwaysofcollaboration,adjustingpoliticalinterests,
+andchangingpublicexpectations[ Walkeretal., 2010].
+ThisresonateswithobservedgovernancechangesinFRM;asexploredby RanandNedovic-Budic [2016]or
+Bubecketal .[2016]:ﬂoodeventsinparticulararewidelyunderstoodascatalystsforchangeinﬂoodriskgov-
+ernance[e.g., Johnsonetal., 2005;Kreibichetal., 2011],creatingthenecessarypublicattentionandpolitical
+pressuretoactandpresentingawindowofopportunityforstricterrulesandpolicies.Floodscanalsobethe
+triggerforstrategicadjustments,asseenforexampleinEnglandwiththe“MakingSpaceforWater”strategy
+developedintheaftermathofthe1998,2000andCarlisleﬂoods[ DEFRA,2005; Penning-Rowselletal., 2014].
+However, this often remains a reactive approach, focused on the problems that occurred during a ﬂood
+eventratherthananticipatingfuturerisks.Whilegrowingconcernsaboutclimatechangeandanimproved
+evidence base about future risk trends can lead to a closer alignment of forward looking climate adapta-
+tion andFRM, as shownbyWieringetal .[2017],the impacton riskdiscourseandriskgovernance remains
+somewhatunclear.OneFRMmechanismoftenconsideredasapossiblecatalystforamorestrategic,exante
+approachtoﬂoodriskisinsurance[ AertsandBotzen ,2011,2012; Surminski,2014].
+Atitscore,insuranceisaﬁnancialinstrument,oﬀeringthetransferofariskfromonepartytoanotherforthe
+paymentofapremium.Fromasocioeconomicperspectiveitoﬀersamoreeﬀectivewayofaddressingthe
+costs of disasters than relying on (governmental) postdisaster assistance: if correctly implemented insur-
+ancedeliversriskspreadingoverspaceandtime;risksmoothing;fasterandmoreeﬃcientreconstruction;
+certainty about postdisaster support; and can reduce immediate welfare losses and consumption reduc-
+tions [see for exampleBrainard, 2008;Hallegatte, 2011;VonPeteretal., 2012]. However, truly catastrophic
+risksmayexceedthecapacityoftheindustryandwillalwaysfallbackonthestate—animportantconsid-
+eration, particularly as rising risk levels might render insurance unviable without strong risk management
+andadaptationeﬀorts,thuscreatingmoredemandforgovernmentdisasterassistance[ Ermolievetal., 2000;
+Botzenetal., 2010; Jongmanetal., 2014; Jenkinsetal., 2017]. Concepts such as risk layering [Mechleretal.,
+2014] oﬀer an economic analysis of how diﬀerent tools, including direct assistance with the construction
+of resilient infrastructure and more risk protection, can be combined. This also underlines why insurance
+should not be seen as a stand-alone ﬁnancial risk transfer, but as a tool that interacts with the overall
+risk management while also possibly shaping risk governance and inﬂuencing risk behavior: at least in
+theory, insurance can send signals to encourage more risk reduction and prevention, such as ﬂood proof-
+ing of buildings and property, retroﬁtting of houses, local ﬂood protection measures, and building larger
+scaleﬂoodprotectionschemes[ KunreutherandMichel-Kerjan,2009; AertsandBotzen ,2011; Bräuningeretal.,
+2011; Filatova, 2013;NationalResearchCouncil, 2015 as an example from the US]. Eﬀorts have been made
+to explore this through a system approach, as outlined byErmoliev etal. [2000], who explore the role of
+system approache models and accompanying decision support systems in achieving a more integrated
+useofinsuranceandriskreduction[ Ermolievetal., 2000].Thishasbeenenhancedwithanemergingbody
+of socio-economic analysis that oﬀers insights on how to combine and utilize diﬀerent FRM methods and
+ﬁnancialinstruments,foranoverviewsee Mechleretal .[2016].
+However, there is limited evidence in practice of the success of insurance in encouraging risk reduction
+behavior at the household level [Thieken etal.,2006; Treby etal.,2006; Crichton, 2008;Botzen etal.,2009;
+Lamond etal.,2009; McAneney etal.,2013; Surminski etal.,2015]. There is also the view that insurance, at
+least in its current structure, can be detrimental to overall FRM as it can create disincentives for resilience
+(e.g.,moralhazard)andmayleadtomaladaptation[ O’Hareetal., 2015].However,whatremainsmissingis
+aninvestigationofhowinsurancecaninﬂuencethepolicyﬁeldofFRM.Thisisthefocusofourpaper.
+We explore the potential for insurance to promote a move toward anticipatory FRM by investigating the
+cases of England and Germany. In line with the wider risk governance and political science literature, we
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 980
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Earth’s Future 10.1002/2017EF000587
+understand FRM as a public policy ﬁeld, driven by events, shaped by political decisions, implemented at
+diﬀerent scales and requiring input from various stakeholders. In this we follow the theoretical analysis
+frameworkdevelopedby Bubecketal .[2015],whoappliedthepoliticalscienceconceptofEaston’sSystem
+TheorytoexplainthediﬀerencesinFRMapproachesacrosscountries.WeunderlaythiswithadynamicFRM
+cycle model to help identify drivers of ﬂood resilience (Section 2). This enables us to assess how FRM and
+riskreductioneﬀortsareusedinbothcountries(Section3),andtoanalyzeifandhowﬂoodinsurancecan
+support a more anticipatory approach to FRM (Section 4). We conclude with a discussion of our ﬁndings
+andareﬂectiononexistingbarriers.
+2. Analytical Approach and Underlying Concepts
+Forananalysisofhowsocietyreactsandadaptstodamagingﬂoodevents,itisimportanttoﬁrsttakestock
+ofgovernancemechanismsingeneralandexplorehowtheycanpromoteorhinderchangeinFRM.Inthis
+respect,Walkeretal .[2010]recognizethatanew,decentralizedformofgovernancehasemergedsincethe
+1980sand1990s,focusedonintegratingabroaderrangeofactorsintodecision-making,governanceacross
+multiple levels (i.e., local, national and regional), and a greater focus on “steering” rather than “coercing”
+by national governments in order to develop and deliver government policy. These factors are similar to
+developments in risk governance more speciﬁcally, which is deﬁned byRenn [2008] to mean an activity
+that “… requires consideration of the legal, institutional, social and economic contexts in which a risk is
+evaluated,andinvolvementoftheactorsandstakeholderswhorepresentthem.Riskgovernancelooksat
+the complex web of actors, rules, conventions, processes and mechanisms concerned with how relevant
+risk information is collected, analysed and communicated, and how management decisions are taken”
+[Renn,2008].
+Inthiscontext,insuranceisoftenconsideredintheﬂoodriskgovernanceliteratureasaninﬂuencingfactor
+onhowacountryconsidersriskownershipandresponsibilityforaction[seeforexample Walkeretal., 2010],
+with clear diﬀerences visible between driving solidarity-based governance approaches with a statutory
+responsibilityonthestatetoprotectitscitizenagainstﬂoods,andmoreindividualisticrisk-basedconcepts
+[KaufmannandWiering , 2017]. What remains under-investigated is the question how ﬂood insurance can
+supportashifttoamoreanticipatoryandrisk-reductionfocusedapproachtoFRM.Themovetowardantic-
+ipatory FRM is underpinned by a growing understanding of ﬂooding as a multifaceted phenomenon that
+requiresabroadarrayofsuchmeasures,whichextendbeyondthedomainofengineers,hydrologistsand
+statisticians [Merz etal., 2014]. It requires a much broader deﬁnition of risk, exploring the hazard along-
+sidevulnerabilityandexposure,reﬂectingonfuturetrendsandbehavioralaspects,andassessingthisinan
+integratedway[ Bubecketal., 2016].
+Against this background, the FRM cycle oﬀers a valuable framework for exploring ﬂood insurance as an
+element of FRM, and its contribution to create a more ﬂood resilient society. The process often starts
+after a severe event [see e.g.,Thieken etal., 2007; DKKV, 2015;Kienzler etal., 2015] with (1) a response
+(emergency) phase during the event, in which immediate measures are undertaken, with the priority to
+limit adverse eﬀects and the duration of the impacting event; (2) in the consecutive recovery phase, the
+aﬀectedsocietystartstorepairdamageaftertheeventandtoregainthesameorasimilarstandardofliving
+as before the damaging event happened; and (3) in the risk reduction phase, measures are planned and
+implementedthataimatreducingandminimizingrisks.Otherauthors[e.g., Kienholzetal., 2004]stressthat
+the implementation of risk reduction has to be based on risk analysis that includes a systematic analysis
+of possible hazard and future risk scenarios and a transparent risk assessment, arguing for a fourth phase
+in the cycle. This points toward a more anticipatory FRM approach, where the process is not triggered by
+an event, but starts with a systematic risk identiﬁcation and analysis, which is followed by an assessment
+and prioritization of risks as well as decisions on eﬃcient and eﬀective prevention measures and their
+implementation [Thieken etal., 2014]. Monitoring and regularly updated analyses and assessments are
+furtherelements[ Thiekenetal., 2016].
+OuranalysisusessuchaFRMcyclewithfourphases(Figure1):Dependingonthegovernanceissues
+discussedabove,thebalancebetweeneachofthesephasesdiﬀersbetweencountries[ Kaufmannand
+Wiering,2017].ForouranalysisofEnglandandGermanyweconductastock-takeofFRMandconsiderin
+particularhowﬂoodinsuranceisusedinbothcountriesin(Section3),coveringthe“preparednessfor
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 981
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+Earth’s Future 10.1002/2017EF000587
+recovery”aspectintheFRMcycle(Figure1).WetheninvestigateinSection4howﬂoodinsurance
+inﬂuencestheotherkeycomponentsofﬂoodriskanalysisandreductionhighlightedintheFRMcycle,as
+proposedby Heggeretal .[2014]:
+• Riskknowledge(modelsandmaps) :data,informationandknowledgesharingtoidentifyareasatriskand
+toquantifyrisk(catastrophemodeling);capacity-buildingthroughknowledgetransferandeducational
+elements.
+• Prevention(spatialplanningtopreventdevelopmentsinﬂood-proneareas): incentivesorregulationsfor
+preventingurbandevelopmentinﬂoodriskareas;economicincentivestodiscourageconstructionin
+theﬂoodplain;exclusionofnewbuild;retreatofstructuresfromhigh-riskareas.
+• Mitigation(property-levelprotectionmeasure[PLPMs]) :promotionandimplementationofresilient
+reinstatement;explicitincentivestructuresforriskreductionwithinﬂoodinsurance,suchasrisk-based
+pricingordeductibles,wherepremiumsreﬂectrisksuchaschargingaccordingtolocalﬂoodrisklevels;
+compulsoryriskreduction,suchasrequiringpolicyholderstotakecertainpreventivemeasuresasa
+conditionforcover.
+• Protection(structuralmeasuresharddefenses/engineering) :incentivesforpublicFRMpolicy;conditions
+forcompulsoryriskreduction;promotionofFRMstrategies.
+• Preparednessforresponse :riskawareness-raisinginitiatives,suchastheprovisionofrisk-relevant
+informationandknowledgetransfertoeducatepolicyholdersandthepublicaboutpreventiveand
+preparatorymeasures;capacitiestowarnandalertincaseofaneventandtostipulaterisk-adequate
+behavior.
+Inordertounderstandhowﬂoodinsurancecanstrengthentheseelementsofriskreduction,wecombine
+theFRMcyclewithanadaptedversionofEaston’sSystemTheorytocreateananticipatoryFRMframework
+(seeFigure2).ThisallowsustoconsiderFRMasapolicyﬁeldthatcanencompassavarietyofdiﬀerenttools,
+instrumentsandapproaches,inﬂuencedanddrivenbyactorsandevents.Thisisconsistentwiththebroader
+trendsingovernanceliteratureandalignswiththesystem-basedviewproposedby RanandNedovic-Budic
+[2016].Accordingto Bubecketal .[2015],thismodelcanalsohelptoexplaindiﬀerencesinFRMacrosscoun-
+tries, as the inputs and their variations, as well as diﬀerences in political process, demand and support
+mechanismsallshapetheoutputs.
+Figure 1. FRMcycle(withriskreductionstrategiesthatareanalyzedinthispaper
+inbrackets).
+At the core of our model is the FRM
+cycle, which is dependent on a range
+of inputs and how they are addressed
+in the political system. We recognize
+that FRM does have diﬀerent aims
+and objectives, which depend on a
+rangeoffactors,includingpreferences,
+traditions,thefrequency,intensityand
+naturalvariabilityofﬂoodevents,soci-
+etal objectives and norms [Greenetal.,
+2013]. We add to this the “demand”
+function of property owners, who
+requireprotectionoftheirassets.
+We use this simpliﬁed framework to analyze the role of insurance both as an instrument and as an agent,
+supporting a more anticipatory and risk–reduction oriented FRM eﬀort beyond its core risk transfer func-
+tionbyinﬂuencingpublicpolicyaswellasindividualriskbehavior.Intheframeworkweincludeinsurance
+mechanismsasa“potentialsupporter.”Theterm“potential”indicatesthatinsurancemayinfactalsoactas
+adisincentivetoFRMandresilience,asoutlined,forexample,by O’Hareetal.[2015].
+To analyze the inﬂuence of ﬂood insurance on the FRM systems in England and Germany we conducted
+literature searches and expert interviews. For the literature review we considered relevant peer reviewed
+papers, using searches through Web of Science and Google Scholar; and relevant nonacademic reports
+and publications, including government and industry publications. During this process ﬂood-related
+parliamentarian inquiries, as outlined byOttoetal . [2016], policy documents and laws as well as publicly
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 982
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+Earth’s Future 10.1002/2017EF000587
+Figure 2. AnticipatoryFRMasapolicyﬁeldwithboundaryconditions,actors,potentialoutputsandfeedbackmechanisms.Adaptedfrom Bubecketal .[2015].
+accessible ﬂood hazard and risk maps were systematically reviewed to capture developments in FRM for
+both countries. This enabled us to develop the historic overview of practices and developments summa-
+rized in Figures3 and 4. The evidence base was veriﬁed and enhanced through extensive stakeholder
+discussions conducted during the research phase. In Germany, this material was accompanied by ﬁve
+expertinterviewswithrepresentativesfromthe(re-)insurancesectorandconsumerprotection.Inaddition,
+written surveys among property insurers in Germany as well as among the supreme water authorities of
+all 16 federal states were conducted. The latter was followed by a stakeholder workshop in June 2014 to
+deriverecommendationsonhowtoimprovetheFRMsysteminGermanyinthewakeofthe2013ﬂood[see
+DKKV,2015].Finally,theroleofﬂood-proneresidentshasbeeninvestigatedbycomputer-aidedtelephone
+interviews(CATI)thathavebeenconductedinGermanyaftersevereﬂoodeventssince2002[ Thiekenetal.,
+2005, 2016]. In England, the analysis included eight interviews with representatives of the insurance and
+reinsuranceindustry,andfourinterviewswithﬂoodinsuranceexpertsfromthepublicsector,includingthe
+DepartmentforEnvironment,FoodandRuralAﬀairs(DEFRA)andtheEnvironmentAgency,whoprovided
+access to survey data and assessments of ﬂood resilience in England. Further investigations took place as
+part of the ENHANCE analysis of the new Flood Re pool, which included stakeholder workshops in 2014,
+2015, and 2016 [Surminski and Eldridge, 2015;Surminski, 2014;Surminski etal., 2015; Jenkins etal., 2017;
+Cricketal., 2016;SurminskiandHudson ,2017].
+3. Recent Developments in FRM in Both Countries
+England and Germany share a number of characteristics when it comes to FRM. For both, ﬂooding tends
+tobethecostliestnaturalhazardinﬁnancialterms(forGermany,see Kreibichetal .[2014];forEngland,see
+Amos[2016]),andinbothﬂoodinsuranceisprovidedbyprivateinsurancecompanies.Perhapsmostimpor-
+tantly,bothhaveamended(orattemptedtoamend)theirapproachestoFRMandﬂoodinsuranceoverthe
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 983
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+Earth’s Future 10.1002/2017EF000587
+Figure 3. RecentﬂoodimpactsanddevelopmentsofﬂoodpoliciesandﬂoodinsuranceinEngland.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 984
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+Earth’s Future 10.1002/2017EF000587
+Figure 4. RecentﬂoodimpactsanddevelopmentsofﬂoodpoliciesandﬂoodinsuranceinGermany.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 985
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Earth’s Future 10.1002/2017EF000587
+lasttwodecadesinresponsetoanumberofsevereandwidespreadﬂoodevents.Theseeﬀortsarereﬂected
+inFigure3(forEngland)andFigure4(forGermany),whichshowtheresultsofourstock-takeofFRMdevel-
+opmentsandoﬀersomeinsightsintokeyaspectsoftheFRMpolicyﬁeld(Figure2)foreachcountryandtheir
+development over time. Firstly, the ﬁgures give an overview of major ﬂooding events (including insured
+losseswhereinformationisavailable),andshowhowFRMhasdevelopedinEnglandandGermanyrespec-
+tivelywithregardstoﬂoodinsurance.InlinewiththescopeofourinvestigationwelistkeyelementsofFRM
+governancethatareeitherdirectlyorindirectlyrelevantfortheprovisionofﬂoodinsurance.Thisincludes
+theadoptionoflegislation,guidelines,strategiesorprograms,andchangesinthecontextofriskreduction
+eﬀorts,forexampleinriskawarenessbuildingortheprovisionofﬂoodriskdata.Majoradjustmentsinthe
+provisionofﬂoodinsurancearealsohighlightedinthelowerpanels;however,onlytheﬂoodinsurancepen-
+etration rates of Germany are mapped because penetration rates in England have traditionally been very
+high(morethan90%)andstable[ HMGovernment,2016].
+3.1. England
+In England, the roles of the government and the insurance industry have always been clearly delineated;
+thegovernmentisresponsibleforFRMasawholeandtheinsuranceindustryremainsthesoleproviderof
+ﬂoodinsurance.Thisdynamichascontinuedtodate.However,sincetheearly1960s,thegovernmentand
+the insurance industry have entered into a series of informal agreements in order to ensure ﬂood insur-
+anceremainsavailableandaﬀordable[ Surminski,2016].Theseagreementsarereﬂectedinthe“Guidelines,
+StrategiesandProgrammes”lineofFigure3.Theﬁrstofthesewasthe1961Gentleman’sAgreement,which
+wasadoptedafterseriousﬂoodinginthe1950sthatrevealedthatonlyasmallnumberofhomeshadﬂood
+insurance[Penning-Rowselletal., 2014].UndertheGentleman’sAgreement,theinsuranceindustryagreed
+to make ﬂood insurance available as part of standard home cover. This was replaced by a series of State-
+ment(s)ofPrinciplesfollowingmajorﬂoodingacrossthecountryin2000,whichresultedinapproximately
+£1bn damage and ﬂooded 10,000 properties [EnvironmentAgency, 2010] and led to concerns about esca-
+latingrisktrends.Insurerswerelaudedfortheirpositiveresponsetotheﬂoods,whichsomecommentators
+havesuggestedgavetheindustrytheconﬁdencetodemandgreaterinvestmentinﬂoodmitigationbythe
+government[forexample,see Penning-Rowselletal., 2014].
+The Statement of Principles went through a series of iterations (2002, 2005 and 2008), each with varying
+commitments by the insurance industry to provide ﬂood insurance coverage and by the government to
+continueinvestinginﬂoodprotection.Forexample,the2008StatementofPrinciples,whichwasadopted
+in the wake of extremely costly ﬂooding in 2007 which caused insured losses of £3.2 billion [Environment
+Agency, 2010], provided for coverage up to a 1 in 75 annual probability of ﬂooding and excluded prop-
+erties built after 1 January 2009. The Statement(s) of Principles are generally considered to have been a
+success in improving ﬂood insurance penetration, which has been estimated to be as high as 95% [HM
+Government, 2016] and 98% [Flood Re, 2016]. This is in large part due to the bundling of ﬂood insurance
+withbuildingandcontentsinsurance[ HMGovernment,2016].However,theStatement(s)ofPrincipleswere
+alwaysconsideredatemporarysolution,promptingnegotiationstoﬁndareplacementin2010.Afteryears
+ofnegotiationitwasreplacedbythelaunchofFloodRe,whichcommencedoperationinApril2016andis
+intendedtobeatransitionalmeasuretomakewayforrisk-reﬂectivepricingby2039.Asareinsurancepool
+thatisownedandoperatedbytheinsuranceindustry,FloodRegivesinsurerstheoptionofreinsuringhigh
+riskpoliciesatasubsidizedprice;thelogicbeingthatinsurerscanpassontheirowncostsavingstopolicy-
+holdersandthusmakingﬂoodinsurancemoreaﬀordableevenforthoseathighrisk[ Surminski,2016].The
+subsidized price is calculated by reference to the council tax banding of the relevant property; the higher
+the banding, the more expensive it is to reinsure. The subsidy is collected via a levy (approx. £10.50 per
+policy)imposedoninsurers,whichisbeingpassedontopolicyholders.85%oftheinsurancemarkethave
+agreed to participate in the pool [InsuranceNewslink, 2016] and since inception, Flood Re is estimated to
+haveunderwritten53,000policies(basedonFloodReinformationinOctober2016).However,itisunclear
+howFloodRewillachievethetransitiontorisk-reﬂectivepricing,particularlysinceitfailstoencouragepol-
+icyholders to reduce their own ﬂooding risk [Surminski, 2016]. Questions also remain of its ability to keep
+ﬂoodinsurancepremiumsstableinthefuture,whileunderlyingﬂoodrisklevelsrise[ Surminski,2016].
+The “legislation” line in Figure3 highlights a number of measures and policies introduced by the govern-
+menttoimproveFRMinEngland.TheFloodsDirective,whichrequirescertainstepstobetakentoidentify,
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 986
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+Earth’s Future 10.1002/2017EF000587
+map and manage ﬂood risk areas, was incorporated into English law through the Flood Risk Regulations
+2009.Thisculminatedinthereleaseofaseriesofriverbasinmanagementplans,promotingriskreduction.
+Followupsaresupposedtobemadeevery6yearstoaccountforclimatechange;itisunclearhow“Brexit”
+will impact this. In 2010, the Flood and Water Management Act was adopted. It granted the Environment
+Agency strategic overview of FRM and required it to develop a national strategy for ﬂood and coastal risk
+managementinEngland,whichwasreleasedin2011.ItalsoestablishedaseriesofLeadLocalFloodAuthor-
+ities,whichhaveestablishedaseriesoflocalﬂoodriskmanagementstrategies[ DEFRA,2017].NotallLead
+LocalFloodAuthoritieshaveﬁnalizedtheirstrategiestodate[ DEFRA,2017].However,theimplementation
+oftheFloodandWaterManagementActhassincebeenreviewedanddescribedasa“bigstepforwardin
+managingﬂoodrisk”[ DEFRA,2017].
+Signiﬁcant improvements have also been made in “risk knowledge” and “risk awareness and commu-
+nication” (see Figure3). For example, concerns with surface water ﬂooding, particularly following the
+2007 ﬂoods, have culminated in the adoption of new surface water maps [Environment Agency, 2013].
+Furthermore,followingthe2007ﬂoodsthePittReviewcalledforgreatercollaborationbetweenthevarious
+government departments involved in FRM to improve warning services [Pitt, 2008]. This led to the devel-
+opment of the Flood Forecasting Centre, which provides a comprehensive, 24/7 forecasting service. The
+EnvironmentAgencyprovidesﬂoodwarningsbasedontheseforecasts[ HMGovernment,2016].Englandis
+alsotheﬁrstcountryinEuropetoprovideﬂoodwarningsviatwitter[ HMGovernment,2016].
+Despite these eﬀorts, major ﬂooding events have still caused signiﬁcant damage. For example, the
+2013/2014winterﬂoodscausedinsuredlossesofapproximately£1.1bn[ ABI,2014].Floodingin2015/2016
+also caused insured losses of approx. £1.3bn [Ward, 2016]. In response, the National Flood Resilience
+ReviewwascommissionedandreleasedinSeptember2016.Ithighlighted,amongotherthings,theneed
+toprotectkeylocal infrastructuremoreeﬀectively, theneedtoimproveincidence responseandtheneed
+tocontinueimprovingriskcommunicationbytheEnvironmentAgency[ HMGovernment,2016].
+3.2. Germany
+Unlike England, Germany traditionally has very low rates of ﬂood insurance penetration in most parts of
+the country. This is reﬂected in Figure4, which notes penetration rates of 19% for residential buildings
+and 8% for household contents at the time of the 2002 ﬂood. Flood insurance coverage has been avail-
+able in all of Germany since 1991 as a supplementary contract to building or contents insurance, which
+usuallyonlycoverslossescausedbyﬁre,windorhailstorms,asreﬂectedinthe“Risktransferscheme”line
+of Figure4 [e.g.,Thiekenetal., 2006]. This supplementary contract bundles ﬂood risks with natural hazard
+risks from earthquakes, land subsidence, avalanches or snow build-up. There are, however, two regions in
+Germanywithpeculiarities:Baden-Wuerttemberg,astateinthesouthofGermany,andtheterritoryofthe
+former German Democratic Republic (GDR) in eastern Germany. In Baden-Wuerttemberg, ﬂood loss com-
+pensationwasincludedincompulsorybuildinginsuranceuntil1994.DuetoEUregulationsthismonopoly
+insurancehadtobeabandoned.Currently,morethan90%ofpropertyownersinBaden-Wuerttembergstill
+have ﬂood insurance coverage [GDV, 2016]. In the former GDR, ﬂood losses were covered by household
+insurance. Up to 45% of residents in eastern Germany still have comparable contracts or have signed the
+above-mentionedsupplement[ GDV,2016].
+Anumberofmeasureshavecontributedtoincreasingﬂoodinsurancepenetration,whichnowsitsatalmost
+40%[GDV,2016].Inparticular,in2001aﬂoodhazardzoningsystem(ZÜRS)wasestablishedbytheGerman
+Insurance Association (GDV) that at ﬁrst distinguished three ﬂood probability zones; after the 2002-ﬂood,
+a fourth zone for areas with low ﬂood probabilities was added [seeFalkenhagen,2005 for details]. After
+2002, the zoning system has increasingly been used to assess the insurability of properties [Thiekenetal.,
+2006; DKKV, 2015]. Since oﬃcial ﬂood hazard maps have become available due to the implementation of
+theFloodsDirective,theinsurance-relatedzoningsystemhasbeenrecentlyupdated,resultinginlessareas
+beingrecognizedashighrisk[ GDV,2016].
+SimilartoEngland,callsforacompulsoryﬂoodinsuranceschemehavebeenrejected.Inparticular,the2002
+ﬂood initiated a political debate about a compulsory ﬂood insurance scheme, which ﬁnally failed in 2004,
+in particular due to the reluctance to provide a government guarantee for outstanding losses [Schwarze
+andWagner, 2004].AfteranothermajorboutofﬂoodinginJune2013,thediscussionrestarted,butﬁnally
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 987
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+Earth’s Future 10.1002/2017EF000587
+resulted in the same conclusion. This is reﬂected in the “Risk transfer scheme” line in Figure4. However, a
+solutionsimilartoFloodReinEnglandhasnotbeenadopted.InJune2017,theconferenceoftheHeadsof
+theFederalStatesagreedtonegotiateapieceoffederallegislationthatregulatespay-outsofgovernmental
+disasterreliefaid.Suchassistancewasprovidedaftertheﬂoodsof2002and2013coveringupto80%ofthe
+losses (of uninsured properties) and has hence been criticized as counterproductive to eﬀorts that aim at
+increasinginsuranceuptake.
+The ﬂood insurance situation in Germany has recently been investigated bySeifertetal . [2013],Zahnand
+Neuss[2012],Keskitaloetal .[2014],and DKKV [2015].Despitethesigniﬁcantamountsofgovernmentalrelief
+aid in 2002 and 2013, insured ﬂood-aﬀected households were better compensated in 2002 as well as in
+2013 than uninsured. This includes a higher percentage of compensation in relation to the overall loss at
+thepropertylevelaswellasahighersatisfactionwiththeproceduresandservices[see DKKV,2015].Hence,
+tofostertheuptakeofﬂoodinsurance,theGDVhasstartedriskawarenesscampaignsjointlywiththeupper
+water authorities (per federal state). In 2009, a ﬁrst campaign was launched in Bavaria, where the 2005
+ﬂoodcausedtremendousdamageandcalledforabetterrisktransfersolution.Uptonow,suchcampaigns
+havebeen(repeatedly)conductedinmanyfederalstates.Apositiveeﬀectontheuptakeofprecautionary
+measurescould,however,notbedetectedsofar[ OsberghausandPhilippi, 2016].Asfurthermeasures,the
+GDVdevelopedthebuildingcertiﬁcate“Hochwasserpass”togetherwithcivilandwaterengineersthatwas
+launchedin2014andithaspublishedanannualnaturalhazardsreportsince2012(seethe“RiskReduction”
+lineinFigure4).
+InthecontextofoverallFRM,overthepast25yearsallbigrivercatchmentsinGermanyhavebeenaﬀected
+by major ﬂoods resulting in severe losses as depicted in the upper part of Figure4. Although the two big
+ﬂoodsintheRhinecatchmentin1993and1995alreadyinitiatedashiftfrompuretechnicallyorientedﬂood
+protectiontowardamoreintegratedFRMapproachaslaidoutby LAWA[1995],thelegalframeworkforFRM
+andparticularlyforlosspreventionwasstillweak[ DKKV,2003; Petrowetal .,2006].Itshouldbenotedthat
+thefederallevelinGermanyonlysetsgeneralstandardsforFRMthroughso-calledframeworklegislation.
+Thefederalstates(Länder)havethemainresponsibilityforallwaterissuesaswellasforcivilprotectionand
+thusimplementtheframeworklegislationanddetermineactualriskmanagementontheground[ Bubeck
+etal., 2015]. This multilevel governance may result in diﬀerent management approaches [see examples in
+DKKV, 2003;Heintz etal.,2012; DKKV, 2015] as well as diﬀerent levels of ﬂood protection along the main
+rivers. For example, along the river Rhine safety standards vary between 1/30years and 1/1000years [te
+Lindeetal .,2011],althoughasafetylevelof1/100yearsismostlyaimedforinGermany[ Krieger,2013].This
+has been based on the main principle that everybody should have the same level of protection against
+ﬂoodrisks[ Johnsonetal .,2007].Incontrast,anotherprincipleisdominatinginEngland:FRMshouldaimat
+themaximumutilityofresources;thatis,resourcesareallocatedtothoseregionsthatcanderivethelargest
+beneﬁtinproportiontothecosts[ Johnsonetal .,2007].
+Major ﬂooding in 2002 and 2013 initiated reviews of the FRM system [e.g., for Saxony byvon Kirchbach
+etal., 2002, 2013; for all of Germany byDKKV, 2003, 2015]. These initiatives are reﬂected in the “Reviews”
+line in Figure4. In particular, the 2002 ﬂoods, which caused total damage of €11.6 billion (with insured
+lossessurpassingthosesuﬀeredinEnglandin2013/2014and2015/2016),triggeredanumberofimprove-
+ments to FRM in Germany. These are reﬂected—mainly for the federal level—in the “Legislation” line of
+Figure4.Immediatelyaftertheﬂooding,theDisasterReliefActwaspassed,providingforanunprecedented
+amount of €7.1 billion for reconstruction. More importantly, a 5-point action program on how to improve
+ﬂoodriskmanagementwasagreeduponandpavedthewayforamendmentsinrelatedlegislation.These
+werepassedin2005astheOmnibusFloodControlActandchanged,amongothers,theFederalWaterAct
+andtheSpatialPlanningAct.Forexample,thepreparationofﬂoodmanagementplanspercatchmentand
+stricterregulationsforbuilt-upareasinﬂood-proneareascameintoeﬀect.Inaddition,privateprecaution-
+ary action was requested from every person living in a ﬂoodplain in accordance with their resources and
+capabilities.OntheEuropeanlevel,the2002ﬂoods(togetherwithothermajorﬂoodsacrossEurope)ledto
+theFloodsDirective.Accordingly,theFederalWaterActwasupdatedin2009andcameintoeﬀectin2010.
+These amendments implied and thus indicated a shift from condition-based governance with precise “if..,
+then … ”rulestoperformance-basedpolicyregulationsthatdeﬁnetargetsandthusoﬀerabroaderscope
+ofimplementation[ HartmannandAlbrecht ,2014].Thisoﬀersopportunitiestobalanceconﬂictinginterests
+[Hartmann and Albrecht, 2014], but can also create disputes [Otto etal., 2016]. In June 2017, the second
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 988
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+Earth’s Future 10.1002/2017EF000587
+Omnibus Flood Control Act was passed, which contains, among other things, regulations for the use of
+ﬂood-prone areas outside statutory inundation areas, for example, requirements for ﬂood-adapted build-
+ingdesignandﬂood-securedoiltanks.Inrecentﬂoodevents,ﬂoatingoiltankswereidentiﬁedasimportant
+damagedriver,particularlyinareasthathadbeeninundatedduetodikebreaches[ DKKV,2015].
+AlthoughtheFloodsDirectiveaddressesdiﬀerentﬂoodtypes(i.e.,riverineﬂoods,pluvialﬂoodingandstorm
+surges),theGermanfocushasbeenonriverineﬂoodsandstormsurgesasriskswithnationalsigniﬁcance.
+Similarly, England has placed a signiﬁcant amount of focus on river basins. Pluvial ﬂooding (also termed
+surfacewaterﬂoodingorsometimesﬂashﬂoods)wasneglectedinGermany.However,duetopluvialﬂoods
+causing severe damage (approx. €450 million) in the city of Münster in July 2014 as well as insured losses
+of€1.2billion(totallossesof€2.6billion)insouthernGermanyinMayandJune2016,itiscurrentlybeing
+discussedhowrisksfrompluvialﬂoodscanbebetteraccommodatedinFRMprocessesandplans.
+IncontrasttoEngland,Germanydoesnotprovideadatabaseoninvestmentsinﬂoodprotection.Therefore,
+thereisonlyanecdotalevidenceavailable.Forexample,theFreestateofSaxony,themostseverelyhitstate
+in 2002, has planned 1600 measures thereafter [SMUL, 2007]. Furthermore, as a joint eﬀort between the
+Federal Government and all Federal States, a National Flood Protection Programme was agreed upon in
+2014coveringaround100measureswithinvestmentsofmorethan€5.4billion[ DKKV,2015].Furthermore,
+Germanyhasinvestedlessinto“Riskawareness&communication”thanEngland,asevidencedinFigure4.
+4. Analysis of How Flood Insurance Contributes to Flood Risk Reduction
+WithintheFRMpolicyﬁeld(seeFigure2),welocateinsuranceasaninput:atitscore,ﬂoodinsuranceisan
+exanteﬁnancialinstrument,whichincreasespreparednessforrecoverythroughtherisktransferfunction
+of insurance, thus giving greater certainty over pay-outs in case of losses and ensuring a quick and eﬀec-
+tivepay-outprocess.Thesefeaturescreateﬁnancialresilience,buttheydonotautomaticallyleadtoamore
+anticipatoryFRMapproachorreductionoftheunderlyingphysicalriskandriskdrivers.Wethereforecon-
+siderthe wider supportrole of insurance as a possibledriving mechanism that can supportand inﬂuence
+the overall FRM system through the diﬀerent elements of risk analysis and reduction highlighted in our
+framework(seeFigure1).
+4.1. Risk Knowledge (Hazard and Risk Maps)
+Risk knowledge is key for FRM decision making, but the real value of maps and data lies in their use. Haz-
+ardandriskmapsarenowavailableacrossallofEnglandandGermany[see EnvironmentAgency,2013and
+DKKV, 2015, for overviews]. Insurance has played a supportive role in both countries. This is not surpris-
+ing as insurers have a core interest in reliable hazard maps and risk models. This is reﬂected by the strong
+involvementoftheinsurancesectorinmappingandbypartnershipswithgovernmentalbodiesleadingto,
+forexample,anexchangeofdataandinformation.
+Generallyspeaking,theinsuranceindustryutilizesacombinationofgovernmentdata(e.g.,theﬂooddata
+collected by the Environment Agency), in-house models and commercial models (e.g., those developed
+by companies such as RMS and JBA) to price insurance policies. Indeed, some insurance companies have
+invested heavily in ﬂood risk models to gain a competitive advantage, which has led to the emergence of
+amodelingindustryandagrowingunderstandingofﬂoodrisk;althoughmuchuncertaintystillexistswith
+thesemodelsduetotheuncertainnatureofclimatechangeitself[ CommitteeonClimateChange ,2016],and
+alackofinformationoncertainkindsofﬂoodrisk(e.g.,surfacewaterﬂooding).
+In Germany, the insurance industry (represented by GDV) had a countrywide ﬂood hazard zoning system
+(ZÜRS)alreadyinplacein2001(seeFigure2).However,themapswerebasedonacoarseDEMandarough
+hydraulicmodelingapproachanddidnotconsiderstructuralﬂoodprotectionsuchasdikes.Therefore,the
+maps were heavily criticized by the water authorities, among others. However, the existence of the maps
+ledtoadiscussionaboutﬂoodhazardmappingandﬁnallytoanimprovementoftheavailablemapssince
+local(oﬃcial)ﬂoodhazardzoneswereincorporatedinthesystemincooperationwiththewaterauthorities
+[Kron,2013].Since2014,themoresophisticatedmapscreatedbythepublicwaterauthoritiesinaccordance
+withtheFloodsDirectivehavebeenintegratedintoZÜRS.AccordingtotheGDV,thisresultedinareduction
+intheshareofhomesassignedtohigh-riskareasfrom1.5%ofallbuildingsin2008to0.65%ofallbuildings
+in2016[ GDV,2016].Thisamountstoareclassiﬁcationof67,000homesfromahighriskzonetolowerrisk
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 989
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+Earth’s Future 10.1002/2017EF000587
+zones.Inreturn,however,5000homesfrommediumriskzonesarenowassignedtohighriskzones[ GDV,
+2016]. This example illustrates that (voluntary) data exchange among diﬀerent stakeholders in the FRM
+systemisbeneﬁcialfortheconsistencyofhazardinformationandassessmentasdemandedby Kron[2013].
+ZÜRS was mainly developed to assess the insurability of properties. Its usage was fostered after the 2002
+ﬂood and is meanwhile as important as other criteria such as the number of damage claims over the pre-
+ceding 5 or 10years [DKKV, 2015]. Still, in high risk zones that are already aﬀected by 10-year ﬂoods, it is
+diﬃcultforhomeownerstogetﬂoodinsurancecoverage.
+Similarly,inEngland,theinsuranceindustryhasplayedapositiveroleinnegotiatingwiththegovernment
+for improved ﬂood risk data. This was particularly the case under the Statement of Principles [ABI, 2005].
+There have been eﬀorts to improve stakeholder access to ﬂood risk maps, such as updating the National
+Flood Risk Assessment Data. The Association of British Insurers (ABI) has also developed a close relation-
+shipwiththeEnvironmentAgencyfortheexpresspurposeofimprovingdataavailabletoinsurersandthe
+generalpublic[ Surminski,2009].
+However, there is no formal requirement for the insurance industry to share ﬂood risk information with
+their customers or the government in England or Germany. This is also due to the fact that ﬂood insur-
+anceistypicallybundledwithbuildingandcontentsinsurance.Furthermore,insurershaveexpressedcon-
+cernsaboutthereleaseoftheirclaimsdatawhichtheyconsidertobecommerciallysensitive,whichaﬀects
+information-sharing between insurers and the government [Surminski and Eldridge, 2015]. However, the
+adoption of Flood Re could signiﬁcantly improve risk knowledge in England as it will possessa signiﬁcant
+data asset of high ﬂood risk homes, including a picture of which of these homes are ﬂooded, the cost of
+claimsandhowthosecostsaremadeup[ FloodRe,2016].Itisunclearhowthisinformationwillbeshared
+in the future, but Flood Re is considering how it can be utilized to smooth the transition to risk-reﬂective
+pricing [FloodRe, 2016]. It should allow the government to calibrate measures for managing ﬂood risk in
+diﬀerentareas[Oxera,2015].
+Improvements in hazard data and models have led to a number of outputs under the anticipatory FRM
+framework. For example, improved mapping in England has been used in eﬀorts to steer development
+away from high risk areas, although ﬂoodplain development still continues due to political and economic
+pressures[HMGovernment,2016].Byimprovingawarenessandunderstanding,theyhavealsoopenedup
+FRMdiscoursetothepublicdomain[ Alexanderetal., 2016].
+4.2. Prevention (Through Spatial Planning)
+Limiting new developments in ﬂood prone areas unless built in a resilient manner is a key element of the
+anticipatory FRM framework. However, political will is often limited, as population growth and economic
+developmentputpressureontheplanningsystem.
+InGermany,accountingforﬂoodrisksinspatialplanningwasweakbeforetheﬂoodof2002.Thischanged
+in 2005 with the introduction of the Flood Control Act. Statutory inundation areas were deﬁned and in
+generalincludedareasaﬀectedby100-yearﬂoodingeventsandareasthatareimportantforﬂoodretention.
+In these areas, it is prohibited to erect new buildings or to hinder water ﬂow by fences, bushes, etc. The
+assignmentofsuchareasoftenleadstodisputeswiththelocalpopulation[ Ottoetal., 2016],butgoeshand
+inhandwiththehazardmappingeﬀortsthatarenecessarytoimplementtheFloodsDirective.In2017,legal
+instrumentstopreventincreasesindamagepotentialbehinddikesorotherstructuralﬂooddefenseshave
+beenestablishedinthesecondFloodControlAct.
+England historically had weak spatial planning, with successive governments failing to utilize early ﬂood
+mapping initiatives in spatial planning decisions [PorterandDemeritt , 2012]. Despite the adoption of new
+measures (e.g., the National Planning Policy Framework), the eﬀectiveness of its current planning system
+is uncertain. Development on ﬂood plains is still permitted. Furthermore, around 12% of new residential
+development in England between 2001 and 2014 occurred in ﬂoodplains, around 25% of which has been
+in medium or high ﬂood risk areas [Committee on Climate Change, 2015]. In addition, the annual rate of
+developmentontheﬂoodplainishigherthanforotherareasandtheannualrateofdevelopmentinareas
+of high ﬂood risk is higher than the average for the ﬂoodplain as a whole [CommitteeonClimateChange ,
+2015; Cricketal., 2016]. However, where the Environment Agency has been aware of a planning decision
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 990
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+Earth’s Future 10.1002/2017EF000587
+notice, 97.8% of residential units in those planning decisions were in line with its advice [HMGovernment,
+2016].
+In Germany, there is no mechanism by which insurers are asked to assess or approve urban development
+plans.Kron[2013]proposesthattheuninsurabilityofnewhomesplannedinﬂood-proneareasshouldbe
+clearlystatedbytheinsuranceindustryandcommunicatedtoinvestorswhoshouldacknowledgethisfact
+by signature. However, an earlier survey among building insurers revealed a lack of interest in this from
+insurers,whoarguedthatplanningneedstoremainthetaskofgovernmentalbodies[ Thiekenetal., 2006].
+In England, the Department for Communities and Local Government sets planning policy through the
+National Planning Policy Framework and is responsible for its enforcement [HM Government, 2016]. In
+negotiating the Statement(s) of Principles, the insurance industry was successful in demanding stricter
+planning regulations. Regardless, the insurance industry has remained relatively hands oﬀ; per a report
+prepared by the Association of British Insurers on government obligations in 2005, it noted that it is the
+roleofthegovernmentto“implement[ing]reformstothelanduseplanningsystem”[ ABI,2005].However,
+theexclusionofpost-2009propertiesbothfromtheStatementofPrinciplesandnowfromFloodRecanbe
+seen as a disincentive for developments in high ﬂood risk areas. However, up to 10,000 properties are still
+beingbuiltonexistingﬂoodplainsannually[ FloodRe,2016].Thissuggeststhedisincentivehasnotworked
+to date. Property developers only have a limited interest in the insurability of new homes due to the high
+demand for properties. As such, theHMGovernment [2016] recommends that “[R]isks should not only be
+passedtohomeowners,butthoseundertaking(andproﬁting)fromdevelopmentshouldalsoretainsome
+responsibilityandliability”.
+InGermany,ifagovernmentalbodydecidesthataﬂood-damagedbuildingshouldberebuiltelsewherein
+ordertopreventfutureﬂoodlosses,themodelconditionsofbuildinginsuranceprovidedbytheGDVfore-
+sees that repair costs equivalent to those in the building’s current location are paid by the insurer [DKKV,
+2015]. One particular point of conﬂict are additional costs for a new plot. In the case of Röderau-Süd, an
+urbanareanexttothecityofDresden,whichwasheavilydamagedbyﬂoodingin2002andwhere86homes
+with 400 inhabitants and 7 enterprises were relocated in the aftermath of the event, the Saxon state pro-
+vidednewplotsandtheinsurerspaidforthenewhomessothattheaﬀectedpeopleneednotcontribute
+own resources [Müller, 2010]. This case is an exceptional example for retreat from ﬂoodplains in Germany
+andwaspossiblebecausethepublicadministrationadmittedithadignoredﬂoodriskduringtheplanning
+procedures.However,duetoitshighcostsofEUR38millionforthenewbuildingsandEUR2millionforthe
+demolitionoftheexistingones,relocationisnotseenasagoodoptioninFRM[ Müller,2010].
+Inconclusion,theroleofinsurersindemandingstricterplanningregulationsseemstobeunderexploited.
+An interesting form of innovation could be a requirement for property builders to secure ﬂood insur-
+ance for their clients for a period of 10years or longer, establishing a longer-term interest for developers
+in this issue. However, pressure for cheap new building stock makes this currently an unlikely political
+choice.
+4.3. Mitigation (Property-Level Protection Measures-PLPMs)
+Inﬂood-proneareas,ownersofexistinghomescanimplementproperty-levelprotectionmeasures(PLPMs)
+to mitigate losses. Despite their eﬀectiveness [Kreibichetal., 2005], the adoption of PLPMs by homeown-
+ers has remained low in both countries, but with some interesting diﬀerences. In Germany, the uptake
+of PLPMs by property owners has increased after each ﬂood event leading to reduced ﬂood losses and
+impacts [GrothmannandReusswig, 2006; Thiekenetal., 2007; Kreibichetal., 2011; Bubecketal., 2012; Kien-
+zler etal.,2015]. Overall, areas with high insurance penetration rates (e.g., the river Elbe catchment) tend
+to have lower uptake of PLPMs: only 13% of residents aﬀected by the 2002-ﬂood used or furnished their
+home in a ﬂood-adapted manner; this percentage rose to around 35% among ﬂood-aﬀected residents in
+2013 [DKKV, 2015]. Where penetration rates are lower (e.g., in the Rhine catchment), uptake of PLPMs has
+beenhigher:asurveyafterthe2011-ﬂoodrevealedthataround65%oftheaﬀectedresidentsintheRhine
+catchmentstatedthathaveusedorfurnishedtheirhomeinaﬂood-adaptedmanner[ Kienzleretal., 2015].
+However,inacountrywideinvestigation, OsberghausandPhilippi [2016]foundnoindicationformoralhaz-
+ardandconcludedthatﬂoodinsuranceandPLPMsarecommonlyseenascomplementarysafetystrategies
+ofhomeowners.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 991
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+Earth’s Future 10.1002/2017EF000587
+Incontrast,EnglandhashighﬂoodinsurancepenetrationratesandlowPLPMuptakedespitePLPMshaving
+ahighcost–beneﬁtratio[ DEFRA,2016].Recentanalysishasidentiﬁedanumberofpossiblereasonsforthis,
+includingpropertyowners(1)lackingawarenessofrisk,(2)notacceptingrisk,(3)viewingﬂoodsas“one-oﬀ
+events”,and(4)perceivingtheauthoritiesastheonlypartythatcanpursueﬂoodprotection[ DEFRA,2016].
+SomepropertyownersinEnglandhavereceivedsupportoflocalandnationalgovernmentsthroughgrant
+schemes for investments in PLPMs. For example, the Property Resilience Grant Scheme operated by the
+nationalgovernmentandadministeredatthedistrictlevelprovidedgrantsofupto£5000fortheadoption
+ofPLPMsfollowingﬂoodinginlate2015/early2016[ Priestley,2016].Between2007and2015,government
+grantsfundedtheinstallationofPLPMsinaround3400properties[ HMGovernment,2016].However,unlike
+inGermany,therehasneverbeenastatutoryobligationtoimplementPLPMs.
+Generallyspeaking,theimpositionofrisk-basedinsurancepremiumsisseenasawayofencouragingprop-
+ertyownerstoadoptPLPMsbecauseitencouragesthemtoreducetheirownriskinordertoobtaincheaper
+insurance[e.g., KouskyandKunreuther ,2014; Hudsonetal., 2016].However,thisunderstandingsuﬀersfrom
+anumberoflimitations.Rather,tosystematicallyimproveﬂoodriskreductionatthepropertylevel,awide
+variety of stakeholders must provide support, including developers, builders and the insurance industry,
+beyond simple economic incentives. In Germany, deductibles are seen as a common measure to limit
+moralhazard,keeppremiumsatanacceptablelevelandstimulatehomeownerstoinvestinriskreduction,
+particularlyinPLPMs[ Kron,2013].Asurveyamonginsurersrevealedthattherearediﬀerentoptionstostip-
+ulatedeductiblesintheinsurancecontract:inparticular,whilemostGermaninsurersconsideraﬁxedsum
+that is sometimes risk-oriented (i.e., it increases with increasing ﬂood probability according to the zoning
+systemZÜRS),othersdeterminethedeductibleasa(ﬁxed)shareofthelossorthecoverage[ Thiekenetal.,
+2006]. While a deductible only implicitly stimulates risk reduction (though often eﬀectivly, [Hudsonetal.,
+2016]), the German insurance industry has recently endeavored to explicitly promote PLPMs. Besides risk
+awareness campaigns (see above), the insurance industry has supported the development of a certiﬁcate
+forbuildings(i.e.,the“Hochwasserpass”),producedbytheﬂoodcompetencecentre(HKC,seehochwasser-
+pass.com). This web-based tool oﬀers homeowners a systematic risk assessment with regards to ﬂuvial
+and pluvial ﬂoods which is followed by an on-site consultation with respect to suitable risk reduction
+measuresatthepropertylevel.Theﬁrstroughriskassessmentisfreelyavailableontheinternet;theon-site
+consultation is charged. The insurance industry has been involved in order to ensure that the certiﬁcate
+can be accepted as proof of ﬂood risk assessment by insurers and banks. The idea is that the presence of
+thecertiﬁcatecanbeusedbyhomeownersinnegotiationsaboutamortgageorﬂoodinsurancecoverage
+withbanksorinsurers,respectively.Forexample,itcouldallowhomeownersinhigh-riskzonestopurchase
+insuranceifthebuildingisdesignedandusedinaﬂood-proofmanner.Sincethetoolwaslaunchedin2014,
+itistooearlytoevaluateitsuptakeanduse.Somewaterauthoritieshaveconsideredtheuseofthistoolby
+ﬂood-proneresidentsintheirFRMplans,whichweredraftedinaccordancewiththeFloodsDirective.
+ThewillingnessofinsurerstoconsiderPLPMsinthetermsandconditionsofinsurancepolicieshasincreased
+recently as revealed by surveys among German building insurers in 2002/2003 and 2012/2013 [seeDKKV,
+2015].85%ofinsurerssurveyedin2012/2013informedtheirclientsaboutpossiblePLPMswhennegotiating
+or contracting ﬂood insurance. A third of them explicitly asked for PLPMs, while this was not a criterion
+to assess insurability back in 2002/2003 [DKKV, 2015]. Furthermore, 86% of building insurers surveyed in
+2013 stated that they consider PLPMs by, for example, insuring buildings in high-risk areas, providing a
+reduceddeductibleorprovidingreducedinsurancepremiums[ DKKV,2015].Backin2002/2003,only15%
+ofinsurersadaptedthetermsandconditionsoftheirinsurancepoliciesduetoPLPMs[ Thiekenetal., 2006].
+Altogether,thereisatendencyamongbuildinginsurersinGermanytocombineﬂoodinsurancewithﬂood
+riskreductionandchangeinsuranceconditionsthatareincreasinglymorerisk-based.
+The insurance industry in England appears less supportive of PLPMs. Recent studies suggest that it is not
+clear whether the insurance industry values PLPMs or takes steps to incentivise homeowners to adopt
+PLPMs[DEFRA,2016].Accordingtoarecentsurvey,approximately40%ofinsurersdidnotconsider“internal
+improvements”(e.g.,hardﬂooringandwaterproofwalls)tobeeﬀective[ DEFRA,2016].Insurersalsoappear
+to not generally recognize standards for PLPMs [DEFRA, 2016]. In this respect, the ﬁnding byO’Hareetal.
+[2015] that the “no betterment” principle in loss compensation mechanisms is a major obstacle to the
+adoptionofPLPMsdeservesspecialattention.Thelinkageofriskreductionduringrecoverycouldprovide
+an important feedback mechanism. Furthermore, because ﬂood premiums are bundled with other home
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 992
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+Earth’s Future 10.1002/2017EF000587
+insurancecosts,insurersusuallydonotdiﬀerentiateordisclosetotheircustomersthepercentagerelating
+toﬂoodinsurance.Thisaﬀectstheabilityofpolicyholderstounderstandtheirownpersonalrisk.TheAsso-
+ciationofBritishInsurershasrecentlypreparedapolicydocumentonadoptingPLPMs,thoughitisunclear
+whetheritsavailabilityiscommunicatedtopolicyholders[ ABI,2016].TheAssociationofBritishInsurershas
+also issued guidance to assist developers with building ﬂood resilient properties through practical steps
+suchasraisingﬂoorlevelsofproperties[ ABI,2008]andalsoranbroaderinformationcampaignssuchasthe
+“FloodsDestroy,BePrepared”awarenessinitiativeandinformationonhowtoreceiveﬂoodwarnings,ﬂood
+riskinformationandriskmitigation.However,thenewFloodRecontainsnoformalprogramforpromoting
+theadoptionofPLPMs[ Surminski,2016].
+With regards to the anticipatory FRM framework (see Figure2), the insurance industry’s record diﬀers
+betweencountries.InGermany,insurersappearmorewillingtotakeintoaccountPLPMs,whileinEngland
+their importance has generally been undervalued. However, insurance coverage tends to be signiﬁcantly
+higher in England. It is unclear to what extent these ﬁndings can therefore be attributed to the “moral
+hazard”ofinsurance.
+4.4. Protection (Structural Measures)
+TheEnglishgovernmenthasinvestedconsiderablyinarangeofﬂoodandcoastaldefenses[ Bennett,2013].
+Morerecently,ithaspledgedtoinvestanadditional£2.3billioninﬂooddefensesbetween2015and2021,
+which will better protect up to 300,000 homes [HM Government, 2016]. The government is also working
+withthecityofSheﬃeldtocreatenewkindsofﬂooddefensesthatcanbeutilizedintheUK’s“corecities”
+[HMGovernment,2016].Forexample,duringthewinter2015/2016ﬂoods,although16,000propertieswere
+ﬂooded,20,000wereprotectedbyexistingﬂooddefenses[ Priestley,2016].However,moreinvestmentisstill
+required, with a 2014 study suggesting that the optimal level of annual investment is £750m to £800m;
+greater than the amount pledged [EnvironmentAgency, 2014]. Furthermore, attempts to encourage local
+governments and private bodies to contribute more to ﬂood defenses have proven relatively ineﬀective
+[Bennett,2013].
+InGermany,majorﬂoodeventshaverevealedweaknessesinstructuralmeasures.Forexample,whiledike
+breaches only occurred occasionally during the ﬂoods of 1997 (Odra) and 1999 (Danube), more than 100
+breachesoccurredinAugust2002alongtheriversMuldeandElbeinSaxony(andpartlyinSaxony-Anhalt).
+By2011,468kmofdikesalongtheriverElbehavebeenupgraded[ IKSE,2012].Still,someseverebreaches
+occurred during the ﬂood in June 2013, particularly in sections that had not been upgraded, but were in
+needoftechnicalimprovements[ Thiekenetal., 2016].Assuch,awarenessfortheneedofenhancingother
+measuresisrising.Forexample,thenationalﬂoodprotectionprogramthatwaslaunchedinOctober2014
+includesmanyprojectsforrestoringﬂoodplainsorcreatingretentionareaswherewatercanbetemporarily
+stored (ﬂood polders). Past experience reveals, however, that such large projects take years until they are
+fullyimplemented.
+Theroleoftheinsuranceindustrysupportingprotectionmeasuresdiﬀersbetweenbothcountries.InEng-
+land, one of the lynchpins of the Statement of Principle entered into between the insurance industry and
+the government was a commitment by the government to make suﬃcient investment in ﬂood defenses
+[ABI,2005].Thiswasagreedtobythegovernmentundersigniﬁcantpressurefromtheinsuranceindustry.
+TheMemorandumofUnderstandinginrelationtoFloodRemaintainsthisapproachtosomeextent,with
+a “letter of comfort” from the government providing for long term commitment to expenditure on FRM.
+InGermany,thepresenceofuninsurablerisks(e.g.,coastalﬂoodingintheNorth)hasalsoencouragedthe
+governmenttoinvestheavilyinstructuralmeasures.
+However,theinsuranceindustry,incontrasttoEngland,isnotinvolvedinnegotiationsaboutﬂooddefense
+expenditures,whichmaybepartlyduetothedevolvednatureofthedecision-makingprocessacrossthedif-
+ferentLaender.Theresponsibilitiesacrossarivercross-section(usedasawaterway)aredistributedbetween
+many governance levels as shown byDKKV [2003] using the river Elbe at Dresden as an example. Federal
+agencies are responsible for the navigation of the river Elbe, the monitoring of water quality, etc., while
+theFreestateofSaxonyisresponsiblefortheembankments.FloodchannelswithinthecityofDresdenare
+however maintained by the city of Dresden. In other federal states, e.g., Lower Saxony, Bremen or North
+Rhine-Westphalia,embankmentsareplanned,implementedandmaintainedbyregionaldykeassociations
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 993
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 16]]
+Earth’s Future 10.1002/2017EF000587
+that are-besides public subsidies-ﬁnanced by mandatory annual fees on all property owners beneﬁtting
+fromtheembankmentsinaspeciﬁcregion.
+Interestingly,insurersinbothcountriesdonotappeartovaluealternativestostructuralmeasuressuchas
+nature based ﬂood risk solutions when calculating risk; instead, structural measures are perceived as the
+“gold standard” [Ball etal.,2013]. However, these alternative measures are becoming increasingly recog-
+nizedasanimportantmeansofreducingﬂoodrisk[see Poljanšeketal.,2017],whichsuggeststhatabroader
+cultural change is required in the insurance industry and society in general to the role that nonstructural
+measurescanplayinreducingﬂoodrisk.
+With regards to the anticipatory FRM framework (see Figure2), the insurance industry can leverage their
+inﬂuence to promote government investment in protection. However, structural measures will only have
+an impact on how insurance policies are priced if they are adequately taken into account in risk models.
+Greateremphasisalsoneedstobeplacedonnonstructuralmeasuresasameansofriskreduction.
+4.5. Preparedness for Response
+Overall, recent developments appear to have improved the awareness and preparedness of ﬂood-
+aﬀected residents and their knowledge about living in a ﬂood-prone area in both England and Germany.
+This reduces risk uncertainty and improves ﬂood preparedness, two key inputs to the anticipatory FRM
+framework(seeFigure2).
+In England, the Environment Agency operates the ﬂood information service on its website, which allows
+homeowners to check their 5day ﬂood risk (ranging from “unlikely” to “high risk”) and monitor nearby
+river/sea levels. Regional diﬀerences in ﬂood forecasting were overcome with the establishment of the
+National Flood Forecasting Service [Alexander etal.,2016]. Complicated governance arrangements were
+overcomewiththeestablishmentoftheFloodForecastingCentre,ajointventurebetweentheMetOﬃce
+andtheEnvironmentAgency[ Alexanderetal., 2016].Morerecently,thegovernmentcommittedtoprepar-
+inganintegratedﬂoodriskmonitoringplatformwhichallowssimulationslinkingmeteorology,hydrology
+andﬂooding[ HMGovernment,2016].
+In Germany, the meteorological service is a federal authority (Deutscher Wetterdienst—DWD) under the
+Federal Ministry of Transport and Digital Infrastructure and is—by law—responsible for weather moni-
+toring and forecasting as well as for detecting extreme weather situations in the whole country including
+the release of appropriate warnings when necessary. Warnings are, however, restricted to meteorological
+phenomenasuchasheavyrainfall.Consequently,additionalservicesareinplaceforﬂoodforecastingand
+warning. Since all water issues as well as civil protection and emergency management are in the respon-
+sibility of the federal states, the organization of ﬂood forecasting and warning as well as the organization
+of the civil protection diﬀers throughout Germany. Flooding in 2002 revealed major deﬁciencies in Ger-
+many’s ﬂood risk warning and communication [DKKV, 2003]. For example, warnings came too late or not
+atall,messageswereunclearandalertswereoccasionallynotpropagatedduetounclearproceduresand
+outdatedcontactdetails[ DKKV,2003].Meanwhile,dataandmodelshavebeencontinuouslyupdated,col-
+laborationbetweenDWD,thewaterauthoritiesandthecivilprotectionhasbeenstrengthenedandsome
+federalstateshavereorganizedtheirwarningsystems[see DKKV,2015].Inaddition,ﬂoodexhibitions,marks
+ofﬂoodwaterlevels,etc.arewidespreadandkeepﬂoodriskawarenessonahighlevel[ DKKV,2015].How-
+ever,animpact-basedﬂoodwarningasitexistsinEnglandisnotavailableinGermany.Nevertheless,only
+7%ofaﬀectedresidentsdidnotreceiveawarningintheJune2013ﬂoodsincontrastto27%in2002[ Kreibich
+etal., 2016].ResidentswerealsobetterinformedaboutPLPMs[ Thiekenetal., 2016].
+Theinsuranceindustryhasthepotentialtosupportpreparednessthroughinformationandadvise,directly
+contributing to technical know-how and behavior as two key inputs in the anticipatory FRM framework
+(seeFigure2).However,evidenceforthisinEnglandisfairlylimited.EventhoughFloodReisaquasi-public
+body accountable to parliament, it does not communicate directly with policyholders nor does it have
+any formal requirements for the communication of ﬂood risk. This may reﬂect the priorities that were
+establishedundertheStatement(s)ofPrinciples,whichidentiﬁed“eﬀectivelycommunicatingﬂoodrisk”as
+one of the ﬁve performance targets of the government, not the insurance industry [Penning-Rowselletal.,
+2014].InterestinglyFloodReiscommittedtodatasharingwiththegovernmentonceithassetupitsown
+ﬂoodriskdatabases[ FloodRe,2016].Inresponse,the HMGovernment [2016]hasnotedthatimprovements
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 994
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 17]]
+Earth’s Future 10.1002/2017EF000587
+are needed in how ﬂood risk is communicated. Furthermore, the Environment Agency has announced an
+awareness campaign in autumn of 2017 (i.e., in anticipation of winter ﬂooding) that is locally delivered to
+communitiesatriskofﬂooding[ HMGovernment,2016].
+WhiletheusabilityandaccessibilityoftheGermanﬂoodhazardzoningsystemZÜRS(seeabove)hasinitially
+beenlimitedtoprofessionalsfromtheinsuranceindustry,theGDVlaunchedanadditionalopen-accessmul-
+tihazardwebportal“KompassNaturgefahren”forpilotregionsinMay2011.Bynow,hazardzonesfromthe
+federalstatesofLower-Saxony,Saxony,Saxony-AnhaltandBerlinhavebeenintegrated.Thehazardproﬁle
+ofdetailedpostaladdressescanbesearchedforandthevisualizationisbettertailoredtotheinformation
+needsofthegeneralpublicthanthemapsthatwereproducedfortheFloodsDirectiveandcontainalotof
+informationthatisassumedtobetoodetailedforlaypersons[see Meyeretal., 2012].Thewebportal“Kom-
+passNaturgefahren”canbeseenasaprototypeforaweb-basedhazardandriskinformationplatformthat
+was decided to be created for the whole country in October 2014 by the Conference of Ministries of the
+Environment(UMK),buthasnotbeenimplementedsofar.
+Whileﬂoodhazardmapsareanimportantprerequisiteforriskawareness,theyneedtobeaccompaniedby
+informationonadequateandrisk-reducingoptionsandtheircostsinordertoleadtoadaptedbehaviorof
+ﬂood-proneresidents[see GrothmannandReusswig, 2006;Bubecketal., 2012].Kron[2013]suggeststhatthe
+loss compensation process should be used to better inform homeowners about their risks and mitigation
+options. Besides,other communication strategies shouldbe intensiﬁed suchas brochures and videos tak-
+ingthepreventiveﬁreprotectionasarolemodelforsuchactivities.However,aclearlinkagebetweenrepair
+worksandriskreducingmeasureshasnotbeenestablishedinGermanyorEngland.Infact,the“nobetter-
+ment”principleininsurancepoliciesmighthindertheimprovementofresilienthomes[ O’Hareetal.,2015].
+Driven by the discussion about mandatory ﬂood insurance and low uptake of voluntary ﬂood insurance
+inGermany,theGDVhasstartedriskawarenesscampaignstogetherwiththewaterauthoritiesofthefed-
+eral states. The campaigns mainly inform about the availability, costs and advantages of ﬂood insurance
+in Germany. The ﬁrst campaign started in Bavaria in 2009. Meanwhile eight of 16 states have performed
+suchcampaigns,somealreadyseveraltimes;intwofurtherstatescampaignsareinpreparation.Datafrom
+GDV [2016]revealanincreaseinﬂoodinsurancefrom19%in2002to37%in2015asaresult(seeFigure4).
+However,OsberghausandPhilippi [2016]revealedthatchangesinpreparednesscanhardlybeattributedto
+theseawarenesscampaigns.
+With regards to the anticipatory FRM framework (see Figure2) and risk awareness, the role of insurance
+is ambivalent. In some cases, insurance does support awareness campaigns. In other cases, this is lack-
+ing; for example, the lack of compulsory communication under Flood Re. In others, the awareness cam-
+paign is strongly focused on the uptake of ﬂood insurance rather than ﬂood risk levels or measures to
+prepare,whichissomewhatunderstandablegivenGermany’slowpenetrationrates.Thismayalsoexplain
+the limited engagement of insurers in England, where penetration levels are very high. There is clearly
+more that the insurance industry could do to communicate risk (and response measures in particular to
+homeowners).
+5. Concluding Discussion
+In this paper we explore how ﬂood insurance can support ﬂood risk reduction by investigating the cases
+of England and Germany. Both countries show many similarities as well as speciﬁc diﬀerences in the way
+ﬂoodinsuranceisusedandFRMisgoverned.Bothoﬀerﬂoodinsurancethroughaprivatemarketapproach,
+althoughwithsubsidizedreinsuranceinEngland.Thismakesourselectionsuitableforacomparativeinves-
+tigationaswedonotonlylookatinsuranceasaninstrument,butalsoasaprivatesectoragent.Neverthe-
+less,theexamplesoutlinedinthispapercanalsoserveasillustrationsforothercountriesthatconsiderhow
+besttoharnesstheroleofﬂoodinsurance.ThisisparticularlytimelyasacrosstheworldFRMisunderpres-
+surebyrisingrisklevelsandgrowingbudgetaryconstraintsofthepublicsector.Thisistriggeringreviewsof
+ﬂoodinsurancesystems,suchasintheUSorinCanada,whilemanydevelopingcountriesandinternational
+donors discuss the introduction of ﬂood insurance [Surminski, 2014;Surminskietal., 2015]. The analysis is
+framedbythesystemdepictedinFigure2,recognizingthatanychangesintheFRMwillbedeterminedby
+arangeof“inputs”thatcanbecomecatalystsforchange;forexample,majorﬂoodevents,putpossiblyalso
+insurance.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 995
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 18]]
+Earth’s Future 10.1002/2017EF000587
+TheinvestigationsinSections3and4revealnewinsightsforFRMgovernance:
+1. InbothcountriesﬂoodeventsremainthedrivingforcesforFRMeﬀorts,amidstsomesignsofshift
+towardsmoreanticipatoryFRM.
+EventstendtobefollowedbyareviewandtheadoptionofnewFRMapproaches(particularlylegislation
+andguidelines)inordertomitigatethefutureimpactofﬂooding.Dependingonthekindofﬂooding
+suﬀeredandthelessonslearnt,changesalsotendtobemadetoriskcommunication,riskknowledgeand
+riskreduction.BothcountrieshaveadoptednewlegislationtoimproveFRMinthewakeofﬂoodevents.
+Forexample,EnglandhasadoptedtheFloodandWaterManagementAct2010,whichrequiredthe
+EnvironmentAgencytoestablishedanationalstrategyforFRMandhasbeendubbed“ … abigstep
+forwardinmanagingﬂoodrisk”[ DEFRA,2017].Similarly,Germanyhastakenstepstoimplementthe
+FloodsDirectivewhichrequiresEUmemberstatestotakecertainstepstoidentify,mapandmanage
+ﬂoodingrisk,andadoptedlegislationforimprovingFRM(theOmnibusFloodControlActIandII).This
+indicatesashifttowardanticipatoryFRM,atleastonpaper.Theimpactsonriskreductionarediﬃcultto
+evaluate.IndicatorssuchasspendingonﬂoodprotectioninEngland,showninFigure3,arefarfrom
+transparentandaresubjecttodebateandevendispute[ SurminskiandEldridge ,2014].ForGermany,an
+aggregatedatabaseoninvestmentsinﬂoodprotectionisnotavailable,alsoduetothefederalistnatureof
+FRMresponsibilities,withoftendecentralizedspendingacrossarangeofinstitutions.Thefederal
+governmentonlysetsgeneralstandardswhichcanleadtodiﬀerentmanagementapproachesbetween
+states[forexample,see DKKV,2013; Heintzetal., 2012;DKKV,2015].Importantly,ﬂoodeventscanalsobe
+thesourceoflearningdrivingfutureresiliencebasedonlessonsarisingfrompastevents.Thiscantakethe
+formofreviewsandpublicinquiries,suchasPittandDKKV.Anexampleforamorestandardizedapproach
+forthisisthepost-eventreviewcapability(PERC)developedbyZurichInsurance,which“provides
+researchandindependentreviewsoflargeﬂoodevents,( … )lookingatwhathasworkedwell(identifying
+bestpractice)andopportunitiesforfurtherimprovements.”[ ZurichFinancialServices ,2017]ThesePERCs
+havebeenconductedalsoforGermanyandEngland.
+2. WhilethereareexamplesofclearsupportforanticipatoryFRMthroughinsurance,therolethat
+insuranceplaysbeyondrisktransferremainsunderdevelopedinbothcountries.
+Our investigation builds on the hypothesis that insurance can support anticipative FRM beyond its core
+risktransferfunctionthroughinﬂuencingbehaviorandcapacitybuilding.Table1summarizesourﬁndings,
+showing the role that insurers have on the ﬁve diﬀerent elements of ﬂood risk analysis and reduction in
+bothcountries,aspertheanticipatoryFRMframework(Figure2).
+Theseﬁndingsunderlinethattheinsuranceindustrycanbeacatalystforchangetowardmoreanticipatory
+FRM.Insuranceisplayingasupportiverolewithregardtoanimprovedriskknowledgebasis,awareness
+raisingand,toalimitedextent,supportingtheuptakeofPLPMs.AsthecaseofEnglandshowsthereisa
+clearsupportiveroleformorepublicinvestmentsinprotection-whichwasinfactaconditionunderthe
+StatementofPrinciplesandhashelpedtoprotecttheﬂoodbudgetintimesofoverallﬁscalausterity.The
+FloodRearrangementisfarlessclearonthis,whichcouldindicateabackwardtrend.InEnglandinsurers
+havealsosupportedastrengthenedspatialplanningapproach,throughoﬃcialagreementssuchasthe
+StatementofPrinciples.Theeﬀectivenessofthis,particularlywithregardstospatialplanning,remains
+unclearasplanningruleshaverecentlybeeneasedduetopressuretobuildmorehomes.InGermanythe
+cooperationbetweentheinsuranceindustryandgovernmentalbodiesseemstobemuchmoreinformal,
+buthasdevelopedinmanyarenasoverthepast15years.Aparticularconstraintforinsurersisthefactthat
+FRMistoalargeextentastate-matter,andgoverneddiﬀerentlyacrossGermany’s16Bundeslaender.Still,
+insurersinﬂuencemanyelementsofFRMbeyondrisktransferanduptakeofPLPMs(seeTable1).
+3. Therearebarriersthatlimittheroleofinsurance,whichneedtobeaddressed.
+Ourstudyalsoshowsthatthebroaderriskreductionroleofﬂoodinsurancedoesnotoccurautomatically
+andrequireslong-termeﬀorts,incollaborationwithgovernmentandothers.Ourdiscussionswith
+stakeholdersinbothcountrieshavehighlightedarangeofbarriersforinsurancetosupportriskreduction,
+suchas:
+a. Riskknowledge(maps):Insurers’concernsaboutconﬁdentialityoftheirclaimsdata,licensing
+questionsregardingpublicﬂooddatawhenusedforcommercialpurposes,communicating
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 996
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 19]]
+Earth’s Future 10.1002/2017EF000587
+Table 1. RoleofInsuranceonFRMinEnglandandGermanyBasedontheAnalysisinSection4
+RoleofInsuranceOn England Germany
+Riskknowledge(ﬂood
+hazardandriskmaps)
+Insuranceisengagedinimprovingrisk
+knowledge,commitmenttoexchange
+datawithgovernment,alsounder
+FloodRe
+Insurancehasdemandedanddriven
+policydevelopmentsinthisﬁeld,e.g.,
+bytheearlyestablishmentofaﬂood
+hazardzoningsystem(ZÜRS);
+Currentdataexchangewithwater
+authoritiesrevealagoodpartnership
+Prevention/spatialplanning Insurancehasdemandedanddriven
+policydevelopmentsinthisﬁeld,e.g.,
+duringnegotiationsintheStatementof
+PrinciplesandFloodRe’sexclusionof
+newbuildproperties.
+Potentialisunderexploitedand
+eﬀectivenessnotclear
+Noactiveroleofinsurance,exceptfor
+clearrulesaroundinsurancecoverin
+caseofrelocationofproperties.
+Potentialisunderexploited
+Mitigation(PLPMs) Someinformationprovisionbyinsurers
+aboutPLPMs,butinsuranceismostly
+notsupportiveduetotheno
+bettermentprinciple,andnoprovision
+forthisunderFloodRe
+Insuranceisincreasinglysupportiveby
+demandingPLPMsinsomecasesand
+providingincentives/betterinsurance
+conditionsinothercaseswhenPLPMs
+areinplace
+Floodprotection Insurancehasdemandedanddriven
+policydevelopmentsand
+governmentalinvestmentsinthisﬁeld,
+e.g.,duringnegotiationsinthe
+StatementofPrinciplesandFloodRe.
+Thishasledtoprotectionofﬂood
+defensespendingduringbudgetcuts,
+butnolong-termcommitmentby
+government
+Insurancetendstodemandpolicy
+developmentsandgovernmental
+investmentsinthisﬁeld,butthereare
+noformalagreementsexceptforthe
+exclusionofstormsurgelossesfrom
+insurance,whichreinforcethe
+importanceofcoastalprotection
+Floodpreparedness
+(warningandrisk
+communication)
+Noactiveroleofinsuranceinwarning,
+butengagementinawarenessraising
+andinformationprovision,forexample
+throughABIorindividuallyby
+insurancecompanies
+Insurancedemandspolicy
+developmentsandgovernmental
+investmentsinthisﬁeld,forexampleby
+supportingthedevelopmentof
+prototypes(KompassNaturgefahren;
+Hochwasserpass);
+Goodpartnershipsinriskawareness
+campaigns
+probabilitiesandﬂoodriskinformationtoindividuals,reachingthosemostvulnerable;largegroupof
+data-owners;costofcollatingandstreamliningdata.
+b. Prevention(planning):Incentivefornewbuildfaceslimitedinterestbypropertydevelopers,
+administrativeburdenforinsurers,andoftenclasheswithpoliticalpressuretobuildmorehomes.
+c. Mitigation(PLPMs):Informationaboutandincentivesforriskreductionmeasuresatpropertylevelis
+oftenfacingunclearcost-beneﬁts,behavioralbarriers,hasslefactor,sizeofpremiumnotbigenoughto
+triggerinvestment,diﬃcultyintracking/dataimplementationofPLPM,aﬀordabilitychallenge,1-year
+contractlength,resilientrepairsmighttakelongerthanstandardrepairs.
+d. Protection(structuralmeasures):Incentivesforpublicpolicyandpublicinvestmentinprotectionis
+diﬃcultduetoalackoftransparencyabouthowmuchisspentpubliclyonﬂooddefenses,howare
+structuresmaintainedovertime,howeﬀectivearethemeasures.
+e. Preparednessforresponse:missingtailor-madecommunicationandinformationmaterial;missing
+linksbetweenhazardinformationandmitigationoptions.
+Thesepointsoﬀersomeinsightsontheconstraintsandchallengesthatinsurersandgovernmentsare
+facinginthisarea.Someoftheseaspectsarewell-known[seeforexample SurminskiandEldridge ,2015;
+SurminskiandHudson ,2016],particularlytheapparenttrade-oﬀbetweenaﬀordabilityofinsurancecover
+anduseoftherisk-signalingfunctionofinsurancethroughriskbasedpricing,whichheavilyinﬂuenced
+thedesignofFloodReinEngland,andmeantthatFloodRedoesnotapplyanyrisk-signaling[ Jenkins
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 997
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 20]]
+Earth’s Future 10.1002/2017EF000587
+etal., 2017].Furthermore,evidencefromEnglandshowsthatinsurersdonotautomaticallyoperate
+eﬃcientlyasagentsofriskreduction[ Lamondetal.,2009; Surminski,2017].Indeed,itcanbediﬃcultfor
+insurerstoknowhowtoquantifythebeneﬁtsofariskreductionmeasure,particularlywheretheyare
+adoptedproactively(i.e.,priortoanaturaldisasterratherthanafterward).
+4 Bothcountriesshowthatcollaborationbetweenprivateinsuranceandthosewhomakedecisions
+relevantforFRMisimportantforanticipatoryFRMandsecuringfutureinsurability.
+Those barriers underline why collaboration between industry and government is so important when
+respondingtothechallengesofﬂoodrisk.Particularlyinthecontextofrisingrisksduetoclimatechange,
+there is a growing recognition that anticipatory FRM with a strong focus on risk reduction and resilience
+istheonlyviablewaytoensurefutureinsurabilityoftheserisks[ SurminskiandHudson ,2016; Jenkinsetal.,
+2017;seealso Ermolievetal., 2000foranearlierinvestigationofthis].
+Inbothcountriestherearemanyexamplesforcollaboration(seeTable1),andtheindustryaswellaspolicy
+makers deserve credit for this approach, which is far less developed in other countries [Surminski 2015].
+However,thiscollaborationislackinginstructureandformalityandthereis,thepossibilitytoenhancethis
+further through better collaboration between industry and government. As a ﬁrst step, it is recommend
+toscheduleregularmeetingsbetweengovernmentandinsurancetoestablishpartnershipsinthevarious
+ﬁeldsofFRMshowninFigure1.Thiscouldhelptostreamlineeﬀorts,toclarifywhopaysforwhat,tojointly
+testinnovativeapproaches,particularlywithregardstolinkingrecoveryandrepairworktoriskreduction,
+andtoagreeonanupscalingofsuccessfulsolutions.
+Itisencouragingtoseetheindustrycallingoutforbettercollaborationbetweengovernmentandinsurers,
+in support of anticipatory FRM [see for exampleGolnaraghietal., 2016]. However, it is often far from clear
+whatthiscollaborationwouldentail,andthereisalsoariskthatthisbecomesa“talkingshop,”admiringthe
+problem rather than focusing on real improvements. The need for clear action is increasingly recognized
+by insurance companies, such as the Zurich Flood Resilience Research partnership, investigating ways to
+increaseﬂoodresilience[ Zurich2016].It isimportanttorecognize thatsuchcollaborations alsocomeat a
+cost,requiringtimeandresourcesbyboth,industryandgovernment.However,intimesofrisingrisksdue
+toclimatechange,thisshouldbeseenasaninvestment(thatpaysoﬀinfuture)ratherthanacost.Improving
+overallﬂoodresilienceistheonlywaytosecurefutureinsurabilityofﬂoodrisk.
+Despite many examples in both countries it is far from clear whether the insurance industry will continue
+withitseﬀortsandhowmuchinﬂuencethiswillhavewithintheFRMﬁeld,particularlyinthefaceofother
+pressures such as political priorities or demands for cheap housing. The real test will come with the next
+signiﬁcant ﬂood in either Germany or England-both in terms of eﬀectiveness of current FRM eﬀorts, and
+willingnessofinsurersandgovernmenttopursueﬂoodresilienceinearnest.
+References
+Aerts,J.C.J.H.,andW.J.W.Botzen(2011),Flood-resilientwaterfrontdevelopmentinNewYorkCity:Bridgingﬂoodinsurance,building
+codesandﬂoodzoning, Ann.N.Y.Acad.Sci. ,1227,1–82,http://doi.org/10.1111/j.1749-6632.2011.06074.x.
+Aerts,J.C.J.H.,andW.J.W.Botzen(2012),Briefcommunication“HurricaneIrene:Awake-upcallforNewYorkCity?”, Nat.HazardsEarth
+Syst.Sci.,12,1837–1840,http://doi.org/10.5194/nhess-12-1837-2012.
+Alexander,M.,S.Priest,A.P.Micou,S.Tapsell,C.Green,D.Parker,andS.Homewood(2016),Analysingandevaluatingﬂoodrisk
+governanceinEngland—Enhancingsocietalresiliencethroughcomprehensiveandalignedﬂoodriskgovernancearrangements,
+STAR-FLOODConsortium.FloodHazardResearchCentre,MiddlesexUniversity.ISBN978-94-91933-07-3.
+Amos,J.(2016),Economiclossesfromnaturaldisasterscounted, BBCNews,18Apr .
+AssociationofBritishInsurers(2005), ABIStatementofPrinciplesontheProvisionofFloodInsurance ,Assoc.Br.Insurers,London.
+AssociationofBritishInsurers(2008), InsuranceintheUK:TheBeneﬁtsofPricingRisk ,Assoc.Br.Insurers.
+AssociationofBritishInsurers(2014),6.7millionadayininsuranceclaimsfromcustomershitbytherecentﬂooding.Associationof
+BritishInsurers.
+AssociationofBritishInsurers(2016), HomeInsurancePremiumsRemainStableDespiteWinterFloods ,Assoc.Br.Insurers ,10Oct.[Available
+athttps://www.abi.org.uk/News/News-releases/2016/08/ABI-Q2-Property-premium-insurance-tracker.]
+Ball,T.,A.Werritty,andA.Geddes(2013),Insuranceandsustainabilityinﬂood-riskmanagement:TheUKinatransitionalstate, Area,
+45(3),doi:10.1111/area.12038.
+Bennett,O.(2013), FloodDefenceSpendinginEngland ,HouseCommonsLibr.,doi:10.4103/1357-6283.126001.
+Botzen,W.J.W.,J.C.J.H.Aerts,andJ.C.J.M.vandenBergh(2009),Dependenceonﬂoodriskperceptionsonsocioeconomicand
+objectiveriskfactors, WaterResour.Res. ,45,10,http://doi.org/10.1029/2009WR007743.
+Botzen,W.J.W.,J.C.J.M.vandenBergh,andL.M.Bouwer(2010),Climatechangeandincreasedriskfortheinsurancesector:Aglobal
+perspectiveandanassessmentfortheNetherlands, Nat.Hazards,52(3),577–598,doi:10.1007/s11069-009-9404-1.
+Brainard,L.(2008),Whatistheroleofinsuranceineconomicdevelopment? ZurichGovern.Ind.AﬀairsThoughtLeadershipSer.2 .[Available
+athttps://www.draudimas.com/allpics/What_is_the_role_of_economic_developement.pdf.]
+Acknowledgments
+Theresearchleadingtothispaperhas
+receivedfundingfromtheEUSeventh
+Framework Programme, through the
+projectENHANCE(Enhancingriskman-
+agementpartnershipsforcatastrophic
+naturalhazardsinEurope)undergrant
+agreementno.308438aswellasfrom
+theGermanMinistryofEducationand
+Research(BMBF)intheframework of
+theproject“Hochwasser2013”(fund-
+ingcontract13N13017).Dataprovision
+by all ministries and organizations
+mentioned in the paper is gratefully
+acknowledged. We further thank all
+interview partners, Ute Dolezal (Uni-
+versity ofPotsdam) for the graphical
+d e s i g no fa l lﬁ g u r e sa sw e l la sJ o e l
+Hankinson(LSE)foreditingworkand
+helpfulcomments.DrSurminskiwould
+alsoliketoacknowledgetheﬁnancial
+supportoftheUKEconomicandSocial
+ResearchCouncil (ESRC)throughthe
+CentreforClimateChangeEconomics
+andPolicy.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 998
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 21]]
+Earth’s Future 10.1002/2017EF000587
+Bräuninger,M.,S.Butzengeiger-Geyer,A.Dlugolecki,S.Hochrainer,M.Köhler,J.Linnerooth-Bayer,R.Mechler,A.Michaelowa,andS.
+Schulze(2011),ApplicationofeconomicinstrumentsforadaptationtoclimatechangeFinalreport, PerspectivesGmbH,17Dec.
+[Availableathttp://ec.europa.eu/clima/policies/adaptation/what/docs/economicinstrumentsen.pdf.]CLIMA.C.3./ETU/2010/0011
+Bubeck,P.,H.Kreibich,E.C.Penning-Rowsell,W.J.W.Botzen,H.deMoel,andF.Klijn(2015,2015),Explainingdiﬀerencesinﬂood
+managementapproachesinEuropeandintheUSA—Acomparativeanalysis, J.FloodRiskManage. ,doi:10.1111/jfr3.12151.
+Bubeck,P.,J.C.J.H.Aerts,H.deMoel,andH.Kreibich(2016),Preface:Flood-riskanalysisandintegratedmanagement, Nat.HazardsEarth
+Syst.Sci.,16,1005–1010,doi:10.5194/nhess-16-1005-2016.
+Bubeck,P.,W.J.W.Botzen,H.Kreibich,andJ.C.J.H.Aerts(2012),Long-termdevelopmentandeﬀectivenessofprivateﬂoodmitigation
+measures:AnanalysisfortheGermanpartoftheriverRhine, Nat.HazardsEarthSyst.Sci. ,12,3507–3518,
+doi:10.5194/nhess-12-3507-2012.
+CommitteeonClimateChange(2015),Progressinpreparingforclimatechange, Rep.Parliament.
+CommitteeonClimateChange(2016),UKclimatechangeriskassessment2017.[Availableathttps://www.theccc.org.uk/wp-content/
+uploads/2016/07/UK-CCRA-2017-Synthesis-Report-Committee-on-Climate-Change.pdf.]
+Crichton,C.(2008),Towardsacomparisonofpublicandprivateinsuranceresponsestoﬂoodingrisks, Int.J.WaterResour.Dev. ,24(4),
+doi:10.1080/07900620801923161.
+Crick,F.,K.Jenkins,andS.Surminski(2016),Strengtheninginsurancepartnershipsinthefaceofclimatechangeinsightsfroman
+agent-basedmodelofﬂoodinsuranceintheUK, GranthamRes.Inst.Clim.ChangeEnviron.Work.Pap.241 ,London,injournalreview.
+[Availableathttp://www.lse.ac.uk/GranthamInstitute/wpcontent/uploads/2016/06/Working-Paper-241-Crick-et-al.pdf.]
+DepartmentforEnvironment,FoodandRuralAﬀairs(2005), MakingSpaceforWater—TakingForwardaNewGovernmentStrategyfor
+FloodandCoastalErosionRiskManagementinEngland ,DEFRA,15Jan.[Availableathttp://coastaladaptationresources.org/
+PDF-ﬁles/1329-Making-space-for-water.pdf.]
+DepartmentforEnvironment,FoodandRuralAﬀairs(2016), ThePropertyFloodResilienceActionPlan ,DEFRA,10Oct.[Availableat
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/ﬁle/551615/ﬂood-resilience-bonﬁeld-action-plan-
+2016.pdf.]
+DepartmentforEnvironment,FoodandRuralAﬀairs(2017), Post-legislativeScrutinyoftheFloodandWaterManagementAct2010 ,DEFRA,
+28Feb.[Availableathttps://www.gov.uk/government/uploa ds/system/uploads/attachment_data/ﬁle/585493/ﬂood-water-
+management-post-legislative-scrutiny.pdf.]
+DKKV—DeutschesKomiteeKatastrophenvorsorge(Ed.)(2003),LessonsLearned—HochwasservorsorgeinDeutschland—Lernenaus
+derKatastrophe2002imElbegebiet, SchriftenreihedesDKKV29 ,DKKV,Bonn[inGerman].
+Eijgenraam,C.,C.Roos,R.Brekelmans,andD.denHertog(2016),Optimalstrategiesforﬂoodprevention. Manag.Sci.,63(5),1644–1656.
+DKKV—DeutschesKomiteeKatastrophenvorsorge(Ed.)(2013),DasHochwasserimJuni2013, SchriftenreihedesDKKV53 ,Deutsches
+KomiteefürKatastrophenvorsorgee.V.(DKKV),Bonn.
+DKKV—DeutschesKomiteeKatastrophenvorsorge(Ed.)(2015),DasHochwasserimJuni2013—Bewährungsprobefürdas
+HochwasserrisikomanagementinDeutschland, SchriftenreihedesDKKV53 ,DKKV,Bonn[inGerman].
+EnvironmentAgency(2010), FloodandCoastalRiskManagementRiskMappingStrategy2010–2015 ,Environ.Agency.
+EnvironmentAgency(2013), WhatistheupdatedFloodMapforSurfaceWater ,Environ.Agency.
+EnvironmentAgency(2014), FloodandCoastalErosionRiskManagement:Long-termInvestmentScenarios(LTIS)2014 ,Environ.Agency,
+doi:10.1002/ehf2.12004.
+Ermoliev,Y.M.,T.Y.Ermolieva,G.J.Macdonald,V.I.Norkin,andA.Amendola(2000),Asystemapproachtomanagementofcatastrophic
+risks,Eur.J.Oper.Res. ,122,452–460,doi:10.1016/S0377-2217(99)00246-5.
+EuropeanCommission(2007),Directive2007/60/ECoftheEuropeanParliamentandoftheCouncilof23October2007onthe
+AssessmentandManagementofFloodRisks.
+Falkenhagen,B.(2005),ZÜRSDasZonierungssystemderdeutschenVersicherungswirtschaftzurEinschätzungder
+Überschwemmungsgefährdung,in Hochwassergefahrenkarten.ForumfürHydrologieundWasserbewirtschaftungNo.08/05 ,editedby
+H.-B.Kleeberg,85–91[inGerman].
+Filatova,T.(2013),Market-basedinstrumentsforﬂoodriskmanagement:Areviewoftheory,practiceandperspectivesforclimate
+adaptationpolicy, Environ.Sci.Policy ,37,https://doi.org/10.1016/j.envsci.2013.09.005.
+FloodRe(2016), TheFirstFloodreTransitionPlan ,FloodRe,doi:10.3727/096368916X691457.
+GDV(2016), Naturgefahrenreport2016,GDV,Berlin.
+Golnaraghi,M.,S.Surminski,andK.-U.Schanz(2016), AnIntegratedApproachtoManagingExtremeEventsandClimateRisk—Towardsa
+ConcertedPublic-PrivateApproach ,GenevaAssoc.,10Jan.[Availableathttps://www.genevaassociation.org/media/952146/
+20160908_ecoben20_ﬁnal.pdf.]
+Green,C.,C.Dieperink,K.Ek,D.Hegger,M.Pettersson,S.Priest,andS.Tapsell.2013.FloodRiskManagementinEurope:Theﬂood
+problemandinterventions, STAR-FLOODConsortium,Utrecht,theNetherlands.ISBN:978-94-91933-02-8.
+Grothmann,T.,andF.Reusswig(2006),Peopleatriskofﬂooding:Whysomeresidentstakeprecautionaryactionwhileothersdonot, Nat.
+Hazards,38(1–2),101–120,https://doi.org/10.1007/s11069-005-8604-6.
+Hallegatte,S.(2011),Howeconomicgrowthandrationaldecisionscanmakedisasterlossesgrowfasterthanwealth, WorldBankPolicy
+Res.Work.Pap.5617 ,WorldBank,Washington,D.C.,https://doi.org/10.1596/1813-9450-5617.
+Hegger,D.L.T.,P.P.J.Driessen,C.Dieperink,M.Wiering,G.T.Raadgever,andH.F.M.W.VanRijswick(2014),Assessingstabilityand
+dynamicsinﬂoodriskgovernance:Anempiricallyillustratedresearchapproach, WaterResour.Manag. ,28,4127–4142,
+doi:10.1007/s11269-014-0732-x.
+Heintz,M.D.,M.Hagemeier-Klose,andK.Wagner(2012),Towardsariskgovernancecultureinﬂoodpolicy—Findingsfromthe
+implementationofthe“ﬂoodsdirective”inGermany, Water,4(4),135–156,doi:10.3390/w4010135.
+HMGovernment(2016), NationalFloodResilienceReview ,HMGovernment.
+Hudson,P.,W.J.W.Botzen,L.Feyen,andJ.C.J.H.Aerts(2016),Incentivisingﬂoodriskadaptationthroughriskbasedinsurance
+premiums:Trade-oﬀsbetweenaﬀordabilityandriskreduction, Ecol.Econ.,125,1–13,doi:10.1016/j.ecolecon.2016.01.015.
+IKSE(2012), AbschlussberichtüberdieErfüllungdes“AktionsplansHochwasserschutzElbe”2003–2011 ,Int.KommissionzumSchutzderElbe
+(IKSE),Magdeburg,30Mar.[Availableathttp://www.ikse-mkol.org/ﬁleadmin/media/user_upload/D/06_Publikationen/
+02_Hochwasserschutz/2012_IKSE_Abschlussbericht_AP%20HWS_2003-2011.pdf.]
+InsuranceNewslink(2016).FloodRenowsupportedby36insuranceprovidersrepresenting85%ofthemarket.InsuranceNewslink.
+IntergovernmentalPanelonClimateChange(IPCC).(2012),Managingtherisksofextremeeventsanddisasterstoadvanceclimate
+changeadaptation, SpecialRep.Intergovern.PanelClim.Change .
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 999
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 22]]
+Earth’s Future 10.1002/2017EF000587
+Jenkins,K.,S.Surminski,F.Crick,andJ.Hall(2017),AssessingsurfacewaterﬂoodriskandmanagementJstrategiesunderfutureclimate
+change:Insightsfromanagent-basedmode, Sci.TotalEnviron. ,595,159–168,http://doi.org/10.1016/j.scitotenv.2017.03.242.
+Johnson,C.,E.Penning-Rowsell,andD.Parker(2007),Naturalandimposedinjustices:thechallengesinimplementing‘fair’ﬂoodrisk
+managementpolicyinEngland. Geogr.J.,173,374–390,http://doi.org/10.1111/j.1475-4959.2007.00256.x.
+Johnson,C.L.,S.M.Tunstall,andE.C.Penning-Rowsell(2005),Floodsascatalystsforpolicychange:HistoricallessonsfromEnglandand
+Wales,Int.J.WaterResour.Dev. ,21(4),561–575,doi:10.1080/07900620500258133.
+Jongman,B.,S.Hochrainer-Stigler,L.Feyen,J.C.J.H.Aerts,R.Mechler,W.J.WouterBotzen,L.M.Bouwer,G.Pﬂug,R.Rojas,andP.J.Ward
+(2014),Increasingstressondisaster-riskﬁnanceduetolargeﬂood, Nat.Clim.Change ,4,264–268,doi:10.1038/nclimate2124.
+Kaufmann,M.,andM.Wiering(2017),Discursivejunctionsinﬂoodriskgovernance—AcomparativeunderstandinginsixEuropean
+countries,J.Environ.Manage. ,196,doi:10.1016/j.jenvman.2017.03.012.
+Keskitalo,E.C.H.,G.Vulturius,andP.Scholten(2014),AdaptationtoClimateChangeintheInsuranceSector:ExamplesfromtheUK,
+GermanyandtheNetherlands, Nat.Hazard,71(1),315–334,http://doi.org/10.1007/s11069-013-0912-7.
+Kienholz,H.,B.Krummenacher,A.Kipfer,andS.Perret(2004),Aspectsofintegralriskmanagementinpractice—Considerationswith
+respecttomountainhazardsinSwitzerland, Österr.Wasser-Abfallwirtsch. ,56,43–50.
+Kienzler,S.,I.Pech,H.Kreibich,M.Müller,andA.H.Thieken(2015),Aftertheextremeﬂoodin2002:Changesinpreparedness,response
+andrecoveryofﬂood-aﬀectedresidentsinGermanybetween2005and2011, Nat.HazardsEarthSyst.Sci. ,15,505–526,
+doi:10.5194/nhess-15-505-2015.
+Kousky,C.,andH.Kunreuther(2014),AddressingaﬀordabilityintheNationalFloodInsuranceProgram, J.ExtremeEvents ,1(1),
+http://doi.org/10.1142/S2345737614500018.
+Kreibich,H.,A.H.Thieken,T.Petrow,M.Müller,andB.Merz(2005),Floodlossreductionofprivatehouseholdsduetobuilding
+retroﬁtting—LessonslearnedfromtheElbeﬂoodsinAugust2002, Nat.HazardsEarthSyst.Sci. ,5,117–126,
+doi:10.5194/nhess-5-117-2005.
+Kreibich,H.,P.Bubeck,M.Kunz,H.Mahlke,S.Parolai,B.Khazai,J.Daniell,T.Lakes,andK.Schröter(2014),Areviewofmultiplenatural
+hazardsandrisksinGermany, Nat.Hazard,74,2279–2304,doi:10.1007/s11069-014-1265-6.
+Kreibich,H.,I.Pech,K.Schröter,M.Müller,andA.H.Thieken(2016),Newinsightsintoﬂoodwarningandemergencyresponsefromthe
+perspectiveofaﬀectedparties, Nat.HazardsEarthSyst.Sci.Discuss. ,doi:10.5194/nhess-2016-133inreview.
+Kreibich,H.,I.Seifert,A.H.Thieken,E.Lindquist,K.Wagner,andB.Merz(2011),Recentchangesinﬂoodpreparednessofprivate
+householdsandbusinessesinGermany, Reg.Environ.Change ,11(1),59–71,doi:10.1007/s10113-010-0119-3.
+Krieger,K.(2013),Thelimitsandvarietyofrisk-basedgovernance:thecaseofﬂoodmanagementinGermanyandEngland, Regul.Gov.,7,
+236–257,http://doi.org/10.1111/rego.12009.
+Kron,W.(2013),VersicherungvonHochwasserschäden,in Hochwasserhandbuch,2ndedition,chap.10ed.,editedbyH.PattandR.
+Jüpner,Springer,Berlin,553–606[inGerman].
+Kunreuther,H.,andE.Michel-Kerjan(2009),Managingcatastrophesthroughinsurance:Challengesandopportunitiesforreducingfuture
+risks.Work.Pap.2009-11-30 ,TheWhartonSchool,Univ.Pennsylvania,Philadelphia.
+Lamond,J.,D.Proverbs,andF.Hammond(2009),Floodingandpropertyvalues,in FindingsinBuiltandRuralEnvironments(FiBRE) ,edited
+byS.Brown,RoyalInst.Chart.Surv.,London.
+LAWALänderarbeitsgemeinschaftWasser(Eds.)(1995),LeitlinienfüreinenzukunftsweisendenHochwasserschutz.Hochwasser-
+UrsachenundKonsequenzen.[Availableat:http://lawa.de/documents/Leitlinien_d59.pdf.]
+McAneney,J.,R.Crompton,D.McAneney,R.Musulin,G.Walker,andR.PielkeJr. (2013), Market-BasedMechanismsforClimateChange
+Adaptation,MacquarieUniv.,AonBenﬁeldAnal.AsiaPacif.Univ.Colorado,Boulder.
+Mechler,R.,M.Pulido-Velazquez,M.Koehler,K.Jenkins,S.Surminski,andK.Williges;EconomicInstruments,inENHANCE(2016),.Novel
+multi-sectorpartnershipsindisasterriskmanagement.ResultsoftheENHANCEproject.editedbyJ.AertsandJ.Mysiak, EUFP7Proj.
+ENHANCE.
+Mechler,R.,L.M.Bouwer,J.Linnerooth-Bayer,S.Hochrainer-Stigler,J.C.J.H.Aerts,S.Surminski,andK.Williges(2014),Managing
+unnaturaldisasterriskfromclimateextremes, Nat.Clim.Change ,4,235–237,doi:10.1038/nclimate2137.
+Merz,B.,J.Aerts,K.Arnbjerg-Nielsen,M.Baldi,A.Becker,A.Bichet,G.Blöschl,L.M.Bouwer,A.Brauer,F.Cioﬃ,etal.(2014),Floodsand
+climate:Emergingperspectivesforﬂoodriskassessmentandmanagement, Nat.HazardsEarthSyst.Sci. ,14,1921–1942,
+doi:10.5194/nhess-14-1921-2014.
+Meyer,V.,C.Kuhlicke,J.Luther,S.Fuchs,S.Priest,W.Dorner,K.Serrhini,J.Pardoe,S.McCarthy,J.Seidel,etal.(2012),Recommendations
+fortheuser-speciﬁcenhancementofﬂoodmaps, Nat.HazardsEarthSyst.Sci. ,12,1701–1716,doi:10.5194/nhess-12-1701-2012.
+Müller,U.(2010), Hochwasserrisikomanagement:TheorieundPraxis ,Vieweg +Teubner,Wiesbaden,372[inGerman].
+NationalResearchCouncil(2015), TyingFloodInsurancetoFloodRiskforlow-LyingStructuresintheFloodplain ,Natl.Acad.Press,
+Washington,D.C.,doi:10.17226/21720.
+O’Hare,P.,I.White,andA.Connelly(2015),Insuranceasmaladaptation:Resilienceandthe‘businessasusual’paradox, Environ.Plan.C:
+Govern.Policy.https://doi.org/10.1177/0263774X15602022.
+Osberghaus,D.,andA.Philippi(2016),PrivateHochwasservorsorgeundElementarschadenversicherung:MoralHazard,derEﬀektvon
+Informationskampagnen,undeineVersicherungsillusion, ZVersWiss,105,289–306,doi:10.1007/s12297-016-0341-2.
+Otto,A.,A.Hornberg,andA.H.Thieken(2016),LocalcontroversiesofﬂoodriskreductionmeasuresinGermany.Anexplorativeoverview
+andrecentinsights, J.FloodRiskManage. ,doi:10.1111/jfr3.12227.
+Oxera(2015),Whydoesitalwaysrainonme?Aproposedframeworkforﬂoodinsurance, Oxera,10Oct.[Availableathttp://www.oxera
+.com/Latest-Thinking/Agenda/2015/Why-does-it-always-rain-on-me-A-proposed-framework.aspx.].
+Penning-Rowsell,E.C.,S.Priest,andC.Johnson(2014),TheevolutionofUKﬂoodinsurance:Incrementalchangeoversixdecades, Int.J.
+WaterResour.Dev. ,30(4),694–713,doi:10.1080/07900627.2014.903166.
+Petrow,T.,A.H.Thieken,H.Kreibich,B.Merz,andC.H.Bahlburg(2006),ImprovementsonﬂoodalleviationinGermany:lessonslearned
+fromtheElbeﬂoodinAugust2002. Environ.Manage.,38,717–732,http://dx.doi.org/10.1007/s00267-005-6291-4.
+Pitt,M.2008.ThePittreview:learninglessonsfromthe2007ﬂoods.[Availableat:http://webarchive.nationalarchives.gov.uk/
+20100812084907/http://archive.cabinetoﬃce.gov.uk/pittreview/_/media/assets/www.cabinetoﬃce.gov.uk/ﬂooding_review/
+pitt_review_full%20pdf.pdf.]
+Poljanšek,K.,M.MarinFerrer,T.DeGroeve,andI.Clark(Eds.)(2017), ScienceforDisasterRiskManagement2017:KnowingBetterandLosing
+Less.EUR28034EN ,Publ.Oﬀ.Eur.Union,Luxembourg,ISBN978-92-79-60678-6,doi:10.2788/688605,JRC102482.
+Porter,J.,andD.Demeritt(2012),Flood-riskmanagement,mapping,andplanning:Theinstitutionalpoliticsofdecisionsupportin
+England,Environ.Plann.A ,44(10),doi:10.1068/a44660.
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 1000
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 23]]
+Earth’s Future 10.1002/2017EF000587
+Priestley,S.(2016), Winterﬂoods2015–16 ,HouseCommonsLibr.,doi:10.1016/j.jad.2015.12.011.
+Ran,J.,andZ.Nedovic-Budic(2016),Integratedspatialplanningandﬂoodriskmanagement:Anewconceptualframeworkforthe
+spatiallyintegratedpolicyinfrastructure, Comput.Environ.UrbanSyst. ,57,https://doi.org/10.1016/j.compenvurbsys.2016.01.008.
+Renn,O.(2008), RiskGovernance:CopingwithUncertaintyinaComplexWorld ,Earthscan,London,doi:10.1177/0960327108098495.
+Schwarze,R.,andG.G.Wagner(2004),IntheaftermathofDresden:NewdirectionsinGermanﬂoodinsurance, GenevaPap.RiskInsur:
+IssuesPract.,29(2),154–168,doi:10.1111/j.1468-0440.2004.00279.x.
+Seifert,I.,W.J.W.Botzen,H.Kreibich,andJ.C.J.H.Aerts(2013),InﬂuenceofFloodRiskCharacteristicsonFloodInsuranceDemand:A
+ComparisonBetweenGermanyandtheNetherlands. Nat.Hazard.EarthSys. ,13(7),1691–1705,
+https://doi.org/10.5194/nhess-13-1691-2013.
+Surminski,S.(2009), HowCantheInsuranceIndustryPromoteClimateChangeAdaptation?ACaseStudyfromtheUK ,CharteredInsur.Inst
+ISSN1932-1465;http://doi.org/10.1561/101.00000062.
+Surminski,S.(2014),Theroleofinsuranceinreducingdirectrisk:Thecaseofﬂoodinsurance, Int.Rev.Environ.Resour.Econ. ,7(3–4).
+Surminski,S.(2016),Fitforpurposeandﬁtforthefuture?AnevaluationoftheUK’snewﬂoodreinsurancepool, Work.Pap.preparedfor
+RFF/Whartonworkshop,ImprovingDisasterFinancing:EvaluatingPolicyInterventionsinDisasterInsuranceMarkets ,Washington/US,
+29–30Nov.
+Surminski,S.,andJ.Eldridge(2015),FloodinsuranceinEngland:Anassessmentofthecurrentandnewlyproposedinsuranceschemein
+thecontextofrisingﬂoodrisk, J.FloodRiskManag. ,doi:10.1111/jfr3.12127.
+Surminski,S.,andP.Hudson(2017),InvestigatingtheriskreductionpotentialofdisasterinsuranceacrossEurope, GenevaPap.RiskInsur.
+IssuesPract.,doi:10.1057/s41288-016-0039-7.
+Surminski,S.,J.Aerts,W.Botzen,P.Hudson,J.Mysiak,andC.Pérez-Blanco(2015),Reﬂectionsonthecurrentdebateonhowtolinkﬂood
+insuranceanddisasterriskreductionintheEuropeanUnion, Nat.Hazards,79(3),1451–1479,doi:10.1007/s11069-015-1832-5.
+Tanner,T.,D.Lewis,D.Wrathall,R.Bronen,N.Cradock-Henry,S.Huq,andM.A.Rahman(2015),Livelihoodresilienceinthefaceofclimate
+change,Nat.Clim.Change ,5(1),http://doi.org/10.1038/nclimate2431.
+teLinde,A.H.,P.Bubeck,J.E.C.Dekkers,H.deMoel,andJ.C.J.H.Aerts(2011),FutureﬂoodriskestimatesalongtheriverRhine, Nat.
+HazardsEarthSyst.Sci. ,11,459–473,http://doi.org/10.5194/nhess-11-459-2011
+Thieken,A.H.,M.Müller,H.Kreibich,andB.Merz(2005),Flooddamageandinﬂuencingfactors:NewinsightsfromtheAugust2002ﬂood
+inGermany, WaterResour.Res. ,41,doi:10.1029/2005WR004177,ISSN:0043-1397.
+Thieken,A.H.,T.Petrow,H.Kreibich,andB.Merz(2006),InsurabilityandmitigationofﬂoodlossesinprivatehouseholdsinGermany, Risk
+Anal.,26(2),383–395,doi:10.1111/j.1539-6924.2006.00741.x.
+Thieken,A.H.,H.Kreibich,M.Müller,andB.Merz(2007),Copingwithﬂoods:Preparedness,responseandrecoveryofﬂood-aﬀected
+residentsinGermanyin2002, Hydrol.Sci.J. ,52(5),1016–1037,doi:10.1623/hysj.52.5.1016.
+Thieken,A.H.,S.Mariani,S.Longﬁeld,andW.Vanneuville(2014),Preface:Floodresilientcommunities—Managingtheconsequencesof
+ﬂooding,Nat.HazardsEarthSyst.Sci. ,14,33–39,doi:10.5194/nhess-14-33-2014.
+Thieken,A.H.,S.Kienzler,H.Kreibich,C.Kuhlicke,M.Kunz,B.Mühr,M.Müller,A.Otto,T.Petrow,S.Pisi,etal.(2016),Reviewoftheﬂood
+riskmanagementsysteminGermanyafterthemajorﬂoodin2013, Ecol.Soc.,21(2),51,doi:10.5751/es-08547-210251.
+Treby,E.,M.Clark,andS.Priest(2006),Confrontingﬂoodrisk:Implicationsforinsuranceandrisktransfer, J.Environ.Manag. ,81(4)ISSN
+0301-4797,https://doi.org/10.1016/j.jenvman.2005.11.010.
+UnitedNationsOﬃceforDisasterRiskReduction(2015),Sendaiframeworkfordisasterriskreduction,15Jan.[Availableat
+http://www.unisdr.org/we/coordinate/sendai-framework.].
+U.S.ArmyCorpsofEngineers(2015),NorthAtlanticCoastcomprehensivestudyﬁnalreport:Resilientadaptationtoincreasingrisk.
+[Availableathttp://www.nad.usace.army.mil/Portals/40/docs/NACCS/NACCS_main_report.pdf.]
+vonKirchbach,H.-P.,S.Franke,H.Biele,L.Minnich,M.Epple,F.Schäfer,F.Unnasch,andM.Schuster.(2002),BerichtderUnabhängigen
+KommissionderSächsischenStaatsregierungFlutkatastrophe2002,30Mar.[Availableat
+http://www.schlaudi.de/hw/Kirchbachbericht.pdf.]
+vonKirchbach,H.-P.,T.Popp,andJ.Schröder(2013), BerichtderSächsischenStaatsregierungzurUntersuchungderFlutkatastrophe2013 ,
+SächsischeStaatskanzlei,Dresden.
+VonPeter,G.,S.vonDahlen,andS.Saxena(2012),Unmitigateddisasters?Newevidenceonthemacroeconomiccostofnatural
+catastrophes,BISWork.Pap.No.394 ,BankforInternationalSettlements,Basel.[Availableatwww.bis.org/publ/work394.pdf.]ISSN
+1020-0959(print)ISSN1682-7678(online)
+Walker,G.,R.Whittle,W.Medd,andN.Watson(2010),Riskgovernanceandnaturalhazards, CapHaz-NetWP2Rep .,LancasterEnviron.
+Centre,LancasterUniv.,Lancaster.
+Ward,B.(2016),EconomicimpactsofﬂoodingintheUK.GranthamResearchInstituteonClimateChangeandtheEnvironment.
+[Availableat:http://www.lse.ac.uk/GranthamInstitute/news/economic-impacts-of-ﬂooding-in-the-uk/.]
+Wiering,M.,M.Kaufmann,H.Mees,T.Schellenberger,W.Ganzevoort,D.L.T.Hegger,C.Larrue,andP.Matczak(2017),Varietiesofﬂood
+riskgovernanceinEurope:Howdocountriesrespondtodrivingforcesandwhatexplainsinstitutionalchange? Glob.Environ.Change ,
+44,doi:10.1016/j.gloenvcha.2017.02.006.
+Zahn,F.andS.Neuss(2012),WeightingAttitudesandtheDemandforFloodInsurance:UnderstandingProbabilityWeightingfor
+Low-Probability-High-Consequence-Risks.MunichRiskandInsuranceCenterWorkingPaper4.
+ZurichFinancialServices(2017),Learningfrompastﬂoodevents.[Availableat
+https://www.zurich.com/en/corporate-responsibility/ﬂood-resilience/learning-from-post-ﬂood-eventsZurich.]
+SURMINSKIANDTHIEKEN FLOODRISKREDUCTIONANDINSURANCE 1001
+ 23284277, 2017, 10, Downloaded from https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017EF000587, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

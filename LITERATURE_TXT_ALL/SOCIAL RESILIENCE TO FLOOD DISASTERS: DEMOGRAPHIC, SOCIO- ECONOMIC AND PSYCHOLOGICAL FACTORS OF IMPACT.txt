@@ -1,0 +1,1103 @@
+[[PAGE 1]]
+SOCIAL RESILIENCE TO FLOOD DISASTERS: DEMOGRAPHIC, SOCIO-
+ECONOMIC AND PSYCHOLOGICAL FACTORS OF IMPACT 
+ 
+Vladimir M. Cvetković123*, Tamara Ivković23 
+ 
+1 Faculty of Security Studies, University of Belgrade, Gospodara Vuč ića 50, 11040 Belgrade, Serbia; 
+vmc@fb.bg.ac.rs 
+2 Scientific-Professional Society for Disaster Risk Management, Dimitrija Tucovića 121, Belgrade, Serbia 
+3   International Institute for Disaster Research, Dimitrija Tucovića 121, Belgrade, Serbia. 
+ 
+* Correspondence: vmc@fb.bg.ac.rs. 
+ 
+Abstract: Starting from the increasingly frequent consequences of floods in local communities in Serbia, this 
+paper aims to examine the level and impact of selected demographic, socio -economic and psychological factors 
+on the level of social resilience to flood disasters. The research was conducted using a provided questionnaire and 
+then collected online for 261 respondents during August 2021. The research results show a statistically significant 
+influence of gender, previous experience, social ties, trust in public institutions and involvement in risk 
+communication processes on the level of social resilience to flooding disasters.  In addition, research has found 
+that strengthening social resilience requires strengthening social networking, trust and solidarity among members 
+of the local community. The obtained research results can significantly help all stakeholders formulate strategies, 
+plans, and initiatives to improve social resilience to the conseque nces of flood disasters and create preconditions 
+for building a safe and sustainable environment. 
+ 
+Keywords: disaster, flood, social resilience, demographic, socio-economic, psychological factors.  
+ 
+1. Introduction 
+ 
+The application of the concept of resilience in disaster management proves to be one of the critical aspects in the 
+interpretation and management of the complexity of the natural environment and social and public infrastructure 
+systems (Koliou et al., 2018). The main difficulty of flood risk management is their rapid occurrence and spatial 
+distribution, which means the short time required for warning and the limited time available to minimise risk 
+(Bodoque et al., 2016). Traditional flood risk management approaches have focused on flood defence to mitigate 
+their consequences. However, many experiences show that structural solutions alone will not solve flood problems 
+(Adedeji, Proverbs, Xiao & Oladokun, 2018; Koliou et al., 2018; O'Neill, Brereton, Shahumyan & Clinch, 2016). 
+ Flood resilience has become a significant focus of flood risk management policy as reflected in a strategy that 
+provides the pre conditions for maximum flood mitigation (Adedeji, Proverbs, Xiao & Oladokun, 2018). The 
+emergence of a new paradigm has shifted the focus from a reactive approach to prevention, i.e., resilience building 
+and non-structural measures such as risk assessments , flood warnings, awareness -raising, household readiness, 
+land use planning, and emergency management (O'Neill et al.  2016). The EU Floods Directive has incorporated 
+this policy shift by advocating for an approach that includes interdependent measures in f lood risk management 
+plans to reduce the likelihood and consequences of floods (Nones, 2015). The way people perceive risk is essential 
+for understanding people’s responses to floods and taking appropriate action to improve them (O’Neill, Brereton, 
+Shahumyan & Clinch, 2016). The responsibility for taking protective measures against the consequences of floods 
+is mainly attributed to the government, while the share of citizen participation is tiny.  
+ It is essential to recognise that each individual has a resp onsibility to strengthen their resilience, thus helping 
+to improve the strength of the community by having a clear perception of the risk, regularly informing and taking 
+protection measures (Soetanto, Mullins & Achour, 2017). Resilience helps society resist, absorb and recover from 
+small and large-scale disorders, i.e. both within local communities and at the level of nations (Koliou et al., 2018). 
+Interest in social resilience to disasters is closely related to the need to determine measures to prevent and mitigate 
+the negative consequences of shocks and disasters in local communities and at the regional and national levels 
+(Saja et al., 2019). Understanding the various factors that determine the perception and behaviour of the population 
+in the context of floods can contribute to the identification of groups with lower perceptions of flood risk, based 
+on which appropriate strategies for improving social resilience to floods can be developed and implemented 
+(Soetanto, Mullins & Achour, 2017). Identifying and devising adequate measures requires gaining insight into 
+how society is resilient and which factors are vital in determining the degree of social resilience. Information on 
+social resilience can help decision -makers in communities at risk of disaster when  adopting and implementing 
+preventive measures (Khoja, Schubert & Joerin, 2020). A significant challenge for contemporary research is to 
+formulate a unique standard of social resilience, emphasising uniformity that would allow comparing the 
+
+[[PAGE 2]]
+resilience stat us of two communities to make appropriate decisions about investing in resilience (Soetanto, 
+Mullins & Achour, 2017). This paper reviews the international scientific literature to examine the factors 
+influencing social resilience to floods to identify the essential demographic, socio -economic, psychological and 
+political-cultural resilience characteristics of communities. Identifying and understanding the impact of these 
+factors on strengthening social resilience to the consequences of flood disasters provides clear guidelines through 
+which citizens can most adequately prepare, face and recover from the effects of flood disasters.  
+ 
+2. Literary review 
+ 
+Demographic characteristics 
+ 
+Demographic characteristics of the community, such as gender and age, are recognised in numerous studies as 
+critical influencing factors that determine the population's ability to prepare for, cope with, respond to and recover 
+from the harmful effects of floods (Ahmad & Afzal, 2020; Koks et al. , 2015; Salvati et al., 2019; Scherzer et al., 
+2019; Soetanto, Mullins & Achour, 2017). Demographic factors may help explain why two people living in the 
+same geographic area have different perceptions of flood risk and show other behaviours in flood-related disasters 
+(Soetanto, Mullins & Achour, 2017). Identifying potentially vulnerable groups in terms of gender and age and 
+recognising the circumstances in which people have lost their lives are significant in improving human security 
+and increasing community resilience. Gathering the necessary data on the age and gender structure of the 
+community can be of great help in making recommendations for self -protection actions, planned construction of 
+homes and shelters adapted to target groups, as well as proactive policies that can contribute to reducing the large 
+numbers of people affected by floods (Koks et al. 2015). 
+ The gender dimension of flood- related disasters is a critical area of research on social resilience, which can 
+significantly improve social resilience, starting by identifying and strengthening the resilience of gender -
+vulnerable groups. The catastrophic floods that hit the Republic of Serbia in 2014 raised many important issues 
+of improving social resilience in the event of floods, among which the gender dimension of flood-induced disasters 
+stands out. The results of a survey conducted to examine the gender dimension of disasters in the areas affected 
+by the May 2014 floods in Serbia confirmed that gender is one of the most important predictors in the context of 
+perception, preparedness and response to floods (Cvetković, Roder, Öcal, Tarolli & Dragićević, 2018). A critical 
+study examining flood risk perception in the Republic of Ireland found a  significant correlation between gender 
+differences in the affective component of flood risk perception (McDowell et al., 2020). The findings suggest that 
+gender differences exist and, as such, may affect the risk to human health during and immediately aft er floods.  
+ Based on the analysis of surveys, it was determined that women showed a lower level of awareness about the 
+potential health risks caused by floods. Also, women tend to take activities that would supply clean drinking water 
+inside the house in case of water contamination, such as boiling water or changing the source of drinking water. 
+In contrast, male respondents expressed a greater propensity for physical or more typical male behaviour, such as 
+using sandbags to prevent contamination before and during floods and treating or chlorinating water before 
+consumption. Based on these findings, the authors suggest that gender-based behaviour can be generally described 
+as internal, i.e. concentrated on taking activities within households to prevent or reduce the consequences of floods 
+that are characteristic of women, and externally focused on taking actions outside the home to avoid consequences. 
+Floods are characteristic of men (McDowell et al. , 2020). However, an earlier study examining the impact of 
+flood exposure on gender perspective showed that higher risk perceptions did not result in higher levels of 
+protective behaviour, noting that traditional gender roles predominate among women despite increased risk 
+perceptions. Men are perceived as protecto rs who are more inclined to take risk- reduction measures (O’Neill et 
+al., 2016). 
+ Studies examining the impact of floods on rural areas in Pakistan have shown a positive link between the sexes 
+of men and the adjustment of flood risk management tools about all adaptation measures (Ahmad & Afzal, 2020). 
+Local traditions and customs in the field of study characterise the ideas of man's dominant role, with men being 
+more capable of manual labour, construction work and taking measures to protect property from women in the 
+event of disasters. Research findings from the Bodin County, Pakistan Flood Case Study point to the need to 
+improve gender disparities in disaster management focusing on women's contribution to building resilience and 
+sustainable development in different post-disaster contexts (Drolet et al. , 2015). The study shows that women's 
+work capacity has effectively doubled due to the district’s floods. Women have traditionally been the primary 
+caregivers in the flood-affected area, providing food and bas ic medical care to children and adults. In addition, 
+caring for the family was further hampered after the floods, as it was necessary for them to further participate in 
+the renovation of homes and agricultural land. Women affected by the difficult circumst ances called on the 
+government to provide gender -sensitive services and pay more attention to the surviving victims, especially 
+pregnant women and mothers in the shelters it offered. 
+ The Gender Dimension Survey of Natural Disasters, focusing on women's experience in dealing with disasters 
+in the city of Malabon, showed that despite their low socio-economic status, women sought to prepare for disasters 
+
+[[PAGE 3]]
+by allocating funds for emergencies and using family and personal packages. Disaster case (Reyes & Lu, 201 6). 
+Being at home, women knew more about the needs of their family members, which were especially pronounced 
+during disasters. Disasters have been shown to significantly affect women's work and psychological burden as 
+they take on the role of guardians and  become primarily responsible for children, the elderly, and people with 
+disabilities. Analysis of the impact of gender on flood resilience showed that developed countries have higher 
+mortality rates than men. In comparison, less developed countries have higher mortality rates than women, 
+attributed to gender inequalities, different roles in care and limited access to adequate resources. (Salvati et al. , 
+2019). Gender analysis found that the floods killed more men than women in all age categories from 0 to 69, while 
+the elderly female mortality rate was higher than the male mortality rate. Men's higher mortality is explained by 
+men being more numerous than women in outdoor work and activities. Until recently, rescue services consisted 
+entirely of men. Research conducted to examine the impact of floods on health in the gender dimension has shown 
+that the effects of floods on men and women differ significantly (Adedeji et al. , 2018). The study shows that 
+women or girls may be at greater risk of mental problems than men or boys after flood exposure. Human resilience 
+can be enhanced by adequately preparing and building the capacity to withstand floods or reduce impacts, taking 
+into account a gender-based approach. Citizen participation in strengthening flood resilience can be improved by 
+providing adequate information within civil protection plans by specifying what to do and what not to do during 
+and after flooding and educating and raising citizens' awareness of hydrological hazards.  
+ The factor of influence that plays a significant role in understanding the perception of risk and resistance of 
+citizens to floods is the age of individuals. Research shows that the older population generally assesses risks more 
+accurately than the younger population. Their risk assessment is closer to the actual level of risk to which they are 
+exposed (Soetanto, Mullins & Achour, 2017). In this context, a higher level of protective behaviour and adequate 
+adaptation to dangers is conditioned by increasing age, i.e.  the perception of increased vulnerability to disasters 
+(Koks et al., 2015). Many extreme events show that younger people are more resilient in such situations, i.e. they 
+have a greater predisposition to survive due to better physical fitness, which makes them less likely to be prone 
+to preventive behaviour  and measures to become more resilient to extreme events (Ahmad & Afzal, 2020; 
+Scherzer et al. , 2019; Soetanto, Mullins & Achour, 2017). The most significant interest in taking protective 
+measures to reduce the risk of disa sters is characteristic of those who consider themselves most vulnerable to 
+extreme events. Older people mostly hold such a perception (Soetanto, Mullins & Achour, 2017). The impact of 
+disasters on the elderly population suggests that the resilience of the  elderly may be remarkably  reduced after 
+disasters due to health problems. Age -related problems, such as attention, memory, cognition, and decision-
+making disorders, prove significant challenges in the critical stages of risk communication, warning, evacua tion, 
+or recovery, when senior citizens may be denied assistance for various reasons  (Dzialek et al., 2016). 
+Possible health problems faced by the elderly include limited mobility, cognition, hearing and vision problems, 
+increased vulnerability to infections, and mental well -being (Liddell & Ferreira, 2019). The greater  exposure of 
+older people may also be due to financial constraints, lower education, social isolation affecting social support 
+and limited access to information on disasters, health constraints and less motivation to take preventive measures 
+(Dzialek et al., 2016). The findings of previous studies a re confirmed by a survey of  the impact of floods on the 
+population of Italy, which showed that people over 70 have a disproportionately higher mortality rate than other 
+age groups in the case of floods, with the results interpreted as due to increased concern for their protection during 
+dangerous events (Salvati et al., 2019). 
+ A recent survey of the Flood Resilience Index confirmed that the higher the percentage of children and the 
+elderly in the district, the greater the vulnerability to floods and the lo wer the strength of the recovery in the 
+community (Chen & Leandro, 2019). The age of the population in a particular  area can affect the increased 
+vulnerability to floods in two ways, depending on whether the households are older or younger (Scherzer et al. , 
+2019). Families with small children are characterised  by a higher degree of vulnerability during the evacuation . 
+They must allocate additional time and resources to take care of children during the evacuation and care. On the 
+other hand, older people can often have limitations in movement , which can significantly complicate evacuation 
+during floods, further increase efforts and make it more challenging to provide care to others (Ahmad & Afzal, 
+2020). These difficulties and limitations that characterise older people do not mean that they cannot play an 
+essential role in flood risk management and strengthening the community’s resilience . Older people can be 
+important information on flood risk and responses, especially if they have significant life experience  in flood-
+prone areas. A study examining flood mitigation strategies based on age groups showed that households younger 
+than 25 and older than 40 are most vulnerable to floods (Ahmad & Afzal, 2020). The inadequacy of the youth 
+experience and the lack of energy in the elderly population were the main obstacles in adjusting mitigation 
+strategies compared to middle -aged households. Elderly households were characterised  by protective measures 
+such as arranging sandbags, building a house with reinforced material and strengthening foundations. In contrast, 
+households with younger members were represented  by preparing storage space upstairs and building shelters in 
+front of homes as mitigation measures. 
+ In contrast to the previous research, a study examining the impact of age on risk perception showed a different 
+trend of the effects of ageing on perceived vulnerability, i.e., the feeling of vulnerability was characterised by a 
+
+[[PAGE 4]]
+tendency to increase up to 55 years, while respondents older than 55 showed less vulnerability to floods (Adelman 
+& Asiyanbi, 2015). In this case, the experience proved to be a significant advantage in countering floods. Also, 
+during the mentioned examination of the resistance of rural areas to floods, a positive combination effect of a 
+higher age coefficient on mitigation and adaptation measures were determined. It has been observed that older 
+households prefer elevated ground floors and precautionary savings to households with a younger population. It 
+is essential to point out that the able-bodied population is a crucial category of the population that is more capable 
+of faster evacuation in case of floods than children or the elderly and participation in supporting others during 
+evacuation (Scherzer et al. , 2019). Given that the elderly population has a weaker ability to place sandbags to 
+protect their households from rising water quickly, areas, where the majority population is elderly, should be more 
+adequately protected by flood protection infrastructure rather than individual flood mitiga tion measures. Action 
+before floods Identifying socially vulnerable groups is essential because it can significantly help policymakers 
+develop the most effective mitigation measures in flood-prone areas (Cox et al., 2015). 
+ 
+Socio-economic 
+ 
+Socio-economic status includes various dimensions of social existence, such as wealth or poverty, as well as 
+access to information, knowledge, political representation and power, making it one of the critical indicators of 
+citizens' ability to prepare, respond adequately and recover from disasters (Dzialek et al., 2016). Socio-economic 
+indicators are among the most frequently mentioned indicators in the literature on social resilience (Khoja et al. , 
+2020; Rufat et al., 2015). Social resilience in the context of a disaster is conditioned by the circumstances in which 
+the local community is in the pre -and post-disaster phases and how the community responds to the crisis during 
+the event (Khalili et al. , 2015). Therefore, indicators that will represent each pha se of a disaster are needed in 
+determining and measuring social resilience. These are most often income, savings and contingencies, 
+employment, car ownership, homeownership and health insurance (Khoja et al., 2020). Employment and income 
+appear to be criti cal indicators of an individual's and the community's ability to recover from disaster -related 
+damage and losses. In contrast, lower -income individuals are less flexible and adaptable during crises than high-
+income individuals. Although property ownership increases individual costs resulting from disasters, these costs 
+often do not exceed the total income of wealthier households. Their ability to cope with catastrophe remains 
+relatively high (Rufat et al., 2015). 
+ The size of households and the presence of children in the home are essential family characteristics that affect 
+risk perception. A study conducted in rural China shows that the ability to perceive flood risk decreases with an 
+increasing number of people in the household. In contrast, households wi th children under 12 show a higher risk 
+perception than those without children at home (Liu, Li, Shen, Xie & Zhang, 2018). The share of dependents is a 
+significant factor that affects the sensitivity of households to the risk of floods, i.e. more dependent  children or 
+the elderly in the home increases its sensitivity to the risk of floods, as dependents may require additional care 
+and appropriate food that may not be possible to organise during floods (Shah et al., 2018). In the event of sudden 
+natural disasters such as floods, children are more likely to become victims; as a result of which, families with 
+children should be more motivated to take measures to protect their families. Single-parent households often have 
+limited financial resources that they ca n set aside for their children’s care, negatively affecting flood resilience 
+and recovery (Dzialek, Fiedeń, Listwan-Franczak & Franczak, 2016). Households with more than three children 
+show greater preparedness for floods, while families composed only of older ones show significantly lower 
+preparedness for floods (Shah et al., 2018). Children, too, can contribute to strengthening local ties and involving 
+adults in communication and risk education through their schooling, leisure and friendship networks. The se 
+reasons indicate the importance of directing special efforts and attention to designing adequate plans and programs 
+for educating children in disaster management to encourage them to contribute to strengthening the social 
+resilience of their local community. 
+ The health and healthy lifestyle of individuals are essential characteristics of community resilience. A health 
+and well-being approach has been applied in many studies to indicate stability (Adelyan & Asiyanbi, 2016; Rufat 
+et al., 2015; Saja et al. , 2018; Qasim et al. , 2016). State and local government structures in charge of primary 
+health care are responsible for working with residents in public health education and preventive care to limit 
+exposure to flood -related diseases (Saulnier, Hanson, Möl sted Alvesson & Von Schreeb, 2018). Indicators for 
+measuring equal access to health services are the availability of preventive health measures, physical resources in 
+the health sector, i.e. institutions, human resources in the health sector and access to health services, including 
+primary health care institutions. Access to health facilities is assessed by measures such as the distance to the 
+medical facility and the availability of necessary medicines and beds in hospitals (Saja et al. , 2018). Floods hurt 
+physical and mental health, with the most significant impact of floods on health being death by drowning. 
+Approximately one-third of all deaths during flood events occur beyond floodwaters and result from dehydration, 
+stroke, lack of medical supplies, and  health problems that are often overlooked before floods (Saulnier et al. , 
+2018). Health problems directly or indirectly related to floods are diarrhoea, acute respiratory infections, skin 
+infections, vector-borne diseases and injuries (Saulnier et al. , 2018). Then, malaria, hepatitis, intestinal diseases, 
+
+[[PAGE 5]]
+and mental health problems, including depression, stand out as more serious health problems related to floods 
+(Adelyan & Asiyanbi, 2016). Health problems are also the drivers and consequences of social vulnerability to 
+floods, with unique challenges during and after floods being the evacuation and care of people with low self-help 
+capacity, long -term or chronic patients in need of continuous maintenance, and patients in need of home care 
+(Qasim et al., 2016). The psychological effects of floods are more severe after floods. They have existed for a 
+long time, mainly due to conflicts with insurance companies and homeowners and disruptions to commercial, 
+public, health and municipal services (Rufat et al. , 201 5). Qazim et al.  (2016) state that limited mobility, 
+dependence on care and reliance on medications cause particular difficulties during evacuation.  
+ Also, recovery processes are significantly hampered in conditions of disruption of services that are of 
+existential importance for the population with special needs, with a low percentage of people with disabilities 
+proving to be a significant contributing factor to increasing community resilience (Qasim et al. , 2016). People 
+with specific needs such as physical or mental disabilities and the elderly, who need special care, often report that 
+no one consults them for disaster management activities (Saja et al. , 2018). When it comes to children, parental 
+support is a crucial protective mechanism for improving the ir resilience, where the search for emotional support 
+is key to building strength in different contexts. Its availability is further strengthened when there are strong 
+community relationships (Graber, Pichon & Carabine, 2015). . These relationships, togeth er with social support 
+before, during and after the disaster, create reserves for building the emotional and practical resources necessary 
+for coping that are determined by persistent and ubiquitous stressors that further complicate reactions to 
+physiological stress and psychological response. Public health measures taken are microbiological surveillance of 
+public water supplies and private wells and enhanced surveillance during and after heavy rainfall (Saulnier et al., 
+2018). It is essential to emphasise the great importance of solving mental health disorders, mostly neglected in 
+populations affected by floods. For affected communities and families displaced by floods, psychosocial services 
+aimed at psychological counselling and care to alleviate possible mental health problems such as depression and 
+despair should be a priority, especially in the post-flood period (Adeljan & Asiyanbi, 2016). 
+ In addition to providing professional psychological counselling and assistance to flood -prone populations, 
+strong s ocial ties are critical to strengthening mental health and resilience as they significantly prevent post-
+traumatic stress disorder, anxiety and post -disaster depression (Babcicky & Seebauer, 2017). The availability of 
+projects whose focus is on people with disabilities and their involvement in public events to improve disaster 
+management can help establish equality for people with disabilities (Adelyan & Asiyanbi, 2016). Prioritising 
+preventive and primary health care and family counselling and support should be encouraged to develop real risk 
+priorities in public. Poor environmental conditions in many communities, characterised by exposed drains and 
+sewers carrying raw sewage and solid waste flowing to roads and houses, are the sources of most flood -related 
+diseases (Adelyan & Asiyanbi, 2016). An image of the social vulnerability of the area can be an essential tool 
+when conducting campaigns to increase risk awareness and preparedness for floods. In this way, risk information 
+can be adapted to different vulnerable groups, which can be highly effective given that providing flood risk 
+information can significantly contribute to raising risk awareness, especially if this information is adequately 
+tailored to the individual needs of the vulnerable population (Cox et al., 2015). 
+ Education has a highly significant impact on the development of people's perception of environmental hazards, 
+i.e. a notable increase in the level of education of respondents increases the perception of flood risk, and thus the 
+importance of preparedness for such situations, which in turn contributes to increased resilience (Restemeyer et 
+al., 2015). Access to education provides awareness and training necessary for disaster preparedness with measures 
+such as access to adult education and training programs, the level of disparities in secondary education between 
+different social groups, and the ability of schools to continue their role after disasters can be important indicators 
+for assessing access education (Saja, Teo, Goonetilleke, & Ziyath, 2018). Higher levels of education often result 
+in improved living wages, with educated people being shown to understand better and access information on 
+warning and recovery and thus be able to respond better and recover from disorders (Khoja et al. , 2020). 
+Examining the impact of education on flood resilience, Shah et al.  (2018) found that higher levels of education 
+can result in increased property ownership, where flood damage costs are higher for wealthier households in 
+absolute terms. Still, flood damage costs represent a smaller percentage of more affluent households' total income 
+and capital. In contrast, lower education is more likely to coincide with poverty, overpopulation, unemployment, 
+income inequality and marginalisation. 
+ The results of research conducted in Pakistan and the goal of determining the impact of education on the 
+perception of flood risk show that the teaching of respondents has a positive correlation with risk perception, i.e. 
+that higher education contributes to better preparedness and response to flood disasters (Qasim et al. , 2015). 
+Although robustness requires a great deal of expertise in technical engineering and planning, adaptability requires 
+expertise in reducing vulnerabilities. At the same time, local knowledge can be essential in identifying appropriate 
+and socially accepted water retention areas. Transformability, in turn , requires creativity to generate new and 
+innovative solutions and openness to new ideas for their actual testing (Restemeyer et al. , 2015). Using a risk-
+focused approach, it was found that a higher level of education of respondents reduces the feeling of vulnerability, 
+i.e., more educated people showed a higher degree of understanding of weather forecasts, thus avoiding hostile 
+
+[[PAGE 6]]
+adjustment measures (Adeljan & Asiyanbi, 2016). A similar pattern was observed in the occupation, with 
+professionals and civil servants showing less vulnerability than traders, artisans, farmers, and the unemployed. 
+ Exciting and vital for building and strengthening community resilience is the concept of lay knowledge, which 
+can be defined as local, informal, traditional or folk know ledge that contains subjective narrative reports and 
+stories created to understand, explain and assign meaning to events in everyday life (McEwen et al. , 2017). 
+Traditional knowledge of the environment is understood as cumulative and shared knowledge, practice, and belief 
+passed down through generations through cultural processes of cosmological relationships between living beings 
+and between living beings and their environment (Lazrus, 2015). Guided by this definition and focusing on an 
+extended period as well as a long -standing relationship between the bearers of traditional knowledge about the 
+environment and natural resources, this type of knowledge is an essential tool for researching attitudes about 
+nature and how they manifest through resource management. for place and specific cultural practices. Traditional 
+knowledge can be used effectively to educate about hazards and improve responses to warnings. The centuries -
+old conventional knowledge of tribal groups worldwide has not been wildly recognised, pr eserved and 
+documented but needs to be implemented to formulate effective disaster management strategies (Nakanishi et al., 
+2018). Local knowledge systems that include moral codes, cosmic explanations, and adaptive characteristics 
+provide insight into soci al and environmental change (Lazrus, 2017). This type of knowledge is essential in 
+various ecological changes, both in observing the directions and degrees of change that occur at the local level 
+and adapting social responses to disasters that appear sudde nly or gradually. The Sendai Framework also 
+emphasises the importance of “traditional, indigenous and local knowledge and practices” used “to complement 
+scientific knowledge in disaster risk assessment” (United Nations Office for Disaster Risk Reduction, 2 015, p. 
+10). 
+ Implementing structured ways of integrating formal, i.e. scientific and traditional knowledge systems 
+organised by centralised authorities would significantly contribute to the development of citizens' resilience to 
+develop sustainable partne rships between stakeholders at different levels within governments and communities 
+(Nakanishi et al., 2018). This would also contribute to determining the respective responsibilities of national, local 
+authorities and the community in the event of natural disasters and their consequences. Focusing on observation 
+and knowledge of changes in the environment means analysing the systems that people develop over time by their 
+views of the world to understand the environment and its role, i.e. structures and processes underlying the idea of 
+the environment (Lazrus, 2017). Among other things, the new and vital part of urban planners is integrating both 
+types of knowledge that would strengthen efforts in the development and planning of civil society to mitigate the 
+consequences of disasters. In addition to educating citizens, essential and fruitful measures in improving 
+preparedness and dealing with floods and confrontation are participation in training courses, adjusting production, 
+changing and adjusting work and evacuation from the affected areas. Training is necessary because they represent 
+another type of education. They can be of particular importance for farmers by providing them with the required 
+skills and knowledge to have the conditions to prepare and protect their agricultural land and livestock from floods 
+(Ha Anh et al. , 2018). This type of preparation makes the household more resilient and able to cope with and 
+recover from the negative consequences of floods.  
+ Economic resilience is critical because it  increases the financial capacity of individuals and communities in 
+the event of floods, i.e. an economically stable household is characterised by a higher degree of risk preparedness 
+(Qasim et al., 2016). Income and poverty are critical drivers of social vulnerability, primarily because income is 
+closely linked to other forms of capital used as social vulnerability indicators to floods (Rufat et al., 2015). These 
+indicators include access to education, wealth and type of employment, overcrowding, non- household or car 
+ownership, and unemployment. Education is an example of combining income with other forms of capital, where 
+higher levels of education can lead to better -paid jobs and higher incomes (Shah et al. , 2018). Higher  income 
+means that people can affo rd to take preventive measures such as repairing houses buying food and water and 
+purchasing better and more resilient equipment. At the same time, low -income families have limited financial 
+capacity to prepare for floods (Ha Anh et al. , 2018). Employment is an essential factor that can condition the 
+vulnerability of households to disaster risks. More employed household members are a prerequisite that the family 
+will have more significant opportunities to invest in the necessary flood adaptation measures (S hah et al., 2018). 
+Households with multiple sources of income show more excellent resistance to floods since they have a more 
+remarkable ability to afford solid construction material, which increases households' adaptive capacity, i.e. 
+strengthening resilience and reducing vulnerability to flooding consequences (Moghdas et al. , 2019). 
+ Poor and marginalised populations live in highly exposed areas with fewer employment opportunities. They 
+are also less protected by formal institutions, such as those that provide disaster mitigation and recovery assistance 
+(Rufat et al., 2015). In addition to the poor and marginalised facing lower costs of economic damage, the relative 
+impact of adverse flood events is generally higher for low -income groups, as preparedness a nd mitigation 
+activities, as well as evacuation capacity, require access to often missing economic and social resources ( Shah et 
+al., 2018). Research conducted in Malawi shows that poor people are more likely to be exposed to floods than 
+non-poor, emphasising that the quality of the property is essential to reduce the excessive vulnerability of the poor 
+compared to the rest of the population (Qasim et al. , 2016). As a solution, they propose the implementation of 
+
+[[PAGE 7]]
+construction norms and the construction of high -quality buildings for poor people. It is essential to protect them 
+with instruments of social protection. In Hungary and Georgia, increasing bias towards property vulnerabilities 
+has slightly increased resilience. What characterises these countries is relatively low inequalities and a very high 
+level of protection provided by the social protection system to the poor (Hallegatte et al. , 2016). Interviews 
+conducted as part of a survey of citizens' resilience to floods in Bangladesh reveal that middle -income families 
+have suffered the most from the disaster caused by the floods in the region (Kamal et al., 2018). The main reason 
+why middle -income families have proven to be the most vulnerable is their unwillingness to accept help and 
+resources, unlike poor,  marginalised people who did not hesitate to work as wage earners or get help from the 
+government and NGOs. Most middle - and low-income families preferred to take loans from local businesses or 
+microfinance institutions. Higher-income households were more inclined to protect their households. On the other 
+hand, lower-income households were not equipped with adequate security measures, which led to more significant 
+damage to homes and loss of property. The Tehran Flood Resilience Survey indicates that areas with a high level 
+of equality in education, a high percentage of the independent population, access to public recreational facilities, 
+high employment rates, commercial facilities and infrastructure, and access to emergency services and medical 
+care are characterised by high levels of flood resistance (Moghdas et al., 2019). 
+ Research conducted to examine resilient factors across Asia has shown that about 60% of people in rural 
+communities experience income loss after floods. More than 75% of urban communities do not lose income after 
+severe floods (Laurien et al., 2019). Spatial grouping of different socially vulnerable groups can help mitigate and 
+adopt measures tailored to the specific needs within the affected neighbourhood (Cox et al. , 2015). In addition to 
+the fact that there is a higher frequency of floods in rural communities in the sample, it is assumed that this finding 
+is conditioned by the nature of existence in rural communities that depend on location and lack of different living 
+resources. In rural communities, households depend on the agricultural sector, i.e. their agricultural land, usually 
+located near the community (Laurien et al. , 2019). These circumstances indicate a high probability that if the 
+community is affected by the flood, the sources of their livelihood will also be affected. In contrast, when it comes 
+to urban environments, people are more likely to stay away from the necessary sources of livelihood. If floods hit 
+their livelihoods, they have far more opportunities for alternatives (Laurien et al., 2019). A household’s ability to 
+face and respond to a disaster largely determines the household’s socio-economic status before the disaster. Thus, 
+for example, a neighbourhood consisting mainly of an affluent population can be stimulate d to implement 
+measures for individual households, such as protecting the house from floods. At the same time, more considerable 
+government assistance can be directed to poor neighbourhoods (Koks et al., 2015). Low-income households may 
+be able to provide other resources for flood risk management activities, such as volunteering time needed to 
+provide evacuation assistance or emergency preparations, such as establishing temporary flood protection.  
+ The housing characteristics of flooded areas significantly affect the flood experience, readiness and well-being 
+of citizens. Examination of social vulnerability in flood conditions to develop flood risk management strategies 
+found that most settlements characterised by high social exposure have a large share of t enants compared to the 
+percentage of private homeowners (Koks et al. , 2015). The study showed that homeowners apply significantly 
+more preparatory measures than tenants and tend to be better covered by insurance than tenants. In contrast, 
+tenants have little incentive to invest in initial efforts as most benefits will go to the property owner. And partly 
+because I can expect relocation. Owners are also less likely to invest in properties where they do not live alone. 
+In areas where livestock is an essential factor in ensuring food security in the household, any loss of livestock can 
+have severe consequences for the daily caloric intake of household members, which further increases its sensitivity 
+to flooding hazards (Shah et al. , 2018). As part of a survey c onducted in England to determine citizens' 
+preparedness to protect property from floods, more than half of respondents who own property in England said 
+they would consider supplementary insurance schemes to cover their potential flood losses ( Lo & Chan, 2 017). 
+Approximately the same percentage reported a reduction in the share of vulnerable assets such as housing in the 
+floodplain and cars to avoid flood damage. Also, over half of the respondents would move their valuables to a 
+safe place outside the city if they could and if they knew that huge flood water was coming to their local area. 
+Slightly less than half of the respondents would consider relocating if flood risks increase and seek funding for 
+reconstruction if the property was severely affected. Abo ut one-third would adjust their homes to reduce flood 
+vulnerability, and about a quarter was willing to seek alternative sources of income to mitigate the potential impact 
+of unexpected events on livelihoods. This research indicates that individuals are mo re likely to adopt resilient 
+strategies if faced with higher social expectations and if they are more closely connected to the community. 
+Homeowners, especially those not required to insure against floods, must trust the local government to deal with 
+climate risks and understand the importance of purchasing flood insurance (Atreya, Ferreira & Michel -Kerjan, 
+2015 ). For this reason, local governments must inform residents about their real flood risks (Shao et al. , 2017).  
+ The interest in flood insurance ste ms from the need to find an effective way to compensate those who have 
+suffered losses and manage the financial risk of possible losses (Surminski & Eldridge, 2017). Hudson et al. 
+(Hudson, Botzen & Aerts, 2019) explain that insurance, in its most basic form, is a mechanism where risks or part 
+of the risk are transferred from one side of the insured to the other side insurer in exchange for payment. Reducing 
+uncertainty is one of the most important mechanisms that drive economic systems. Without insurance, many 
+
+[[PAGE 8]]
+activities and processes would be considered too risky and would not be undertaken. Those affected by the loss 
+would not be able to recover. Households decide to buy insurance , except in situations where they are obliged to 
+purchase insurance, only if the subjective expected profitability of insurance is higher than the anticipated 
+profitability of non-insurance and if the premium is affordable (Hudson, Botzen & Aerts, 2019). Also, in addition 
+to this primary function, insurance can encourage risk reduction, promote adaptation activities and address the 
+primary physical risks that determine the impact of floods. This could potentially link both aspects through the 
+private sector , with insurance as a market mechanism, relieving the burden on public budgets (Surminski & 
+Eldridge, 2017). 
+ Using mitigation measures as a prerequisite for a household to receive a discount on a flood insurance premium 
+can encourage a household to take m itigation measures if it did not do so initially. The stronger the risk -based 
+premiums, the stronger this incentive will be. If in some market structures and areas, the flood insurance premium 
+is too low, and thus the discount on the premium for undertaking risk mitigation measures, this may have 
+undesirable consequences on the incentive to change the behaviour of policyholders (Hudson, Botzen & Aerts, 
+2019). This situation can occur in areas with a low risk of floods, and taking measures to mitigate the risk of floods 
+is not cost-effective. The indirect interdependence between household risk mitigation measures and government 
+flood protection standards is also essential. The government significantly impacts flood insurance premiums and 
+the assumed value of avoided flood damage through flood protection measures. For example, flood risk is low in 
+areas where high standards of flood protection are applied, resulting in lower premiums and lower interest in 
+reducing household risk in terms of avoided flood damage  or premium discounts compared to areas with low 
+protection standards. from floods (Hudson, Botzen & Aerts, 2019). Insurance is considered inaccessible when the 
+premium is higher than the disposable household income above the poverty line (Hudson, Botzen, Feyen & Aerts, 
+2016). However, risk- based premiums mean that high premiums can occur in high- risk areas when risk -based 
+premiums are in place. Residents do not take risk mitigation measures, which means that these premiums cannot 
+be affordable or economically acceptable. A similar budget constraint is characterised by the application of risk 
+mitigation measures, where this measure is taken only if it is available at the time of purchase given any insurance 
+costs because although a measure may be helpful in the long run, the household is unlikely to apply such a measure 
+when it is currently unavailable (Hudson et al., 2019). A survey to determine individual flood insurance purchase 
+decisions confirmed that homeownership influences voluntary behaviour when buying flood insurance. Residents 
+are more likely to purchase flood insurance than those who rent houses (Shao et al. , 2017).  
+ The study also confirmed that the distance from the coast hurts the voluntary decision of individuals to buy 
+flood insurance. People living relatively far from the beach usually feel less sensitive to the effects of floods, 
+which is why they choose not to purchase flood insurance. The results of a survey conducted in Georgia to 
+determine the factors influencing the decision to buy flood insurance confirmed that those who lack confidence 
+in the responsibility of local authorities rarely voluntarily purchase flood insurance, which indicates the 
+importance of building trust between citizens and leaders (Atreya, Ferreira & Michel -Kerjan, 2015). Local 
+policymakers need to find ways to gain citizens’ trust to actively encourage them to seek flood protection 
+measures. Higher levels of education have also been shown to be a significant factor in making people more likely 
+to buy flood insurance. The research results are also important, indicating that among all variables related to 
+environmental perception, beliefs in increasing the frequency of floods and the strength of hurricanes have the 
+most stimulating effect on voluntary decisions to purchase flood insurance (Shao et al. , 2017). People who are 
+aware that the amount of flooding has increased and that hurricanes have become stronger are more likely to 
+voluntarily buy flood insurance than those not aware of it (Atreya et al. , 2015). The link between the perception 
+of increased flooding and the voluntary purchase of flood insurance is immediate. Since hurricane strength is 
+linked to floods due to storm surges, awareness of increased hurricane strength leads to a higher probability of 
+voluntary purchase of flood insurance. Also, empirical findings suggest that flood damage that has occurred in 
+previous years has a posi tive effect on the commitment to invest in flood insurance (Atreya et al. , 2015). An 
+examination of the factors contributing to the decision to purchase flood protection insurance in Florida and Texas 
+confirmed that residents who voluntarily purchased flood insurance, on average, have a significantly higher 
+estimated value of the property they own (Brody, Highfield, Wilson, Lindell & Blessing, 2017). Although the 
+greater distance from the coast does not necessarily mean less risk of flooding, which may keep residents in the 
+lurch. In other words, a greater distance from the beach can create an apparent sense of security. Trust in the local 
+government is another positive factor motivating residents to voluntarily invest in flood insurance (Shao et al. , 
+2017). 
+ 
+3. Methods 
+ 
+The subject of the research includes the examination of influencing factors that determine and improve social 
+resistance to the consequences of disasters caused by floods. The increased frequency and intensity of floods, as 
+well as the increasing exposure of citizens and their property to the consequences of floods, require a more 
+complex approach that involves the involvement of citizens in strengthening preparedness and response to floods, 
+
+[[PAGE 9]]
+as a result of which the examination of the aforementioned influencing factors is of key importance for the future 
+development of strategies and measures to reduce flood risk.  The goal of the conducted research, which arises 
+from the stated subject of research, is a scientific description of the influencing  factors that determine social 
+resistance to the consequences of disasters caused by floods, identified within the analysis of the content of the 
+literature devoted to examining social resistance to floods. The explicative goal of the research refers to the 
+identification and understanding of social resilience to floods by the identified influencing factors. Based on the 
+analysis of the content of the collected international literature for research purposes, an online survey 
+questionnaire was formulated following the subject and objectives of the research to determine the conditions and 
+ways of improving social resistance to the consequences of disasters caused by floods.  
+ 
+3.1. Instrument 
+ 
+The questions were designed in three units with clearly indicated research expectations and types of answers that 
+were mainly based on the choice of answers on a Likert scale to determine the degree of agreement with the given 
+statements on a scale from 1 - absolute disagreement to 5 - absolute agreement. The f irst group of questions 
+consists of general questions related to the demographic and socio- economic characteristics of the respondents. 
+The second group of questions consists of questions examining the degree of agreement of respondents with given 
+statements related to the perception of risk, social cohesion, trust in public institutions and the involvement of 
+citizens in the preparation of planning documents and communication about risk. The third group of questions 
+refers to the examination of the possibility of improving social resilience to floods. 
+ 
+3.2. Sample 
+ 
+The sample included a total of 261 respondents in the area of Belgrade, of which the majority were under the age 
+of 25 (43.3%). Also, the sample included 50 respondents (19.2%) aged 26 to 35 years, 34 respondents (13%) aged 
+36 to 45 years, 45 respondents (17.2%) aged 46 to 55 years and 19 respondents (7.3%) aged over 55 years. 
+Following the proportional representation of the sexes in the Republic of Serbia, the sample consisted to the 
+greatest extent of members of the female population (70.9%), while male respondents were represented by a total 
+of 29.1% in the research sample. Regarding the level of education obtained, it was determined that the largest 
+number of respondents (38.3%) had secondary education, while the smallest number of respondents had 
+completed doctoral academic studies (1.1%) and elementary school (1.5%). In addition, 29 respondents (11.1%) 
+reported having completed higher education, 85 respondents (32.6%) had basic academic studies, and 40 
+respondents (15.3%) indicated master's academic studies. The answers to the question about the respondents' 
+current marital status indicate that 81 respondents (31%) are not in a relationship, 61 respondents (23.4%) are in 
+a relationship, 11 re spondents (4.2%) are engaged, 88 respondents (33.7%) ) is married, 12 respondents (4.6%) 
+are divorced, while 8 respondents (3.1%) belong to the widow/widow category. More than half of the respondents 
+included in the sample (55.6%) answered the question about their current employment status that they were 
+employed, while 116 respondents (44.4%) were unemployed. Examining the amount of average monthly income 
+that respondents earn shows that 78 respondents (29.9%) earn incomes up to 25,000 dinars, 74 respondents 
+(28.4%) up to 50,000 dinars, 75 respondents (28.7%) up to 80,000 dinars, while the incomes of 34 respondents 
+(13%) reach over 100,000 dinars monthly. When asked whether they are the owners of the house/apartment they 
+live in, 88 respondents (33.7%) answered yes, while 173 respondents (66.3%) answered negatively. 
+ 
+3.3. Analysis of data 
+ 
+After the completion of the electronic survey, the results of the surveys were entered into a database, reviewed 
+and analyzed to identify and eliminate potential errors. This was followed by the use of descriptive statistical 
+analysis to further analyze the data. Furthermore, the relationships between the selected independent and 
+dependent variables that are the subject of our research were examined using the Chi -square test, T -test and 
+ANOVA. 
+ 
+4. Results 
+ 
+On a Likert scale from 1 to 5 (1 - I am absolutely not familiar; 5 - I am absolutely familiar) respondents rated their 
+views on the degree of familiarity with the flood phenomenon. According to the findings, 5 res pondents (1.9%) 
+were absolutely not familiar with the phenomenon of flooding, 14 respondents (5.4%) were significantly 
+
+[[PAGE 10]]
+unfamiliar, 37 respondents (14.2%) were moderately familiar, 60 respondents (23%) are familiar to a significant 
+extent, while 145 respondents (55.6%) believe that they are absolutely familiar with the phenomenon of floods.  
+ The transfer of experiences and knowledge about floods at the level of the local community, family, friends 
+and colleagues plays a significant role in the overall level of awareness, knowledge and preparedness at all levels 
+of society's functioning. Consequently, the respondents were asked whether family members, friends and 
+colleagues passed on experiences and knowledge about floods to them, to which they answered with grades from 
+1 to 5 on a Likert scale (1 -  they absolutely did not pass on experiences and knowledge to me; 5 -  to an absolute 
+extent, they transferred experiences and knowledge to me). On that occasion, 16 respondents (6.1%) pointed out 
+that their knowledge  and experiences about floods were absolutely not passed on to them by family members, 
+friends and colleagues, and 37 respondents (14.2%) said that they were not passed on to a significant extent, 53 
+respondents (20.3%) that they were transmitted to them t o an average extent, 56 respondents (21.5%) that they 
+were transmitted to them to a significant extent, while the largest number of respondents (37.5%) believe that their 
+friends, family and colleagues absolutely transferred experiences and knowledge about  floods. 
+ To the question, "Is the risk of flooding a significant cause of fear for the residents of your local community?", 
+respondents answered by expressing their views on a Likert scale from 1 to 5 (1 -  absolutely not a significant 
+cause; 5 -  absolutely a significant cause), when the following was determined: 42 respondents (16.1%) believe 
+that the risk of floods is absolutely not a significant cause of fear, 60 respondents (23%) believe that the risk of 
+floods is not a significant cause of fear, 71 res pondents (27, 2%) that the risk is a moderate cause of fear, 37 
+respondents (14.2%) that the risk is a significant cause of fear, while 51 respondents (19.5%) point out that the 
+risk of flooding is an absolutely significant cause of fear among the residents of their local community. 
+ When it comes to the degree of vulnerability of households to the risk of flooding, the findings indicate that 
+91 respondents (34.9%) believe that their household is absolutely not threatened by flood risks and 84 respondents 
+(32.2%) that it is not threatened to a significant extent. On the other hand, 60 respondents (23%) point out that 
+their household is moderately threatened, 15 respondents (5.7%) that it is significantly threatened, while 11 
+respondents (4.2%) point out that  their household is threatened by the risk of floods evaluates with the highest 
+score on the scale, i.e. absolute endangerment.  Bearing in mind that the success of all other stages of flood risk 
+management largely depends on the implementation of preventive measures, respondents were asked to rate to 
+what extent on a Likert scale from 1 to 5 (1 - they do not undertake to an absolute extent; 5 - they undertake to an 
+absolute extent) residents of their local community take preventive flood protection measures , including training 
+and seminars on dealing with floods, flood insurance, having personal protective equipment, tools, supplies of 
+food, water, medicine, etc. According to the findings, the largest number of respondents believe that residents of 
+the local  community absolutely (38.3%) and to a significant extent (32.6%) do not take preventive measures 
+against floods. Also, 48 respondents (18.4%) believe that residents take protective measures to an average extent, 
+20 respondents (7.7%) believe that they take protective measures to a significant extent, while only 8 respondents 
+(3.1%) estimate that the taking of preventive flood protection measures by the residents of the local community 
+is carried out to an absolute extent. 
+ Although the Law on Disaster Risk Reduction and Emergency Management and other relevant laws and by-
+laws regulate a wide range of rights and obligations of residents in the event of emergenc ies caused by various 
+natural hazards, including floods, researching public awareness about them is of great importance for achieving 
+adequate and effective response, as well as recovery after a disaster. Based on that, the respondents were asked to 
+what extent the residents of their local community are aware of their rights and obligations  in the mentioned 
+circumstances. According to the results, the largest number of respondents believe that knowledge of rights and 
+duties in emergencies caused by floods is absolutely (30.3%) or significantly (34.9%) non -existent. On the other 
+hand, 59 respondents (22.6%) believe that residents are moderately familiar with their rights and obligations, 25 
+respondents (9.6%) believe that they are significantly familiar, while 7 respondents (2.7%) point out that the 
+residents of their local community are fully  aware of their rights and obligations in case of emergenc ies caused 
+by floods. 
+ Examining the views of the respondents on the degree to which the residents of their local community are 
+ready to leave their homes and evacuate to the facilities designated by the competent headquarters for emergencies 
+for the reception of the population in case of emergenc ies caused by floods produced the following results: 43 
+respondents (16.5% ) believes that the population is absolutely not ready, 54 respondents (20.7%) that they are 
+not ready to a significant extent, 84 respondents (32.2%) that the population's readiness is at a medium level, 47 
+respondents (18%) that the readiness is on a higher level, while 33 respondents (12.6%) expressed their opinion 
+and assessment ab out the absolute readiness of the residents of their local community to leave their homes and 
+evacuate to reception facilities in case of disasters caused by floods. 
+
+[[PAGE 11]]
+ As the participation of informal actors in protection and rescue is often a valuable reso urce in the system of 
+disaster risk reduction and management in emergenc ies, the willingness of the residents of the local community 
+to participate in the activities of protection and rescue of the vulnerable population was examined, which the 
+respondents rated on a Likert scale from 1 to 5 (1 –  to an absolute extent they would not be ready to participate; 
+5 – to an absolute extent they would be ready to participate). On that occasion, it was determined that 14 
+respondents (5.4%) believed that residents would not be absolutely ready to undertake the mentioned activities, 
+17 respondents (6.5%) that they would not be ready to a significant extent and 78 respondents (29 .9%) to show 
+a willingness to participate in a medium measure. On the contrary, a significan t number of respondents pointed 
+out that the residents of their local community would be significantly (36%) and absolutely (22.2%) ready to 
+participate in the activities of protection and rescue of the vulnerable population in case of emergenc ies caused 
+by floods. 
+ There is a legal obligation for the owners and users of facilities and premises in public use, as well as private 
+facilities suitable for accommodation, regarding the temporary accommodation of citizens by order of the 
+competent headquarters. In addition, the law stipulates that if it is not possible to take care of the vulnerable in the 
+previously mentioned way, the care is carried out in tent settlements. Based on that, the respondents were asked 
+to rate the readiness of the residents of their local community to provide shelter and help to the vulnerable in case 
+of emergencies caused by floods. Respondents mostly pointed out that the residents of their local community are 
+moderately (33.3%) and significantly (32.6%) ready to provide shelter and help to the vulnerable. In addition, 8 
+respondents (3.1%) believe that residents are absolutely not ready to provide assistance and shelter, 33 respondents 
+(12.6%) believe that they are significantly unprepared, while 48 respondents (18.4%) share an attitude about the 
+absolute readiness of the inhabitants to provide shelter and help to the vulnerable in case of emergency situations 
+caused by floods. 
+ When asked to what extent trust in neighbou rs and strong social ties can contribute to the strengthening of 
+social capital, and thus the social resistance of the local community to floods, 5 respondents (1.9%) answered that 
+they absolutely cannot contribute, 7 respondents (2.7%) that they cannot contribute to a significant extent, 46 
+respondents (17.6%) that they can contribute to a medium extent, 72 respondents (27.6%) that they can contribute 
+to a significant extent, while the largest number, i.e. more than half of the respondents (50.2%) pointed out that 
+trust in neighbours and strong social ties can absolutely contribute to the strengthening of social capital, and thus 
+the social resistance of their local community to floods.  The trust of the residents of the local community in the 
+services responsible for dealing with emergency situations (emergency headquarters, police, fire and rescue unit, 
+civil protection unit, emergency medical aid service, Red Cross) was assessed by the respondents as follows: the 
+largest number of respondents believe that residents moderately (35.2%) and to a significant extent (25.3%) have 
+confidence in competent services; then, 16 respondents (6.1%) believe that there is absolutely no trust, 53 
+respondents (20.3%) that there is no trust to a significant extent, while, in contrast, 34 respondents (13%) answered 
+that into an absolute extent there is trust in the competent emergency response services among the residents of 
+their local community. 
+ This was followed by an assessment of the capacities and means possessed by the competent local 
+administration services for deal ing with emergency situations caused by floods. According to the results, 41 
+respondents (15.7%) believe that the capacities and means of the competent services are absolutely insufficient, 
+72 respondents (27.6%) that they are significantly insufficient, 95 respondents (36.4%) that they are moderately 
+sufficient, 39 respondents (14.9%) that they are sufficient to a significant extent, while 14 respondents (5.4%) 
+assessed the absolute sufficiency of the current capacities and means of the competent services of their local 
+administration for dealing with emergency situations caused by floods. Despite the established duties of competent 
+authorities and services for dealing with emergenc ies in terms of regular and timely notification and informing 
+residents about flood risks, measures taken and possible consequences, 56 respondents (21.5%) believe that 
+informing residents of their local community about the risk from floods through the media is absolutely not carried 
+out regularly and promptly, 65 respondents (24. 9%) believe that it is not carried out regularly and on time  to a 
+significant extent, while 66 respondents (25.3%) believe that it is carried out regularly and to a medium extent 
+and timely. On the contrary, 46 respondents (17.6%) point out that the competent authorities and services provide 
+regular and timely information through the media to a significant extent, while 28 respondents (10.7%) believe 
+that the competent authorities absolutely provide regular and timely information to the residents their loca l 
+communities about flood risks through the media. 
+ Bearing in mind that risk communication, as an important element of the disaster risk management process, 
+increasingly includes a two- way approach to communication instead of the former ruling paradigm "from top to 
+bottom", i.e. a one-way process of communication from the authorities to citizens, the respondents were asked to 
+rate the degree of involvement of the residents of their local communities in flood risk communication and 
+
+[[PAGE 12]]
+development of flood risk reduction strategies. On that occasion, the largest  number of respondents pointed out 
+that residents were absolutely (28.7%) and to a significant extent (28.7%) not involved in risk communication and 
+development of flood risk reduction strategies. On the other hand, 64 respondents (24.5%) believe that resi dents 
+are moderately involved in risk communication and strategy development, 32 respondents (12.3%) believe that 
+they are significantly involved, while 15 respondents (5.7 %) expressed their opinion on the absolute involvement 
+of the inhabitants of their local community in the aforementioned flood risk reduction activities.  
+ The introduction of mandatory education and training of citizens to deal with emergenc ies caused by floods 
+has long been the subject of domestic and foreign literature, as well as relevant laws and strategies in the field of 
+emergency management. However, in practice there is no consistent and timely application of the regulations, so 
+the aforementioned goal has not yet been realized. Therefore, the respondents were asked to assess to what extent 
+the introduction of mandatory education and training of citizens to deal with emergencies caused by floods would 
+contribute to strengthening the social resilience of their local community. According to the findings, the largest 
+number of respondents (51%) believe that the introduction of mandatory education and training would absolutely 
+contribute to strengthening social resilience, while the smallest number of respondents (1.5%) believe that it would 
+absolutely not contribute. In addition, 12 respondents (4.6%) stated that they would not contribute to a significant 
+extent, 41 respondents (15.7%) that they would contribute to a moderate extent, while 71 respondents (27.2%) 
+point out that the introduction of compulsory education would and training of citizens to deal with emergencie s 
+caused by floods significantly contributed to the strengthening of the social resilience of their local community.  
+Concerning the stated statement, "The participation of residents in protection and rescue activities in case of 
+emergencies caused by floods would significantly contribute to strengthening the social resistance of your local 
+community to floods", respondents rated their views on a Likert scale from 1 to 5 (1 -  in absolute measure would 
+not significantly cont ribute; 5 - in absolute measure would significantly contribute), where more than half of 
+respondents (55.9%) gave the highest rating on the scale, thereby expressing the opinion that the participation of 
+residents in absolute measure would significantly contribute to strengthening social resilience. In addition, 4 
+respondents (1.5%) believe that participation in absolute terms would not significantly contribute to strengthening 
+social resilience, 7 respondents (2.7%) that it would not significantly contribute, 37 respondents (14.2%) that 
+would moderately contribute, while 67 respondents (25.7%) state that the participation of residents in protection 
+and rescue activities in case of emergencie s caused by floods would significantly contribute to strengthening the 
+social resilience of their local community to floods. 
+ The claim was then made that the involvement of citizens in flood risk monitoring would significantly 
+contribute to strengthening the social resilience of the local community to floods, and respondents were asked to 
+rate their attitudes about it. On that occasion, 3 respondents (1.1%) pointed out that the inclusion of citizens in the 
+mentioned activities would absolutely not contribute to strengthening social resilience, 14 respondents (5.4%) that 
+it would not significantly contribute, and 38 respondents (14, 6%) that it would contribute to a medium extent, 63 
+respondents (24.1%) that it would contribute to a significant extent, while 143 respondents (54.8%) share the 
+opinion that the involvement of citizens in flood risk monitoring would significantly contribute to an absolute 
+extent strengthening the social resilience of their local community to floods. 
+ To the question to what extent the involvement of residents in the implementation of reconstruction measures 
+and activities and assistance after floods would significantly contribute to strengthening the social resilience of 
+their local community, the respondents answered as follows: 4 respondents (1.5%) believe that the involvement 
+of residents absolutely does not would significantly contribute to strengthening social resilience, 8 respondents 
+(3.1%) believe that it would not significantly contribute to a greater extent, 33 respondents (12.6%) believe that 
+it would contribute to a medium extent, 58 r espondents (22.2%) believe to a significant extent, while the largest 
+number, i.e. 158 respondents (60.5%) share the belief that the involvement of residents in the implementation of 
+measures and activities of reconstruction and assistance after the floods  would significantly contribute to the 
+strengthening of the social resilience of their local community.  The results of examining respondents' views on 
+the claim that citizens' participation in debates and the development of disaster risk reduction strategies would 
+significantly contribute to strengthening the social resilience of their local community indicate that more than half, 
+i.e. 139 (53.3%), of the respondents believe that the implementation of the mentioned activities would in absolute 
+terms significantly contributed to the strengthening of social resilience. In contrast, the smallest number of 
+respondents (2.3%) believe that it would not contribute significantly in absolute terms. In addition, it was 
+determined that 15 respondents (5.7%) believed that the participation of citizens would not significantly contribute 
+to the strengthening of social resilience, 37 respondents (14.2%) believed that it would contribute to a medium 
+extent, while 64 respondents (24, 5%) pointed out that the participation of citizens in debates and the development 
+of strategies for disaster risk reduction would significantly contribute to strengthening the social resilience of their 
+local community. 
+
+[[PAGE 13]]
+ Regarding the assessment of attitudes about the degree of contribution of the  initiation of initiatives and the 
+inclusion of citizens in the work and activities of local groups of citizens, humanitarian organizations and 
+volunteer organizations for assisting  in emergencie s to the development of knowledge, experiences and the 
+exchange of information relevant to reducing the risk of floods, it was determined that the respondents into the 
+greatest extent (65.5%) believe that the mentioned activities would in absolute terms significantly contribute to 
+the development of knowledge, exper iences and the exchange of information significant for reducing the risk of 
+floods. Also, 3 respondents (1.1%) pointed out that in absolute terms it would not significantly contribute, 9 
+respondents (3.4%) that it would not significantly contribute to a gr eater extent, 30 respondents (11.5%) that in 
+the middle significantly contributed to the measure, while 48 respondents (18.4%) believe that the initiation of 
+initiatives and the involvement of citizens in the work and activities of local groups of citizens , humanitarian 
+organizations and volunteer organizations to assist  in emergencie s would significantly contribute to the 
+development of knowledge, experiences and exchange of information relevant to flood risk reduction. After 
+descriptive statistical analyses, we proceeded to examine the mean values between gender and social resilience to 
+the consequences of flood disasters. Judging by the obtained results, no statistically significant relationship was 
+established between gender and social resistance to the consequences of flood disasters (Table 1). 
+ 
+Table 1. Results of the T-test between gender and social resilience to the consequences of flood-induced 
+disasters. 
+ t df Sig. (2-
+tailed) 
+Mean 
+Difference 
+Std. Error 
+Difference 
+95% Confidence Interval of 
+the Difference 
+Lower Upper 
+Social 
+resilience -0.95 259 .340 -.079 .082 -.242 .083 
+ 
+After the T -test, we examined the correlation between the age of the respondents and social resistance to the 
+consequences of floods. About  the results, we determined that there is a statistically significant correlation p  = 
+0.000. The results show that there is a positive correlation that indicates that with the increase in the age of the 
+respondents, the assessment of the level of resistance to the consequences of floods also increases  (Table 2). 
+Table 2. Results of the correlation analysis of age and social resistance to the consequences of floods.  
+ Age 
+Social resilience to the consequences of floods 
+Pearson Correlation 0.221** 
+Sig. (2-tailed) 0.000 
+N 260 
+ 
+In addition to the correlation analyses, the results of the One -factor Analysis of Variance show that there is no 
+statistically significant relationship between the respondents' education and social resilience to flooding disasters. 
+Unambiguously, the results indicate that there is no statistically significant difference between responde nts with 
+completed primary, secondary, higher school, college and master's academic studies.  
+ 
+5. Discussion 
+ 
+Starting from the analysis of the content and collected scientific research, this paper examines the demographic, 
+socio-economic, psychological and political-cultural impact factors to identify key impact factors that determine 
+social resilience to floods. An online survey questionnaire was selected as the instrument used to collect the 
+necessary data for the research needs. Examining the correlation  between the age of the respondents and social 
+resistance to the consequences of floods, it was found that there is a statistically significant correlation which 
+indicates that with the increase in the age of the respondents, the assessment of the level of  resistance to floods 
+increases. These results coincide with the results of research in which a positive combinational effect of a higher 
+age coefficient on mitigation and adaptation measures were found (Adelcan & Asiyanbi, 2015).  
+ The influence of an imp ortant factor can also explain these results: the experience of the elderly population, 
+which in this context has an essential advantage in strengthening flood resistance. Examination of the mean values 
+between gender and social resilience to the consequences of flood-induced disasters did not establish a statistically 
+significant relationship between gender and the observed dependent variable.
+ The results of a one-factor analysis 
+of variance show that there is no statistically significant association between respondents' education and social 
+resilience to flooding disasters. Unequivocally, the results indicate that there is no statistically significant 
+
+[[PAGE 14]]
+difference between respondents with completed primary, secondary, higher education, college and master's  
+academic studies. Contrary to these findings, numerous studies have shown that a higher level of education among 
+respondents increases the perception of flood risk, contributing to increased social resilience (Restemeyer et al. , 
+2015; Saja et al. , 2018; Q asim et al. , 2015). Also, the results of the research indicate that monthly income, 
+employment and ownership of an apartment/house do not have a significant impact on the level of resilience of 
+the local community, which is contrary to research confirming that economically stable households with multiple 
+sources of income and ownership of housing take preventive and adaptive flood protection measures, and thus 
+show more excellent resistance to floods (Moghdas et al. , 2019; Shah et al. , 2018; Rufat et al. , 2015). Such 
+research results can be explained by the lack of adequate formal and informal education programs, the 
+implementation of mandatory on- the-job training and risk assessments that would encourage citizens to develop 
+an awareness of the importance of strengthening flood resistance.  
+ This conclusion is confirmed by the results of surveys that show that the most significant number of 
+respondents believe that the local community residents, in absolute terms (38.3%), do not take preventive 
+measures to protect again st floods. Furthermore, the analysis of the obtained data showed that there is a mutual 
+condition of lack of experience with floods and social resilience of the local community, given that the most 
+significant percentage (87.9%) had no experience with floods, with the most significant percentage of respondents 
+in absolute terms, 38.3% do not take preventive flood protection measures. These results are consistent with 
+numerous studies showing that experience is critical in building and strengthening social r esilience (Seebauer & 
+Babcicky, 2020; Soentato et al. , 2017; Thistlethwaite, Henstra, Brown & Scott, 2018). Examining the impact of 
+social ties and trust in fellow citizens on strengthening social resilience to floods, it was found that more than half 
+of respondents (50.2%) believe that trust in neighbours and strong social ties can contribute to strengthening social 
+capital, and thus social the resilience of their local community to floods. The same results have been confirmed in 
+numerous studies on the im pact of social capital on strengthening social resilience to floods (Babcicky & 
+Seebauer, 2017; Lo & Chan, 2017). 
+ The results of the survey of the trust of local community residents in the services responsible for dealing with 
+emergencies show that the mo st significant number of respondents believe that residents in secondary (35.2%) 
+and to a significant extent (25.3%) trust the competent services, with a substantial number The examiner stated 
+that he was significantly and ready to participate in the activ ities of protection and rescue of the population 
+endangered by the flood. These results are compatible with a survey conducted in China, which confirms that the 
+trust of residents in public institutions determines their willingness to participate in disaster management (Peng, 
+Tan, Lin & Xu, 2019). More than half of the respondents (55.9%) gave the highest score on the scale, expressing 
+the view that the participation of residents in flood protection and rescue activities in absolute terms would 
+significantly contribute to strengthening social resilience, as confirmed by numerous studies. Studied the impact 
+of co -production on strengthening social resilience to floods (Lo & Chan, 2017; O'Grady et al. , 2019). Also, 
+60.5% of respondents believe that the engagem ent of residents in the implementation of measures and activities 
+of reconstruction and assistance after the floods in absolute terms would significantly contribute to strengthening 
+the social resilience of their local community.  
+ These results are confir med by Mes et al.  (2016a), that co- production as a public service represents the 
+avoidance and reduction of flood damage at the societal level through private and public measures. Examining 
+the importance of citizen participation in public debates and deve loping strategies to reduce the risk of disasters 
+showed that more than half, or 53.3%, of respondents, believe that implementing these activities would 
+significantly strengthen social resilience to floods. Accordingly, research examining the impact of cit izen 
+participation in risk communication has confirmed that effective co -production is conditioned by open 
+communication channels with authorities and all stakeholders in flood risk management. This can best disseminate 
+knowledge across the community (De Boer et al., 2015; Morris, McNamara & Belcher, 2019). 
+ 
+6. Conclusion 
+ 
+The characteristics of floods affecting states and local communities worldwide require the joint efforts of both the 
+competent state authorities and local communities in dealing with and responding to flood risk. It is necessary to 
+develop civic awareness, knowledge, skills and resources that will create the preconditions for building social 
+resilience, one of the critical aspects of disaster risk management facing modern society. Local co mmunities 
+resistant to the consequences of flood disasters need to cooperate with emergency services, local authorities and 
+other relevant organisations before, during and after emergencies. Resilient communities participate in decision -
+making related to emergency management, show interest in their environment, and act proactively to strengthen 
+community resilience to flood disasters (Ntontis, Drury, Amlôt, Rubin & Williams, 2019). Statistical analysis of 
+
+[[PAGE 15]]
+the survey of social resistance to floods within the  local communities of the Republic of Serbia showed that age, 
+experience, education, social ties, and trust in public institutions are key influencing factors that determine the 
+level of social resilience to floods. The results indicate that it is necessar y to introduce programs and training for 
+dealing with emergencies caused by gender, both within all levels of education and among employees in all 
+sectors. 
+ The goal of introducing the mentioned programs and training is to raise awareness about the risk and thus the 
+resilience of local communities to the consequences of floods. According to McClymont et al.  (2020), the so-
+called social resilience education is a crucial aspect of flood risk reduction in a flood risk environment that 
+identifies the knowledge,  skills, values and preparedness needed to manage flood risk and improve social 
+resilience to floods effectively.  Respondents also confirmed that strengthening social resilience requires 
+strengthening social networking, trust and solidarity among members  of the local community. These aspects of 
+social resilience can be encouraged through various initiatives and associations of citizens whose activities would 
+assist in emergencies, significantly contributing to the development of knowledge, experience and exchange of 
+information necessary for reducing flood risks. Accumulation of social capital through community participation 
+through reliable networks can provide the required external factors that will influence individual decision-making, 
+increasing the motivation of residents to prepare for the adverse effects of climate change (Lo & Chan, 2017).  
+ The survey of respondents found that their participation in monitoring and communication on risk can 
+significantly strengthen citizens’ trust in decision -makers and services responsible for dealing with emergencies. 
+Communication networks in the form of public debates, media, personal interactions with other people, and the 
+very types of social ties enable the creation of social capital through which awareness and  knowledge necessary 
+to develop an appropriate level of risk perception can be formed (Lechowska, 2018). The research results indicate 
+that the subject of research is an inexhaustible source of foundation for future research aimed at examining the 
+factors that determine social resilience to the consequences of floods. The obtained results can significantly help 
+local authorities, citizens' associations, and stakeholders in formulating strategies, plans, and initiatives that will 
+improve social resilience to the consequences of floods and create preconditions for building a safe and sustainable 
+environment. An obvious limitation of the research is the insufficient number of respondents in the broader area 
+of the Republic of Serbia, which would provide a com plete picture of the current level of social resilience to the 
+consequences of floods and the interdependence of the examined factors. 
+ 
+7. References 
+ 
+Adedeji, T. J., Proverbs, D. G., Xiao, H., & Oladokun, V. O. (2018). Towards a conceptual framework for property 
+level flood resilience. International journal of safety and security engineering, 8(4), 493-504. 
+Adelekan, I. O., & Asiyanbi, A. P. (2016). Flood risk perception in flood- affected communities in Lagos, 
+Nigeria. Natural Hazards, 80(1), 445-469. 
+Aerts, J. C., Botzen, W. J., Clarke, K. C., Cutter, S. L., Hall, J. W., Merz, B., & Kunreuther, H. (2018). Integrating 
+human behaviour dynamics into flood disaster risk assessment. Nature Climate Change, 8(3), 193-199. 
+Ahmad, D., & Afzal, M. (2020). Flood hazards and factors influencing household flood perception and mitigation 
+strategies in Pakistan. Environmental Science and Pollution Research, 1-13. 
+Appleby-Arnold, S., Brockdorff, N., Jakovljev, I., & Zdravković, S. (2018). Applying cultural values to encourage 
+disaster preparedness: Lessons from a low -hazard country.  International journal of disaster risk 
+reduction, 31, 37-44. 
+Ardaya, A. B., Evers, M., & Ribbe, L. (2017). What influences disaster risk perception? Intervention measures, 
+flood and landslide risk perception of the population living in flood risk areas in Rio de Janeiro state, 
+Brazil. International journal of disaster risk reduction, 25, 227-237. 
+Atreya, A., Ferreira, S., & Michel -Kerjan, E. (2015). What drives households to buy flood insurance? New 
+evidence from Georgia. Ecological Economics, 117, 153-161. 
+Babcicky, P., & Seebauer, S. (2017). The two faces of social capital in private flood mitigation: opposing effects 
+on risk perception, self-efficacy and coping capacity. Journal of Risk Research, 20(8), 1017-1037. 
+Babcicky, P., & Seebauer, S. (2019). Unpacking Protection Motivation Theory: evidence for a separate protective 
+and non-protective route in private flood mitigation behavior. Journal of risk research, 22(12), 1503-1521. 
+Bamberg, S., Masson, T., Brewitt, K., & Nemetschek, N. (2017). Threat, coping and flood prevention– A meta-
+analysis. Journal of Environmental Psychology, 54, 116-126. 
+Bodoque, J. M., Amérigo, M., Díez -Herrero, A., García, J. A., Cortés, B., Ballesteros -Cánovas, J. A., & Olcina, 
+J. (2016). Improvement of resilience of urban areas by integrating social perception in flash- flood risk 
+management. Journal of Hydrology, 541, 665-676.  
+
+[[PAGE 16]]
+Bonaiuto, M., Alves, S., De Dominicis, S., & Petruccelli, I. (20 16). Place attachment and natural hazard risk: 
+Research review and agenda. Journal of Environmental Psychology, 48, 33-53. 
+Brody, S. D., Highfield, W. E., Wilson, M., Lindell, M. K., & Blessing, R. (2017). Understanding the motivations 
+of coastal residents  to voluntarily purchase federal flood insurance.  Journal of Risk Research,  20(6), 760-
+775. 
+Cvetković, V. M. (2016). Fear and floods in Serbia: Citizens preparedness for responding to natural 
+disaster. Zbornik Matice srpske za drustvene nauke, (155-156), 303-324. 
+Cvetković, V. M., Roder, G., Öcal, A., Tarolli, P., & Dragićević, S. (2018). The role of gender in preparedness 
+and response behaviors towards flood risk in Serbia.  International journal of environmental research and 
+public health, 15(12), 2761. 
+Dandy, J., Horwitz, P., Campbell, R., Drake, D., & Leviston, Z. (2019). Leaving home: place attachment and 
+decisions to move in the face of environmental change. Regional environmental change, 19(2), 615-620. 
+De Boer, J., Wouter Botzen, W. J., & Terpstra, T. (2015). More than fear induction: Toward an understanding of 
+people's motivation to be well‐prepared for emergencies in flood‐prone areas. Risk analysis, 35(3), 518-535. 
+De Dominicis, S., Fornara, F., Cancellieri, U. G., Twigger -Ross, C., & Bonaiuto, M. (2015). We are at risk, and 
+so what? Place attachment, environmental risk perceptions and preventive coping behaviours.  Journal of 
+Environmental Psychology, 43, 66-78. 
+Diakakis, M., Priskos, G., & Skordoulis, M. (2018). Public perception of flood ri sk in flash flood prone areas of 
+Eastern Mediterranean: The case of Attica Region in Greece.  International journal of disaster risk 
+reduction, 28, 404-413. 
+Drolet, J., Dominelli, L., Alston, M., Ersing, R., Mathbor, G., & Wu, H. (2015). Women rebuilding li ves post-
+disaster: innovative community practices for building resilience and promoting sustainable 
+development. Gender & Development, 23(3), 433-448. 
+Działek, J., Biernacki, W., Fiedeń, Ł., Listwan-Franczak, K., & Franczak, P. (2016). Universal or context-specific 
+social vulnerability drivers –understanding flood preparedness in southern Poland.  International Journal of 
+Disaster Risk Reduction, 19, 212-223. 
+Fox-Rogers, L., Devitt, C., O’Neill, E., Brereton, F., & Clinch, J. P. (2016). Is there really “nothing you can do”? 
+Pathways to enhanced flood-risk preparedness. Journal of Hydrology, 543, 330-343. 
+Fuchs, S., Karagiorgos, K., Kitikidou, K., Maris, F., Paparrizos, S., & Thaler, T. (2017). Flood risk perception 
+and adaptation capacity: A contribution to the socio -hydrology debate.  Hydrology and Earth System 
+Sciences, 21(6), 3183. 
+Garde-Hansen, J., McEwen, L., Holmes, A., & Jones, O. (2017). Sustainable flood memory: Remembering as 
+resilience. Memory Studies, 10(4), 384-405. 
+Graber, R., Pichon, F., & Carabine, E. (2015). Psychological resilience. London: Overseas Development Institute. 
+Ha Anh, H., Da Hanh, T. M., Thi Tuong Vi, N., & Shunbo, Y. (2018). Examining the interaction of flood 
+vulnerability determinants in Cambodia and Vietnam using partial least squ ares structural equation 
+modelling. Water Policy, 20(6), 1256-1278. 
+Hallegatte, S., Bangalore, M., & Vogt -Schilb, A. (2016). Assessing socioeconomic resilience to floods in 90 
+countries. World Bank Policy Research Working Paper, (7663). 
+He, Z., & Zhai, G. (2015). Spatial effect on public risk perception of natural disaster: a comparative study in East 
+Asia. Journal of Risk Analysis and Crisis Response, 5(3), 161-168. 
+Hudson, P., Botzen, W. W., & Aerts, J. C. (2019). Flood insurance arrangements in the European Union for future 
+flood risk under climate and socioeconomic change. Global environmental change, 58, 101966. 
+Hudson, P., Botzen, W. W., Feyen, L., & Aerts, J. C. (2016). Incentivising flood risk adaptation through risk based 
+insurance premiums: Trade-offs between affordability and risk reduction. Ecological Economics, 125, 1-13. 
+Jones, L., & Tanner, T. (2017). ‘Subjective resilience’: using perceptions to quantify household resilience to 
+climate extremes and disasters. Regional Environmental Change, 17(1), 229-243. 
+Kamal, A. M., Shamsudduha, M., Ahmed, B., Hassan, S. K., Islam, M. S., Kelman, I., & Fordham, M. (2018). 
+Resilience to flash floods in wetland communities of northeastern Bangladesh.  International journal of 
+disaster risk reduction, 31, 478-488.  
+Khalili, S., Harre, M., & Morley, P. (2015). A temporal framework of social resilience indicators of communities 
+to flood, case studies: Wagga wagga and Kempsey, NSW, Australia.  International journal of disaster risk 
+reduction, 13, 248-254. 
+Khoja, L., Schubert, R., & Joerin, J. (2020). Social Resilience Indicators for Disaster Related Contexts.  
+Khunwishit, S., Choosuk, C., & Webb, G. (2018). Flood resilience building in Thailand: Assessing progress and 
+the effect of leadership. International Journal of Disaster Risk Science, 9(1), 44-54. 
+
+[[PAGE 17]]
+Koks, E. E., Jongman, B., Husby, T. G., & Botzen, W. J. (2015). Combining hazard, exposure and social 
+vulnerability to provide lessons for flood risk management. Environmental science & policy, 47, 42-52. 
+Koliou, M., van de Lindt, J. W., McAllister, T. P., Ellingwood, B. R., Dillard, M., & Cutler, H. (2020). State of 
+the research in community resilience: Progress and challenges. Sustainable and resilient infrastructure, 5(3), 
+131-151. 
+Kuhlicke, C., Seebauer, S., Hudson, P., Begg, C., Bubeck, P., Dittmer, C., ...& Masson, T. (2020). The behavioral 
+turn in flood risk management, its assumptions and potential implications. Wiley Interdisciplinary Reviews: 
+Water, 7(3), e14 
+Laurien, F., & Keating, A. (2019). Evidence from measuring community flood resilience in Asia.  Asian 
+Development Bank Economics Working Paper Series, (595).18.  
+Lazrus, H. (2015). Risk perception and climate adaptation in Tuvalu: A combined cultural theory and traditional 
+knowledge approach. Human organization, 52-61. 
+Lechowska, E. (2018). What determines flood risk perception? A review of factors of flood risk perception and 
+relations between its basic elements. Natural Hazards, 94(3), 1341-1366. 
+Liddell, J., & Ferreira, R. J. (2019 ). Predictors of individual resilience characteristics among individuals ages 65 
+and older in post-disaster settings. Disaster medicine and public health preparedness, 13(2), 256-264. 
+Liu, D., Li, Y., Shen, X., Xie, Y., & Zhang, Y. (2018). Flood risk perce ption of rural households in western 
+mountainous regions of Henan Province, China.  International journal of disaster risk reduction,  27, 155-
+160. 
+Lo, A. Y., & Chan, F. (2017). Preparing for flooding in England and Wales: the role of risk perception and the  
+social context in driving individual action. Natural hazards, 88(1), 367-387. 
+Maidl, E., & Buchecker, M. (2015). Raising risk preparedness by flood risk communication.  Natural Hazards & 
+Earth System Sciences, 15(7).  
+McClymont, K., Morrison, D., Beevers, L., & Carmen, E. (2020). Flood resilience: a systematic review.  Journal 
+of Environmental Planning and Management, 63(7), 1151-1176. 
+McDowell, C. P., Andrade, L., O’Neill, E., O’Malley, K., O’Dwyer, J., & Hynds, P. D. (2020). Gender -related 
+differences in flood risk perception and behaviours among private groundwater users in the Republic of 
+Ireland. International journal of environmental research and public health,  17(6), 2072. 
+McEwen, L., Garde- Hansen, J., Holmes, A., Jones, O., & Krause, F. (2017 ). Sustainable flood memories, lay 
+knowledges and the development of community resilience to future flood risk.  Transactions of the Institute 
+of British Geographers, 42(1), 14-28. 
+Mees, H., Crabbé, A., & Driessen, P. P. (2017). Conditions for citizen co- production in a resilient, efficient and 
+legitimate flood risk governance arrangement. A tentative framework.  Journal of Environmental Policy & 
+Planning, 19(6), 827-842. 
+Mees, H., Crabbé, A., Alexander, M., Kaufmann, M., Bruzzone, S., Lévy, L., & Lewandowski , J. (2016a). 
+Coproducing flood risk management through citizen involvement: insights from cross -country comparison 
+in Europe. Ecology and Society, 21(3). 
+Mees, H., Tempels, B., Crabbé, A., & Boelens, L. (2016b). Shifting public -private responsibilities in  Flemish 
+flood risk management. Towards a co-evolutionary approach. Land Use Policy, 57, 23-33. 
+Moghadas, M., Asadzadeh, A., Vafeidis, A., Fekete, A., & Kötter, T. (2019). A multi -criteria approach for 
+assessing urban flood resilience in Tehran, Iran. International journal of disaster risk reduction, 35, 101069. 
+Morris, J. C., McNamara, M. W., & Belcher, A. (2019). Building resilience through collaboration between 
+grassroots citizen groups and governments: two case studies.  Public Works Management & Policy , 24(1), 
+50-62. 
+Nakanishi, H., & Black, J. (2018). Implicit and explicit knowledge in flood evacuations with a case study of 
+Takamatsu, Japan. International journal of disaster risk reduction, 28, 788-797. 
+Nones, M. (2015). Implementation of the floods directive in selected EU member states. Water and Environment 
+Journal, 29(3), 412-418. 
+Ntontis, E., Drury, J., Amlôt, R., Rubin, G. J., & Williams, R. (2017). Emergent social identities in a flood: 
+Implications for community psychosocial resilience. Journal of  Community & Applied Social Psychology, 
+28(1), 3–14. doi:10.1002/casp.2329  
+Ntontis, E., Drury, J., Amlôt, R., Rubin, G. J., & Williams, R. (2019). Community resilience and flooding in UK 
+guidance: A critical review of concepts, definitions, and their impl ications. Journal of Contingencies and 
+Crisis Management, 27(1), 2-13. 
+
+[[PAGE 18]]
+O'Grady, M. J., Evans, B., Eigbogba, S., Muldoon, C., Campbell, A. G., Brewer, P. A., & O'Hare, G. M. (2019). 
+Supporting participative pre -flood risk reduction in a UNESCO biosphere.  Journal of Flood Risk 
+Management, 12(S2), e12520. 
+O'Neill, E., Brereton, F., Shahumyan, H., & Clinch, J. P. (2016). The impact of perceived flood exposure on flood 
+risk perception: The role of distance. Risk Analysis, 36(11), 2158-2186. 
+Papagiannaki, K., Kotroni, V., Lagouvardos, K., & Papagiannakis, G. (2019). How awareness and confidence 
+affect flood -risk precautionary behavior of Greek citizens: The role of perceptual and emotional 
+mechanisms. Natural Hazards and Earth System Sciences, 19(7), 1329-1346. 
+Peng, L., Tan, J., Lin, L., & Xu, D. (2019). Understanding sustainable disaster mitigation of stakeholder 
+engagement: Risk perception, trust in public institutions, and disaster insurance.  Sustainable 
+Development, 27(5), 885-897.  
+Qasim, S., Khan, A. N., Shrestha, R. P., & Qasim, M. (2015). Risk perception of the people in the flood prone 
+Khyber Pukhthunkhwa province of Pakistan. International Journal of Disaster Risk Reduction, 14, 373-378.   
+Qasim, S., Qasim, M., Shrestha, R. P., Khan, A. N., Tun, K., & Ashraf, M. (2016). Community resilience to flood 
+hazards in Khyber Pukhthunkhwa province of Pakistan.  International Journal of Disaster Risk 
+Reduction, 18, 100-106.  
+Quinn, T., Bousquet, F., Guerbois, C., Sougrati, E., & Tabutaud, M. (2018).The dynamic relationship between 
+sense of place and risk perception in landscapes of mobility. Ecology and Society, 23(2). 
+Rana, I. A., Jamshed, A., Younas, Z. I., & Bhatti, S. S. (2020). Characterizing flood risk perception in urban 
+communities of Pakistan. International journal of disaster risk reduction, 46, 101624. 
+Räsänen, A., Kauppinen, V., Juhola, S., Setten, G., & Lein, H. (2020). Configurations of community in flood risk 
+management. Norsk Geografisk Tidsskrift-Norwegian Journal of Geography, 1-16. 
+Reyes, D. D., & Lu, J. L. (2016). Gender dimension in disaster situations: A case study of flood prone women in 
+Malabon City, Metro Manila. International Journal of Disaster Risk Reduction, 15, 162-168. 
+Ridolfi, E., Albrecht, F., & Di Baldassarre, G. (2020). Exploring the role of risk perception in influencing flood 
+losses over time. Hydrological Sciences Journal, 65(1), 12-20. 
+Rufat, S., Tate, E., Burton, C. G., & Maroof, A. S. (2015). Social vulnerability to floods: Review of case studies 
+and implications for measurement. International journal of disaster risk reduction, 14, 470-486 
+Saja, A. A., Goonetilleke, A., Teo, M., & Ziyath, A. M. (2019). A critical review of social resilience assessment 
+frameworks in disaster management. International journal of disaster risk reduction, 35, 101096. 
+Salvati, P., Petrucci, O., Rossi, M., Bianchi, C., Pasqua, A. A., & Guzzetti, F. (2018). Gender, age and 
+circumstances analysis of flood and landslide fatalities in Italy.  Science of the total environ ment, 610, 867-
+879. 
+Santoro, S., Pluchinotta, I., Pagano, A., Pengal, P., Cokan, B., & Giordano, R. (2019). Assessing stakeholders' 
+risk perception to promote Nature Based Solutions as flood protection strategies: The case of the Glinščica 
+river (Slovenia). Science of the total environment, 655, 188-201. 
+Saulnier, D. D., Hanson, C., Ir, P., Mölsted Alvesson, H., & Von Schreeb, J. (2018). The effect of seasonal floods 
+on health: analysis of six years of national health data and flood maps. International journal of environmental 
+research and public health, 15(4), 665. 
+Scherzer, S., Lujala, P., & Rød, J. K. (2019). A community resilience index for Norway: An adaptation of the 
+Baseline Resilience Indicators for Communities (BRIC).  International Journal of Disaster Risk 
+Reduction, 36, 101107. 
+Seebauer, S., & Babcicky, P. (2018). Trust and the communication of flood risks: comparing the roles of local 
+governments, volunteers in emergency services, and neighbours. Journal of Flood Risk Management, 11(3), 
+305-316. 
+Seebauer, S., & Babcicky, P. (2020). The Sources of Belief in Personal Capability: Antecedents of Self‐Efficacy 
+in Private Adaptation to Flood Risk. Risk analysis, 40(10), 1967-1982. 
+Shah, A. A., Ye, J., Abid, M., Khan, J., & Amir, S. M. (2018). Flood hazards: household vulnerability and 
+resilience in disaster -prone districts of Khyber Pakhtunkhwa province, Pakistan.  Natural hazards , 93(1), 
+147-165. 
+Shao, W., Xian, S., Lin, N., Kunreuther, H., Jackson, N., & Goidel, K. (2017). Understanding the effects of past 
+flood events and perceived and estimated flood risks on individuals' voluntary flood insurance purchase 
+behavior. Water research, 108, 391-400. 
+Soetanto, R., Mullins, A., & Achour, N. (2017). The perceptions of social responsibility for community resilience 
+to flooding: the impact of past experience, age, gender and ethnicity. Natural Hazards, 86(3), 1105 –1126. 
+
+[[PAGE 19]]
+Stedman, R. C. (2016). Subjectivity and social -ecological systems: a rigidity trap (and sense of place as a way 
+out). Sustainability Science, 11(6), 891-901. 
+Surminski, S., & Eldridge, J. (2017). Flood insurance in England–an assessment of the current and newly proposed 
+insurance scheme in the context of rising flood risk. Journal of Flood Risk Management, 10(4), 415-435. 
+Thistlethwaite, J., H enstra, D., Brown, C., & Scott, D. (2018). How flood experience and risk perception  
+influences protective actions and behaviours among Canadian homeowners.  Environmental 
+management, 61(2), 197-208. 
+United Nations Office for Disaster Risk Reduction 2015 Sendai framework for disaster risk reduction 2015–2030. 
+Преузтето 4. априла 2020. са http://www.unisdr.org/files/43291_sendaiframeworkfordrren.pdf)  
+Van Valkengoed, A. M., & Steg, L. (2019). Meta -analyses of factors motivating climate change adaptation 
+behaviour. Nature Climate Change, 9(2), 158-163. 
+Verbrugge, L., & van den Born, R. (2018). The role of place attachment in public perceptions of a re-landscaping 
+intervention in the river Waal (The Netherlands). Landscape and urban planning, 177, 241-250. 
+Wang, Z., Wang, H., Huang, J., Kang, J., & Han, D. (2018). Analysis of the public flood risk perception in a 
+flood-prone city: The case of Jingdezhen city in China. Water, 10(11), 1577. 
+Wickes, R., Zahnow, R., Taylor, M., & Piquero, A. R. (2015). Neighborhood str ucture, social capital, and 
+community resilience: Longitudinal evidence from the 2011 Brisbane flood disaster.  Social Science 
+Quarterly, 96(2), 330-353. 
+Yawson, D. O., Adu, M. O., Armah, F. A., Kusi, J., Ansah, I. G., & Chiroro, C. (2015). A needs -based approach 
+for exploring vulnerability and response to disaster risk in rural communities in low income countries.  
+ 
+Funding: This research was funded by European Union’s Horizon 2020 research and innovation program under 
+Grant Agreement No. 740750. 
+ 
+ 

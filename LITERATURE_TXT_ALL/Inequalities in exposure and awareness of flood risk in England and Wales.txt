@@ -1,0 +1,926 @@
+[[PAGE 1]]
+Inequalities in exposure and awareness 
+of flood risk in England and Wales
+Jane L. Fielding Senior Lecturer in Quantitative Methods, Department of Sociology, 
+University of Surrey, United Kingdom
+This paper explores the environmental inequalities of living in the floodplains of England and 
+Wales and the differences in flood awareness of those ‘at risk’. An area comparison is made 
+between an etic, objective flood risk exposure, and an emic, subjective perception of that risk by 
+social class. In all areas except the Midlands, the working classes were more likely to reside in the 
+floodplains; the greatest exposure inequality is seen in the North East and Anglian regions. 
+Flood awareness in the Anglian regions was much lower than average, but there were no signifi-
+cant class differences. In the Thames region, despite equal flood risk exposure between classes, 
+the most deprived displayed the least awareness of flood risk. In the North East, inequalities in 
+the distribution of flood risk exposure accompanied inequalities in perception, resulting in the least 
+aware and most deprived experiencing the greatest flood risk.
+Keywords: environmental justice, flood awareness, flood risk, inequalities
+Introduction
+Flood risk is an issue of increasing concern in the United Kingdom, especially since 
+the devastating floods of 2007 , which prompted the commission of Sir Robert Pitt 
+to conduct a review of events before, during, and after the floods (Pitt, 2008 ). In 
+England and Wales alone, some five million people and two million properties are 
+identified as being in areas that are at risk of flooding (EA, n.d.a). With the claim 
+that the number of people at ‘high’ risk from flooding in the UK could rise from 
+1. 5 million to 3. 5 million between 2030  and 2100  (Foresight, 2004 ),  the potential 
+scale of social and economic disruption becomes all too clear. The problem is of 
+considerable concern to the UK Environment Agency (EA), which, since the severe 
+flood events of 1998 , 2000 , and 2007 , has placed a high priority on the need to 
+increase public awareness with regard to flood risk. The Pitt Review makes a perti-
+nent recommendation: 
+The Environment Agency should work with local responders to raise awareness in flood risk 
+areas and identify a range of mechanisms to warn the public, particularly the vulnerable, in 
+response to flooding (Pitt, 2008 , p. xxxi).
+ T
+he issues of who is at risk and whether there are inequalities in the distribution 
+of flood risk are also of concern. This is the arena of environmental justice and 
+social equality. Interest in environmental justice originated in the United States in the 
+1980 s and mainly revolved around the co-location of waste sites and heavy industry 
+doi:10.1111/j.1467-7717.2011.01270.x
+Disasters,  2012,  36(3):  477 − 494.  © 2012 The Author(s).  Journal compilation © Overseas Development Institute,  2012
+Published by Blackwell Publishing,  9600 Garsington Road,  Oxford,  OX 4 2DQ,  UK  and 350 Main Street,  Malden,  MA 02148 ,  USA
+
+
+[[PAGE 2]]
+Jane L. Fielding 478  
+in areas predominantly populated by ethnic minorities. Environmental justice has been 
+defined by the US Environmental Protection Agency as the:
+fair treatment and meaningful involvement of all people regardless of colour, race, national 
+origin or income with respect to the development, implementation, and enforcement of envi-
+ronmental laws, regulations and policies 
+(EPA, n.d.) . 
+ I
+n the UK, the issue of environmental justice is also now high on the agenda of 
+policy-makers and funding agencies (EA, 2001 ; ESRC, 2001 ). 
+ W
+hile the original concern was for those living in close proximity to polluting fac-
+tories and other installations, unequal risks to the population have now extended 
+to include all kinds of environmental threats, including natural risks, such as those 
+presented by floods and earthquakes (Buckle, Marsh, and Smale, 2000 ; Enarson and 
+Fordham, 2001 ; Wisner et al., 2004 ).
+ R
+ecent research for the UK Environment Agency finds no disproportionate dis-
+tribution of the population in the lower (more deprived) deciles residing within the 
+fluvial floodplain of England, although there did seem to be a relationship between 
+more deprived ward populations and flood hazard in tidal floodplains (Walker  et al., 
+2003 ). Walker et al. ( 2006 ) extend this work using the more recent EA 2004 flood 
+maps, deprivation deciles derived from the UK 2004  Index of Multiple Deprivation 
+data and aggregated to super output areas (SOAs) (with populations around 1, 500 ), 
+and the Ordnance Survey Address-Point® to capture at-risk addresses within each 
+SOA.
+1 Yet Walker et al. acknowledge that a limitation of this method is that ‘all 
+addresses within a SOA are still necessarily assumed to have the same deprivation 
+characteristics’ (Walker et al., 2006 , p. 52 ). Once again, they reveal that inequality 
+existed within the tidal floodplains in all regions within England and Wales, but 
+they find no overall inequality within the fluvial floodplains despite great regional 
+variation in inequalities.
+ T
+o explore different measures of inequality within the floodplains and to try to 
+address the problem of aggregating deprivation profiles to large areas such as wards 
+and the SOAs, Fielding and Burningham ( 2005 ) employ a spatial method that re-
+distributes population characteristics—derived from the UK 1991 Census data—as 
+population grids using Surface Builder, a freely available programme, developed by 
+David Martin (Martin and Brackan, 1999 ; Surface Builder, n.d.). These spatially dis-
+tributed populations, characterized by social class, were then ‘captured’ using spatial 
+techniques in GIS software and defined as ‘at risk’ if they resided within the extent of 
+the EA indicative flood map. The research finds that overall, the lower social classes 
+and the unemployed experienced a greater flood risk (Fielding and Burningham, 2005 ); 
+however, no distinction was made between tidal and fluvial risk. 
+ T
+his research was then extended using the 2004  EA flood maps and the 2001 
+Census; a distinction was made between the fluvial and tidal flood risk (Fielding, 
+2007 ). Using surface population models and logistic regression analysis, Fielding shows 
+that a significant inequality existed between the middle and working classes, and 
+also between the middle classes and the inactive (the unemployed and unclassifiable 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Inequalities in exposure and awareness of flood risk in England and Wales 479
+classes, not the retired) in risk factors associated with flood emergencies in all EA 
+regions of England and Wales except the Midlands region. The research demon-
+strates that, overall, inequality is reproduced in both the fluvial and tidal floodplains, 
+although it is more significant and pronounced in the latter, especially in the eastern 
+regions of England. 
+ S
+o it is clear that there are inequalities in the distribution of flood risk in the UK; 
+whether those inequalities have arisen because those communities are disadvan-
+taged or in spite of their disadvantage remains debatable. Talih and Fricker ( 2002 ) 
+determine that there are two approaches to studying environmental justice. The first 
+determines whether there is an association between distinguishing demographics 
+and the location of environmentally undesirable sites (an outcome-based approach) 
+and the second examines how such associations may have occurred (a process-based 
+approach). Therefore, they maintain that the existence of environmental inequality 
+does not necessarily imply that any overt discrimination has occurred because of 
+their disadvantage, but in spite of their disadvantage. 
+ I
+n other words, association is not enough to discern any positive discrimination; 
+evidence of that would be the conclusion of a causal analysis. However, this is not to 
+say that this association is not inequitable. Indeed, many studies show that the poor, 
+the disabled, the young, women, the very old, and other groups are less able to cope—
+whether physically, financially, or psychologically—in extreme situations, such as 
+during or following a flood (Cutter, 2003 ; Cutter, Boruff, and Shirley, 2003 ; Cutter 
+and Emrich, 2006 ; Fordham, 1998 ; 1999 ; Tapsell et al., 2002 ; Wisner et al., 2004 ). 
+For a review of the extensive literature on the link between poverty and disasters, 
+see Fothergill and Peek ( 2004 ) or Cutter et al. ( 2009 ). 
+ I
+n the short term, poorer people may be less likely to have sufficient available 
+financial resources to cover them during an emergency; they are also often less able 
+to carry on with their jobs if they are temporarily displaced from their homes. In 
+addition, poorer people are less likely to be insured and therefore less likely to be 
+able to recover all their lost assets or rebuild their damaged homes, especially given 
+the consequent physical and psychological stresses involved (Enarson and Fordham, 
+2001 ). Even at the community level, this disadvantage is felt where poorer communi-
+ties are less likely to have the political voice to engage in community reconstruction. 
+The adverse impacts of flooding are thus disproportionately felt even long after the 
+original disaster event.
+ F
+urther afield, especially in less developed countries, research has amply shown 
+that the most vulnerable in society are more likely to live in the most risky areas, often 
+because these areas are less desirable and therefore cheaper places to live (Wisner et 
+al., 2004 ). Not only do the most vulnerable often live at higher risk, but they are also 
+the least resilient and have the least adaptive capacity; they are often unable, because 
+of their circumstances, to ‘learn’ from their experience.
+ A
+nother category of vulnerable people comprises those who are newly settled or 
+who just moved to an at-risk area. These populations range from tourists to migrants 
+(both internal and external) who are particularly vulnerable due to a lack of local 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+Jane L. Fielding 480  
+knowledge, resources, or language skills. In addition, climate change is now gener-
+ally predicted to contribute to future flood risk (UKCIP, 2009 ; Milly et al., 2002 ); 
+specifically, there is evidence that climate change will have an impact on migration 
+patterns (Hugo, 1996 ; Raleigh, Jordan, and Salehyan, 2008 ). While much of this 
+research has explored the potential movements of ‘distress migrants’ escaping from 
+local flood risk areas, mainly in the developing world, there is also the potential that 
+such ‘climate migrants’ will migrate more widely to areas with less risk. In 2009 
+Professor John Beddington, the UK government’s chief scientific adviser, commented 
+that climate change may trigger a wave of migration to cooler climates, such as the 
+UK (Leake, 2009 ). 
+ T
+his paper sets out to explore the distribution of risk within an outcome-based 
+framework within England and Wales. It does not seek to examine the origins of 
+that risk—why or by what course of historical events the disadvantaged have come to 
+be disproportionately at risk. That goal would require a more longitudinal, process-
+based approach, which is beyond the scope of the current analysis. However, this 
+paper does seek to relate the relationship between inequalities in the distribution of 
+flood risk and the capacity of those most at risk to cope with that risk, namely their 
+resilience. One aspect of this resilience is whether they are aware of their risk.
+ A
+ useful framework for exploring these ideas is that of etic and emic conceptuali-
+zation of vulnerability (Spiers, 2000 ; Fielding et al., 2005 ). These concepts, reinterpreted 
+from linguistics and anthropology, refer to two complementary perspectives. 
+ A
+n etic viewpoint defines vulnerable individuals as those at greater risk based 
+either on where they live (in vulnerable places, such as floodplains) or on demographic 
+characteristics (vulnerable people). These characteristics are usually seen as contrib-
+uting to social dependence; they include old age, ill health, disability, poverty, and 
+ethnicity (in terms of language barriers). Quantitative methods are nearly always used 
+to identify vulnerable places (measuring the likelihood of an event occurring) and 
+are also often used to identify vulnerable people. One negative consequence of this 
+approach is that individuals may become stereotyped based on the defining functional 
+deficit. Another problem is that such defined ‘vulnerable groups’ are not homogenous. 
+ I
+n contrast, an emic viewpoint—which tends to be aligned with qualitative meth-
+odology—seeks to identify vulnerability on the basis of meanings held by individuals, 
+usually arising from their lived experience. Emic vulnerability is founded on a person’s, 
+family’s, or community’s sense of their own resilience and ability to respond in the 
+face of a flood. In terms of flood risk, emic vulnerability can only be determined 
+by the person experiencing it. People who may be defined as belonging to an at-risk 
+group (etic vulnerability) may only feel  vulnerable if they consider some threat to their 
+person to exceed their capacity to adequately respond, despite ‘rationally’ acknowl-
+edging their possession of vulnerable characteristics. They need to recognize that 
+they are at risk before they can effectively prepare. Thus, while awareness of risk may 
+not lead to an appropriate action, it could be argued that unless someone admits to 
+being aware of their risk status and feels threatened (that is, feels vulnerable), he or she 
+is unlikely to take appropriate action. Much in the same way, for smokers to give up 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+Inequalities in exposure and awareness of flood risk in England and Wales 481
+cigarettes, they must consciously recognize they are at risk—trusting the message 
+that there is some threat to their health—to have the capacity to respond to the threat, 
+by giving up smoking. 
+Etic perspectives on flood risk: risky places and risky people
+From an etic perspective, vulnerable populations (risky people) are defined as those 
+who live within the floodplains (risky places), such as those defined by the flood maps 
+developed by the EA. The ‘at risk’ database of postal addresses was created by the 
+EA to target flood risk populations, often by a postal mail-out, but also to be able to 
+aim their awareness campaigns at populated flood-prone regions. Generally carried 
+out annually, these awareness campaigns are designed to educate the vulnerable public 
+about flood facts.
+Emic perspectives on flood risk: public awareness of risk
+The emic perspective aims to ascertain whether the ‘at-risk’ public as defined above 
+felt at risk or were aware of their risk. It is apparent that the EA campaign messages 
+were not getting through. In 2009 , the EA reported that 40 per cent of all at-risk 
+populations in 2009  were not aware that their property was in a flood-risk area 
+(EA, n.d.b). Thus, while the quantitative measurement of the extent of the flood-
+plains had been used to identify the ‘at-risk’ population, another quantitative analysis 
+identified a differing perception of reality of those living within those areas. The 
+imposed, outsider view that defined risky places was at odds with the lived experience 
+of those defined ‘at risk’. 
+ W
+hy were those who are vulnerable according to etic measures not aware of their 
+risk? Previous research has shown that there is a clear social class gradient in aware-
+ness; the lower social classes, the very young, and the very old—in other words, those 
+with the highest financial or social dependency—are least aware of their flood risk 
+(Fielding et al., 2007 ; Burningham, Fielding, and Thrush, 2008 ). However, a lack of 
+awareness on its own, measured quantitatively, does not necessarily reveal the com-
+plete picture, as underlined by the following quote from the Pitt Review : 
+The public need to be aware of a flooding risk before they can take action to minimise it. 
+But even being aware of risk may not be enough—of those we talked to who actually knew 
+prior to the floods that they were at risk, relatively few had done anything to prepare 
+(Pitt, 2008 , p. xxxi).
+ Be
+ing aware is thus the first step in being prepared; yet for people to recognize  their 
+risk and take appropriate action, other factors come into play, not least their trust in 
+the messenger and their belief in their ability to cope in the face of impending danger. 
+ G
+reen, T unstall, and Fordham ( 1991 ) show that people’s expectations of their flood 
+risk is based on their past experience, which often leads them to underestimate the 
+impact of rare and exceptional flood events. Similarly, Burningham, Fielding, and 
+Thrush ( 2008 ) conclude that people evaluate their risk based on past experience and 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+Jane L. Fielding 482  
+that their apparent lack of awareness may be accounted for by their local knowledge 
+and their belief that ‘it will never happen to me’. They also find that people may 
+acknowledge their lack of awareness but either be unconcerned or in denial of their 
+risk while placing blame on their lack of trust in the providers of information. The 
+invisibility of flood risk is also seen as a factor in people’s response—because you 
+can’t see it, it doesn’t exist. Another factor is that acknowledgement of flood risk is 
+perhaps an acknowledgement of the devaluation of a home, recognition that perhaps 
+the home may be uninsurable or even unsellable.
+ D
+epending on personal circumstances, recognition of vulnerability to flood risk 
+according to the etic flood maps may either be accepted and acted upon—a situa-
+tion where the emic and etic perspectives coincide—or rejected, with the etic and 
+emic viewpoints at variance. In the latter case, there are two possibilities. First, the 
+respondent is not actually at risk—due either to an error in the flood maps (the 
+respondent lives on an isolated hill or recent flood defences have not been taken 
+into account) or personal circumstance (the respondent lives above the ground floor). 
+Second, the respondent is at risk (according to the map) but does not perceive this 
+risk to be significant. Research has shown that inequalities between classes exist in the 
+distribution of flood risk in the fluvial and tidal floodplains in England and Wales, 
+and that, in addition, there are class differences in flood awareness. 
+ T
+his study aims to explore the correlation between inequalities in hazard expo-
+sure and the variance of awareness in different regions of England and Wales. It 
+updates the current literature in the light of recent flood events, specifically following 
+the 2007 flood events in England and Wales.
+Methodology
+Measuring the emic perspective: perceptions of flood risk
+Ipsos MORI investigated flood awareness for the Environment Agency using a 
+secondary analysis of data collected in 2007 –8 (Ipsos MORI, 2008 ). This survey 
+was conducted in March 2008  with a view to evaluating the effectiveness of the flood 
+awareness campaigns run during 2007 –8. The data was weighted by region and 
+severity of flood risk. The final weighted sample was representative not only by the 
+proportions at risk in each region, but also by their level of risk. The survey asked: 
+‘Is your property at risk of flooding? Would you say it is . . . ?’ Respondents could 
+select one of the following responses: ‘Definitely at risk’, ‘Possibly at risk’ (both re-
+coded to indicate ‘aware’), or ‘Not at all at risk’ (recoded to indicate ‘not aware’).
+Measuring the etic perspective: identification of risky areas 
+Respondents were defined as ‘at risk’ from tidal or fluvial flooding although they 
+may never have actually experienced a flood event. The ‘at risk’ samples were iden-
+tified by the use of floodplain maps. It may seem obvious that residents within the 
+floodplains are most at risk from flooding and comprise the ‘at-risk’ population, yet 
+measuring the extent of the floodplains and quantifying the likelihood of floods is 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+Inequalities in exposure and awareness of flood risk in England and Wales 483
+a contentious exercise complicated by many factors, ranging from climate change to 
+the involvement of the insurance industry. 
+ A
+reas at risk were those defined by the Environment Agency as those within the 
+Zone 2 floodplains. Floodplain maps, based on annual risk, apply the following categories: 
+•
+ Z
+one 1: those with little or no risk (chance of any flooding < 1 in 1, 000 -year period); 
+•
+ Z
+one 2: those with low to medium risk (chance of any flooding from rivers or the 
+sea > 1 in a 1 , 000 -year period); and 
+• Z
+one 3: those living in high-risk areas (chance of any flooding > 1 in a 100 -year 
+period or chance of sea flooding > 1 in a 200 -year period). 
+ Z
+one 2 flood areas represent the extent of an extreme flood event. Note that those 
+living within Zone 2 also include those living within Zone 3. This research compares 
+those in Zone 1, who are considered at minimal flood risk, with those in Zone 2, 
+who are considered at risk from flooding. All the results are based on comparisons 
+across the eight EA regions, which are broadly defined by the major river catchment 
+areas in England and Wales. 
+ R
+egional analysis was considered an appropriate strategy in the light of the regional 
+variation in the impact of the 2007 floods. In researching the cost of the summer 
+floods of 2007  in England for the Environment Agency, Chatterton et al. ( 2010 ) find 
+that some regions were particularly hard hit, as measured by the count and damage 
+costs of insurance claims following the floods. Those areas included South and East 
+Y orkshire, Worcestershire, Gloucestershire, and Oxfordshire; they are shaded on the 
+Environment Agency regional bounda-
+ries in Figure 1. In addition, regional com-
+parisons are considered important since 
+the predicted increased flood risk due to 
+climate change is also forecast to be dif-
+ferentially felt throughout the British Isles 
+(UKCIP, 2009 ). This differential effect 
+will arise due to the independent tilting 
+of the north-west/south-east longitudi-
+nal axis of the British Isles, which would 
+see those areas in the South East suffer-
+ing an increased flood risk as the axis tilts 
+(ODPM, 2004 ). 
+Measuring the etic perspective: 
+identification and characteristics 
+of ‘at-risk’ populations
+The EA maps identify the ‘risky places’ 
+but are also used to pinpoint the ‘at-risk’ 
+populations living within them.
+Figure 1 Environment Agency regions 
+and the impact of the 2007 floods
+Source: Chatterton et al. ( 2010 )
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Jane L. Fielding 484  
+ T his paper uses social class as an indicator of social standing within society and, 
+potentially, a measure of dependency or vulnerability within a community. While 
+the conceptualization of social class as an indicator of poverty or social deprivation 
+may be contended, it is commonly used to investigate health inequalities (Scambler 
+and Higgs, 2001 ; Chandola, 2000 ). In quantitative studies of inequality, measures of 
+social division or difference are often defined by available data; this study takes a 
+similar approach. Using categorized class indicators (such as that available in the 2001 
+UK Census) to measure economic difference departs from some more recent cul-
+tural approaches to class analysis, which theorize class as individualized hierarchies 
+(Devine and Savage, 2000 ; Bottero, 2004 ); nevertheless, such analysis has value in 
+identifying quantifiable difference, especially at the household level. 
+Social class in the 2001 census
+The social class variable—NS-SEC—used in the 2001 UK Census was developed 
+from the ‘Goldthorpe Schema’ (Erikson and Goldthorpe, 1992 ), an internationally 
+recognized predictor of health and educational outcomes (Marshall, Swift, and Roberts, 
+1997 ). It was designed to measure social relationships in the workplace based on employ-
+ment relations. Such employment relations relate to income, economic prospects, 
+and job security. Further validation of the use of this social class classification, espe-
+cially of the long-term unemployed (as a separate category) and of the retired (by their 
+last main occupation), can be found in Rose, O’Reilly, and Martin ( 1997 ). 
+ T
+his analysis focuses on households at risk from flooding, and therefore a house-
+hold measure of social class is most appropriate. It is measured by the class of the 
+household reference person (HRP), defined as the member of the household in whose 
+name the accommodation is owned or rented. If the household is jointly owned or 
+rented, the member with the highest income is the HRP . This is an example of the 
+‘dominance’ approach to measuring class (Erikson, 1984 ). 
+ A
+rea statistics for social class were downloaded from the 2001  Census via Casweb, 
+from Table CAS 044 , ‘NS-SEC of Household Reference Persons (HRP) aged 16 –74 
+in England and Wales’ (CDU, n.d.). The data, with spatial referents, was then entered 
+into SPSS for preliminary recoding of social class (NS-SEC); it was subsequently 
+entered (as csv format files) into Surface Builder to create six separate social class grids. 
+For the purpose of comparison and a clearer analysis, these six classes were recoded 
+into three groups: middle class, working class, and inactive (see Table 1 ). 
+Table 1 Social class groupings
+Middle class 1. Higher and lower managerial and professional
+2. Intermediate occupations
+3. Small employers and own account workers
+Working class 4. Lower supervisory and technical occupations
+5. Semi-routine and routine occupations
+Inactive 6. Never worked and long-term unemployed/unclassified
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+Inequalities in exposure and awareness of flood risk in England and Wales 485
+ S urface Builder, developed by David 
+Martin (Martin and Bracken, 1999 ), 
+imputes the distribution of larger area 
+statistics (in this case, output areas) into 
+200 -metre grid squares based on the 
+population centroids for each area (Martin, 
+1989 ; Bracken and Martin, 1989 ; Surface 
+Builder, n.d.). These surface population 
+grids are then imported into ArcView 
+for analysis. For a full description of this 
+methodology, readers should refer to both 
+Fielding and Burningham ( 2005 ) and 
+Fielding ( 2007 ).
+Results and discussion
+Estimation of etic risk
+An initial analysis of populations ‘at risk’ showed that the Thames region ( 14 per cent), 
+followed by Anglian region ( 13 per cent), had the highest proportion of their popula-
+tions within the Zone 2 floodplains (see Figure 2). The Midlands region was least at 
+flood risk ( 7 per cent). This study does not explore whether these area risk differences 
+have arisen due to any direct discrimination—such as a greater amount of building on 
+the floodplains—or whether they are just more heavily populated and therefore have 
+a greater likelihood of risk; this topic could be the subject of further research. The 
+question of interest here is whether there were class inequalities within these EA regions. 
+Figure 2 Proportion of households within 
+the Zone 2 floodplains, by region
+Source: author’s analysis of ONS ( 2001 ) 
+Table 2 Proportion in Zone 2 floodplains, by region and class
+Region No. of households Percentage of class within Zone 2 floodplains 
+Middle class Working class Inactive Total
+1. Anglia 2,090,562 11.7% 15.2% 14.7% 13.3%
+2. Wales 1,135,195 11.4% 12.7% 12.4% 12.1%
+3. Midlands 3,090,295 7.3% 7.1% 6.9% 7.1%
+4. North East 2,629,608 8.4% 10.3% 9.4% 9.3%
+5. North West 2,470,377 7.3% 7.8% 7.6% 7.5%
+6. South West 1,513,869 9.2% 10.1% 9.3% 9.5%
+7. Southern 1,657,054 7.9% 9.3% 8.8% 8.4%
+8. Thames 4,444,968 13.3% 13.9% 14.6% 13.7%
+Percentage overall in floodplains 10.1% 10.6% 10.5% 10.3%
+Total
+ 
+households
+ 
+in
+ 
+floodplains 920,805 557,400 482,379 1,960,584
+Source: author’s analysis of ONS (2001) Environment Agency region
+% in Zone 2 floodplain
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+Jane L. Fielding 486  
+Flood risk and class
+Research has shown that class inequal-
+ities exist in all EA areas except the 
+Midlands region with regard to overall 
+flood risk (Fielding, 2007 ). The working 
+classes are more likely to reside in the 
+floodplains than the middle classes (see 
+Table 2 ).
+ F
+ollowing a logistic analysis, a com-
+parison of the odds ratios of being middle 
+class vs. being either working class or 
+inactive and being at flood risk showed 
+that inequality was greatest in the Anglian 
+and North East regions. The working 
+classes in these regions were 35 per cent 
+and 25 per cent more likely, respectively, to reside in the Zone 2 floodplains than the 
+middle classes in those regions.
+Estimating the emic risk
+These results are to be contrasted with an analysis obtained using Ipsos MORI’s ‘at 
+risk’ survey conducted for the EA in 2007 –8. Figure 3 demonstrates that in 2008 , the 
+Figure 3 Flood risk awareness in 2007–8, 
+by region
+Source: author’s analysis of Ipsos MORI ( 2008 )
+Table 3 Percentage of at-risk residents aware of flood risk, by region and class
+Region No. Percentage of ‘at risk’ residents aware  
+of flood risk
+Significance % flooded 
+in 2007
+Middle 
+class
+Working 
+class
+Inactive Total
+1. Anglia 159 46.4% 47.1% 37.5% 45.9% 1.2%
+2. Wales 73 55.9% 48.4% 50.0% 52.1% 0.0%
+3. Midlands 97 61.1% 48.0% 37.9% 47.4% 7.6%
+4. North East 151 63.3% 46.3% 75.0% 57.6% * 11.0%
+5. North West 102 57.5% 46.0% 58.3% 52.0% 0.0%
+6. South West 76 56.8% 58.3% 50.0% 56.6% 0.0%
+7. Southern 79 55.8% 65.5% 85.7% 62.0% 0.0%
+8. Thames 255 68.4% 39.7% 51.4% 59.3% ** 2.0%
+Percentage aware 61.0% 47.7% 53.2% 54.6% ** 3.1%
+Total
+ 
+respondents  
+482  
+411  
+141 1,034
+Notes: Chi-square significance: * p < 0. 01 ; ** p < 0. 001 .
+Source: author’s analysis of Ipsos MORI ( 2008 )
+Environment Agency region
+% residents aware that home is in floodplain
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+Inequalities in exposure and awareness of flood risk in England and Wales 487
+most flood-aware residents lived in the Southern ( 62 per cent aware) and the Thames 
+( 59 per cent) regions, followed by those in the North East ( 58 per cent). However, the 
+average, overall residential awareness applies to just over half the at-risk population 
+( 55 per cent); the lowest awareness levels are seen in the Anglian ( 45 per cent) and 
+Midlands (48 per cent) regions. 
+Awareness and social class 
+An examination of class inequalities within regions reveals that, despite differing 
+levels of flood risk, most regions showed no significant class differences (see Table 3). 
+The two exceptions were the North East and the Thames regions. In the North East, 
+where the working classes are significantly less likely than the middle classes to be risk-
+aware, the inactive are significantly more likely to be aware. In the Thames region, 
+the middle classes are significantly more likely to be aware of risk but the inactive are 
+more likely to be aware than the working classes. Since the base numbers of the inac-
+tive in some regions are very low, this category will not be used in further analysis in 
+this paper. 
+ I
+t is worth noting that all residents who were flooded in 2007  in their current 
+residence were aware of their flood risk. However, of those who were not  flooded, the 
+class differences seen in the North East and in the Thames regions remain the only 
+significant differences. 
+ O
+verall, 77 per cent of those with previous flood experience in their current resi-
+dence ( 19 per cent of the sample) were aware of their risk, compared to 49 per cent of 
+those with no previous flood experience. Regional differences still prevail. As Table 4 
+Table 4 Regional differences in awareness and previous flood experience
+Region Percentage aware of  
+flood risk
+Significance Respondents with  
+previous experience 
+Previous flood 
+experience
+No previous 
+experience 
+No. Percentage
+1. Anglia 47.10% 45.20%
+ 1
+71 19.90%
+2. Wales 50.00% 53.30%  7
+8 15.40%
+3. Midlands 94.70% 34.20% *** 99 19.20%
+4. North East 91.30% 51.20% *** 152 15.10%
+5. North West 92.30% 38.60% *** 100 26.00%
+6. South West 72.70% 53.10%  7
+9 13.90%
+7. Southern 88.20% 54.30% * 63 27.00%
+8. Thames 78.80% 55.50% ** 295 17.30%
+Overall 76.80%
+(193 respondents)
+49.30%
+(844 respondents)
+*** 1,037 18.60%
+Notes: Chi-square significance: * p < 0. 05 ; ** p < 0. 01 ; *** p < 0. 001 .
+Source: author’s analysis of Ipsos MORI ( 2008 )
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+Jane L. Fielding 488  
+shows, perhaps surprisingly, there are no significant differences between those with 
+and without experiences in their claimed awareness of flood risk in the South West, 
+Wales, or Anglia. It is interesting that these are areas where awareness is generally 
+lower than in other regions. Yet previous experience has a significant impact on 
+awareness in all other regions. Three of these regions—the Midlands, the North East, 
+and the Thames regions—were particularly hard hit in the mid- 2007 floods, which 
+might account for some of this difference in awareness. 
+ I
+n an attempt to disentangle the impacts of region, class, and risk experience on 
+awareness, a multivariate logistic regression analysis was carried out to predict aware-
+ness of risk. Because of low base numbers, comparisons are only made between the 
+middle classes and the working classes. The focus is on class effects within each 
+region compared to all other regions (see Table 5). In each region, the middle 
+classes are the reference category (with an odds ratio of 1. 0 ) and are compared to 
+the other two groups—the working classes in that region and all classes in all 
+other regions. 
+ M
+odel 1 reveals significant class differences in the Thames and the North East 
+regions, where the working classes are less aware of their risk ( 70 per cent less aware 
+in the Thames region and 52 per cent less aware in the North East). However, 
+Model 1 also shows that in a comparison of middle class awareness in each region 
+with overall awareness in all other regions, there are no significant differences. 
+ M
+odel 2 introduces previous awareness as a control and reveals that while the 
+significant differences in the Thames region remain, those in the North East disap-
+pear, suggesting that in this region the class differences previously seen were partly 
+due to differences in previous flood experience. Model 2 shows clearly that pre-
+vious experience has the greatest impact on awareness; those with experience are 
+nearly four times more likely to be aware of their risk than those without previous 
+flood experience.
+Flood risk and risk awareness: comparing the emic and the etic
+It has thus been established that there are class and regional inequalities in hazard 
+exposure and, in addition, class and regional differences in flood awareness. The ques-
+tion posed by the following analysis is whether these inequalities coincide—are there 
+any regions or classes that suffer a double jeopardy? These two sets of results were 
+explored together to establish which areas display high risk/high awareness; high 
+risk/low awareness; low risk/high awareness; and low risk/low awareness overall; the 
+working and middle classes were then compared in each region. In Figures 4  and 5 , 
+the X and Y reference lines have been drawn in at the overall average for risk likeli-
+hood and for awareness. 
+ O
+verall, the regions at highest flood risk include Wales, Anglia, and the Thames 
+regions (see Figure 4). However, a comparison of the flood awareness within those 
+regions shows that while flood awareness overall is high in the Thames region, it is low 
+in Anglia and Wales.
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+Inequalities in exposure and awareness of flood risk in England and Wales 489
+Table 5 Logistic regression predicting awareness of flood risk, showing odds ratios for 
+class effects within region and the effects of previous flood experience 
+Model 1 Model 2
+Thames middle class (REF)  1.0  1.0
+Thames working class 0.30*** 0.32***
+Compared to all other regions 0.807 0.793
+Anglia middle class (REF)  1.0  1.0
+Anglia working class  1.04 0.75
+Compared to all other regions 2.075 1.847
+Wales middle class (REF)  1.0  1.0
+Wales working class 0.74 0.78
+Compared to all other regions 1.406 1.418
+Midlands middle class (REF)  1.0  1.0
+Midlands working class 0.62 0.66
+Compared to all other regions 1.176 1.308
+North East middle class (REF)  1.0  1.0
+North East working class 0.48* 0.55
+Compared to all other regions  1.012  1.029
+North West middle class (REF)  1.0  1.0
+North West working class 0.68 0.77
+Compared to all other regions 1.348 1.611
+South West middle class (REF)  1.0  1.0
+South West working class 0.97 0.95
+Compared to all other regions 1.298 1.220
+Southern middle class (REF)  1.0  1.0
+Southern working class 0.86 0.67
+Compared to all other regions 1.240 1.261
+Previous flood experience
+No (REF)  1.0
+Yes 3.71***
+Chi-square significance of model ** ***
+Notes: Chi-square significance: * p < 0. 05 ; ** p < 0. 01 ; *** p < 0. 001 ; REF: reference category.
+Source: author’s analysis of Ipsos MORI ( 2008 )
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+Jane L. Fielding 490  
+Class differences, flood risk, and 
+risk awareness
+This analysis also explores class differ-
+ences. Figure 5 shows that it is predom-
+inately the working classes in Wales and 
+the Thames and North East regions that 
+experience high flood risk associated with 
+low awareness of risk. The exception is 
+seen in the Anglian region, where the 
+middle and working classes share low 
+awareness, although the working classes 
+experience the highest flood risk. 
+ T
+o facilitate comparison across class 
+differences in Figure 5 , connecting lines 
+link the classes of each region. The more 
+vertical a line is, the more equal the level 
+of awareness across the classes; the more horizontal a line is, the more equal the flood 
+risk exposure. In addition, the shorter the line, the more equal awareness and/or 
+risk. In other words, Figure 5 is a visualization of the regional inequalities in the etic 
+flood risk and emic flood awareness. It reveals whether the flood risk of a location 
+or the perception of one’s safety is more equal or unequal between the middle and 
+working classes in each region.
+ T
+he longest line separates the working and middle classes in the Thames region, 
+which exhibits the greatest differences in perception, although both groups are 
+equally at flood risk. In contrast, the perception of risk in the Anglian region is equally 
+low across the classes, although inequality 
+is seen in the likelihood of living within 
+the flood-risk zone, which is higher for 
+the working classes. In Wales, the North 
+W est, and the Midlands, the levels of flood 
+risk within regions are similar; however, 
+in each case, the working classes are less 
+aware of their risk than the middle classes, 
+though not significantly. In the Southern 
+and the South West regions, both classes 
+are in the same quadrant in Figure 5; the 
+working classes are more aware of their 
+risk, which is lower than average in both 
+regions. Perhaps the most notable differ-
+ence is seen in the North East, where the 
+two groups are in diametrically opposite 
+quadrants; the working classes are at high 
+risk with low awareness and the middle 
+classes at low risk with high awareness. 
+Figure 4 Overall flood risk and flood 
+awareness in 2007–8
+Source: author’s analysis of Ipsos MORI ( 2008 ); 
+ONS ( 2001 )
+Figure 5 Visualization of inequalities 
+between flood risks and flood awareness 
+in 2007–8
+Notes: MC = middle class; WC = working class.
+Source: author’s analysis of Ipsos MORI ( 2008 ) and 
+ONS ( 2001 ) 
+% in Zone 2 floodplains
+% at-risk residents aware that home is in floodplain
+Greater flood risk >>>
+Greater awareness >>>
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+Inequalities in exposure and awareness of flood risk in England and Wales 491
+ A ll in all, the inequalities of flood risk vary across regions. In the Thames region, 
+the perception of risk is a concern; in Anglia, inequality characterizes the likelihood 
+of exposure to that risk; and in the North East, inequalities lie within the etic flood risk, 
+the likelihood of living within the floodplains, and the emic perception of that risk.
+Discussion 
+Clearly, there are large differences in both flood risk likelihood and flood awareness 
+in England and Wales. These differences are often class-dependent. In all areas except 
+the Midlands, the working classes are more likely to reside in the floodplains; the 
+greatest inequality is seen in the North East and in the Anglian region. However, 
+these inequalities may not have arisen through any positive discrimination; they should 
+be an area for further research.
+ Y
+et, despite uncertainly regarding the origins of these inequalities, there is much 
+research to show that they are inequitable. Such research has shown that it is often the 
+most deprived who are least able to cope in a flood event and these results should 
+be of concern to policy-makers and flood emergency managers developing flood 
+warning policy (Cutter, 2003 ; Cutter, Boruff, and Shirley, 2003 ; Cutter and Emrich, 
+2006 ; Fordham, 1998 ; 1999 ; Tapsell et al., 2002 ; Wisner et al., 2004 ). However, 
+these are all measures of objective, etic risk defined by the flood maps. It is equally 
+important to explore and understand the perception of people who live in those areas, 
+and the emic, subjective risk. 
+ T
+his research has explored that subjective risk quantitatively using a secondary 
+analysis of survey data collected in 2007 –8. Findings show that flood awareness in 
+some areas, especially the Anglian and the Midlands regions, was much lower than 
+average; however, there were no significant class differences in these regions. It was in 
+the Thames area, an area of overall higher-than-average awareness, that the greatest 
+class differences were seen. Here, the working classes are significantly less aware than 
+their middle-class neighbours, despite living at equal flood risk. Y et it was the work-
+ing classes living in the North East who bear the greatest burden. Not only are they 
+living in riskier places, but they are significantly less aware of their risk than their 
+middle-class counterparts. While it has been shown that previous flood experience 
+may partially explain differences in flood awareness in the North East, it does not 
+explain the class differences in flood awareness seen in the Thames areas. 
+ F
+urther research is thus needed, not only to establish the origins of inequalities 
+in hazard exposure, but also to determine what impact other factors may have on 
+hazard awareness. To explore the origins of inequalities in hazard exposure, a his-
+torical longitudinal analysis of population migration patterns into and out of flood 
+prone areas (especially coastal immigration) should be conducted. This can then be 
+extended to predict future hazard exposure following the predicted changes due to 
+climate change. It would also be useful to establish what proportion of social housing 
+is built in flood-risk areas. The results may suggest that the inequalities demonstrated 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 16]]
+Jane L. Fielding 492  
+in this paper are not only inequitable but also unjust, in that the greatest impact would 
+be felt by those least able to choose where they live. 
+ A
+t the regional level, some areas are especially in need of further research. The 
+Thames region is not only the area at greatest flood risk in England and Wales, but 
+it also exhibits disproportionately lower levels of flood awareness among the most 
+deprived, as measured by social class. Of course, it also contains the national capital, 
+London, and experiences the greatest dynamic population turnover. T o explain not 
+only lower levels of awareness, but also regional differences in awareness, more re-
+search, particularly qualitative research, is needed to assess the resident populations’ 
+everyday understanding of their exposure to flood risk. Such research can serve to 
+inform appropriate action in and prior to any emergency situation. 
+ I
+n addition, it is important to consider regional differences in the light of recent 
+predictions of increased flooding due to climate change, not only globally (Milly et 
+al., 2002 ), but also in the UK (UKCIP , 2009 ). Predictions for the UK have announced 
+that there will be wetter, milder winters and more frequent storms, especially in the 
+south. Coupled with this increased flood risk in the Southern region are the predic-
+tions of immigrant inflow into the UK. Migration statistics show that net migration 
+is increasing steadily (ONS, n.d.). About half a million people immigrate to the UK 
+each year, yet about one-third of a million emigrate, resulting in a net influx of 
+about 200 , 000 per year. This increase largely concerns London and the South East. 
+Given that migrant population are likely to increase over the next decades, coupled 
+with evidence that climate change will probably have an impact on the areas that have 
+the highest inflow of migrants (London and the South East), it is likely that these com-
+munities will be most affected; these concerns should be high on any research agenda. 
+ T
+his study has demonstrated that area differences in awareness are complex and 
+that there is great regional variation, not only in awareness but also flood risk. Yet 
+while all areas (except the Midlands) show a disproportionate increase in flood risk 
+affecting the working and inactive classes, there are some areas where this is especially 
+pronounced, such as the North East. In addition, perhaps because of this inequality, 
+the working classes in the North East are significantly less likely to be aware of the 
+flood risk; indeed, they shoulder a double risk burden.
+Correspondence
+Jane L. Fielding, Department of Sociology, University of Surrey, Guildford GU 2 7XH, 
+United Kingdom. 
+E-mail: j.fielding@surrey.ac.uk
+Endnotes
+1 T he Ordnance Survey is the national mapping agency of Great Britain and the Address Point is 
+the mapping product that is used to locate all residential and other addresses.
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 17]]
+Inequalities in exposure and awareness of flood risk in England and Wales 493
+References
+Bottero, W. ( 2004 ) ‘Class Identities and the identity of class’. Sociology. 38 ( 5). pp. 985 –1003 .
+Bracken, I. and D. Martin (1989 ) ‘The generation of spatial population distributions from census 
+centroid data’. Environment and Planning A. 21 ( 4). pp. 537 –43.
+Buckle, P., G. Marsh, and S. Smale ( 2000 ) ‘New approaches to assessing vulnerability and resilience’. 
+Australian Emergency Management Journal. 15 ( 2). pp. 8 –15.
+Burningham, K., J. Fielding, and D. Thrush ( 2008 ) ‘“It’ll never happen to me”: understanding public 
+awareness of local flood risk’. Disasters. 32 ( 2). pp. 216 –38.
+CDU (Census Dissemination Unit) (n.d.) ‘Casweb’ . Accessed 5 February 2010. http://casweb.mimas.ac.uk. 
+Chandola, T. ( 2000 ) ‘Social class differences in mortality using the new UK National Statistics Socio-
+Economic Classification’. Social Science & Medicine. 50 ( 5). pp. 641 –9.
+Chatterton, J., et al. ( 2010 ) The Cost of the 2007 Floods in England . Environment Agency R&D Report 
+SCHO 1109 BRJA-E-P. Environment Agency, Bristol.
+Cutter, S.L. ( 2003 ) ‘The vulnerability of science and the science of vulnerability’. Annals of the Association 
+of American Geographers. 93 ( 1). pp. 1 –12 .
+Cutter, S.L., B.J. Boruff, and W.L. Shirley ( 2003 ) ‘Social vulnerability to environmental hazards’. 
+Source Social Science Quarterly. 84 ( 2). pp. 242 –61.
+Cutter, S.L. and C.T. Emrich ( 2006 ) ‘Moral hazard, social catastrophe: the changing face of vulnera-
+bility along the hurricane coasts’. Annals of the American Academy of Political and Social Science. 604 ( 1). 
+pp. 102 –12 .
+Cutter, S.L., et al. ( 2009 ) Social Vulnerability to Climate Variability Hazards: A Review of the Literature—
+Final Report to Oxfam America . Columbia, SC: Hazards and Vulnerability Research Institute, University 
+of South Carolina. Accessed 30th August 2011. http://adapt.oxfamamerica.org/resources/Literature_
+Review.pdf.
+Devine, F. and M. Savage ( 2000 ) ‘Conclusions: Renewing class analysis’, in R. Crompton, et al. (eds.), 
+Renewing Class Analysis . Oxford: Blackwell. pp. 184 –99 . 
+EA (Environment Agency) ( 2001 ) Achieving Environmental Equality . Annual general meeting debate. 
+5 September 2000 . Bristol: EA. Accessed February 2010 .
+EA (n.d.a) ‘Flood’. http://www.environment-agency.gov.uk/homeandleisure/floods/default.aspx.
+EA (n.d.b) ‘Over 40  per cent of people in flood areas unaware they are at risk’. Accessed August 2010 . 
+http://www.environment-agency.gov.uk/news/ 100382 .aspx. 
+Enarson, E. and M. Fordham ( 2001 ) ‘Lines that divide, ties that bind: race, class and gender in women’s 
+flood recovery in the US and UK’. Australian Journal of Emergency Management. 15 ( 4). pp. 43 –52 .
+EPA (United States Environmental Protection Agency) (n.d.) ‘Environmental justice’. Accessed August 
+2011 . http://www.epa.gov/environmentaljustice.
+Erikson, R. ( 1984 ) ‘Social class of men, women and families’. Sociology. 18 ( 4). pp. 500 –14 .
+Erikson, R. and J.H. Goldthorpe ( 1992 ) The Constant Flux. Oxford: Clarendon.
+ESRC (Economic and Social Research Council) ( 2001 )  Environmental Justice: Rights and Means to a Healthy 
+Environment for All. ESRC Global Environmental Change Programme Special Briefing No. 7. 
+Brighton: University of Sussex.
+Fielding, J. ( 2007 ) ‘Environmental injustice or just the lie of the land: an investigation of the socio-
+economic class of those at risk from flooding in England and Wales’.  Sociological Research Online. 12 ( 4). 
+http://www.socresonline.org.uk/ 12 / 4/ 4.html.
+Fielding, J. and K. Burningham ( 2005 ) ‘Environmental inequality and flood hazard’. Local Environment . 
+10 ( 4). pp. 379 –95.
+Fielding, J., et al. ( 2005 ) Flood Warning for Vulnerable Groups: Secondary Analysis of Flood Data . R&D 
+Report W 5C- 018 / 2. Bristol: Environment Agency.
+Fielding, J., et al. ( 2007 ) Public Response to Flood Warning . R&D Report SC 02011 . Bristol: Environment 
+Agency.
+Fordham, M. ( 1998 ) ‘Making women visible in disasters: problematising the private domain’. Disasters . 
+22 ( 2). pp. 126 –43.
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 18]]
+Jane L. Fielding 494  
+Fordham, M. ( 1999 ) ‘The intersection of gender and social class in disaster: balancing resilience and 
+vulnerability’. International Journal of Mass Emergencies and Disasters. 17 ( 1). pp. 15  3
+7.
+Foresight ( 2004 ) Future Flooding Volume 1: Future Risks and their Drivers. London: Department for 
+Business, Innovation & Skills.
+Fothergill, A. and L. Peek ( 2004 ) ‘Poverty and disasters in the United States: a review of recent socio-
+logical findings’. Natural Hazards. 32 ( 1). pp. 89 –110 .
+Green, C.H., S.M. Tunstall, and M.H. Fordham ( 1991 ) ‘The risks from flooding: which risks and 
+whose perception?’ Disasters . 15 ( 3). pp. 227 –36 .
+Hugo, G. ( 1996 ) ‘Environmental concerns and international migration’. International Migration Review . 
+30 ( 1). pp. 105 –31.
+Ipsos MORI ( 2008 ) Flood Awareness Campaign Tracking Survey 2007 –2008. London: Ipsos MORI.
+Leake, J. ( 2009 ) ‘Climate change may push migrants to cooler Britain’. Sunday Times. 8 November. 
+http://www.timesonline.co.uk/tol/news/environment/article 6908002 .ece.
+Marshall, G., A. Swift, and S. Roberts ( 1997 ) Against the Odds: Social class and Social Justice in Industrial 
+Societies . Oxford: Oxford University Press.
+Martin, D. ( 1989 ) ‘Mapping population data from zone centroid locations’. Transactions of the Institute of 
+British Geographers New Series. 14 ( 1). pp. 90 –7.
+Martin, D. and I. Bracken ( 1999 ) 1981 and 1991 Population Surface Models: A Guide. CCS 605 . Man-
+chester: Census Dissemination Unit, University of Manchester.
+Milly, P.C., et al. ( 2002 ) ‘Increasing risk of great floods in a changing climate’. Nature. 41 5. pp. 514– 7.
+ODPM (Office of the Deputy Prime Minister) ( 2004 ) The Planning Response to Climate Change: Advice 
+on Better Practice. London: Her Majesty’s Stationery Office.
+ONS (Office for National Statistics) ( 2001 ) 2001 Census: Standard Area Statistics (England and Wales) . 
+Manchester: ESRC/JISC Census Programme, Census Dissemination Unit, Mimas, University of 
+Manchester. Accessed August 2011 . http://www.census.ac.uk.
+ONS (n.d.) ‘Long-term international migration (LTIM) tables: 1991 –onwards’. http://www.ons.gov.
+uk/ons/rel/migration 1/long-term-international-migration/ 2008 /methodology-to-estimate-
+long-term-international-migration.pdf.  
+Pitt, M. ( 2008 ) Pitt Review: Learning Lessons from the 2007 Floods. London: Cabinet Office.
+Raleigh, C., L. Jordan, and I. Salehyan ( 2008 ) Assessing the Impact of Climate Change on Migration and 
+Conflict . Paper prepared for the World Bank Seminar on Exploring the Social Dimensions of 
+Climate Change. Washington, DC: World Bank.
+Rose, D., K. O’Reilly, D. and Martin ( 1997 ) ‘ESRC Review of Government Social Classification’. 
+Population Trends. 89 . pp. 49 –89 . 
+Scambler, P. and P. Higgs ( 2001) ‘“The dog that didn’t bark”: taking class seriously in the health 
+inequalities debate’. Social Science & Medicine. 52 ( 1). pp. 157 –59 .
+Spiers, J. ( 2000 ) ‘New perspectives on vulnerability using emic and etic approaches’.  Journal of Advanced 
+Nursing . 31 ( 3). pp. 715 –21.
+Surface Builder (n.d.) Software. Accessed August 2011 . http://www.public.geog.soton.ac.uk/users/
+martindj/davehome/software.htm.
+Talih, M. and R.D. Fricker ( 2002 ) ‘Effects of neighbourhood demographic shifts on findings of 
+environmental injustice: a New York City case-study’. Journal of the Royal Statistical Society: Series 
+A (Statistics in Society). 165 ( 2). pp. 375 –97.
+Tapsell, S.M., et al. ( 2002 ) ‘Vulnerability to flooding: health and social dimensions’. Philosophical 
+Transactions—Royal Society of London Series A: Mathematical and Physical Sciences.  360 ( 1796 ). pp. 1 511–25.
+UKCIP (United Kingdom Climate Projections) ( 2009 ) ‘Climate Change Projections Report’. Accessed 
+August 2011 . http://ukclimateprojections.defra.gov.uk/content/view/ 944 / 500 /. 
+Walker, G., et al. ( 2003 ) Environmental Quality and Social Deprivation . R&D T echnical Report E2 - 067 / 1/
+TR. Bristol: Environment Agency.
+Walker, G., et al. ( 2006 ) Addressing Environmental Inequalities: Flood Risk.  Science Report SC 020061 /SR 1. 
+Bristol: Environment Agency.
+Wisner, B., et al. ( 2004 ) At Risk: Natural Hazards, People’s Vulnerability and Disasters.  2nd edn. London 
+and New York: Routledge. 
+ 14677717, 2012, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-7717.2011.01270.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [04/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

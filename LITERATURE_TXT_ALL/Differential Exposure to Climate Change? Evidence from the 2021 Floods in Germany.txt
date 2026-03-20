@@ -1,0 +1,1126 @@
+[[PAGE 1]]
+The Journal of Economic Inequality (2024) 22:551–576
+https://doi.org/10.1007/s10888-023-09605-6
+Differential Exposure to Climate Change? Evidence from the
+2021 Floods in Germany
+Moritz Odersky1 ·Max Löﬄer2
+Received: 1 March 2023 / Accepted: 1 November 2023 / Published online: 11 January 2024
+© The Author(s) 2024
+Abstract
+We analyze the exposure of different income groups to the 2021 ﬂoods in Germany,
+which serve as an exemplary case of natural disasters intensiﬁed by anthropogenic climate
+change. To this end, we link ofﬁcial geo-coded satellite data on ﬂood-affected buildings to
+neighborhood-level information on socio-economic status. We then document the empiri-
+cal relationship between ﬂood damages and household income. We limit comparisons to
+the vicinity of affected rivers and absorb a rich set of regional ﬁxed effects to assess the
+differential exposure at the local level. Average household income is around 1,500 euros
+or three percent lower in ﬂood-affected neighborhoods than in non-affected neighborhoods
+nearby. Average ﬂood exposure is more than three times as high in the bottom sixty than in
+the upper forty percent of neighborhoods in terms of average household income. Our study is
+the ﬁrst to document this regressive exposure along the income distribution based on actual
+ﬂood damage data in Europe.
+Keywords Climate change · Differential exposure · Floods · Income distribution
+1 Introduction
+In recent years the detrimental effects of climate change became increasingly evident. Rising
+numbers of devastating wildﬁres, droughts, heat waves, storms, and ﬂoods were recorded in
+all parts of the world. Natural disasters are expected to further intensify throughout the next
+decades. Y et, little is known about the differential exposure to such climate change conse-
+quences: Which socio-economic groups suffer to what degree from the environmental haz-
+ards? Answering this question is essential for local policymakers to design welfare-optimizing
+climate protection and adaption policies. The exposure of different socio-economic groups to
+environmental damages is ultimately an empirical question since it depends on households’
+location choices and the local incidence of climate-change related events.
+B Max Löfﬂer
+m.loefﬂer@maastrichtuniversity.nl
+Moritz Odersky
+moritz.odersky@psestudent.eu
+1 Paris School of Economics, Paris, France
+2 Maastricht University, Maastricht, Netherlands
+123
+
+[[PAGE 2]]
+552 M. Odersky and M. Löfﬂer
+In this paper, we investigate the distributional dimension of climate change by studying the
+exposure to the 2021 ﬂoods in Germany along the income distribution. Multiple days of heavy
+rainfall in July 2021 led to unprecedented water levels and ﬂoods across several rivers causing
+more than 180 deaths, damaging thousands of buildings, and affecting around 40,000 people
+in Germany alone (Fekete and Sandholz 2021). The monetary damage is estimated at around
+33 billion euros (Munich Re 2022). These ﬂoods were the most damaging natural disaster
+in Germany in decades. Although single weather events cannot be causally attributed to
+climate change, we consider the 2021 ﬂoods to be a relevant case study since anthropogenic
+climate change has increased the probability of such ﬂooding by 1.2-9 times (Tradowsky et al.
+2023). Climate change worsens ﬂoods through two effects (Schäfer et al. 2021). First, global
+warming leads to an increased abundance of water vapor in the atmosphere. Second, climate
+change slows the polar jet stream causing weather systems to remain longer above certain
+locations. Both effects severely increase the likelihood of heavy and long-lasting rainfall
+events such as the 2021 ﬂoods (IPCC 2021). Accordingly, the German Federal Minister for
+the Environment at the time declared: “Climate change has arrived in Germany” (Schulze
+2021).
+We descriptively analyze the exposure to the 2021 ﬂoods, combining detailed satellite and
+socio-economic data for the affected German regions. We link ofﬁcial geo-coded satellite data
+on ﬂood-affected buildings from the European Union’s Copernicus Emergency Management
+Service to neighborhood-level information on household’s socio-economic status collected
+by the geo-marketing provider microm. We then regress various measures of socio-economic
+status on ﬂood damage indicators to understand the empirical relationship between both
+variables. We call the resulting estimate the income-ﬂood-damage gradient.
+A simple cross-sectional correlation between income and ﬂood damages across neigh-
+borhoods is likely to pick up a variety of underlying explanations. For instance, if ﬂoods
+had only occurred in the high-income metropolitan areas along the Rhine, a comparison
+between affected neighborhoods and national average incomes or neighborhoods from far
+distant regions would mainly be informed by macro-level differences in economic, cultural,
+or political fundamentals. Instead, we are interested in the distributional incidence within the
+same region. We argue that this local perspective is relevant for two reasons: First, it is more
+informative for state and local policymakers concerned with inequality within the region.
+Second, from an academic perspective, we know little about inequality and sorting within
+small-scale regions in Germany so far. We limit our analysis to a within-region approach
+in two ways: First, we restrict the comparison to neighborhoods in close proximity by only
+comparing ﬂooded and non-ﬂooded neighborhoods within small buffer zones around affected
+rivers. Second, we include a rich set of spatially ﬁne-grained ﬁxed effects for different regional
+entities to absorb mean differences across regions. In our baseline speciﬁcation, we limit the
+analysis to neighborhoods within three kilometers from affected rivers and within the same
+county to make the comparison highly local. This modelling choice limits the inﬂuence of
+differences in economic fundamentals or regional amenities and restricts the variation to
+small-scale areas with comparable economic, cultural, and political environments.
+1
+We ﬁnd that the exposure to the 2021 ﬂoods was clearly regressive: Neighborhoods
+affected more heavily by the ﬂoods have lower average incomes. Affected neighborhoods
+display a 1,516 euros lower average disposable annual household income than non-affected
+neighborhoods nearby. We ﬁnd similar results when using a continuous measure of ﬂood dam-
+1 Also with these adjustments, the estimated income-ﬂood-damage gradient is still a correlation describing
+local settlement patterns. We do not investigate the causal factors driving the empirical relationship in this
+article.
+123
+
+[[PAGE 3]]
+Differential Exposure to Climate Change 553
+ages. For each one percentage point increase in a neighbourhood’s share of ﬂood-damaged
+buildings, average household income decreases by 21 euros. Vice versa, average ﬂood expo-
+sure in the sixty percent of neighborhoods with the lowest average household income is
+around seven to eight percent and thus more than three times as high as in neighborhoods
+from the upper two quintiles, where less than two percent of buildings were affected. These
+ﬁndings could be explained through various channels, such as the anecdotal evidence that
+richer households tend to prefer the hillside and the periphery over historical centers in the val-
+ley along the river because of better views and fewer building restrictions. Nonetheless, with
+our descriptive analysis we cannot answer why the observed spatial sorting arose. We corrob-
+orate the estimated empirical relationship by looking at various alternative socio-economic
+measures such as private and supplementary insurance take-up, the average default risk, and
+local unemployment rates, which all suggest that income and socio-economic status is lower
+in more damaged neighborhoods. Importantly, these differences are not caused by the ﬂoods
+but are observed in pre-ﬂood data from 2019 as well as 2010. Moreover, we show that they
+cannot be explained simply by distance from the affected river or damaged buildings. We
+also demonstrate the robustness of these results by testing for potential confounders with
+even more ﬁne-grained regional indicators, and by using various alternative speciﬁcations.
+Our paper speaks to the literature on the distributional effects of natural disasters. Several
+studies investigated the link between environmental damages and socio-economic inequality,
+mainly for the U.S. and Asia. A survey for the U.S. (Fothergill and Peek2004, p. 89) suggests
+that the poor are “more vulnerable to natural disasters.” (Masozera et al. 2007, p. 299) ﬁnd
+that Hurricane Katrina affected New Orleans neighborhoods “regardless of income.” Kahn
+and Smith ( 2017) conclude similarly that high ﬂood-risk areas in the U.S. are not selective
+with respect to income. In contrast, Bui et al. ( 2014, p. 1751) conclude that natural disasters
+in Vietnam “worsen poverty and inequality.” Warr and Aung (2019) ﬁnd that environmental
+damages reduced inequality between regions in Myanmar while raising inequality within
+affected regions. Hsiang et al. ( 2019) also calls for a more nuanced view and concludes
+that the poor are more exposed to some environmental damages but not necessarily climate
+change.
+Since differential exposure depends on local (dis)amenities as well as households’ pref-
+erences, constraints, and location choices, which may all differ across regions and countries,
+we argue it is also important to investigate this question in Europe. Floods also vary across
+regions, for instance, between riverine and coastal areas. Poussard et al. ( 2021) study the
+population living in ﬂoodplains in the province of Liege in Belgium and conclude that lower
+middle class households have the highest ﬂood risk exposure compared to other income
+groups. Osberghaus (2021) and Tovar Reaños ( 2021) evaluate imputed ﬂood risk indicators
+over the income distribution in Germany and show that expected absolute ﬂood damage
+increases with income whereas it declines strongly as a share of income; ﬂoods would thus
+be regressive.
+Our analysis contributes to this literature in three ways. First, we provide detailed empirical
+evidence from a large region in Germany, which offers a setting that is more representative
+for Europe than previous studies on the U.S. or Asia. Second, we investigate an actual
+natural disaster using ofﬁcial data on damaged buildings rather than imputing ﬂood risks
+and evaluating damage forecasts. Third, the hazardous event under evaluation was the most
+severe ﬂooding in Western Europe since decades and therefore constitutes an exemplary case
+to study the consequences of anthropogenic climate change.
+The remainder of this paper is structured as follows. Section 2 introduces the data sets
+used. In Section 3 we explain the empirical methodology we employ. We present the results
+of our analysis in Section 4 and discuss the implications in Section 5. Section 6 concludes.
+123
+
+[[PAGE 4]]
+554 M. Odersky and M. Löfﬂer
+2 Data
+The analysis combines two main data sources. We introduce the satellite data on ﬂood dam-
+ages in Section 2.1. In Section 2.2, we provide details on the socio-economic data we employ
+to compare socio-economic indicators at the neighborhood level. We then describe the sample
+design for our baseline analysis in Section 2.3.
+2.1 The 2021 floods and damaged buildings
+The EU’s Copernicus Emergency Management Service provides publicly accessible geo-
+spatial data for natural hazards and humanitarian catastrophes (CEMS 2023). The data sets
+are based on satellite imagery, which is analysed and published by the CEMS ( 2022). For
+the ﬂoods in the summer of 2021, the CEMS Rapid Mapping Service composed the data set
+EMSR517 Flood in Western Germany consisting of multiple shapeﬁles each depicting one
+broad regional area of ﬂood damage (area of interest). The data set is considered “closed” by
+now, i.e., the content will not be altered anymore (CEMS2021). For the purpose of our study,
+we combine the available shapeﬁles and plot all covered rivers, streams, and tributaries in the
+two German states North Rhine-Westphalia and Rhineland-Palatinate that caused ﬂooding
+during the summer of 2021. The resulting data set includes nine distinct areas of interest as
+depicted in Panel A of Fig. 1.
+Within these areas of interest the data set shows all buildings identiﬁed as affected by the
+2021 ﬂoods (CEMS 2022). The CEMS determined the damage to a house through visual
+inspection of satellite images. Whereas this method is fairly reliable in determining destruc-
+tion, the CEMS also reports damaged and possibly damaged buildings. In the latter case, the
+houses were reached by the water levels during the ﬂoods, but it is unclear to what degree
+structural damage exists. In our baseline analysis, we pool the three categories and treat all
+ﬂood-exposed buildings as damaged. We check the sensitivity of our results to this assump-
+tion in Section 4.2 and show that results are largely similar when focusing on either of the
+damage categories. Panel B of Fig. 1 plots an example of the satellite data for Bad Neuenahr-
+Ahrweiler, one of the heavily affected areas. To test the spatial accuracy of the geo-coded
+buildings, we compare the reported damage points to OpenStreetMap cartography of the
+city, which reveals a high precision. Importantly, the CEMS shapeﬁles distinguish accurately
+between exposed and non-exposed buildings instead of reporting all buildings in proximity
+to a ﬂooded water body as being equally affected. This can be seen in the bottom of Panel B,
+which shows that most buildings north of the river Ahr were damaged or destroyed but only
+few buildings south of the river were affected.
+2.2 Socio-economic data and control variables
+For the analysis we combine this satellite information on damaged buildings with the data
+set RWI-GEO-GRID administered by the RWI - Leibniz Institute for Economic Research
+(RWI 2022). This data set provides various socio-economic indicators on a 1 km-by-1 km grid
+structure (Breidenbach and Eilers 2018). In our baseline analysis, we make use of three vari-
+ables in the data set: (i) the number of buildings, (ii) population ﬁgures, and (iii) the average
+annual disposable household income in a given 1 km
+2 area. In supplementary analyses, we
+also use indicators for private and supplementary insurance take-up, default risks, unemploy-
+ment rates, and the demographic composition. The underlying information has been collected
+by the geo-marketing provider microm and was subsequently prepared for scientiﬁc use by
+123
+
+[[PAGE 5]]
+Differential Exposure to Climate Change 555
+Fig. 1 The 2021 Floods and Damaged Buildings. Notes: This ﬁgure displays the Copernicus Emergency
+Management Service geo-referenced satellite data on ﬂooded rivers and damaged buildings. Panel A provides
+an overview of the affected rivers, streams, and tributaries (in blue) as well as the nine surrounding areas of
+interest (in red). Panel B depicts an illustrative example of the precisely geo-coded data on damaged buildings,
+namely for the city of Bad Neuenahr-Ahrweiler in the north of Rhineland-Palatinate.
+Maps:
+c⃝ GeoBasis-DE / BKG 2022; c⃝ 2022 European Union, Copernicus Emergency Management Service,
+[EMSR517] Flood in Western Germany, and Copernicus Sentinel-2 Data (2022); c⃝ 2022 OpenStreetMap
+contributors
+the research data center at the RWI. To ensure privacy protection, information on household
+incomes is not reported for the most sparsely populated of these grid cells, i.e., those with
+less than ﬁve households per square kilometer. In the remainder of the paper we refer to these
+1k m
+2 grid cells interchangeably as neighborhoods.
+In our estimation data set, neighborhood-level average disposable household incomes
+vary between 29,700 euros and 72,800 euros per year (ﬁrst and 99th percentile, respec-
+tively; population-weighted quantiles are similar). In Fig. 2 we plot these incomes for an
+illustrative subset of the analyzed areas of interest. To ease the visual comparison between
+neighborhoods we zoom in on a map segment located at the state border between North
+Rhine-Westphalia and Rhineland-Palatinate. Darker red areas in the ﬁgure indicate higher
+average incomes, lighter colors represent lower household incomes at the neighborhood level.
+The ﬁgure shows variation in incomes across neighborhoods. However, it also suggests some
+spatial clustering of high- and low-income neighborhoods across areas of interest, which
+is likely to reﬂect broader economic or cultural differences between far apart neighbor-
+hoods. To account for such clustering in the empirical analysis, we limit the comparisons to
+neighborhoods in close proximity by adding dummy variable indicators for areas of inter-
+est as well as jurisdictions at different regional levels (county ﬁxed effects in our preferred
+speciﬁcation).
+123
+
+[[PAGE 6]]
+556 M. Odersky and M. Löfﬂer
+Fig. 2 Average Disposable Household Income Across Neighborhoods. Notes: This ﬁgure depicts the average
+disposable household income for 1 km 2 neighborhoods focusing on a subset of selected areas of interest,
+namely Bad Neuenahr-Ahrweiler, Erftstadt, Eschweiler, Euskirchen, and Schleiden. Lighter red areas indicate
+lower average incomes, darker red shades represent higher average incomes. Appendix Table 1 provides
+descriptive statistics for all variables used.
+Maps:
+c⃝ GeoBasis-DE / BKG 2022; c⃝ 2022 European Union, Copernicus Emergency Management Service,
+[EMSR517] Flood in Western Germany, and Copernicus Sentinel-2 Data (2022)
+Next to the two main data sets, we use additional data as control variables for robustness
+analyses in Section 4.3. First, we merge average rainfall and temperature in the 2000s from
+the nearest weather station of the German Weather Service (DWD). Second, we code an
+indicator variable for dike infrastructure equal to one if a neighborhood intersects a dike
+or levee as reported by the statistical ofﬁce of North Rhine-Westphalia (IT.NRW; Digitales
+Landschaftsmodell, AX_DammWallDeich) and zero otherwise.
+2.3 Sample design
+For our analysis, we combine the two main data sets based on their geocodes. We create
+three kilometer buffer areas around the river sections covered by the CEMS data and select
+all grid cells from the RWI-GEO-GRID data set that intersect with one of these nine buffer
+zones (see red bordered areas in Fig. 1, Panel A, and Fig. 2). The covered areas of interest
+include 3,336 grid cells in total. Slightly less than 1,000 of these cells are uninhabited, which
+leaves us with a ﬁnal data set of 2,378 neighborhoods.
+2
+Our sample consists of a total population of almost 1.9 million people. The median neigh-
+borhood in our sample has 140 inhabitants, the average population across grid cells is 799.
+We measure the ﬂood exposure of a neighborhood by the share of buildings reported as being
+affected. Approximately 8.5 percent of the neighborhoods in our sample were (partially) dam-
+2 The subsample of neighborhoods in our baseline sample has somewhat lower average household incomes
+compared to the surrounding municipalities (by around 1,000–2,000 euros or 3–5% at mean/median; see
+Appendix Fig. A.1).
+123
+
+[[PAGE 7]]
+Differential Exposure to Climate Change 557
+aged by the ﬂoods, i.e., the grid cell includes at least one ﬂood-affected house. Conditional
+on being affected, on average roughly one third of all buildings in a neighborhood were either
+destroyed, damaged, or possibly damaged by the ﬂoods. Table 1 provides summary statistics
+for all variables used in our analysis. We report corresponding descriptives conditional on at
+least one possibly damaged building in the neighborhood in Appendix Table A.1.
+3 Methodology
+This section outlines our methodological approach to assess the differential exposure to the
+2021 ﬂoods. We ﬁrst introduce the empirical speciﬁcation and explain the measurement of
+the treatment variable, followed by a discussion of the underlying identifying assumptions.
+Empirical speciﬁcation Our analysis rests on cross-sectional comparisons at the neighbor-
+hood level, regressing average disposable household income in neighborhood i (denoted
+by Inc o me
+i ) on a treatment variable, Flood Damage i , while absorbing regional ﬁxed
+effects:
+Inc o mei = β · Flood Damage i + δa(i) + μc(i) + εi, (1)
+with δa(i) and μc(i) referring to sets of indicator variables for areas of interest and counties,
+respectively. The error term is denoted by εi . We measure the exposure to the 2021 ﬂoods
+in two alternative ways: In a ﬁrst set of regressions, we dichotomize treatment by coding
+ﬂood damage equal to one if any building in neighborhood i was affected, and equal to zero
+otherwise. Second, in alternative speciﬁcations using a continuous treatment, we recode ﬂood
+damage as the share of ﬂooded buildings in neighborhood i.
+3 In our baseline speciﬁcation,
+we calculate heteroskedasticity-robust standard errors.
+Regional confounders The interpretation of ˆβ as an estimate of the income-ﬂood-damage
+gradient rests on the absence of omitted variables in the cross-sectional regression, which
+is arguably a strong assumption. To illustrate this, consider the raw correlation between
+income and ﬂood damage without accounting for regional ﬁxed effects or restricting the
+sample to speciﬁc areas. Such a regression comparing neighborhoods from far distant regions
+would pick up broad economic and cultural differences across space rather than informing
+us about the spatial sorting of households within small local areas. Prime examples for such
+unobserved factors would be differences in economic, cultural, or political fundamentals.
+Imagine we compared neighborhoods all across Germany but the ﬂoods occurred only in
+the high-income metropolitan areas along the Rhine. The resulting estimate would largely
+be informed by regional differences in productivity or amenities, which should capitalize in
+earnings (see the literature on local labor markets and Moretti 2011 for an overview). Since
+neighborhoods close to the Rhine would also be more likely to be affected by the ﬂoods, this
+would feed and largely drive our estimate ˆβ.
+4 However, such macro-level differences yield
+little insight for state and local policymakers, which is why we focus on differential exposure
+within the same region and thus highly local spatial sorting.
+3 For 31 neighborhoods, the CEMS data reports more damaged buildings than the number of houses reported in
+the RWI-GEO-GRID data. This discrepancy might be explained, e.g., by campsites or new construction during
+the past years. We winsorize these data points for the continuous treatment measure and treat neighborhoods
+as being completely damaged. Results are robust to omitting these neighborhoods from the estimation sample.
+4 If the Rhine area was more productive, incomes would be higher and the estimate would be biased upwards.
+The opposite applies to consumption amenities and the local quality of life, which should capitalize in lower
+earnings.
+123
+
+[[PAGE 8]]
+558 M. Odersky and M. Löfﬂer
+Table 1 Summary Statistics
+N Mean SD P1 P25 P50 P75 P99
+(1) (2) (3) (4) (5) (6) (7) (8)
+Panel A – Variables Based on CEMS Data Set
+Indicator: Any Building Reported? 2,376 0 0 0 0 0 0 1
+Only Damaged or Destroyed 2,376 0 0 0 0 0 0 1
+Only Destroyed Buildings 2,376 0 0 0 0 0 0 1
+Share of Reported Buildings (in %) 2,376 3 14 0 0 0 0 100
+Only Damaged or Destroyed 2,376 1 11 0 0 0 0 81
+Only Destroyed Buildings 2,376 0 5 0 0 0 0 1
+Distance to Closest Affected River (in km) 2,376 1 1 0 0 0 2 2
+Distance to Closest Damage (in km) 2,376 4 3 0 2 3 5 19
+Panel B – Variables from RWI-GEO-GRID Data Set
+Number of Buildings 2,376 175 266 1 9 53 221 1,212
+Number of Households 1,796 536 1,094 10 42 150 527 5,721
+Number of Inhabitants 2,376 799 1,817 1 20 140 668 9,844
+Household Income 2019 (in EUR) 1,786 46,165 8,434 29,669 40,723 45,004 50,520 72,793
+Household Income 2010 (in 2019 EUR) 1,758 47,130 8,933 30,308 41,365 45,874 51,796 75,179
+Average Default Risk Rating 2,366 4 2 1 3 4 5 8
+123
+
+[[PAGE 9]]
+Differential Exposure to Climate Change 559Table 1 continued
+N Mean SD P1 P25 P50 P75 P99
+(1) (2) (3) (4) (5) (6) (7) (8)
+Local Unemployment Rate (in %) 2,366 5 3 0 3 4 6 16
+Households with Private Pension 2,366 6 1 2 5 6 7 9
+Households with Life Insurance 2,366 5 2 2 4 5 6 9
+Private Health Insurance 2,366 5 2 2 4 5 6 9
+Additional Health Insurance 2,366 5 2 2 4 5 6 9
+Occupational Disability Insurance 2,366 5 2 2 4 5 6 9
+Share of Children (in %) 2,366 16 3 0 16 17 18 23
+Share of Elderly (in %) 2,366 22 7 12 19 21 24 49
+Share with Foreign Household Head (in %) 2,366 10 7 0 5 8 13 32
+Average Daily Rainfall (in l/m
+2) 2,376 2 0 2 2 2 2 3
+Average Temperature (in ◦C) 2,376 10 1 8 10 11 11 12
+Indicator: Dike Infrastructure 1,391 0 0 0 0 0 0 1
+Notes: This table presents descriptive statistics for the estimation sample. Appendix Table A.1 reports corresponding descriptives for the subsample of neighborhoods with at
+least one damaged building
+123
+
+[[PAGE 10]]
+560 M. Odersky and M. Löfﬂer
+Research design To mitigate the impact of such differences in fundamentals, we restrict
+our analysis to a within-region comparison of ﬂood-damaged neighborhoods with close-by,
+non-ﬂooded areas. Our approach involves three steps to improve on the raw correlation across
+space. First, we only include grid cells within three-kilometer buffers around the affected
+river sections in our sample. Figure 2 shows an example. The distance of 3 km ensures
+close proximity between damaged and non-damaged neighborhoods while still providing a
+sufﬁciently large sample size (we also test the robustness of our results by using narrower
+bands).
+Second, we add ﬁxed effects for areas of interest (see the term δ
+a(i) in Eq. 1). Comparing
+only proximate ﬂooded and non-ﬂooded neighborhoods within the same area of interest
+limits the potential for unobserved confounders. Economic fundamentals like productive or
+consumption amenities as well as cultural determinants should be largely similar within these
+areas along the same river. Moreover, areas of interest are economically highly integrated
+because of low commuting, transport, and transaction costs. Neighborhoods can thus be
+expected to be quite comparable except for the fact that some are more prone to ﬂooding.
+Third, we further tighten the identiﬁcation by absorbing mean differences across economic
+regions and administrative jurisdictions. Most of the broader regional differences are already
+omitted from the analysis via the use of ﬁxed effects for areas of interest. However, some of
+the affected areas of interest span across multiple commuting zones or even states. Comparing
+neighborhoods within these areas would thus also pick up differences across different labor
+markets or legislative entities. In our baseline speciﬁcation, we include an additional set of
+county ﬁxed effects (μ
+c(i) in Eq. 1; Kreise und kreisfreie Städte) to further limit the inﬂuence
+of different economic circumstances or policy regimes across space.
+To cross-check our results, we also employ various alternative indicators for socio-
+economic status instead of looking at household income. We therefore use measures of
+private and supplementary insurance take-up, the average household default-risk rating, the
+local unemployment rate, and a set of demographic variables as outcomes in Eq. 1.
+4 Results
+In the following, we present our empirical ﬁndings. Section 4.1 presents our baseline results.
+Section 4.2 analyzes different margins of exposure, the role of distance, and alternative socio-
+economic indicators. In Section 4.3, we provide a range of tests to demonstrate the robustness
+of our ﬁndings.
+4.1 Differential exposure to the 2021 floods
+Table2 shows the estimation results for the dichotomous (in Panel A) as well as the continuous
+measure of ﬂood damage (in Panel B) based on Eq. 1.
+Dichotomous ﬂood damage indicator As a ﬁrst analysis we carry out a raw cross-sectional
+comparison between (i) neighborhoods with at least one affected building and (ii) neigh-
+borhoods without any reported ﬂood damage. We ﬁnd that affected neighborhoods have on
+average 1,297 euros lower disposable annual household income (see Panel A, Column (1)
+of Table 2). Thus, neighborhoods affected by the 2021 ﬂoods are on average poorer than
+unaffected areas.
+123
+
+[[PAGE 11]]
+Differential Exposure to Climate Change 561
+Table 2 The Distributional Impact of the 2021 Floods
+No Fixed Area of Inter. MSA Fixed CZ Fixed County
+Effects Fixed Effects Effects Effects Fixed Effects
+(1) (2) (3) (4) (5)
+Panel A – Dichotomous Flood Damage Measure
+Indicator: Any Damaged Buildings? -1,296.77 ∗∗ -1,677.81 ∗∗∗ -1,641.62 ∗∗∗ -1,532.28 ∗∗∗ -1,515.78 ∗∗∗
+(584.47) (559.15) (560.10) (558.47) (551.91)
+Number of Observations 1,786 1,786 1,781 1,780 1,780
+Adjusted R-squared 0.002 0.208 0.213 0.229 0.287
+Area of Interest Fixed Effects Y es Y es Y es Y es
+Absorbed Regional Dummies 9 15 22 27
+Panel B – Continuous Flood Damage Measure
+Share of Damaged Buildings (in %) -27.56
+∗∗∗ -22.46 ∗∗∗ -23.67∗∗∗ -21.94 ∗∗∗ -21.48 ∗∗∗
+(8.15) (7.85) (7.82) (7.96) (7.98)
+Number of Observations 1,786 1,786 1,781 1,780 1,780
+Adjusted R-squared 0.002 0.206 0.212 0.227 0.285
+Area of Interest Fixed Effects Y es Y es Y es Y es
+Absorbed Regional Dummies 9 15 22 27
+Notes: This table shows the estimated ﬂood-damage-income gradient based on Eq. 1. Flood damage is equal to one if at least one building in the neighborhood was damaged
+and otherwise set to zero (Panel A), or measured as percentage share of damaged buildings in a given neighborhood (Panel B), respectively. Column (1) i s estimated without any
+type of regional ﬁxed effects. Columns (2)-(5) account for ﬁxed effects across areas of interest. Columns (3)-(5) further include additional sets of regional dummies (see column
+titles). Heteroskedasticity-robust standard errors are displayed in parentheses. Signiﬁcance levels: ∗ p <. 1, ∗∗ p <. 05, ∗∗∗p <. 01
+123
+
+[[PAGE 12]]
+562 M. Odersky and M. Löfﬂer
+As discussed before, the estimated gap in household income may partly be due to other fac-
+tors such as the degree of urbanization, local economic fundamentals, or cultural differences.
+Depending on the relative importance of these channels, the raw cross-sectional relationship
+may over- or underestimate the true income-ﬂood-damage gradient at the local level. We
+consecutively add regional ﬁxed effects to limit the variation to neighborhoods from the
+same region instead of comparing far distant grid cells. In Column (2), we include indicators
+for the nine areas of interest, which widens the estimated gap to 1,678 euros lower average
+income in neighborhoods affected by the ﬂoods. As areas of interest partly span across labor
+markets as well as states, we additionally absorb mean differences between six metropolitan
+statistical areas ( Raumordnungsregionen) and 13 commuting zones ( Arbeitsmarktregionen)
+in Columns (3) and (4), respectively.
+In our preferred speciﬁcation in Column (5), we add county ﬁxed effects to account
+for economic, cultural, and political differences between the 18 affected counties ( Kreise
+und kreisfreie Städte ). Results remain similar. The estimates show that average disposable
+income of households in neighborhoods affected by the 2021 ﬂoods is 1,516 euros lower
+than in non-affected neighborhoods from the same area. This gap is statistically signiﬁcant
+at conventional levels (p < 0.01) and translates to a three percent income difference relative
+to the sample mean of 46,165 euros.
+Continuous ﬂood damage measure The estimated differences in Panel A of Table 2
+depict mean-differences between unaffected and (partly) affected neighborhoods but do not
+offer much insight into the underlying empirical relationship between the two measures, the
+degree of ﬂood damages and average incomes. To investigate this relationship, we group
+neighborhoods according to income percentiles and calculate the share of neighborhoods
+affected by the ﬂoods for each group of neighborhoods, i.e., each percentile. Panel A of
+Fig. 3 presents the resulting binned scatter plot with income along the horizontal axis and
+the average ﬂood exposure along the vertical axis.
+5 Blue dots correspond to a group of
+neighborhoods in the same income percentile. The red line indicates the linear ﬁt. The ﬁgure
+shows a negative gradient: Lower-income neighborhoods were more likely to be affected by
+the 2021 ﬂoods than higher-income neighborhoods.
+Panel A of Fig. 3 also suggests that a linear ﬁt is a reasonable approximation of the
+empirical relationship. We thus turn to our second, continuous measure of ﬂood damage,
+namely the share of affected buildings in a neighborhood instead of the dummy variable
+coding. We re-estimate the ﬁve speciﬁcations discussed before now using the share of affected
+buildings as explanatory variable. Panel B of Table 2 reports the resulting estimates. We ﬁnd
+that neighborhood-level average household income is around 21-28 euros lower for each
+percentage point increase in the share of damaged buildings. The results are statistically
+signiﬁcant at conventional levels . Point estimates differ somewhat depending on the inclusion
+or exclusion of regional indicators. In our preferred speciﬁcation, which absorbs ﬁxed effects
+for areas of interest as well as counties, we ﬁnd that neighborhoods with a one percentage
+point higher share of affected buildings depict 21 euros lower average household incomes.
+These results also imply that the negative slope in Panel A of Fig. 3 is statistically signiﬁcant
+despite the somewhat noisy scatter plot ( p < 0.01).
+5 Note that some bins appear to have negative shares of affected neighborhoods. This is a statistical artefact
+since we residualize variables and absorb mean differences across areas of interest and counties for the graph as
+in our preferred speciﬁcation (Table 2, Column (5)). Unresidualized values are bounded between zero and one
+(see Table 1).
+123
+
+[[PAGE 13]]
+Differential Exposure to Climate Change 563
+-0.1
+0.0
+0.1
+0.2
+0.3
+Indicator: Any Building Damaged?
+20 30 40 50 60 70
+Average Household Income (in k )
+Neighborhoods Linear Fit 95% CI
+A Exposure Over Income
+-0.1
+0.0
+0.1
+0.2
+0.3
+123456789 1 0
+Deciles of Average Household Income
+Income Quintiles Deciles
+B Exposure by Income Quantiles
+Fig. 3 Exposure to the 2021 Floods by Household Income. Notes: This ﬁgure shows the empirical relationship
+between ﬂood damages and average household incomes. Panel A depicts average ﬂood damages over income
+levels based on our preferred speciﬁcation in Column (5) of Table 2. For the exposition, we bin neighborhoods
+to percentiles of household income such that each blue dot represents 17-18 neighborhoods. We then plot the
+average annual disposable household income (horizontal axis) and the average ﬂood damage indicator (vertical
+axis) for each group of neighborhoods. Both variables have been residualized by absorbing mean differences
+between areas of interest as well as counties; this procedure also leads to some negative values along the
+vertical axis. The red dashed line indicates the best linear ﬁt. The gray shaded area represents 95% conﬁdence
+bounds for the predicted average ﬂood damage across income percentiles. Panel B shows the estimates from
+regressing the dichotomous ﬂood damage measure on ﬁve (ten) indicator variables for population-weighted
+average income quintiles (deciles) across neighborhoods. Estimates are obtained absorbing ﬁxed effects for
+areas of interest and counties as in our preferred speciﬁcation. V ertical bars indicate 95% conﬁdence intervals.
+See Appendix Table A.2 for corresponding estimates and regression statistics
+Differential exposure Both measures of ﬂood damage suggest that exposure to the
+2021 ﬂoods decreased along the income distribution. We further investigate this empirical
+relationship by splitting neighborhoods in population-weighted (i) quintiles and (ii) deciles
+of average household income. We then estimate the average exposure of neighborhoods in
+each of those quantiles by regressing the dichotomous ﬂood exposure measure on ﬁve (ten)
+group indicators and absorbing regional ﬁxed effects. Panel B of Figure3 presents the results.
+Whereas 8.7 percent of all bottom-quintile neighborhoods have been exposed to the ﬂoods,
+this number is reduced to insigniﬁcant 0.2 percent for the top 20 percent. Flood-exposure is
+more than three times as high for the bottom sixty compared to the upper forty percent of
+neighborhoods in terms of average income. Estimates for income quintiles (in red) suggest
+that ﬂood exposure decreases monotonically across quintiles; estimates for deciles (in blue)
+are less smooth but not signiﬁcantly different.
+4.2 Margins of exposure and further analyses
+In the preceding analyses, we treated each building as being either affected or not, irre-
+spective of its degree of damage. We now ﬁrst turn to different margins of exposure at the
+building level. To this end, we make use of the damage categories reported in the CEMS
+data. Each affected building is coded as either (i) destroyed, (ii) damaged, or (iii) possibly
+damaged. In our baseline, we pool all three categories when measuring ﬂood exposure. This
+procedure however does not differentiate between the extensive and intensive margin, and
+123
+
+[[PAGE 14]]
+564 M. Odersky and M. Löfﬂer
+thus ignores the degree of damage conditional on being affected. To distinguish between
+both margins, we narrow the deﬁnition of ﬂood affected buildings by, ﬁrst, excluding pos-
+sibly damaged buildings, and, second, restricting the treatment to destroyed houses only.
+Columns (2) and (3) in Panel A of Table 3 provide the corresponding results. Results are
+largely similar to our preferred speciﬁcation (replicated in Column (1)). If anything, focusing
+on destroyed buildings only leads to more negative estimates, which suggests that there might
+be an additional regressive intensive margin of ﬂood exposure. However, estimates are not
+statistically different from each other.
+We next turn to the neighborhood level and shed more light on the different margins of
+exposure by excluding neighborhoods from the sample that had some but not many house-
+holds affected by the ﬂoods. More precisely, we sequentially drop affected neighborhoods
+with less than 60 percent, 80 percent, or 100 percent of buildings damaged, respectively, such
+that we compare only highly-exposed and non-affected places. Columns (4)–(6) in Panel A of
+Table 3 show the results. Estimates become more negative when focusing on largely affected
+neighborhoods. However, estimates are again not statistically different across speciﬁcations.
+These speciﬁcations are also informative regarding the uncertainty introduced by using aver-
+age local instead of household-level income. If only a few buildings in a densely populated
+neighborhood are exposed to the ﬂood, grid-level average income may be a coarse proxy
+for the incomes of affected households. The larger the percentage of affected buildings in a
+neighborhood, the more accurate it is. When we only look at cases where all buildings in a
+neighborhood are affected, average income should be a good proxy for the income levels of
+exposed households. Estimates become stronger, which further corroborates our results (see
+Column (6)).
+The role of distance One explanation for the estimated income-ﬂood-damage gradient could
+be that it simply reﬂects income differences related to the distance to a river. Since all exposed
+buildings reported by the CEMS are located within one kilometer from affected water bodies,
+our baseline estimate may just pick up the effect of distance to rivers. To test this alternative
+hypothesis, we ﬁrst assess whether the three kilometer buffers are too broad and limit our
+baseline sample to neighborhoods within 2 km (1 km) buffers. Second, we introduce indicator
+variables for distance bands in the regression, which absorb buffer ﬁxed effects ( ≤ 1k m ,
+(1,2] km, (2,3] km). Third, we linearly control for distance. Columns (7)–(10) in Panel B of
+Table 3 depict the results. Estimates are largely similar but become somewhat smaller in size
+when we tighten buffers around affected rivers. We thus conclude that distance to the river can
+only explain a small portion of the estimated income-ﬂood-damage gradient. Extending the
+buffer area beyond three kilometers distance would likely lead to bigger differences and thus
+more negative results given that our baseline sample depicts lower average income compared
+to surrounding municipalities (see Appendix Fig. A.1).
+Another underlying driver could be that we compare different segments along the same
+river, e.g., upstream vs. downstream neighborhoods, both of which would still be within the
+deﬁned buffer zones. However, they could be somewhat distant from each other and thus
+also different in fundamentals, which may only be partly picked up by the sets of regional
+ﬁxed effects. To further investigate this concern, we calculate for each neighborhood the
+distance to the nearest affected building reported in the CEMS data set. The median and
+mean distance amount to three and four kilometer, respectively. No neighborhood in our
+sample is further away than 21 km from an affected building. Figure4 illustrates the resulting
+measure using binned scatter plots and focusing on neighborhoods within six kilometer to
+the nearest building to ease exposition ( ≈ 85th percentile). As expected, Panel A of the
+ﬁgure shows that most neighborhoods within one km to a damaged building are affected,
+123
+
+[[PAGE 15]]
+Differential Exposure to Climate Change 565
+Table 3 Margins of Exposure and Accounting for Distance
+Panel A – Margins of Exposure
+By Degree of Damage By Share of Affected Buildings
+Baseline Damaged/ Only ≥ 60% ≥ 80% 100%
+Estimate Destroyed Destroyed Affected Affected Affected
+(1) (2) (3) (4) (5) (6)
+Any Building Reported? -1,515.78
+∗∗∗ -1,470.04 ∗ -1,881.45 ∗∗ -1,866.17 ∗∗∗ -2,044.17 ∗∗ -2,316.53 ∗∗
+(551.91) (817.01) (810.55) (719.09) (833.00) (902.59)
+Number of Observations 1,780 1,780 1,780 1,635 1,624 1,618
+Adjusted R-squared 0.287 0.285 0.285 0.288 0.288 0.288
+Panel B – Accounting for Distance
+Distance to Affected Rivers Distance to Damages
+≤ 2k m ≤ 1 km Absorbing Controlling Controlling Nearest
+Buffer Buffer Buffer FEs f. Distance f. Distance in 3 km
+(7) (8) (9) (10) (11) (12)
+Any Building Reported? -1,467.83
+∗∗∗ -1,224.06 ∗∗ -1,462.25 ∗∗ -1,540.22 ∗∗∗ -1,295.49 ∗∗ -1,389.84 ∗∗
+(568.77) (610.13) (579.61) (572.02) (598.03) (584.58)
+Number of Observations 1,415 1,102 1,780 1,780 1,780 888
+Adjusted R-squared 0.279 0.258 0.286 0.286 0.287 0.188
+Notes: This table shows the results from various alternative speciﬁcations of Eq. 1 to investigate different margins of exposure (Panel A) and the role of distance (Panel B). Flood
+damage is equal to one if at least one building in the neighborhood was affected and otherwise set to zero. Column (1) replicates the estimate of our pref erred speciﬁcation from
+Table 2, Panel A, Column (5). All speciﬁcations include ﬁxed effects for areas of interest and counties. Heteroskedasticity-robust standard errors are dis played in parentheses.
+Signiﬁcance levels: ∗ p <. 1, ∗∗ p <. 05, ∗∗∗p <. 01
+123
+
+[[PAGE 16]]
+566 M. Odersky and M. Löfﬂer
+ Most Neighborhoods Affected
+ Neighborhoods Unaffected
+0.0
+0.2
+0.4
+0.6
+0.8
+Any Building Damaged?
+A Reported Flood Damages
+45
+46
+47
+48
+49
+Household Income (in k )
+B Average Household Income
+0
+150Obs.
+0123456
+Distance to Nearest Damage (in km)
+0
+150Obs.
+0123456
+Distance to Nearest Damage (in km)
+Fig. 4 Distance to the Nearest Affected Building Reported in the CEMS Data. Notes: This graph shows
+the relation between neighborhoods’ ﬂood damages, average income, and distance to the nearest damage
+reported in the CEMS data. Panel A plots the share of neighborhoods with at least one affected building over
+a neighborhood’s distance to the nearest reported ﬂood damage. In Panel B, we depict average neighborhood-
+level income over a neighborhood’s distance to the nearest CEMS report. The histograms at the bottom of
+each panel refer to the number of neighborhoods within a given distance to the nearest damage. We then
+bin neighborhoods to groups and exclude grid cells further than six kilometer from a reported damage ( ≈
+85th percentile) to ease exposition
+neighborhoods further away are unaffected. Panel B illustrates that average household income
+also increases with distance to damage. Both patterns combined could thus indeed explain the
+negative income-ﬂood-damage gradient. However, controlling for this distance measure or
+limiting the sample to neighborhoods within three kilometer to a damaged building—thereby
+excluding half of the sample—yields qualitatively similar albeit somewhat smaller estimates
+compared to our baseline (see Columns (11) and (12) in Panel B of Table 3). We conclude
+that distance to damages cannot explain all of the observed differences.
+Other socio-economic measures Having documented the negative link between ﬂood dam-
+ages and household income, we continue by investigating other socio-economic measures as
+outcomes in Eq. 1 using the dichotomous dummy variable indicator for ﬂood exposure. We
+ﬁrst employ data on private insurance take-up as an alternative measure of households’ ﬁnan-
+cial well-being. The vast majority of the German population is subject to the public social
+insurance system when it comes to pension, health, or disability insurance. Using private
+health care insurances or buying additional insurance offered by private pension funds and
+disability insurance providers is typically concentrated among richer households (see, e.g.,
+Seibold et al. 2022). The RWI-GEO-GRID data set reports indices for households’ take-up
+of various private insurances at the neighborhood level. These indices run from one to nine
+with higher values indicating higher usage. We calculate local averages and employ these
+measures as outcomes; Panel A of Table 4 shows the results. In Column (1), we regress pri-
+vate pension insurance usage—the most common form of private insurance payments in our
+sample—on the ﬂood damage indicator. We ﬁnd that households in ﬂood damaged neigh-
+borhoods have a signiﬁcantly lower propensity to sign private pension plans. The 0.38 point
+gap between exposed and non-exposed neighborhoods translates into seven percent relative
+to the mean and 25 percent of a standard deviation. Similarly, we ﬁnd that households in
+affected neighborhoods are also signiﬁcantly less likely to have private life insurance. We
+123
+
+[[PAGE 17]]
+Differential Exposure to Climate Change 567
+Table 4 Other Socio-Economic Measures
+Panel A – Private Insurance Usage
+Private Life Private Additional Occupational
+Pension Insurance Health Health Disability
+(1) (2) (3) (4) (5)
+Indicator: Any Damaged Buildings? -0.38
+∗∗∗ -0.32 ∗∗∗ -0.15 -0.08 -0.10
+(0.10) (0.10) (0.11) (0.10) (0.10)
+Number of Observations 2,358 2,358 2,358 2,358 2,358
+Adjusted R-squared 0.095 0.095 0.300 0.370 0.349
+Panel B – Further Socio-Economic Measures
+Default Unemploy- Share of Share of Share of
+Risk ment Rate Children Elderly Foreign
+(6) (7) (8) (9) (10)
+Indicator: Any Damaged Buildings? 0.27
+∗∗∗ 0.15 -0.62 ∗∗∗ 1.08 ∗∗ 1.15 ∗∗∗
+(0.10) (0.17) (0.20) (0.50) (0.33)
+Number of Observations 2,358 2,358 2,358 2,358 2,358
+Adjusted R-squared 0.173 0.291 0.088 0.069 0.217
+Notes: This table shows the estimates from regressing various alternative socio-economic outcome variables on the ﬂood damage indicator based on Eq. 1. Flood damage is
+equal to one if at least one building in the neighborhood was damaged and otherwise set to zero. We use measures of private insurance usage as outcomes in Panel A and several
+additional economic and demographic variables in Panel B. All speciﬁcations include ﬁxed effects for areas of interest and counties. Heteroskedast icity-robust standard errors
+are displayed in parentheses. Signiﬁcance levels: ∗ p <. 1, ∗∗ p <. 05, ∗∗∗p <. 01
+123
+
+[[PAGE 18]]
+568 M. Odersky and M. Löfﬂer
+also check for differences in the take-up of private health insurance, occupational disability
+insurance, or additional health insurance on top of the basic services offered in the mandatory
+system. Coefﬁcients are not signiﬁcant at conventional levels but point estimates for all three
+outcomes are negative and thus indicate lower socio-economic status ( p-values are 0.14,
+0.31, and 0.44, respectively). Overall, the results for private insurance take-up are in line
+with our ﬁnding that ﬂood damages are concentrated more in lower and medium-income
+neighborhoods than in neighborhoods with high ﬁnancial well-being.
+In Panel B of Table 4, we test for two additional measures of economic status. In Col-
+umn (6), we use an indicator for households’ default risk that is based on data from the
+German debt collection Agency Creditreform. The index runs from one to nine with higher
+values representing higher default risk for households within a neighborhood. Using default
+risk as an outcome in Eq. 1, we estimate a positive and statistically signiﬁcant relationship
+of 0.27 point higher default risk in ﬂood-affected grid cells. This estimate corresponds to
+six percent relative to the mean and around a ﬁfth of a standard deviation. In Column (7),
+we regress local unemployment rates on the ﬂood damage indicator, ﬁnding a positive but
+non-signiﬁcant estimate of 0.15 with equal-sized standard error.
+Finally, we turn to three demographic measures, i.e., the share of children within the
+neighborhood, the share of elderly (aged 65 or above), and the share of foreigners. We ﬁnd that
+neighborhoods with buildings damaged by the 2021 ﬂoods have signiﬁcantly fewer children
+and more elderly people compared to close-by but unaffected neighborhoods. Our results
+also reveal that affected neighborhoods have signiﬁcantly more households with foreign
+background. However, the latter ﬁnding has to be treated with caution since the data is not
+based on administrative statistics but predicted by the data provider based on the names of
+the household heads.
+4.3 Robustness checks
+We next check the robustness of the described ﬁndings. To this end, we estimate various
+alternative speciﬁcations of Eq. 1 assessing the inﬂuence of speciﬁc modeling assumptions.
+Table 5 summarizes the results using the dichotomous ﬂood damage indicator variable.
+Estimates for the corresponding robustness analyses based on the continuous ﬂood damage
+measure are presented in Appendix Table A.3. Column (1) replicates the estimates from our
+preferred speciﬁcation for better comparability across speciﬁcations.
+First, to assess the importance of potential regional confounders unrelated to local sorting,
+we built up the presentation of the baseline results in Section4.1 consecutively by adding var-
+ious sets of local ﬁxed effects. We estimated models with and without ﬁxed effects for areas of
+interest, and gradually added more ﬁne-grained regional indicators for metropolitan statistical
+areas, commuting zones, and counties, respectively. Since the different speciﬁcations account
+for various potential unobservables at different regional levels, this procedure provides ﬁrst
+tentative evidence regarding the impact of regional confounders on our results. Estimates
+remained largely similar. While our baseline speciﬁcation already included 27 regional ﬁxed
+effects, we continue along these lines and introduce ﬁxed effects for the 67 municipal asso-
+ciations ( V erbandsgemeinden) and 179 municipalities ( Gemeinden), respectively.
+6 These
+speciﬁcations are highly restrictive given the relatively small sample of neighborhoods and
+in particular the small-sized municipalities in the state of Rhineland-Palatinate. Nonetheless,
+we overall ﬁnd support for our baseline ﬁndings (see Columns (2) and (3) of Table 5). Esti-
+6 These regional entities are nested within each other and within states. Areas of interest span across various
+entities.
+123
+
+[[PAGE 19]]
+Differential Exposure to Climate Change 569Table 5 Robustness Checks
+Baseline Mun. Ass. Municip. Log HH Income Population
+Estimate Fix. Eff. Fix. Eff. Income in 2010 Weighted
+(1) (2) (3) (4) (5) (6)
+Any Building Reported? -1,515.78
+∗∗∗ -943.02 ∗ -995.30 ∗ -0.03 ∗∗∗ -1,207.75 ∗∗ -1,347.04 ∗∗
+(551.91) (513.81) (591.86) (0.01) (537.46) (680.85)
+Number of Observations 1,780 1,776 1,720 1,780 1,753 1,780
+Adjusted R-squared 0.287 0.499 0.549 0.276 0.360 0.247
+Control. Control. Control. Controls All Without
+Pop. Dens. Weather Dikes Insurance Controls Outliers
+(7) (8) (9) (10) (11) (12)
+Any Building Reported? -1,401.81 ∗∗ -1,713.95 ∗∗∗ -1,473.78 ∗∗∗ -1,084.41 ∗∗∗ -1,178.71 ∗∗∗ -1,397.36 ∗∗
+(551.59) (541.83) (549.01) (401.11) (390.67) (593.64)
+Number of Observations 1,780 1,780 1,780 1,780 1,780 1,755
+Adjusted R-squared 0.298 0.318 0.286 0.539 0.558 0.285
+Regional 25 km 2 100 km2 Spat. HAC Spat. HAC Spat. HAC
+Cluster Cluster Cluster 10 km 20 km 30 km
+(13) (14) (15) (16) (17) (18)
+Any Building Reported? -1,515.78 ∗∗ -1,515.78 ∗∗ -1,515.78 ∗∗ -1,515.78 ∗∗ -1,515.78 ∗∗ -1,515.78 ∗∗∗
+(640.92) (688.62) (694.64) (726.32) (746.81) (569.63)
+Number of Observations 1,780 1,780 1,780 1,781 1,781 1,781
+Adjusted R-squared 0.287 0.287 0.287
+Notes: This table shows the results of various robustness checks. Flood damage is equal to one if at least one building in the neighborhood was damaged and othe rwise set
+to zero. Appendix Table A.3 presents the corresponding robustness checks for the continuous ﬂood damage measure. Column (1) replicates our preferred speciﬁcation from
+Column (5) of Table 2. All other estimates are based on this speciﬁcation with 3 km buffer around the river and ﬁxed effects for areas of interest and counties if not stated
+otherwise (heteroskedasticity-robust standard errors in parentheses). Speciﬁcations in Columns (2) and (3) include ﬁxed effects for municipal as sociations and municipalities,
+respectively, instead of of using county ﬁxed effects. We regress the logarithm of average household income on our ﬂood damage measures in Column (4).We use 2010 income (in
+2019 prices) as outcome in Column (5). We present estimates from regressions with population weights in Column (6). In Columns (7)–(11) we add control variables: Column (7)
+controls for population density, Column (8) for rainfall and temperature, Column (9) for dike infrastructure, Column (10) for average insurance rat es. Column (11) uses all these
+control variables jointly. In Column (12), we exclude neighborhoods for which the CEMS reports more damaged buildings than the total number of buildi ngs according to the
+RWI-GEO-GRID data. Column (13) replicates the baseline speciﬁcation but allows for clustered standard errors at the level of counties-by-areas of interest. Column (14) and (15)
+calculate cluster-robust standard errors in 5 km ×5 km and 10 km×10 km grid areas. Inference in Columns (16)–(18) is based on spatial heteroskedasticity and autocorrelation
+consistent standard errors (“spatial HAC”) using cutoff values of 5 km, 15 km, and 25 km, respectively. Signiﬁcance levels: ∗ p <. 1, ∗∗ p <. 05, ∗∗∗p <. 01
+123
+
+[[PAGE 20]]
+570 M. Odersky and M. Löfﬂer
+mates are again statistically signiﬁcant at conventional levels but the estimated gradients are
+around one third lower compared to the baseline.
+Second, we deviate from the outcome speciﬁcation in levels and use the logarithm of
+average neighborhood level income as dependent variable in Eq. 1. Column (4) shows the
+results.7 In line with the approximation in Section 4.1, we ﬁnd that neighborhoods affected
+by the ﬂoods have on average three percent lower average incomes. Results remain statisti-
+cally signiﬁcant. Although the RWI-GEO-GRID data already predates the ﬂoods, we further
+check whether estimated differences are persistent over time. Therefore, we test whether the
+estimated difference is peculiar to the data year 2019 by using incomes from 2010 as outcome
+(in 2019 prices; again in levels rather than logs). Column (5) shows the results, which are
+signiﬁcantly negative and statistically in line with our preferred estimates.
+Third, we re-estimate our baseline equation using population weights instead of equal
+weights for all neighborhoods in Column (6). This test is motivated by the large population
+differences in our sample (see the summary statistics in Table 1). Whereas the equal-weight
+assumption estimates the difference for the average neighborhood, we can also study the
+income-ﬂood-damage gradient for the average inhabitant by reweighting neighborhoods by
+their population numbers. The weighted estimates are similar to the baseline results. This
+sensitivity check also helps to assess the potential impact of outliers in terms of popula-
+tion density in our data. Since neighborhoods differ clearly in the number of inhabitants,
+this speciﬁcation tests whether the results are driven by the high number of rural and thus
+sparsely populated grid cells. Results remain similar. The same holds true when controlling
+for population density in the baseline regression (see Column (7)).
+We, fourth, investigate further control variables potentially driving our results. A potential
+explanation behind our results could be that weather conditions differ in immediate proximity
+to the river, which may affect the sorting of households but also make areas particularly prone
+to ﬂoods. In Column (8) we present the results when using average rainfall and average
+temperature as controls. Results are hardly changed. In Column (9) we instead proxy for the
+presence of dikes and other levee infrastructure to protect areas against ﬂoods. We again ﬁnd
+no signiﬁcantly different results compared to our baseline. In Column (10) we shed more
+light on the channel of insurance usage. Our results in Section4.1 illustrate that more exposed
+households were less likely to have private insurance coverage. Our baseline ﬁnding prevails
+also when controlling for an average insurance indicator. Results also hold conditional on all
+ﬁve control variables (see Column (11)).
+8
+Fifth, in Column (12), we further test the coding of ﬂood damages by excluding the set of
+neighborhoods from our sample for which the CEMS reports more damages than buildings
+covered in the RWI-GEO-GRID data set. In our baseline analysis we winsorize these data
+points to a damage ratio of 100 percent. The results in Column (12) are reasonably similar,
+conﬁrming that our preferred estimates are not driven by this modeling choice.
+Finally, we also check for the sensitivity of our results when calculating standard errors
+(see Columns (13)–(18)). Whereas our preferred speciﬁcation relies on heteroskedasticity-
+robust standard errors, this may underestimate true standard errors due to clustering of the
+error terms at the local level. To investigate the potential bias this introduces for our infer-
+ence, we instead calculate cluster-robust standard errors that allow for arbitrary clustering of
+standard errors across neighborhoods from the same county and area of interest (29 distinct
+7 We rescale the continuous ﬂood damage measure for this speciﬁcation in Column (4) of Appendix Table
+A.3 to run from zero to one instead of the percent representation to ease the comparison of the estimated
+coefﬁcients in the table.
+8 Employing insurance usage as a control variable when explaining income raises “bad control” concerns
+since it is an outcome itself. Results thus have to be interpreted with caution.
+123
+
+[[PAGE 21]]
+Differential Exposure to Climate Change 571
+regions; Column (13)). We abstain from calculating standard errors based on even higher-level
+administrative entities because this speciﬁcation already suffers from a rather low number of
+independent clusters ( N
+Clusters < 40). Instead, we aggregate the 1 km 2 grid cells to 25 km2
+and 100 km2 areas, respectively, and calculate cluster-robust standard errors for these broader
+grids (Columns (14) and (15)). In Columns (16)–(18) we follow an alternative approach and
+calculate spatial heteroskedasticity and autocorrelation consistent standard errors with dis-
+tance cutoffs of 10 km, 20 km, and 30 km, respectively. Standard errors and thus t-statistics
+are of similar size compared to our preferred speciﬁcation.
+5 Discussion
+The empirical results document that neighborhoods with lower average income were dis-
+proportionally exposed to the ﬂoods. Affected neighborhoods display around 1,500 euros
+lower average disposable household incomes, which corresponds to a three percent differ-
+ence compared to the mean. For each percentage point difference in the share of ﬂood-affected
+buildings, we ﬁnd that neighborhood-level average incomes are around 21 euros lower. Ana-
+lyzing the exposure of neighborhoods along the distribution of average incomes, we also ﬁnd
+a regressive pattern: The poorest sixty percent of neighborhoods display two times higher
+shares of ﬂood damaged buildings than neighborhoods in the upper forty percent.
+Our results further provide suggestive evidence for an intensive margin of ﬂood expo-
+sure: Neighborhoods, where almost all houses were exposed, display even lower average
+incomes than less-affected places. We conclude that exposure to the ﬂoods was regressive.
+In terms of magnitude, the differences we observed are not huge but still sizable compared
+to, e.g., the “rapid emergency aid” of 3,500 euros per household that were granted by the
+state Rhineland-Palatinate in the aftermath of the ﬂoods ( Soforthilfe Privatpersonen ). The
+differential exposure is further corroborated by indicative evidence that neighborhoods with
+more exposed households display lower rates of private insurance take-up and have higher
+average default risks. We also ﬁnd that affected neighborhoods are inhabited by fewer chil-
+dren, more elderly, and more households with foreign background compared to unaffected
+places nearby. In the following section, we compare discuss our results , their implications,
+and how they compare to the existing literature and discuss their implications.
+Comparison to previous literature The overrepresentation of lower income neighbor-
+hoods in the ﬂood areas is in line with the previous literature based on ﬂood risk forecasts
+(Osberghaus 2021; Tovar Reaños 2021). To the best of our knowledge, our study is the
+ﬁrst analysis based on actual damage data that indicates a higher ﬂood exposure for poorer
+households in Europe. The observed disproportionate exposure of the elderly is in line with
+international evidence as well as during the Elbe ﬂood in 2002 in Saxony (Lieberman-
+Cribbin et al. 2021; Kuhlicke et al. 2011). The results on the proportion of households with
+foreign background are also in line with the existing international literature on racial and
+ethnic minorities (Fielding 2018;T a t ee ta l .2019). Our ﬁnding of a lower share of children in
+more affected neighborhoods partly contradicts previous research: (Tovar Reaños2021) ﬁnds
+higher exposure of families based on ﬂood risk indicators. Reasons for the conﬂicting results
+could be differences in the variable deﬁnition (“population below age 18” vs. “families”) or
+the regional composition of the samples.
+Our results are purely descriptive and we thus cannot explain the underlying drivers.
+Nonetheless, the observed empirical relationships are in line with anecdotal evidence that
+richer households rather avoid the historical centers in the valley along the river and move
+123
+
+[[PAGE 22]]
+572 M. Odersky and M. Löfﬂer
+to the hillside or the periphery (see, e.g., local newsreports such as in Die Rheinpfalz 2015).
+Another possible channel is the capitalization of ﬂood risk into local property prices. While
+ﬂood risk is often undervalued in property prices, several studies have found a signiﬁcant
+discount in various countries including Germany (see, e.g., Kousky,2010; Atreya et al.,2013;
+Zhang and Leonard 2019). Lower prices might attract households with lower socio-economic
+status, which could drive our results. Although we cannot provide causal evidence on the
+channels behind the observed differences, the descriptive results themselves have important
+policy implications. To this end, we next relate our results to the concept of vulnerability and
+discuss potential policy implications with a focus on public and private ﬂood insurance.
+Dimensions of vulnerability Our ﬁnding of a higher exposure of low-income groups speaks
+to the debate on the dimensions of population’s vulnerability to environmental hazards (ch. 7
+UNEP 2007). The three dimensions are related to (i) exposure, (ii) sensitivity, and (iii) ability
+to cope and recover. The estimated negative income-ﬂood-damage gradient shows that the ﬁrst
+of these dimensions is particularly strong for households from low-income neighborhoods.
+To understand the total impact of the 2021 ﬂoods on the population, it would be necessary to
+assess how sensitive and able to recover the disproportionally exposed groups are. Our data
+does not allow to shed further light on the latter two dimensions of vulnerability. Whereas
+sensitivity may be unrelated to income, there is most likely a positive correlation between
+income and the ability to cope and recover as the availability of ﬁnancial resources is a key
+element of the coping capacity (Truedinger et al. 2023). One instrument to raise the coping
+capacity and thus reduce vulnerability of low-income households are private or public ﬂood
+insurance institutions.
+Flood insurance: the status quoCurrently, ﬂood insurance in Germany is offered via private
+insurance companies (the particular insurance type is usually labeled asElementar-/erweiterte
+Naturgefahrenversicherung). Buying insurance is voluntarily and only 44 percent of the resi-
+dential houses were covered against ﬂood damage in 2012–14 (Osberghaus2021). Premiums
+are risk-based and barely any subsidization between risk groups takes place. Consequently,
+insurance premia in ﬂood risk areas are high, which may explain why low-income groups are
+subsequently less often insured against ﬂoods than wealthier households (Osberghaus and
+Hünewaldt 2023). With increasing ﬂood risk due to climate change, premiums are expected
+to rise further, likely leading to a decline in voluntary insurance coverage among low-income
+groups (Qiang 2019; Tesselaar et al 2020). In addition, people were repeatedly found to
+underestimate ﬂood risk, resulting in underinsurance. Even in the highly exposed Ahr V al-
+ley, there is little indication for high salience of ﬂood risks after the ﬂoods. Recent survey
+evidence shows that half of the respondents who were affected by the 2021 ﬂoods “consider
+such an extreme ﬂood very unlikely” in the future (Truedinger et al. 2023, p. 13).
+Given the low ﬂood insurance take-up, there have often been strong calls for discre-
+tionary public recovery funds after ﬂood events. In response to the 2021 ﬂoods, the federal
+German government created a 30 billion euros reconstruction fund to rebuild infrastructure
+and provide ﬁnancial support for un(der)insured ﬁrms and households (German Bundestag
+2021). Households can receive ﬁnancial compensation for up to 80 percent of the damage to
+their property (BMF 2021). As all households can request compensation for 80 percent of
+the damage regardless of the total amount, richer households with more valuable dwellings
+receive higher absolute compensations. Moreover, research on post-disaster response policies
+showed that lower income groups often experience greater difﬁculties to apply and receive
+ﬁnancial aid (Grube et al. 2018; Muñoz and Tate 2016; Fothergill and Peek 2004). Among
+other examples, research has shown that after Hurricane Katrina signiﬁcantly fewer public
+123
+
+[[PAGE 23]]
+Differential Exposure to Climate Change 573
+resources went to disadvantaged groups (Islam and Winkel 2017; Masozera et al. 2007). We
+thus expect that households from lower-income neighborhoods receive less compensation
+for damages from private insurances and the state.
+Policy implicationsThe current situation creates a moral hazard problem: Discretionary post-
+disaster recovery payments do not incentivize climate change adaptation but rather encourage
+reconstruction of buildings in the same ﬂood risk areas. Rising climate change is likely to
+further aggravate this problem. Instead of relying on ad-hoc public recovery funds, legislators
+could introduce an insurance mandate for homeowners against natural disasters. An insurance
+mandate combined with the actuarially fair ﬂood-risk dependent premia would improve
+economic efﬁciency: Flood risk would capitalize in property prices and maintenance costs,
+discouraging development in ﬂood risk areas and incentivizing climate change adaptation.
+Such a policy response was also frequently discussed in the immediate aftermath of severe
+ﬂoods in Germany.
+However, it has not yet been implemented. A core argument against such a policy is that
+households may not be able to afford actuarially fair premia. Indeed, our empirical ﬁnding of
+differential exposure along the income distribution illustrates that households in low-income
+neighborhoods would have to pay some of the highest premia in a risk-dependent pricing
+system, which may raise fairness concerns. Our results thus highlight an equity-efﬁciency
+trade-off for welfare-optimizing policy responses.
+Instruments to mute the distributive effects of an insurance mandate are manifold. For
+instance, legislators could lower insurance costs for low-income, high-risk households by
+introducing income-dependent tax credits or subsidies. Policymakers may also regulate insur-
+ance companies and oblige them to charge equal prices and thus redistribute between high
+and low ﬂood risk households. However, such measures would come at the cost of weakening
+price signals of ﬂood risk and thereby discourage climate change adaptation. Another sup-
+port measure could therefore be to offer ﬁnancial means to low-income households in order
+to move to lower-risk places. Y et another instrument to address the policy trade-off would
+be tax-ﬁnanced investments in ﬂood protection and management infrastructure. The optimal
+policy ultimately depends, of course, on fairness preferences and social welfare weights.
+6 Conclusion
+In this paper, we investigate the differential exposure to climate change and ask which socio-
+economic groups suffer most from its consequences. We study the case of the 2021 ﬂoods in
+Germany, one of the most damaging natural disasters in Western Europe in recent decades.
+Our analysis combines geo-coded post-disaster satellite data on actual ﬂood damages with
+highly disaggregated data on average incomes for 1 km
+2 areas. To identify the income-ﬂood-
+damage gradient and account for potential confounders due to broad economic or cultural
+differences across regions, we focus on neighborhoods in close proximity to affected rivers
+and include various regional ﬁxed effects. Our empirical analysis documents that neighbor-
+hoods with lower average disposable household income were disproportionally exposed to
+the 2021 ﬂoods. Therefore, exposure to the ﬂoods was regressive.
+A methodological limitation of our study is that we rely on aggregated neighborhood-
+level income data. Ideally, we would evaluate the income-ﬂood-damage gradient based on
+administrative household-level data. Besides bringing more precision, such a data base would
+allow to study heterogeneous effects along socio-economic and demographic characteristics
+123
+
+[[PAGE 24]]
+574 M. Odersky and M. Löfﬂer
+in more detail. Along these lines, it would also be interesting to investigate differences in
+wealth rather than income, which we cannot do because of data unavailability. Another
+limitation is the case-study nature of our analysis. Although the ﬂoods were one of the most
+disastrous natural hazards in Europe in recent decades, they are still a unique event. Settlement
+patterns may be different for other regions and thus have to be studied case-by-case.
+Supplementary Information The online version contains supplementary material available at https://doi.
+org/10.1007/s10888-023-09605-6 .
+Acknowledgements We thank Hannes Rusch, Kristof Bosmans, Milan V an Steenvoort, and two anonymous
+referees as well as seminar and conference participants at RWI Berlin and V erein für Socialpolitik for helpful
+comments and suggestions. This article is based on Odersky’s bachelor thesis “Who Is Damaged by Climate
+Change? Disproportionately Exposed Groups in the 2021 Flood in Western Germany” at University College
+Maastricht.
+Author Contributions Data Curation and Investigation: Moritz Odersky; Conceptualization and Methodology:
+Max Löfﬂer; Formal Analysis and Writing: Moritz Odersky, Max Löfﬂer.
+Availability of Data and Materials The two underlying data sets can be retrieved from the respective data
+providers:
+• The socio-economic grid-level data from the RWI-GEO-GRID: Socio-Economic Data on Grid Level data
+set (DOI: 10.7807/microm:v10) is provided by the Research Data Center Ruhr at RWI - Leibniz Institute
+for Economic Research in Essen, Germany.
+•The satellite data on ﬂood damages comes from data set EMSR517: Flood in Western Germany provided by
+the EU’s Copernicus Emergency Management Service (URL:https://emergency.copernicus.eu/mapping/list-
+of-components/EMSR517).
+After obtaining these data sets, our empirical results will be fully replicable using our code which is available
+at Harvard Dataverse (https://doi.org/10.7910/DVN/PUU3NF).
+Declarations
+Competing Interests All authors certify that they have no afﬁliations with or involvement in any organization
+or entity with any ﬁnancial interest or non-ﬁnancial interest in the subject matter or materials discussed in this
+manuscript.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence,
+and indicate if changes were made. The images or other third party material in this article are included in the
+article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is
+not included in the article’s Creative Commons licence and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/ .
+References
+Atreya, A., Ferreira, S., Kriesel, W.: Forgetting the ﬂood? An analysis of the ﬂood risk discount over time.
+Land Econ. 89(4), 577–596 (2013)
+BMF: Bundesministerium der Finanzen: Aufbauhilfe für vom Hochwasser betroffene Regionen. (2021)https://
+www.bundesﬁnanzministerium.de/Content/DE/Standardartikel/Themen/Oeffentliche_Finanzen/
+aufbauhilfe-fuer-vom-hochwasser-betroffene-regionen.html
+Breidenbach, P ., Eilers, L.: RWI-GEO-GRID: Socio-economic data on grid level. Jahrbücher für Nation-
+alökonomie und Statistik 238(6), 609–616 (2018)
+Bui, A.T., Dungey, M., Nguyen, C.V ., Pham, T.P .: The impact of natural disasters on household income,
+expenditure, poverty and inequality: evidence from vietnam. Appl. Econ. 46(15), 1751–1766 (2014)
+123
+
+[[PAGE 25]]
+Differential Exposure to Climate Change 575
+CEMS: EMSR517: Flood in Western Germany. (2021) https://emergency.copernicus.eu/mapping/list-of-
+components/EMSR517
+CEMS: Online manual for rapid mapping products. Copernicus Emergency Management Service. (2022)
+https://emergency.copernicus.eu/mapping/ems/online-manual-rapid-mapping-products
+CEMS: The emergency management service - mapping. Copernicus Emergency Management Service. (2023)
+https://emergency.copernicus.eu/mapping/ems/emergency-management-service-mapping
+Die Rheinpfalz: Lösungen für Leerstände. (2015) https://www.rheinpfalz.de/politik/rheinland-pfalz_artikel,-
+l~Ausungen-f~Ar-leerst~Adnde-_arid,262975.html
+Fekete, A., Sandholz, S.: Here Comes the Flood, But Not Failure? Lessons to Learn After the Heavy Rain and
+Pluvial Floods in Germany 2021. Water 13(21), 3016 (2021)
+Fielding, J.L.: Flood risk and inequalities between ethnic groups in the ﬂoodplains of england and wales.
+Disasters 42(1), 101–123 (2018)
+Fothergill, A., Peek, L.A.: Poverty and disasters in the United States: a review of recent sociological ﬁndings.
+Nat. Hazards 32(1), 89–110 (2004)
+German Bundestag: Ja zu Aufbaufonds fü r Flutgebiete und Infektionsschutzgesetz-A¨nderungen. Press release.
+(2021) https://www.bundestag.de/dokumente/textarchiv/2021/kw36-de-aufbauhilfe-857520
+Grube, L.E., Fike, R., Storr, V .H.: Navigating disaster: An empirical study of federal assistance following
+hurricane sandy. East. Econ. J. 44(4), 576–593 (2018)
+Hsiang, S., Oliva, P ., Walker, R.: The distribution of environmental damages. Rev. Environ. Econ. Policy13(1),
+83–103 (2019)
+IPCC: Climate Change 2021: The physical science basis. Contribution of working group i to the sixth assess-
+ment report of the intergovernmental panel on climate change. Ed. by International Panel for Climate
+Change. Cambridge University Press (2021)
+Islam, N., Winkel, J.: Climate change and social inequality. DESA Working Paper 152 (2017)
+Kahn, M.E., Smith, V .K.: The affordability goal and prices in the national ﬂood insurance program. NBER
+Working Paper 24120 (2017)
+Kousky, C.: Learning from extreme events: Risk perceptions after the ﬂood. Land Econ.86(3), 395–422 (2010)
+Kuhlicke, C., Scolobig, A., Tapsell, S., Steinführer, A., De Marchi, A.: Contextualizing social vulnerability:
+Findings from case studies across Europe. Nat. Hazards 58(2), 789–810 (2011)
+Lieberman-Cribbin, W., Gillezeau, C., Schwartz, R.M., Taioli, E.: Unequal social vulnerability to hurricane
+sandy ﬂood exposure. J. Expo. Sci. Environ. Epidemiology 31(5), 804–809 (2021)
+Masozera, M., Bailey, M., Kerchner, C.: Distribution of impacts of natural disasters across income groups: a
+case study of New Orleans. Ecol. Econ. 63(2–3), 299–306 (2007)
+Moretti, E.: Local Labor Markets. In: Ashenfelter, O., Card, D. (eds.) Handbook of Labor Economics, vol.
+4B, North-Holland, 1237–1313 (2011)
+Munich Re: Hurricanes, Cold Waves, Tornadoes: Weather Disasters in USA Dominate natural disas-
+ter losses in 2021. (2022) https://www.munichre.com/en/company/media-relations/media-information-
+and-corporate-news/media-information/2022/natural-disaster-losses-2021.html
+Muñoz, C.E., Tate, E.: Unequal recovery? federal resource distribution after a Midwest ﬂood disaster. Intern.
+J. Environ. Res. Public Health 13(5), 507 (2016)
+Osberghaus, D.: Poorly adapted but nothing to lose? a study on the ﬂood risk - income relationship with a
+focus on low-income households. Climate Risk Management 31.100268 (2021)
+Osberghaus, D., Hünewaldt, V .: Neighborhood effects in climate change adaptation behavior: empirical evi-
+dence from Germany. Regional Environ. Change 23.95 (2023)
+Poussard, C., Dewals, B., Archambeau, P ., Teller, J.: Environmental Inequalities in Flood Exposure: A Matter
+of Scale. Frontiers in Water 3, 633046 (2021)
+Qiang, Y .: Disparities of population exposed to ﬂood hazards in the United States. J. Environ. Manage. 232,
+295–304 (2019)
+RWI: RWI-GEO-GRID: Socio-economic data on grid level - scientiﬁc use ﬁle (wave 10). (2022) https://doi.
+org/10.7807/microm:suf:v10
+Schäfer, A., Mühr, B., Daniell, J., et al.: Hochwasser Mitteleuropa, Juli 2021 (Deutschland). Center for disaster
+management and risk reduction technology Bericht Nr. 1 “Nordrhein-Westfalen & Rheinland-Pfalz”.
+(2021) https://doi.org/10.5445/IR/1000135730
+Schulze, S.:. Tweet: Der #Klimawandel ist in Deutschland angekommen [. . . ] (2021) https://twitter.com/
+SvenjaSchulze68/status/1415639991447965696
+Seibold, A., Seitz, S., Siegloch, S.: Privatizing disability insurance. ZEW Discussion Paper 22–010 (2022)
+Tate, E., Rahman, M.A., Emrich, C.T., Sampson, C.C.: Flood exposure and social vulnerability in the United
+States. Nat. Hazards 106, 435–457 (2019)
+Tesselaar, M., Botzen, W.W., Haer, T., Hudson, P ., Tiggeloven, T., Aerts, J.C.: Regional inequalities in ﬂood
+insurance affordability and uptake under climate change. Sustainability 12(20), 8734 (2020)
+123
+
+[[PAGE 26]]
+576 M. Odersky and M. Löfﬂer
+Tovar Reaños, M.A.: Floods, ﬂood policies and changes in welfare and inequality: Evidence from Germany.
+Ecological Economics 180.106879 (2021)
+Tradowsky, J.S., Philip, S.Y ., Kreienkamp, F., et al. Attribution of the heavy rainfall events leading to severe
+ﬂooding in Western Europe During July 2021. Climatic Change 176.90 (2023)
+Truedinger, A.J., Jamshed, A., Sauter, H., Birkmann, J.: Adaptation after extreme ﬂooding events: moving or
+staying? The Case of the Ahr V alley in Germany. Sustainability 15.1407 (2023)
+UNEP: Global Environment Outlook 4. (2007) https://www.unep.org/resources/global-environment-outlook-
+4
+Warr, P ., Aung, L.L.: Poverty and inequality impact of a natural disaster: Myanmar’s 2008 Cyclone Nargis.
+World Dev. 122, 446–461 (2019)
+Zhang, L., Leonard, T.: Flood hazards impact on neighborhood house prices. The J. Real Estate Finance Econ.
+58, 656–674 (2019)
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+institutional afﬁliations.
+123

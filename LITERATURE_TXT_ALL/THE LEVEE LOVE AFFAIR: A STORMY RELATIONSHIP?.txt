@@ -1,0 +1,963 @@
+[[PAGE 1]]
+WATER RESOURCES BULLETIN
+VOL. 31, NO.3AMERICANWATERRESOURCES ASSOCIATIONJUNE1995
+THE LEVEE LOVE AFFAIR: A STORMY RELATIONSHIP?'
+Graham A. Tobin2
+ABSTRACT: A history of flood control in the United States shows
+an undying affair with levees. This love affair, however, was put
+severely to the test by the record flooding in the summer of 1993.
+About 70 percent of levees in the upper Midwest failed during this
+time, leading to extensive damage to both farmland and urban
+areas. Consequently, there were repeated calls to re-assess the
+nation's floodplain management policies. The report of the Intera-
+gency Floodplain Management Review Committee is one outcome of
+this and it forms the basis of this commentary on levees. In many
+respects, levees are effective flood control measures, being relative-
+ly cheap to implement and easy to build. At the same time, levees
+have negative impacts, affecting the hydrological regime both up
+and down stream, and often exacerbating flooding in other places.
+Furthermore, technical weaknesses in design, planning, construc-
+tion, and maintenance have all contributed to levee failures. While
+the report recommends changes in floodplain management to
+address some of these issues, it is difficult to see how these will
+materialize given the current political, economic, and social cli-
+mate.
+(KEY TERMS: flooding; levee systems; policy; water management.)
+THE LEVEE LOVE AFFAIR
+"Rising floods may be held back by dikes or lev-
+ees built on the plains a little distance from the
+river banks. When the levees are overtopped or
+breached widespread floods may result, such as
+occurred on the Mississippi flood plain in April
+1897 when about 13,000 square miles of plains,
+two-fifths of the entire area, were under water"
+(Davis, 1902, p. 264).
+The failure of levees and resulting flooding of 1897
+was not unusual. Seven years earlier, a flood on the
+lower Mississippi had also broken through levees and
+caused extensive damage to oyster beds in the Gulf of
+Mexico through excessive silt deposits (Davis, 1902).
+Smith (1854, p. 148) made reference to other floods in
+Louisiana that overtopped levees 40 feet high; "The
+land is often lower than the rivers, being protected
+from inundation by levees, as they are called, which
+are large banks thrown up by the sides of rivers." In
+fact, attempts at flood control in the Mississippi River
+valley can be traced back at least as far as 1717 with
+reports of levee construction in New Orleans (NHRA-
+IC, 1992). At the same time, new buildings and settle-
+ments have encroached onto floodplains, thus
+exposing more and more people and property to peri-
+odic inundation from the Mississippi River. From such
+beginnings, the call for community flood protection
+was born, with the federal government held responsi-
+ble for flood alleviation. The Flood Control Acts of
+1917, 1927, 1928, 1936, 1938, and 1944 were a direct
+outcome of this philosophy. Furthermore, the flood-
+plain management strategies implemented by the fed-
+eral government, at least until the late 1960s, reflect
+an overwhelming bias towards structural measures;
+engineering "solutions" that aimed to eliminate flood
+problems (Johnston Associates, 1989). The focus was
+not on how best to mitigate flood losses, but on
+whether levees and reservoirs should or should not be
+built. Over the years, therefore, levees became one of
+the primary tools for fighting floods, and so the Unit-
+ed States became inveigled into its "levee love affair."
+In spite of billions of dollars invested in flood allevi-
+ation projects, particularly levees, flood losses in the
+United States have continued to rise. According to
+some estimates, mean annual flood losses now
+amount to nearly $3 billion, and per capita flood loss-
+es are 2.5 times higher for the period 1951 to 1985,
+compared with 1916 through 1950 (NHRAIC 1992).
+Recurring floods in the first half of the 20th century
+1Paper No. 95011 of the Water Resources Bulletin. Discussions are open until February 1, 1996.
+2Professor of Geography, Department of Geography, University of Minnesota Duluth, Duluth, Minnesota 55812.
+359WATER RESOURCES BULLETIN
+
+[[PAGE 2]]
+merely strengthened resolve to control flooding, as
+seen in the series of Flood Control Acts, and perpetu-
+ated demands for engineering "solutions," especially
+levees or reservoirs. Throughout this period, there-
+fore, the often-repeated scenario has been one of
+"flood disaster-levee construction-flood disaster," and
+so on, with one disaster followed by another. By the
+1960s, however, it was apparent that implementation
+of simple engineering measures could not completely
+eliminate flood losses, and consequently a change in
+strategy was called for (White, 1965). This philosophi-
+cal change focused attention on comprehensive pro-
+grams for managing flood losses, and emphasized the
+need to incorporate non-structural adjustments as
+integral parts of flood alleviation strategies (ITFFM,
+1986). Nevertheless, while remarkable progress has
+been made in broadening perspectives on flood miti-
+gation, the infatuation with levees has endured. Lev-
+ees still represent an important component of flood
+alleviation projects for many communities, although
+the events of 1993 have stimulated further debate
+about the effectiveness of this levee relationship.
+The following commentary on levees, therefore, is
+an attempt to pull some of these ideas together. While
+the focus is on the upper Mississippi River Basin
+floods of 1993, some general principles are also dis-
+cussed. The commentary is based on the Interagency
+Floodplain Management Review Committee's report,
+directed by G. E. Galloway, to the Administration
+Floodplain Management Task Force (IFMRC, 1994),
+and various state reports of Interagency Hazard Miti-
+gation Teams.
+LEVEE SYSTEMS
+There are over 25,000 miles of levees, floodwalls,
+embankments, and dikes offering flood protection to
+land and communities throughout the United States
+(Johnston Associates, 1989). Over the years, these
+levees have been constructed by different agencies,
+organizations, local authorities and individuals. The
+U.S. Army Corps of Engineers (USACE) has been a
+prime mover in this respect, being responsible for
+designing and constructing more than 10,500 miles of
+levees and floodwalls. These officially sanctioned
+structures offer protection up to the 100-year flood
+event for over 5,000 square miles of flood-prone land,
+and 1,000 communities, or approximately 5.5 percent
+of floodplain communities (NHRAIC, 1992). The
+remaining levees, many of which do not meet official
+standards, provide different levels of protection to
+farm land and small communities.
+Tobm
+In the upper Mississippi River basin there are
+approximately 8,000 miles of levees, representing a
+mix of age, ownership, size, and quality. They have
+been built for a variety of reasons and by different
+interested parties. Some were built during times of
+the earliest settlements and have gradually been
+enlarged, while others are relatively new. Since the
+1936 Flood Control Act, 2,249 miles of levees have
+been built by USACE in the upper Mississippi River
+Basin. Of these, 42 miles are still maintained by the
+federal government and the rest by local districts.
+Others have been built by small land-owners (IFMRC,
+1994). It is a combination of these traits that has con-
+tributed to the success or failure of levee systems.
+Levee Functions
+The implementation of levee projects has become a
+common practice because levees are, for the most
+part, relatively cheap and easy to build; they provide
+good protection up to their design standards; and
+their presence may instill a useful reminder of the
+flood threat. In addition, few negative political reper-
+cussions result from supporting levee projects. Given
+this, perhaps it is not surprising that levees have
+become a ubiquitous feature of floodplain communi-
+ties.
+Levee systems are effective in controlling floods
+and can significantly reduce flood losses. For example,
+the lower Mississippi River valley suffered extensive
+flooding in 1973 that resulted in over $1 billion dol-
+lars damage, inundated 13 million acres and left
+69,000 people homeless. USACE estimated that the
+flood alleviation measures prevented an additional
+$15 billion damage and saved a further 10 million
+acres from flooding (National Science Foundation,
+1980). Many levees were damaged during the flood,
+but the control structures significantly reduced losses.
+Similarly, in 1993 levees saved many communities
+from disaster. IFMRC (1994) reported that without
+levees or floodwalls, low lying areas in Rock Island
+and Moline, Illinois, and Kansas City would have
+been flooded. At St. Louis, the Mississippi crested at
+49.6 feet, almost 20 feet above flood stage, yet the city
+was not inundated because of protection from a large
+flood wall. Many smaller communities suffered only
+minor inconveniences because levees effectively kept
+water out of the built up areas.
+While these savings are remarkable and suggest
+very positive benefit-cost ratios for levee projects,
+they conceal another problem. It is possible that these
+communities would not have expanded onto floodplain
+lands to the same extent if the levee had not been con-
+structed in the first place. The implementation of the
+WATER RESOURCES BULLETIN360
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+The Levee Love Affair: A Stormy Relationship?
+structural measure, therefore, has placed more prop-
+erty at risk to the flood hazard, and suggests that the
+accounting system for benefits is somewhat flawed.
+This is discussed further below.
+Levee Liabilities
+Theoretically, the protection offered by levees is vir-
+tually 100 percent up to the design standards of the
+project. Water is confined to the floodway away from
+urban agglomerations and productive agricultural
+lands. Unfortunately, though, several factors can com-
+bine to compromise levee effectiveness, including,
+hydrological factors, changing environmental condi-
+tions, technical weaknesses, and social constraints.
+Hydrological Factors. One problem highlighted
+by the events of 1993 was the potential for increased
+flooding created by poor placement of the levees.
+Since levees are designed to channel water through a
+restricted floodway, flood water is no longer stored on
+the natural floodplain, which can produce profound
+hydrological consequences. First, water may accumu-
+late upstream of the levee system, thus raising flood
+stage and exacerbating problems for communities in
+that vicinity. Second, water confined between the lev-
+ees will be high, and put considerable pressure on the
+structure. 'While this in itself may not result in levee
+failure, the long-term integrity of the structure may
+be compromised. Third, flood problems may also be
+transferred downstream as water is accelerated
+through the strictures of the levee system. These fea-
+tures caught much of the media attention during the
+1993 floods, especially as one levee after another
+failed (Alder, 1993; Church, 1993). In spite of this
+media blitz, concern over negative hydrological conse-
+quences from levee construction is not new. For
+instance, the Pick-Sloan Plan in 1944 recognized the
+importance of storage areas and provided for a 3,000
+to 5,000 feet wide floodway between levees along the
+Missouri River from Sioux City (Iowa), to St Louis
+(Missouri) (IFMRC, 1994). However, this part of the
+plan was never implemented.
+Several studies have been conducted to determine
+the hydrological impact of levee projects on surround-
+ing areas during the 1993 floods. For example,
+IFMRC (1994) reported on a survey of peak flows on
+the Mississippi, Missouri, and Illinois Rivers above
+Cairo (Illinois). This indicated that discharges would
+have been 2.5 feet lower at St. Louis if upstream lev-
+ees had not been built. However, an assumption of the
+study was that floodplains would be relatively clear
+with no trees to impede flows. While this is not realis-
+tic, the research does support the notion that levees
+can exacerbate flood problems downstream. Further-
+more, discharges on these rivers were so high that
+even without levees flows would have exceeded flood
+stage by 17 feet. To control all flows the levee system
+would have had to have been about 2.3 feet higher
+(IFMRC, 1994). Other reviews demonstrated that
+breaching and overtopping of levees reduced peaks by
+1.6 feet in St. Louis. The multiple levee failures in
+Illinois allowed some attenuation of the flood peaks,
+although the positive effects were often limited since
+levels usually rose once the storage component had
+been filled. For example, when the Sny Island levee
+failed, flooding 44,000 acres, the peak stage on the
+Mississippi River at Hannibal (Missouri), fell from
+approximately 31.5 feet to 27 feet in less than two
+days, then during the next two days rose 1.5 feet
+(Bhowmik et al., 1994). Agricultural levees also con-
+fused the picture. Many of these offer protection only
+to the 50-year flood or less, and hence were frequently
+overtopped during the 1993 floods. Their impact on
+these floods, however, may have been minimal. Hall
+(1991) used a flow model to show that even if agricul-
+tural levees were realigned to accommodate a regula-
+tory 100-year floodway, flood peaks of the 100-year
+event would be reduced by only 1.5 feet. In effect,
+then, the failure of the levees allowed water to be
+stored on the old floodplain. USACE took advantage
+of this and on at least one occasion intentionally
+breached a levee to release pressure on other struc-
+tures and to lower flood levels (Bhowmik et al., 1994).
+Based on these findings, the IFMRC report concluded
+that levees have only minor overall effects on flood
+stage during large events, although there may be sig-
+nificant local impacts.
+Changing Environmental Conditions. A second
+concern is changing environmental conditions that
+can significantly alter the hydrological regime of a
+river. For instance, an increase in deforestation,
+urbanization, or agricultural drainage within a
+drainage basin can lead to a more flashy storm hydro-
+graph, thus increasing the frequency and raising the
+peak discharge of particular floods. These changes
+can reduce the level of protection offered and may
+threaten the viability of levees. In the last 50 years
+nearly 500,000 acres of floodplain, including wet-
+lands, has been lost along the Missouri River in
+Nebraska, Iowa, Kansas, and Missouri, mainly from
+agricultural drainage. In 1993, this activity was often
+blamed for high flood levels, the principle being that
+wetlands act as sponges, storing water during high
+flows. Certainly, this is true of many wetlands, but
+the capacity of such systems to attenuate flood flows
+of the 1993 magnitude is debatable. Nevertheless,
+some attention is being given to restoring certain wet-
+land environments along the Mississippi River basin.
+In this regard, the Interagency Hazard Mitigation
+361WATER RESOURCES BULLETIN
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+Team (IHMT) for South Dakota recommended con-
+structing levees away from the river to provide three
+to five times more floodway space (IHMT, 1993).
+The precise impacts of both changing environmen-
+tal conditions and the implementation of control
+structures is not fully known. What is apparent, how-
+ever, is that flood stages for comparable discharges on
+several rivers have increased, as shown in Table 1.
+For example, at St. Louis the previous record dis-
+charge of 1.3 million cubic feet per second occurred in
+1844 and culminated in a stage of 43.23 feet. During
+the 1993 flood, the river rose to 49.47 feet from a dis-
+charge of only 1.03 million cubic feet per second (Par-
+rett, 1993). Similar increases are found at other
+gauging stations for pre- and post-regulation data. It
+is not surprising, therefore, that some levee systems
+no longer meet original design criteria.
+Technical Weaknesses. The 1993 flooding severe-
+ly tested levee systems along most reaches of the Mis-
+sissippi, Missouri, and their tributaries. Of the 1,576
+levees under stress, 1,082 (68.5 percent) failed, leav-
+ing 6,000 miles of levees ineffective (Mairson, 1994;
+United Press International, 1993). Others suffered
+extensive damage from soil moisture seeping through
+the structure after prolonged high water levels
+(Myers and White, 1993). At one time, levee systems
+from Burlington (Iowa) to Cairo (Illinois) on the Mis
+sissippi, and from Nebraska to St, Louis on the Mis-
+souri were essentially non-operational because of
+breaks and overtopping (National Weather Service,
+1993). In Illinois there were 19 large levee breaks
+that inundated over 250,000 acres between July 7 and
+August 3.
+An examination of the pattern of levee failure is of
+interest. Only 20 percent of federally constructed and
+maintained levees failed; in other words, 80 percent
+were successful. For example, in Dubuque (Iowa), the
+flood wall, that had been erected after the 1964 floods,
+protected the town from river flooding (Telegraph
+Tobin
+Herald, 1993). In addition, only 17 percent of levees
+constructed by the federal government and main-
+tained by local agencies failed. In contrast, many pri-
+vately owned levees were unsuccessful. Over 77
+percent failed, including farm levees, and other struc-
+tures intended to protect small communities. These
+private levees were not subject to the same design
+standards as the federal levees and consequently
+were sometimes poorly constructed or not well main-
+tained (Tobin and Montz, 1994).
+Flood fighting in the form of levee protection went
+on in many communities as the floods moved down-
+stream. Once again, the media covered these activi-
+ties extensively. Sandbagging teams were put
+together and people arrived from all over the country
+to help in the battle against the river. Many of these
+endeavors failed, such as in Des Moines (Iowa), St.
+Charles (Missouri), and East Dubuque, and Quincy
+(Illinois). Other sandbagging attempts were success-
+ful, as at St Genevieve, and Hannibal (Missouri). In
+this latter case, the flood peaked one foot above the
+permanent levee, but the town was saved by a tempo-
+rary wall that raised the levee three feet. USACE
+estimated that 26.5 million sandbags were filled and
+distributed during the flooding (Tobin and Montz,
+1994).
+In many cases, levees failed because of technical
+weaknesses. Levees have sometimes been poorly
+designed, or construction methods and maintenance
+schedules have been substandard. Inadequate atten-
+tion to these technical details has led to major weak-
+nesses in the flood alleviation strategy. For instance,
+at times insufficient freeboard has been allowed at
+the top of levees, thus contributing to their failure as
+water plunges over the top or waves wash along the
+sides. For example, the levee at Black River Falls
+(Wisconsin) did not meet a three feet clearance
+requirement above the 100-year flood height and
+eventually failed (Heinrichs, 1993). It is believed that
+overtopping or failure of levees and flood walls is
+TABLE 1. Discharge and Flood Stage for Selected Gauging Stations
+(data adopted from Parrett et al., 1993).
+Gauging Station
+Pre-Regulated RecordsPost.Regulated Records
+Peak Stage
+(feet)
+Maximum
+Discharge
+(cfs)
+Peak Stage
+(feet)
+Maximum
+Discharge
+(cfs)
+Missouri St. Joseph26.82397,00032.70400,000
+Missouri Kansas City38.00625,00048.85530,000
+Missouri Booneville32.8271000036.95717,000
+Missouri Herman35.50892,00036.95748,000
+Mississippi St. Louis43.231,300,00049.471,030,000
+WATER RESOURCES BULLETIN362
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+The Levee Love Affair: A Stormy Relationship?
+involved in approximately one-third of all flood disas-
+ters (NHRAIC, 1992).
+Levee failure can bring additional problems. If the
+structure is breached, then a large volume of water
+may rush through the opening at high velocity con-
+tributing to damage problems. Also, once a levee has
+been breached, then water is often retained behind
+the structure making drainage difficult. Levees can
+act as barriers preventing the water from returning to
+the river, thus necessitating pumps or other mainte-
+nance activities. In many instances, it can take weeks
+for flood water to return to the confines of the chan-
+nels.
+Another consequence of levee failure is scouring
+and deposition of sediment. Evidence from aerial pho-
+tography, satellite imagery, and floodplain maps sug-
+gests that 90 percent of the areas affected by
+significant floodplain erosion and sedimentation were
+those where levees had been damaged. When a levee
+breaks, water is released at high velocity, which
+erodes material from the surrounding area before
+spreading out and depositing sediment across the
+adjacent floodplain. The water plunging over a high
+levee can also exacerbate this scouring effect. Magilli-
+gan et at. (1994) examined some of these levee failures
+in Illinois and found horseshoe shaped deposits ema-
+nating from the levee break. The scouring can extend
+for a mile or more downstream, and deposit sediment
+over extensive areas. For example, the failure of sev-
+eral levees in Hartsburg (Missouri) led to inundation
+of the town and to thick deposits of sediment across
+farm fields (Tobin and Ollenburger 1994). According
+to Cassidy (1994) floods deposited sand on 60 percent
+(455,171 acres) of the agricultural land along the Mis-
+souri River floodplain. Sediment deposits exceeded
+nine inches on 277,585 acres, and averaged 24 inches
+on 91,000 acres.
+Part of the problem is that levees have been con-
+structed by different agencies to different standards.
+The physical composition, placement relative to the
+river, and maintenance all differ among levees. Older
+structures were often built without regard for
+hydraulic conditions and have failed on many occa-
+sions because of swift flowing water and high flows
+relative to structures, such as at cut-offs, where high
+energy hydrological conditions prevail. Thus, some-
+times it is difficult to determine accurately what level
+of protection is offered and more modeling is suggest-
+ed, such as that undertaken by Uno et al. (1994). Also,
+some failures in 1993 resulted from long duration
+flooding which caused water to "boil up" under pres-
+sure through the ground and undermine the levee.
+While regular maintenance could have stopped some
+of this, nothing short of major reconstruction would
+have prevented most failures.
+Better planning and maintenance could have
+prevented some levee breaks in 1993. The IFMRC
+(1994) report recommended that levee systems incor-
+porate safety features, such as spillways and control
+structures. It was also suggested that levee districts
+endorse a "levee superiority" strategy to identify lev-
+ees that would be designed to "fail" first. Reducing the
+height or notching these particular levees so that
+areas behind them flooded would reduce the pressure
+on other parts of the system during large events.
+Some problems may also have stemmed from the
+efforts of those fighting the floods. For instance, there
+has been little assessment of the effects sandbagging
+might have had elsewhere in the drainage basin. By
+increasing levee height through sandbags, the flood
+stage in particular reaches of the channel is raised
+and this may put undue pressure on other protection
+works located downstream. Consequently, IFMRC rec-
+ommends that flood fighting be concentrated at those
+places recognized by an agency such as USACE. Fur-
+thermore, advanced planning for such strategies
+would have to be consistent with NFIP and other
+floodplain regulations.
+While levee superiority strategies might prove
+advantageous from a hydrological or even economic
+perspective, they ignore the psychological benefits
+that might accrue from flood fighting. Many people
+reported on the camaraderie and fulfillment gained
+from "doing something" about the floods, even if this
+was from filling and stacking sandbags. Furthermore,
+levee superiority practices could lead to impossible
+situations for floodplain managers. It would, for
+instance, be extremely difficult to tell one group of
+residents to stop taking action to prevent flooding,
+such as raising a temporary levee, while allowing
+another group in a different location to continue. The
+whole notion could be divisive to a community unless
+levee superiority was carefully planned to exclude res-
+idential areas, and at the same time provide compen-
+sation to land owners who are flooded as a result. It is
+possible that assessments could be levied against
+downstream beneficiaries (IHMT-Kansas, 1993). To
+counter such problems, IFMRC (1994) recommended
+that the Federal Emergency Management Agency
+(FEMA) coordinate activities to achieve floodplain
+management goals.
+Levee failures could also have been reduced by
+better maintenance and repair. Of the 1,600 levees
+ultimately damaged by the flooding, 1,400 were non-
+federal, and less than 500 were part of the USACE
+Emergency Flood-Control Repair Program (PL 84-99).
+Of these, only 229 were constructed by USACE
+(IFMRC, 1994). It should be noted that there are dif-
+ferent data available on numbers of levees damaged,
+(see for example, Bhowmik et at., 1994; or NOAA,
+1994) although it is not the specific numbers that are
+363WATER RESOURCES BULLETIN
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+of concern here. Some levees had originally been part
+of the USACE repair program but had been excluded
+because local authorities had failed to operate and
+maintain structures properly, had not obtained public
+sponsorship, or had not met satisfactory engineering
+standards.
+To be officially sanctioned, levees must meet cer-
+tain criteria. FEMA, for example, requires that levees
+protect communities from the annual 0.01 probability
+flood, as part of the National Flood Insurance Pro-
+gram (NFIP). Even this was considered too low by the
+Committee on Levee Policy for the National Flood
+Insurance Program (1982) who wanted a 500-year
+return event standard. To be eligible for the USACE
+repair program, levees must provide adequate protec-
+tion, be sponsored by a public entity, and be main-
+tained to USACE standards. The costs for repairs are
+shared 80 percentJ2o percent between USACE and
+the public entity (IFMRC 1994), and local sponsors
+must ensure all land, easements, and rights of way
+necessary for repairs. As a result, most smaller levees
+are not usually included in the USACE repair pro-
+gram.
+Only 15 percent of non-federal levees qualified for
+federal assistance under the normal guidelines after
+the 1993 floods. However, because flooding was so
+severe, many levees were repaired using supplemen-
+tal funding. Some new regulations were attached to
+these funds. USACE required that levee districts
+agree to join the USACE repair program, find public
+sponsorship within two years, ensure levee mainte-
+nance, and meet environmental, engineering, and
+other eligibility requirements. The report recommend-
+ed that in future no waivers be given, but that the
+current program be supported (IFMRC, 1994). It was
+thought that greater adherence to regulations would
+eventually encourage communities and states to
+adopt more stringent levee policies. This was not pos-
+sible after the 1993 floods because of weighty political
+pressure exerted to include non-federal levees in
+repair plans (Tobin and Montz, 1994).
+The whole issue of levee systems is further con-
+fused by a plethora of responsible organizations all
+utilizing different criteria for decision-making. Five
+federal agencies are involved in the funding, design,
+construction, and repair activities: USACE, USDA
+Soil Conservation Service (SCS), FEMA, Economic
+Development Administration (EDA), and the Depart-
+ment of Housing and Urban Development (HUD).
+These agencies use different methods of analysis to
+assess both engineering standards and economic ben-
+efits, which can result in some confusion. IFMRC
+(1994) recommended that USACE be established as
+the principal agency for levee construction on main
+rivers because of its long experience with levees. In
+addition, SCS should assist in small structures, and
+Tobin
+states and local drainage districts should fund levee
+building to various degrees. At a minimum, cost-
+sharing proportions should be standardized to pre-
+vent districts from seeking better deals from different
+agencies. These differences in cost-sharing can be
+found in many areas, including project design, land
+acquisition, and credit for in-kind services. For
+instance, the levee emergency rehabilitation program
+under SCS requires a cost-share of 25 percent of the
+cost of the project, excluding inspections and design,
+from the local sponsor, whereas the USACE program,
+requires no local cost-sharing for federally built lev-
+ees. For non-federal levees, the local share is 20 per-
+cent including the costs for design and inspections.
+The picture is complicated by EDA which requires
+between 20 and 25 percent, and FEMA which
+requires a 25 percent local share (IFMRC, 1994),
+although after the 1993 floods, FEMA actually
+reduced the share requirement to 10 percent. Conse-
+quently, many levees have been repaired without due
+considerations beyond those needs of the local area.
+Furthermore, not all states have programs to con-
+trol levee construction. Very few states have imple-
+mented permit programs to review levee proposals for
+compliance with state-established standards for
+design, construction, and repair. Few states control
+where levees are placed relative to channels, and
+none has a comprehensive plan to determine which
+levees should be protected during the flood. In addi-
+t:ion, since federal agencies deal directly with local
+levee districts, states often have no involvement in
+planning. Nevertheless, ASFPM (1992) pointed out
+that of the nine states experiencing major flooding in
+1993, only Missouri and South Dakota did not have
+r:iver regulations that exceeded NFIP minimum stan-
+dards. On the other hand, only Iowa, Minnesota,
+Nebraska, and Wisconsin attempted to regulate devel-
+opment behind levees.
+The IFMRC (1994) report strongly advocated that
+states get more involved with levee permitting, main-
+tenance, and repair. Many levees had been dropped
+from the USACE emergency levee repair program,
+and, therefore, had no resources to repair structures
+once they failed. The report states that several mid-
+western communities did not belong to a levee district
+and consequently were not involved in levee mainte-
+nance or flood fighting decisions. Therefore, states
+should be involved and help coordinate levee repair
+and maintenance, especially for those not eligible for
+federal funding assistance. Specific recommendations
+for individual states varied (IHMT, 1993). In North
+Dakota, it was recommended that non-federal levees
+be repaired to pre-flood conditions with federal money
+only if sponsors developed a repair and maintenance
+program. In contrast, in Nebraska consideration was
+given to not repairing non-federal levees if they were
+WATER RESOURCES BULLETIN364
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+The Levee Love Affair: A Stormy Relationship?
+located on the regulatory floodway. Levee set backs
+were also recommended in Minnesota and Missouri,
+while in Illinois routine maintenance of non-federal
+levees was recommended.
+Social Constraints. It has been argued that the
+area behind levees may be at greater risk than nor-
+mal because of the "levee effect." While a comprehen-
+sive examination of the levee effect has not been
+undertaken, evidence suggests that the construction
+of levees can exacerbate flood losses under certain cir-
+cumstances. Like all structural measures implement-
+ed to alleviate flooding, levees are designed to specific
+standards, perhaps the 100-year event. Since it is eco-
+nomically impractical, and probably aesthetically
+undesirable, to build levees to withstand extremely
+large, low-probability floods, this level of protection is
+not unusual in levees approved by the USACE. In
+many cases it will not be possible to build a levee sys-
+tem to prevent all flood damage (ITFFM, 1986). Once
+the project has been constructed, however, the struc-
+ture may generate a false sense of security to the
+extent that floodplain inhabitants perceive that all
+flooding has been eliminated. With the incentive to
+take precautions removed, few residents will be pre-
+pared for remedial action in the event of future floods.
+Even more costly, however, this false sense of security
+can also lead to greater development in the so-called
+safe areas, thus adding to the property placed at risk.
+Inevitably, a flood will occur that exceeds levee
+design standards, overtopping or breaching the levee
+system and inundating the community. It is impor-
+tant to remember that the project may be very effec-
+tive up to its design standards, but any flood beyond
+that size will result in some flooding, assuming all
+calculations have been correct. In effect, therefore, the
+breaking of the levee because of high water is not nec-
+essarily a failure of the flood alleviation strategy, but
+is actually a feature of the project itself. Neverthe-
+less, flood problems are exacerbated by the intensifi-
+cation of land use in the hazard area. The real failure
+comes from inadequate land use planning and educa-
+tion strategies to alert floodplain inhabitants to the
+risk of such locations. Finally, when the levee does
+fail, the increase in development can actually raise
+losses even higher than if no levee system had been
+constructed in the first place. Thus, the large claims
+of levee induced savings, discussed above, are some-
+what fallacious. Recognition of this is not new;
+there is a danger that by reason of increased
+occupancy and values in the areas subject to
+floods after construction of the system of head-
+water reservoirs, the damages over a long period
+of years might be greater rather than less, in
+spite of the 300-, 400-, or 500-million dollar
+expenditure that these works might cost."
+(Segoe, 1937, p. 55).
+Virtually every levee failure in 1993, and in the
+past, has resulted in increased flood losses. Take for
+example the Monarch-Chesterfield levee. This struc-
+ture was originally an agricultural levee that had
+been repeatedly damaged by floods. In the 1980s,
+however, it was upgraded to meet early NFIP stan-
+dards, thus providing protection from the 100-year
+event. Gradually, development occurred behind the
+levee, including construction of a new industrial
+estate. Also, the second airport in St. Louis (the Spirit
+of St. Louis) is located in the "safe area" of the
+Monarch-Chesterfield levee. When the levee failed,
+there were 67 flood insurance claims payments from
+property owners behind the levee that totaled $13.2
+million, which represents nearly 5 percent of all
+claims for the nine states flooded during the summer.
+Damage to the airport added another $1.7 million
+(IFMRC, 1994). Furthermore, levee failures to the
+north of St. Louis destroyed many homes and trailer
+parks on both sides of the Missouri River.
+The above discussion, however, ignores completely
+any potential psychological benefits that a false sense
+of security might generate. It is possible, for instance,
+that a perception of safety, even if false, will reduce
+day-to-day stress of living in a flood prone environ-
+ment. In the long-run, these benefits might outweigh
+costs accruing from flooding. While psychological ben-
+efits might be very difficult to test empirically, since
+measures of increased anxiety stemming from actual
+flood events would have to incorporated into any
+experimental design, it might be worth considering
+for some communities. Perhaps a study into the value
+of reduced stress is necessary.
+To counter problems associated with the levee
+effect, IFMRC (1994) recommended that flood insur-
+ance be required behind all levees that provide protec-
+tion to less than the standard flood. This would
+include all areas lying below the 100-year flood level
+but located on the "safe" side of the levee. Insurance
+would be mandatory and owners of new buildings
+would pay based on actuarial rates. It could be admin-
+istered by NFIP. Thus, property owners and city
+infrastructure would be insured against levee failure,
+federal expenditures on disaster aid would be
+reduced, property owners would become aware of risk,
+and communities would have an incentive to seek
+other forms of protection. It might even deter exces-
+sive development and unwise investment in flood-
+plain property.
+365WATER RESOURCES BULLETIN
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+Tobin
+CONCLUSIONS
+Inthe final analysis, floodplain management poli-
+cies in the United States will continue to employ levee
+systems, embankments and flood walls. Levees pro-
+vide good protection up to their design standards for
+many communities, and even in 1993, very few feder-
+al levees failed. Clearly, the key to success is careful
+design, high quality construction, and ongoing main-
+tenance programs, possibly under the auspices of the
+USACE. The involvement of states and local districts
+in levee programs would also seem to be a move in the
+right direction. Many states discovered in 1993 that
+they had little or no idea about the number and quali-
+ty of levees in their jurisdictions. In addition, land use
+planning must be pursued to maintain a clear flood-
+way, and to discourage over-development behind the
+levee. An insurance program for property located in
+protected areas but lying below the regulatory flood
+level is also worth considering. If these strategies are
+adopted fewer levees will fail in future floods, except
+of course when there is a repeat of the 1993 events,
+then many of the same problems will recur.
+One of the most important recommendations of the
+IFMRC report is that the upper Mississippi River
+Basin should be treated as a single, integrated sys-
+tem. While this is not a new idea, the time would
+seem ripe to implement a stronger management poli-
+cy. Unfortunately, no single agency has responsibility
+for the upper Mississippi Drainage Basin. Therefore,
+IFMRC recommended that upper Mississippi and
+Missouri River Basin Commissions be re-established
+to coordinate flood damage reduction. In essence, this
+would be an adaptation of the Mississippi River and
+Tributaries Project (MRT) which already has some
+authority over the whole drainage basin. However,
+since the 1927 floods, MRT has focused primarily on
+the lower Mississippi River and, in regards to flood-
+ing, has taken a pro-structural approach to flood con-
+trol. A plan was published for the upper basin in
+1982, but it was not particularly directed at flood
+damage reduction. (UMRBC, 1982).
+A systematic approach to flood alleviation could
+encompass the wider perspectives on floodplain man-
+agement that have been discussed over the last thirty
+years. This would facilitate the adoption of new ideas
+and foster greater consideration of more sophisticated
+strategies towards flood alleviation that incorporate
+both structural and non-structural adjustments. Fur-
+thermore, the implementation of structural adjust-
+ments in one area could be coordinated with other
+plans to ensure that individual projects did not have
+negative impacts on other parts of the system. These
+concerns need not be limited to new projects. It would
+seem pertinent to undertake a major review of exist-
+ing flood control measures. This re-assessment should
+WATERRESOURCES BULLETIN366
+include not only federal levees but also non-federal
+levees and agricultural embankments. At the same
+time, states and local drainage districts should be
+encouraged to adopt repair and maintenance pro-
+grams. IFMRC (1994) suggested that such a review
+could be the responsibility of the Mississippi River
+Basin Commission.
+By utilizing a systems approach, it is possible to
+view the bigger picture. From a hydrological perspec-
+tive, the integrity of the floodplain and the necessity
+for an open floodway can be easily understood as one
+traces flood flows through a drainage basin. Draining
+wetlands, raising flood walls, or constricting flood-
+ways is obviously going to exacerbate flood levels at
+some point within the system. The physical causes of
+these problems are not difficult to comprehend, and
+the report made many fine recommendations. Unfor-
+tunately, though, it is highly unlikely that many of
+these proposals will go forward. Experience has
+shown that there are far too many social, political,
+and economic factors that will ultimately complicate
+the regulation of a human-use system based primarily
+on hydrological criteria. Politicians will give lip-
+service to some of the ideas, but they will probably not
+endorse the fundamental changes proposed in the
+report for fear of losing support. Economic constraints
+will prevent other aspects from being embraced as
+businesses owners and shareholders seek immediate,
+short-term returns at the expense of long-term gains.
+Indeed, this paper has not addressed many of the
+broader economic ramifications of levee construction.
+Finally, social pressures and social inertia will ensure
+that the status quo prevails, for very quickly the dev-
+astation of the floods will be forgotten, to be replaced
+by more immediate day-to-day concerns. It is true
+that the 1993 floods will always be a benchmark in
+the lives of the victims, but this will not modify the
+behavior of the majority of floodplain residents. In
+their eyes they have experienced their 100- or 500-
+year flood and the probability of reoccurrence is
+remote.
+In conclusion, therefore, it is doubtful that these
+floods will lead to major changes in approaches to
+flood control, and the love affair with levees will con-
+tinue. Certainly programs will continue to evolve, and
+the NFIP will be modified in the near future to pre-
+vent people taking out policies a few days before the
+floods. But, as more time passes since the floods, so
+the probability for major change is reduced. There are
+many innovative ideas on floodplain management, as
+witnessed by the excellent report by IFMRC and
+other publications, but the will to change, like the
+levee, appears to need strengthening.
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+The Levee Love Affair: A Stormy Relationship?
+ACKNOWLEDGMENTS
+The author wishes to thank Sue Bonfigt and the anonymous
+reviewers for help on this commentary.
+LITERATURE CITED
+Alder, J., 1993. Come Hell or High Water. Newsweek, July 26:15-26.
+Association of State Floodplain Managers (ASFPM), 1992. Flood-
+plain Management, 1992, State and Local Programs. Associa-
+tion of State Floodplain Managers.
+Bhowmik, N. G. et al., 1994. The 1993 Flood on the Mississippi
+River in Illinois. Miscellaneous Publication 151, Illinois State
+Water Survey, Champaign, fllinois, 149 pp.
+Cassidy, D. and R. Althaus, 1994. The Flood of 1993: The Economic
+Aftermath. Choices, First Quarter, pp. 29-32.
+Church, G. J., 1993. Flood, Sweat and Tears. Time, July 26:22-33.
+Committee on a Levee Policy for the National Flood Insurance Pro-
+gram, 1982. A Levee Policy for the National Flood Insurance
+Program. National Academy Press, Washington, D.C., 107 pp.
+Davis, W. M., 1902. Elementary Physical Geography. Ginn and
+Company, Boston, Massachusetts, 401 pp.
+Hall, B. R., 1991. Impact of Agricultural Levees on Flood Hazards.
+Technical Report HL-91-21, prepared for Federal Emergency
+Management Agency. U.S. Army Corps of Engineers, Hydraulics
+Laboratory 44 pp.
+Heinrichs, G. (Editor), 1993. The Floods of 1993: The Wisconsin
+Experience. Bureau of Water Regulation and Zoning, Depart-
+ment of Natural Resources. 52 pp.
+Interagency Floodplain Management Review Committee (IFMRC),
+1994. Sharing the Challenge: Floodplain Management into the
+21st Century. Report to the Administration Floodplain Manage-
+ment Task Force, U.S. Government Printing Office, Washington
+D.C., 191 pp.
+Interagency Hazard Mitigation Team (IHMT), 1993. State Reports:
+Illinois (FEMA-997-DR-IL, 50 pp.); Kansas (FEMA-1000-DR-
+KS, 50 pp.); Minnesota (FEMA-993-DR-MN, 47 pp.); Missouri
+(FEMA-989/995/1006-DR-MO, 28 pp.); Nebraska (FEMA-998-
+DR-NE, 37 pp.); North Dakota (FEMA-100 1-DR-ND, 34 pp.);
+South Dakota (FEMA-999-DR-SD, 31 pp.). Federal Emergency
+Management Agency.
+Interagency Task Force on Floodplain Management (ITFFM), 1986.
+A Unified National Program for Floodplain Management. Feder-
+al Emergency Management Agency, U.S. Government Printing
+Office, Washington D.C.
+Johnston Associates, 1989. A Status Report on the Nation's Flood-
+plain Management Activity: An Interim Report. Prepared for
+Interagency Task Force on Floodplain Management. U.S. Gov-
+ernment Printing Office, Washington D.C.
+Magilligan, F. J., B. Gomez, J. D. Phillips, A. James, 1994. Anato-
+my of Levee Breaks During the Mississippi Flood, 1993. Paper
+presented at the Annual Meeting of the Association of American
+Geographers, San Francisco, California.
+Mairson, A., 1994. The Great Flood of '93. National Geographic
+185(1):42-81.
+Myers, M. F. and G. F. White, 1993. The Challenge of the Mississip-
+pi Flood. Environment 35(10):7-35.
+National Oceanic Atmospheric Administration (NOAA), 1994. The
+Great Flood of 1993: Natural Disaster Survey Report. U.S.
+Department of Commerce.
+National Science Foundation, 1980. A Report on Flood Hazard Miti-
+gation. U.S. Government Printing Office, Washington D.C.,
+253 pp.
+Natural Hazards Research and Applications Information Center
+(NHRAJC), 1992. Floodplain Management in the United States:
+An Assessment Report. Summary Report, Prepared for the Fed-
+eral Interagency Floodplain Management Task Force, Volume 1,
+69 pp.
+National Weather Service, 1993. Update on the Midwestern Floods:
+Heat and Drought in the East. Special Climate Summary,
+Administrative Message, National Weather Service Headquar-
+ters 93(2).
+Parrett, C., N. B. Melcher, and R. W. James (Jr), 1993. Flood Dis-
+charges in the Upper Mississippi River Basin, 1993. U.S. Geo-
+logical Survey Circular, 1120-A, U.S. Government Printing
+Office, Washington D.C., 14 pp.
+Segoe, L., 1937. Flood Control and the Cities. The American City
+LII(3):55-56.
+Smith, R. C., 1854. Geography on the Productive System. Burgess
+and Co. New York, New York, 356 pp.
+Telegraph Herald, 1993. The Deluge. Souvenir Section, Telegraph
+Herald, (Dubuque) July 22.
+Tobin, G. A. and B. E. Montz, 1994. The Great Midwestern Floods
+of 1993. Saunders College Publishing, Fort Worth, Texas.
+Tobin, G. A. and J. C. Ollenburger, 1994. An Examination of Stress
+in a Flood Prone Environment. Papers and Proceedings of
+Applied Geography Conferences 17: 74-8 1.
+United Press International, 1993. Corps Decided Against Fixing
+More Than 350 Missouri Levees. UPI:clarinews@ clarinet.com.
+St. Louis, Missouri.
+Uno, T., T. Sugii, and M. Hayashi, 1994. Logit Model for River
+Levee Stability Evaluation Considering Return Period. Struc-
+tural Safety 14 :81-102.
+Upper Mississippi River Basin Commission (TJMRBC), 1982. Com-
+prehensive Master Plan for the Management of the Upper Mis-
+sissippi River System. Minneapolis, Minnesota, 193 pp.
+White, G.F. 1965. Optimal Flood Damage: Retrospect and Prospect.
+In: Water Research, A. V. Kneese and S. C. Smith (Editors).
+Resources For the Future, Johns Hopkins Press. pp. 25 1-269.
+367WATER RESOURCES BULLETIN
+ 17521688, 1995, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1752-1688.1995.tb04025.x by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

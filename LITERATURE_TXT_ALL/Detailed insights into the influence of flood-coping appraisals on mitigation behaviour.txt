@@ -1,0 +1,1253 @@
+[[PAGE 1]]
+Detailed insights into the inﬂuence  of ﬂood-coping  appraisals on
+mitigation behaviour
+P. Bubeck a,b,*, W.J.W. Botzen a, H. Kreibich b, J.C.J.H. Aerts a
+a Institute for Environmental Studies, Faculty of Earth and Life Sciences, VU University, De Boelelaan 1087, 1081HV Amsterdam, The Netherlands
+b Helmholtz Centre Potsdam, German Research Centre for Geosciences GFZ, Section Hydrology, Telegrafenberg, 14473 Potsdam, Germany
+1. Introduction
+The acknowledgement that ﬂoods  remain possible even in areas
+with comprehensive ﬂood-protection  works in place, has led to a
+shift to more integrated ﬂood  risk management concepts in Europe
+and worldwide (Bu¨ chele et al., 2006; European Union, 2007; Few,
+2003; De Moel et al., 2009; Holub et al., 2012). Such integrated
+ﬂood-risk  management concepts focus not only on investments in
+ﬂood-prevention  infrastructure, such as dikes, but in addition
+embrace damage-mitigation measures implemented by house-
+holds as a viable strategy to limit ﬂood  risks. This complementation
+of traditional ﬂood-protection  strategies is considered important,
+because it provides a hedge against the projected increase in ﬂood
+risk resulting from the combined effect of ongoing socio-economic
+development in ﬂoodplains  and the effects of climate change (Aerts
+et al., 2008; De Moel et al., 2011; Linde et al., 2011). Several studies
+have shown that measures such as ﬂood-adapted  building use or
+the deployment of mobile ﬂood  barriers can effectively reduce
+ﬂood  damage (e.g. Kreibich et al., 2005; Bubeck et al., 2012b), and
+are cost-effective in many situations since they have a beneﬁt–cost
+ratio larger than one (Holub and Fuchs, 2008; Kreibich et al.,
+2011a).
+At the same time, it is often found that residents living in ﬂood-
+prone areas do not adequately prepare themselves for potential
+ﬂood  events (Kunreuther and Erwann, 2009). Therefore, a growing
+number of empirical studies have examined the factors that
+inﬂuence  the precautionary behaviour of ﬂood-prone  residents
+(e.g. Takao et al., 2004; Siegrist and Gutscher, 2006; Thieken et al.,
+2006; Botzen et al., 2009; Terpstra, 2011; Botzen and van den
+Bergh, 2012; Koerth et al., 2013). Insights into the factors that can
+explain ﬂood  mitigation behaviour are needed, because as part of
+integrated ﬂood-risk  management approaches, private households
+are also increasingly being required and encouraged through risk
+communications to contribute to ﬂood-risk  reduction by imple-
+menting mitigation measures (Wasserhaushaltsgesetz, 2009;
+Dawson et al., 2011; Meyer et al., 2012; Kellens et al., 2013).
+Global Environmental Change 23 (2013) 1327–1338
+A R T I C L E I N F O
+Article history:
+Received 21 January 2012
+Received in revised form 7 May 2013
+Accepted 19 May 2013
+Keywords:
+Mitigation behaviour
+Flood risk
+Protection Motivation Theory
+Coping appraisal
+A B S T R A C T
+Insights into ﬂood  mitigation behaviour are important because of the ongoing shift to risk-based ﬂood
+management approaches in Europe and worldwide, which envisage a contribution from ﬂood-prone
+households to risk reduction. The recent literature on factors that inﬂuence  ﬂood  mitigation behaviour
+indicates that ﬂood-coping  appraisal is an important variable to understand and explain ﬂood  mitigation
+behaviour. Coping appraisal originates from Protection Motivation Theory (PMT), and refers to the
+cognitive process that people undergo when evaluating their own ability to avoid a certain risk.
+However, the empirical literature on the importance of coping appraisal is still scarce, and, in particular,
+little is known about the independent inﬂuence  of the three single components of coping appraisal on
+precautionary behaviour: namely, response efﬁcacy,  self-efﬁcacy,  and response cost. This study presents
+the results of a recent survey among 752 ﬂood-prone  households along the river Rhine in order to
+provide detailed insights into the inﬂuence  of the components of ﬂood-coping  appraisal on four different
+types of ﬂood  mitigation behaviour: structural building measures, adapted building use, the deployment
+of ﬂood  barriers, and the purchase of ﬂood  insurance. The results conﬁrm  that ﬂood-coping  appraisal is
+an important variable in terms of precautionary behaviour. In particular, both response efﬁcacy  and self-
+efﬁcacy  contribute to the models which explain the four different types of ﬂood-mitigation  behaviour.
+Based on these ﬁndings,  it is concluded that risk communication should focus more strongly on the
+potential of ﬂood-mitigation  measures to effectively reduce or avoid ﬂood  damage, as well as on
+information about how to implement such measures in practice.
+/C223 2013 Elsevier Ltd. All rights reserved.
+* Corresponding author at: Helmholtz Centre Potsdam, German Research Centre
+for Geosciences GFZ, Section Hydrology, Telegrafenberg, 14473 Potsdam, Germany.
+Tel.: +49 331 288 1896; fax: +49 331 288 1570.
+E-mail addresses: bubeck@adelphi.de, philipb@gfz-potsdam.de (P. Bubeck).
+Contents lists available at SciVerse ScienceDirect
+Global Environmental Change
+jo ur n al h o mep  ag e: www  .elsevier  .co  m /loc  ate/g  lo envc  h a
+0959-3780/$ –  see front matter /C223 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.gloenvcha.2013.05.009
+
+[[PAGE 2]]
+The majority of studies that have examined the factors which
+inﬂuence  ﬂood-mitigation  behaviour initially focused on ﬂood-
+risk perceptions,  such as the perceived probability or the
+perceived consequences  of ﬂooding.  However, the ﬁndings  of
+most of these studies do not support the assumption that risk
+perceptions per se are a good predictor of ﬂood  mitigation
+behaviour (Bubeck et al., 2012a). A factor that has been shown to
+be consistently  related to ﬂood  mitigation behaviour is what is
+referred to as ﬂood-coping  appraisal (Grothmann and Reusswig,
+2006; Zaalberg et al., 2009). The concept of coping appraisal
+originates from Protection Motivation Theory (PMT), which is a
+widely adopted psychological  model that explains decision
+making in response to threats (Rogers, 1975, 1983). Within
+PMT, coping appraisal refers to the cognitive process that people
+undergo when they evaluate possible actions in response to the
+perceived threat and their own ability to avert or avoid a certain
+risk. It consists of three individual components referred to as
+‘response  efﬁcacy’,  ‘self-efﬁcacy’,  and ‘response  cost’.  Studies that
+have examined ﬂood-coping  appraisal consistently  found sta-
+tistically signiﬁcant  relationships  with ﬂood  mitigation behaviour
+(Grothmann and Reusswig, 2006; Zaalberg et al., 2009). This
+suggests that ﬂood-coping  appraisal is an important variable to
+understand ﬂood-mitigation  behaviour and, therefore, is impor-
+tant for ﬂood-risk  communications.
+Even though it has been shown that ﬂood-coping  appraisal  is
+an important  explanatory  variable,  the literature  on this subject
+is still scarce,  in general,  and little is known about the
+independent  inﬂuence  of response  efﬁcacy,  self-efﬁcacy,  and
+response  cost on household  decisions  to implement  different
+ﬂood-mitigation  measures,  in particular.  A limitation  of the
+recent literature  is that it applied  a single variable  ‘coping
+appraisal’  in statistical  models that explain  ﬂood  mitigation
+behaviour,  instead  of examining  each component  separately
+(e.g. Grothmann  and Reusswig,  2006). Only few studies  exam-
+ined the effect of the different  components  of ﬂood-coping
+appraisal  on mitigation  behaviour  separately  (e.g. Zaalberg  et al.,
+2009). In other application  domains  of PMT, such as the literature
+on health-related  behaviour,  the distinction  between  the
+different  components  of coping-appraisal  is more common
+(see e.g. Milne et al., 2000). With regard to ﬂood-risk  commu-
+nications,  it is important  to gain further  insights  into the
+inﬂuence  of the individual  components  of coping appraisal  on
+protective  behaviour.  Such insights  could provide  important
+information  for ﬂood-risk  management  policies,  because  it
+indicates  whether  risk communications  should emphasize  the
+effectiveness  of ﬂood  mitigation  measures  (response  efﬁcacy),
+should focus on providing  practical  guidelines  on how to deploy
+such measures  (self-efﬁcacy),  or, whether  the costs of protective
+measures  should be addressed  when stimulating  ﬂood  mitiga-
+tion behaviour  (response  cost).
+To gain insights into the inﬂuence  of the three individual
+components of ﬂood-coping  appraisal on precautionary behaviour,
+this study presents data from a survey conducted among 752
+ﬂood-prone  households along the German part of the river Rhine. It
+examines, how perceived response efﬁcacy,  perceived self-efﬁcacy,
+and perceived response cost relate to the implementation of four
+different types of ﬂood-mitigation  measures: namely, structural
+building measures, adapted building use, ﬂood  barriers, and the
+purchase of ﬂood  insurance.
+The remainder of this article is organized as follows. Section 2
+discusses the theoretical background of (ﬂood-)  coping appraisal as
+well as the empirical ﬁndings  with respect to ﬂood  mitigation
+behaviour. Section 3 presents the sample characteristics of the
+survey and the methods applied in this study. The results are
+provided and discussed in Section 4. Section 5 concludes, and
+discusses the implications of the ﬁndings  for risk communication,
+and for other policies that aim to stimulate ﬂood  mitigation
+behaviour.
+2. Protection Motivation Theory
+The concept of coping appraisal derives from Protection
+Motivation Theory (PMT) (Rogers, 1975, 1983), which is consid-
+ered to be one of the main theoretical frameworks to predict and
+inﬂuence  health-related behaviour (Milne et al., 2000; Floyd et al.,
+2000). Although PMT was initially developed to explain protective
+health behaviour, it has been applied in several other contexts,
+including technical and environmental risks, as well as natural
+hazards (Mulilis and Lippa, 1990; Wiegman et al., 1992;
+Grothmann and Reusswig, 2006).
+In order to explain protection motivation, the model attempts
+to capture the two main cognitive processes that people undergo
+when facing a speciﬁc  threat: namely, ‘threat  appraisal’  and ‘coping
+appraisal’.  Threat appraisal consists of the two variables ‘perceived
+vulnerability’  (probability), and ‘perceived  severity’  (conse-
+quence), and, thus, describes how threatened someone feels by
+the respective risk. Coping appraisal, instead, refers to the cognitive
+process that people undergo when they evaluate possible
+responses to the threat they face, as well as to their own ability
+to avert or avoid a certain risk. It consists of three separate
+components referred to as ‘response  efﬁcacy’,  ‘self-efﬁcacy’,  and
+‘response  cost’  (Rogers and Prentice-Dunn, 1997; Floyd et al.,
+2000). Response efﬁcacy describes whether a person considers a
+protective measure as effective to reduce a certain risk. Self-efﬁcacy
+indicates whether a person feels able to actually implement a
+certain measure. Finally, response cost refers to the ﬁnancial,  time
+and emotional costs that a person associates with implementing
+the respective measures (Floyd et al., 2000; Milne et al., 2000).
+These two appraisal processes inﬂuence  an individual’s  protection
+motivation, which is regarded as an intervening variable that
+arouses, sustains, and directs the activity of individuals to protect
+themselves (Maddux and Rogers, 1983), and leads to a coping
+response that can be either protective or non-protective. Protective
+measures are those actions that are suitable to actually reduce the
+threat and are adopted if high risk perceptions are accompanied by
+(positive) coping appraisals. In contrast, non-protective responses
+are adopted if high risk perceptions are accompanied by low
+coping appraisals. While non-protective responses, such as wishful
+thinking, avoidance or denial, do not actually reduce the risk itself,
+they can help to suppress negative emotions caused by the
+cognitive dissonance of high risk perceptions and low coping
+appraisals (Festinger, 1957). In the original version of PMT, Rogers
+(1975) proposed that threat appraisals and coping appraisals
+would combine in a multiplicative fashion, suggesting interaction
+effects between the variables. However, empirical support for this
+multiplicative function has been lacking (Norman et al., 2005). In
+his revised version of PMT, Rogers (1983) then proposed a simpler
+additive model, and most applications of PMT consequently only
+consider the main effects of threat appraisals and coping appraisals
+(Norman et al., 2005).
+Only a few studies have examined the inﬂuence  of ﬂood-coping
+appraisals on mitigation behaviour, and ﬁnd  consistent relations
+with mitigation behaviour (Grothmann and Reusswig, 2006;
+Zaalberg et al., 2009). Grothmann and Reusswig (2006) ﬁnd  that
+coping appraisal could explain an additional 2–21  percent in the
+variance of mitigation behaviour. Zaalberg et al. (2009) ﬁnd  that
+the perceived effectiveness positively inﬂuences  intentions for
+precautionary behaviour, while self-efﬁcacy  does not. Further-
+more, other studies that do not apply PMT, as such, but examine
+variables that are part of the PMT framework, also ﬁnd  mostly
+statistically signiﬁcant  relations with precautionary behaviour (for
+an overview, see Bubeck et al., 2012a).
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381328
+
+[[PAGE 3]]
+3. Method and sample characteristics
+3.1. The survey
+To gain insights into the inﬂuence  of ﬂood-coping  appraisals on
+precautionary behaviour, a questionnaire was developed that
+consisted of about 45 questions which addressed the following
+topics: ﬂood-risk  perceptions and coping appraisals, ﬂood  experi-
+ences, ﬂood-coping  responses, and the socio-economic character-
+istics of the respondents.
+A pre-test of the questionnaire was conducted by the
+Umfragezentrum Bonn of the Rheinische Friedrich-Wilhelms-
+Universita¨ t Bonn with 21 respondents of the target group using
+computer-aided telephone interviews in April 2011. The experi-
+ences from the pre-test were then used to further improve the
+comprehensibility and performance of the questionnaire. Ques-
+tions that were perceived as difﬁcult  by the respondents were
+reformulated. Questions that were perceived as redundant were
+removed from the questionnaire. The implemented changes
+substantially improved the performance of the questionnaire in
+terms of both the response rate and the mean duration of the
+interviews. While only 54 percent of the called households
+completed the interview during the pre-test, a high response rate
+of about 83 percent was achieved during the main survey. The
+average duration of the interviews could be reduced from 36 min
+during the pre-test to about 28 min during the main survey.
+For the main survey, 752 telephone-aided interviews of ﬂood-
+prone households along the river Rhine in Germany were carried
+out in May and June 2011. The river Rhine has been chosen as a
+case study because it is a densely populated river basin of major
+economic importance, which has been affected in recent decades
+by several ﬂoods  that caused substantial economic damage (Kron
+and Thumerer, 2002). Moreover, the integrated ﬂood-risk  man-
+agement concept ‘Action  Plan on Floods’  has been adopted in
+response to the two major ﬂoods  along the Rhine in 1993 and 1995
+by the riparian countries, and envisages that private households
+should also contribute to risk reduction (ICPR, 2002, 2006, 2007).
+Further impetus to complement traditional ﬂood  protection with
+non-structural ﬂood  mitigation measures results from the
+projected increase in ﬂood  risk along the Rhine due to the
+Fig. 1. Postcode areas of the interviewed households.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–1338 1329
+
+[[PAGE 4]]
+combined effects of climate change and an increased vulnerability
+due to further socio-economic developments in ﬂood-prone  areas
+(Linde et al., 2011).
+Flood-prone residential streets were identiﬁed  using aerial
+photographs of past ﬂood  events (BFG, 1995), and information
+provided by stakeholders such as the International Commission for
+the Protection of the Rhine (Adrian Schmid-Breton, personal
+communication, 2011), as well as using ﬂood  hazard maps (ICPR,
+2001). We ﬁnally  included in the survey only those households that
+used a room in the cellar or lived on the ground ﬂoor  of the respective
+building in order to ensure that respondents could potentially suffer
+ﬂood  damage to their belongings. The interviews were always
+undertaken with those persons who are involved in taking
+important decisions regarding the household. The municipalities
+of the surveyed households are shown in Fig. 1. An overview of the
+sample characteristics is provided in Table 1. With 48 percent of the
+respondents being female and 52 percent being male, the sample is
+marginally biased towards men compared with the average German
+population (51 percent female/49 percent male) (Statistisches
+Bundesamt, 2013). The majority of the surveyed households (mode)
+reported that their income belonged to the netincome class ranging
+from s2501 to s3000. This compares very well to the average net
+income of households in Germany of s2914 (Statistisches
+Bundesamt, 2011). The average age of the respondents was 58
+years. This higher average age of the respondents compared with the
+average age of the German population (43.7 years) can be explained
+by the fact that children were excluded from the survey and that we
+interviewed household members who are involved in important
+decisions regarding the household.
+The majority of the respondents live in urban areas in the
+following housing types: single-family house (22 percent); terrace
+house (15 percent); detached two-family house (13 percent); and
+multi-family house (44 percent). A high share of about 64 percent of
+the respondents had already experienced one or several ﬂoods.
+Almost half of the respondents (48 percent) had implemented one or
+several ﬂood  mitigation measures, such as avoiding installing an
+expensive ﬁxed  interior (27 percent), installing a back-ﬂow
+protection system (26 percent), using ﬂood-resistant  materials
+(13 percent), avoiding placing expensive items in ﬂood-prone  rooms
+of their house (34 percent), or relocating the heating system above
+potential water levels (14 percent). About 24 percent of the
+respondents had purchased an insurance policy to cover potential
+ﬂood  damage.
+3.2. Statistical methods
+Fig. 2 shows our research approach to examine the independent
+inﬂuence  of response efﬁcacy,  self-efﬁcacy,  and response cost, as
+well as other factors on implementing four types of ﬂood
+mitigation measures.
+Various ﬂood  mitigation measures were categorized into a
+commonly used typology of ﬂood  mitigation measures (ICPR,
+2002; Kreibich et al., 2005): namely, structural measures, adapted
+building use, ﬂood  barriers, and ﬂood  insurance. The various
+measures, as well as the way these were grouped into the four
+Table 1
+Sample characteristics (n = 752).
+Variable Percentage
+of total sample
+Gender
+Male 51
+Female 49
+Age
+18–24  1
+25–34  5
+35–44  14
+45–54  21
+55–64  22
+65 and above 37
+Missing 0
+Education
+No graduation (school) 0
+General education 16
+Secondary school certiﬁcate  20
+Vocational diploma 7
+A levels 14
+University/technical college degree 39
+Missing 2
+Income (s)
+Less than 750 1
+751 until 1.000 2
+1.001 until 1.500 8
+1.501 until 2.000 9
+2.001 until 2.500 10
+2.501 until 3.000 10
+3.001 until 3.500 7
+3.501 until 4.000 5
+4.001 until 5.000 7
+More than 5.000 8
+Missing 33
+Ownership
+Tenant 39
+Owner 61
+Type of house
+Single-family house 22
+Terrace house 15
+Two-family house (detached) 13
+Multi-family house (detached) 20
+Multi-family house (building block) 24
+High-rise building 1
+Farm house 1
+Other 3
+Protected area (dike)
+Yes 29
+No 70
+Missing 1
+Location
+Urban 49
+Rural/Periphery 51
+Flood experience
+Yes 64
+No 34
+Missing 2
+Precautionary measure
+Yes 48
+No 52
+Types of measures
+Avoid expensive items in
+ﬂood-prone  storeys (ad.)a
+34
+Avoid expensive ﬁxed  interior
+in ﬂood-prone  storeys (ad.)
+27
+Back ﬂow  protection (stra 26
+Insurance against ﬂood  damage
+(ins.)a
+24
+Installing the heating in higher
+storeys (str.)
+20
+Fixed or mobile ﬂood  barriers
+(barr.)a
+17
+Table 1 (Continued )
+Variable Percentage
+of total sample
+Improving building stability (str.) 14
+Replacing the heating system to
+avoid oil contamination (str.)
+14
+Use of ﬂood-resistant  materials (str.) 13
+Securing the oil tank to avoid
+contamination (str.)
+7
+a Note: str.: structural measure; ad.: adapted use; ins.: insurance; barr.: ﬂood
+barrier.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381330
+
+[[PAGE 5]]
+categories, are indicated in Table 1. Four binary variables were
+created that indicate for each type of measure whether it was
+implemented by the respondent. The four categorical variables
+were entered as dependent variables in a binary logistic regression
+analysis (or logit model), together with 29 explanatory variables
+that are expected to inﬂuence  ﬂood  mitigation behaviour. A logistic
+regression was applied to take account of the categorical nature of
+the dependent variable. Logistic regressions can be regarded as an
+extension of (multiple) linear regression. A logistic regression
+allows us to perform a regression analysis on categorical
+dependent variables by applying a logarithmic transformation of
+the data. Instead of predicting the dependent variable directly, as is
+the case in multiple linear regressions, it is the probability of the
+dependent variable occurring that is estimated in a logistic
+regression. The estimated regression coefﬁcients  are difﬁcult  to
+interpret owing to the logarithmic transformation of the data. To
+provide a more intuitive way of interpreting the results in terms of
+effect sizes, we, therefore, also estimate the odds ratio for each
+explanatory variable. The odds ratio indicates the change in odds
+(or likelihood) of the dependent variable occurring (i.e. having
+implemented the respective ﬂood  mitigation measure), as a result
+of a unit change in the explanatory variable, ceteris paribus The
+odds ratio (or) given x1 to the odds ratio given x2 for response
+category k1 versus k2 is calculated as:
+or ¼ px1 ðk1Þ= px1 ðk2Þ
+px2 ðk1Þ= px2 ðk2Þ ;
+where px (k) is the probability for response category k given x.
+In general, an odds ratio above 1 indicates that, as the
+explanatory variable increases, the odds (or likelihood) of the
+dependent variable occurring also increase. Conversely, an odds
+ratio below 1 indicates that, as the explanatory variable increases,
+the odds of the dependent variable occurring decrease (Field,
+2009).
+The 29 explanatory variables in the four logistic regression
+analyses represent individual risk perceptions, coping appraisals,
+non-protective responses, and, both the socio-economic and the
+geographical characteristics of the respondents, such as distance
+Fig. 2. Flow chart of the logistic regression analyses applied to evaluate the individual inﬂuence  of ﬂood-coping  appraisals and other factors on four types of ﬂood  mitigation
+measures.
+Table 2
+Key explanatory variables of the four regression models which explain four types of ﬂood  mitigation measures and their coding.
+Explanatory variables Description Coding
+Response efﬁcacy  Respondents’  estimate of the effectiveness of a speciﬁc
+ﬂood  mitigation measure
+1 ineffective; 2 rather ineffective; 3 rather effective; 4 effective
+Self-efﬁcacy  Respondents’  estimate of own ability to actually implement a
+speciﬁc  ﬂood  mitigation measure
+1 unable; 2 rather unable; 3 rather able; 4 able
+Response cost Respondents’  estimate of the cost of implementing a
+speciﬁc  ﬂood  mitigation measure
+1 costly; 2 rather costly; 3 rather not costly; 4 not costly
+Perceived probability Perceived probability of a ﬂood  event occurring at
+the respondents’  household
+1 unlikely; 2 rather unlikely, 3 rather likely; 4 likely
+Perceived consequence Perceived consequences of a ﬂood  event 1 not bad; 2 rather not bad; 3 rather bad; 4 bad
+Avoidance Respondent hopes not to be affected by a ﬂood  event in the future 1 does not apply to me; 2 rather not applies to me; 3 rather applies
+to me; 4 applies to me
+Wishful thinking Belief in sufﬁcient  protection through technical ﬂood  defences 1 does not apply to me; 2 rather not applies to me; 3 rather applies
+to me; 4 applies to me
+Postponement Flood mitigation is generally considered as wise, but
+implementation is postponed to the future
+1 does not apply to me; 2 rather not applies to me; 3 rather applies
+to me; 4 applies to me
+Protected Area Living in an area that is protected by technical ﬂood  defences 1 yes; 0 no
+Urban area Living in an urban area 1 yes; 0 no
+Age Age categories 1= 16 –24;  2 = 25–34;  3= 35–44;  4 = 45–54;  5= 55–64;  6 = 65 and above
+Income Income categories 1 above s4500; 0 below s4500
+Flood experience Household’s  ﬂood  experience 1 yes; 0 no
+Social environment Neighbours of friends have implemented ﬂood  mitigation
+measures
+1 none of them; 2 few of them; 3 some of them; 4 most of them
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–1338 1331
+
+[[PAGE 6]]
+from the respondents’  house to the river. A list of the key variables
+and their coding is presented in Table 2. To exclude problems
+associated with multicollinearity, the correlation matrix of all
+explanatory variables was checked for the presence of high
+correlations. All correlation coefﬁcients  were smaller than 0.5,
+while coefﬁcients  larger than 0.8 are regarded to cause problems of
+multicollinearity (Field, 2009). Data were treated as missing values
+in the analysis if respondents provided no answer on a question, or
+opted for the ‘do  not know’  category.
+A separate  logistic  regression  was performed  for each of the
+four types of mitigation  measures.  After entering  all 29
+explanatory  variables,  ﬁrst,  non-signiﬁcant  variables  were
+subsequently  removed  from the analysis  on the basis of the
+Wald statistic.  The explanatory  variable  with the highest  p-
+value was always removed  step-wise  from the analysis,  until
+only those variables  remained  in the four regression  analyses
+that made a signiﬁcant  contribution  to the respective  model at
+the 5 percent  signiﬁcance  level. The resulting  four models of
+four different  types of ﬂood  mitigation  behaviour  and their
+determinants  are referred  to as ‘best-ﬁtting  models’  (see Fig. 2).
+In a next step, all variables  that were found to be a signiﬁcant
+predictor  in at least one of the four best-ﬁtting  models were
+selected,  and again entered  in four binary logistic  regressions
+with each of the four types of mitigation  measures  as the
+dependent  variable.  These ﬁnal  statistical  models which
+explain  ﬂood-mitigation  behaviour,  are referred  to as ‘com-
+plete models’.  The purpose  of estimating  the complete  model is
+to compare  the inﬂuence  of coping appraisals  and other
+explanatory  variables  that are signiﬁcant  in at least one model
+on ﬂood  mitigation  behaviour  across the four different  types of
+ﬂood  mitigation  measures.  A slightly  different  procedure  was
+followed  for the income variable.  Since a high share of
+respondents  did not want to reveal their income (33 percent),
+income becomes  a limiting  factor in the analyses  by reducing
+the number of observations  that can be included  in the
+regressions.  Therefore,  it was ﬁrst  checked  for each of the four
+analyses  whether  income signiﬁcantly  contributed  to the best-
+ﬁtting  model. If this was not the case, the step-wise  removal
+processes  were repeated  without  entering  income as an
+explanatory  variable.
+Moreover, possible interaction effects between the different
+components of threat appraisal and coping appraisal, as
+suggested in the original version of PMT (Rogers, 1975), were
+tested by introducing interaction variables of threat appraisal
+and coping appraisal variables to the four complete models. In
+accordance with the revised version of PMT (Rogers, 1983) and
+the empirical literature (Norman et al., 2005), results show that
+out of 24 possible interactions, only one case is statistically
+signiﬁcant.  The only interaction term that proved to be
+signiﬁcant  was response efﬁcacy  /C2  perceived consequence in
+the model explaining adapted building use. Because signiﬁcant
+interaction effects are mostly unobserved, the interaction
+variables are omitted from the ﬁnal  analyses presented in
+Tables 4–7 .
+4. Results and discussion
+An overview of those variables that make a signiﬁcant
+contribution to at least one of the four best-ﬁtting  models is
+provided in Table 3. In Sections 4.1–4.4 , the results of the complete
+models will be discussed and interpreted in detail for each of the
+four types of ﬂood  mitigation measures. A comparison of the four
+types of mitigation measures in terms of inﬂuencing  factors is
+provided in Section 4.5 on the basis of Table 3 and the four
+complete models.
+Table 3
+Overview of signiﬁcant variables and p-values of the four best-ﬁtting models of the four different types of mitigation measures.
+Response
+efﬁcacy
+Self-efﬁcacy Perceived
+probability
+Perceived
+consequence
+Avoidance Wishful thinking Postponement Protected area Urban area Age Income Experience Social
+environment
+Structural measures .002 .000 .002 .029 .015 .049 .008
+Adapted use .002 .003 .000 .006 .000
+Flood barriers .001 .004 .007 .000 .010 .000
+Flood insurance .000 .000 .005 .001 .002 .004 .006
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381332
+
+[[PAGE 7]]
+4.1. Implementation of structural building measures
+Table 4 presents the results of the binary logistic regression
+analysis for structural ﬂood  mitigation measures. The analysis for
+structural measures is restricted to homeowners, because usually
+these types of measures cannot be carried out by tenants. The
+complete model explains 40 percent of the variance in implement-
+ing a structural mitigation measure, which represents a very good
+level of explanatory power in psychological research. Using a 5
+Table 4
+The complete model which predicts the implementation of structural ﬂood  mitigation measures (n = 265).
+Explanatory variable Coefﬁcient  (B) Standard error (SE) 95% conﬁdence  intervals for the Odds ratio
+Lower Odds ratio Upper
+Perceived probability 0.105 0.168 .799 1.110 1.543
+Perceived consequence 0.038 0.150 .774 1.039 1.394
+Flood experience 0.465 0.412 .710 1.592 3.570
+Response efﬁcacy  /C0 0.078 0.138 .706 .925 1.211
+Self-efﬁcacy  0.364** 0.127 1.121 1.439 1.848
+Avoidance /C0 0.013 0.134 .759 .987 1.285
+Wishful thinking /C0 0.589*** 0.145 .418 .555 .737
+Postponement /C0 0.335** 0.129 .555 .715 .922
+Social Environment 0.361** 0.136 1.099 1.435 1.875
+Protected area 0.871* 0.389 1.115 2.388 5.117
+Urban area 0.068 0.333 .557 1.071 2.057
+Age 0.176 0.122 .938 1.192 1.514
+Income 0.888* 0.360 1.201 2.430 4.920
+Constant /C0 2.295*** 1.339 .101
+Note: Nagelkerke R2 = .40.
+* p-Value < 05.
+** p-Value < 01.
+*** p-Value < 001.
+Table 5
+The complete model which predicts ﬂood-adapted  building use (n = 452).
+Explanatory variable Coefﬁcient  (B) Standard error (SE) 95% conﬁdence  intervals for the Odds ratio
+Lower Odds ratio Upper
+Perceived probability .241* .114 1.017 1.273 1.592
+Perceived consequence /C0 .027 .101 .798 .974 1.188
+Flood experience .587* .269 1.062 1.798 3.045
+Response efﬁcacy  .409** .137 1.151 1.506 1.970
+Self-efﬁcacy  .093 .141 .832 1.097 1.446
+Avoidance /C0 .102 .096 .749 .903 1.090
+Wishful thinking /C0 .157 .100 .703 .855 1.039
+Postponement /C0 .264** .090 .644 .768 .917
+Social Environment .410*** .093 1.255 1.507 1.809
+Protected area .175 .259 .717 1.191 1.977
+Urban area .248 .223 .828 1.282 1.983
+Age .035 .086 .874 1.035 1.226
+Constant /C0 3.319*** 1.033 .036
+Note: Nagelkerke R2 = .29.
+* p-Value < 05.
+** p-Value < .01.
+*** p-value < 001.
+Table 6
+The complete model of the factors which inﬂuence  the deployment of ﬂood  barriers (n = 437).
+Explanatory variable Coefﬁcient  (B) Standard error (SE) 95% conﬁdence  intervals for the Odds ratio
+Lower Odds ratio Upper
+Perceived probability .012 .150 .755 1.013 1.359
+Perceived consequence .361** .133 1.105 1.434 1.863
+Flood experience .508 .355 .828 1.661 3.332
+Response efﬁcacy  .592*** .167 1.302 1.808 2.510
+Self-efﬁcacy  .322* .141 1.046 1.379 1.819
+Avoidance /C0 .019 .128 .764 .982 1.261
+Wishful thinking /C0 .084 .137 .703 .919 1.201
+Postponement /C0 .371** .122 .543 .690 .877
+Social Environment .634*** .138 1.439 1.885 2.470
+Protected area .397 .347 .754 1.487 2.934
+Urban area .375 .293 .820 1.455 2.584
+Age .306* .129 1.055 1.359 1.749
+Constant /C0 8.432*** 1.389 .000
+Note: Nagelkerke R2 = .39.
+* p-Value < 05.
+** p-Value < .01.
+*** p-Value < .001.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–1338 1333
+
+[[PAGE 8]]
+percent criterion of statistical signiﬁcance,  we ﬁnd  that, in terms of
+coping appraisal, only self-efﬁcacy  signiﬁcantly  contributes to the
+model. In addition, also the two maladaptive coping responses
+‘wishful  thinking’  and ‘postponement’,  as well as the ‘social
+environment’,  ‘living  in a protected area’,  and ‘income’  signiﬁcantly
+inﬂuence  the implementation of a structural ﬂood  mitigation
+measure. While ﬂood  experience is found to be marginally
+signiﬁcant  in the best-ﬁtting  model (Table 3), it no longer
+signiﬁcantly  contributes to the complete model (Table 4).
+The odds ratios of the signiﬁcant  predictor variables show that the
+coping-appraisal variable ‘self-efﬁcacy’  has a considerable positive
+effect. For each 1-point increase on the self-efﬁcacy  scale, the odds (or
+likelihood) that a homeowner implements a structural measure are
+1.44 (rounded) times higher, ceteris paribus This shows that the
+homeowner’s trust in the own capability to actually implement a
+structural measure has an important inﬂuence  on the precautionary
+behaviour of the respondents. While the two maladaptive coping
+responses ‘wishful  thinking’  and ‘postponement’  are found to have a
+negative inﬂuence,  the social environment, living in a protected area,
+and especially income increases the odds of an owner having
+implemented a structural measure. With every 1-point increase on
+the postponement and wishful thinking scale, the odds that a
+homeowner implements a structural measure are reduced by
+approximately 30 and 45 percent, respectively. These results show
+that respondents who are, in principle, in favour of implementing a
+structural measure will postpone the activity to the (distant) future,
+which leads to lower protection levels at present. Moreover, the
+negative inﬂuence  of the wishful thinking variable shows that an
+unrealistic belief in the safety of public ﬂood  protection acts as a
+hindrance to precautionary behaviour. Respondents appear to ignore
+that fact that a residual risk of ﬂooding  always remains, even in areas
+where ﬂood  defences are in place or have been improved in the
+aftermath of a ﬂood  event.
+A factor with a strong positive inﬂuence  is income. Belonging to
+the two highest income classes, and having an income higher than
+s4500, increases the odds of having implemented a structural
+measure by a factor of 2.43, compared with respondents belonging
+to lower income classes. This shows that, when it comes to the
+implementation and stimulation of rather expensive structural
+ﬂood  mitigation measures, the availability of sufﬁcient  ﬁnancial
+resources is an important aspect for respondents to consider.
+Moreover, the results show that the example of neighbours and
+friends who have implemented a ﬂood  mitigation measure
+considerably inﬂuences  the precautionary behaviour of the
+respondent.
+A result that seems difﬁcult  to reconcile, at ﬁrst,  is that the odds
+of implementing a structural measure strongly increase for
+respondents who live in a protected area, while it could have
+been expected that especially respondents that live in unprotected
+areas undertake such measures. A likely explanation for this is that
+ﬂood  events often not only lead to precautionary behaviour at the
+household level (Bubeck et al., 2012a), but, at the same time, can
+trigger the construction of new, or the strengthening of existing,
+technical ﬂood  protection by governmental agencies. It can be
+assumed that the latter is especially the case after major ﬂood
+events. For instance, in the aftermath of the severe ﬂoods  along the
+Rhine in 1993 and 1995, which also affected the city of Cologne,
+numerous technical ﬂood  protection measures were implemented
+in and around Cologne (Stadtentwa¨ sserungsbetriebe Ko¨ ln, 2012).
+Therefore, it is possible that there is an overlap of ﬂood  mitigation
+measures at the household level and the development of technical
+ﬂood  protection in ﬂood-prone  areas, depending on the timing of
+these activities. This reasoning is supported by our data: 54 percent
+of the respondents with ﬂood  experience stated that technical
+ﬂood  protection in the area they live in was improved after a ﬂood
+event.
+4.2. Adapted building use
+Table 5 reports the results of the logistic regression analysis for
+adapted building use, which explains 29 percent of the variance in
+mitigation behaviour, a percentage that represents a good level of
+explanatory power in psychological research. Using the same
+criterion of statistical signiﬁcance  (p-value < .05), response
+efﬁcacy  contributes signiﬁcantly  to the complete model. Moreover,
+the perceived probability, ﬂood  experience, postponement and the
+social environment signiﬁcantly  inﬂuence  the deployment of
+ﬂood-adapted  building use.
+As indicated by a comparison of the odds ratios of the signiﬁcant
+variables, response efﬁcacy  has a rather strong inﬂuence  on the
+implementation of this type of ﬂood  mitigation measure. The belief
+that ﬂood-adapted  building use can effectively prevent or reduce
+damage in the event of a ﬂood  has an important inﬂuence  on
+precautionary behaviour. With every 1-point increase on the
+response efﬁcacy  scale, the odds of deploying ﬂood-adapted
+building use increase by a factor of 1.5. An almost equally strong
+effect can be observed for the social environment variable. It shows
+that examples of neighbours and friends who implemented a
+mitigation measure have a positive inﬂuence  on the precautionary
+behaviour of the respondents. An even stronger positive inﬂuence
+Table 7
+The complete model of the factors which inﬂuence  the purchase of ﬂood  insurance (n = 397).
+Explanatory variable Coefﬁcient  (B) Standard error (SE) 95% conﬁdence  intervals for the Odds ratio
+Lower Odds ratio Upper
+Perceived probability /C0 .093 .155 .672 .911 1.234
+Perceived consequence /C0 .144 .132 .668 .866 1.122
+Flood experience /C0 .738* .356 .238 .478 .960
+Response efﬁcacy  .716*** .146 1.537 2.046 2.724
+Self-efﬁcacy  .715*** .147 1.531 2.043 2.727
+Avoidance /C0 .377** .140 .522 .686 .902
+Wishful thinking /C0 .005 .132 .768 .995 1.288
+Postponement /C0 .022 .122 .771 .978 1.242
+Social Environment .309* .121 1.073 1.361 1.727
+Protected area .923** .327 1.328 2.518 4.775
+Urban area /C0 1.006** .297 .204 .366 .655
+Age /C0 .058 .107 .765 .944 1.165
+Constant /C0 3.693** 1.200 .025
+Note: Nagelkerke R2 = .50.
+* p-Value < 05.
+** p-Value < .01.
+*** p-Value < .001.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381334
+
+[[PAGE 9]]
+is associated with ﬂood  experience. The odds that a respondent
+who experienced a ﬂood  in the past uses his or her house in a ﬂood-
+adapted way are 1.7 times higher compared with those without
+direct experience. Even though the perceived probability makes a
+signiﬁcant  contribution to the model, its effect on ﬂood-adapted
+building use is rather small compared with the other signiﬁcant
+variables. A negative inﬂuence  on this type of ﬂood  mitigation
+measure is found for the maladaptive coping response postpone-
+ment. This shows that respondents, who generally approve the
+adapted use of their building, will postpone the activity to the
+(distant) future.
+4.3. Deployment of ﬂood barriers
+The results of the logistic regression analysis for the deploy-
+ment of ﬂood  barriers are presented in Table 6. The complete
+model explains 39 percent of the variance in implementing this
+type of mitigation measure. Out of the three coping-appraisal
+components, both response efﬁcacy  and self-efﬁcacy  make a
+signiﬁcant  contribution to the model. In addition, the perceived
+consequences, postponement, the social environment, and age
+signiﬁcantly  contribute to the complete model.
+A comparison of the odds ratios of the signiﬁcant  variables
+shows that both coping-appraisal variables have a rather strong
+inﬂuence  on deploying ﬂood  barriers. With every 1-point increase
+on the response efﬁcacy  and self-efﬁcacy  scale, ceteris paribus, the
+odds of a respondent deploying ﬂood  barriers increase by a factor
+of 1.66 and 1.81, respectively. This shows that the respondent’s
+belief in the effectiveness of ﬂood  barriers and the trust in their
+own capability to actually implement this type of measure have an
+important inﬂuence  on their precautionary behaviour. Although
+signiﬁcant,  the perception of ﬂood  consequences has a slightly
+weaker effect on deploying ﬂood  barriers. The odds that a
+respondent uses ﬂood  barriers increase by a factor of 1.43 with
+every 1-point increase on the perceived consequence scale. With
+an odds ratio of 1.88, the social environment shows a compara-
+tively strong effect. A negative effect is estimated for the
+maladaptive coping response postponement, which shows that
+respondents, who, in principle, consider ﬂood  barriers as useful,
+will postpone the activity to the (distant) future, which leads to
+lower protection levels at present.
+4.4. Purchase of ﬂood insurance
+Table 7 presents the results of the binary logistic regression
+analysis of the factors that inﬂuence  the purchase of ﬂood
+insurance by the respondents. The complete model explains 50
+percent of the variance in insurance purchases, which represents a
+very good level of explanatory power. Two components of ﬂood
+coping appraisal: namely, response efﬁcacy  and self-efﬁcacy,  make
+signiﬁcant  contributions to the model. Moreover, ﬂood  experience,
+the maladaptive coping response avoidance, the social environ-
+ment, living in a protected area and living in an urban area
+signiﬁcantly  contributes to the complete model for ﬂood  insurance
+purchases.
+Odds ratios of 2.05 and 2.04 for response efﬁcacy  and self-
+efﬁcacy  indicate a rather strong inﬂuence  of these two coping-
+appraisal variables, compared with the other signiﬁcant  explana-
+tory variables. It is shown that the respondents’  estimate of the
+effectiveness of ﬂood  insurance to cope with potential ﬂood
+damage and their ability to obtain an insurance policy play a large
+role in the decision to purchase ﬂood  insurance.
+Two results that seem surprising, at ﬁrst,  are the negative
+inﬂuence  of ﬂood  experience and the positive inﬂuence  of living in
+a protected area on the purchase of ﬂood  insurance. The likelihood
+that a person has purchased ﬂood  insurance is about 53 percent
+lower for respondents with ﬂood  experience. Moreover, the odds of
+having ﬂood  insurance increase by a factor of 2.5 for respondents
+who live in an area that is protected by technical ﬂood  defences. In
+both cases, the opposite direction of the effect would have been
+expected: that the demand for insurance increases with ﬂood
+experience and that it decreases for households in areas protected
+through ﬂood  defences, such as dykes. However, both results can
+be explained by the set-up of the German insurance system
+(Thieken et al., 2006). In high-risk areas, where a ﬂood  statistically
+occurs once in ten years, it is generally impossible to obtain
+insurance. Moreover, at those locations where ﬂoods  have
+occurred, insurance companies often decline to provide or renew
+insurance contracts. Moreover, premiums in Germany are risk-
+based, and can thus be very expensive in high-risk areas. That the
+denial of insurance cover and the high premiums in risk-prone
+areas are the reason for the negative inﬂuence  of ﬂood  experience
+on insurance purchase is also well supported by our data. As
+additional information, respondents who did not possess ﬂood
+insurance were asked for the reasons why they did not buy ﬂood
+insurance. Several different answer options were presented to
+respondents in a randomized order with answer categories ranging
+from ‘insurance  is too expensive’,  ‘I  consider ﬂood  insurance as
+unnecessary’  or ‘I  do not believe that the insurance company really
+pays out claims’  to ‘I  was denied insurance cover’.  Multiple
+answers were possible. 29 percent of the respondents reported
+that insurance cover was denied or not offered to them owing their
+high ﬂood  risk, and 59 percent of the respondents stated that
+insurance was too expensive for them. These ﬁgures  explain the
+negative inﬂuence  of ﬂood  experience on the purchase of
+insurance, and why more people in protected areas possess a
+ﬂood  insurance compared with those in unprotected areas. Similar
+results were also reported by Kreibich et al. (2011b), who report
+that insurance cover among households along the Elbe decreased
+in the aftermath of the extreme ﬂood  in 2002.
+In addition to mitigating the ﬁnancial  consequences for
+households once ﬂood  damage occurs, insurances contracts could
+potentially also be used to stimulate precautionary behaviour, for
+instance, by providing premium reductions for households that
+had implemented appropriate measures (Aerts and Botzen, 2011).
+Our data clearly show that this potential is currently vastly
+unexploited. Out of the insured households, only 3.3 percent were
+encouraged by their insurance company to implement a mitigation
+measure. Only 1.6 percent received information on how to ﬂood-
+proof their house, and only 3 respondents (0.4 percent) were
+offered a premium reduction as a reward for undertaking actions.
+4.5. Comparison
+A comparison of the four types of ﬂood  mitigation behaviour on
+the basis of Table 3 and the four complete models (Tables 4–7 )
+reveals several interesting insights.
+In terms of the different components of ﬂood-coping  appraisals,
+the comparison shows that both response efﬁcacy  and self-efﬁcacy
+make a highly signiﬁcant  contribution to three of the four models
+which explain ﬂood  mitigation behaviour. These results are in line
+with the other studies (Grothmann and Reusswig, 2006; Zaalberg
+et al., 2009), and conﬁrm  that ﬂood-coping  appraisal is an
+important factor in explaining the precautionary behaviour of
+ﬂood-prone  residents. While response efﬁcacy  contributes to the
+model which explains adapted use, ﬂood  barriers, and insurance,
+self-efﬁcacy  does so for structural measures, ﬂood  barriers, and
+insurance. The ﬁnding  that self-efﬁcacy  is found to be insigniﬁcant
+only for the model which explains adapted building use might be
+explained by the fact that it is relatively easy to carry out this type
+of measure. To avoid having expensive items on ﬂood-prone
+storeys is simple compared with structural changes to the building,
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–1338 1335
+
+[[PAGE 10]]
+the timely deployment of ﬂood  barriers, or the purchase of ﬂood
+insurance. Regarding the latter, it should be kept in mind that
+many respondents face difﬁculties  with purchasing ﬂood  insur-
+ance because they live in a high-risk area. In these areas, insurance
+is either not offered, or, premiums are very high. Response cost did
+not make a signiﬁcant  contribution to any of the four models. This
+indicates that the time and emotional investments and, except for
+structural measures, also ﬁnancial  considerations do not inﬂuence
+ﬂood  mitigation behaviour.
+The comparison also reveals that ﬂood  experience is an
+important factor in inﬂuencing  different types of precautionary
+behaviour and contributes to three best ﬁtting  models and two
+complete models. This is in line with the literature, which shows
+that experience with (ﬂood)  hazards has a powerful impact on the
+recognition of a risk and consequently (ﬂood)  mitigation behaviour
+(Weinstein, 1989; Bubeck et al., 2012a). On account of the set-up of
+the German insurance system (Thieken et al., 2006), ﬂood
+experience has a strong negative effect on the purchase of ﬂood
+insurance. That ﬂood  experience is found to be insigniﬁcant  for one
+best ﬁtting  model and two complete models could be explained by
+the fact that the relationship between experience and precaution-
+ary behaviour is mediated by threat and coping appraisals, as
+discussed by Zaalberg et al. (2009).
+Moreover, Table 3 and the four complete models reveal that
+maladaptive coping responses such as avoidance, wishful thinking,
+and postponement are found to be important inﬂuencing  factors in
+responses to ﬂood  risk. Similar results are also reported by other
+studies (Grothmann and Reusswig, 2006; Siegrist and Gutscher,
+2008). Siegrist and Gutscher (2008), for example, ﬁnd  that
+hopelessness of the respondents, expressed by the opinion that
+there is nothing that can be done against ﬂood  damage, plays an
+important role in explaining why people with ﬂood  experience did
+not undertake a preventive measure. In our study, especially the
+variable postponement proves to contribute signiﬁcantly  to three
+of the four models with a large effect. Even though respondents
+principally consider ﬂood  mitigation as useful, they postpone the
+activity to the (distant) future. This exempliﬁes  that it is not the
+lack of awareness but inactivity that leads to increased vulnera-
+bility of ﬂood-prone  residents. As outlined in Section 2 and in
+accordance with PMT, a non-protective response such as
+postponement can be expected when threat appraisals of a
+respondent are high and ﬂood-coping  appraisals are low (or vice
+versa).
+In addition, we ﬁnd  that the socio-economic characteristics of
+the respondents rarely make a signiﬁcant  contribution to
+explaining ﬂood  mitigation behaviour. This is in line with earlier
+studies that also come to the conclusion that socio-economic
+characteristics are rather poor predictors of ﬂood  precautionary
+behaviour (Grothmann and Reusswig, 2006; Zaalberg et al., 2009;
+Bubeck et al., 2012a). For instance, the level of income of the
+respondents only contributes to the model which explains the
+implementation of structural measures, while gender and the
+educational level of the respondents do not relate to any of the
+models. The fact that the level of income has a signiﬁcant  and large
+inﬂuence  in terms of structural measures can be explained by the
+substantial ﬁnancial  costs associated with such measures. For
+example, to construct a 65 m2 waterproof cellar involves
+additional costs of about s18,500 to s21,000 compared with a
+‘normal’  cellar, depending on the material used (Kreibich et al.,
+2011a).
+We also ﬁnd  that risk perceptions rarely relate signiﬁcantly  to
+improved ﬂood  mitigation behaviour. While the perceived
+probability only relates signiﬁcantly  to adapted building use, the
+perceived consequence contributes signiﬁcantly  to the model
+which explains the use of ﬂood  barriers. That the perceived
+consequences inﬂuence  the deployment of ﬂood  barriers might be
+explained by the effect of this speciﬁc  measure. If applied
+successfully, ﬂood  barriers have the potential to entirely prevent
+damage by keeping the water out. This might explain why it is
+especially those respondents who associate severe consequence
+with a potential ﬂood  event who choose this type of measure.
+Although it is signiﬁcant  in two cases, the size of the effect is rather
+small for both risk perception items compared with other
+signiﬁcant  variables. These ﬁndings  are in line with other studies
+that ﬁnd  that risk perceptions are rather weak predictors of ﬂood
+mitigation behaviour (Miceli et al., 2008; Bubeck et al., 2012a;
+Wachinger et al., 2012). Amongst other things, it has been
+suggested in the literature that a reason for this is a neglected
+feedback from already-adopted mitigation measures on precau-
+tionary behaviour (Weinstein et al., 1998). It can be expected that
+the adoption of a ﬂood  mitigation measure leads to a lower risk
+perception, which explains why the relation between risk
+perceptions and precautionary behaviour can no longer be
+detected in cross-sectional studies (Bubeck et al., 2012a; Bubeck
+and Botzen, 2013; Siegrist, 2013). This reasoning is also supported
+by our data: of those respondents who implemented a ﬂood
+mitigation measure, 54 percent expect that the occurrence of a
+ﬂood  at their house has become less likely, and 82.5 percent expect
+that potential ﬂood  damage is reduced due to the implemented
+measures.
+The only variable that is signiﬁcant  and has a large effect in all
+four models is the social environment variable. It shows that the
+behaviour and example of neighbours and friends importantly
+inﬂuences  individuals’  decision to protect themselves. That human
+behaviour is strongly inﬂuenced  by the behaviour of one’s  peers is
+a well-known and well-studied phenomenon. In his group
+experiments, Asch (1955), for instance, showed that almost 40
+percent of the participants copy the behaviour of others, even if
+this implies doing an obviously wrong action. Also in the context of
+ﬂood  mitigation behaviour, it has been discussed that the norms of
+the social environment stimulate individuals’  ﬂood  mitigation
+behaviour. If the majority of homeowners in the neighbourhood
+implemented a ﬂood  mitigation measure, it is likely that other
+individuals also want to follow suit (Kunreuther and Erwann,
+2009). Moreover, it has been argued that the decisions of
+neighbours can provide important information value for someone
+who is considering investing in a ﬂood-proof  house (Kunreuther
+et al., 2007). The cost-effectiveness of such an up-front investment
+is often difﬁcult  to assess due to uncertainties about the damage-
+reducing effect of that measure, as well as the probability of a ﬂood
+occurring. In such a situation, the observation that the majority of
+the neighbours have implemented a certain ﬂood  mitigation
+measure (or not), can be regarded as a good indication that the
+respective measure is cost-effective (or not).
+5. Conclusion
+In this study, we have presented survey data of 752 ﬂood-prone
+households along the river Rhine with the objective of examining
+the inﬂuence  of different components of ﬂood-coping  appraisal
+and other factors on precautionary behaviour. Making a signiﬁcant
+contribution to four different models which explain four types
+ﬂood-mitigation  behaviour, our ﬁndings  conﬁrm  that ﬂood-coping
+appraisal is an important variable of inﬂuence  on precautionary
+behaviour.
+The main focus of the current study was on gaining further
+insights into the individual inﬂuence  of the three components of
+ﬂood-coping  appraisal on ﬂood  mitigation behaviour: namely,
+response efﬁcacy,  self-efﬁcacy,  and response cost. Such detailed
+insights into ﬂood-coping  appraisals were, to date, mostly lacking
+in the literature, but provide important information for the
+development of risk communication strategies. They indicate:
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381336
+
+[[PAGE 11]]
+whether risk communication should emphasize the effectiveness
+of ﬂood  mitigation measures; whether it should provide practical
+guidelines concerning how such measures can be implemented; or,
+whether the cost of the latter needs to be addressed. Effective risk
+communication is needed to increase the preparedness of the
+population facing ﬂood  risk in order to successfully manage the
+transition from traditional ﬂood  control approaches to integrated
+ﬂood-risk  management in Europe and worldwide. The results of
+the present study indicate that both self-efﬁcacy  and response
+efﬁcacy  considerably inﬂuence  ﬂood  mitigation behaviour. On the
+basis of these results, it can be concluded that policies to stimulate
+precautionary behaviour should emphasize that ﬂood  mitigation
+measures at the household level can effectively prevent or reduce
+ﬂood  damage. Moreover, practical advice should be provided on
+how to deploy such measures. In this respect, the approach
+adopted in Switzerland seems to be an interesting example, where
+state insurers provide individual and building-speciﬁc  advice for
+households on how to ﬂood-proof  their building (Egli, 1999; Von
+Ungern-Sternberg, 2004).
+Response costs, and thus the time, emotional and ﬁnancial
+investment associated with implementing ﬂood  mitigation mea-
+sures, were found to be mostly insigniﬁcant.  An exception to this is
+the ﬁnancial  costs of implementing structural mitigation mea-
+sures. Moreover, owing to the high costs associated with this type
+of measure, the level of income importantly inﬂuences  home-
+owners’  decisions to invest in structural ﬂood  mitigation measures.
+This needs to be taken into account when structural measures are
+to be stimulated among the broader population. If this is aimed for,
+ﬁnancial  support for people with lower incomes seems to be a
+necessary condition for achieving widespread implementation.
+It seems especially important to include information on the
+effectiveness of ﬂood  mitigation measures, and to provide practical
+advice in terms of the implementation of these measures, against
+the background of PMT. According to PMT, a high-risk perception
+following, for example, from risk communication can lead to either
+protective or non-protective responses. In order to lead to the
+desired protective behaviour, high-risk perceptions need to be
+accompanied by positive ﬂood-coping  appraisals. Otherwise, high-
+risk perceptions might even lead to non-protective behaviour such
+as avoidance and wishful thinking, and, thus, to a high vulnerabili-
+ty of the population at risk. This is conﬁrmed  by our results that
+reveal a large negative inﬂuence  of non-protective responses on all
+types of ﬂood  mitigation behaviour.
+The observation that the postponement variable signiﬁcantly
+contributes to three of the four models shows that ﬂood  mitigation
+measures are often appraised positively, but are postponed as long
+as they are not considered as absolutely necessary by the
+respondents. This generally positive attitude towards precaution-
+ary behaviour leaves room for alternative policies that overcome
+this passiveness in order to increase the preparedness of people of
+risk. A possible way forward could be to use alternative policies to
+stimulate ﬂood  mitigation behaviour. Insurance, for instance,
+could provide incentives for households that implement appro-
+priate measures, by providing premium reductions, or by
+providing practical advice in terms of their implementation
+(self-efﬁcacy).  Our results show that this potential is currently
+unexploited by German insurers. Another approach to overcome
+the reduced preparedness of ﬂood-prone  households caused by the
+phenomenon of postponement would be to integrate more
+stringent requirements in existing building codes, and to enforce
+these more strictly.
+Acknowledgements
+The authors would like to thank Mr. Adrian Schmid-Breton from
+the International Commission for the Protection of the Rhine for his
+help in identifying ﬂood-prone  areas along the Rhine. This research
+was carried out in the framework of the Dutch National Research
+Programme ‘Knowledge  for Climate’  (HSGR02: Assessment of
+upstream ﬂood  risk in the Rhine Basin/Climate Proof Flood Risk
+Management) and has been co-funded by The Netherlands
+Organisation for Scientiﬁc  Research (NWO). The valuable com-
+ments by two anonymous referees are greatly acknowledged.
+References
+Aerts, J.C.J.H., Botzen, W.J.W., 2011. Climate change impacts on pricing long-term
+ﬂood  insurance: a comprehensive study for the Netherlands. Global Environ-
+mental Change – Human and Policy Dimensions 21, 1045–1060,  10.1016/
+j.gloenvcha.2011.04.005.
+Aerts, J.C.J.H., Botzen, W.J.W., van der Veen, A., Krywkow, J., Werners, S., 2008.
+Dealing with uncertainty in ﬂood  management through diversiﬁcation.  Ecology
+and Society 13 (1) 41.
+Asch, S.E., 1955. Opinions and social pressure. Scientiﬁc  American 193, 31–35.
+BFG, 1995. Hochwasser an Rhein und Mosel - Januar/Februar 1995; Luftbilderfas-
+sung durch das Aufkla¨ rungsgeschwader 51 der Bundeswehr in Jagel. (Schles-
+wig-Holstein)Bundesanstalt fu¨ r Gewa¨ sserkunde, Koblenz.
+Botzen, W.J.W., van den Bergh, J.C.J.M., 2012. Monetary valuation of insurance
+against ﬂood  risk under climate change. International Economic Review 53 (3)
+1005–1025.
+Botzen, W.J.W., Aerts, J.C.J.H., van den Bergh, J.C.J.M., 2009. Willingness of home-
+owners to mitigate climate risk through insurance. Ecological Economics 68,
+2265–2277.
+Bubeck, P., Botzen, W.J.W., 2013. Response to the necessity for longitudinal studies
+in risk perception research. Risk Analysis 33 (5) 760–762.
+Bubeck, P., Botzen, W.J.W., Aerts, J.C.J.H., 2012a. A review of risk perceptions and
+other factors that inﬂuence  ﬂood  mitigation behaviour. Risk Analysis 32 (9)
+1481–1495.
+Bubeck, P., Botzen, W.J.W., Kreibich, H., Aerts, J.C.J.H., 2012b. Long-term develop-
+ment and effectiveness of private ﬂood  mitigation measures: an analysis for the
+German part of the river Rhine. Natural Hazards and Earth System Sciences 12,
+3507–3518.
+Bu¨ chele, B., Kreibich, H., Kron, A., Thieken, A., Ihringer, J., Oberle, P., Merz, B.,
+Nestmann, F., 2006. Flood-risk mapping: contributions towards an enhanced
+assessment of extreme events and associated risks. Natural Hazards and Earth
+System Sciences 6, 485–503.
+Dawson, R.J., Ball, T., Werritty, J., Werritty, A., Hall, J.W., Roche, N., 2011. Assessing
+the effectiveness of non-structural ﬂood  management measures in the Thames
+estuary under conditions of socio-economic and environmental change. Global
+Environmental Change –  Human and Policy Dimensions 21, 628–646,  10.1016/
+j.gloenvcha.2011.01.013.
+De Moel, H., van Alphen, J., Aerts, J.C.J.H., 2009. Flood maps in Europe –  methods,
+availability and use. Natural Hazards and Earth System Sciences 9, 289–301.
+De Moel, H., Aerts, J.C.J.H., Koomen, E., 2011. Development of ﬂood  exposure in the
+Netherlands during the 20th and 21st century. Global Environmental Change –
+Human and Policy Dimensions 21 (2) 620–627.
+Egli, T., 1999. Richtlinie Objektschutz gegen Naturgefahren. In: Geba¨udeversicher-
+ungsanstalt des Kantons St. Gallen. (in German).
+European Union, 2007. Directive 2007/60/ec of the European Parliament and of the
+Council of 23 October 2007 on the assessment and management of ﬂood  risks..
+Festinger, L., 1957. A Theory of Cognitive Dissonance. Stanford University Press,
+Stanford.
+Few, R., 2003. Flooding, vulnerability and coping strategies: local responses to a
+global threat. Progress in Development Studies 3, 43–58.
+Field, A., 2009. Discovering statistics using SPSS, 3rd edition. Sage Publications,
+London.
+Floyd, D.L., Prentice-Dunn, S., Rogers, R.W., 2000. A meta-analysis of research on
+protection motivation theory. Journal of Applied Social Psychology 30,
+407–429.
+Grothmann, T., Reusswig, F., 2006. People at risk of ﬂooding:  why some residents
+take precautionary action while others do not. Natural Hazards 38, 101–120,
+10.1007/s11069-005-8604-6.
+Holub, M., Fuchs, S., 2008. Beneﬁts  of local structural protection to mitigate torrent-
+related hazards. In: Brebbia, C., Beriatos, E. (Eds.), Risk Analysis VI, vol. 39. WIT-
+Press/WIT Transactions on Information and Communication Technologies,
+Southampton, pp. 401–411.
+Holub, M., Suda, J., Fuchs, S., 2012. Mountain hazards: reducing vulnerability by
+adapted building design. Environmental Earth Sciences 66, 1853–1870.
+ICPR, 2001. Atlas of Flood Danger and Potential Damage Due to Extreme Floods of
+the Rhine. International Commission for the Protection of the Rhine, Koblenz.
+ICPR, 2002. Non-structural ﬂood  plain management. Measures and their effective-
+ness. International Commission for the Protection of the Rhine, Koblenz.
+ICPR, 2006. Nachweis der Wirksamkeit von Massnahmen zur Minderung der
+Hochwasserstaende im Rhein infolge der Umsetzung des Aktionsplans Hoch-
+wasser bis 2005. Koblenz.
+ICPR, 2007. Communique´ of the 14th conference of Rhine ministers, Bonn (18. 10.
+07) International Commission for the Protection of the Rhine, Koblenz.
+Kellens, W., Terpstra, T., De Maeyer, P., 2013. Perception and communication of
+ﬂood  risks: a systematic review of empirical research. Risk Analysis 33, 24–49.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–1338 1337
+
+[[PAGE 12]]
+Koerth, J., Vafeidis, A., Hinkel, J., Sterr, H., 2013. What motivates coastal households
+to adapt pro-actively to sea-level rise and increasing ﬂood  risk? Regional
+Environmental Change 1–13 , http://dx.doi.org/10.1007/s10113-012-0399-x.
+Kreibich, H., Thieken, A.H., Petrow, T., Muller, M., Merz, B., 2005. Flood loss
+reduction of private households due to building precautionary measures –
+lessons learned from the Elbe ﬂood  in August 2002. Natural Hazards and Earth
+System Sciences 5, 117–126.
+Kreibich, H., Christenberger, S., Schwarze, R., 2011a. Economic motivation of house-
+holds to undertake private precautionary measures against ﬂoods.  Natural
+Hazards and Earth System Sciences 11, 309–321,  10.5194/nhess-11-309-2011.
+Kreibich, H., Seifert, I., Thieken, A.H., Lindquist, E., Wagner, K., Merz, B., 2011b. Recent
+changes in ﬂood  preparedness of private households and businesses in Germany.
+Regional Environmental Change 11, 59–71,  10.1007/s10113-010-0119-3.
+Kron, W., Thumerer, T., 2002. Water-related disasters: Loss trends and possible
+countermeasures from a (re-) insurers point of view..
+Kunreuther, H.C., Erwann, M.K., 2009. At War With the Weather: Managing Large-
+Scale Risks in a New Era of Catastrophes. The MIT Press, Cambridge, MA.
+Kunreuther, H., Meyer, R., Michel-Kerjan, E., 2007. Strategies for Better Protection
+Against Catastrophic Risks, The Wharton School. University of Pennsylvania,
+Philadephia.
+Linde, T.E., Bubeck, A.H., Dekkers, P., de Moel, J.E.C., Aerts, J.C.J.H., 2011. Future ﬂood
+risk estimates along the river Rhine. Natural Hazards and Earth System Sciences
+(NHESS) 11 (2) 459–473.
+Maddux, J.E., Rogers, R.W., 1983. Protection motivation and self-efﬁcacy  –  a revised
+theory of fear appeals and attitude-change. Journal of Experimental Social
+Psychology 19, 469–479.
+Meyer, V., Kuhlicke, C., Luther, J., Fuchs, S., Priest, S., Dorner, W., Serrhini, K., Pardoe,
+J., McCarthy, S., Seidel, J., Palka, G., Unnerstall, H., Viavattene, C., Scheuer, S.,
+2012. Recommendations for the user-speciﬁc  enhancement of ﬂood  maps.
+Natural Hazards and Earth System Sciences 12, 1701–1716.
+Miceli, R., Sotgiu, I., Settanni, M., 2008. Disaster preparedness and perception of
+ﬂood  risk: a study in an Alpine valley in Italy. Journal of Environmental
+Psychology 28, 164–173.
+Milne, S., Sheeran, P., Orbell, S., 2000. Prediction and intervention in health-related
+behavior: a meta-analytic review of Protection Motivation Theory. Journal of
+Applied Social Psychology 30, 106–143.
+Mulilis, J.P., Lippa, R., 1990. Behavioral-change in earthquake preparedness due to
+negative threat appeals – a test of Protection Motivation Theory. Journal of
+Applied Social Psychology 20, 619–638.
+Norman, P., Boer, H., Seydel, E., 2005. Protection motivation theory. In: Predicting
+Health Behaviour: Research and Practice with Social Cognition Models. Open
+University Press, Maidenhead, pp. 81–126.
+Rogers, R.W., 1975. A Protection Motivation Theory of fear appeals and attitude
+change. The Journal of Psychology 91, 93–114.
+Rogers,  R.W., 1983. Cognitive  and physiological  processes  in fear appeals  and
+attitude  change:  a revised  theory  of protection  motivation.  In: Cacioppo,
+B.L., Petty,  R.E. (Eds.),  Social  Psychophysiology:  A Sourcebook.  The Guil-
+ford Press,  London.
+Rogers, R.W., Prentice-Dunn, S., 1997. Protection Motivation Theory. In: Gochman,
+D.S. (Ed.), Handbook of Health Behaviour Research. I. Personal and Social
+Determinants. Plenum Press, New York, pp. 113–132.
+Siegrist, M., 2013. The necessity for longitudinal studies in risk perception research.
+Risk Analysis 33, 50–51.
+Siegrist, M., Gutscher, H., 2006. Flooding risks: a comparison of lay people’s
+perceptions and expert’s  assessments in Switzerland. Risk Analysis 26,
+971–979.
+Siegrist, M., Gutscher, H., 2008. Natural hazards and motivation for mitigation
+behavior: people cannot predict the affect evoked by a severe ﬂood.  Risk
+Analysis 28, 771–778.
+Stadtentwa¨sserungsbetriebe Ko¨ ln, . Baulicher Hochwasserschutz –  Mit Sicherheit
+fu¨ r Ko¨ ln. (accessed 6.5.2013), (in German)http://www.steb-koeln.de/bauli-
+cherhochwasserschutzzentral.html.
+Statistisches Bundesamt, 2011. Auszug aus dem Datenreport 2011, Private Haush-
+alte –  Einkommen, Ausgaben, Ausstattung. Kapitel 6. .
+Statistisches Bundesamt, . Facts and Figures on Population in Germany. (accessed
+6.5.2013)https://www.destatis.de/EN/FactsFigures/SocietyState/Population/
+CurrentPopulation/Tables/PopulationBysexCitizenship.html.
+Takao, K., Motoyoshi, T., Sato, T., Fukuzono, T., 2004. Factors determining residents’
+preparedness for ﬂoods  in modern megalopolises: the case of the Tokai ﬂood
+disaster in Japan. Journal of Risk Research 7, 775–787.
+Terpstra, T., 2011. Emotions, trust, and perceived risk: affective and cognitive routes
+to ﬂood  preparedness behavior. Risk Analysis, no-no, 10.1111/j.1539-
+6924.2011.01616.x.
+Thieken, A.H., Petrow, T., Kreibich,  H., Merz, B., 2006. Insurability  and mitigation
+of ﬂood  losses in private households  in Germany. Risk Analysis 26,
+383–395.
+Von Ungern-Sternberg, T., 2004. Efﬁcient  monopolies –  The limits of competition in
+the European property insurance market. Oxford University Press, Oxford.
+Wachinger, G., Renn, O., Begg, C., Kuhlicke, C., 2012. The risk perception paradox—
+implications for governance and communication of natural hazards. Risk Anal-
+ysis., http://dx.doi.org/10.1111/j.1539-6924.2012.01942.x.
+Wasserhaushaltsgesetz (2009). Gesetz zur Ordnung des Wasserhaushalts.(Wasser-
+haushaltsgesetz- WHG).
+Weinstein, N.D., 1989. Effects of personal-experience on self-protective behavior.
+Psychological Bulletin 105, 31–50.
+Weinstein, N.D., Rothman, A.J., Nicolich, M., 1998. Use of correlational data to
+examine the effects of risk perceptions on precautionary behaviour. Psychology
+& Health 13 (3) .
+Wiegman, O., Taal, E., Van den Bogaard, J., Gutteling,  J.M., 1992. Protection
+Motivation  Theory variables  as predictors  of behavioral  intentions  in three
+domains of risk management.  In: Winnubst, M.J.A., Maes, S. (Eds.), Lifestyles,
+Stress, and Health: New Developments  in Health Psychology.  DSWO Press,
+Leiden University.
+Zaalberg, R., Midden, C., Meijnders, A., McCalley, T., 2009. Prevention, adaptation,
+and threat denial: ﬂooding  experiences in the Netherlands. Risk Analysis 29,
+1759–1778,  10.1111/j.1539-6924.2009.01316.x.
+P. Bubeck et al. / Global Environmental Change 23 (2013) 1327–13381338

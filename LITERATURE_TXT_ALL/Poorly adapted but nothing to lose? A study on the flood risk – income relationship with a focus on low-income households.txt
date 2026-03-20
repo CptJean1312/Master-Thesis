@@ -1,0 +1,749 @@
+[[PAGE 1]]
+Climate Risk Management 31 (2021) 100268
+Available online 11 January 2021
+2212-0963/© 2020 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+Poorly adapted but nothing to lose? A study on the flood risk – 
+income relationship with a focus on low-income households 
+Daniel Osberghaus 
+ZEW – Leibniz Centre for European Economic Research, L7, 1, 68161 Mannheim, Germany   
+ARTICLE INFO  
+JEL Codes: 
+Q54 
+D14 
+Keywords: 
+Flood risk 
+Income 
+Household level 
+Distributional aspects 
+Germany 
+ABSTRACT  
+Flood risk may differ across income levels. In this paper, I employ unique survey data from more 
+than 8000 households in Germany to derive an integrated flood risk indicator that accounts for 
+local flood exposure, assets-at-risk, housing characteristics, and household coping behavior. The 
+results suggest that low-income households, due to their smaller homes and less valuable assets, 
+face lower monetary flood risks than wealthier households despite the former ’ s limited capacity 
+to implement protection measures and purchase insurance. Relative to the available financial 
+budget, however, expected flood damage weighs higher for low-income households.   
+1. Introduction 
+Amongst natural disasters, hydrological hazards such as flooding are the most devastating in Europe. Since 1980, the average 
+annual economic damage of hydrological events is estimated to be more than 3.6 billion USD ( EM-DAT, n.d. ). Beside the simple 
+magnitude of flood risk, its distribution on households of different income levels is important for assessing the social implications of 
+flooding. Following the “ Terminology on Disaster Risk Reduction “ , developed by the UN Office for Disaster Risk Reduction (UNDRR), 
+flood risk can be described as a function of exposure (i.e. the situation of housing in flood-prone areas), vulnerability (i.e. susceptibility 
+to flood impacts), and coping capacity (i.e. resources to manage and reduce flood risk).
+1 
+While there are different bodies of literature 
+focusing on the components of flood risk and their separate relationships with income, an analysis of the relationship between an 
+integrated indicator of flood risk (combining exposure, vulnerability and coping capacity) and income at the household level is still 
+missing. In this paper, I contribute an empirical analysis of such an indicator and show how integrated flood risk varies with equivalent 
+income in a highly developed country. 
+The analysis of an integrated flood risk indicator is needed because the so-far identified correlations of the risk components and 
+income have ambiguous implications for the overall flood risk – income relationship. Regarding exposure, a diverse literature has 
+developed under the topic of “ environmental justice ” which analyzes whether socio-economic groups differ in their flood exposure. 
+The results show that low-income households may be attracted by lower housing costs in floodplains, but these zones may also come 
+with environmental amenities, hence attracting high-income households ( Collins et al., 2018; Cutter and Emrich, 2006; Maldonado 
+et al., 2016; Montgomery and Chakraborty, 2015 ). Besides the location in flood plains, flood risk exposure is affected by the value of 
+E-mail address: osberghaus@zew.de .   
+1 
+See https://www.undrr.org/terminology . Out of the plethora of possible hazards, this study focusses entirely on the flood hazard. Therefore I 
+omit the component “ hazard ” , notwithstanding the fact that low-income households may face other risk patterns when it comes to other hazards, 
+such as overheating or epidemics. 
+Contents lists available at ScienceDirect 
+Climate Risk Management 
+journal homep age: www.el sevier.com/l ocate/crm 
+https://doi.org/10.1016/j.crm.2020.100268 
+Received 21 July 2020; Received in revised form 15 December 2020; Accepted 20 December 2020   
+
+[[PAGE 2]]
+Climate Risk Management 31 (2021) 100268
+2
+tangible assets of a household (such as home size and value of contents). This suggests that low-income households, given that they live 
+in smaller homes and have less tangible assets, face lower flood risk exposure. Regarding coping capacity, low-income households may 
+lack the financial resources to purchase, implement or maintain coping measures such as structural flood mitigation
+2 
+measures or flood 
+insurance, which ultimately increases their flood risk (Hudson, 2018; Kousky and Kunreuther, 2014). The correlations of the flood risk 
+components with household income therefore have partly opposite implications for the overall flood risk – income correlation. The 
+available empirical literature on the separate risk components does not combine data on exposure, vulnerability, and coping capacity. 
+Consequently, one cannot conclude whether low-income households face relatively high or low overall flood risk. 
+For policymakers, though, it is important to know how the burden of flood risk is distributed amongst socio-economic groups. If the 
+economic burden is relatively high for poor households, flooding may impair the efforts of social policy. In this case, governments 
+could decide to use tax money to compensate affected poor households ex post, or to subsidize flood protection measures or flood 
+insurance ex ante. Indeed, most flood insurance markets in Europe and in the U.S. are affected by some sort of government intervention 
+(Schwarze et al., 2011). In some countries insurance is mandatory (e.g., France and Spain), some governments use tax money to back 
+(re-)insurers financially (e.g., the U.S.) or to maintain a public relief fund (e.g., Austria), and some governments provide extensive 
+relief payments after large flood events on an ad-hoc basis (e.g., Germany and Poland). In any case, it is an open question whether 
+poorer or wealthier households are the main beneficiaries of these policies. Thus, the distribution of flood risk amongst income groups 
+is ultimately relevant for assessing the effects of flood policies on the income distribution. Finally, although flooding has already 
+significant impacts nowadays, its relevance may further increase, as global warming is associated with higher probabilities and se -
+verities of flood events (IPCC, 2012). Based on high end climate scenarios (RCP 8.5), Alfieri et al. (2015) project annual economic flood 
+damages in Europe to rise to 20–40 billion € by 2050, compared to 5.3 billion € currently. Preparing socially vulnerable population 
+groups for adverse flood impacts is therefore an important part of a socially inclusive climate adaptation strategy (Thaler et al., 2018). 
+A key methodological innovation of my study is that I combine data on exposure, vulnerability, and coping capacity to an inte -
+grated flood risk indicator at the household-level. Household-level data are indispensable because important parameters such as home 
+size, assets, mitigation, and insurance coverage vary strongly at the household level. The existing literature has examined the flood risk 
+– income relationship either at spatially aggregated units or in case studies that focus on particular regions. By using nationally 
+representative micro-data instead of spatially aggregated or restricted data, I reduce the risks of measurement error, which allows me 
+to combine exposure data with proxies of vulnerability and coping capacity. 
+I use data from the Eval-MAP panel survey, which includes more than 8000 distinct households throughout Germany. This rich 
+survey data set is merged with floodplain data from administrative sources, allowing me to derive an objective measure of flood 
+exposure of surveyed households. As such, the present study is the first national empirical study on distributional issues of flooding at 
+the household level. 
+As a preparatory step of the analysis and to take up the available literature, I first illustrate the empirical correlations of each of the 
+flood risk components with equivalent income, hence the monthly household income adjusted for consumption units in the household. 
+This is done by simple correlations and econometric analyses in Part I of the empirical analysis. In Part II I derive the integrated flood 
+risk and analyze its relationship with equivalent income. Flood risk is formulated as the expected annual flood damage of a household, 
+taking into account the household-specific exposure, housing parameters, and coping measures. 
+The results show that flood risk in absolute terms (expected flood damage in € per year) is slightly positively correlated with 
+equivalent income. Low-income households in Germany, due to their smaller homes and less valuable assets, therefore face lower 
+absolute flood risks compared to wealthier households, despite the fact that they have limited capacities to protect themselves via 
+investing in protection measures and insurance. However, compared to monthly income, the expected annual flood damage is much 
+higher amongst low-income households, which means that relative to their financial capacities, low-income households face a higher 
+flood risk than wealthier households. These results call for a careful design of publicly-funded flood risk policies. If – for example – all 
+damages, regardless of the income level of affected households, are equally compensated by public funds, high-income households will 
+benefit absolutely more than low-income households. From a social policy perspective, public flood policies should instead target low- 
+income households. For example, governments could support low-income households in exposed areas in the implementation of 
+mitigation and insurance. 
+2. Related literature 
+In this section, I summarize the main findings of the empirical literature on distributional aspects of flood risk and flood effects in 
+high-income countries. 
+A large body of literature under the header “environmental justice” focuses on heterogeneous risk levels for different socio- 
+economic groups. Many studies find that disadvantaged groups are disproportionally exposed to environmental hazards such as air 
+pollution (Thaler et al., 2018). With regard to flooding though, the findings are more ambiguous. In the US there is some limited 
+evidence that poor people may be more exposed to flooding than high-income groups (Bin et al., 2017; Cutter and Emrich, 2006; 
+Martinich et al., 2013), however, Kahn and Smith (2017) argue that the income distribution in flood prone areas is not significantly 
+lower compared to nearby areas. It also seems important to distinguish between floodplains with environmental benefits, such as 
+coastal amenities, and flood zones without those benefits. While the former may even attract high-income populations (who may also 
+2 
+In the remainder of the paper, the term “mitigation” refers to structural or behavioral protective measures taken at the household level which 
+avoid or reduce flood damage ex ante. 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 3]]
+Climate Risk Management 31 (2021) 100268
+3
+have the resources to protect themselves), the latter are predominantly inhabited by disadvantaged groups ( Collins et al., 2018; 
+Maldonado et al., 2016; Montgomery and Chakraborty, 2015; Smith and Whitmore, 2019 ). The studies in the US also demonstrate that 
+the relationship between environmental risk and social grade are context- and location-specific ( Grineski et al., 2015 ). For the UK, 
+Sayers et al. (2018) find that flood exposure is higher in socially vulnerable communities, but Fielding and Burningham (2005) show 
+that such evaluations depend greatly on the method of capturing the exposed population. In a global analysis of climate-induced 
+natural hazards, Hsiang et al. (2019) conclude that overall “ exposure to future climate changes (in physical units) is not inherently 
+greater for poorer populations ” , but damage functions may differ between income levels. 
+The latter finding relates to the literature on heterogeneous capacities to respond to, and recover from, natural disasters such as 
+Hurricane Katrina. Survey-based studies report that pre-existing socio-economic conditions shaped the response to this particular 
+disaster ( Elliott and Pais, 2006; Masozera et al., 2007 ) or other events ( Billings et al., 2019 ). As Hsiang et al. (2019) emphasize, it is 
+important for meaningful policy advice to understand whether differences in damage levels between income groups stem from 
+different levels of exposure, combined with nonlinear damage functions, or because the form of damage functions differs, e.g. due to 
+different coping capacities. 
+Another strand of literature deals with the (non – )affordability of flood insurance and mitigation measures. Affordability gains 
+relevance in light of an ongoing policy debate on risk-based insurance pricing ( Hudson, 2018 ) and the need for flood risk reduction 
+measures at the household level ( Hudson, 2020; Koks et al., 2015 ). Penning-Rowsell and Pardoe ( 2014 ) argue that purely risk-based 
+insurance pricing would shift the burden to already deprived households. Consequently, some authors suggest to complement risk- 
+based insurance pricing with the provision of vouchers to households that cannot afford flood insurance ( Kousky and Kunreuther, 
+2014; Kunreuther, 2015 ), or to offer low-cost loans to finance mitigation measures at the household level ( Hudson, 2020; Montgomery 
+and Kunreuther, 2018 ). 
+A quite diverse body of literature may be subsumed under the header “ distributional effects of public flood policies ” . Related to the 
+insurance affordability issue, Bin et al. (2012) analyze distributional effects of the National Flood Insurance Program (NFIP) of the US 
+Federal Emergency Management Agency and find no adverse effects on low-income groups. Penning-Rowsell and Pardoe (2012) 
+identify winners and losers of various risk reduction measures in the UK, emphasizing that insurance companies may be the real 
+winners of publicly or privately funded risk reduction measures. Other studies in the US context find that public flood protection (such 
+as the Community Rating System within the NFIP) had ambiguous effects on income inequality across communities (increasing 
+inequality outside floodplains and decreasing inequality within floodplains) ( Noonan and Sadiq, 2018 ). In the aftermath of a flood, 
+different income groups may not have equal access to recovery and relief payments, and socially disadvantaged groups may receive 
+significantly less financial support ( Grube et al., 2018; Mu ˜noz and Tate, 2016 ). 
+Finally, a body of literature is currently developing on social welfare and well-being effects of flooding. Kind et al. (2017); (2020;) ) 
+argue that if cost-benefit-analyses for flood risk reduction measures take social welfare effects into account, the value of risk reduction 
+will increase substantially compared to the conventional cost-benefit-approach. This is mainly due to the fact that low-income 
+households have a high flood risk relative to available income and assets. A similar finding applies to a simulation study of earth -
+quake risk ( Markhvida et al., 2020 ). The issue of welfare effects is probably also very relevant in the developing country context, due to 
+high intra-national inequalities in terms of income and wealth (e.g., see the comprehensive report of Hallegatte et al., 2016 ). To some 
+extent, these studies introduce a combined view on exposure (where do people live) and vulnerability (susceptibility of assets). 
+Nevertheless regarding the sphere of flooding those studies lack real world empirical data ( Kind et al., 2020 ). 
+To sum up, the environmental justice literature has examined the exposure-income relationship. The literature on affordability of 
+insurance and mitigation has shown that poor households are financially restricted in their coping behavior, even in high-income 
+countries. The literature on flooding and welfare effects shows low-income groups should be given special attention. However, an 
+empirical analysis of the integrated risk-income relationship which combines exposure, assets-at-risk, and coping capacity is still 
+missing. Given that the correlations of these components with income have ambiguous implications for the risk – income correlation, 
+such an analysis is indispensable for evaluating how overall flood risk is distributed on the socio-economic groups of a population. 
+Moreover, many studies conduct empirical analyses at the level of aggregated spatial units; household-level analyses are rare. If 
+they are used at all, they only cover specific cities or regions (e.g. Maldonado et al., 2016; Mu ˜noz and Tate, 2016 ). Household-level 
+data, for example on flood zones, specific housing characteristics, and coping measures, considerably reduce the risk of measurement 
+error inherent in spatially aggregated analyses. This also allows one to control for relevant confounders such as individual perceptions 
+of flood exposure when analyzing mitigation and insurance behavior. 
+3. Context and data 
+3.1. Study context 
+From a global perspective, Germany is typically not a hot spot of flood risk. Since the year 2000, however, flooding has been the 
+most devastating natural hazard in the country in terms of affected people and economic damage ( EM-DAT, n.d. ). In 2002 and 2013, 
+large parts in Eastern and South-Eastern Germany were severely affected by riverine floods. Both extreme events resulted in several 
+fatalities and caused damage to public infrastructure and private homes amounting to several billion € . Besides these two high-profile 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 4]]
+Climate Risk Management 31 (2021) 100268
+4
+events, smaller floods with lower economic damages occur quite regularly. While the exposure level to riverine floods is publicly 
+available in flood hazard maps (showing that inhabited areas of numerous cities along the main rivers are located in floodplains), this 
+information is often ignored or neglected by homeowners and tenants, as flooding is mostly considered a non-issue. Since 2005, 
+households are legally obliged to protect their properties from flood damage as much as “ possible and reasonable ” ( Thieken et al., 
+2016 ).
+3 
+Still, only a minority of around 30% has implemented mitigation measures in their homes. Flood insurance, in contrast to 
+many other high-income countries, is voluntary and privately organized, with a market penetration of around 40% ( GDV, 2018 ). If 
+flood coverage is chosen, the deductibles are normally relatively low, i.e. the insurance almost fully compensates the damage. Pre -
+miums roughly mirror the local flood risk exposure, i.e. they are higher in floodplains, which facilitates an almost universal supply of 
+insurance coverage even in highly exposed areas. However, as large shares of the population do not hold flood coverage, the gov -
+ernment repeatedly stepped in after large floods and compensated flood victims by ad-hoc tax-funded relief funds. 
+In general, the income inequality in Germany is moderate (Gini-coefficient of 31.7 in 2015, compared to 41.5 in the USA in 2016, 
+according to the World Bank). The relatively equal distribution of income, combined with the privately organized flood insurance 
+market and considerable variation in flood exposure, vulnerability, and coping behavior, makes the German case particularly inter -
+esting for an analysis of distributional aspects of flood risk. If income shows to be an important determinant of flood risk in Germany, it 
+will be even more of an issue in less egalitarian societies or countries which are more exposed to flood hazards. 
+3.2. Data 
+The main data source is the Eval-MAP panel conducted in 2012 and 2014 as part of a research project financed by the German 
+Federal Ministry of Education and Research (BMBF). The survey institute forsa approached the same 10,000 households and asked the 
+household heads (defined as the person typically making financial decisions for the household) to complete an online questionnaire. 
+Non-internet users participated via an electronic device on their TV. The topic of the questionnaire was not communicated beforehand 
+and the respondents were awarded a small financial incentive (consumer reward) for completing the questionnaire. Detailed infor -
+mation on the survey and descriptive analyses are available in Osberghaus and Philippi (2015) . The number of observations used in 
+this analysis amounts to 6400 in 2012 and 6600 in 2014, of which 4639 participated in both years. In sum, the dataset includes 13,000 
+observations from 8361 unique households. 
+The variable Income (monthly household income) was originally elicited by an item with 13 categories. I calculate the midpoints of 
+each category and use these values as a continuous variable. I then calculate the equivalent income by dividing the aggregated 
+household income by weighted consumption units based on the number and age of household members.
+4 
+Flood exposure is based on expected flood recurrence intervals taken from inundation maps (variable Prob )
+5 
+and the home size as 
+an indicator of assets-at-risk. As home size is not available in the Eval-MAP survey, this variable is taken from a large consumption data 
+set covering more than 42,000 German households ( “ Income and consumption sample ” (EVS), provided by the German statistical 
+office
+6
+). Flood vulnerability is approximated by the usage of the ground floor or basement. Coping capacity is measured as reported 
+implementation of flood mitigation and flood insurance coverage, the latter being separated for home and contents. 
+A share of 18.6% of participating households prefer not to report their income. I therefore first test via Wilcoxon rank sum tests 
+whether the variables of interest differ between participants who do and those who do not report their income. Except for flood in -
+surance coverage for contents, there is no significant difference in the reported values.
+7 
+The descriptive statistics of all key variables are 
+summarized in Tables A1 and A2 in Appendix A1 . 
+4. Part I: Income and the components of flood risk 
+4.1. Statistical methods 
+In this part of the paper, I take up the existing literature and describe the relationships between income and the components of flood 
+risk. This part serves to illustrate and discuss how exposure, vulnerability, and coping capacity relate to income in the German context, 
+which lays the foundations for Part II, where I combine the risk components to an integrated flood risk indicator. 
+First, I report the mean values of the risk components per income quartile as well as the Spearman correlation coefficients. Second, I 
+run multivariate regressions with pooled data from both survey waves. For binary dependent variables, I use probit models. Exposure is 
+measured at an ordinal scale. Here, I use an ordered probit model. In each regression, I include Income as the main variable of interest, a 
+3 
+Given the rather soft formulation in the law, this obligation is practically not enforced, which is why we can still treat the implementation of 
+mitigation as a largely voluntary measure.  
+4 
+I use a simplified version of the modified OECD weighting scale. The first person counts as 1.0, any other person above 18 years of age counts as 
+0.5, and any further person counts as 0.3 consumption units. In the remainder of the paper, the term “ income ” always refers to equivalent income.  
+5 
+Inundation maps are provided by the German water authorities and available at https://geoportal.bafg.de/OpenData/ (WasserBLIcK/BfG & 
+Zust ¨andige Beh ¨orden der L ¨ander, 14.12.2020). More information on the flood exposure variable is given in appendix A2.  
+6 
+Meta-data and a description of the EVS data set are available at https://www.destatis.de/DE/Methoden/Qualitaet/Qualitaetsberichte/ 
+Einkommen-Konsum-Lebensbedingungen/einkommens-verbrauchsstichprobe-2013.html .  
+7 
+Households that do not report their income are more probable to state that their contents are flood insured (p < 0.01 based on Wilcoxon rank-sum 
+tests). 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 5]]
+Climate Risk Management 31 (2021) 100268
+5
+set of control variables, a series of dummy variables for 16 federal states, and a time dummy indicating observations from the survey 
+wave in 2014. For time-invariant dependent variables such as residence variables, I only use the most recent observation of each 
+household. Standard errors are clustered at the federal state level. Except for the regression of HomeSize , I use a weighting factor 
+provided by forsa, which makes the results representative of the total stock of households in Germany in terms of household size and 
+location. 
+4.2. Results: Flood exposure 
+Flood exposure is measured by two variables: First, I use the variable Prob which is the expected annual flood occurrence prob -
+ability at the respective location (regardless of the expected inundation depth or duration, see also Appendix A2 ). Second, I account for 
+assets-at-risk by assessing the variable HomeSize . 
+Regarding flood probability, around 91% of the participating households do not live in a designated riverine flood plain, 7.2% live 
+in areas flooded only by extreme riverine flood events (mostly those which occur once in 200 years), and a share of 1.9% lives in 1/100 
+years riverine floodplains. According to the mean values per income quartile, and the Spearman correlation coefficient, there seems to 
+be a low negative correlation between income and flood probability (Figure A1 in Appendix A3 ; Spearman ’ s rho:   0.03, p < 0.05). The 
+results of the ordered probit model estimation, however, depicted in Table 1 , show that Prob is unrelated to income when controlling 
+for other potential determinants such as federal state and rural/urban areas. 
+Turning to HomeSize as the other indicator of risk exposure, the data confirm the intuitive expectation of a positive correlation of 
+income with home size ( Fig. A2 in Appendix A3 , Spearman ’ s rho: 0.45, p < 0.01). This relationships is confirmed by the multivariate 
+regression ( Table 1 ). 
+The missing correlation of flood probability with income (and all other socio-economic variables) may be explained by the fact that 
+most households in Germany do not regard local flood exposure as a major factor for choosing their place of residence. This ignorance, 
+combined with the relatively low flood exposure compared to other countries, implies that there is no sorting of low-income house -
+holds in more or less flood-prone areas in Germany. This interpretation is consistent with other data from the Eval-MAP survey on the 
+reasons of relocation, where only a negligible minority of nine out of 2824 participants who were moving in the last 10 years indicated 
+“ natural hazards ” as one of several reasons for their relocation decision. 
+4.3. Results: Flood vulnerability 
+Turning to vulnerability as defined by the UNDRR, a household ’ s flood vulnerability is determined by the susceptibility of the 
+building and contents to flood damage, e.g. the water resistance of materials or the elevation above the ground. As data on materials 
+and elevation is not available, I approximate vulnerability by the usage of the ground floor or basement. In accordance with the 
+UNDRR terminology, coping measures which decrease the expected flood damage are subsumed under the risk component coping 
+capacity (see next sub-section).
+8 
+In terms of ground floor and basement usage, low-income households are less vulnerable to flood damage, as they often live in 
+higher floors of apartment buildings without access to a basement ( Fig. A3 in Appendix A3 , Spearman ’ s rho: 0.05, p < 0.01 and Probit 
+analysis in Table 2 ). As a result, flood susceptibility of low-income households is considerably lower than in the case of wealthier 
+households, whose owners more often use the exposed levels of buildings. 
+4.4. Results: Coping capacity 
+Apart from flood exposure and vulnerability, the ultimate household flood risk is determined by the household ’ s coping capacity, i. 
+e. its capacity to implement protection measures which, in case of a flood, prevent or reduce adverse impacts. I operationalize coping 
+capacity by three variables from the Eval-MAP data set which are self-reported by households: (a) the implementation of physical or 
+behavioral flood mitigation measures, (b) purchase of flood insurance coverage for homes (only for homeowners), and (c) purchase of 
+flood insurance coverage for contents. 
+4.5. Flood mitigation 
+Mitigation is measured by a series of closed questions on the implementation of six specific flood mitigation measures (for details 
+see Table A1). The binary variable Mitigation takes the value of one if the respondent states the implementation of at least one of the 
+proposed measures. 
+There is a positive correlation between mitigation and income ( Figure A4 in Appendix A3 , Spearman ’ s rho: 0.12, p < 0.01). While 
+the share of mitigating households is around 36% in the highest income quartile, it decreases to 22% in the lowest. This relationship is 
+confirmed by the multivariate regression. Income has a significant positive correlation with mitigation, all other covariates being 
+8
+Beside limited data availability, there is another reason why specific features of buildings, such as materials and elevation, are not compre -
+hensively included in this analysis. In Germany, residential buildings within a neighborhood are typically similar in terms of construction and 
+elevation. Hence, potential differences in terms of vulnerability will mainly stem from ground floor or basement usage, and the implementation of 
+coping measures. 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 6]]
+Climate Risk Management 31 (2021) 100268
+6
+constant ( Table 3 ). 
+Similar results (a positive relation of income and flood mitigation) have also been found in other contexts ( Botzen et al., 2009; 
+Bubeck et al., 2013; Carson et al., 2013; Osberghaus, 2015; Peacock, 2003; Petrolia et al., 2015 ). A positive correlation may be due to 
+affordability issues. Low-income households could refrain from investing scarce financial resources in costly flood protection measures 
+with uncertain benefits. This interpretation is supported by the separate analysis of specific types of mitigation measures (see 
+Appendix A4 ). The implementation of behavioral measures with negligible financial costs (e.g. moving valuable assets to higher levels) 
+shows no significant correlation with income, while the coefficient of income increases for structural measures with higher upfront 
+installation costs. This corroborates the interpretation that the relation of income and mitigation is caused by (non – )affordability 
+issues. 
+4.6. Flood insurance: Home and contents 
+Aside from the choice of location and the decision to install structural or behavioral mitigation measures, flood risk management at 
+the household level includes the eventual purchase of flood insurance coverage. In Germany, households have to opt-in for flood 
+coverage when purchasing natural hazard insurance for homes or contents. In 2014, the share of existing policies with flood coverage 
+Table 1 
+Regression analysis of the exposure-income relationship.  
+Dependent variable Prob HomeSize 
+Regression Model Ordered probit OLS 
+Income   4.0e
+-5 
+– 
+ln (Income) – 0.200*** 
+Female 0.051 0.027*** 
+Age   0.002 Dummies included 
+Educ 0.027 – 
+HhSize   0.027 Dummies included 
+Home1 (rented flat) reference – 
+Home2 (rented house)   0.112 – 
+Home3 (own flat) 0.077 – 
+Home4 (own house)   0.082 – 
+Homeowner – 0.169*** 
+Detached home – 0.224*** 
+RiskAv   0.011 – 
+Assets 0.071 – 
+Cutpoint 1 1.047*** – 
+Cutpoint 2 1.854*** – 
+Constant – 2.694*** 
+Pseudo R2 / R2 0.098 0.653 
+Number of households 6119 42,789 
+Notes: Coefficients based on ordered probit and OLS model. *, **, and *** denote significance levels of 10, 5, 
+and 1 percent, respectively. Standard errors are clustered at the federal state level. 15 Federal state dummies 
+and six rural category dummies included. 
+Table 2 
+Regression analysis of the vulnerability-income 
+relationship.  
+Dependent variable Ground 
+Regression model Probit 
+Income 9.3e
+-5
+** 
+Female   0.021 
+Age 0.012*** 
+Educ   0.125 
+HhSize 0.243*** 
+RiskAv   0.007 
+Assets 0.237*** 
+Constant 0.239 
+Adjusted R2 — 
+Pseudo-R2 0.076 
+Number of households 6322 
+Notes: Coefficients based on probit model. *, **, and *** 
+denote significance levels of 10, 5, and 1 percent, respec -
+tively. Standard errors are clustered at the federal state 
+level. 15 Federal state dummies and six rural category 
+dummies included. 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 7]]
+Climate Risk Management 31 (2021) 100268
+7
+was at 38% for home insurance and 21% for content insurance, respectively ( GDV, 2015 ). 
+In the Eval-MAP survey, household heads were asked whether they held a home or content insurance and whether flood hazard was 
+included in the coverage. As a first insight, the shares of households reporting flood insurance coverage are much higher than the 
+national market penetration rates in both segments, as reported in Table A1 . Consequently, a majority of households expects insurance 
+payments in case of a flood, although national market penetration data suggest that many of them hold no insurance policy covering 
+flood damage. Second, regarding differences between income levels, there is a slight positive correlation of income and flood insurance 
+coverage for contents ( Fig. A6 in Appendix A3 , Spearman ’ s rho: 0.07, p < 0.01). In contrast, the overall relationship between 
+equivalent income and flood insurance for buildings is relatively flat ( Figure A5 in Appendix A3 , Spearman ’ s rho: 0.01, n.s.). 
+These correlations are confirmed by the probit models of InsHome and InsCont , as reported in Table 3 . For home insurance 
+( InsHome ), the coefficient of income is not discernable from zero. Interestingly, when interacting the income coefficient with flood 
+exposure levels, one finds a significantly positive correlation between income and insurance for the highest exposure category (p <
+0.05), suggesting that income plays a larger role for households in flood prone areas, where premiums are relatively high (see 
+Appendix A5 ). This finding supports the notion that income is indeed a limiting factor for the decision to purchase flood insurance, 
+especially in exposed locations where premiums are high. For flood insurance of contents ( InsCont ), there is generally a positive 
+correlation with income which does not differ between exposure levels. 
+When interpreting these results, one has to consider the fact that the dependent variables rely on self-reported data, and market 
+data suggest that these variables may be prone to erroneous reporting. Admittedly, it is unclear whether the degree of over-reporting 
+differs between income levels. But assuming that low-income households are less financially literate (as shown empirically by Bucher- 
+Koenen and Lusardi, 2011 ), they may be more prone to erroneous reporting. Then the real insurance penetration would be even more 
+concentrated on the wealthier households. Notwithstanding these caveats, the resulting correlations of income seem at least plausible 
+and well in line with the literature on flood insurance demand. Significant positive income effects for home insurance at the household 
+level are found in the US ( Petrolia et al., 2013 ), in the Netherlands ( Botzen and van den Bergh, 2012 ), and in German-speaking 
+countries ( Andor et al., 2020, Raschky et al., 2013 ). However, some studies also report a non-significant relationship ( Lindell and 
+Hwang, 2008, Terpstra and Lindell, 2012 ). In the US, studies at the level of regional units find a positive relation of income and flood 
+home insurance penetration ( Atreya et al., 2015, Browne and Hoyt, 2000, Davlasheridze and Miao, 2019, Kriesel and Landry, 2004 ) or 
+no significant effect ( Landry and Jahan-Parvar, 2011, Kousky et al., 2018 ). To my knowledge, flood insurance specifically for contents 
+has not yet been analyzed empirically. 
+Flood exposure is not clearly related to flood insurance purchase, which can be explained by risk-based pricing ( Andor et al., 2020 ). 
+Risk aversion exhibits a counterintuitive negative correlation with insurance. One possible explanation is that risk aversion is related to 
+unobserved personal characteristics (e.g. perceived self-efficacy), which in turn affect insurance behavior. 
+Table 3 
+Regression analysis of the coping capacity-income relationship.  
+Dependent variable Mitigation InsHome InsCont 
+Income 4.1e
+-5
+* 3.5e
+-5 
+10.8e
+-5
+*** 
+Female 0.018 0.069 0.069** 
+Age 0.008*** 0.031** 0.037*** 
+Age squared —   3.3e
+-4
+**   3.1e
+-4
+*** 
+Educ 0.015   0.063   0.187*** 
+HhSize 0.063*** 0.056** 0.105*** 
+Home1 (rented flat) reference — reference 
+Home2 (rented house) 0.227*** — 0.230* 
+Home3 (own flat) 1.518***   0.102 0.355*** 
+Home4 (own house) 1.488*** reference 0.366*** 
+RiskAv   0.024   0.025**   0.023** 
+Assets 0.109 0.007   0.038 
+DamExp 0.484*** 0.068 0.220*** 
+Risk_obj: category 1 reference reference reference 
+Risk_obj: category 2 0.204***   0.000 0.014 
+Risk_obj: category 3 0.331***   0.356**   0.445*** 
+Risk_subj: category 1 reference reference reference 
+Risk_subj: category 2 0.252*** 0.074   0.095* 
+Risk_subj: category 3 0.381*** 0.125** 0.063 
+Risk_subj: category 4 0.463*** 0.167** 0.116** 
+Survey 2014 (reference: 2012) 0.049* 0.033 0.060* 
+Constant   2.607***   0.518   1.573*** 
+Pseudo R2 0.235 0.059 0.063 
+Number of observations 6385 3947 5905 
+Number of households 4024 2557 (only homeowners) 3896 
+Notes: Coefficients based on a probit model. *, **, and *** denote significance levels of 10, 5, and 1 percent, respectively. Standard errors are clustered 
+at the federal state level. 15 Federal state dummies and six rural category dummies included. 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 8]]
+Climate Risk Management 31 (2021) 100268
+8
+5. Part II: Income and aggregated flood risk 
+So far, I have considered the specific flood risk components separately (exposure, vulnerability, and coping capacity). In this 
+section, I derive the relation of overall flood risk with household income. The indicator is basically calculated as the expected annual 
+monetary flood damage (all variables vary at the household level): 
+Risk = Prob * Ground * ( 1   0 . 5 * Mitigation ) * ( Dam
+cont
++ Homeowner * Dam
+home
+)
+First, Risk is affected by the annual probability that flooding occurs at the location of the household ( Prob ). It is set to zero if the 
+household does not use the ground floor or basement ( Ground ). I assume that the existence of a mitigation measure reduces the ex -
+pected damage by 50%.
+9 
+Finally, the expression in the last bracket takes account of the fact that households with larger homes and 
+homeowners have more assets-at-risk. The details on the derivation of Dam
+cont 
+and Dam
+home 
+are included in Appendix A6 . Both values 
+increase with the logarithm of home size because typically absolute flood damage rises with home size in a non-linear way, with there 
+being lower increases per m
+2 
+in large buildings ( Thieken et al., 2005 ). 
+So far, the flood risk indicator ignores insurance for two reasons: one, the self-reported insurance coverage seems to be overstated, 
+and one can only speculate whether and how the degree of overstating relates to income; two, there is no household-specific data on 
+insurance premiums. I therefore cannot include the costs of insurance. Notwithstanding these challenges, I derive the expected annual 
+non-insured flood damage based on self-reported insurance data. This is done by reducing the potential flood damage to the amount of 
+the deductible if the household reports to be insured: 
+Risk
+ins
+= Prob * Ground * ( 1   0 . 5 * Mitigation ) * ( Dam
+cont
+* ( 1   inscont ) + 200 + Homeowner * ( Dam
+home
+* ( 1   inshome ) + 500 ))
+Both resulting risk indicators (with and without insurance) ignore potential relief payments by the government or charities. This is 
+for two reasons: First, it is highly uncertain whether and in which order of magnitude such compensation is paid. Second, regarding the 
+derivation of policy recommendations, it is relevant how flood risk relates to income prior to an eventual compensation, rather than 
+after compensation. Then the results may be informative for targeting eventual public relief programs or subsidies for mitigation or 
+insurance. 
+In order to illustrate the relevance of flood risk in terms of available financial resources, I divide the basic flood risk indicator 
+(without insurance) by monthly household income. Comparing expected damage with income levels provides a first impression of how 
+the different income groups can financially cope with their respective flood risk. 
+Table 4 reports the descriptive statistics of the household-level integrated flood risk indicators with and without insurance. The 
+expected annual flood damage is in the order of magnitude of 20 € , and may increase to more than 100 € for households with the 
+highest risk levels. These absolute values seem rather low, compared to monthly income. However, note that these figures imply that a 
+1/100 years event would cause damages in the order of magnitude of 2000 € , and up to 10,000 € . Also note that the risk indicator 
+actually combines pluvial and fluvial floods, and heavy rain events typically cause lower damages than riverine floods. Hence, these 
+values may further increase for households affected by riverine floods. However, the magnitude of the expected annual damage should 
+not be over-interpreted. For deriving policy implications and conclusions regarding flood risk across income groups, it is rather 
+important to assess how the risk indicator varies with income. Hence, Table 4 also reports the correlations of the risk indicators with 
+equivalent income. The relationships with income are shown graphically in Fig. 1 and Fig. 2 . 
+The result regarding the basic risk indicator shows that poor households face a considerably lower aggregate flood risk when 
+controlling for their exposure, vulnerability, and coping capacity. This suggests that the assets-at-risk effect (low-income households 
+having a lower flood risk exposure because of less valuable assets-at-risk) is stronger than the counteracting coping capacity effect 
+(low-income households having less coping measures). This result does not change qualitatively with other effectiveness rates of 
+mitigation measures (see sensitivity check in Appendix A7 ). With higher effectiveness of mitigation, the correlation is driven down -
+wards because mitigation is more pronounced amongst high-income households. Thus, expected damages decrease more in this group, 
+but the positive correlation would persist even if all mitigation measures fully prevented flood damage. 
+When deducting the flood damage which is presumably insured, the average annual expected flood risk reduces by about 50% 
+( Risk_Ins ). However, given that low-income households are not as often insured as wealthier households (a tendency which may even 
+be underestimated by the self-reported data, see discussion above), the dampening effect of insurance on expected annual flood 
+damage is higher for wealthier households. Consequently, the correlation with income decreases considerably. However, this analysis 
+does not include insurance costs, which are probably higher for high-income households. 
+Fig. 2 shows how the expected financial burden of flooding relative to financial resources varies with equivalent income. In contrast 
+to flood risk measured as absolute monetary damage, the correlation of flood risk in terms of income shares ( Risk_rel ) to equivalent 
+income is highly negative. Thus despite low-income households facing considerably lower flood risk in terms of absolute monetary 
+damage, they are confronted with relatively higher cuts in their financial budgets. Under some caveats, this analysis allows some initial 
+insights on the distribution of welfare effects of flooding. Assuming that the same monetary damage causes higher welfare losses 
+amongst poor households compared to wealthier households ( Kind et al., 2017, 2020 ), the relation of expected monetary annual 
+damage to monthly income may serve as a rough proxy for welfare effects across the income groups. While a fully-fletched welfare 
+9 
+According to Kreibich et al., 2005 , the most effective mitigation measures reduce the damage ratio for buildings and contents by 46 to 53%. The 
+sensitivity of the results to this assumption will be discussed. 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 9]]
+Climate Risk Management 31 (2021) 100268
+9
+analysis is beyond the scope of this study, the comparison of the affected income share across the income groups suggests that welfare 
+effects of flooding might be higher for low-income households. 
+6. Conclusions 
+While the components of flood risk – exposure, vulnerability, and coping capacity – and their correlations with household income 
+are well analyzed in the empirical literature, the overall flood risk – income relation in a high-income country context has not been 
+examined yet. However, it is of great interest for policymakers to know how flood risk is distributed across income groups. If low 
+income groups are disproportionally affected by flood risk, it could be advisable from a social policy perspective to support them in the 
+implementation of flood mitigation measures or in the purchase of insurance. Furthermore, the distributional effects of flood-related 
+policies such as public reinsurance schemes or tax-funded disaster relief payments depend on the pattern of flood risk distribution 
+across income groups. 
+The present study is the first nationwide empirical analysis of the relationship between flood risk and income using detailed 
+household-level survey data. Such data are indispensable for assessing flood risk and its components because they reduce the risk of 
+measurement error inherent in spatially aggregated analyses and allow one to control for potential confounders of household behavior 
+such as subjective risk perceptions and preferences. 
+In the first part of the empirical analysis, I econometrically analyze the role of household income for flood exposure, vulnerability, 
+and coping capacity in a German nationwide context and broadly confirm prior results of the literature. In the second part, I derive an 
+integrated flood risk indicator, accounting for local flood exposure, housing characteristics, and coping behavior at the household 
+level. By presenting the correlation of this integrated risk indicator with income, I answer the question whether the income – flood risk 
+relationship is dominated by the assets-at-risk effect (low-income households having less valuable assets at risk), or by the 
+Table 4 
+Descriptive statistics of flood risk indicators and their correlations with income.  
+Indicator Description Mean Std. 
+deviation 
+Min Median Max Correlation with 
+income 
+Number of 
+households 
+Risk Expected annual flood damage in €  20.04  13.80 0  17.16  102.13 0.21 (p < 0.01) 5807 
+Risk_ins Expected uninsured annual flood damage 
+in €  
+9.22  11.44 0  3.82  102.13 0.04 (p < 0.01) 4768 
+Risk_rel Expected annual flood damage relative to 
+monthly income  
+0.012  0.011 0  0.009  0.336   0.42 (p < 0.01) 5807 
+Notes: Correlation coefficients are Spearman ’ s rho correlations with equivalent income. Only the most recent observation of each household included. 
+Fig. 1. Means and 95% confidence intervals of risk indicators for four quartiles of equivalent income. Diamonds mark values without consideration 
+of insurance (indicator Risk), circles mark the expected uninsured annual damage (indicator Risk_ins). 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 10]]
+Climate Risk Management 31 (2021) 100268
+10
+counteracting coping capacity effect (low income households being poorly prepared). 
+In sum, the overall flood risk in terms of expected annual monetary flood damage is lower for low-income households than for 
+households with high income. Taking into account the self-reported flood insurance coverage, the positive correlation of flood risk 
+with income decreases and uninsured flood damages increase only slightly with income. Relative to the available financial budget, 
+however, expected flood damage weighs higher for low-income households than for high-income groups. Thus, the welfare effects of 
+flooding are potentially higher for low-income households than for high-income households. 
+In the past, German governments repeatedly used tax-money to compensate flooded households on an ad-hoc basis. For the amount 
+of the compensation, the income of beneficiaries did not matter. The results of this analysis suggest that the benefits of such a policy are 
+higher in absolute terms for high-income households, though they are generally capable of protecting themselves. Therefore, a 
+tentative policy recommendation could be that flood relief schemes take the financial capabilities of households into account and 
+concentrate compensation payments on households who suffer large damages relative to their income. Moreover, the ex-ante flood 
+adaptation and insurance behavior of households is constrained by available income. Therefore, policymakers should consider sup -
+porting low-income households in flood prone areas via in-kind transfers, public loans, or financial grants bound to coping measures. 
+In terms of transferability of the results to other countries, one should be reasonably cautious. Flood risk management, and in 
+particularly the design of flood insurance markets, differs greatly between European and other high-income countries ( Schwarze et al., 
+2011 ). The distribution of flood mitigation measures on a national scale is so far only measured by the Eval-MAP survey in Germany, 
+hence the transferability of mitigation-related results to other countries not being clear either. However, Germany may be an inter -
+esting case for the very reason that the country does not stand out as a particularly flood exposed or unequal society. The fact that 
+income is still decisive for coping capacity, and flood risk relative to income is much higher for low-income groups even in Germany, 
+should alert policymakers in countries which are more exposed to flooding and where the income distribution is less egalitarian. 
+Similar studies like this one can be conducted using micro-level data on income (census-data), local hazard exposure, building 
+characteristics and household coping behavior, considering nation-wide data or focusing on hazard-prone regions. 
+While this study contributes an innovative analysis of the distribution of flood risk on income groups, there is ample room for 
+further research. Due to data limitations, the proposed integrated flood risk indicator omits important components of coping capacity, 
+e.g. the availability of disaster aid or social networks. It also ignores indirect and non-monetary flood effects, such as health effects, 
+income losses due to business interruptions, and increasing costs of services. It may be plausible that some of these omitted factors 
+correlate with income. This would affect the flood risk – income relationship, but the direction of an eventual bias is not clear ex-ante . 
+Being in great parts descriptive, the present analysis does not allow causal interpretations of the results. Further household-level data 
+may facilitate studies which fill this gap. Especially household-level monetary data on flood damages and costs of mitigation and 
+insurance would be useful for developing a welfare analysis of the distributional effects of flooding and flood policies. Regarding risk 
+aversion, the present study takes the simplest approach for assessing the multiple uncertainties inherent in flood hazard analyses. As 
+the derived risk indicator is simply the expected value of annual flood damage, I use an expected utility approach and assume risk- 
+neutrality. If households are risk averse, and if risk aversion of low-income households is higher, welfare effects of flood risk will 
+Fig. 2. Means and 95% confidence intervals of risk indicator relative to monthly income (indicator Risk_rel), for four quartiles of equivalent income.  
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 11]]
+Climate Risk Management 31 (2021) 100268
+11
+be driven upwards, and more so for low-income households. Therefore future work could incorporate different risk aversion levels and 
+assess the welfare effects of flood risk across income groups. This study should be seen as a first step in that direction. 
+Role of the funding source 
+This work was financially supported by the German Ministry for Education and Research (BMBF) under grant no. 01LA1823B. The 
+funding source was not involved in developing the study design, collecting, analyzing and interpreting the data, or in writing and 
+publishing the article. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.crm.2020.100268 . 
+References 
+Alfieri, L., Feyen, L., Dottori, F., Bianchi, A., 2015. Ensemble flood risk assessment in Europe under high end climate scenarios. Global Environ. Change 35, 199 – 212. 
+https://doi.org/10.1016/j.gloenvcha.2015.09.004 . 
+Andor, M., Osberghaus, D., Simora, M., 2020. Natural Disasters and Governmental Aid: Is there a Charity Hazard? Ecol. Econ. 169, 106534 https://doi.org/10.1016/j. 
+ecolecon.2019.106534 . 
+Atreya, A., Ferreira, S., Michel-Kerjan, E., 2015. What drives households to buy flood insurance? New evidence from Georgia. Ecol. Econ. 117, 153 – 161. https://doi. 
+org/10.1016/j.ecolecon.2015.06.024 . 
+Billings, S.B., Gallagher, E.A., Ricketts, L. 2019. Let the Rich Be Flooded: The Unequal Impact of Hurricane Harvey on Household Debt. University of Colorado, 
+Boulder, CO, USA. https://doi.org/10.2139/ssrn.3396611 . 
+Bin, O., Bishop, J.A., Kousky, C., 2012. Redistributional effects of the national flood insurance program. Public Finance Rev. 40 (3), 360 – 380. https://doi.org/ 
+10.1177/1091142111432448 . 
+Bin, O., Bishop, J., Kousky, C., 2017. Does the national flood insurance program have redistributional effects? B.E. J. Econ. Anal Policy 17 (4). https://doi.org/ 
+10.1515/bejeap-2016-0321 . 
+Botzen, W.J.W., Aerts, J.C.J.H., van den Bergh, J.C.J.M., 2009. Dependence of flood risk perceptions on socioeconomic and objective risk factors. Water Resour. Res. 
+45 (10) https://doi.org/10.1029/2009WR007743 . 
+Botzen, W.J.W., van den Bergh, J.C.J.M., 2012. Risk attitudes to low-probability climate change risks: WTP for flood insurance. J. Econ. Behav. Organ. 82 (1), 
+151 – 166. https://doi.org/10.1016/j.jebo.2012.01.005 . 
+Browne, M.J., Hoyt, R.E., 2000. The demand for flood insurance: Empirical evidence. J. Risk Uncertainty 20 (3), 291 – 306 . 
+Bubeck, P., Botzen, W.J.W., Kreibich, H., Aerts, J.C.J.H., 2013. Detailed insights into the influence of flood-coping appraisals on mitigation behaviour. Global Environ. 
+Change 23 (5), 1327 – 1338. https://doi.org/10.1016/j.gloenvcha.2013.05.009 . 
+Bucher-Koenen, T., Lusardi, A., 2011. Financial literacy and retirement planning in Germany. J. Pension Econ. Finance 10 (4), 565 – 584. https://doi.org/10.1017/ 
+S1474747211000485 . 
+Carson, J.M., McCullough, K.A., Pooser, D.M., 2013. Deciding whether to invest in mitigation measures: Evidence from Florida. J. Risk Insurance 80 (2), 309 – 327. 
+https://doi.org/10.1111/j.1539-6975.2012.01484.x . 
+Collins, T.W., Grineski, S.E., Chakraborty, J., 2018. Environmental injustice and flood risk: a conceptual model and case comparison of metropolitan Miami and 
+Houston, USA. Reg. Environ. Change 18 (2), 311 – 323. https://doi.org/10.1007/s10113-017-1121-9 . 
+Cutter, S.L., Emrich, C.T., 2006. Moral hazard, social catastrophe: The changing face of vulnerability along the Hurricane Coasts. Annals Am. Acad. Polit. Soc. Sci. 604 
+(1), 102 – 112. https://doi.org/10.1177/0002716205285515 . 
+Davlasheridze, M., Miao, Q., 2019. Does governmental assistance affect private decisions to insure: An empirical analysis of flood insurance purchases. Land Econ. 95 
+(1) https://doi.org/10.3368/le.95.1.124 . 
+Elliott, J.R., Pais, J., 2006. Race, class, and Hurricane Katrina: Social differences in human responses to disaster. Soc. Sci. Res. 35 (2), 295 – 321. https://doi.org/ 
+10.1016/j.ssresearch.2006.02.003 . 
+EM-DAT. (n.d.). The Emergency Events Database. Universit ´e catholique de Louvain (UCL) – CRED, D. Guha-Sapir, Brussels, Belgium. Retrieved from www.emdat.be . 
+Fielding, J., Burningham, K., 2005. Environmental inequality and flood hazard. Local Environ. 10 (4), 379 – 395. https://doi.org/10.1080/13549830500160875 . 
+GDV. 2015. Naturgefahrenreport 2015. Gesamtverband der Deutschen Versicherungswirtschaft. Retrieved from: https://www.gdv.de/resource/blob/22610/ 
+9fd2b99f29bdf628a604516a88acbb96/online-serviceteil-zum-naturgefahrenreport-2015-data.pdf . 
+GDV. 2018. Naturgefahrenreport 2018 Die Schaden-Chronik der deutschen Versicherer. Berlin, Germany. 
+Grineski, S., Collins, T.W., Chakraborty, J., Montgomery, M., 2015. Hazardous air pollutants and flooding: a comparative interurban study of environmental injustice. 
+Geo J. 80 (1), 145 – 158. https://doi.org/10.1007/s10708-014-9542-1 . 
+Grube, L.E., Fike, R., Storr, V.H., 2018. Navigating disaster: An empirical study of federal assistance following Hurricane Sandy. Eastern Econ. J. 44 (4), 576 – 593. 
+https://doi.org/10.1057/s41302-017-0098-x . 
+Hallegatte, S., Bangalore, M., Bonzanigo, L., Fay, M., Kane, T., Narloch, U., Rozenberg, J., Treguer, D., Vogt-Schilb, A. (Eds.), 2016. Shock Waves: Managing the 
+Impacts of Climate Change on Poverty. Washington, DC: World Bank . 
+Hsiang, S., Oliva, P., Walker, R., 2019. The distribution of environmental damages. Rev. Environ. Econ. Policy 13 (1), 83 – 103. https://doi.org/10.1093/reep/rey024 . 
+Hudson, P., 2018. A comparison of definitions of affordability for flood risk adaption measures: a case study of current and future risk-based flood insurance premiums 
+in Europe. Mitig. Adapt. Strat. Glob. Change 23 (7), 1019 – 1038. https://doi.org/10.1007/s11027-017-9769-5 . 
+Hudson, P., 2020. The affordability of flood risk property-level adaptation measures. Risk Anal. 40 (6), 1151 – 1167. https://doi.org/10.1111/risa:v40.610.1111/risa: 
+13465 . 
+IPCC. 2012. Managing the risks of extreme events and disasters to advance climate change adaptation. C.B. Field, V. Barros, T.F. Stocker, Q. Dahe, D.J. Dokken, K.L. 
+Ebi, M.D. Mastrandrea, K.J. Mach, G.-K. Plattner, S.K. Allen, M. Tignor, P. M. Midgley, Eds.). Cambridge, USA: Cambridge University Press. Retrieved from http:// 
+www.ipcc.ch/pdf/special-reports/srex/SREX_Full_Report.pdf . 
+D. Osberghaus                                                                                                                                                                                                          
+
+[[PAGE 12]]
+Climate Risk Management 31 (2021) 100268
+12
+Kahn, M.E., Smith, V.K. 2017. The Affordability Goal and Prices in the National Flood Insurance Program (NBER Working Paper No. 24120). Cambridge, MA, USA. 
+Retrieved from http://www.nber.org/papers/w24120 . 
+Kind, J., Wouter Botzen, W.J., Aerts, J.C.J.H., 2017. Accounting for risk aversion, income distribution and social welfare in cost-benefit analysis for flood risk 
+management. Wiley Interdiscip. Rev. Clim. Change 8 (2), e446. https://doi.org/10.1002/wcc.446 . 
+Kind, J., Botzen, W.J.W., Aerts, J.C.J.H., 2020. Social vulnerability in cost-benefit analysis for flood risk management. Environ. Dev. Econ. 25 (2), 115 – 134. https:// 
+doi.org/10.1017/S1355770X19000275 . 
+Koks, E.E., Jongman, B., Husby, T.G., Botzen, W.J.W., 2015. Combining hazard, exposure and social vulnerability to provide lessons for flood risk management. 
+Environ. Sci. Policy 47, 42 – 52. https://doi.org/10.1016/j.envsci.2014.10.013 . 
+Kousky, C., Kunreuther, H., 2014. Addressing affordability in the national flood insurance program. J. Extreme Events 1 (1), 1450001. https://doi.org/10.2139/ 
+ssrn.2370130 . 
+Kousky, C., Michel-Kerjan, E.O., Raschky, P.A., 2018. Does federal disaster assistance crowd out flood insurance? J. Environ. Econ. Manage. 87, 150 – 164 . 
+Kreibich, H., Thieken, A.H., Petrow, T., Müller, M., Merz, B., 2005. Flood loss reduction of private households due to building precautionary measures – lessons 
+learned from the Elbe flood in August 2002. Nat. Hazards Earth Syst. Sci. 5 (1), 117 – 126. https://doi.org/10.5194/nhess-5-117-2005 . 
+Kriesel, W., Landry, C., 2004. Participation in the national flood insurance program: An empirical analysis for coastal properties. J. Risk Insurance 71 (3), 405 – 420 . 
+Kunreuther, H., 2015. The role of insurance in reducing losses from extreme events: The need for public-private partnerships. Geneva Papers Risk Insurance Issues 
+Practice 40 (4), 741 – 762. https://doi.org/10.1057/gpp.2015.14 . 
+Landry, C.E., Jahan-Parvar, M.R., 2011. Flood Insurance coverage in the coastal zone. J. Risk Insurance 78 (2), 361 – 388. https://doi.org/10.1111/j.1539- 
+6975.2010.01380.x . 
+Lindell, M.K., Hwang, S.N., 2008. Households ’ perceived personal risk and responses in a multihazard environment. Risk Anal. 28 (2), 539 – 556. https://doi.org/ 
+10.1111/j.1539-6924.2008.01032.x . 
+Maldonado, A., Collins, T.W., Grineski, S.E., Chakraborty, J., 2016. Exposure to flood hazards in Miami and Houston: Are hispanic immigrants at greater risk than 
+other social groups? Int. J. Environ. Res. Public Health 13 (8). https://doi.org/10.3390/ijerph13080775 . 
+Markhvida, M., Walsh, B., Hallegatte, S., Baker, J., 2020. Quantification of disaster impacts through household well-being losses. Nat. Sustain. 3 (7), 538 – 547. https:// 
+doi.org/10.1038/s41893-020-0508-7 . 
+Martinich, J., Neumann, J., Ludwig, L., Jantarasami, L., 2013. Risks of sea level rise to disadvantaged communities in the United States. Mitig. Adapt. Strat. Glob. 
+Change 18 (2), 169 – 185. https://doi.org/10.1007/s11027-011-9356-0 . 
+Masozera, M., Bailey, M., Kerchner, C., 2007. Distribution of impacts of natural disasters across income groups: A case study of New Orleans. Ecol. Econ. 63 (2), 
+299 – 306. https://doi.org/10.1016/j.ecolecon.2006.06.013 . 
+Montgomery, M.C., Chakraborty, J., 2015. Assessing the environmental justice consequences of flood risk: A case study in Miami, Florida. Environ. Res. Lett. 10 (9) 
+https://doi.org/10.1088/1748-9326/10/9/095010 . 
+Montgomery, M., Kunreuther, H., 2018. Pricing storm surge risks in Florida: Implications for determining flood insurance premiums and evaluating mitigation 
+measures. Risk Anal. 38 (11), 2275 – 2299. https://doi.org/10.1111/risa:2018.38.issue-1110.1111/risa:13127 . 
+Mu ˜noz, C.E., Tate, E., 2016. Unequal recovery? Federal resource distribution after a Midwest flood disaster. Int. J. Environ. Res. Public Health 13 (5). https://doi.org/ 
+10.3390/ijerph13050507 . 
+Noonan, D.S., Sadiq, A.-A., 2018. Flood risk management: Exploring the impacts of the community rating system program on poverty and income inequality. Risk 
+Anal. 38 (3), 489 – 503. https://doi.org/10.1111/risa:2018.38.issue-310.1111/risa:12853 . 
+Osberghaus, D., 2015. The determinants of private flood mitigation measures in Germany — Evidence from a nationwide survey. Ecol. Econ. 110, 36 – 50. https://doi. 
+org/10.1016/j.ecolecon.2014.12.010 . 
+Osberghaus, D., Philippi, A., 2015. Klimawandel in Deutschland: Risikowahrnehmung und Anpassung in privaten Haushalten 2012 und 2014. Mannheim, Germany .  
+Peacock, W., 2003. Hurricane mitigation status and factors influencing mitigation status among Florida ’ s single-family homeowners. Nat. Hazard. Rev. 4 (3), 
+149 – 158. https://doi.org/10.1061/(ASCE)1527-6988(2003)4:3(149) . 
+Penning-Rowsell, E.C., Pardoe, J., 2012. Who benefits and who loses from flood risk reduction? Environ. Plann C Gov. Policy 30 (3), 448 – 466. https://doi.org/ 
+10.1068/c10208 . 
+Penning-Rowsell, E., Pardoe, J., 2014. The distributional consequences of future flood risk management in England and Wales. Environ. Plann. C Gov. Policy 33 (5), 
+1301 – 1321. https://doi.org/10.1177/0263774X15612345 . 
+Petrolia, D.R., Landry, C.E., Coble, K.H., 2013. Risk preferences, risk perceptions, and demand for flood insurance. Land Econ. 89 (2), 227 – 245 . 
+Petrolia, D.R., Hwang, J., Landry, C.E., Coble, K.H., 2015. Wind insurance and mitigation in the coastal zone. Land Econ. 91 (2), 272 – 295 . 
+Raschky, P.A., Schwarze, R., Schwindt, M., Zahn, F., 2013. Uncertainty of governmental relief and the crowding out of flood insurance. Environ. Resour. Econ. 54 (2), 
+179 – 200. https://doi.org/10.1007/s10640-012-9586-y . 
+Sayers, P., Penning-Rowsell, E.C., Horritt, M., 2018. Flood vulnerability, risk, and social disadvantage: Current and future patterns in the UK. Reg. Environ. Change 18 
+(2), 339 – 352. https://doi.org/10.1007/s10113-017-1252-z . 
+Schwarze, R., Schwindt, M., Weck-Hannemann, H., Raschky, P., Zahn, F., Wagner, G.G., 2011. Natural hazard insurance in europe: tailored responses to climate 
+change are needed. Environ. Policy Gov. 21, 14 – 30. https://doi.org/10.1002/eet . 
+Smith, V.K., Whitmore, B. 2019. Amenities, Risk, and Flood Insurance Reform (NBER Working Paper No. 25580). Cambridge, MA, USA. 
+Terpstra, T., Lindell, M.K., 2012. Citizens ’ perceptions of flood hazard adjustments: An application of the protective action decision model. Environ. Behav. 45 (8), 
+993 – 1018. https://doi.org/10.1177/0013916512452427 . 
+Thaler, T., Fuchs, S., Priest, S., Doorn, N., 2018. Social justice in the context of adaptation to climate change — reflecting on different policy approaches to distribute 
+and allocate flood risk management. Reg. Environ. Change 18 (2), 305 – 309. https://doi.org/10.1007/s10113-017-1272-8 . 
+Thieken, A.H., Müller, M., Kreibich, H., Merz, B., 2005. Flood damage and influencing factors: New insights from the August 2002 flood in Germany. Water Resour. 
+Res. 41 (12) https://doi.org/10.1029/2005WR004177 . 
+Thieken, A.H., Kienzler, S., Kreibich, H., Kuhlicke, C., Kunz, M., Mühr, B., Müller, M., Otto, A., Petrow, T., Pisi, S., Schr ¨oter, K., 2016. Review of the flood risk 
+management system in Germany after the major flood in 2013. Ecol. Soc. 21 (2), 51. https://doi.org/10.5751/ES-08547-210251 . 
+D. Osberghaus                                                                                                                                                                                                          

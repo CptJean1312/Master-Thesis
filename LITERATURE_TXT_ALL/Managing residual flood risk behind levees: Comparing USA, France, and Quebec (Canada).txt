@@ -1,0 +1,1488 @@
+[[PAGE 1]]
+ORIGINAL ARTICLE
+Managing residual flood risk behind levees: Comparing
+USA, France, and Quebec (Canada)
+Anna Serra-Llobet1,2 | Rémy Tourment 3 | Antonin Montané 4 |
+Thomas Buffin-Belanger5
+1University of California, Berkeley,
+California, USA
+2IMéRA, Aix-Marseille Université,
+Marseille, France
+3INRAE, Aix-en-Provence, France
+4CEREG, Gémenos, France
+5Université du Québec à Rimouski,
+Québec, Canada
+Correspondence
+Anna Serra-Llobet, Center for
+Catastrophic Risk Management, Social
+Science Matrix, 820 Social Sciences
+Building, Berkeley, CA 94720, USA.
+Email:
+annaserrallobet@berkeley.edu
+Funding information
+Institute of Advanced Studies (IMéRA) of
+Aix Marseille University; Laboratory of
+Excellence (Labex) OT-Med in Aix-en-
+Provence; Canadian Studies Program of
+the University of California at Berkeley's
+Sproul Research Fellowship; Belmont
+Forum Collaborative Research - US
+National Science Foundation Grant
+Number 2135879; Berkeley Research
+Impact Initiative (BRII)
+Abstract
+Although hydraulic infrastructure such as levees remain important for flood
+risk management in the USA, France, and Quebec (Canada), there is increas-
+ing emphasis on nonstructural measures, such as regulatory flood maps, to
+reduce exposure and vulnerability, for example, preventing people from build-
+ing in high hazard areas. One key concept related to areas protected by levees
+is that of “residual risk ”, that is, the risk from floods greater than the design
+standard of the levees (levee overtopping) and from levee breach. In this arti-
+cle, we review the legislative framework for regulatory flood maps in the USA,
+France, and Quebec (Canada) and compare how residual risk behind protec-
+tive structures is taken into account (or not) in regulatory flood maps. We find
+big differences in how the USA, France and Canada manage residual risk
+behind the levees. While in France the area behind levees is part of the regula-
+tory flood prone area, and land use restrictions, building codes, emergency
+measures and risk communication are mandatory, in the USA the area behind
+levees is only shown as part of the regulatory flood prone area if the levee is
+not accredited. In Quebec, regulatory flood maps in general follow the French
+approach with a few exceptions.
+KEYWORDS
+residual risk, regulatory flood maps, levees, France, USA, Quebec
+1 | INTRODUCTION
+For many years, structural (protection or defense) mea-
+sures have been central to flood risk management in the
+USA and in France, with a focus on reducing the hazard
+component of risk. Levees are designed to a certain level
+of protection (which in the USA is 100 years), above
+which they can breach or overtop. Urban development
+tends to increase in lands protected by levees and other
+hydraulic infrastructure because they engender a false
+sense of security known as the “levee effect ” (White
+et al.,
+2001). Furthermore, most residents behind levees
+don't understand their risk (Ludy & Kondolf, 2012). Over
+time, different dams and levees have shown the limita-
+tions of the structural measures approach to managing
+risks, for example, the 2005 floods in New Orleans during
+Hurricane Katrina (Burby,
+2006), the 2010 floods in La
+Faute-sur-Mer, France during the storm Xyntia
+Received: 6 August 2021 Revised: 17 November 2021 Accepted: 6 January 2022
+DOI: 10.1111/jfr3.12785
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any
+medium, provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+© 2022 The Authors. Journal of Flood Risk Management published by Chartered Institution of Water and Environmental Management and John Wiley & Sons Ltd.
+J Flood Risk Management. 2022;15:e12785. wileyonlinelibrary.com/journal/jfr3 1o f1 6
+https://doi.org/10.1111/jfr3.12785
+
+
+[[PAGE 2]]
+(Mercier & Chadenas, 2012; Vinet, Lumbroso, Defossez, &
+Boissier, 2012), and the 2019 floods in Sainte-Marthe-sur-
+le-Lac in the suburbs of Montreal, Quebec (Alalouf-Hall &
+Fontan, 2020; Olthof & Svacina, 2020).
+Flood risk management behind levees has evolved
+significantly in the last decades, especially after these
+events, moving from a more engineering oriented view
+that focuses on “controlling” the hazard with the use of
+structural works to a more holistic understanding of the
+concept of risk, which takes into account the “residual
+risk” behind the levees. This approach recognizes that
+the responsibility for flood risk management is shared by
+different levels of government and the individuals. To
+this end, there are two kinds of maps that are critical to
+manage residual risk behind levees. The first are what we
+call the “regulatory flood maps ”, which show the area
+within the floodplain where different flood-related regu-
+lations apply (e.g., building codes, flood insurance
+requirements, emergency strategies, risk communication,
+etc.). These maps are based on natural flood hazard maps
+and in the USA, France, and Quebec they regulate land
+use in the floodplain. These maps are available to the
+general public since one of the main goals is to promote
+wise use of floodplains. A second set of maps is focused
+on the performance of the hydraulic infrastructures
+(levees, dams, etc.) and show the potential consequences
+of overtopping or levee breach (Narayan et al.,
+2012; Say-
+ers, Hall, & Meadowcroft, 2002). In the USA, these maps
+are developed by the US Army Corps of Engineers
+(USACE) under the Levee Safety Program (LSP) or local
+and/or state partner agencies but are not available to the
+general public for reasons of security. In France, these
+maps correspond to the maps included in the “Etudes de
+Dangers” (Hazard Studies) and are public (Deniaux,
+Ledoux, Colin, Beullac, & Tourment,
+2018), although
+they are not widely and systematically disseminated. The
+idea of these maps is to complement the information
+from the regulatory flood maps. These second set of maps
+are mainly created to help levee owners to prioritize
+investment for the maintenance of the hydraulic infra-
+structures or to communicate risk associated to them,
+including preparation of emergency plans. This article is
+focused on the first set of maps.
+Regulatory flood maps such as the Flood Insurance
+Rate Maps (FIRMs) in the USA, the Flood Risk Preven-
+tion Maps ( Plans de Prévention de Risque d'inondations )
+(PPRi) in France, and the Flood Zone Maps ( Cartes des
+Zones Inondables ) (CZI) in Quebec have become critical
+tools to manage flood risk behind levees since they
+directly influence land use management. These regula-
+tory flood maps focus on the reduction of vulnerability,
+since they can discourage or forbid further development
+in the floodplain (reducing exposure in high hazard
+zones) or require building codes for existing and/or new
+developments located in the regulatory floodplain, which
+can increase the capacity to withstand a flood event.
+While management of flood risk through regulatory flood
+maps has been widely discussed in the literature
+(Barraqué,
+2014; Burby, 2001; Tourment & Beullac, 2019;
+Tourment, Beullac, & Poulain, 2017), less has been publi-
+shed on the implications of these maps in managing
+residual risk behind levees (Deniaux et al.,
+2018; Hutton,
+Tobin, & Montz, 2019). Regulatory flood maps made
+today can create very different scenarios of exposure and
+vulnerability that local and national governing agencies
+will have to face when managing flood risks in the future.
+The way these maps depict (or not) residual risk behind
+levees, and the way they are linked to different non-
+structural measures such as land use planning, flood
+insurance, emergency management strategies or risk
+communication can have tremendous implications for
+residual risk behind levees.
+With the goal to compare the effect of the levees on
+regulatory flood maps, in this article, we apply methods
+f r o mt h eU S A ,F r a n c ea n dQ u e b e ct ot h es a m ea r e a ,
+the city of Jargeau in France, to analyze the implica-
+tions of the three approaches in different aspects of
+flood risk management, in particular, land use plan-
+ning, flood insurance, emergency management and risk
+communication.
+1.1 | Study area: the city of Jargeau
+The city of Jargeau is protected by a levee system proving
+a level of protection greater than the 250-y flood
+(Figure 1). Jargeau is located in the Loire River Valley
+around 15 km east of Orléans, France, protected by the
+51-km-long Orléans Valley levee system, which protects
+160 km
+2 of valley bottom 30 km long and 5 km wide,
+occupied by 70,000 inhabitants, and crossed by the Paris-
+Toulouse railway line and the A71 motorway. The levees
+breached in the floods of 1846, 1856, and 1866, but con-
+tained the floods of 1907, 1923, and 2003 (Maurin,
+Boulay, Piney, Le Barbu, & Tourment,
+2012). The medie-
+val center of Jargeau is located on a hillock, with maxi-
+mum elevation of 108 meters, where the church stands.
+During the 1856 flood the levee protecting the east part
+of the city failed, flooding farmlands. This part of the
+levee was converted into a spillway (Figure
+1b) and
+another levee was built to protect the south-east part of
+the city (Figure
+1c); a spillway equipped with fuses limits
+overflows in the channel until a flood occurrence of the
+order of 1/250 years. The total length of the crest of the
+spillway is 700 m and the central part where the lowering
+is maximum is 570 m.
+2o f1 6 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+1.2 | Methods
+We analyzed the legislative framework related to the reg-
+ulatory flood maps in each country (Section 2). To com-
+pare technical aspects of the maps and their implications
+in different aspects of flood risk management (Section 3),
+we analyzed grey literature, conducted in person semi-
+structured interviews with public officials in France and
+organized a workshop in Berkeley to bring together sci-
+entists, and public officials from the USA and Canada. In
+Jargeau, we met with local floodplain managers and con-
+ducted site visit to components of the levee system.
+To produce the maps for Jargeau (Section
+4), we have
+used a combination of two GIS data sets: the PPRi GIS
+dataset provided by the Direction Départementale des Ter-
+ritoires (DDT) du Loiret, and the flood maps produced for
+the European Floods Directive on the Orléans zone. The
+only missing layer was the 20 y flood for the Quebec map,
+which was created approximately using water depths and
+velocities included in the PPRi dataset. The goal of the
+maps is not to map precisely each flood scenario but to
+show how different conception of flood risk management
+from each country would produce different flood maps.
+2 | LEGISLATIVE FRAMEWORKS
+FOR REGULATORY FLOOD MAPS IN
+THE USA, FRANCE, AND CANADA:
+BRIEF SUMMARY
+During the late 1960s, the 1970s and the 1980s, major
+reforms in the flood-related policies in the USA, France,
+and Canada shifted their national approaches, at that time
+mainly focused on flood control through hydraulic infra-
+structures, to a more holistic flood risk management
+approach that incorporated land use planning as a critical
+tool to reduce exposure and vulnerability to floods. Flood
+hazard maps became the cornerstone of these policies —
+filling a critical gap, as there were hardly any maps at that
+time (Burby,
+2001;L eB o u r h i s , 2003;L eB o u r h i s&
+Bayet, 2000). They were created to discourage develop-
+ments in hazardous areas or to require building codes such
+as elevating structures. The USA and France also created
+insurance systems to allow those affected by floods to
+recover faster. In the case of the USA, the maps were
+directly linked to the flood insurance system while in
+France they were not. In Canada, no national flood insur-
+ance system exists (Parliamentary Budget Office,
+2016).
+FIGURE 1 Location area of (a) the Orléans valley along the Loir River, (b) the Orléans valley levee system, and (c) the city of Jargeau
+SERRA-LLOBET ET AL . 3o f1 6
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+2.1 | Legislative framework for
+regulatory flood maps in the USA: The
+National Flood Insurance Program
+(NFIP) (1968)
+In the USA, Flood Insurance Rate Maps (FIRMs) are the
+official regulatory flood maps of a community on which
+FEMA has delineated both the Special Flood Hazard
+Area (SFHA), and the risk premium zones applicable to
+the community. Within the SFHA insurance is obligatory
+for structures with federally backed mortgages and out-
+side the SFHA insurance is recommended. The FIRMs
+are produced at a community scale and are a separate
+document from communities comprehensive/urban plan,
+although some communities might include the flood haz-
+ard area on their comprehensive plans and may create an
+“overlay” district on their zoning maps. The FIRMs are a
+key element of the National Flood Insurance Program
+(NFIP), which was created by Congress in 1968 under the
+National Flood Insurance Act, and amended significantly
+in 1969, 1973, and 1994.
+The basic idea was that the federal government would
+provide subsidized flood insurance if local communities
+agreed to create and enforce a “flood ordinance” that reg-
+ulates land use within an established flood hazard area,
+set as the extent of the 100-y (or 1% annual exceedance
+probability) flood to keep development out of flood-prone
+areas (Burby,
+2001; Eisenstein, Kondolf, & Cain, 2007).
+The 1% NFIP standard was intended to be a standard for
+flood insurance rating and not a national standard for
+flood protection or land use planning (Galloway &
+Link,
+2012). There is no national standard for flood regu-
+lation in the USA, per se. The USACE determines the
+level of protection to be provided by a USACE project
+(i.e., a levee) based on evolving analysis techniques and
+since 1965, the urban standard has nominally been the
+standard project flood, not a statistically derived flood
+(Baecher and Galloway,
+2021). Many USACE projects are
+designed to protect against a specified nonstatistically
+derived design flood. To make things more complex, deci-
+sions in the floodplain are now caught between old rules
+and new hydrologic realities. In 2008, hydrologists from
+the US Geological Survey published an article (Milly
+et al.,
+2008) indicating that (hydrologic) stationarity was
+dead and that procedures that had been used for decades
+to determine the 100-y flood were no longer appropriate,
+but new methodologies are still needed to update flood
+risk assessment and mapping approaches in the context
+of climate change (Milly et al.,
+2015).
+The NFIP is a voluntary program, which means that
+if a community decides not to participate in the program,
+they don't have to adopt the map or ordinance. In that
+case, they will not be eligible for postdisaster funding or
+subsidized flood insurance. Because of the voluntary
+nature of the program, FIRMs do not cover the whole
+USA territory, and sometimes maps are outdated
+(Johnson et al.,
+2020; Lulloff, 2013).
+As explained in FEMA ( 1981) and ( 1983), FEMA's
+policy has been to show the residual risk in areas protec-
+ted by levees in the FIRM. This policy was strengthened
+in Memorandum 34 (FEMA, 2005) which was issued just
+days before Hurricane Katrina struck New Orleans in
+August 2005 (ILPRC, 2006; NAS, 2013). Katrina killed
+over 2100 people and caused damages exceeding 125 bil-
+lion dollars (2005$ US). This disaster, caused largely as a
+result of levee breaches, raised awareness about residual
+risk behind levees among the general public.
+An accredited levee system is a system that the Fed-
+eral Emergency Management Agency (FEMA) has deter-
+mined to meet the design, data, and documentation
+requirements of the Title 44 of the Code of Federal Regu-
+lations (44 CFR 65.10) (
+2020). Many levees in the USA
+are not “accredited” on a Flood Insurance Rate Map,
+therefore, in these cases the SFHA (100-y flood), is
+mapped on the floodplain landward of the levee and the
+relevant building criteria and insurance requirements
+apply in communities that participate in the NFIP.
+However, if a levee is constructed with a 100-y flood
+standard of protection (and certified and accredited as
+providing this protection), the area behind the levee,
+although still depicted in the map, is then no longer con-
+sidered to be in the regulatory flood prone area. In the
+flood hazard area behind an accredited levee, flood insur-
+ance, is highly recommended by FEMA but not required
+and the minimum national NFIP standards for land use
+do not apply. However, States and communities can
+enact land use standards and building codes that go
+above the NFIP minimum standards, but the lack on
+mandatory standards in some cases has fostered the
+increase of developments behind levees (Hutton
+et al.,
+2019). Regarding emergency measures, evidence of
+a Flood Warning System (including emergency opera-
+tions provisions) is required by FEMA (FEMA, 2008)i n
+areas behind a levee.
+2.2 | Legislative framework for
+regulatory flood maps in France: the
+Cat'Nat' system (1982) and the flood risk
+prevention maps (PPRi) (1995)
+Unlike in the USA, in France regulatory flood maps are
+not directedly linked to the insurance system. In 1982,
+the French government passed a law concerning flood
+risk management (Loi n
+/C1482-600 du 13 juillet, 1982 rela-
+tive à l'indemnisation des victimes de catastrophes
+4o f1 6 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+naturelles). Articles 1 and 2 of the law define the Natural
+Catastrophes System (Catastrophes naturelles), known as
+the Cat'Nat', which is related to the flood insurance sys-
+tem, while article 5-1 refers to land use planning issues,
+including the flood hazard maps called Risk Exposure
+Maps (Plan d'Exposition aux Risques).
+On the one hand, the Cat'Nat' System was initially cre-
+ated to insure catastrophic floods related to heavy rains
+(larger than the 10-y return period, to exclude repetitive
+losses due to ordinary floods) and other natural disasters
+such as stroms, mudflows, landslides, avalanches, earth-
+quakes or volcanic eruptions (Douvinet,
+2006). Since 2003
+it also covers damages due to soil subsidence resulting from
+repeated droughts. The entire French population is covered
+by this public flood insurance, which is paid by a tax on
+insurance premiums on homeowners and automobile
+insurance of 12% and 6%, respectively (Barraqué,
+2014).
+On the other hand, the exposure prevention part of
+the law asked for the creation of Risk Exposure Maps,
+which include regulatory maps for different natural haz-
+ards (not only floods). After the 1995 a new law (Loi
+n
+/C1495-101 du 2 février, 1995 relative au renforcement de
+la protection de l'environnement) renamed the maps to
+Natural Risks Prevention Maps, known as PPRN ( Plan de
+Prévention des Risques Naturels ). In the case of riverine
+flooding, they are called flood risk prevention maps or
+PPRi ( Plan de Prévention des Risques d'inondation ) and
+for coastal flooding they are called PPRl ( Plan de Préven-
+tion des Risques littoral ). The main idea in the French
+approach is that everybody in France is insured for cata-
+strophic natural events under the Cat'Nat' System but on
+their side, local authorities must restrict developments in
+hazardous zones (Grislain-Letrémy & Peinturier,
+2010).
+The 1995 Law also created the Major Natural Haz-
+ard Prevention Funds ( Fonds de Prévention des Risques
+Naturels Majeurs ), also known as the Barnier Fund,
+which can be used as part of the Cat'Nat' pool for
+expropriation and amicable acquisitions of buildings in
+high hazardous zones. The Barnier Fund also covers
+other type of preventive measures, such as giving finan-
+cial support to finish the drafting of PPR, and some pre-
+ventive actions taken to implement the PPR
+(Barraqué,
+2014).
+In France, the PPRi are created by the “Préfectures”,
+local representatives of the national government.
+Although it does not constitute an urban planning docu-
+ment itself, the PPRi is the document that governs urban
+planning in the floodplains in France since 1995 (MATE-
+METL,
+1999; METL, 2002). These regulatory flood maps
+are obligatory in flood prone areas. In the PPRi, the area
+behind levees is part of the regulatory flood prone area,
+and land use restrictions, building codes, emergency
+measures and risk communication are mandatory.
+2.3 | Legislative framework for
+regulatory flood maps in Canada and
+Quebec: The National Flood Damage
+Reduction Program (1975 to early 2000s)
+and Quebec's Riverbanks, Riparian Zones
+and Floodplains Protection Policy (1987)
+Canada created the Flood Damage Reduction Program
+(FDRP) in 1975 with the goal to reduce flood damage and
+prevent loss of life by discouraging development in areas
+vulnerable to floods (Millerd, Dufournaud, & Schaefer,
+1994). Unlike the USA and France, Canada didn't create a
+flood insurance system. With a change in government, the
+FDRP was phased out starting in the early 1990s and the
+last of the agreements expired in 2000 (de Loë, 2000).
+Although there is no longer a federal flood manage-
+ment program, Natural Resources Canada (NRC) ( 2018)
+developed flood mapping guidelines to help provinces
+generate maps. The Guidelines at NRC are actually part
+of a broader program called the National Disaster Mitiga-
+tion Program through Public Safety Canada, which also
+provides funding for flood mapping, risk assessment, and
+mitigation (Public Safety Canada,
+2021). However, these
+mapping guidelines are not obligatory and provinces like
+Quebec have their own methods to map the regulatory
+flood area. Quebec mapping methods are linked to the
+Riverbanks, Riparian Zones and Floodplains Protection
+Policy ( PPRLPI, Politique de protection des rives, du lit-
+toraux et des plaines inondables ), enacted by the Govern-
+ment of Quebec in 1987 and amended on several
+occasions since (1996, 2005, 2008, 2015, and 2018) and is
+now under major revision following the 2017 and 2019
+flooding. Among other considerations for the riverine
+space, the PPRLPI describes the minimal buildings codes
+and land use restrictions in the regulatory flood prone
+areas.
+The regulatory flood maps in Quebec are called “Cartes
+de Zones Inondables ” (CZI) (Flood Zone Maps). The CZI
+are used by the Regional Municipal County (RMC) and
+have to be included within the general county planning
+called “schéma d'aménagement et de développement ”
+(SAD). The RMC is a supralocal entity that includes a
+group of municipalities and has some legal responsibilities
+such as creating and implementing the SAD. The SAD is
+developed with concertation of all municipalities and is
+implemented within the municipality's urban development
+planning.
+In Quebec, regulatory flood maps generally follow the
+French approach, showing the area behind levees as part of
+the regulatory flood prone area. However, a few areas have
+been exempted from depicting residual risk behind levees.
+Individual (i.e., private property) overland flood insur-
+ance at reasonable cost currently does not exist in Canada.
+SERRA-LLOBET ET AL . 5o f1 6
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+Since 2015, insurance companies have begun to offer flood
+insurance in provinces, and the Insurance Bureau of
+Canada has recently submitted a report to the federal gov-
+ernment about options to insure flood damages across the
+country. This flood insurance is only available in a few
+provinces, but not for properties at very high risk; nor is it
+available at reasonable cost (Parliamentary Budget
+Office,
+2016). In Quebec, as in the rest of Canada, up to
+2015, house insurance did not cover natural flood disasters.
+Home insurance could cover flooding due to sewage
+backup problems, but not damage due the presence of
+water from riverine flooding. Damages generated by floods
+are to be covered in part by fede ral and/or provincial spe-
+cific funding programs that are put in place when a signifi-
+cant flood occurs. These programs generally cover only
+limited items and house types, so usually residents must
+pay much of the damages. Following the 2017 flood, the
+Quebec government offers two alternative choices to
+homeowners whose homes have flooded (Boudreault,
+2020).
+O n eo p t i o ni sf o rt h eg o v e r n m e n tt op a yu pt oac u m u l a t i v e
+CA$100,000 for all future flood damages. The second option
+is for the government to pay CA$ 200,000 to buy the house
+or CA$250,000 to buy the house and the land. The rationale
+behind the program is that a homeowner possessing a
+house in an area that is repetitively flooded is likely to opt
+for the second choice (Molina,
+2019). According to Quebec's
+public security minister Geneviève Guilbault “We want to
+avoid people benefiting, year after year, from financial help
+without a maximum amount” (Adriano,
+2019).
+3 | IMPLICATION OF THE
+REGULATORY FLOOD MAPS TO
+MANAGE RESIDUAL RISK BEHIND
+LEVEES
+Flood hazard maps can be created using different types of
+information: hydrologic and hydraulic modeling (HHM),
+information from historical floods, ecological information
+(e.g., limits of the riparian forest), or geomorphological
+information based on geomorphic indicators (Figure
+2).
+As explained in Serra-Llobet, Tourment, Montané, and
+Buffin-Belanger ( 2021) and shown in Figure 3, the USA,
+France, and Quebec depict flood hazard information in
+different ways.
+3.1 | Regulatory flood maps in the USA:
+The FIRM
+In the USA, FIRMs are generated by FEMA for riverine
+and coastal floods following their own mapping stan-
+dards and guidelines (FEMA, 2021). Many earlier maps
+were based on expert judgment, but the standard is to
+base the FIRMs on HHM, mostly one-dimensional
+(1D) hydraulic models, but with the availability of the
+two-dimensional (2D) hydraulic model HEC-RAS 2D in
+the last decade, flood hazard maps are increasingly based
+on 2D modeling (USACE-HEC,
+2021). The maps are pre-
+pared at a scale of 1:6000 for the 10-, 50-, 100-, and 500-y
+floods. The SFHA, is defined for the 100-y flood elevation
+(also referred to as the Base Flood Elevation, BFE)
+(Figure
+3a). FIRMs are based on existing conditions (not
+take into account future land-use development, such as
+urban growth, or climate change), but current FEMA
+guidelines suggest that flood hazard determinations
+should consider conditions anticipated within 12 months
+following completion of the draft Flood Insurance Study
+(FIS) report such as channel modifications and flood pro-
+tection projects under construction (FEMA,
+2019).
+In FIRMs, the SFHA is called Zone A in areas
+affected by riverine flooding and Zone V in areas
+affected by coastal flooding. When these zones include
+information about the elevation, they are called Zone
+AE (Figure
+4a) and Zone VE. When a levee is accredited,
+the 100-y flood prone area behind the levee (which
+reflects the “without levee condition ”)i n c l u d e san o t e
+stating “area with reduced risk due to levee ” and is
+s h o w na sS h a d e dZ o n eXi nt h er e g u l a t o r yf l o o dm a p ,
+except for areas of residual flooding, such as ponding
+a r e a s ,w h i c ha r es h o w na sh i g h - r i s ka r e a s( S F H A s ) .
+Flood insurance is not mandatory but recommended in
+the Shaded Zone X.
+To be eligible for subsidized flood insurance commu-
+nities are expected to enforce flood regulations and to
+manage land use within the SFHA. Compliance with the
+model floodplain ordinance, required to be an NFIP par-
+ticipating community, in theory, eliminates development
+in the SFHA unless certain conditions apply, such as:
+appropriate elevation, demonstration that the develop-
+ment will not result in an increase to the BFE, permis-
+sion from all affected properties, etc. In practice, new
+buildings in the SFHA are commonplace in the USA
+because developments are not prohibited in the SFHA
+(Galloway,
+2005; Pinter, 2005), in part due to the takings
+doctrine linked to the property rights (Klein, 2019). This
+is a fundamental difference between the three
+approaches: while in the USA developments are not nec-
+essarily prohibited throughout the high hazard area (they
+are only discouraged), in Quebec and France they are.
+It is also important to note that the SFHA is regulated
+based on the elevation of the anticipated flood. Therefore,
+the term Base Flood Elevation (BFE or 100-y water sur-
+face elevation) is critical. If it can be demonstrated that
+the area shown in the SFHA is actually above the BFE,
+then the property, or structure is removed from the
+6o f1 6 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+SFHA. This is a common practice in the USA. Within the
+regulatory flood prone area, the maps often show the BFE,
+and the floodway. The insurance rate will depend on the
+finished floor elevation of the structure relative to the BFE
+and if the map was adopted before or after the structure
+was built. Outside the regulatory flood prone area, the
+maps also show areas of “moderate and low risk ”
+(although they are hazard areas). The area of moderate
+hazard (between the 100 and the 500-y flood) is also called
+“Shaded Zone X ”,a n dt h e“Unshaded Zone X ” shows the
+area of minimal hazard (above the 500-y flood).
+3.2 | Regulatory flood maps in France:
+The PPRi and PPRl
+In France, the regulatory flood maps of the PPRi are also
+based on flood hazard maps (1:5000) and are produced at
+the level of the “commune” (municipality) or a group of
+“communes”, following the hydraulic logic (watershed
+scale) rather than administrative logic, by combining dif-
+ferent hydraulic parameters depending on the regions of
+France. They include riverine and coastal flooding and,
+in some cases, flash flooding (in mountainous areas or in
+rivers with slopes exceeding 10%), although this is not
+very common. In France, the hydraulic modeling repre-
+sents the “crue de référence ” (the Reference Flood),
+which corresponds to a 100-y flood or the largest histori-
+cal flood known, whichever is higher (MATE-
+METL,
+2002) (Figure 3b). Furthermore, in the north of
+France, maps are commonly based on a combination of
+duration of submersion and water depth, while in the
+south, with a Mediterranean climate, maps are based on
+velocity and water depth.
+As a complementary tool, in France, each regional
+office of the Environment Ministry (DREAL, Directions
+Régionales de l'Environnement, de l'Aménagement et du
+Logement) has elaborated the Atlas des Zones Inondables
+(AZI) (The Atlas of the Flood Prone Areas) at a 1:25000
+scale, which provides information about the geomorpho-
+logical floodplains of France.
+After Storm Xynthia in 2010, France began to take cli-
+mate change into account more systematically, especially
+in coastal areas (MTES,
+2018a; Serra-Llobet et al., 2021).
+In 2019, the government defined once and for all the dif-
+ferent concepts and principles and integrated them into
+the Environmental Code, with the 2019 Decree Con-
+cerning Risk Prevention Maps for Riverine and Coastal
+Flooding (MTES,
+2019), in the context of the European
+Floods Directive ( 2007).
+In France, to create the regulatory flood maps, the
+PPRi or PPRl, the hazard maps are overlaid with an
+assets or land use (exposure) map (i.e., a land use map
+showing the urban and the rural areas) (Figure
+4b). On
+the regulatory map, nonurban zones and urban zones
+with a high hazard level, are depicted as a “red zone ”,
+within which new developments are prohibited. Urban
+zones with medium hazard intensity appear as a “blue
+zone”, which authorizes new buildings with some restric-
+tions. These are the two main basic zones depicted in the
+final regulatory maps in France. However, each com-
+mune/s can create subzones within them according to
+FIGURE 2 Types of information that can be used to create a flood map
+SERRA-LLOBET ET AL . 7o f1 6
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 8]]
+different flood characteristics (e.g., water velocities or
+depths). However, in this article, to simplify, we use the
+basic zones required in the PPRi guidelines (blue and
+red) to be able to make it a general example that could be
+extrapolated to other parts of France. Another interesting
+zone in the French approach is the “residual hazard
+zone” (yellow zone in Figures
+3b and 4b), but the meth-
+odology to delineate this zone changes in different
+FIGURE 3 Different methods and types of information used to identify the main flood prone areas depicted in regulatory flood maps in
+(a) the USA, (b) France, and (c) Quebec
+8o f1 6 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 9]]
+regions in France. The residual hazard zone is not man-
+datory in a PPRi, it depends on the will of each Direction
+Départementale des Territoires (DDT). There are two
+main configurations. In the south of France, the residual
+hazard zone corresponds to the floodplain delineated
+using a hydrogeomorphological approach. In other
+regions of France, the residual hazard zone could corre-
+spond to exceptional flood scenarios, such as the 200- or
+1000-y flood, as it is the case of the Orléans Valley or
+Lyon. However, the second configuration is very rare in
+France so it should not be considered as a rule.
+PPRis and PPRls are also directly linked to emergency
+management plans and risk communication. In France,
+all the communes with a PPRi have to have a local emer-
+gency plan ( Plan Communal de Sauvegarde ) (PCS) and
+have to inform the inhabitants about natural and
+FIGURE 4 Image showing
+assumptions made regarding
+hazard behind levees and main
+zones depicted in regulatory
+flood maps in (a) the USA,
+(b) France, and (c) Quebec
+SERRA-LLOBET ET AL . 9o f1 6
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 10]]
+technological risks with the so-called “Communal infor-
+mation document on major risks ” (Document d'Informa-
+tion Communale sur les Risques Majeurs ) (DICRIM). The
+DICRIMs have been mandatory since 1987 in all com-
+munes with Natural Risk Prevention Maps (PPRN) or a
+Special Intervention Map ( Plan Particulier d'Intervention )
+(PPI) (Dournel, Gralepois, & Douvinet,
+2015). The PPI
+are made for high-risk industrial plants (including also
+very large dams).
+In France regulatory flood maps consider profiles that
+reflect the “without levee ” condition, showing the area
+behind levees as part of the regulatory flood prone area.
+In addition to the hazard analysis done in the PPRi/PPRl,
+in France, the text of the Circular 27/07/11 (MTES,
+2011)
+also retains the “security bands ” or “precautionary
+bands”, where the hazard would be highest in case of
+levee breach or overtopping (Figure 4b). These precau-
+tionary bands are calculated for a range of loadings and
+taking into account the existence of a levee system, the
+potential of a flood level to exceed the levee crest (protec-
+tion level) and the potential of levee breach (security
+level), and the adverse consequences (Sayers et al.,
+2002).
+Regarding the zoning plan, the Circular tries to promote
+a compromise when in certain cases, exceptions could be
+authorized to the rule and building behind levees with a
+high level of maintenance and protection can happen,
+following a new framework related to the management
+and maintenance of hydraulic structures called GEMAPI
+(Gestion des Milieux Aquatiques et Prévention des
+Inondations). The GEMAPI framework gives more
+responsibility to the municipalities at an intercommunal
+level to manage levees (MTES,
+2018b). Local govern-
+ments are expected to demonstrate their ability to main-
+tain flood defenses and to integrate consideration of flood
+risk within urban planning and building regulations.
+However, these situations are still rare in France
+(Ledoux,
+2017).
+3.3 | Regulatory flood maps in Quebec:
+The CZI
+In Canada, the provinces have flexibility to regulate as they
+choose. Federal guidelines to create flood maps exist
+(Natural Resources Canada,
+2018), but Quebec has its own
+guidelines, and maps must be approved by the Direction
+de l'expertise hydrique (DEH), a service within the Envi-
+ronment Ministry at the provincial level. In Quebec, the
+regulatory flood maps (CZI) are generally defined using
+HHM for both 20- and 100-y floods at a 1:2000 scale, but
+they can also include information from historical floods
+and, more recently, from hydro geomorphological analyses
+(Biron et al.
+2014). The methodologicalc h o i c et op r o d u c e
+t h em a p sd e p e n d so nt h es t a k e sa tr i s kw i t h i nt h ef l o o d -
+plain and on the financial su pport available to produce the
+maps. Biological information is also used to define the
+“zone littoral ” (riparian zone) (2-y flood), an area that
+should be preserved to ensure the connectivity of the river
+with the immediate floodplain. In Quebec, clear guidelines
+to account for climate chang e when defining future flood
+prone areas have yet to be defined (Serra-Llobet
+et al.,
+2021).
+The CZIs define two regulatory zones according to
+the different return periods: the high probability zone
+(between 2 and 20 y), and the low probability zone
+(between 20 and 100 y) (Figure
+4c). They also show the
+riparian zone (2 y), where developments are prohibited
+with the exception of water dependent facilities, such as:
+boat decks, aquaculture, water extractions facility, river
+crossing, and cleaning measures. In the high probability
+zone (between 2 and 20 y), developments are forbidden,
+except for agricultural activities, modernization of exis-
+ting building (without increasing the building footprint),
+underground utilities, septic systems, water extractions
+facilities, recreational open-air facilities (other than golf),
+and agricultural drainage. Exemptions may be permitted
+in this zone with appropriate supporting analyses.
+Finally, in the low probability zone (between 20 and
+100 y), developments are allowed but the structures need
+to be floodproofed according to specific building codes.
+The Riverbanks, Riparian Zones and Floodplains Protec-
+tion Policy (PPRLPI) in Quebec acknowledges the pres-
+ence of flood prone areas behind levees as part of the
+regulatory flood prone area, which is called the Flood
+Zone. In order to ask for an exemption to remove the
+area behind a levee from the regulatory flood maps is
+necessary to produce a residual risk analysis, which has
+to be considered in the SAD (the general county
+planning).
+In Quebec, regulatory flood maps in general follow
+the French approach (Figure
+4c), considering profiles
+that reflect the “without levee ” condition, showing the
+area behind levees as part of the regulatory flood prone
+area. However, the areas behind levees can be
+exempted from being included in the flood prone area
+when an excemption is approved by the Ministère de
+l'Environnement et de la Lutte contre les Changements
+Climatiques. One of these, Sainte-Marthe-sur-le-Lac in
+the suburbs of Montreal, experienced a levee breach
+in April 2019, sending more t han 6000 residents fleeing
+to higher ground during devastating floods (Olthof &
+Svacina,
+2020; Radio-Canada, 2019). The 2017 and
+2019 floods highlighted the vulnerability of several
+communities living behind levees within the actual
+regulatory framework in which exemptions can occur
+in Quebec.
+10 of 16 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 11]]
+4 | APPLYING USA, FRANCE, AND
+QUEBEC METHODS TO THE CITY
+OF JARGEAU
+If we apply methods from the USA, France, and Quebec
+to the same area, the city of Jargeau in France, we can
+see big differences in the implications of the different
+approaches in areas behind levees in terms of flood risk
+management (Figure
+5 and Table 1).
+In the USA, there are four possible situations: situa-
+tion 1, with an accredited levee, situation 2, with a
+nonaccredited levee, situation 3, if the FIRM is old and
+doesn't incorporate the note on residual risk, situation
+4, if there is no map because the community decides not
+to join the NFIP. If the levee was accredited (situation 1)
+(Figure
+5a) people from Jargeau would be in a Shaded
+Zone X where the minimum national NFIP land use
+standards would not apply, but flood insurance would be
+highly recommended, and evidence of a flood warning
+system (including emergency operations provisions)
+would be required by FEMA (FEMA,
+2008). Risk com-
+munication would be voluntary in this case. If the levee
+was not certified (situation 2) (Figure 5b) Jargeau would
+be in SFHA, flood insurance would be required for all
+structures with a federally backed mortgage, land use
+planning and building codes requirements would apply
+to meet FEMA minimum standards and risk communica-
+tion would be voluntary. However, when flood insurance
+is mandatory there is usually some level of risk commu-
+nication associated with that requirement. If Jargeau had
+an old FIRM that did not have the note on residual risk,
+the area behind the levee might not be shown on a map
+as having any associated hazard (Figure
+5c). The same
+would happen if the community decided not to partici-
+pate in the NFIP (also Figure
+5c). In this case, although
+still recommended, there are no requirements in terms of
+flood insurance and minimum national NFIP standards
+for land use, and emergency preparedness measures and
+risk communication would depend on the community.
+In France, the areas behind levees would be included
+in the regulatory floodplain (Figure
+5d). In the red zone,
+developments would be prohibited and in the blue zone
+would be allowed with some restrictions (e.g., building
+codes). Subzones could be created according to water
+velocities and depths characteristics. Furthermore, a local
+emergency plan and risk communication would be man-
+datory, and all citizens of Jargeau would be covered by
+the public flood insurance. In the precautionary band
+(areas at potential risk for levee overtopping or levee
+breach), no developments would be allowed.
+Finally, if Jargeau was in Quebec (Figure
+5e), devel-
+opments would not be allowed in the high probability
+FIGURE 5 Regulatory Flood Map of Jargeau using USA methods (a –c), French methods (d), and Quebec methods (e, f). Four different
+situations exist for USA methods: (a) if the city is behind an accredited levee, (b) if the city is behind a nonaccredited levee, (c) if the map is
+old and does not depict the hazard area behind the levee, or if there is no map because the community decides not to join the NFIP (also c).
+In France, the area behind the levees is part of the regulatory flood prone area (d). Quebec follows the French example (e). However, in
+some occasions an exemption can be granted (f)
+SERRA-LLOBET ET AL . 11 of 16
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 12]]
+TABLE 1 Implications of the regulatory flood map in different aspects of flood risk management regarding to areas behind levees
+Flood risk management tools linked to regulatory flood maps regarding areas behind levees
+USA France Quebec
+Flood insurance rate maps (FIRM) Flood risk
+prevention maps
+(Plans de
+Prévention de
+Risque
+d'Inondations)
+(PPRi)
+(Figure
+5d)
+Flood zone maps
+(Cartes de Zones
+Inondables) (CZI,
+PPRLPI)
+(Figure
+5e)
+Situation 1 (certified/
+accredited levee
+Figure
+5a)
+Situation 2
+(noncertified/
+nonaccredited levee
+Figure
+5b)
+Situation 3 (FIRM
+without note on
+residual risk Figure
+5c)
+Situation 4 (no FIRM
+Figure 5c)
+Flood insurance Flood insurance linked to
+the FIRM.
+Recommended by
+FEMA in the Shaded
+Zone X
+Flood insurance linked to
+the FIRM. Mandatory
+for houses within the
+SFHA with federally
+backed mortgage
+Recommended by FEMA
+in areas behind levees
+without a note of
+residual risk
+Recommended by FEMA
+in areas behind levees
+without a FIRM
+Universal flood
+insurance covers
+all French
+citizens (flood
+insurance is not
+linked to the
+PPRi)
+Public financial
+programs. No
+national flood
+insurance exists
+in Canada
+Land use
+restrictions
+Minimum national NFIP
+standards not required
+by FEMA
+a
+Minimum national NFIP
+standards required by
+FEMA
+a
+Minimum national NFIP
+standards not required
+by FEMA
+a
+Minimum national NFIP
+standards not required
+by FEMA
+a
+Mandatory Mandatory
+Building codes
+requirements
+Minimum national NFIP
+standards not required
+by FEMAa
+Minimum national NFIP
+standards required by
+FEMAa
+Minimum national NFIP
+standards not required
+by FEMAa
+Minimum national NFIP
+standards not required
+by FEMAa
+Mandatory Mandatory
+Emergency
+preparedness
+tools
+Flood warning system
+(including emergency
+operations provisions)
+required by FEMA
+Flood warning system
+(including emergency
+operations provisions)
+not required by FEMA
+b
+Flood warning system
+(including emergency
+operations provisions)
+not required by FEMA
+b
+Flood warning system
+(including emergency
+operations provisions)
+not required by FEMA
+b
+Local emergency
+management
+plan mandatory
+Local emergency
+management
+plan mandatory
+Risk
+communication
+to citizens
+Voluntary Voluntary Voluntary Voluntary Risk
+communication
+report for the
+citizens
+mandatory
+Mandatory
+aHowever, states and communities can enact land use standard and building codes above national NFIP standards.
+bOn the FIRMs, FEMA shows the existence of levees and indicates whether they provide protection or not. If the levee is certified (by a professional engi neer, the US Army Corps of Engineers, or other authority) and
+accredited by FEMA, it is required to have a flood warning system. However, FEMA does not have authority over levees in the USA, and cannot require maint enance or other activities, which may be under the
+purview of other governmental authorities at the federal, state, or local level. If a levee is not accredited by FEMA, FEMA cannot require a flood warni ng system, but it does not mean it does not exist.
+12 of 16 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 13]]
+zone (20 y), and in the low probability zone (between
+20 and 100 y) developments would be allowed but the
+structures would need to be floodproofed according to
+specific building codes. If Jargeau received an excemption
+from the government, the area behind the levee would be
+removed from the flood prone area and developments
+would be allowed. However, there would be no clear
+guidance as to who is responsible for maintaining the
+infrastructure. According to the Plan d'action en matière
+de sécurite civile relative aux inondations (Gouvernement
+du Québec,
+2018) local emergency plans and risk com-
+munication is mandatory and has to be defined by the
+municipalities. In case of a flood, a new compensation
+system in place since 2019 would pay up to a cumulative
+CA$100,000 for all future flood damages or offer to pay to
+buy or move the house.
+5 | CONCLUSIONS: KEY
+DIFFERENCES AMONG THE THREE
+APPROACHES
+In recent decades, the USA, France, and Quebec have all
+experienced severe floods that have both challenged and
+strengthened their approaches to managing floods. All
+three share a similar general approach to deal with flood
+risk: the use of regulatory maps to reduce exposure and
+vulnerability to flood hazard. However, because of their
+geographic, demographic, governance, and cultural dif-
+ferences, the implementation of this concept ends up
+being very different among the three countries. In their
+written flood-related policies, there is a clear focus on the
+use of nonstructural measures linked to mitigation such
+as land use planning, building codes, flood insurance,
+emergency measures, or risk communication.
+In the USA, most attention has been paid to manag-
+ing the “design flood ” (the 100-y flood). However, areas
+behind levees are still subject to the residual risk of levee
+breach or overtopping (low probability high conse-
+quences). In the USA, FEMA is aware of the challenges
+of managing residual risk behind levees, challenges
+related in part to the mapping system. While trying to
+evolve its approach, FEMA can only display information
+about residual risk. In the end, it comes down to how
+local communities choose to manage residual risk. Fur-
+thermore, in the USA the area behind levees is shown as
+part of the regulatory flood prone area only if the levee is
+not accredited. Behind FEMA accredited levees this area
+appears as “Shaded Zone X ”, where national minimum
+NFIP land use standards are not mandatory, which, in
+many cases has created incentives to increase develop-
+ments in these areas. Recognizing the critical importance
+of managing these areas, FEMA and the USACE now
+recommend increased risk communication, emergency
+preparedness measures, and flood insurance in these
+areas. However, is up to the local governments to recog-
+nize residual risk behind protection structures such as
+levees and to take steps to control development there.
+In contrast, France has a more top-down approach,
+and designates the area behind levees as part of the regu-
+latory flood prone area, with mandatory land-use restric-
+tions, building codes, emergency measures and risk
+communication. In France, flood insurance is not linked
+to the regulatory maps. All French citizens are covered
+for catastrophic floods with a universal, publicly funded
+flood insurance.
+In Quebec, regulatory flood maps generally follow the
+French approach and show the area behind levees as part
+of the regulatory flood prone area, with mandatory land-
+use restrictions and building codes. However, a few areas
+have been exempted from depicting residual risk behind
+levees. One of these, Sainte-Marthe-sur-le-Lac (Montreal)
+flooded from a levee breach in April 2019, bringing the
+policy again into public scrutiny. This event has reopened
+the debate in Quebec about whether and how to
+acknowledge residual flood risk behind levees. Similarly,
+the July 2021, a levee breach along the Meuse in Lim-
+burg, Netherlands, raised awareness of residual flood risk
+across Europe (Plevier & van den Berg,
+2021). One month
+later, several small towns in the southern half of Jeffer-
+son Parish (next to New Orleans), were inundated when
+levees surrounding the towns overtopped during Hurri-
+cane Ida, “sending several hundred people who were
+there riding out the storm into attics and onto roofs ”
+(Jiménez, Taylor, & Robertson,
+2021).
+The same event that caused the levee breach in the
+Netherlands took 184 lives in Germany and caused over
+30 billion Euro in damages. This event was estimated to
+have been intensified by a factor of 1.2 to 9 due to climate
+change (Kreienkamp et al.,
+2021). The increasing number
+of such extreme events argues for a shift in our manage-
+ment approaches of residual flood risk, which now rely
+on maps showing statistical values such as 100-y flooding
+frequencies that may no longer hold true. However, today
+there is no consensus in a substitute methodology (Milly
+et al.,
+2015).
+ACKNOWLEDGMENTS
+We thank the Institute of Advanced Studies (IMéRA) of
+Aix-Marseille University, the Laboratory of Excellence
+(Labex) OT-Med in Aix-en-Provence, the Canadian Stud-
+ies Program of the University of California at Berkeley's
+Sproul Research Fellowship for their support to this
+research, and the Belmont Forum Collaborative
+Research: “Residual Risk of Extreme Floods: A Challenge
+for Achieving Sustainable Development Goals ”,U S
+SERRA-LLOBET ET AL . 13 of 16
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 14]]
+National Science Foundation Grant Number 2135879.
+We also thank Eric Simmons (FEMA region IX), Jennifer
+Marcy (Atkins), David Powers (CDM Smith) and Robin
+Bourke (Government of Canada) for their comments on
+earlier drafts of the manuscript. We thank Didier Vivet,
+DREAL Centre-Val de Loire, for providing the PPRi GIS
+dataset for Jargeau and the flood maps produced for the
+European Floods Directive, and for hosting field visit to
+see the flood control infrastructures in Jargeau. Finally,
+we thank the two anonymous reviewers for insightful
+comments that improved the article. This publication
+was made possible in part by support from the Berkeley
+Research Impact Initiative (BRII) sponsored by the UC
+Berkeley Library.
+DATA AVAILABILITY STATEMENT
+The article is based on review of prior published research
+(openly available) and GIS data layers available from the
+Direction Départementale des Territoires (DDT) du
+Loiret, and the flood maps produced for the European
+Floods Directive on the Orléans zone (
+https://www.
+loiret.gouv.fr).
+ORCID
+Anna Serra-Llobet https://orcid.org/0000-0002-1520-
+1927
+REFERENCES
+Adriano, L. (2019). Quebec's new disaster relief program sets caps
+on flood compensation. April 17, 2019. Insurance Business
+Canada.
+https://www.insurancebusinessmag.com/ca/news/
+flood/quebecs-new-disaster-relief-program-sets-caps-on-flood-
+compensation-165093.aspx
+A l a l o u f - H a l l ,D . ,&F o n t a n ,J . - M .( 2 0 2 0 ) .G e s t i o nd e sc a t a s t r o p h e s
+naturelles en sol québécois: rendre socialement et écologiquement
+responsables les processus de développement des territoires
+affligés. Revue Organisations & Territoires , 29(2), 127 –139.
+https://doi.org/10.1522/revueot.v29n2.1156
+Baecher, G.B., & Galloway, G.E. (2021). US Flood risk management
+in changing times. Water Policy , 23(S1), 202. https://doi.org/10.
+2166/wp.2021.269
+Barraqué, B. (2014). The common property issue in flood control
+through land use in France. Journal of Flood Risk Management ,
+10, 182–194. https://doi.org/10.1111/jfr3.12092
+Biron, P. M., Buffin-Bélanger, T., Larocque, M., Choné, G.,
+Cloutier, C.-A., Ouellet, M.-A., Demers, S., Olsen, T.,
+Desjarlais, C., & Eyquem, J. (2014). Freedom Space for Rivers:
+A Sustainable Management Approach to Enhance River Resil-
+ience. Environmental Management, 54, 1056–1073.
+Boudreault, M. (2020). Limite à vie sur les inondations: vers un nou-
+veau pacte social? The conversation,
+https://theconversation.
+com/limite-a-vie-sur-les-inondations-vers-un-nouveau-pacte-social-
+132304
+Burby, R. (2001). Flood Insurance and floodplain management: the
+US experience. Environmental Hazards, 3, 111–122.
+Burby, R. (2006). Hurricane Katrina and the paradoxes of govern-
+ment disaster policy: Bringing about wise governmental deci-
+sions for hazardous areas. The Annals of the American
+Academy of Political and Social Science , 604, 171–191.
+Code of Federal Regulations (CFR) Title 44, Part 60, Section 60.3(d)
+(2) Flood plain management criteria for flood-prone areas 2020
+de Loë, R. (2000). Floodplain management in Canada: Overview
+and prospects. Canadian Geographer, 44(4), 355–368.
+Deniaux, Y., Ledoux, P., Colin, B., Beullac, B., & Tourment, R.
+(2018). In Y. Deniaux & P. Ledoux (Eds.), /C19Etude de dangers de
+systèmes d'endiguement Concepts et principes de réalisation des
+études (p. 62). CEREMA.
+Dournel, S., Gralepois, M., & Douvinet, J. (2015). Les projets
+urbains en zones inondables communiquent-ils sur les risques?
+Regard sur les politiques d'aménagement de quartiers à Saint-
+/C19Etienne, Orléans et Nantes. Revue belge de géograohie (Belgeo) .
+https://doi.org/10.4000/belgeo.16691
+Douvinet, J. (2006). Intérêts et limites des données « CatNat » pour
+un inventaire des inondations. L'exemple des « crues rapides »
+liées à de violents orages (Bassin parisien, Nord de la France),
+Norois [En ligne], 201.
+https://doi.org/10.4000/norois.1733
+E i s e n s t e i n ,W . ,K o n d o l f ,G .M . ,&C a i n ,J .( 2 0 0 7 ) .ReEnvisioning the delta:
+Alternative futures for the heart of California. Institute of Urban and
+Regional Development, University of California, Berkeley.
+European Union. (2007). Directive 2007/60/EC of the European
+Parliament and of the Council of 23 October 2007 on the
+Assessment and the Management of Flood Risks. http://eurlex.
+europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:288:0027:
+0034:EN:PDF
+FEMA (Federal Emergency Management Agency). (1981). FEMA
+Levee Policy (Issued February 10, 1981) (p. 8). FEMA.
+FEMA (Federal Emergency Management Agency). (1983). Levees.
+Memorandum to Engineering Branch Staff Technical Evaluation
+Contractors from Brian R. Mrazik, Chief Engineering Branch
+(p. 3). FEMA.
+FEMA (Federal Emergency Management Agency). (2005). Procedure
+memorandum 34: Interim guidance for studies including levees.
+Memorandum for Regional Directors, Regions I –Xf r o mD a v i d
+I. Maurstad, Acting Directior, Mitigation Division(p. 34). FEMA.
+FEMA (Federal Emergency Management Agency) (2008) Meeting
+the criteria for accrediting levee systems on NFIP flood maps
+how-to-guide for floodplain managers and engineers. Fact
+sheet.
+https://www.fema.gov/media-library-data/20130726-
+1600-20490-4180/lv_accredit_checklist_nov08.pdf
+FEMA (Federal Emergency Management Agency) (2019). Guidance
+for flood risk analysis and mapping: Levees. https://www.fema.
+gov/media-library-data/1524085432002-e9d771ca450758832f64f
+8e4f1ff2779/Levee_Guidance_Feb_2018.pdf
+FEMA (Federal Emergency Management Agency). 2021. Guidelines
+and standards for flood risk analysis and mapping activities
+under the risk MAP program.
+https://www.fema.gov/flood-
+maps/guidance-reports/guidelines-standards
+Galloway, G. E. (2005). Corps of engineers responses to the changing
+national approach to floodplain management since the 1993 mid-
+west flood. Universities Council of Water Resources. Journal of
+Contemporary Water Research & Education. 130(1), 5–12.
+Galloway, G. E., & Link, L. E. (2012). A white paper: The need for a
+unified national program for floodplain management in the 21st
+14 of 16 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 15]]
+century. Report prepared for the federal interagency floodplain
+management task force . Abt Associates.
+Gouvernement du Québec. (2018). Plan d'action en matière de
+sécurité civile relatif aux inondations: vers une société
+québécoise plus résiliente aux catastrophes. Ministère de la
+sécurité publique, 48.
+www.securitepublique.gouv.qc.ca/
+Grislain-Letrémy, C. and Peinturier, C. (2010). Le régime d'assur-
+ance des catastrophes naturelles en France métropolitaine entre
+1995 et 2006. Document de travail No 22. Affiliation: French
+Ministry of Sustainable Development, Collection Economie et
+Evaluation.
+Hutton, N. S., Tobin, G. A., & Montz, B. E. (2019). The levee effect
+revisited: Processes and policies enabling development in Yuba
+County, California. Journal of Flood Risk Management , 12,
+e12469.
+https://doi.org/10.1111/jfr3.12469
+ILPRC (Interagency Levee Policy Review Committee). (2006). The
+National Levee Challenge: Levees and the FEMA Flood Map
+Modernization Initiative.
+https://www.fema.gov/media-library-
+data/20130726-1606-20490-2709/levee_report_final.pdf
+Jiménez, J., Taylor, D. B., & Robertson, C. (2021). Louisiana surveys
+the wreckage left by Hurricane Ida . The New York Times.
+https://www.nytimes.com/live/2021/08/30/us/hurricane-ida-
+updates#louisiana-surveys-the-wreckage-left-by-hurricane-ida
+Johnson, K. A., Wing, O. E. J., Bates, P. D., Fargione, J.,
+Kroeger, T., Larson, W. D., Sampson, C. C., & Smith, A. M.
+(2020). A benefit –cost analysis of floodplain land acquisition
+for US flood damage reduction. Nat Sustain , 3,5 6 –62. https://
+doi.org/10.1038/s41893-019-0437-5
+Klein, C.A. (2019). The national flood insurance program at fifty:
+How the fifth amendment takings doctrine skews federal flood
+policy, 31 Geo. Envtl. L. Rev. 285
+Kreienkamp, F., Philip, S. Y., Tradowsky, J. S., Kew, S. F.,
+Lorenz, P., Arrighi, J., et al. (2021). Rapid attribution of heavy
+rainfall events leading to the severe flooding in Western Europe
+during July 2021.
+https://www.worldweatherattribution.org/
+wp-content/uploads/Scientific-report-Western-Europe-floods-
+2021-attribution.pdf
+[12.09.2021]
+Le Bourhis, J.-P. (2003). In O. Oihl, M. Kaluszynski, & G. Pollet
+(Eds.), Quadriller le territoire. La cartographie au service de
+l'action publique contre les risques naturels . Les sciences du
+gouvernement, Economica.
+Le Bourhis, J. P., & Bayet, C. (2000). Le Zonage comme instrument
+de gouvernement: le cas des risques naturels. Annales des ponts
+et chaussées,5 2–58.
+Ledoux, B. (2017). La Politique de Prévention du Risque
+d'Inondation en France et en Angleterre: de l'action publique
+normative à la gestion intégrée. In F. Vinet (Ed.), Floods. Vol-
+ume 2: Risk Management . ISTE Press: Elsevier.
+Loi n
+/C1482–600 du 13 juillet, 1982. Relative à l'indemnisation des
+victimes de catastrophes naturelles. https://www.legifrance.
+gouv.fr/loda/id/JORFTEXT000000691989/
+Loi n/C1495-101 du 2 février, 1995. Relative au renforcement de la pro-
+tection de l'environnement. https://www.legifrance.gouv.fr/
+loda/id/JORFTEXT000000551804/
+Ludy, J., & Kondolf, G. M. (2012). Flood risk perception in lands
+“protected” by 100-year Levees. Natural Hazards , 61, 829 –842.
+https://doi.org/10.1007/s11069-011-0072-6
+Lulloff, A. (2013). The floodway encroachment standard: Minimiz-
+ing cumulative adverse impacts. ASFPM.
+MATE-METL (Ministère de l'Aménagement du Territoire et de
+l'Environnement, Ministère de l'Equipement, des Transports et
+du Logement) (1999). Plans de prévention des risques naturels
+(PPR). Risques d'inondations: Guide Méthodologique. Paris
+MATE-METL (Ministère de l'Aménagement du territoire et de
+l'environnement: Ministère de l'équipement, des transports et
+du logement.) (2002). Circulaire du 30 avril 2002 relative à la
+politique de l'Etat en matière de risques naturels prévisibles et
+de gestion des espaces situés derrière les digues de protection
+contre les inondations et les submersions marines.
+http://www.
+bulletin-officiel.developpement-durable.gouv.fr/fiches/BO200219/
+A0190045.htm
+Maurin, J., Boulay, A., Piney, S., Le Barbu, E., & Tourment, R.
+(2012). Les brèches des levées de la Loire: brèche de Jargeau 1856.
+Congrès SHF /C19Evénements extrêmes fluviaux et maritimes
+(p. 8). SHF.
+Mercier, D., & Chadenas, C. (2012). La tempête Xynthia et la
+cartographie des « zones noires » sur le littoral français: analyse
+critique à partir de l'exemple de La Faute-sur-Mer (Vendée).
+Norois, 1(222), 45–60. https://doi.org/10.4000/norois.3895
+METL (Ministère de l'Equipement, des Transports et du Logement).
+(2002). Le Plans de prevention des risques naturels (PPR):
+Risques d'inondation. Ministere de l'amenagement du territoire
+et de l'envionnement. Edité par Documentation Francaise.
+https://
+side.developpement-durable.gouv.fr/ACCRDD/doc/SYRACUSE/
+36046/le-plans-de-prevention-des-risques-naturels-ppr-risques-d-
+inondation
+Millerd, F., Dufournaud, C., & Schaefer, K. (1994). Canada-Ontario
+flood damage reduction program case studies. Canadian Water
+Resources Journal, 19(1), 17–26.
+Milly, P. C. D., Betancourt, J., Falkenmark, M., Hirsch, R. M.,
+Kundzewicz, Z. W., Lettenmaier, D. P., & Stouffer, R. J. (2008).
+Stationarity is dead: Whither water management? Science,
+319(5863), 573–574. https://doi.org/10.1126/science.1151915
+Milly, P. C. D., Betancourt, J., Falkenmark, M., Hirsch, R. M.,
+Kundzewicz, Z. W., Lettenmaier, D. P., Stouffer, R. J.,
+Dettinger, M. D., & Krysanova, V. (2015). On critiques of
+“stationarity is dead: Whither water management? ”. Water
+Resources Research , 51, 7785 –7789.
+https://doi.org/10.1002/
+2015WR017408
+Molina, K. (2019). 'We have no choice': Flooded Gatineau residents
+mull buyouts . Canadian Broadcasting Corporation. https://
+www.cbc.ca/news/canada/ottawa/gatineau-residents-quebec-
+flood-buyouts-1.5144128
+MTES (Ministère de la Transition /C19Ecologique et Solidaire) (2011) Cir-
+c u l a i r ed u2 7 / 0 7 / 1 1r e l a t i v eàl ap r i s ee nc o m p t ed ur i s q u ed es u b -
+mersion marine dans les plans de prévention des risques naturels
+littoraux.
+https://aida.ineris.fr/consultation_document/6925
+MTES (Ministère de la Transition /C19Ecologique et Solidaire) (2018a)
+Project of Décret relatif aux plans de prévention des risques con-
+cernant les « aléas débordement de cours d'eau et submersion
+marine ».
+https://www.consultations-publiques.developpement-
+durable.gouv.fr/projet-de-decret-relatif-aux-plans-de-prevention-
+a1848.html
+MTES (Ministère de la Transition /C19Ecologique et Solidaire) (2018b)
+Gestion des milieux aquatiques et prévention des inondations
+(GEMAPI) Volet « prévention des inondations » Quels effets
+pour les collectivités locales au 1er janvier 2018 en matière
+d'ouvrages de protection?
+https://www.ecologique-solidaire.
+SERRA-LLOBET ET AL . 15 of 16
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 16]]
+gouv.fr/sites/default/files/Guide_GEMAPI_inondations_
+2018.pdf
+MTES (Ministère de la Transition /C19Ecologique et Solidaire). (2019).
+Décret n /C142019-715 du julliet 2019 relatif aux plans de préven-
+tion des risques concernant les « aléas débordement de cours
+d'eau et submersion marine ». Journal Officiel de la République
+Française. https://www.legifrance.gouv.fr/loda/id/JORFTEXT0
+00038730822/
+Narayan, S., Hanson, S., Nicholls, R. J., Clarke, D., Willems, P.,
+Ntegeka, V., & Monbaliu, J. (2012). A holistic model for coastal
+flooding using system diagrams and the Source-Pathway-
+Receptor (SPR) concept. Natural Hazards and Earth System Sci-
+ences, 12, 1431 –1439.
+https://doi.org/10.5194/nhess-12-1431-
+2012
+NAS (National Academy of Sciences). (2013). Levees and the
+National Flood Insurance Program: Improving policies and
+practices.
+https://thewateraway.files.wordpress.com/2011/12/
+levees-and-the-nfip.pdf
+Natural Resources Canada. (2018). Federal Flood Mapping
+Framework, Version 2.0. General Information Product
+112e, 24.
+Olthof, I., & Svacina, N. (2020). Testing urban flood mapping
+approaches from satellite and in-situ data collected during 2017
+and 2019 events in Eastern Canada. Remote Sensing , 12, 3141.
+https://doi.org/10.3390/rs12193141
+Parliamentary Budget Office. (2016). Estimate of the average annual
+cost for disaster financial assistance arrangements due to
+weather events. Government of Canada.
+Pinter, N. (2005). One step forward, two steps back on
+U.S. Floodplains. Science, 308, 207–208.
+Plevier, E., & van den Berg, S. (2021). Thousands flee as flood water
+breach Dutch defences . Reuters.
+https://www.reuters.com/
+business/environment/families-told-flee-flood-waters-breach-
+dutch-dyke-2021-07-16/
+Public Safety Canada. (2021). National Disaster Mitigation Program
+(NDMP). https://www.publicsafety.gc.ca/cnt/mrgnc-mngmnt/
+dsstr-prvntn-mtgtn/ndmp/index-en.aspx.
+Radio-Canada (2019). Rupture d'une digue: 6000 personnes évac-
+uées à Sainte-Marthe-sur-le-Lac. 2019, 28 avril https://ici.radio-
+canada.ca/nouvelle/1166655/rupture-digue-sainte-marthe-lac-
+evacuation-residences
+Sayers, P. B., Hall, J. W., & Meadowcroft, I. C. (2002). Towards risk-
+based flood hazard management in the UK. Proceedings of ICE
+Civil Engineering, 150,3 6–42.
+Serra-Llobet, A., Tourment, R., Montané, A. Buffin-Belanger, T.
+(2021). Acknowledging residual risk behind levees: Examples
+from the USA, France, and Quebec (Canada). FLOODrisk 2020
+Online Conference Proceedings . June 22 –24, 2021. https://doi.
+org/10.3311/FLOODRisk2020.9.22
+Tourment, R., & Beullac, B. (2019). Inondations: Analyse de risque
+des systèmes de protection —Application aux études de dangers
+(p. 356). Lavoisier.
+Tourment, R., Beullac, B., & Poulain, D. (2017). Management and
+safety of flood defense systems. In F. Vinet (Ed.), Floods. Vol-
+ume 2: Risk management . ISTE Press: Elsevier.
+USACE-HEC (U.S. Army Corps of Engineers: Hydrologic Engineer-
+ing Center). (2021). HEC RAS 2D User's Manual . U.S. Army
+Corps of Engineers. https://www.hec.usace.army.mil/confluence/
+rasdocs/r2dum/latest
+Vinet, F., Lumbroso, D., Defossez, S., & Boissier, L. (2012). A com-
+parative analysis of the loss of life during two recent floods in
+France: the sea surge caused by the storm Xynthia and the flash
+flood in Var. Natural Hazards , 61, 1179 –1201.
+https://doi.org/
+10.1007/s11069-011-9975-5
+White G., Kates, R., Burton, I. (2001). Knowing better and losing
+even more: The use of knowledge in hazards management.
+Global Environmental Change Part B: Environmental Hazards ,
+3, 81-92.
+https://doi.org/10.1016/S1464-2867(01)00021-3
+How to cite this article: Serra-Llobet, A.,
+Tourment, R., Montané, A., & Buffin-Belanger, T.
+(2022). Managing residual flood risk behind levees:
+Comparing USA, France, and Quebec (Canada).
+Journal of Flood Risk Management , 15(2), e12785.
+https://doi.org/10.1111/jfr3.12785
+16 of 16 SERRA-LLOBET ET AL .
+ 1753318x, 2022, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12785 by Unibibl. Der Hu Berlin - Grimm-Zentrum, Wiley Online Library on [03/02/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

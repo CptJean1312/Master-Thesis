@@ -1,0 +1,627 @@
+[[PAGE 1]]
+Socio-hydrology: A new science of people and water
+Murugesu Sivapalan, 1,2*
+Hubert H. G. Savenije 3 and
+Günter Blöschl 4
+1 Department of Civil and
+Environmental Engineering,
+Department of Geography, University
+of Illinois at Urbana-Champaign,
+Urbana, IL 61801, USA
+2 Department of Civil and
+Environmental Engineering, University
+of Technology Sydney, Broadway, NSW
+2007, Australia
+3 Department of Water Management,
+Faculty of Civil Engineering and
+Geosciences, Delft University of
+Technology, Delft, The Netherlands
+4 Institute for Hydraulic and Water
+Resources Engineering, Vienna
+University of Technology, Vienna,
+Austria
+*Correspondence to:
+Sivapalan, Murugesu, Geography and
+Civil and Environmental Engineering,
+University of Illinois at Urbana-Champaign
+E-mail: sivapala@illinois.edu
+Humans have changed the way the world works. Now they have to change
+the way they think about it, too . The Economist, May 26, 2011
+THE COUPLED HUMAN-WATER SYSTEM
+Dateline November 2010, Murrumbidgee River Basin, Australia: Irrigators
+are up in arms over proposed government plans to cut their water
+allocations and return ﬂows back to the basin ’s rivers to support the
+environment and restore lost biodiversity. The Australian of November 04,
+2010 reported on the community backlash, including the resort to ‘book
+burning’ to highlight their plight. Community backlash and ‘book burning’
+notwithstanding, the reality is that this con ﬂict had been brewing for
+decades. Now, wind back the clock 100 years to the early 20 th century. Up
+until 1900, there were virtually no dams and almost no irrigation on the
+Murrumbidgee. With demand for food for a growing population and the
+possibility of generating agricultural exports, irrigated farming expanded
+along the river corridor from 1920 onwards. By 1940, abstractions during
+low ﬂows had increased to 50% of the natural ﬂow and by 1950 to almost
+100% (Roderick, 2011). Over this period, the predominant direction of
+farming development, construction of water ‘assets’ (e.g. dams and weirs) as
+well as water extractions was upstream. However, things came to a head in
+the 1980s, with increasing deterioration of river health and the recognition
+that previous farming practices were no longer sustainable. Protection of the
+environment was on the political agenda, along with a commitment not only
+to return water to rivers to nurse them back to health, but also to help
+agricultural industries to rise up to the challenge of a drier future. After
+30 years of seemingly ongoing crisis conditions, a protracted drought and a
+looming federal election precipitated government action in early 2007. The
+result was a concerted plan by government to buy back water rights of
+willing farmers and build new assets aimed at increasing water use efﬁciency
+and protecting the environment [Murray-Darling Basin Authority (MDBA),
+2010]. For example, there has been an increasing trend for upstream rice
+growers to sell back their annual allocations, and for downstream
+horticulturalists to purchase fresh allocations during low allocation seasons.
+This meant that, from 2000 onwards, water abstractions as well as water
+assets that had been migrating upstream in the early 20
+th century are now
+beginning to move back downstream (Figure 1). Whereas the sole customer
+for 100 years was irrigated farming, now there is a new ‘customer in town’,
+called the ‘environment’. More and more, much of the business of water
+management in the basin, including the building of new assets, is aimed at
+satisfying the environment, a phenomenon that wouldn’t have been foreseen
+in the heady days of irrigation development and dam building. No wonder
+the irrigators are up in arms.
+If the competition between irrigation and the riparian environment
+continues in this way in the Murrumbidgee over the next decades, one
+can foresee a landscape, including human population patterns and
+human-induced structures, which co uld look very different from what it
+is now (Figure 1). Could we predict this? What will be the role of
+Received 10 November 2011
+Accepted 14 November 2011
+HYDROLOGICAL PROCESSES
+Hydrol. Process. (2011)
+Published online in Wiley Online Library (wileyonlinelibrary.com). DOI: 10.1002/hyp.8426
+Copyright © 2011 John Wiley & Sons, Ltd.
+
+[[PAGE 2]]
+hydrology in any changes in the landscape including
+societal changes, and in return, what will be the impact
+of the societal changes on water cycle dynamics?
+Should such predictions be the business of hydrologists
+or social scientists? The common history of hydrology
+and the societal changes seen in the Murrumbidgee is
+an example of unexpected process dynamics. With
+such dramatic changes to the landscape, prediction of
+water cycle dynamics over long timescales is not
+feasible without including the interactions and feed-
+backs with human systems.
+Welcome to socio-hydrology, the science of people
+and water, a new science that is aimed at under-
+standing the dynamics and co-evolution of coupled
+human-water systems. As pointed out in a recent
+editorial in the Economist magazine (see below),
+natural scientists have for too long ignored the human
+factor. Hydrologists are not exceptions to this. In
+traditional hydrology, human-induced water resources
+management activities are prescribed as external
+forcings in the water cycle dynamics, under the
+assumption of stationarity (Milly et al ., 2008; Peel
+and Blöschl, 2011). In socio-hydrology, humans and
+their actions are considered part and parcel of water
+cycle dynamics, and the aim is to predict the dynamics
+of both.
+“Too many natural scientists embrace the comforting
+assumption that nature can be studied, indeed should be
+studied, in isolation from the human world, with people
+as mere observers. Many environmentalists —especially
+those in the American tradition inspired by Henry David
+Thoreau—believe that “in wilderness is the preservation
+of the world ”. But the wilderness, for good or ill, is
+increasingly irrelevant .”– Editorial in the Economist,
+May 26, 2011
+But what of the science of integrated water resources
+management (IWRM), which has been around for a
+long time, and is also clearly, and strongly, about people
+and water. In what way is socio-hydrology different
+from IWRM? A typical question addressed in IWRM
+is: in what way does a management decision affect
+runoff and, conversely, in what way is management
+constrained by runoff? IWRM is also about interac-
+tions of humans and water, and often uses the ‘scenario-
+based’ approach as the common means to explore these
+interactions (Savenije and Van der Zaag, 2008).
+However, this approach may be unrealistic, especially
+for long-term predictions, as it does not account for the
+dynamics of the interactions between water and people.
+For example, it is unlikely that the coupled system
+dynamics of the Murrumbidgee basin, as reported
+above, could have been predicted by a ‘scenario-based’
+approach that does not account for the co-evolutionary
+dynamics of coupled human-water systems, including
+spontaneous or unexpected behaviours, as illustrated in
+Figure 1. Hence, whereas the focus of IWRM is on
+controlling or managing the water system to reach
+desired outcomes for society and the environment, the
+focus of socio-hydrology is on observing, understanding
+and predicting future trajectories of co-evolution of
+coupled human-water systems. In this sense, one could
+say that socio-hydrology is the fundamental science
+underpinning the practice of IWRM.
+There is considerable similarity between the proposed
+new science of socio-hydrol ogy and the now established
+ﬁeld of eco-hydrology. Eco-hydrology explores the co-
+evolution and self-organisation of vegetation in the
+landscape in relation to water availability (Eagleson,
+1982, 2002; Rodriguez-Iturbe, 2000; Berry et al ., 2005).
+Socio-hydrology, on the other hand, explores the co-
+evolution and self-organisation ofpeople in the landscape,
+also with respect to water avai lability. We believe that
+socio-hydrology stands to learn a lot from the success of
+eco-hydrology, which has added new life to hydrology
+through introduction of the concepts of co-evolution and
+optimality that have previously been foreign to hydrology.
+The introduction of eco-hydrology has helped spawn new
+connections between hydrology and neighbouring
+disciplines such as pedology, plant physiology and
+geomorphology, and in this way it has helped to expand
+the horizons of hydrology. In the same way, the advent of
+socio-hydrology could also lead to a similar broadening of
+the science, extending into the social sciences. However,
+even while socio-hydrology will take on increasing
+importance in the context of a changing, human-
+dominated world, its practice may turn out to be more
+challenging than eco-hydrology. This is because humans
+1930
+1980
+2030 (projected)
+Irrigation moving
+upstream 
+Irrigation moving
+downstream 
+Figure 1. Schematic of the evolution of the spatial patterns of
+irrigation (shaded area) in the Murrumbidgee system (84,000 km²),
+Southeast Australia. In the early 20 th century, irrigation moved
+upstream. Recently, the government has started buying water rights
+from farmers to protect the environment. Panel 3 is one projection
+that is based on the possibility of cutting back irrigation upstream.
+M. SIVAPALAN, H. H. G. SAVENIJE AND G. BLÖSCHL
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)
+
+[[PAGE 3]]
+possess more powerful ways and means of controlling
+water cycle dynamics beyond the optimality, adaptation
+and acclimation strategies that natural vegetation pos-
+sesses and has developed over time.
+Finally, the timing is just right for the launch of socio-
+hydrology, as a new interdisciplinary but quantitative
+science of people and water, with the ambition to make
+predictions of water cycle dynamics, and thus underpin
+sustainable water management. At a time when hydrol-
+ogy textbooks continue to dwell on the complexities of
+processes occurring in undisturbed places or under
+idealized conditions, which are the exception rather than
+the rule in the real world, and almost all water bodies are
+affected by people in one way or another, there is an
+urgent need for hydrology itself to adapt and evolve to
+cope with the emergent scientiﬁc and practical challenges
+in a changing world (Wagener et al., 2010), and prevent
+and resolve con ﬂicts between humans and the environ-
+ment, and amongst humans themselves (Postel, 2011;
+Koutsoyiannis, 2011). Socio-hydrology addresses this
+strongly felt need. In fact, there have already been
+several early attempts at exploring the co-evolution of
+human-water systems. For example, Geels (2005) studied
+the trajectories of co-evolution of water technology and
+society in present-day Netherlands. Kallis (2010) studied
+the co-evolution of water resource development in
+ancient Athens. Pataki et al . (2011) have provided an
+outline of the interplay of sociological and ecological
+processes in urban water management.
+EMERGENT DYNAMICS ACROSS SPACE
+AND TIME
+The essence of socio-hydrology, the point of departure
+from IWRM, is, as mentioned before, the study of the
+co-evolution of humans and water on the landscape.
+Winder et al . (2005) and Kallis (2007) have pointed out
+that for a system to be considered co-evolutionary,
+there must be a process of generation of ‘new
+variations’, as they called them. New variations, also
+known as ‘emergent behaviour ’, are brought about by
+feedbacks between processes at a range of scales, and
+may lead to exceedance of ‘tipping points ’ through
+which the systems may evolve into new, perhaps
+previously unobserved, states. The Murrumbidgee
+example is a case in point.
+In the Murrumbidgee basin, the spatial patterns of
+organisation arising from co-evolutionary dynamics are
+nevertheless underpinned by a directed stream net-
+work. This is often the case; water abstraction
+upstream will invariably affect people living down-
+stream, and so will changes to water quality. However,
+one can think of cases where such connections and
+feedbacks are less obvious. The Sahel drought in the
+1980s led to widespread famine and involuntary human
+migration. One of the compounding factors that
+contributed to the drought was land use change in
+upwind areas (i.e. East Africa), leading to reduced
+moisture cycling westward, and the consequent reduc-
+tion of precipitation locally. The nature of moisture
+recycling that contributed to drought in the Sahel is
+illustrated in Figure 2, which was obtained by analysing
+10 years of re-analysis data on global water circulation
+(Van der Ent et al ., 2010; Van der Ent and Savenije,
+2011), and shows that 60% of the rainfall in the Sahel is
+derived from terrestrial evaporation upwind (see
+Figure 2). Reduction in moisture recycling from upwind
+can introduce a positive feedback locally, with the
+reduced precipitation leading to overgrazing, which
+then leads to lower evaporation, which in turn leads to
+Figure 2. Precipitation shed of the Sahel (yellow contour). The scale indicates how much each coloured region contributes to the rainfall in the
+growing season, in absolute terms. Hence, from each pixel in the black region, 25 –30 mm of the evaporation contributes to the rainfall in the
+Sahel during the growing season. This has to be multiplied by the ratio of the contributing area to the target area (the yellow contour) to obtain
+the contribution to the rainfall in the target area (personal communication by Van der Ent).
+INVITED COMMENTARY
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)
+
+[[PAGE 4]]
+still lower precipitation. The Sahel example is one
+where, rather than being affected by human activities
+upstream, the water cycle is affected by human activities
+upwind. Consequently, instead of having to deal with a
+‘watershed’, we now have to deal with a ‘precipitation
+shed’. The critical issue facing socio-hydrology is that
+the local people are powerless to affect the ‘precipita-
+tion shed ’. How could people in the Sahel seek local
+solutions outside of the watershed? The traditional way
+under such circumstances is via food imports. Unfor-
+tunately, war and conquest tend to be other unintended
+consequences. This is an example of the primary
+challenges of the new ﬁeld of socio-hydrology.
+As mentioned before, while eco-hydrology studies
+how vegetation organises itself in the landscape with
+respect to water, socio-hydrology studies how people
+organise themselves in the landscape with respect to
+water. Ancient human settlements were mostly orga-
+nised along streams, which they used as a means of
+transport and water supply, and therefore access and
+proximity to water courses or sources governed the
+primary human settlement patterns. With increasing
+technological capability, humans could manage to settle
+away from streams and access water through recourse
+to technology and to use alternative means for
+transport. Therefore, just as eco-hydrology aims to
+learn from vegetation patterns and their evolution,
+socio-hydrology can potentially learn from human
+settlement patterns, through interpreting them in terms
+of access and proximity to water resources and socio-
+economic and technological factors impacting differen-
+tially on these in different parts of the world. In other
+words, there are many parallels between eco-hydrology
+and socio-hydrology, even as there are substantial
+differences.
+An important feature of non-linear systems is that
+fast processes interact with slow processes to produce
+complex and rich dynamics. For example, these
+interactions may lead to exceedance of critical thresh-
+olds or tipping points. Resi lient social-ecological
+systems are those that continually change and adapt
+yet remain within critical thresholds (Folke et al., 2010).
+Climatic, hydrological and societal drivers often appear
+as shocks ( ﬂoods, droughts, wars, economic collapse)
+and may push the system beyond these resilience
+thresholds. In a hydrological landscape such as the
+Sahel, resilience may be low, so change to a different
+mode – e.g. deserti ﬁcation, famine and human migra-
+tion in the case of the Sahel – may occur more readily
+(Folke et al ., 2004). On the other hand, in temperate
+climates the resilience thresholds tend to be higher. But
+even in relatively wet regions, unexpected changes of
+the system may yet occur. For example, the traditional
+source of drinking water in Bangladesh used to be rain-
+fed ponds. When the community switched to groundwater
+as a source of water supply in the 1980s, responding to the
+contamination of the ponds by pathogens, there was not
+the expectation that the pumping would lead to arsenic
+mobilisation and widespread poisoning.
+In classical hydrology, feedbacks across space and
+time scales are very important (Blöschl, 2001; Merz and
+Blöschl, 2008; Montanari et al ., 2010), but due to non-
+linear feedbacks with human activities, the socio-
+hydrologic system has the tendency to lead to surprises
+(Gordon et al ., 2008), otherwise known as Black Swan
+events (Taleb, 2007), which therefore make predictions
+a real challenge. A better understanding of the
+resilience thresholds and the likelihood for surprises
+may assist in management decision making by account-
+ing for wider process dynamics (Kumar, 2011). As
+socio-hydrology is concerned with longer term dynam-
+ics, predicting possible trajectories of the system
+dynamics are of most interest to governments who are
+faced with making strategic, long term-decisions.
+DRIVERS OF SOCIO-HYDROLOGIC PROCESSES
+An important part of understanding socio-hydrologic
+processes is to understand which way the water isﬂowing
+and why this is so. In subsurface hydrology, the main
+driver of ﬂow and transport is a potential gradient.
+Streams ﬂow in response to topographic gradients, and
+evaporation occurs due to humidity gradients. In socio-
+hydrology there is a wider range of controls related to the
+interplay of socio-economic and hydrologic processes at a
+range of scales. For example, water ﬂows downhill except
+in the case of diversions when it can be pumped uphill. The
+pumping is the social component and demonstrates that
+social factors can be a powerful force. An example ofﬂows
+that socio-hydrology might address is the so-called‘virtual
+water trade’. Figure 3 illustrates theﬂuxes of virtual water
+along shipping lanes in relation to wheat. Virtual water
+refers to the amount of water needed to produce food (or
+other commodities), which is then transported to the place
+of consumption (Chapagain et al ., 2006; Mekonnen and
+Hoekstra, 2010; Koutsoyiannis, 2011). The gradients that
+drive the ﬂow of virtual water tend to be differences in
+policies, subsidies, economic incentives, technologies, fuel
+costs and historical factors. Trade barriers also play a role.
+In principle, one could argue that theﬂows should be from
+regions that are water abundant and produce more
+efﬁciently in respect of water use to those that have
+less access to fresh water and produce less ef ﬁciently
+with respect to water use. Increasingly, however,
+policies and markets tend to be the main drivers. For
+example, the world food market is increasingly
+controlled by multinationals, retailers, supermarkets
+and powerful countries. The interplay of these global
+interests with the temporal and spatial variations of
+the water resources at the local level, which are often
+the determining factors fo r water scarcity, leads to
+complex systems dynamics (Savenije, 2000).
+M. SIVAPALAN, H. H. G. SAVENIJE AND G. BLÖSCHL
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)
+
+[[PAGE 5]]
+Socio-hydrology is therefore concerned with analys-
+ing the following why questions: What drives this
+system (for example, as a part of the international trade
+of food)? What are the ﬂuxes, what are the gradients
+and can they be related? But quantity of water is not
+the only factor; water quality may be equally or even
+more important, in particular in water-rich countries.
+The European Water Framework Directive and the
+Clean Water Act in the US have both led to a major
+wave of human actions. Non-consumptive water trans-
+fers (such as water use in industry and households)
+often change the quality or reduce the opportunity for
+beneﬁcial use both in terms of location and quality. In
+particular, this reduces the opportunities for other
+functional uses, or ecosystem services. For example, the
+food industry in Holland uses imported food from
+Brazil (soybean, tapioca) for pork production. This is
+tantamount to the import of nutrients from Brazil
+(which itself is nutrient poor) and its transport to the
+Netherlands (which has a nutrient rich environment).
+The resulting ﬁnancial pro ﬁt is not in balance with the
+environmental harm that such imports cause. Further-
+more, there is a perverse incentive introduced by the
+fact that the environmental costs are not charged to the
+consumer. An interesting socio-hydrologic challenge will
+be how virtual water ﬂows will change and co-evolve if
+taxes were placed on the virtual water trade.
+SOCIO-HYDROLOGY: THE WAY FORWARD
+We argue in this paper for a new science of socio-
+hydrology that treats people as an endogenous part of the
+water cycle, interacting with the system in multiple ways,
+including through water consumption for food, energy
+and drinking water supply, through pollution of fresh-
+water resources, and through policies, markets, and
+technology. What sets socio-hydrology apart from IWRM
+is that socio-hydrology explicitly studies the co-evolution
+of humans and water. It explores the way the coupled
+human-water system evolves and possible trajectories of
+its co-evolution, including the possibility of generating
+emergent, even unexpected, behaviours. Socio-hydrology
+is aimed as a discovery-based fundamental science, whose
+practice is informed through observing, understanding
+and predicting socio-hydrologic phenomena in real places
+in the landscape where real people live. Socio-hydrology
+will also have to accommodate the time arrow by focusing
+on longer time scales including on dynamics we never had
+to deal with. We insist, however, that socio-hydrology
+must strive to be a quantitative science. While broad
+narratives may be important for context, quantitative
+descriptions are needed for testing hypotheses, for
+modelling the system and for predicting possible future
+trajectories of system states.
+What is the way forward in socio-hydrology? We
+believe there are at least three avenues through which
+socio-hydrology can advance:
+1. Historical socio-hydrology: First and foremost, we
+can learn from reconstructing and studying the past,
+both in the immediate past, and in the distant past.
+Indeed, water has played a key role in the growth,
+evolution and eventual collapse of numerous ancient
+(and not so ancient) civilisations. The collapse of the
+Sumerian civilisation has been attributed to rising
+water tables and salinisation as a result of extensive
+irrigation (Ponting, 1991). Apart from collapse of
+civilisations, interesting patterns of water governance
+and technologies have evolved throughout history.
+For example, Iran saw the development and evolu-
+tion of ‘Qanats’, sloping tunnels that tap into the
+groundwater without the need for pumping, which
+have survived the test of time over millennia.
+2. Comparative socio-hydrology: Sivapalan (2009,
+p.1395) has suggested that ‘... instead of attempting
+to reproduce the response of individual catchments,
+Figure 3. National virtual water balances and net virtual water ﬂows related to trade in wheat products in the period 1996 –2005. Only the
+largest net ﬂows ( >2Gm³/year) are shown (taken from Mekonnen and Hoekstra, 2010).
+INVITED COMMENTARY
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)
+
+[[PAGE 6]]
+research should advance comparative hydrology,
+aiming to characterize and learn from the similarities
+and differences between catchments in different
+places, and interpret these in terms of underlying
+climate-landscape-human controls. ’ In the context of
+socio-hydrology, this implies a comparative analysis
+of human-water interactions across socio-economic
+gradients, as well as climatic and other gradients, to
+map any spatial or regional differences back to
+processes and their temporal dynamics (Blöschl et al.,
+2007; Wagener et al ., 2010; Peel and Blöschl, 2011).
+3. Process socio-hydrology: To complement the temporal
+and spatial analyses, it would be of interest to study a
+small number of human-water systems in more detail,
+including routine monitoring, to gain more detailed
+insights into causal relationships. This may involve
+detailed data collectio n of the hydrological and
+sociological processes involved, including real-time
+learning, to understand human-water system functions
+in the present to be able to predict possible trajectories
+in the future. To make headway in the new science, we
+need new scienti ﬁc laws at the scales of interest, but
+particularly dealing with human-nature interactions.
+Examples of such laws are ﬂux-gradient relationships,
+which have served classical hydrology well in many
+ways. Since socio-hydrology is about co-evolution and
+feedbacks operating at multiple scales, the notions of
+optimality and goal functions are likely to be important
+and useful, just as they have been in eco-hydrology
+(Schymanski et al., 2009; Schaeﬂi et al., 2011).
+The important feature in all three areas of enquiry, to
+reiterate, is the focus on co-evolution and emergent
+patterns, including the unexpected, which are the main
+points of departure from the recourse to scenario
+analyses that is common in IWRM. With the advent of
+socio-hydrology, the way we will do our science, as well
+as the way we teach, will be different as humans begin to
+play a much bigger role in water cycle dynamics. Just as
+in the case of eco-hydrology, there will be a need for new
+partnerships that go beyond our usual networks. As
+socio-hydrology embraces processes beyond purely
+physical (or biological) relationships, Sivapalan ’s( 2 0 0 5 )
+call for a paradigm shift towards more holistic descrip-
+tions and process interactions may become critically
+important. All of these point to both challenging and
+exciting times for the future of hydrologic science.
+ACKNOWLEDGEMENTS
+This paper is a part contribution of the NSF-funded
+Hydrologic Synthesis Project: Water Cycle Dynamics in
+a Changing Environment: Advancing Hydrologic
+Science through Synthesis (NSF Grant EAR-0636043).
+We would also like to thank Austrian Science Funds
+(FWF) project DK-plus W1219-N22 for their ﬁnancial
+support. The paper bene ﬁted from interactions with
+several people, including Sally Thompson, Ciaran
+Harman, Thorsten Wagener, Alberto Montanari, Saket
+Pande, Larry Band, Amit Chanan, Jaya Kandasamy
+and Vigi Vigneswaran. We are grateful for their
+valuable contributions to our thoughts on the subject.
+Special thanks to Michael Roderick for many insightful
+comments, which reminded us that we have only
+scratched the surface of a complex challenge. The
+paper also bene ﬁted from critical review comments by
+Demetris Koutsoyiannis.
+REFERENCES
+Berry S, Farquhar LGD, Roderick ML. 2005. Co-evolution of
+Climate, Soil and Vegetation. Chapter 12 In Encyclopedia of
+Hydrological Sciences, Anderson MG (ed.). John Wiley: London.
+Blöschl G. 2001. Scaling in hydrology.Hydrological Processes15: 709–711.
+Blöschl G, Ardoin-Bardin S, Bonell M, Dorninger M, Goodrich D,
+Gutknecht D, Matamoros D, Merz B, Shand P, Szolgay J. 2007. At
+what scales do climate variability and land cover change impact on
+ﬂooding and low ﬂows? Hydrological Processes 21: 1241 –1247.
+Chapagain AK, Hoekstra AY, Savenije HHG. 2006. Water saving
+through international trade of agricultural products. Hydrology and
+Earth System Sciences 10: 455 –468.
+Eagleson PS. 1982. Ecological optimality in water-limited natural soil-
+vegetation systems. 1. Theory and hypothesis. Water Resources
+Research 18: 325 –340.
+Eagleson PS. 2002. Ecohydrology: Darwinian Expression of Vegetation
+Form and Function. Cambridge University Press: New York; 443.
+Folke C, Carpenter SR, Walker B, Scheffer M, Chapin T, Rockstrom
+J. 2010. Resilience thinking: Integrating resilience, adaptability and
+transformability. Ecology and Society 15(4): 20.
+Folke C, Carpenter S, Walker B, Scheffer M, Elmqvist T, Gunderson
+L, Holling CS. 2004. Regime shifts, resilience, and biodiversity in
+ecosystem management. Annual Review of Ecology, Evolution, and
+Systematics 35: 557 –581.
+Geels F. 2005. Co-evolution of technology and society: The transition in
+water supply and personal hygiene in the Netherlands (1850–1930)—
+a case study in multi-level perspective. Technology in Society 27
+(2005): 363–397
+Gordon LJ, Peterson GD, Bennett EM. 2008. Agricultural modi ﬁca-
+tions of hydrological ﬂows create ecological surprises. Trends in
+Ecology & Evolution 23: 211 –219
+Kallis G. 2007. When is it coevolution? Ecological Economics 62: 1–6.
+Kallis G. 2010. Coevolution in water resource development: The
+vicious cycle of water supply and demand in Athens. Greece.
+Ecological Economics 69: 796 –809.
+Koutsoyiannis D. 2011. Scale of water resources development and
+sustainability: small is beautiful, large is great. Hydrological
+Sciences Journal 56(4): 553 –575.
+Kumar P. 2011. Typology of hydrologic predictability. Water
+Resources Research 47: W00H05, doi: 10.1029/2010WR009769.
+Mekonnen MM, Hoekstra AY. 2010. A global and high-resolution
+assessment of the green, blue and grey water footprint of wheat.
+Hydrology and Earth System Sciences 14: 1259 –1276.
+Merz R, Blöschl G. 2008. Flood frequency hydrology: 1. Temporal,
+spatial, and causal expansion of information. Water Resources
+Research 44(8): W08432.
+Milly PCD, Betancourt J, Falkenmark M. 2008. Climate Change:
+Stationarity Is Dead: Whither Water Management? Science 319
+(5863): 573 – 574.
+Montanari A, Blöschl G, Sivapalan M, Savenije HHG. 2010. Getting on
+target. Public Service Review: Science and Technology 7: 167–169.
+Murray-Darling Basin Authority (MDBA). 2010. Guide to the Proposed
+Basin Plan: Overview, Canberra, A.C.T., Australia. 323 pp.
+Pataki DE, Boone CG, Hogue TS, Jenerette GD, McFadden JP,
+Pincetl S. 2011. Socio-ecohydrology and the urban water challenge.
+Ecohydrology 4: 341 –347. doi: 10.1002/eco.209
+M. SIVAPALAN, H. H. G. SAVENIJE AND G. BLÖSCHL
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)
+
+[[PAGE 7]]
+Peel MC, Blöschl G. 2011. Hydrologic modelling in a changing world.
+Progress in Physical Geography 35(2): 249 –261
+Ponting C. 1991. A Green History of the World. The Environment and
+the Collapse of Great Civilizations. Penguin: New York, USA; 430.
+Postel SL. 2011. Foreword: Sharing the bene ﬁts of water. Hydro-
+logical Sciences Journal 56(4): 529 –530.
+Roderick ML. 2011. Introduction to special section on Water Resources
+in the Murray-Darling Basin: Past, present, and future. Water
+Resources Research 47: W00G01, doi: 10.1029/2011WR010991.
+Rodriguez-Iturbe I. 2000. Ecohydrology: a hydrologic perspective of
+climate-soil-vegetation dynamics. Water Resources Research 23:
+349–357.
+Savenije HHG. 2000. Water scarcity indicators: deception of the
+numbers. Physics and Chemistry of the Earth, Part B: Hydrology,
+Oceans and Atmosphere 25(3): 199 –204.
+Savenije HHG, Van der Zaag P. 2008. Integrated water resources
+management: Concepts and issues. Physics and Chemistry of the
+Earth 33: 290 –297.
+Schaeﬂi B, Harman CJ, Sivapalan M, Schymanski SJ. 2011.
+Hydrologic predictions in a changing environment: behavioral
+modelling. Hydrology and Earth System Sciences 15: 635 –646.
+Schymanski SJ, Sivapalan M, Roderick ML, Hutley LB, Beringer J.
+2009. An optimality-based model of the dynamic feedbacks between
+natural vegetation and the water balance. Water Resources
+Research 45: W01412, doi: 10.1029/2008WR006841.
+Sivapalan M. 2005. Pattern, Process and Function: Elements of a
+Uni ﬁed Theory of Hydrology at the Catchment Scale In
+Encyclopedia of Hydrological Sciences, Anderson MG (ed.). John
+Wiley: London; 193 –219.
+Sivapalan M. 2009. The secret to ‘doing better hydrological science ’:
+change the question! Hydrological Processes 23: 1391 –1396.
+Taleb, NN. 2007. The Black Swan: The Impact of the Highly
+Improbable. Random House: New York; 366.
+Van der Ent RJ, Savenije HHG. 2011. Length and time scales of
+atmospheric moisture recycling. Atmospheric Chemistry and Physics
+11: 1853 –1863.
+Van der Ent RJ, Savenije HHG, Schae ﬂi B, Steele-Dunne SC. 2010.
+Origin and fate of atmospheric moisture over continents Water
+Resources Research 46: W09525, doi: 10.1029/2010WR009127.
+Wagener T, Sivapalan M, Troch PA, McGlynn BL, Harman CJ,
+Gupta HV, Kumar P, Rao PSC, Basu NB, Wilson JS. 2010. The
+future of hydrology: An evolving science for a changing world.
+Water Resources Research 46: W05301.
+Winder N, McIntosh BS, Jeffrey P. 2005. The origin, diagnostic
+attributes and practical application of co-evolutionary theory.
+Ecological Economics 54(4): 347 –361.
+INVITED COMMENTARY
+Copyright © 2011 John Wiley & Sons, Ltd. Hydrol. Process. (2011)

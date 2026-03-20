@@ -1,0 +1,509 @@
+[[PAGE 1]]
+Coping with extremes – experiences from event management
+during the recent Elbe ﬂood disaster in 2013
+R. Jüpner
+Department of Civil Engineering / Division of Hydraulic Engineering and Water Management, University of Kaiserslautern,
+Kaiserslautern, Germany
+Correspondence
+Robert Jüpner, University of Kaiserslautern,
+Department of Civil Engineering/Division of
+Hydraulic Engineering and Water
+Management, Paul-Ehrlich-Str. 14,
+67663 Kaiserslautern, Germany
+Email: robert.juepner@bauing.uni-kl.de
+DOI: 10.1111/jfr3.12286
+Key words
+Dike; dike break; Elbe River; emergency
+management; ﬂood disaster 2013; ﬂood
+protection; ﬂood risk management;
+land use.
+Abstract
+Up to now, it has been common practice to use technical ﬂood protection mea-
+sures such as dikes and retention basins to secure the prosperity and well-being of
+societies that are threatened by ﬂoods. Recent ﬂood events in Europe have demon-
+strated in a profound way that extreme ﬂoods not only have the potential to cause
+enormous damage but also that technical structures do not entirely solve the prob-
+lem; additional concepts now need to be considered. During the Elbe ﬂood disas-
+ter of 2013 in Germany, two dike breaks occurred. The unpredicted ﬂooding that
+followed resulted in enormous harm and tremendous material damage to thou-
+sands of inhabitants. Post-crisis assessment indicates that consideration of extreme
+ﬂood events is essential to ﬂood risk management and that preparation is neces-
+sary to mitigate negative consequences. The use of ﬂoodplain areas that lie close
+to rivers is a key aspect in this respect. Even if dikes currently protect these areas,
+a broad societal discussion must take place in order to optimise ﬂood prevention.
+Introduction
+Land is indisputably signi ﬁc a n ti nt h eh y d r o l o g i cc y c l e ,a n d
+inﬁltration capacity is essential for any amelioration of ﬂood-
+ing. During ﬂoods, land functions as a temporary water stor-
+age mechanism. Major ﬂoods are considered spatial events
+because they usually cause large-scale inundation.
+In ancient times, people usually settled away from hazardous
+areas and tried to avoid the threat of ﬂooding. On the Elbe
+River, settlement historically focussed on hilly areas close to the
+river, as in the city of Magdeburg. This ancient city surround-
+ing a famous cathedral is located more than 15 m above the
+River’s mean water level (IKSE (Internationale Kommission
+zum Schutz der Elbe), 2005). Signi ﬁcantly, city planning in
+ancient times usually included ﬂood prevention measures.
+Since no expensive or sophisticated hydraulic engineering
+methods were then available, preparedness and prevention
+were the methods of choice.
+Owing to population growth, pressure to expand human
+habitation on ﬂoodplains increased. Technical measures
+became standard strategies for trying to protect land for settle-
+ment and agriculture. Hydraulic engineering structures such as
+dikes and retention basins became part of ‘engineered rivers’
+(see e.g. Blackbourn, 2006). While in the Middle Ages, hydrau-
+lic engineering structures such as dikes usually protected single
+settlements and commercial facilities like mills, nowadays in
+most developed countries, ﬂood protection measures have
+evolved to constitute a complex ﬂood protection system along
+a river or within a catchment area (Patt and Jüpner, 2013). The
+Elbe River in Germany is a well-known example of this type of
+development. Today, more than 500 km of the Elbe River are
+nearly completely bordered by dikes.
+As a result of these hydraulic engineering measures com-
+pleted in recent centuries, it is estimated that today more
+than 83% of the natural ﬂoodplains along the Elbe have
+been eliminated (IKSE (Internationale Kommission zum
+Schutz der Elbe), 2005). As a consequence, ﬂoods have
+become more powerful, and their velocity as well as their
+maximum discharge is generally increasing (BfG
+(Bundesanstalt für Gewässerkunde), 2013). During the past
+two decades, inhabitants along the Elbe River have suffered
+from three large ﬂood events (2002, 2006, and 2013) and,
+as a result, discussions about the correct approach to ﬂood
+risk management are much more intensive than before.
+Flood protection structures and their
+effect for land use
+The European Floods Directive requires the creation of ﬂood
+risk maps as well as ﬂood hazard maps (EU (European
+J Flood Risk Management 11 (2018) 15–21 © 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+
+
+[[PAGE 2]]
+Union), 2007). Since 2014, these maps have been completed
+and made publically available online. A look at the hazard
+maps of most large rivers in Germany reveals that the natu-
+ral ﬂoodplains of rivers – nowadays situated mainly between
+dikes – will be inundated by a 100-year- ﬂood (Figure 1) not
+only in rural areas but also in cities. In addition, maps dem-
+onstrate that a much broader area will be affected, if hydrau-
+lically engineered structures (usually dikes) are submerged
+or destroyed during an ‘extreme event scenario ’. The poten-
+tial risk areas comprise the natural ﬂoodplains currently
+protected by hydraulically engineered structures.
+These areas can be identi ﬁed by hydrodynamic model-
+ling. Inundated areas on ﬂood hazard maps are indicated by
+different colours. The darker the colour, the more extensive
+the area inundated during a ﬂood event. With respect to rel-
+evant European rivers, this is new information, and a clear
+indication of the negative effects brought by a major ﬂood
+for every single landmark near a river (Figure 1
+). It clearly
+indicates that the negative impact occurs not only naturally
+on the ﬂoodplains themselves, but also in the hinterlands.
+The extent of impact depends on the safety of ﬂood protec-
+tion structures.
+For much of history, installation of technical protective
+structures produced a ‘sense of security ’ for people settling
+behind dikes. Responsible local authorities and engineers
+rarely informed inhabitants of the affected areas about
+existing risks. As a result, people tended to abandon pre-
+paredness and prevention measures against ﬂoods as soon
+as technical protection measures were put in place
+(Hartmann and Jüpner, 2014). People assumed that pro-
+tection meant protection against all ﬂood events, and
+naively believed in the ‘security promise ’ of technical pro-
+tection measures. This phenomenon is known as the dike
+paradox, and is compellingly described, for example, by
+Hartmann (2011).
+However, the reality is different: with increasing invest-
+ment in technical protective measures, the potential for
+damage increases as well (Munich Re, 2014). The incidence
+of devastating damage escalates because people in the
+affected areas rarely invest in any prevention measures and
+were therefore unprepared for extreme ﬂoods. The overall
+vulnerability of the ‘protected hinterland ’ is therefore
+increasing and, as a result, for many communities the situa-
+tion today is worse than ever.
+When damage results from a catastrophic ﬂood event –
+for example as a result of dike failure – discussion about
+appropriate prevention strategies resumes. In Germany,
+such discussions began immediately after the catastrophic
+Figure 1 Example of a ﬂood risk map – Rhine River, south of Mainz, Germany.
+J Flood Risk Management 11 (2018) 15–21© 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+16 Jüpner
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 3]]
+Elbe River ﬂood of 2002. The damage in the Elbe River
+catchment alone resulting from this event was estimated at
+more than 17 billion euros (DKKV(Deutsches Komitee
+Katastrophenvorsorge), 2015). An even worse ﬂood with
+damages of the same order of magnitude occurred in June
+2013 and, unfortunately, now the same insuf ﬁcient solu-
+tions as earlier are being discussed. Overall, the damage in
+Germany was estimated at more than 8 billion euros. Will
+the lesson ever be learned?
+Experiences from the recent ﬂood
+disaster on the Elbe River in Germany
+in 2013
+A closer look at the 2013 ﬂood and some important lessons
+it taught may lead to a better understanding of this ongoing
+discussion. In June 2013, the catchment areas of the Elbe
+and the upper Danube Rivers were impacted by a devastat-
+ing ﬂood. Flooding was caused by heavy rainfall in Central
+Europe, especially in the Southern and the Eastern parts of
+Germany, between May 17 and June 2. The enormous rain-
+fall in ﬁltrated the soil. At the end of May 2013, soil mois-
+ture levels in nearly 40% of Germany were at the highest
+levels ever recorded since the beginning of continuous
+measurement in 1962 (BfG, 2013). Considering ongoing
+discussions about the sources of extreme ﬂood events and
+limits in ﬂood protection (Schanze, 2012; Birkmann et al .,
+2015), this is remarkable.
+Rainfall in combination with high pre-existing soil mois-
+ture led to extreme ﬂooding in Germany. As a result, ﬂood-
+ing surpassed the previous highest ﬂood levels over a
+distance of more than 250 km (around 155 miles) along
+the central Elbe and the lower Saale Rivers (Figure 2) (BfG,
+2013; LHW (Landesbetrieb für Hochwasserschutz und
+Wasserwirtschaft Sachsen-Anhalt), 2014).
+In the central portion of the Elbe River in Germany, two
+catastrophic dike breaks occurred nearly simultaneously dur-
+ing peak discharge (Figure 2). On June 10, 2013 at around
+midnight, a breach developed in the dike along the Elbe close
+to the village of Fischbeck and expanded to a ﬁnal width of
+90 m. Although a speci ﬁc cause for the dike failure was not
+identiﬁed, it appears likely that it was due to soil instability
+induced by internal erosion that led to slippage of both slopes
+of the dike (Figure 3). Even though substantial emergency
+action was taken to protect the integrity of the dike, over ﬂow
+of the affected section could not be prevented (Figure 4).
+The area between Elbe and Havel Rivers that was inun-
+dated by the resulting breach is a relatively ﬂat valley formed
+during the last glacial period. Flood water travelled parallel
+to the Elbe for roughly 30 km following the slope of this
+inland valley. The huge volume of water ﬂowing through the
+breach in the dike (more than 40 million m
+3 per day)
+within the ﬁrst few days, spread quickly. Although the area
+Figure 2 Villages of Fischbeck and Breitenhagen – sites of the dike breaches.
+J Flood Risk Management 11 (2018) 15–21 © 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+17Land for ﬂood risk management – a catchment-wide and multilevel perspective
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 4]]
+impacted by this dike breach was not heavily populated,
+several thousand people inhabitants were evacuated from
+the nearly 150 km
+2 inundated area. This unexpected ﬂood-
+ing resulted in great harm and tremendous material dam-
+age to thousands of inhabitants (Figure 5). Thanks to
+highly effective emergency management, no direct fatalities
+were reported in the affected area.
+A similar situation occurred at the junction of the Saale
+and Elbe Rivers. The dike breach (Figure 6) inundated an
+area of nearly 80 km
+2 and more than 10 000 people were
+evacuated. This event took place 18 h before the dike near
+Fischbeck collapsed. The cause for this dike breach of
+nearly the same size was found to be a combination of
+internal erosion and piping, which ﬁnally led to sliding of
+the inner slope (Jüpner et al., 2015).
+During the entire 2013 Elbe River ﬂood in Germany,
+13 dike breaks were recorded along the Elbe River and its
+major tributaries (Heyer and Stamm, 2013). This attests to
+the necessity of engaging in a fundamental discussion about
+sustainable ﬂood risk management that includes considera-
+tion of the fact that catastrophic consequences can result
+from the failure of hydraulic engineering structures con-
+structed according to current building codes.
+The experiences from emergency management during
+the recent Elbe ﬂood disasters (see e.g. LHW
+(Landesbetrieb für Hochwasserschutz und Wasser-
+wirtschaft Sachsen-Anhalt), 2014; Jüpner, 2015) can be
+summarised as follows:
+ Catastrophes such as dike breaks can occur during a
+major ﬂood event, especially when design levels for ﬂood
+protection structures are exceeded.
+ A dike breach usually represents a critical situation
+requiring a comprehensive emergency management
+effort to cope with its danger.
+Figure 3 The right main dike of the Elbe close to the village of
+Fischbeck on June 9, around 10 h before the breach occurred
+(Ellmann, 2013).
+Figure 4 Dike breach close to the village of Fischbeck on June
+10, around 10 h after its occurrence in 2013 (Jüpner, 2013).
+Figure 5 Inundated hinterland caused by the dike breach near
+Fischbeck in 2013 (Jüpner, 2013).
+Figure 6 Dike breach at the Saale River close to its junction with
+the Elbe River in 2013 (Jüpner, 2013).
+J Flood Risk Management 11 (2018) 15–21© 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+18 Jüpner
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 5]]
+ Affected inhabitants are usually unprepared for extreme
+events.
+ Damage is usually great because vulnerable cities and vil-
+lages are not suf ﬁciently resilient to cope with this kind
+of natural catastrophe.
+ The functioning of critical (vulnerable) infrastructures
+such as power, telecommunication, and ﬁreﬁghting ser-
+vices during major ﬂoods constitutes a growing concern.
+Public response and national ﬂood
+protection programme
+In Germany, but also in other European countries, the
+2013 Elbe River ﬂood led to signi ﬁcant public discussion.
+This was not limited to details about hydraulic engineering
+but focused on appropriate strategies for ﬂood risk manage-
+ment and the investment/resources required to prevent
+future catastrophes.
+In addition to a nation-wide programme of recovery
+and rebuilding following the 2013 ﬂood, the federal state
+accepted responsibility, for the ﬁrst time in the history of
+modern Germany, for giving ﬁnancial support to German
+states in their efforts to implement ﬂood protection mea-
+sures as a matter of ‘nation-wide importance ’. As a conse-
+quence, a ‘National Flood Protection Program ’ (Nationales
+Hochwasserschutzprogramm) was established. Although
+the German states had requested 5.4 billion euros, the fed-
+eral government contributed only 1.2 billion euros over
+the subsequent 10 years (LAWA (Bund/Länder-
+Arbeitsgemeinschaft Wasser), 2014). Unfortunately, the
+programme focuses only on storage polders and the reloca-
+tion of dikes to increase water retention space. Referring to
+the amount of ‘land’ required for insuring millions of cubic
+metres of retention volume to store potential ﬂood water,
+current discussion focuses mainly on the question of how
+to obtain this land. To obtain usually means to buy land
+and to use it for the purpose of storing water in case of a
+major ﬂood. There are no available statutory programmes
+in Germany, but federal programmes do allow responsible
+authorities (mostly at state level) to use ﬁnancial resources
+from public budgets. This is typically the case as long as
+other aspects, such as ecological improvements, are part of
+the measure.
+An interesting new aspect in ﬂood risk management
+includes ‘extreme ﬂood events ’. This mode of expression
+is part of the EU ’s Floods Directive (EU, 2007) and is
+now a legal term. Certainly, it does not make sense to
+consider the occurrence of a Biblical Deluge, but it is
+essential to consider the possibility that hydraulically
+engineered structures might fail if design levels are
+reached and surpassed. This would be a better and more
+of realistic way of considering ‘extreme event scenarios ’
+and should be incorporated into hydraulic engineering
+practice.
+An ongoing discussion of these issues in the ﬂood risk
+management community has led to several interesting new
+approaches. The Bavarian Water Management Authority
+describes a system of resilient facilities that could cope
+with rare ﬂood events (Figure 7). The notion of a resilient
+system would still include technical structures such as
+storage polders, but could easily be transferred to a system
+in which the dike line is not of constant height, but rather
+incorporates over ﬂow sections or hydraulic engineering
+structures for controlling the ﬂow into the polders (see the
+part ‘resilient system ’
+). Thus during an extreme ﬂood,
+water would over ﬂow the dike at predetermined locations
+where the inundation of the hinterland will not have dis-
+astrous results (BStMUV (Bayerisches Staatsministerium
+für Umwelt und Verbraucherschutz), 2015). This strategy
+contrasts with the existing ‘classical system ’, conceived to
+address a single situation: the design ﬂood. If water levels
+exceed the design water level and water begins over ﬂowing
+the dike, there is no strategy in place for controlling the
+situation. As a result, rural or urban areas could suddenly
+and catastrophically be affected.
+Discussion
+What might be appropriate middle- and long-term strate-
+gies in ﬂood risk management for reducing the potential
+damage in our modern industrial society? A few strategies
+should, I think, be pursued more comprehensively in order
+to reduce disaster risk.
+Consideration of extreme events
+As mentioned above, failure of hydraulic engineering
+structures sometimes occurs during major ﬂoods.
+A responsible and comprehensive strategy must consider
+this possibility. Even if ‘extreme event scenarios ’
+(as de ﬁned in the EU Floods Directive) seldom occur,
+estimated damage from such events is so enormous that
+it must be considered. A responsible ﬂood risk manage-
+ment strategy for a catchment area or a community must
+take into consideration the disastrous effects of a failure
+in the ﬂood protection system. Consequently, a substan-
+tiated analysis of possible effects must focus on critical
+infrastructures and assess their vulnerability (Gall and
+Jüpner, 2015).
+Different levels of protection are reality
+It is a matter of fact that the design level for technical ﬂood
+protection measures depends on the value of the protected
+J Flood Risk Management 11 (2018) 15–21 © 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+19Land for ﬂood risk management – a catchment-wide and multilevel perspective
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 6]]
+area. Areas of high economic value should be considered
+differently from areas of lower economic value. Other
+aspects such as environmental protection status must be
+included in order to formulate a comprehensive picture of
+the situation. Consequently, varying levels of protection
+need to be distinguished in catchment areas and should
+constitute an integral part of a comprehensive ﬂood risk
+management assessment (including cost-bene ﬁt-analysis)
+and subsequent plans for action. Effective technical solu-
+tions exist to accommodate varying protection levels. Dike
+height along a river should therefore be varied. If the ﬂood
+water level rises above the design level, over ﬂow sections
+can be used initially to ﬂood land of lower economic value
+rather than ﬂooding an entire city due to a dike break.
+The overall concept of ﬂood risk management should,
+ﬁnally, lead to a more resilient society. This is the subject of
+applied research; see for example, the Resilient Cities Proj-
+ect (www.Resilient-cities.iclei.org). Flooding is usually only
+one aspect considered along with others such as climate
+change and drought.
+Awareness and acceptance of the affected
+inhabitants in such situations is essential
+Common sense indicates that ef ﬁcient ﬂood risk manage-
+ment must include structural as well as non-structural mea-
+sures. Prevention is the key to reducing the negative impact
+of ﬂooding. But no measure leads to complete security and
+a 100% protection level. A certain degree of risk will always
+remain.
+Experiences from recent ﬂoods in Central Europe indi-
+cate that the awareness and acceptance of the affected pop-
+ulation is crucial for the ef ﬁcient reduction of potential
+damage. A number of ﬂood prevention measures require
+the availability of land to use as a retention area. This often
+leads to a con ﬂict with landowners or land users, but judi-
+cious economic incentives can help improve landowner/
+user acceptance of ﬂood prevention measures (Hartmann,
+2011). The European Floods Directive has therefore estab-
+lished a legal framework that includes the potentially
+affected inhabitants in creating ﬂood risk management
+plans (EU, 2007).
+Spatial planning: how to make land usable for
+temporary water storage?
+During a major ﬂood, storage polders function as ef ﬁcient
+technical structures for reducing peak discharge (Patt and
+Jüpner, 2013). They do not constitute the entire solution to
+ﬂood problems, but represent an important complement to
+other measures in the mitigation of catastrophic ﬂood
+situations, structural as well as non-structural. From a
+hydraulic engineering perspective, the capacity to tempo-
+rarily store water before uncontrolled ﬂoodwaters inundate
+an area of high economic value and threaten the life of the
+inhabitants would be extremely helpful. But on the other
+hand, such events are rare. For example, the biggest polder
+Figure 7 Technical ﬂood protection by dikes: how to change a ‘classical system ’ towards a resilient system according to the Bavarian
+Water Management Authority (BStMUV, 2015).
+J Flood Risk Management 11 (2018) 15–21© 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+20 Jüpner
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+[[PAGE 7]]
+system in Germany – on the Havel River – can store more
+than 140 million m 3 of ( ﬂood) water. It was built in the
+1930s, completed in the 1950s, and ﬁrst used in 2002. But
+the question we must ask is: is it realistic to protect a huge
+area like this based on the possibility that once in a century
+it becomes ﬂooded for a few days?
+It appears to me that the sensible approach for a sustain-
+able ﬂood risk management strategy should be based on
+preparedness for natural hazards and appropriate use of
+land. Planners should be thinking about ways to convert
+conventional systems of land use to more resilient ones.
+This could include the temporary storage of ﬂoodwater in
+public places or in areas used for agriculture. Both eco-
+nomic and technical impediments need to be discussed and
+solved in order to devise successful ﬂood risk management
+strategies. In addition, existing technical structures such as
+roads or parking lots that can be used to store or bypass
+ﬂoodwater should be further developed. Synergistic possibi-
+lities with climate adaptation measures should also be care-
+fully investigated. They can undoubtedly contribute to a
+more ﬂood-resilient society. Some helpful ideas have already
+been tested and it is vitally important to continue this dis-
+cussion among relevant disciplines in order to reach a more
+efﬁcient approach to ﬂood risk management.
+References
+BfG (Bundesanstalt für Gewässerkunde). Das Juni-Hochwasser
+des Jahres 2013 in Deutschland, BfG-1793, Koblenz, 2013.
+Birkmann J., Cutter S.L., Rothman D.S. et al. Scenarios for
+Vulnerability - Opportunities and constraints in the context
+of climate change and disaster risk. In: Climatic Change. 2015.
+133,( 1 ) ,5 3–68. doi: 10.1007/s10584-013-0913-2,ﬁrst online 09
+November 2013.
+Blackbourn D. The conquest of nature, water and landscape and
+the making of modern Germany . London: Jonathan Cape,
+Random House, 2006.
+BStMUV (Bayerisches Staatsministerium für Umwelt und Ver-
+braucherschutz). Hochwasserschutz. Bayerisches Flutpolder-
+programm. München 2015 [online]. 2015. www.
+hochwasserdialog.bayern.de. (accessed 6 November 2015).
+DKKV(Deutsches Komitee für Katastrophenvorsorge). (eds.).
+Das Hochwasser im Juni 2013: Bewährungsprobe für das
+Hochwasserrisikomanagement in Deutschland. DKKV-
+Schriftenreihe Nr. 53, Bonn, 2015.
+EU (European Union). Directive 2007/60/EC of the European
+Parliament and of the Council of 23 October 2007 on the
+assessment and management of ﬂood risks, Ofﬁcial Journal of
+the European Union , 6.11.2007, 2007, 288/27 –288/34.
+Gall C. & Jüpner R. Umgang mit Extremereignissen auf kommu-
+naler Ebene – Notfallkonzepte als Mittel der Wahl? Wasser-
+Wirtschaft 2015, 9,2 3–27.
+Hartmann T. Clumsy ﬂoodplains: responsive land policy
+for extreme ﬂoods . Farnham: Ashgate Publishing
+Ltd., 2011.
+Hartmann T. & Jüpner R. The European ﬂood risk management
+plan – between spatial planning and water engineering.
+J Flood Risk Manag 2014, virtual special issue, online ISSN:
+1753-318X, Wiley Online Library (guest editors), 1 –2.
+Heyer T. & Stamm J. Levee reliability analysis using logistic
+regression models – abilities, limitations and practical consid-
+erations. In: Georisk: assessment and management of risk for
+engineered systems and geohazards , Vol. 7, Issue 2. Special
+Issue: Reliability and risk analysis of ﬂood defenses. Taylor
+and Francis, London, Great Britain, 2013, 1749 –9518 (print),
+1749–9526 (online).
+IKSE (Internationale Kommission zum Schutz der Elbe) Die Elbe
+und ihr Einzugsgebiet , Magdeburg, Germany, 2005.
+Jüpner R. Juni-Hochwasser 2013 an der Elbe – neue Fragestel-
+lungen. WasserWirtschaft 2015, 3,3 8–41.
+Jüpner, R., Assmann, A., Weichel, T., Ettmer, B., Müller, S. and
+Bhaskar, N. Modeling ﬂooding from a catastrophic dike break
+along Elbe river, Germany June 2013. In: Proceedings of the
+35th Annual USSD Conference , Louisville, KY, USA, 13 –17
+April, 2015, pp. 543 –559.
+LAWA (Bund/Länder-Arbeitsgemeinschaft Wasser). Nationales
+Hochwasserschutzprogramm (Stand: 20.10.2014) [online].
+2014. http://www.lawa.de/documents/NHWSP_Bericht_Prio
+risierung_14_10_20_c93.pdf. (accessed 6 November 2015).
+LHW (Landesbetrieb für Hochwasserschutz und Wasser-
+wirtschaft Sachsen-Anhalt). Bericht über das Hochwasser im
+Juni 2013 in Sachsen-Anhalt [online]. 2014. http://www.lhw.
+sachsen-anhalt.de/ﬁleadmin/Bibliothek/Politik_und_Verwaltu
+ng/Landesbetriebe/LHW/neu_PDF/4.0/SB_Hochwasserschu
+tz/Hochwasserbericht_2013.pdf. (accessed 6 November 2015).
+Munich Re Munich Re – topics GEO – Jahresrückblick Naturka-
+tastrophen 2013 . Münchener Rückversicherungs-Gesellschaft,
+München, 2014.
+Patt H. & Jüpner R., eds Hochwasser-Handbuch, 2., neu bearbei-
+tete Au ﬂ. Berlin and Heidelberg: Verlag Springer
+Vieweg, 2013.
+Schanze J. Dealing with future change in ﬂood risk management.
+J Flood Risk Manag 2012, 5, (1), 1 –2. doi: 10.1111/j.1753-
+318X.2011.01129.x.
+J Flood Risk Management 11 (2018) 15–21 © 2016 The Chartered Institution of Water and Environmental Management (CIWEM) and John Wiley & Sons Ltd
+21Land for ﬂood risk management – a catchment-wide and multilevel perspective
+ 1753318x, 2018, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/jfr3.12286 by Humboldt-Universitat Zu Berlin, Wiley Online Library on [14/10/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,957 @@
+[[PAGE 1]]
+Water Security 12 (2021) 100084
+Available online 2 March 2021
+2468-3124/© 2021 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/).
+Tailored flood risk management: Accounting for socio-economic and 
+cultural differences when designing strategies 
+Frans Klijn
+a , b , *
+, Marcel Marchand
+a
+, Karen Meijer
+a
+, Herman van der Most
+a
+, Dana Stuparu
+a 
+a
+Deltares, PO Box 177, NL2600MH Delft, The Netherlands 
+b
+Delft University of Technology, The Netherlands   
+ARTICLE INFO  
+Keywords: 
+Flood risk management 
+Cultural theory 
+Planning 
+Development funding 
+ABSTRACT  
+Climate change and socio-economic development result in increasing flood risk which challenges flood risk 
+management policy making and practice. Each situation, however, is different and calls for not only under -
+standing the natural context, but also the socio-economic and cultural context. Only then Flood Risk Manage -
+ment strategies can be designed that are not only 1) fit for purpose but also 2) feasible for local implementation 
+and 3) sustainable into the future. Flood consequences that are accepted in some cultures (fatalist), may not be 
+acceptable in other cultures (controlist). This calls for considering the local normative context in order to un -
+derstand current differences in policy and practice. More importantly, the design of strategic alternatives for 
+Flood Risk Management into the future should consider this socio-economic and cultural context as well because 
+not every society aims for the same goals in the same proportion, nor is equally willing or capable to implement 
+and maintain sophisticated infrastructure and dedicated institutions. Based on literature on cultural theory and 
+national cultures, we hypothesized that acknowledging socio-economic and cultural differences would allow to 
+better appreciate the rationale of current flood risk management policies and practices in different parts of the 
+world. By analysing cases related to Deltares projects abroad, we explored whether these factors explain the main 
+differences observed. Based on this preliminary exploration, we propose a shortlist of factors to consider when 
+designing future flood risk management strategies tailored to local socio-economic and cultural contexts.   
+1. The setting 
+Flood risk management is one of many means to achieve sustainable 
+development, and not a goal in itself. Reducing risks is quintessential to 
+support socio-economic development, because recovering from disasters 
+costs lots of money and effort which cannot be spent on development (cf. 
+OECD, 2019 ). It is noted that some flood-prone countries, like 
+Bangladesh or Mozambique, are perhaps trapped in a vicious cycle of 
+recurrent disasters and only partial recovery, slowing down their 
+development. This notion lies behind the policy of international 
+agencies like the World Bank or Asian Development Bank, who support 
+flood risk management projects and capacity building in view of 
+enhancing economic development. In contrast, implementing and 
+maintaining a preventative flood risk management strategy also costs 
+substantial amounts of money and effort and hence requires a certain 
+degree of development. 
+Flood risk management can thus be considered a balancing act in 
+which the costs of designing, implementing and sustaining a strategy 
+should be proportional to the benefits of having the strategy in terms of 
+reduced risks ( Van der Most et al., 2014; Kind, 2014 ) and hence 
+development potential. This is the simple, utilitarian perspective (cf. 
+Eijgenraam et al., 2017 ). It gives preference to designing strategies that 
+are fit for purpose, in the sense that they achieve the largest reduction of 
+risk against the least costs. But strategies and interventions that have 
+proved successful in one country, may fail to be so when transferred to 
+another country, often because they are insufficiently suited to the local 
+socio-economic situation or the cultural setting. 
+Increasingly, developing countries complain about the many plans, 
+drafted by foreign consultants that do not come with the required 
+funding or call for huge loans, or that are otherwise unsuited for local 
+implementation. From the perspective of the consultants, it is frustrating 
+to see that projects that have been proposed are not implemented or not 
+being adequately used or maintained, or simply not finalized and hence 
+not effective ( Minkman et al., 2019 ). To our opinion, both frustrations 
+call for another approach to the design of flood risk management stra -
+tegies, which we call tailored flood risk management in the sense that 
+* Corresponding author. 
+E-mail address: frans.klijn@deltares.nl (F. Klijn).  
+Contents lists available at ScienceDirect 
+Water Security 
+journal homepag e: www.scien cedirect.co m/journal/ water-secur ity 
+https://doi.org/10.1016/j.wasec.2021.100084 
+Received 1 September 2020; Received in revised form 8 February 2021; Accepted 16 February 2021   
+
+[[PAGE 2]]
+Water Security 12 (2021) 100084
+2
+they should not only be  
+1) fit for purpose, but they should also be  
+2) feasible for local implementation and  
+3) sustainable into the future. 
+Tailored flood risk management requires an understanding of not 
+only the risk situation, but also of the local policy context. An analysis 
+and assessment of the risk situation is already commonplace, as defined 
+by hazard, vulnerability and the intersect of these, exposure ( FLOODsite, 
+2009b; Klijn et al., 2015 ). Or in other terms: the physiographic setting, 
+the existing flood management infrastructure and the people and their 
+assets at stake. Such an analysis and assessment of risk increasingly not 
+only considers current flood risk, but also the development of flood risk 
+into the future, as physical developments, e.g. climate change and 
+subsidence, as well as socio-economic developments, e.g. demographic 
+and economic developments, cause a steady increase. As WMO et al. 
+(2017) state: ‘ ’ Development of a well-balanced strategy … should start with 
+a proper understanding of the flood risk. Not only examining the character -
+istics of past floods but also looking into possible future situations . ’ And also: 
+’ Effective measures for reducing flood risk will be location-specific, there is no 
+single solution for all flood problems; a variety of measures (a strategy) will 
+be required to reduce flood risk to a societally agreed upon, acceptable level. ’ 
+These views were also expressed in the ‘Ten golden rules to guide a 
+sound approach for strategic flood management ’ by Sayers et al. (2015) , 
+for example in rules 4 (‘ Recognize that the future will be different from the 
+past. The world is changing . ’ ) and 10 (‘ The development of any strategy will 
+therefore be location-specific … reflecting the specific risks that must be 
+faced. ’ (sentence parts swapped by the authors). 
+As evidenced by these examples, there is already quite some 
+consensus and guidance about what should be done for a sound flood 
+risk analysis and assessment, and how it should be done to be as 
+instrumental as possible for the next stage. A sound policy analysis 
+( Mayer, Van der Most & Bots, 2002 ) requires that the flood risk 
+assessment is followed by the design of strategic alternatives, as well as 
+their full assessment, and culminating in the definition of a preferred 
+strategy. In this context, a flood risk management strategy can be 
+defined by its content, i.e. as a comprehensive set of physical in -
+terventions and policy instruments (cf. FLOODsite, 2009; Marchand 
+et al., 2012; WMO, 2017 ). But a strategy is usually also understood as 
+implying a process of implementation and maintenance, thus 
+comprising an institutional governance structure and funding 
+arrangements. 
+As for the content of alternative strategies, their fitness for purpose is 
+usually assessed by evaluating their effectiveness and efficiency, as well 
+as all relevant side-effects on society, economy, and ecology (cf. 
+FLOODsite, 2009 ). This relates to the three main objective domains of 
+sustainable development (people, prosperity and planet), so including 
+social equity and environmental issues as currently captured by the term 
+‘inclusive green growth ’ . Nowadays, one might also refer to the widely 
+endorsed Sustainable Development Goals ( UN, 2015 ). We might there -
+fore conclude that designing or selecting a strategy that is fit for purpose 
+is already sufficiently sustained by appropriate assessment methods, 
+whether societal cost-benefit analysis, ecosystem-service-based assess -
+ment or multi-criteria analysis. 
+But what about assessing the feasibility for implementation and 
+sustainability into the future? As for the first, a partial — and hence 
+limited — assessment of technical feasibility is often applied, or simply 
+expert judgement. Whether a strategy really fits in certain socio- 
+economic and cultural settings, may require a more thorough analysis, 
+however. And as for the second, the sustainability into the future, this is 
+of course partly covered by looking into long-term and off-site side-ef -
+fects of interventions and policy instruments, but usually does not cover 
+an assessment of the sustainability of operation and maintenance, which 
+so often causes a strategy to not remain effective. Indeed, it is sustained 
+governance we need to consider as well. 
+Regarding the governance of flood risk management, OECD recently 
+issued a report titled Applying the OECD Principles on Water Governance to 
+Floods ( OECD, 2019 ), in which 11 principles for good water governance 
+( OECD, 2015 ) were specified to flood (risk) management. Literally, it is 
+stated that ‘ The OECD Principles on Water Governance are developed on the 
+premise that there is no one-size-fits-all solution to water challenges world -
+wide, … . They recognize that governance is highly contextual, that water 
+policies need to be tailored to different water resources and places, … ’ . 
+Whereas the need for tailoring is acknowledged, the actual principles are 
+quite prescriptive and formulated from the perspective of the OECD 
+members, i.e. developed countries. Whether they apply equally well 
+elsewhere is yet to be seen. 
+In this paper, we therefore adopt a more analytical, investigative 
+perspective, and first try to establish how a policy context co-defines 
+current strategies as applied in different parts of the world. Our aim is 
+therefore to not prescribe a certain approach too soon, but to rather 
+sensitize technical specialists and consulting engineers who work or are 
+going to work abroad. 
+2. Research approach and set-up of this paper 
+This paper firstly explores why different flood risk management 
+strategies are being applied in different situations and in different parts 
+of the world, and more specifically, to what extent socio-economic and 
+cultural differences explain the differences in strategy relative to dif -
+ferences in the physical risk situation. Secondly, we aim to make rec -
+ommendations on how to account for socio-economic and cultural 
+differences in order to ensure that flood risk management strategies are 
+not only fit for purpose but also feasible for implementation and sus -
+tainable into the future; i.e. are truly tailored. 
+To this end, we first delve shallowly into the literature on relevant 
+socio-economic and cultural characteristics, as well as into common 
+practice within the World Bank and similar institutions that support 
+development planning, flood risk management projects and pro -
+grammes, or Disaster Risk Reduction policies. From this literature 
+search, we propose a shortlist of key socio-economic and cultural 
+characteristics which we hypothesize should be considered when 
+analyzing a certain risk management policy context. 
+Next, we test our hypothesis by exploring a number of cases and 
+comparing these to the Netherlands and Bangladesh as references. We 
+selected 5 cases, spread over several continents and different cultures, 
+based on the pragmatic criterion that we have been or are currently 
+engaged in flood risk management policy planning and design ( Fig. 1 ). 
+Our home country is our first reference case, for obvious reasons 
+(though the Netherlands may be regarded distinctly off-average), and 
+Bangladesh is the second as it is the most threatened delta in the world 
+with the longest experience in living with floods (cf. Zevenbergen et al., 
+2018 ) whilst socio-economically and culturally it is almost the opposite 
+of the Netherlands, and hence an adequate counterpart. 
+For each case we described the current flood risk management 
+strategy and subsequently tried to establish to what extent the observed 
+differences between them could be attributed to differences in the 
+Fig. 1. The location of the 5 investigated cases and the Netherlands and 
+Bangladesh as reference cases. 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 3]]
+Water Security 12 (2021) 100084
+3
+potentially explanatory socio-economic and cultural characteristics, 
+using the proposed shortlist of relevant characteristics. 
+Finally, we discuss our findings and try to translate our under -
+standing into recommendations on how to proceed when designing a 
+flood risk management strategy abroad. 
+3. What literature says about relevant socio-economic and 
+cultural characteristics 
+Many countries have a distinct ’ flood risk management culture ’ , 
+often related to their history (e.g. Bubeck et al., 2017 ). This constitutes 
+what we may call the policy context. An analysis of the policy context 
+therefore may help understand why certain flood risk management ap -
+proaches and interventions have been chosen; i.e. in hindsight. To define 
+a policy context, we may look at 1) the general socio-economic context 
+in which a management policy and related institutional setting devel -
+oped (e.g. Kaufman et al., 2010 ), and 2) the cultural/normative context. 
+First, however, we want to emphasize that there are obvious differ -
+ences in policy between well-established democracies and countries that 
+have been more centrally and autocratically led for decades, centuries or 
+ages. Both, however, have shown to be able to persist and both may have 
+well-established institutions. And regardless of how a country is led or 
+organized, managing flood risk can be a concern. It is important to 
+realize that for flood risk management planning the state system is not 
+something that can be easily changed or even influenced in behalf of a 
+more desirable strategy and must be considered as a given. It is unde -
+niably ’ context ’ . Still, we may desire to roughly qualify a particular 
+country ’ s governance setting, which we may derive from the Worldwide 
+Governance Indicators (WGI) ( Kaufman et al., 2010 ), for example those 
+representing Rule of Law and Control of Corruption. 
+The importance of the general socio-economic setting is especially 
+stressed by the United Nations (UN), the OECD, the International 
+Monetary Fund (IMF), and the World Bank (WB) and other donor in -
+stitutions. This setting, or state of development, may also partly clarify a 
+country ’ s priorities in flood risk management. There is, for example, a 
+correlation between the degree of development of a country and the 
+degree of protection that is being aimed for. In most developed countries 
+protection levels of about 1: 100 to 1: 500 apply, related to the magni -
+tude of the expected economic consequences of flooding, whereas in 
+developing countries such levels are often regarded as unattainable. 
+The general socio-economic context also relates to the availability of 
+funding and willingness and capability to spend money on flood pro -
+tection. Here we may thus recognize three other relevant characteristics, 
+namely: 1) the degree of institutionalization, 2) the availability of 
+money for investments in flood risk reduction, and 3) the education level 
+of the population in general and of the responsible authorities and en -
+gineers in particular. This is what we might call the institutional setting, 
+related to the general socio-economic context. For a first estimate, the 
+degree of institutionalization can also be derived from the already 
+mentioned Worldwide Governance Indicators, in particular Government 
+Effectiveness. Similarly, the availability of money for investments in 
+flood risk management can be deduced from databases on Gross Do -
+mestic Product, whether per country or per capita, or translated into per 
+capita Purchasing Power Parity (PPP), as made available by the World 
+Bank (WB) or the International Monetary Fund (IMF). The level of ed -
+ucation in a country, finally, can be retrieved from the Human Devel -
+opment Index of the United Nations (UN) or from a list of the OECD (see 
+Wikipedia). The latter specifies the percentage of a country ’ s population 
+that has received primary, secondary or tertiary education, but is limited 
+to the OECD countries plus some other large countries only. The UN-HDI 
+mapped all countries and translated the outcomes into a single index. 
+With the databases on indices mentioned above, we might obtain 
+quantitative information about many individual indicators of gover -
+nance, economic development and human development and hence an 
+adequate overview of a country ’ s or regions socio-economic develop -
+ment status. This is relevant for the question how feasible expensive 
+technical interventions requiring highly skilled personnel or computer -
+ized operation, or complicated institutional arrangements would be in a 
+certain policy setting. One might say: to cover the idea of ‘governance 
+feasibility ’ . This does, however, not yet cover the cultural dimension. So, 
+let us have a closer look at cultural differences next. 
+In the 1980ies and 1990ies cultural differences have attained lots of 
+interest in anthropology and sociology, usually to identify the most 
+distinguishing factors in a multi-dimensional hyperspace of possibly 
+relevant factors. From a wealth of empirical research, especially by 
+groups around Thompson and Wildavsky (cf. Thompson et al., 1990 ) the 
+factors ‘group ’ and ‘grid ’ emerged as being the most differentiating. The 
+terms group and grid represent a) the degree of individualism versus 
+collectivism and b) the degree of freedom of choice: prescribing (free) or 
+prescribed (externally imposed restrictions on choice) ( Schwarz and 
+Thompson, 1990 ). These two factors have proved quite useful as main 
+axes in attempts to distinguish different cultures (e.g. Sun-ki Chai et al., 
+2009 ). 
+The two factors also proved useful in communicating ‘cultural the -
+ory ’ (see Thompson, 2002 ) as they allowed the characterization of four 
+distinct perspectives of the world: a hierarchist/controlist, an 
+individualist/market-optimist, an egalitarian/environmental pessimist 
+and a fatalist. In turn, these four perspectives helped to understand 
+conflicting opinions on preferred policy directions, as they could be 
+translated into 1) views on how the world functions and 2) preferred 
+management styles (after Van Asselt et al., 2001 ; Fig. 2 ; cf. also Offer -
+mans et al., 2013 ). 
+Another possibility to characterize cultural contexts is by dimensions 
+of national culture, as identified by Hofstede (2001 ); Hofstede et al. 
+(2010 ). He proposes six dimensions of culture, viz. Collectivism- 
+Individualism; Power Distance; Femininity-Masculinity; Uncertainty 
+avoidance; Long-term orientation; and Indulgence. 
+We consider Hofstede ’ s dimensions as more useful to understand the 
+perceptions and behavior of individual people in a certain culture, than 
+for characterizing a national or regional cultural setting. That is because 
+the perspective of Hofstede ’ s dimensions is primarily psychological, 
+rather than related to a country ’ s institutions and capacities to address 
+public policy issues — although the same could be maintained about 
+Thompson ’ s factors. Still, the perceptions and related behavior of most 
+of the people are very relevant, as the majority of the people tend to 
+determine tacit culture. 
+One would expect that at least Collectivism-Individualism (e.g. 
+Germany vs. USA) and Long-term Orientation (e.g. China vs. African 
+countries) are relevant differentiating factors at national level. And, 
+Fig. 2. From cultural theory distinct perspectives can be derived, representing 
+different beliefs about how ecosystems behave and on how management should 
+account for that (adapted from Schwarz & Thompson, 1990 , by successively 
+Middelkoop et al., 2004; De Bruijn et al., 2008 and the present authors). 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 4]]
+Water Security 12 (2021) 100084
+4
+obviously, collectivism-individualism is very similar to Thompson ’ s 
+interpretation of ‘group ’ whereas it has already been identified as partly 
+explaining differences in flood risk management between e.g. the 
+Netherland and the USA ( Bubeck et al., 2017 ). In contrast, we consider 
+Feminity-Masculinity as not really relevant as it primarily describes 
+whether it is accepted that a strong leader/institution enforces his/its 
+will. But if interpreted in this sense, Power Distance is very similar, as it 
+describes whether less strong parties accept that their power and in -
+fluence is limited. On the other hand, it is not unlikely that some of 
+Hofstede ’ s psychological dimensions are also already partly covered by 
+what we above called ’ state system ’ and (dominant) ’ world view ’ , i.e. if 
+we consider these as reflecting a country ’ s ‘culture ’ . This applies espe -
+cially for Power Distance and Indulgence. 
+4. Key socio-economic and cultural characteristics: A proposal 
+From the above-mentioned literature (esp. Thompson and Hofstede) 
+and practice (World Bank and OECD), we first derived a longlist of 
+possibly relevant socio-economic and cultural characteristics. Next, we 
+did some profound pruning in order to derive a homologous short-list of 
+about 6 – 10 characteristics only. We achieved this by scrutiny of each 
+characteristic, cross-comparison and in many cases simply by sound 
+reasoning. We thus got rid of most redundancies and overlaps, and 
+propose the following shortlist of 8 relevant socio-economic and cultural 
+differentiating characteristics to characterize a policy context:  
+• state system : varying from restrained to free and from top-down 
+control to bottom-up self-organizing. Examples: centrally led/ 
+strong leader (e.g. China, Russia); democratic decentralized and 
+strongly institutionalized (Germany, Nordic countries); free market 
+mechanism/capitalism (USA, UK);  
+• institutions : presence of well-established organizations, rules and 
+regulations to implement a policy and to maintain technical 
+interventions; 
+• funds : availability of or access to funding, for both the imple -
+mentation of interventions as well as their management and 
+maintenance;  
+• skills : capacity to plan, design, build and maintain complex technical 
+interventions;  
+• orientation : (long-term vs. short term, uncertainty avoidance) in a 
+long-term oriented culture, a basic notion is that preparing for the 
+future is always needed, whereas a short-time oriented culture con -
+siders the past to provide an adequate moral and practical compass; 
+uncertainty avoidance refers to a society ’ s tolerance for uncertainty 
+and ambiguity, and hence has to do with anxiety in the face of the 
+unknown. It strongly corresponds to the difference between con -
+trolism and fatalism, as reflected by support to institutionalization 
+(rules and regulations, large role for authorities and experts) versus 
+the opposite; 
+• collectivism-individualism : the extent to which people trust au -
+thorities and support public services, as opposed to fostering inde -
+pendency and favouring private action;  
+• degree of commitment : degree to which all relevant flood risk 
+management actors (often primarily the responsible authorities) are 
+committed to implement and sustain a certain strategy. Also 
+including commitment to integration and co-operation;  
+• public support : likelihood of support or opposition from stakeholders 
+and NGO ’ s who may benefit or bear the burden of interventions and 
+may feel unheard. 
+Of these 8, the first is an unchangeable given which, although it 
+cannot be changed, does constrain the freedom of choice of in -
+terventions and especially policy instruments. The next three define the 
+overall degree of development and its likely development into the 
+future, which primarily constrains how institutionally complex a policy 
+might be, and how technically sophisticated and expensive to implement 
+and maintain technical interventions. The next two characteristics, 
+orientation and collectivism-individualism are the most truly culturally- 
+rooted differences. They reflect the main dimensions found in ‘cultural 
+theory ’ and related empirical studies and wrap-together some of the 
+cultural dimensions proposed by Hofstede. They further constrain the 
+range of interventions and policy instruments that are feasible. Finally, 
+the degree of commitment of the responsible authorities is added as 
+stakeholders identified it as the key to successful implementation, 
+whereas — the counterpart — public support by the stakeholders was 
+considered the key to success by the responsible authorities (e.g. Klijn 
+et al., 2013 ; see also Bogdan, 2019 ). 
+Of all 8 factors, the last two may be the most easily accommodated in 
+the course of designing a flood risk management strategy. It could 
+therefore be questioned whether they should be part of the context 
+analysis or part of the strategy development. For our current case study 
+analysis, they are certainly relevant context. 
+4.1. Operationalization: Preliminary indicators 
+In order to be able to compare our 5 cases mutually and with our 
+reference countries the Netherlands and Bangladesh, we operationalized 
+our 8 proposed characteristics by using readily available indicators that 
+allow adequate (semi-)quantification. Therefore, we used indicators that 
+are available in databases covering all, or at least most, countries, as 
+follows:  
+• for the state system we used the World Bank ’ s governance indicators 
+Rule of Law and Control of Corruption, which are closely correlated. 
+The Rule of Law ‘ reflects perceptions of the extent to which agents have 
+confidence in and abide by the rules of society, and in particular the 
+quality of contract enforcement, property rights, the police, and the 
+courts, as well as the likelihood of crime and violence . ’ The indicator 
+Control of Corruption ‘ reflects perceptions of the extent to which public 
+power is exercised for private gain, … , as well as “ capture ” of the state by 
+elites and private interests . ’ Both indicators are ranked as percentile, so 
+ranging from 0 to 100, and as they proved strongly correlated, we 
+simply calculated the mean.  
+• For an indication of the adequacy of institutions we consider the 
+Worldbank ’ s governance indicator Government Effectiveness an 
+adequate representation. This ‘ reflects perceptions of the quality of 
+public services, the quality of the civil service and the degree of its inde -
+pendence from political pressures, the quality of policy formulation and 
+implementation, and the credibility of the government ’ s commitment to 
+such policies. ’ Despite its being limited to civil, i.e. public, services 
+and hence not covering possible private institutions, we consider it a 
+good indicator, as flood risk management is largely a matter of public 
+policy making.  
+• for funds we regard the gross domestic product (GDP at purchasing 
+power parity: PPP) per capita a good indicator, i.e. the purchasing 
+power parity value of all final goods and services produced within a 
+country in a given year, divided by the average (or mid-year) pop -
+ulation for the same year. This indicator takes into account the 
+relative cost of living and the inflation rates of the countries. Wiki -
+pedia gives a list of countries ranked by their PPP (International 
+Monetary Fund, 2019), which we transformed to a measure from 0 to 
+100.  
+• For an mere first indication of skills we draw from the Human 
+Development Index (HDI) of UNDP and the Global Innovation Index 
+(GII) of Cornell University et al. (2019). The Human Development 
+Index is partly based on an education index, but unfortunately also 
+partly on GDP. The GII focuses on medical innovation, but its ranking 
+is based on the presence of and relationships with science and 
+technology clusters. Both rankings were transformed to a scale from 
+0 to 100. Interestingly, it was found that the HDI scores much lower 
+than the GII, which might reflect inequities. Still, we calculated their 
+mean, as the ranking was quite similar. 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 5]]
+Water Security 12 (2021) 100084
+5
+• for orientation we use two of the cultural dimensions as recognized 
+by Hofstede as indicators, namely Long Term Orientation and Un -
+certainty Avoidance. Hofstede ’ s dimensions already range from 0 to 
+100. As the correlation between the two was less than expected and 
+resulted in different rankings, we kept their individual scores and 
+distinguish orientation 1 and 2. 
+• for collectivism-individualism we can directly use Hofstede ’ s quan -
+tification for this dimension.  
+• For the degree of commitment of the policy makers we have not 
+found any worldwide database that might apply. On the other hand, 
+the description of the Worldbank ’ s governance indicator for Gov -
+ernment Effectiveness suggests that it includes ‘the credibility of the 
+government ’ s commitment … . ’ (italics by us). As this indicator was 
+already used for institutions (see above), we have not attempted to 
+identify any other indicator for this (left out).  
+• for public support we can use both Hofstede ’ s dimension Power 
+Distance or the Worldbank ’ s governance indicator Voice and 
+Accountability. As these are negatively correlated, we transformed 
+Power Distance to Power Proximity, such that both indicators are 
+positively correlated and represent an increasing degree of potential 
+stakeholder involvement or participation. 
+5. Case studies 
+First, we described all the cases in terms of flood risk situation, 
+governance arrangements and management strategy. The focus was on 
+understanding the specific risk situation as well as its management. 
+Next, we tried to identify whether the socio-economic and cultural 
+setting explained the current management strategy or desired changes to 
+it. 
+5.1. Different physical risk contexts 
+The 5 cases are quite different. Vancouver (British Columbia, Can -
+ada) and the Vietnamese Mekong delta are both located in a delta, hence 
+relatively flat and threatened by river floods as well as coastal storm 
+surges. The Mekong delta, however, lies in a tropical monsoon climate, 
+with extreme amounts of rainfall on the delta itself during the wet 
+season, whereas Vancouver is primarily threatened by the Fraser River 
+coming from the maritime west side of the Rocky Mountains. Calgary 
+(Alberta, Canada) is also threatened by river floods originating in the 
+Rocky Mountains, but it lies on the continental, i.e. dry, side of the 
+mountains; the northern extensions of the Great Plains with a badland- 
+like topography. The rivers here tend to rather lose water than grow 
+during their flow to the east (Great Lakes). Miami and Fort Lauderdale 
+(Florida, USA) is special in the sense that it is very low above sea level, 
+and mainly composed of raised coral reefs and their weathering prod -
+ucts: sandy beach ridges on calcareous rocks, all very permeable. This 
+implies that groundwater levels rise and drop with the tides at sea. It also 
+means that sea level rise influences the inland water levels almost pro -
+portionally and uncontrollably. The coast is primarily threatened by 
+hurricanes with huge amounts of rainfall, storm surges and huge waves. 
+The Democratic Republic of S ˜ao Tom ´e and Príncipe (STP), finally, is an 
+archipelago comprised of two main islands and several islets in the Gulf 
+of Guinea (Afrika). Here, coastal communities are being threatened by 
+swell waves and storm surges but they are also affected by runoff from 
+the hills and pluvial flooding; the climate is tropical with average 
+rainfall ranging up to 7,000 mm in the southeast. 
+As for the exposure and vulnerability, we see large differences be -
+tween the case study areas, partly related to their size. In S ˜ao Tom ´e and 
+Príncipe (STP) the rural coastal communities at risk vary in size from 
+270 to 3300 people, and mainly live from fisheries in timber houses that 
+are usually raised a few meters above ground level, except for those 
+closest to the beach — because of the high wind speeds there. Vancouver 
+and Calgary instead are large cities of about 2.5 (i.e. metropolitan 
+Vancouver) and 1.2 million inhabitants (town only) respectively, with 
+business centres with high rise buildings (‘downtown ’ ). Calgary ’ s 
+downtown is spatially confined and largely located on the alluvial fan of 
+the Elbow River, at the confluence with the Bow River. This fact, and the 
+development of parts of the floodplain of these rivers for urban sprawl, 
+explains the large damage incurred during the 2013 flood: an about 1: 
+100 per year probability flood that affected 8% of Calgary ’ s population 
+and did 7 billion dollars of damage ( Fig. 3 a). Vancouver ’ s downtown, in 
+contrast, lies mainly on elevated ground, but parts of larger Vancouver 
+and adjacent towns are in embanked polders along the Fraser River or on 
+the actual delta. 
+Miami and Fort Lauderdale are almost fully built-up areas along 
+Florida ’ s long coast ( Fig. 3 b), which is regarded the place to be for the 
+better-off Americans during holidays (second homes) or after retire -
+ment. This attracted a huge recreational industry with many hotels on 
+the outer ridge. During heavy rainfall events or storms at sea the streets 
+are very regularly but shallowly flooded; still regarded as a common 
+nuisance rather than as life-threatening, except for the occasional hur -
+ricane landfall when evacuation is required. Vietnams Mekong Delta is 
+again totally different, in the sense that it is primarily agricultural, with 
+settlements since ancient times on slightly higher beach ridges and river 
+levees. Each year, the daily life of more than 2 million people is affected 
+when about half the delta ’ s surface area is flooded. This ‘normal 
+flooding ’ has been welcomed for ages as it supports the growing of rice 
+( Fig. 3 d) and hence contributed to Vietnam being the second largest rice 
+exporter in the world ( Marchandet al., 2012 ). It also explains why the 
+people of the Mekong Delta are originally so well-adapted to flooding 
+(Pham Cong Cuu, 2011). Recently, however, industrial development and 
+accelerated urbanization increasingly take up space in the delta, espe -
+cially near major cities such as Can Tho. Moreover, agriculture has 
+intensified opting for artificially irrigated triple rice cultivation instead 
+of traditional double rice. Consequently, the delta ’ s vulnerability to 
+extreme flooding has increased. 
+5.2. Different risk management strategies 
+Adequately but briefly characterizing the flood risk management 
+strategy of each case is difficult, if not impossible. As stated in the 
+introduction, a flood risk management strategy can be defined by its 
+content or also by its governance structure. In our analysis, we focused 
+on the content only, implying an interpretation in terms of the physical 
+interventions and policy instruments applied (cf. FLOODsite, 2009 ; 
+ASCE, 2014; Marchand et al., 2012; WMO, 2017 ; cf. Fig. 4 ). 
+Instead of presenting a systematic analysis of each case ’ s strategy 
+here, we only give a brief characterization. This is obviously selective 
+and hence biased, but a full description would require too much text (the 
+case descriptions are available on request), whereas a list of each case ’ s 
+interventions and instruments would, to our opinion, not yield an 
+adequate overview of the complexity and historical development of the 
+different management strategies either. 
+Until the 2013 flood, neither the city of Calgary nor the province of 
+Alberta had a clear risk management strategy. Since then, plans were 
+drafted, which not only included an initiative to increase the protection 
+level by flood mitigation and protection measures, but also included 
+measures to reduce the vulnerability of people and objects, e.g. by 
+making money available for buy-outs (relocate or rebuild) and by 
+issuing a building code bulletin. That might be considered an indication 
+of an underlying integrated view, although there does not appear to be 
+one common and well-defined policy on preventative flood risk man -
+agement, neither at local, provincial nor federal level. Instead, however, 
+at all levels relevant elements of such a comprehensive strategy can be 
+found, including a legal framework, dedicated departments in provincial 
+ministries and the city, flood maps, warning systems, involvement of 
+consulting engineers and well-established stakeholder groups (Water -
+Smart Solutions Ltd, 2013). 
+Vancouver , or rather the lower mainland of British Columbia, relies 
+strongly on flood defences, but complemented by early warning, 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 6]]
+Water Security 12 (2021) 100084
+6
+floodplain regulation, and building resilience into communities. The 
+embankments along the Fraser River and its tributaries in the Lower 
+Mainland have been constructed between 1968 and 1995 by the federal- 
+provincial Fraser River Flood Control Program. They were intended to 
+withstand the flood of record (dating back as far as 1894) with 0.6 m of 
+freeboard. The 1894 flood was previously assessed as a 1: 200 per year 
+flood but is now considered to likely have been a 1: 500 per year flood. A 
+1: 200 design flood applies for all areas along the Fraser river. Since 
+2003, the responsibility for flood management and floodplain regulation 
+was shifted from the province to local governments, although the 
+province remains involved in the infrastructure through the Dike 
+Maintenance Act. The provincial River Forecast Center provides infor -
+mation on current water levels as well as 5- and 10-day predictions. 
+Currently, the Fraser Basin Council, a non-profit organization 
+comprising Federal, Provincial, Local and First Nations governments, 
+considers an upgrade of the infrastructure in anticipation of sea-level 
+rise and other climate-change related impacts, as well as an improve -
+ment of the resilience of the communities. For the funding of major 
+infrastructural projects, local governments can apply to the Disaster 
+Mitigation and Adaptation Fund (DMAF), which was launched by the 
+federal government. The funding of the risk assessments, flood mapping, 
+mitigation planning and small-scale mitigation works comes from the 
+National Disaster Mitigation Program Funding, also established by fed -
+eral government (in 2015), but administered by the province of British 
+Columbia. Interestingly, the municipality of Richmond, a city sur -
+rounded by water from the Fraser River and the ocean, is the only taxing 
+its citizens directly for flood protection. The extra funds are used to 
+upgrade the flood defences and pumping stations. This municipality 
+sticks out for its projects and taxation. 
+Fort Lauderdale ’ s inhabitants primarily regard floods as a nuisance 
+which comes with the location. The town has very few technical means 
+to control the flood hazard, except raising its roads and other infra -
+structure and flood-proofing or raising properties: a strategy of constant 
+repair and building back better. It implies that for property owners 
+buying insurance or accepting the recurrent losses is the only resort. As 
+the majority of the area lies within the 100-year flood zone, buying in -
+surance is obliged by the Flood Disaster Protection Act which the US 
+passed in 1973. It requires participation in the Federal Emergency 
+Management Agency ’ s (FEMA) National Flood Insurance Program 
+(NFIP) ( FEMA, 2011 ). This calls for flood-proofing, has many exceptions 
+from its policies, has a cap on its payments, and may ask very high rates 
+in flood-prone areas; it hence favours the rich and excludes the poor. 
+Still, it is not actuarily sound ( GAO, 2007; Penning-Rowsell & Priest, 
+2014 ). 
+Sao Tome and Principe have three ministries with responsibilities 
+for elements of flood risk management, under supervision of a National 
+Council for the Prevention and Response to Disasters (CONPREC; 
+established in 2011) which is supported by UNDP. It does, however, not 
+have a formal flood risk management policy, nor an official plan, legal 
+framework or budget available for flood risk management. In practice, 
+focus lies strongly on disaster prevention and response, with a strong 
+emphasis on building societal resilience through individual measures. 
+The strategy does involve the protection of key infrastructure, e.g. by 
+floodwalls along coastal and riverine roads, but the main idea is to keep 
+the people out of harm ’ s way, as the hazards are too intense to be 
+controlled. Spatial planning is hence recognized as crucial but relocating 
+land-owners from hazardous locations is found to be difficult; people 
+said they were prepared to move, but not at their own costs. And not 
+from locations with obvious advantages, such as the coast (for fisher -
+men) or valleys (for farmers), to less favourable locations. Consequently, 
+common practice is still that property owners (need to) take their own 
+measures, mainly by building on stilts or on a concrete basement of 
+sufficient height; the height not being prescribed but established locally 
+by experience. 
+Because of regional differences in physiography Vietnam defined 
+strategies for flood disaster mitigation and management for three 
+distinct geographic areas ( Van Staveren, 2007 ). For southern Vietnam 
+the strategy reads: Living with floods and creating sustainable 
+Fig. 3. (a). Calgary with Bow River during the 2013 flood. (b). Fort Lauderdale: proximity of water a key amenity. (c). S ˜ao Tom ´e and Príncipe: fishery communities 
+located on exposed shores. (d). Vietnam: floods a crucial geo-ecosystem service. 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 7]]
+Water Security 12 (2021) 100084
+7
+development. Historically, there was no rationale for full flood control in 
+the Mekong Delta and people lived with floods for centuries. Since the 
+end of the war in 1975, this strategy has gradually been changed and the 
+flood defence infrastructure has been extended to protect the growing 
+cities and in behalf of agricultural intensification ( Van Staveren et al., 
+2018 ). This strategy has been reinforced by MARD Decision 101/QD- 
+BNN-TT 2015 on the Master Plan on Rice Production in the Autumn- 
+winter Season in the Mekong Delta to 2020 with an outlook to 2030 . 
+Consequently, the ancient system of low ‘August dikes ’ which left room 
+for high floods (Thanh et al., 2019), is now systematically being replaced 
+by high flood defences, which completely prevent the annual floods 
+(UNDP, 2017). This policy change is sometimes attributed to the 
+dominance of a ‘hydraulic bureaucracy ’ (Evers & Benedikter, 2009), 
+with intricate linkages between government and the hydraulic con -
+struction sector and an intuitive preference for modern technology. This 
+policy has, however, also stirred significant criticism because of the risk 
+shifts it comes with. For the heightening of the embankments results in 
+higher flood levels elsewhere ( K ¨ak ¨onen, 2008 ), affecting cities like Can 
+Tho, but especially rural areas. Moreover, the perceived better flood 
+protection induces the so-called levee effect ( White, 1945 ) of investing 
+in protected areas and thus increasing the vulnerability to flooding 
+( K ¨ak ¨onen, 2008 ). In the Mekong Delta Plan (MDP, 2013), which was 
+endorsed by Vietnam ’ s government as well as Development Partners in 
+December 2013, a shift in mindset emerged resulting in the adoption in 
+Parliament in 2017 of several guiding principles for flood risk man -
+agement, including: “ to respect natural law and practical conditions, avoid 
+violently interfering in the nature; select models of nature-based adaptation, 
+environmentally sound, and sustainable development, on the basis of actively 
+living with flood, brackish and salt water ” . 
+Despite all the differences, common to all cases was that the strate -
+gies were all quite comprehensive in the sense that combinations of 
+many different measures and policy instruments were applied in which 
+many actors were involved; and that the strategies had all constantly 
+been adapted in response to experience in recent events, fashion and 
+changing insights. 
+6. Results: The cases compared by indicators for the key socio- 
+economic and cultural characteristics 
+Fig. 5 shows how the cases score on the 8 differentiating character -
+istics we proposed. The most obvious difference is that between the most 
+developed countries and the least developed countries, especially on the 
+first four characteristics. Canada and the US very much resemble the 
+Netherlands as for state system (Rule of Law, Control of Corruption), 
+institutions (Government Effectiveness), funds (GDP (PPP) per capita), 
+and skills (Human Development Index and Global Innovation Index). 
+Regarding these characteristics Vietnam takes an intermediate position, 
+with a relatively high score for skills thanks to a high Innovation Index. 
+When we look at the 4 characteristics that rather reflect the cultural 
+setting than the socio-economic context, there are remarkable 
+Fig. 4. Checklist of flood risk management interventions, allowing an analysis 
+of strategies in different cases (freely adapted and re-ordered after De Bruijn 
+et al., 2008 and FLOODsite, 2009). Nature-based interventions are shaded 
+green and structural engineering interventions grey; intermediate greenish; and 
+those without evident physical consequence not shaded. (For interpretation of 
+the references to colour in this figure legend, the reader is referred to the web 
+version of this article.) 
+Fig. 5. Scores for the indicators for the 6 countries (2 of the 5 cases are in 
+Canada; with Netherlands and Bangladesh as references). 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 8]]
+Water Security 12 (2021) 100084
+8
+differences as well as unexpected similarities. For example, the rela -
+tively long-term orientation of the Netherlands is almost equaled by 
+Vietnam, which also develops a delta plan for its Mekong delta; the 
+degree of uncertainty avoidance (Orientation 2) of the three richest 
+countries is exceeded by Bangladesh and equaled by that of Sao Tome 
+and Principe; and the expected largest degree of Individualism of the US 
+is counterbalanced by higher scores for Public Support to government 
+institutions in Canada and the Netherlands. 
+7. Discloser statement 
+Given his role as Guest Editor, Dr. Frans Klijn had no involvement in 
+the peer-review of this article and has no access to information regarding 
+its peer-review. Full responsibility for the editorial process for this 
+article was delegated to Dr. Michel Lang. 
+8. Is there any explanatory value in the identified socio- 
+economic and cultural characteristics? 
+The characteristics related to socio-economic development, i.e. in -
+stitutions, funds and skills, might explain a preference for highly tech -
+nical and expensive structural interventions in the rich developed 
+countries versus more local and low-cost interventions in the other 
+cases. However, this difference proved not so marked in practice. This 
+may be explained by the fact that the physical setting of the cases is so 
+different, whilst also the risk level and the acceptance of risk differs. 
+Vietnam’s Mekong delta of course heavily relies on sound flood risk 
+management for ages already, whereas Calgary has hardly any history of 
+recent flooding and can easily recover from a flood, as evidenced by the 
+aftermath of the 2013 flood. And Fort Lauderdale is located in such a 
+disadvantageous physiographic setting that structural flood defence 
+measures are bound to fail anyway. Also notable is that for the Vietnam 
+case it was found that a strong lobby has been actively arguing for 
+technical flood protection, whilst funding agencies also prefer to invest 
+in structural measures, even when from a local and cultural perspective 
+these are perhaps not the most preferable (cf. also Minkman, 2021). 
+As to the acceptance of risk, it is remarkable that the score for Un -
+certainty Avoidance (Orientation certainty) in Canada and the US is not 
+much lower than that in the Netherlands; the score for long-termism 
+(Orientation long-term) is, however, quite different. This could 
+explain the relatively late development of comprehensive flood risk 
+management policies in Canada and the US, although both countries 
+seem to be increasingly aware of the need to respond to a changing 
+climate and rising sea level. For the US case this is even essential for its 
+chances of survival. At the same time, the US’s preference for individual 
+action is only marginally reflected by a different score on Individualism 
+in comparison to Canada and the Netherlands. Perhaps this indicator 
+does not so much reflect preferences about interventions as expected. 
+Vietnam’s long-term orientation may be either considered a reflec -
+tion of its dependency on sound flood risk management, or as an 
+explanation for its policy. Here the question arises whether culture is 
+partly the result of a physical setting, or whether culture explains how 
+natural risk is perceived and hence the approach to flood risk manage -
+ment. Similarly, the short-termism of Sao Tome and Principe can equally 
+be attributed to the still low socio-economic status of this young de -
+mocracy, or alternatively be considered the explanation of an apparent 
+acceptance of living with risk of the communities along the coast, which 
+largely depend on fisheries and hence have no other option than to settle 
+in hazardous places. 
+Where Vietnam and Sao Tome deviate strongly on long-term orien -
+tation, they also do on Public Support (Voice and Accountability), which 
+would indicate that the Vietnamese people are being ruled rather than 
+intensely participate in policy making, whereas the opposite seems true 
+for Sao Tome. In Vietnam we indeed see that embankments are being 
+installed or raised, even when the farmers prefer their rice fields to be 
+flooded or where they suffer from the increased flood levels in the river 
+as its discharge capacity is being reduced. It seems, thus, that not all 
+stakeholders are being heard, certainly not those off-site but often not 
+even those on-site. 
+All in all, we must admit that the characteristics we defined and the 
+available indicators we used to qualify the socio-economic and cultural 
+setting of each case proved less of an explanation of the current flood 
+risk management policy than we expected. We already mentioned that 
+the physical risk situation may be so important that the influence of 
+stage of development and culture may be too small to be noticeable, 
+especially also due to the limited number and large variety of cases we 
+investigated, each with comprehensive but also complex policies (but cf. 
+Noll et al., 2020, who looked at one type of intervention only). Even 
+more importantly, the in-depth descriptions of the cases showed that 
+each case has a special history which is so rich that only by a very 
+thorough investigation one can obtain sufficient insight in the possible 
+why of (elements of) the current flood risk management strategy. 
+9. Findings and discussion 
+We argued that each flood risk situation calls for the design of a flood 
+risk management policy tailored to the specific setting. We stated that 
+not only the physical context and risk situation are relevant for the 
+design of such a policy, but also the socio-economic and cultural context. 
+We hypothesized that if that be true, we ought to be able to detect dif -
+ferences between current flood risk management policies between 
+different cases, which could be explained by a characterization of this 
+context. We then identified key characteristics to describe the socio- 
+economic and cultural setting and selected indicators by which our 
+cases could be compared. 
+We found that the policies in the cases show large differences, but 
+that our presumed differentiating characteristics only explain these 
+differences to a small extent. Perhaps the physical conditions are much 
+more important than previously envisaged, or the number of cases is 
+simply too small and their variety too large. Or our hypothesis is 
+mistaken, which we rather not admit yet. After all, the World Bank and 
+other funding agencies as well as OECD see a clear relationship between 
+degree of development and being able to adequately manage flood risk. 
+Whether this relationship is one way or the other, or both ways, is 
+however yet to be seen; does development depend on sound (flood) risk 
+management, or is it a prerequisite for well-established institutions, 
+sufficient funding and the good skills that are needed to implement a 
+comprehensive and effective flood risk management policy and its 
+related interventions? 
+As for the experience with the 8 socio-economic and cultural char -
+acteristics we proposed, as well as with the globally available indicators, 
+we still recommend anybody who is going to work abroad to have a look 
+at them, just as a first acquaintance. Further, a sensitive and open atti -
+tude to the culture one is going to work in seems the best recommen -
+dation; not in order to simply accept or adopt its peculiarities, but to 
+prevent an insufficiently humble attitude as to the local cultural setting 
+which might result in ineffective advice on what to do or how to do it. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+References 
+E.A. Bogdan, Perceptions and practices of flood risk management: a case study of flood 
+risk governance in High River, Alberta, University of Alberta, 2019. PhD thesis. 
+P. Bubeck, H. Kreibich, E. Penning-Rowsell, W. Botzen, H. de Moel, F. Klijn, Explaining 
+differences in flood management approaches in Europe and the USA – a comparative 
+analysis, J. Flood Risk Manage. 10 (2017) (2017) 436–445, https://doi.org/ 
+10.1111/jfr3.12151. 
+F. Klijn et al.                                                                                                                                                                                                                                     
+
+[[PAGE 9]]
+Water Security 12 (2021) 100084
+9
+De Bruijn, K.M., F. Klijn, C. McGahey, M. Mens & H. Wolfert (2008). Long-term strategies 
+for flood risk management: scenario definition and strategic alternative design. 
+FLOODsite report T14-08-01 (www.floodsite.net). 
+C. Eijgenraam, R. Brekelmans, D. den Hertog, K. Roos, Optimal strategies for flood 
+prevention, Manage. Sci. 63 (5) (2017) 1644 – 1656, https://doi.org/10.1287/ 
+mnsc.2015.2395 . 
+FEMA (2011). National Flood Insurance Program: Frequently asked questions, repetitive 
+loss. (http://www.fema.gov/txt/rebuild/repetitive_loss_faqs.tx). 
+FLOODsite (2009). Flood risk assessment and flood risk management. An introduction 
+and guidance based on experiences and findings of FLOODsite (an EU-funded 
+Integrated Project). Deltares | Delft Hydraulics, Delft, the Netherlands, ISBN 978 90 
+814067 1 0. E-publication www.floodsite.net, 140 pp. 
+FLOODsite (2009b). Language of risk. Project definitions. 2nd ed. Report T32-04-01, 
+www.floodsite.net. 
+GAO (US Government Accountability Office) (2007). National Flood Insurance Program. 
+FEMA ’ s Management and Oversight of Payments for Insurance Company Services 
+Should be Improved. GAO-07-1078. Washington. 
+G. Hofstede, Culture ’ s Consequences: Comparing Values, Behaviors, Institutions, and 
+Organizations Across Nations, Second Edition, Sage Publications, Thousand Oaks 
+CA, 2001 . 
+G. Hofstede, G.J. Hofstede, M. Minkov, Cultures and Organizations: Software of the 
+Mind. Revised and Expanded, 3rd Edition., McGraw-Hill, 2010 . 
+Kaufmann, D., A. Kraay & M. Mastruzzi (2010). The Worldwide Governance Indicators: 
+A Summary of Methodology, Data and Analytical Issues. World Bank Policy Research 
+Working Paper No. 5430, Washington. 
+M. K ¨ak ¨onen, Mekong delta at the crossroads: more control or adaptation? AMBIO: J. 
+Human Environ. 37 (3) (2008) 205 – 212 . 
+F. Klijn, D. de Bruin, M. de Hoog, S. Jansen, D. Sijmons, Design quality of Room-for-the- 
+River measures in the Netherlands: role and assessment of the Quality Team (Q- 
+team), Journal of River Basin Management 11 (2013) 287 – 299, https://doi.org/ 
+10.1080/15715124.2013.811418 . 
+Klijn, F., H. Kreibich, H. de Moel & E. Penning-Rowsell (2015). Adaptive Flood Risk 
+Management Planning based on a Comprehensive Flood Risk Conceptualisation. 
+Mitigation and Adaptation Strategies to Global Change (MITI) 20(2015)/6: 845-864, 
+DOI: 10.1007/s11027-015-9638-z. 
+J.M. Kind, Economically efficient flood protection standards for The Netherlands, 
+J. Flood Risk Manage. 7 (2014) 103 – 117 . 
+Marchand, M., Trinh Thi Long & Sawarendro (2012). Adaptive Water Management for 
+Delta Regions: Towards GREEN Water Defense in East Asia, Deltares-report 
+1205471-000, Delft. 
+Mayer, I., H. van der Most & P. Bots (2002). Dam the river or go with the flow? Changing 
+views on policy analysis in Dutch water management. 24th APPAM conference, 
+November 7-9, 2002, Dallas, Texas. 
+H. Middelkoop, M.B.A. van Asselt, S.A. Klooster van ’ t, et al., Perspectives on flood 
+management in the Rhine and Meuse rivers, River Research and Application 20 (3) 
+(2004) 327 – 342, https://doi.org/10.1002/rra.782 . 
+E. Minkman, P. Letitre, A. van Buuren, Reconstructing the impasse in the transfer of delta 
+plans: evaluating the translation of Dutch water management strategies to Jakarta, 
+Indonesia, J. Environ. Plann. Manage. 62 (9) (2019) 1562 – 1582, https://doi.org/ 
+10.1080/09640568.2018.1527216 . 
+E. Minkman, Building Bridges. Policy transfer and translation of the Dutch Delta 
+Approach in South and Southeast Asia, Erasmus University, Rotterdam, 2021. PhD 
+thesis . 
+Noll, B. T. Filatova & A. Need (2020). How does culture affect individual adaptation to 
+climate-driven floods? Proceedings of the FLOODrisk2020 conference, BME, 
+Budapest. 
+OECD, OECD Principles on Water Governance, OECD, Paris, 2015 . 
+OECD (2019). Applying the OECD principles on water governance to floods: a checklist 
+for action. OECD Studies on Water, OECD Publishing, Paris. 
+A. Offermans, P. Valkering, H. Vreugdenhil, N. Wijermans, M. Haasnoot, The Dutch 
+dominant perspective on water; risks and opportunities involved, J. Environ. Sci. 
+Health, Part A 48 (10) (2013) 1164 – 1177, https://doi.org/10.1080/ 
+10934529.2013.776438 . 
+E.C. Penning-Rowsell, S.J. Priest, Adaptation to Flood Risk: The Role of Insurance, 
+Knowledge for Climate report, Utrecht, 2014 . 
+P. Sayers, G. Galloway, E. Penning-Rowsell, Li Yuanyuan, Shen Fuxin, Chen Yiwei, T. Le 
+Wen Kang, Lei Wang Quesne, Yuhui Guan, Strategic flood management: ten ‘golden 
+rules ’ to guide a sound approach, Int. J. River Basin Manage. 13 (2) (2015) 137 – 151 . 
+Michael Schwarz, Michael Thompson. Divided We Stand: Redefining Politics, 
+Technology, and Social Choice, University of Pennsylvania Press, 1990 . 
+M. Thompson, R. Ellis, A. Wildavsky, Cultural Theory, Westview Press, Boulder, 1990 . 
+Thompson, M. (2002). Understanding Environmental Values: A Cultural Theory 
+Approach. Event paper, Carnegie Council on Ethics and International Affairs. 
+Downloadable at Carnegie Council. https://www.dustinstoltz.com/blog/2014/06/ 
+04/diagram-of-theory-douglas-and-wildavskys-gridgroup-typology-of-worldviews. 
+Sun-Ki Chai, Ming Liu, Min-Sun Kim, Cultural comparisons of beliefs and values: 
+applying the grid-group approach to the world values survey, Beliefs Values 1 (2) 
+(2009) 193 – 208 . 
+UN (United Nations General Assembly) (2015). Transforming our world: the 2030 
+Agenda for Sustainable Development. Resolution 70/1, adopted by the General 
+Assembly on 25 September 2015. 
+M.B.A. van Asselt van, H. Middelkoop, S.A. Klooster van ’ t, et al.. Development of Flood 
+Management Strategies for the Rhine and Meuse Basins in the Context of Integrated 
+River Management, IRMA-SPONGE, Delft, 2001. IRMA-SPONGE project 3/NL/1/ 
+164 / 99 15 183 01 NRP project 958273 . 
+Van der Most H., T ´anczos, I., De Bruijn, K.M. & Wagenaar, D. (2014). New, risk-based 
+standards for flood protection in the Netherlands. Proceedings of the 6th 
+international conference on flood management (ICFM6), September 2014, Sao 
+Paulo, Brazil. 
+M.F. Van Staveren, Integrated Flood Management in the context of climate change, 
+Vietnam. Evaluating the effects of Integrated Flood Management on flood risks in a 
+climate change scenario, Wageningen University, 2007. MSc Thesis . 
+M.F. Van Staveren, J.P.M. van Tatenhove, J.F. Warner, The tenth dragon: controlled 
+seasonal flooding in long-term policy plans for the Vietnamese Mekong delta, 
+J. Environ. Plan. Policy Manage. 20 (3) (2018) 267 – 281, https://doi.org/10.1080/ 
+1523908X.2017.1348287 . 
+G.F. White. Human adjustement to floods., The University of Chicago, Chicago, 1945. 
+Research Paper no. 29 . 
+WMO/GWP Associated Programme on Flood Management, 2017. Selecting measures and 
+designing strategies for integrated flood management: a guidance document. Policy 
+and Tools Documents Series 1, version 1.0, World Meteorological Organization, 
+Geneva, Switzerland. 
+C. Zevenbergen, S. Alam Khan, J. van Alphen, C. Terwisscha van Scheltinga, 
+W. Veerbeek, Adaptive delta management: a comparison between the Netherlands 
+and Bangladesh Delta Program, Int. J. River Basin Manage. 16 (3) (2018) 299 – 305, 
+https://doi.org/10.1080/15715124.2018.1433185 . 
+F. Klijn et al.                                                                                                                                                                                                                                     

@@ -1,0 +1,959 @@
+[[PAGE 1]]
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+doi:10.5194/nhess-16-1401-2016
+© Author(s) 2016. CC Attribution 3.0 License.
+Modelling the socio-economic impact of river ﬂoods in Europe
+Lorenzo Alﬁeri1, Luc Feyen1, Peter Salamon1, Jutta Thielen1, Alessandra Bianchi1, Francesco Dottori1, and
+Peter Burek1,2
+1Institute for Environment and Sustainability, European Commission – Joint Research Centre, 21027 Ispra, Italy
+2International Institute for Applied Systems Analysis (IIASA), 2361 Laxenburg, Austria
+Correspondence to: Lorenzo Alﬁeri (lorenzo.alﬁeri@jrc.ec.europa.eu)
+Received: 23 December 2015 – Published in Nat. Hazards Earth Syst. Sci. Discuss.: 19 January 2016
+Revised: 13 May 2016 – Accepted: 31 May 2016 – Published: 16 June 2016
+Abstract. River ﬂoods generate a large share of the socio-
+economic impact of weather-driven hazards worldwide. Ac-
+curate assessment of their impact is a key priority for gov-
+ernments, international organization, reinsurance companies
+and emergency responders. Yet, available databases of ﬂood
+losses over large domains are often affected by gaps and in-
+consistencies in reported ﬁgures. In this work, a framework
+to reconstruct the economic damage and population affected
+by river ﬂoods at continental scale is applied. Pan-European
+river ﬂow simulations are coupled with a high-resolution im-
+pact assessment framework based on 2-D inundation mod-
+elling. Two complementary methods are compared in their
+ability to estimate the climatological average ﬂood impact
+and the impact of each ﬂood event in Europe between 1990
+and 2013. The event-based method reveals key features, such
+as the ability to include changes in time of all three compo-
+nents of risk, namely hazard, exposure and vulnerability. Fur-
+thermore, it skilfully reproduces the socio-economic impact
+of major ﬂood events in the past two decades, including the
+severe ﬂooding hitting central Europe in June 2013. On the
+other hand, the integral method is capable of reproducing the
+average ﬂood losses which occurred in Europe between 1998
+and 2009. Strengths and limitations of the proposed model
+are discussed to stress the large potential for ﬁlling in the
+gaps of current datasets of ﬂood impact.
+1 Introduction
+The devastation caused by severe river ﬂoods in different ar-
+eas of the world is brought to the people’s attention by the
+media on a daily basis. In its physical abstraction, “ﬂood-
+ing” is simply a temporary covering by water of land not
+normally covered by water (European Commission, 2007).
+Hence, the interest in ﬂoods grows only when such land is oc-
+cupied by dwellings and businesses, which are disrupted by
+the ﬂood inundation. Yet, the history of river ﬂooding and its
+socio-economic impact has shaped the development of civi-
+lizations for millennia (Chen et al., 2012; Di Baldassarre et
+al., 2013). The latest relevant directives on ﬂood prevention
+and preparedness deﬁne the ﬂood risk as a product of ﬂood
+hazard, exposure (of population and assets) and their vulner-
+ability (European Commission, 2007; Kron, 2005; UNISDR,
+2009). Each of those three components can change in space
+and in time, following population growth along rivers, migra-
+tion ﬂuxes, river ﬂood protection and changes in climatic ex-
+tremes, among others. In addition, effective adaptation mea-
+sures to reduce the ﬂood impact can be achieved by reducing
+one or more of those three risk components (Alﬁeri et al.,
+2016; IPCC, 2012).
+Flood risk is characterized by strong spatial variability, due
+to its dependence on land use, local infrastructure and the el-
+evation and distance in relation to the surrounding river net-
+work. The use of high-resolution datasets and methods are
+of utmost importance to achieve a meaningful mapping of
+the ﬂood risk. Physically consistent delineation of the ﬂood
+extent and depth for a range of event magnitudes is derived
+through hydraulic ﬂoodplain models, commonly used in re-
+gional ﬂood risk assessments (Broekx et al., 2011; Falter et
+al., 2015; Foudi et al., 2015; Koivumäki et al., 2010; te Linde
+et al., 2011). The computing resources needed by these mod-
+els grow fast with the simulation area, so that applications
+to large river basins are rare (Falter et al., 2016; Schumann
+et al., 2013). Because of such a constraint, pan-European
+and global ﬂood hazard mapping have been traditionally per-
+formed through simpliﬁed approaches based on topographic
+Published by Copernicus Publications on behalf of the European Geosciences Union.
+
+[[PAGE 2]]
+1402 L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe
+indices (e.g. Lugeri et al., 2010), on planar approximation
+of water levels (Barredo et al., 2007; Rojas et al., 2013) or
+at coarser resolution, often coupled with methods for down-
+scaling to ﬁner grid resolution (Hirabayashi et al., 2013; Pap-
+penberger et al., 2012; Winsemius et al., 2013). Furthermore,
+large-scale ﬂood risk assessments produced so far were fo-
+cused on evaluating the average ﬂood impact over long pe-
+riods, assuming a stationary climate, while no research has
+yet considered the actual statistical frequency of occurrence
+of past extreme events at the pan-European scale. Recent ad-
+vances in large-scale ﬂood hazard mapping led to European
+and global inundation maps derived through high-resolution
+2-D hydraulic modelling (Alﬁeri et al., 2014a; Sampson et
+al., 2015), opening new opportunities in global and continen-
+tal ﬂood impact assessment.
+In this work, we assess the impact of river ﬂoods in Eu-
+rope by coupling continental-scale hydrological simulations
+between 1990 and 2013 with high-resolution mapping of
+the potential impact of ﬂoods for different return levels. Re-
+sulting ﬂood risk is expressed in terms of direct damage and
+population affected and aggregated over different spatial and
+temporal scales. We show two complementary approaches
+for ﬂood risk assessment, namely an integral method and
+an event-based method, using the same underlying data and
+models. In addition, the event-based method is used to assess
+the impact of the severe ﬂood hitting a vast portion of cen-
+tral Europe in June 2013, and results are evaluated against
+reported ﬁgures from reinsurance companies and post-event
+reports. This research shows the ﬁrst large-scale applica-
+tion of the impact model based on a high-resolution obser-
+vational meteorological dataset. A modiﬁed version of this
+risk assessment framework was recently used by Alﬁeri at
+al. (2015) to project the future ﬂood risk in Europe under cli-
+mate change. Flood impact results are compared with avail-
+able validation data and are then discussed by stressing the
+strengths and limitations of both methods.
+2 Data and methods
+The proposed approach follows a modelling framework com-
+posed of ﬁve steps (see Fig. 1), described as the following:
+(1) continuous hydrological simulation, (2) extreme value
+analysis, (3) ﬂood inundation modelling, (4) impact mod-
+elling and (5) ﬂood risk assessment.
+2.1 Continuous hydrological simulation
+Hydrological simulations were performed with the Lis-
+ﬂood distributed model (Burek et al., 2013; van der Kni-
+jff et al., 2010). Processes simulated by Lisﬂood include
+snowmelt, soil freezing, surface run-off, inﬁltration, prefer-
+ential ﬂow, redistribution of soil moisture within the soil pro-
+ﬁle, drainage of water to the groundwater system, ground-
+water storage and base ﬂow. Run-off produced for every
+Figure 1. Schematic view of the proposed modelling framework
+for ﬂood risk assessment. The three components of the risk for-
+mula, namely hazard, exposure and vulnerability, are highlighted
+with colours.
+grid cell is routed through the river network using a kine-
+matic wave approach. For this work we used the operational
+dataset of the European Flood Awareness System (EFAS, see
+Alﬁeri et al., 2014b; Thielen et al., 2009), in the form of
+daily streamﬂow in the European river network from 1 Jan-
+uary 1990 to 31 December 2013. Streamﬂow maps at 5 km
+grid resolution covering an area of 6.5 million km 2 are pro-
+duced by forcing Lisﬂood with the EFAS-Meteo dataset
+(Ntegeka et al., 2013), which includes daily precipitation,
+temperature and evapo-transpiration maps derived through
+spatial interpolation of point observations. The current Lis-
+ﬂood version is calibrated at 693 stations across Europe
+for up to 8 years of daily observed discharge. The calibra-
+tion work was performed using the R package “hydroPSO”,
+which implements a state-of-the-art version of the Standard
+Particle Swarm Optimization 2011 (Zambrano-Bigiarini and
+Rojas, 2013). Some performance of the calibrated stations
+are shown in the Supplement (Fig. S1 and Table S1). In addi-
+tion, extensive work is continuously carried out on the model
+to improve the representation of hydrological processes, the
+parameter calibration, the simulation of key features along
+the river network and the improvement of the underlying spa-
+tial datasets. Recent improvements include the parameteriza-
+tion of 182 lakes and 34 large reservoirs and the simulation of
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016 www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+
+[[PAGE 3]]
+L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe 1403
+water withdrawals through monthly maps of water use from
+the SCENES (Water Scenarios for Europe and Neighbouring
+States) project (Kamari et al., 2008).
+2.2 Extreme value analysis
+Simulated streamﬂow maps from 1990 to 2013 were anal-
+ysed statistically to estimate analytical curves relating ex-
+treme ﬂow peaks to their probability of occurrence and con-
+sequently to their return period. For each grid point of the
+European river network, the set of maximum annual dis-
+charge peaks was ﬁtted with a Gumbel extreme value dis-
+tribution, using the L-moment approach (see Hosking, 1990).
+L-moment estimators are nearly unbiased for a wide range of
+sample sizes and distributions (V ogel and Fennessey, 1993)
+and are particularly useful for relatively short samples as in
+this study. In addition, we calculated the mean of the annual
+maximum discharge over different durations, from 1 up to
+30 days, based on the same sample of streamﬂow data. The
+resulting information provides key descriptors of the peak
+ﬂow and the related hydrograph volume, and is thus used
+to produce coherent ﬂood hydrographs for any point of the
+river network using the procedure described by Maione et
+al. (2003).
+2.3 Flood inundation modelling
+Flood inundation maps for the entire European domain were
+produced at 100 m resolution using the Lisﬂood-FP ﬂood-
+plain model (Bates et al., 2010; Neal et al., 2012) forced by
+the ﬂood hydrographs with speciﬁc return period described
+in the previous section. The full procedure for deriving pan-
+European ﬂood hazard maps is described in detail by Al-
+ﬁeri et al. (2014a), together with some performance scores
+of the 1-in-a-100-year simulated map vs. ofﬁcial regional
+maps available for Germany and the UK. The procedure was
+semi-automated to speed up the computing time and was then
+repeated for six different return periods commonly consid-
+ered in similar ﬂood hazard mapping (e.g. Sampson et al.,
+2015; Winsemius et al., 2016): T={ 10, 20, 50, 100, 200,
+500} years. Each ﬂood hazard map deﬁnes the maximum
+ﬂood depth and extent caused by the corresponding ﬂood re-
+turn period and is produced by merging the results of over
+37 000 hydraulic simulations along the European river net-
+work. Visual examples of the maps produced can be seen in
+Fig. S2.
+2.4 Impact modelling
+The impact model used in this study is focused on estimating
+the population affected and the direct economic damage due
+to river ﬂoods. The potential population affected (PPA) by
+ﬂoods of a speciﬁc return period is estimated by overlaying
+the corresponding ﬂood hazard map with the 100 m resolu-
+tion map of European population density by Batista e Silva
+et al. (2013).
+The potential damage (PD) of ﬂoods is estimated through
+functions relating the ﬂood depth to the corresponding direct
+damage. For this task we used the country speciﬁc depth-
+damage functions deﬁned by Huizinga (2007) for different
+land uses, while the spatial variability in exposure is deter-
+mined according to the reﬁned version of the Corine Land
+Use provided by Batista e Silva et al. (2013). Depth-damage
+functions per country and land use class comprise two dam-
+age indicators (Huizinga, 2007): an absolute damage value
+in EUR m−2, which is attributed to all ﬂood depths equal
+or larger than 6 m; and a damage factor relative to the max-
+imum damage (i.e. between 0 and 1), which is deﬁned by
+piece-wise linear functions. Those two indicators are derived
+through analysis of written documentation and data on the in-
+ternet from 31 countries in Europe. To account for the large
+regional differences in exposed assets for a given land use
+class that exist in some countries, country speciﬁc depth-
+damage functions were further rescaled by the Gross Do-
+mestic Product (GDP) per capita of NUTS 2 (Nomencla-
+ture of territorial units for statistics) administrative level (see
+http://ec.europa.eu/eurostat/web/nuts/overview). Impact data
+on damage and population affected by ﬂood peaks with se-
+lected return period are ﬁrst assessed at 100 m resolution and
+then aggregated to 5 km resolution maps through the corre-
+sponding Areas of Inﬂuence (AoI) as deﬁned by Alﬁeri et
+al. (2015). AoI are polygons at 100 m resolution which deﬁne
+a univocal link between the high- and low-resolution maps
+by assigning the ﬂooded area to the 5 km grid point of the
+causative inﬂow hydrograph.
+2.5 Flood risk assessment
+Flood risk is the combination of the impact of events and
+their frequency of occurrence. Here, it is assessed through
+two different approaches: (1) an integral method and (2) an
+event-based method.
+The integral method estimates the average annual impact
+of ﬂoods by computing a piece-wise integral of the damage-
+probability curve for a selected range of return periods, as
+done by Feyen et al. (2012), Rojas et al. (2013) and Win-
+semius et al. (2013) in previous European and global risk
+assessments. For both damage and population affected, the
+integral sum is truncated at the return period of the protec-
+tion level of the corresponding location, assuming that no
+impact occurs for events of lower magnitude. In this step, we
+used the European ﬂood protection map derived by Jongman
+et al. (2014).
+The event-based method estimates the damage of each
+simulated ﬂood, rather than considering the theoretical prob-
+ability of occurrence. It is based on a selection of all dis-
+charge peaks over threshold (POT) exceeding the ﬂood pro-
+tection level (by Jongman et al., 2014) at any location. For
+each discharge peak, ﬁrst the return period is calculated
+through the corresponding analytical extreme value distribu-
+tion estimated in Sect. 2.2. Then, it is assigned a value of di-
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/ Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016
+
+[[PAGE 4]]
+1404 L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe
+rect damage and population affected by interpolating linearly
+between the impacts of the two closest return periods among
+those available. As in the previous method, discharge peaks
+exceeding the 500-year return period are assigned impact
+values corresponding to the 500-year event. Annual damage
+and population affected are estimated by summing the impact
+values of all events simulated within the year.
+3 Results
+The two approaches described in Sect. 2.5 were run over the
+time span 1990–2013 on a large portion of Europe, includ-
+ing 26 countries of the European Union (all except Malta
+and Cyprus), Norway and the Republic of Macedonia. Im-
+pact values are based on population density estimates of 2006
+and GDP Purchasing Power Standards (PPS) of 2007. Av-
+erage annual estimates of damage (AD) and population af-
+fected (APA) are shown in Fig. 2, spatially aggregated for
+the 28 considered countries. Values plotted in Fig. 2 are ex-
+pressed as ratios of the respective country GDP and country
+population, while absolute values are shown as labels along-
+side each colour bar. Blue bars are based on statistical fre-
+quencies of occurrence, hence are representative of the coun-
+try’s average vulnerability to extreme events. The largest rel-
+ative damage is found in Hungary, at 2.6 ‰ of the country
+GDP, while about 1.9 ‰ of the Dutch population is estimated
+to be affected annually by river ﬂoods. On the other hand,
+values in green give an indication of the impact of extreme
+events occurring in the simulation period 1990–2013. The
+largest relative damage was found in the Baltic states, while
+the ratio of population affected was the largest in Croatia.
+When absolute impact values are considered, the largest an-
+nual damage is found in Italy (EUR 929 and 645 million per
+year for the integral- and event-based approaches, respec-
+tively) while population affected is the highest in Germany
+(40 000 pp yr−1 in both methods).
+Additional information on the attribution of the ﬂood risk
+in different areas of Europe can be obtained by looking at
+the different components contributing to the risk formula,
+namely hazard, exposure and vulnerability. Those are shown
+in Fig. 3, in the form of the maximum simulated ﬂood re-
+turn period ( T ) within 1990–2013 (Fig. 3a); potential pop-
+ulation affected by a ﬂood with a 100-year return period
+(Fig. 3b); potential damage of a ﬂood with a 100-year re-
+turn period (Fig. 3c) and return period of ﬂood protection
+levels (Fig. 3d). Figure 3 denotes a rather complex distri-
+bution of the three risk components, though with a general
+trend of high exposure and low vulnerability in central Eu-
+rope and England, which is opposed to a higher vulnerability
+and lower exposure in the outer regions. The hazard compo-
+nent in Fig. 3a gives information on the most extreme events
+simulated in the reference period 1990–2013. It is the main
+reason for the differences between event-based and integral
+method in Fig. 2, as the latter considers theoretical probabil-
+Figure 2. Annual relative damage and population affected for the
+considered European countries (ISO country code, see Table S2)
+between 1990 and 2013. Absolute ﬁgures are shown alongside each
+colour bar (in million Euros and people affected).
+ities of occurrence of extreme events in place of their actual
+statistical distribution. Indeed, one can note how the most
+severe events are found in the Baltic states, eastern Europe
+and the Iberian Peninsula, thus justifying the corresponding
+larger impact estimates of the event-based method in Fig. 2.
+Estimates of ﬂood impact at the European Union level
+are compared with ﬁgures by the European Environment
+Agency (EEA, 2010), who reported an average damage
+around EUR 5 billion per year and population affected of
+250 000 pp yr−1 over the time window 1998–2009. Ag-
+gregated ﬁgures for the same years derived through the
+event-based method herein proposed lead to EUR 5.4 billion
+per year and 220 000 pp yr−1, while long-term averages of
+the integral method indicate EUR 5.9 billion per year and
+239 000 pp yr−1.
+3.1 Integral method
+The integral method is based on statistical frequencies of the
+occurrence of extreme events derived by analytical distribu-
+tions. Hence, estimates of the average impact made with such
+an approach are also robust when applied to relatively small
+spatial aggregations. Estimates of annual damage and pop-
+ulation affected at the NUTS 2 aggregation level are shown
+in Fig. 4. Average estimated impact among all the consid-
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016 www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+
+[[PAGE 5]]
+L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe 1405
+Figure 3. Modelled factors contributing to the overall ﬂood risk: maximum simulated ﬂood return period (T ) within 1990–2013(a); potential
+population affected by a ﬂood with a 100-year return period (b); potential damage of a ﬂood with a 100-year return period (c); return period
+of ﬂood protection levels (d).
+Figure 4. Mean annual damage and population affected at NUTS 2 level estimated through the integral method. Areas outside the simulation
+domain are masked in grey.
+ered NUTS 2 regions amounts to EUR 21 million per year
+of damage and 900 pp yr−1 of population affected. Despite
+the high protection standards assumed for the whole of the
+Netherlands (1 in 1000 years, Jongman et al., 2014), the
+highest estimated impacts among NUTS 2 regions are found
+in South Holland (EUR 255 million per year of damage and
+19 000 pp yr−1) as a consequence of the considerable expo-
+sure of people and assets in case of extreme events exceeding
+the ﬂood protection level. Other regions at high risk are found
+in the north of Italy, France, Croatia, Austria and Hungary.
+It is worth noting that the presented approach is focused on
+rivers with upstream areas larger than 500 km 2. Hence, the
+ﬂood risk is likely to be underestimated in regions where the
+hydrography is dominated by smaller streams (e.g. coastal
+regions of Greece, southern Italy, Croatia, Norway, the UK,
+Denmark, as well as some mountainous regions in the Alps)
+where local storms and ﬂash ﬂoods are major components of
+the overall impact of ﬂoods. Similarly, the impact of coastal
+ﬂoods is not modelled in the results shown.
+3.2 Event-based method
+The peculiarity of the event-based method is its applicability
+to any desired time window, from single events to annual ag-
+gregations. On the other hand, observed impact data of past
+ﬂoods are scarcely available, and in addition are usually af-
+fected by considerable uncertainty levels (Merz et al., 2010;
+Penning-Rowsell, 2015). A report by Fenn et al. (2014), pre-
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/ Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016
+
+[[PAGE 6]]
+1406 L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe
+pared for the European Commission Directorate-General for
+the Environment (DG Env), includes an assessment of ﬁnan-
+cial, economic and social impacts of river ﬂoods in the coun-
+tries of the European Union between 2002 and 2013, based
+on post-event reports and estimates from insurance compa-
+nies. Fenn et al. (2014) addressed the scarcity of ﬂood im-
+pact data by extrapolating the cost of major ﬂoods in the
+European countries on the basis of the available data, so
+that the overall estimated ﬂood impact is given by the sum
+of extrapolated and quantiﬁed data. Figure 5 compares an-
+nual ﬂood damage aggregated over the European Union of
+the event-based method from 1990 to 2013 and data by DG
+Env for the available years. Data from the two datasets are
+in good qualitative agreement, with a Pearson correlation co-
+efﬁcient of R= 0.69. The largest discrepancies are found in
+those years when the damage was higher (i.e. in 2002, 2010,
+2013), though one should consider the substantial proportion
+of extrapolated damage in the validation dataset by DG Env
+(orange bars in Fig. 5) which poses the issue of its accuracy.
+The event-based approach proves its ability to spot the years
+when the most severe ﬂood events occurred, including the
+“millennium ﬂood” of the Oder (and Vistula) river which
+hit Poland, Czech Republic and Germany in 1997 causing
+more than 100 fatalities and material damages estimated at
+USD 5.7 billion (EM-DAT, 2015).
+Case study – central European ﬂoods in 2013
+The catastrophic ﬂoods hitting central Europe in June 2013
+were selected as a case study to test the performance of the
+event-based method for rapid risk mapping. This was a se-
+vere, large-scale event which affected several countries and
+led to the loss of lives as well as considerable damage in
+the Danube and Elbe river basins. The event was associated
+with a quasi-stationary upper-level low located north-east of
+the Alps and characterized by a signiﬁcant contribution of
+orographic lifting (Pappenberger et al., 2013). Also, in the
+weeks leading up to the event, rainfall accumulations were
+signiﬁcantly above normal in large parts of central Europe,
+exacerbating the run-off process. The return period of the dis-
+charge peaks was estimated to equal or exceed 100 years in
+various rivers including the Isar, Inn, Salzach, Danube, Elbe,
+Mulde, Saale, Rhine and Neckar (Zurich, 2014). Figure 6
+shows maps of damage and population affected in central Eu-
+rope, based on the simulated discharge maps from 25 May to
+10 June 2013. Impact data in the ﬁgure are aggregated over
+NUTS 2 regions, while grey circles indicate hotspots of sim-
+ulated damage larger than EUR 100 million and population
+affected in excess of 5000. Aggregated estimates of direct
+damage in Germany, Austria and Czech Republic amount to
+EUR 10.9 billion and 360 000 people affected by the ﬂood
+event. These estimates are in agreement with reported ﬁg-
+ures ranging between 11.4 and EUR 16 billion (Aon Ben-
+ﬁeld, 2014; Munich Re, 2014; Swiss Re, 2013), especially if
+one considers that the higher estimates from insurance com-
+Figure 5. Annual estimates of ﬂood damage in the EU over 1990–
+2013 (PPS of 2013) using the event-based method (in grey) and
+comparison with data by DG Env (Fenn et al., 2014).
+panies account for total combined economic losses, rather
+than just direct damage. As an indication, indirect costs are
+commonly estimated within 5 and 40 % of direct damage
+(Jongman et al., 2012).
+The spatial distribution of estimated damage and popula-
+tion affected shown in Fig. 6 correctly locates hotspots of
+observed ﬂood damage during the event. Among the most
+affected areas, extensive damage from ﬂooding was reported
+along the Elbe river and its tributaries Mulde and Saale in
+central Germany and western Czech Republic (Schröter et
+al., 2015); along the Danube, particularly near the German–
+Austrian border and its tributaries Inn, Isar, Aist, Kamp
+(Blöschl et al., 2013) and in the Neckar river basin in the re-
+gion of Stuttgart in south-western Germany, often as a conse-
+quence of major dyke breaches (Schröter et al., 2015; Zurich,
+2014). In comparison to reported ﬁgures, major differences
+with the proposed approach are the underestimation of the
+ﬂood impact for the city of Prague (no simulated impact)
+and neighbouring areas along the Vltava and Elbe rivers,
+and the overestimation of the ﬂood damage in the Austrian
+regions of Salzburg and Upper Austria (EUR 1 billion re-
+ported vs. EUR 5 billion simulated). In the ﬁrst case, reasons
+are found for the underestimation of the simulated discharge
+along the Vltava and the upper Elbe rivers (see Supplement
+material) and of the consequent inundated area. In the case of
+Austria, the actual impact was lower than our estimates as a
+result of the signiﬁcant investments to improve ﬂood protec-
+tion following the disastrous ﬂoods of 2002 (Blöschl et al.,
+2013; Fenn et al., 2014), which is not reﬂected in the ﬂood
+protection map used in our simulations.
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016 www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+
+[[PAGE 7]]
+L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe 1407
+Figure 6. Estimates of damage and population affected (event-based method) in central Europe from 25 May to 10 June 2013. Grey circles
+indicate hotspots of simulated damage larger than EUR 100 million and population affected in excess of 5000. Areas outside the simulation
+domain are masked in grey.
+4 Discussion
+This work compares two methods of ﬂood risk assessment
+based on a modelling framework and aims to stress their
+complementarity of use. While the integral approach has
+been extensively used and discussed in past research works,
+the event-based method has only found a few applications
+so far, due to the larger data requirements on the past cli-
+matic forcing in the form of seamless space–time hydrome-
+teorological datasets. Hence, a dedicated discussion section
+is presented in the following.
+4.1 Event-based method
+When the event-based method is applied to sufﬁciently long
+time windows adequately representing the climatic variabil-
+ity, it can be used to estimate average ﬂood losses, which can
+be compared to estimates of the integral method, as shown
+in Fig. 2. Yet, the event-based approach is not suitable for
+estimating average ﬂood losses in case of a small sample of
+extreme events, as it would give the estimate insufﬁcient ro-
+bustness. This normally occurs when the aggregation area
+is not large enough or when the average protection level is
+particularly high, making ﬂood inundation an extremely rare
+event. Is these cases, one can see substantial differences in re-
+sults obtained with the two proposed methods (see Fig. 2), as
+for Luxembourg and the Netherlands, where no event above
+the protection level was simulated in the years 1990–2013.
+It is worth noting that, being based on actual event occur-
+rences, the event-based method is more suitable to account
+for non-stationary climates such as under changes in the fre-
+quency and magnitude of extreme ﬂoods (see Alﬁeri et al.,
+2015). Similarly, it can account for temporal changes of the
+ﬂood exposure (e.g. through land use changes and population
+growth) and vulnerability (e.g. through increase in the ﬂood
+protection levels or reduction of the damage potential).
+The proposed approach assigns each peak over threshold
+with speciﬁc return period a precomputed hydrograph with
+the same ﬂood frequency and daily discharge values con-
+sistent with the ﬂow duration curve of the simulated time
+series. In comparison to ﬁxed hydrograph shapes, this ap-
+proach is more appropriate to reproduce coherent hydrograph
+shapes and their statistics, occurring in large model domains
+featured by a variety of climate regimes. It assigns a univo-
+cal link between peak ﬂow and corresponding hydrograph,
+hence neglecting the impact variability of hydrographs with
+same peak discharge and different ﬂood volume (see Falter
+et al., 2015). Yet, it has the advantage of drastically reduc-
+ing the computing resources needed, making high-resolution
+impact modelling possible on large-scale applications.
+4.2 The inﬂuence of ﬂood protections
+As previously noted by Ward et al. (2013), impact esti-
+mates of assessment frameworks based on ﬂood threshold
+exceedance are very sensitive to the assumed ﬂood protec-
+tion standards. This issue may be exacerbated in the event-
+based method, where the magnitude of events is estimated
+from the simulated peak discharge, and their frequency might
+deviate from the theoretical one, assumed by their statistical
+extreme value distribution. In the limit abstraction of peak
+ﬂow magnitude close to the ﬂood protection level, one would
+obtain either no impact or very high impact following mi-
+nor deviations changing the relative rank of these two values.
+Flood risk assessments are affected by various sources of un-
+certainty (Apel et al., 2008; Koivumäki et al., 2010), hence
+a probabilistic approach is likely to bring beneﬁts to the
+methodology by accounting for the uncertainty range around
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/ Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016
+
+[[PAGE 8]]
+1408 L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe
+the central impact estimate. In this work, a quantitative char-
+acterization of uncertainty was deliberately not included, so
+to stress the comparison between the two approaches shown.
+In observed events, the impact of ﬂood inundation is of-
+ten caused by the collapse of ﬂood protection measures at
+speciﬁc sites, which concentrates the damage in a certain
+area and reduces the likelihood of more ﬂooding downstream
+due to the ﬂoodplain storage and consequent reduction of the
+peak discharge (e.g. Zurich, 2014). Research work by Hall et
+al. (2005) tackled this process by including estimates of the
+probability of defense failure for each river section, under
+a range of load conditions. This approach might be difﬁcult
+to apply at continental scale, due to the difﬁculty in gather-
+ing detailed information for such an extensive river network.
+However, simpliﬁed approaches could prove beneﬁcial in im-
+proving the impact estimates.
+A further comment must be addressed to the so-called
+“adaptation effect” (see Di Baldassarre et al., 2015), which
+is related to a reduction of vulnerability following disas-
+trous ﬂood events, due to the increased awareness and the
+implementation of structural and non-structural ﬂood pro-
+tection measures. The beneﬁts of adaptation to ﬂoods have
+been demonstrated in a number of research works and can
+be measured in a clear reduction of the impact on economy
+and society in regions hit by series of ﬂoods within a time
+frame of few years (Blöschl et al., 2013; Bubeck et al., 2012;
+e.g. Jongman et al., 2015; Wind et al., 1999). If the adapta-
+tion effect is not considered in the impact assessment, ﬂood
+risk is likely to be overestimated in those areas hit by a se-
+ries of ﬂoods within a relatively short time range, as seen
+in Sect. “Case study – central European ﬂoods in 2013”. Yet,
+this process can be accounted for in the proposed event-based
+method, provided that reliable vulnerability information is
+soon made available to improve future ﬂood risk assessment.
+4.3 Sources of uncertainty
+In addition to the uncertainty related to the ﬂood protections,
+the impact model discussed here is affected by a number of
+uncertainty sources which affect each stage of the modelling
+chain. Although no quantitative uncertainty analysis was per-
+formed in this work, a non-exhaustive list of potential uncer-
+tainty sources is presented in the following.
+– Meteorological data: it is mostly associated to the trans-
+formation of point measurements to a seamless space–
+time dataset. Largest uncertainty is located in those
+areas with lower station density (e.g. in the Balkan
+countries, Ireland, Iberian peninsula), particularly in the
+early years of the dataset when the number of operating
+stations was smaller (Ntegeka et al., 2013).
+– Streamﬂow data: it is related to the ability of the Lis-
+ﬂood model to accurately estimate the discharge time
+series in each point of the river network. Larger uncer-
+tainty is found in river basins where no calibration of
+the model parameters was possible (e.g. Portugal, south-
+ern Italy, Greece, Baltic states) and in several Spanish
+rivers, where the inﬂuence of regulation from reservoirs
+heavily affects the streamﬂow regime and the calibra-
+tion performance (see Supplement).
+– Extreme value analysis: it is linked to the choice of the
+extreme value distribution, which for simplicity is as-
+sumed to be of the same type (i.e. 2-parameter Gumbel
+distribution) for the entire European river network. In
+addition, larger uncertainty affects estimates of large re-
+turn periods (i.e. up to 500 years) from samples of only
+24 annual maxima.
+– Flood depth and extent: most uncertainty in this stage is
+attributable to the quality of the digital elevation model,
+which in this case is derived from SRTM (Jarvis et al.,
+2008), with spatial resolution of 90 m and vertical noise
+of∼ 8.7 m over Europe (Rodriguez et al., 2006).
+– Impact assessment: it is mainly related to the extrap-
+olation of depth-damage functions for speciﬁc areas
+and countries to regional functions which depend on
+the land use class. Another source of uncertainty is
+related to the assumption of a constant population
+density layer over the simulation period, though it
+is expected to have a minor effect on the results due
+to the relatively low population growth ( ∼ 5 %, see
+http://ec.europa.eu/eurostat/statistics-explained/index.
+php/Population_and_population_change_statistics) in
+the considered simulation period.
+5 Conclusions
+This work presents a comparison of two methods for recon-
+structing the socio-economic impact of river ﬂoods in Europe
+in the present climate. The two methods are based on the
+same data framework, though they provide complementary
+information of key importance for effective ﬂood risk assess-
+ment at European level. The integral method is a tool used to
+estimate average ﬂood losses at region (NUTS 2) and coun-
+try level under a stationary climate. On the other hand, the
+event-based method is able to reproduce the impact of sim-
+ulated events in time. Hence it is more suitable for damage
+assessments over speciﬁc time windows and as operational
+tool for real time ﬂood risk mapping.
+Results of this research show that the proposed model is
+a useful and relatively accurate tool for estimating the socio-
+economic impact of river ﬂoods in Europe, both with regard
+to long-term averages, over annual aggregations and for spe-
+ciﬁc events. Despite the numerous sources of uncertainty po-
+tentially affecting the modelling chain, model results com-
+pare quantitatively well with ﬂood impact data reported by
+EEA and DG Env at European scale. Also, one should note
+that the hydrological model Lisﬂood is the only component
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016 www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+
+[[PAGE 9]]
+L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe 1409
+calibrated against the observed data. We propose this model
+as a valid alternative to ﬁlling in gaps of the database of
+socio-economic impact of ﬂoods, particularly in considera-
+tion of the following key points:
+1. The model simulates the impact of all ﬂoods, indepen-
+dently from their magnitude.
+2. The methodology is capable of retrieving comprehen-
+sive and capillary coverage of all the ﬂood losses, which
+is often infeasible with alternative damage assessment
+methods.
+3. Impact estimates of the proposed model can be pro-
+duced as soon as the meteorological input data is avail-
+able, hence potentially during the ﬂood event itself, with
+a considerable time gain in comparison to post-event as-
+sessment.
+As a ﬁnal remark, we want to stress the large potential in cou-
+pling the event-based method with numerical weather pre-
+dictions as input data, which opens the door to ﬂood impact
+forecasting applications at European scale. Its implementa-
+tion is currently being tested within EFAS, with the aim of
+providing probabilistic forecast of areas at risk of ﬂooding
+in the coming 10–15 days, with direct estimation of possible
+consequences on people affected and economic damage. This
+is of crucial importance in the early assessment of the mag-
+nitude of imminent events to support the planning of emer-
+gency actions and ultimately speed up the recovery phase.
+The Supplement related to this article is available online
+at doi:10.5194/nhess-16-1401-2016-supplement.
+Acknowledgements. The data used in this work were provided
+by the European Flood Awareness System (EFAS) and by pub-
+lications listed in the references. Lorenzo Alﬁeri and Luc Feyen
+received ﬁnancial support from the European Union Seventh
+Framework Programme FP7/2007-2013 under grant agreement
+no. 603864 (HELIX: “High-End cLimate Impacts and eXtremes”;
+http://www.helixclimate.eu).
+Edited by: P. Tarolli
+Reviewed by: Y . Chen and one anonymous referee
+References
+Alﬁeri, L., Salamon, P., Bianchi, A., Neal, J., Bates, P., and Feyen,
+L.: Advances in pan-European ﬂood hazard mapping, Hydrol.
+Process., 28, 4067–4077, doi:10.1002/hyp.9947, 2014a.
+Alﬁeri, L., Pappenberger, F., Wetterhall, F., Haiden, T., Richard-
+son, D., and Salamon, P.: Evaluation of ensemble stream-
+ﬂow predictions in Europe, J. Hydrol., 517, 913–922,
+doi:10.1016/j.jhydrol.2014.06.035, 2014b.
+Alﬁeri, L., Feyen, L., Dottori, F., and Bianchi, A.: En-
+semble ﬂood risk assessment in Europe under high end
+climate scenarios, Global Environ. Change, 35, 199–212,
+doi:10.1016/j.gloenvcha.2015.09.004, 2015.
+Alﬁeri, L., Feyen, L., and Baldassarre, G. D.: Increasing ﬂood risk
+under climate change: a pan-European assessment of the bene-
+ﬁts of four adaptation strategies, Climatic Change, 136, 507–521,
+doi:10.1007/s10584-016-1641-1, 2016.
+Aon Benﬁeld: Annual Global Climate and Catastrophe Re-
+port, Impact Forecasting – 2013, Chicago, available
+at: http://thoughtleadership.aonbenﬁeld.com/Documents/
+20140113_ab_if_annual_climate_catastrophe_report.pdf (last
+access: 14 June 2016), 2014.
+Apel, H., Merz, B., and Thieken, A. H.: Quantiﬁcation of uncer-
+tainties in ﬂood risk assessments, Int. J. River Basin Manage., 6,
+149–162, 2008.
+Barredo, J. I., de Roo, A., and Lavalle, C.: Flood risk map-
+ping at European scale, Water Sci. Technol., 56, 11–17,
+doi:10.2166/wst.2007.531, 2007.
+Bates, P. D., Horritt, M. S., and Fewtrell, T. J.: A simple inertial
+formulation of the shallow water equations for efﬁcient two-
+dimensional ﬂood inundation modelling, J. Hydrol., 387, 33–45,
+2010.
+Batista e Silva, F., Lavalle, C., and Koomen, E.: A procedure to
+obtain a reﬁned European land use/cover map, J. Land Use Sci.,
+8, 255–283, doi:10.1080/1747423X.2012.667450, 2012.
+Batista e Silva, F., Gallego, J., and Lavalle, C.: A high-
+resolution population grid map for Europe, J. Maps, 9, 16–28,
+doi:10.1080/17445647.2013.764830, 2013.
+Blöschl, G., Nester, T., Komma, J., Parajka, J., and Perdigão, R. A.
+P.: The June 2013 ﬂood in the Upper Danube Basin, and compar-
+isons with the 2002, 1954 and 1899 ﬂoods, Hydrol. Earth Syst.
+Sci., 17, 5197–5212, doi:10.5194/hess-17-5197-2013, 2013.
+Broekx, S., Smets, S., Liekens, I., Bulckaen, D., and de Nocker,
+L.: Designing a long-term ﬂood risk management plan for the
+Scheldt estuary using a risk-based approach, Nat. Hazards, 57,
+245–266, doi:10.1007/s11069-010-9610-x, 2011.
+Bubeck, P., Botzen, W. J. W., Kreibich, H., and Aerts, J. C. J.
+H.: Long-term development and effectiveness of private ﬂood
+mitigation measures: an analysis for the German part of the
+river Rhine, Nat. Hazards Earth Syst. Sci., 12, 3507–3518,
+doi:10.5194/nhess-12-3507-2012, 2012.
+Burek, P., Knijff van der, J., and Roo de, A.: LISFLOOD, distributed
+water balance and ﬂood simulation model revised user man-
+ual 2013, Publications Ofﬁce, Luxembourg, available at: http:
+//dx.publications.europa.eu/10.2788/24719 (last access: 12 De-
+cember 2014), 2013.
+Chen, Y ., Syvitski, J. P. M., Gao, S., Overeem, I., and Kettner, A. J.:
+Socio-economic impacts on ﬂooding: A 4000-year history of the
+yellow river, China, Ambio, 41, 682–698, doi:10.1007/s13280-
+012-0290-5, 2012.
+Di Baldassarre, G., Viglione, A., Carr, G., Kuil, L., Salinas, J.
+L., and Blöschl, G.: Socio-hydrology: Conceptualising human-
+ﬂood interactions, Hydrol. Earth Syst. Sci., 17, 3295–3303,
+doi:10.5194/hess-17-3295-2013, 2013.
+Di Baldassarre, G., Viglione, A., Carr, G., Kuil, L., Yan,
+K., Brandimarte, L., and Blöschl, G.: Debates – Perspec-
+tives on sociohydrology: Capturing feedbacks between physi-
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/ Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016
+
+[[PAGE 10]]
+1410 L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe
+cal and social processes, Water Resour. Res., 51, 4770–4781,
+doi:10.1002/2014WR016416, 2015.
+EEA: Mapping the impacts of natural hazards and technological ac-
+cidents in Europe – An overview of the last decade, European En-
+vironment Agency Technical report 13/2010, Copenhagen, Den-
+mark, 144 pp., 2010.
+EM-DAT: The OFDA/CRED International Disaster Database, Uni-
+versité Catholique de Louvain, Brussels, Belgium, http://www.
+emdat.be (last access: 14 June 2016), 2015.
+European Commission: Directive 2007/60/EC of the Euro-
+pean Parliament and of the Council of 23 October 2007
+on the assessment and management of ﬂood risks, avail-
+able at: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=
+CELEX:32007L0060:EN:NOT (last access: 14 June 2016),
+2007.
+Falter, D., Dung, N. V ., V orogushyn, S., Schröter, K., Hundecha,
+Y ., Kreibich, H., Apel, H., Theisselmann, F., and Merz, B.:
+Continuous, large-scale simulation model for ﬂood risk as-
+sessments: proof-of-concept, J. Flood Risk Manage., 9, 3–21,
+doi:10.1111/jfr3.12105, 2016.
+Falter, D., Schröter, K., Dung, N. V ., V orogushyn, S., Kreibich,
+H., Hundecha, Y ., Apel, H. and Merz, B.: Spatially coherent
+ﬂood risk assessment based on long-term continuous simula-
+tion with a coupled model chain, J. Hydrol., 524, 182–193,
+doi:10.1016/j.jhydrol.2015.02.021, 2015.
+Fenn, T., Fleet, D., Hartman, M., Garrett, L., Daly, E.,
+Elding, C., and Udo, J.: Study on economic and so-
+cial beneﬁts of environmental protection and resource ef-
+ﬁciency related to the European semester ﬁnal report,
+available at: http://ec.europa.eu/environment/integration/green_
+semester/pdf/RPA_Final_Report-main_report.pdf (last access:
+30 April 2015), 2014.
+Feyen, L., Dankers, R., Bódis, K., Salamon, P., and Barredo, J. I.:
+Fluvial ﬂood risk in Europe in present and future climates, Cli-
+matic Change, 112, 47–62, 2012.
+Foudi, S., Osés-Eraso, N., and Tamayo, I.: Integrated spatial ﬂood
+risk assessment: The case of Zaragoza, Land Use Policy, 42,
+278–292, doi:10.1016/j.landusepol.2014.08.002, 2015.
+Hall, J. W., Sayers, P. B. and Dawson, R. J.: National-scale assess-
+ment of current and future ﬂood risk in England and Wales, Nat.
+Hazards, 36, 147–164, 2005.
+Hirabayashi, Y ., Mahendran, R., Koirala, S., Konoshima, L., Ya-
+mazaki, D., Watanabe, S., Kim, H., and Kanae, S.: Global ﬂood
+risk under climate change, Nat. Clim. Change, 3, 816–821,
+doi:10.1038/nclimate1911, 2013.
+Hosking, J. R. M.: L-Moments: Analysis and Estimation of Distri-
+butions Using Linear Combinations of Order Statistics, J. Roy.
+Stat. Soc. B, 52, 105–124, 1990.
+Huizinga, H. J.: Flood damage functions for EU member states,
+HKV Lijn in water, Lelystad, the Netherlands, 67 pp., 2007.
+IPCC: Managing the risks of extreme events and disasters to ad-
+vance climate change adaptation, A special report of Work-
+ing Groups I and II of the intergovernmental panel on climate
+change, edited by: Field, C. B., Barros, V ., Stocker, T. F., Qin,
+D., Dokken, D. J., Ebi, K. L., Mastrandrea, M. D., Mach, K. J.,
+Plattner, G.-K., Allen, S. K., Tignor, M., and Midgley, P. M.,
+Cambridge University Press, Cambridge, UK, and New York,
+NY , USA, 582 pp., 2012.
+Jarvis, A., Reuter, H. I., Nelson, A., and Guevara, E.: Hole-
+ﬁlled SRTM for the globe Version 4, available at CGIAR-
+CSI SRTM 90 m Database: http://srtm.csi.cgiar.org (last access:
+14 June 2016), 2008.
+Jongman, B., Kreibich, H., Apel, H., Barredo, J. I., Bates, P. D.,
+Feyen, L., Gericke, A., Neal, J., Aerts, J. C. J. H., and Ward, P.
+J.: Comparative ﬂood damage model assessment: towards a Eu-
+ropean approach, Nat. Hazards Earth Syst. Sci., 12, 3733–3752,
+doi:10.5194/nhess-12-3733-2012, 2012.
+Jongman, B., Hochrainer-Stigler, S., Feyen, L., Aerts, J. C. J. H.,
+Mechler, R., Botzen, W. J. W., Bouwer, L. M., Pﬂug, G., Ro-
+jas, R., and Ward, P. J.: Increasing stress on disaster-risk ﬁ-
+nance due to large ﬂoods, Nat. Clim. Change, 4, 264–268,
+doi:10.1038/nclimate2124, 2014.
+Jongman, B., Winsemius, H. C., Aerts, J. C. J. H., Coughlan
+De Perez, E., Van Aalst, M. K., Kron, W. and Ward, P. J.:
+Declining vulnerability to river ﬂoods and the global beneﬁts
+of adaptation, P. Natl. Acad. Sci. USA, 112, E2271–E2280,
+doi:10.1073/pnas.1414439112, 2015.
+Kamari, J., Alcamo, J., Barlund, I., Duel, H., Farquharson, F. A.
+K., Florke, M., Fry, M., Houghton-Carr, H. A., Kabat, P., Kaljo-
+nen, M., Kok, K., Meijer, K. S., Rekolainen, S., Sendzimir, J.,
+Varjopuro, R., and Villars, N.: Envisioning the future of water in
+Europe – the SCENES project, E-W Ater, European Water Asso-
+ciation (EW A), 1–28, 2008.
+Koivumäki, L., Alho, P., Lotsari, E., Käyhkö, J., Saari, A., and
+Hyyppä, H.: Uncertainties in ﬂood risk mapping: a case study
+on estimating building damages for a river ﬂood in Fin-
+land, J. Flood Risk Manage., 3, 166–183, doi:10.1111/j.1753-
+318X.2010.01064.x, 2010.
+Kron, W.: Flood Risk= Hazard Values Vulnerability, Water Int., 30,
+58–68, doi:10.1080/02508060508691837, 2005.
+Lugeri, N., Kundzewicz, Z. W., Genovese, E., Hochrainer, S., and
+Radziejewski, M.: River ﬂood risk and adaptation in Europe – as-
+sessment of the present status, Mitig. Adapt. Strat. Glob. Change,
+15, 621–639, doi:10.1007/s11027-009-9211-8, 2010.
+Maione, U., Mignosa, P., and Tomirotti, M.: Regional estimation
+of synthetic design hydrographs, Int. J. River Basin Manage., 1,
+151–163, 2003.
+Merz, B., Kreibich, H., Schwarze, R., and Thieken, A.: Review
+article “Assessment of economic ﬂood damage”, Nat. Hazards
+Earth Syst. Sci., 10, 1697–1724, doi:10.5194/nhess-10-1697-
+2010, 2010.
+Munich Re: Natural catastrophes 2013: Analyses, assessments,
+positions, Munich, available at: http://www.munichre.com/site/
+corporate/get/documents_E435413367/mr/assetpool.shared/
+Documents/0_Corporate_Website/_Publications/302-08121_en.
+pdf (last access: 14 June 2016), 2014.
+Neal, J., Villanueva, I., Wright, N., Willis, T., Fewtrell, T.,
+and Bates, P.: How much physical complexity is needed to
+model ﬂood inundation?, Hydrol. Process., 26, 2264–2282,
+doi:10.1002/hyp.8339, 2012.
+Ntegeka, V ., Salamon, P., Gomes, G., Sint, H., Lorini, V .,
+Thielen, J. and Zambrano-Bigiarini, M.: EFAS-Meteo: A
+European daily high-resolution gridded meteorological data
+set for 1990-2011, available at: http://publicationsjrceceuropa.
+ourtownypd.com/repository/handle/111111111/30589 (last ac-
+cess: 3 June 2014), 2013.
+Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016 www.nat-hazards-earth-syst-sci.net/16/1401/2016/
+
+[[PAGE 11]]
+L. Alﬁeri et al.: Modelling the socio-economic impact of river ﬂoods in Europe 1411
+Pappenberger, F., Dutra, E., Wetterhall, F., and Cloke, H. L.: Deriv-
+ing global ﬂood hazard maps of ﬂuvial ﬂoods through a phys-
+ical model cascade, Hydrol. Earth Syst. Sci., 16, 4143–4156,
+doi:10.5194/hess-16-4143-2012, 2012.
+Pappenberger, F., Wetterhall, F., Albergel, C., Alﬁeri, L., Balsamo,
+G., Bogner, K., Haiden, T., Hewson, T., Magnusson, L., de Ros-
+nay, P., Muñoz Sabater, J., and Tsonevsky, I.: Floods in Central
+Europe in June 2013, ECMWF Newslett., 136, 9–11, 2013.
+Penning-Rowsell, E. C.: A realistic assessment of ﬂuvial and coastal
+ﬂood risk in England and Wales, Trans. Inst. Br. Geogr., 40, 44–
+61, doi:10.1111/tran.12053, 2015.
+Rodriguez, E., Morris, C. S., and Belz, J. E.: A global assessment
+of the SRTM performance, Photogram. Eng. Remote Sens., 72,
+249–260, 2006.
+Rojas, R., Feyen, L., and Watkiss, P.: Climate change and river
+ﬂoods in the European Union: Socio-economic consequences
+and the costs and beneﬁts of adaptation, Global Environ. Change,
+23, 1737–1751, doi:10.1016/j.gloenvcha.2013.08.006, 2013.
+Sampson, C., Smith, A., Bates, P., Neal, J., Alﬁeri, L., and Freer,
+J.: A high-resolution global ﬂood hazard model, Water Resour.
+Res., 51, 7358–7381, doi:10.1002/2015WR016954, 2015.
+Schröter, K., Kunz, M., Elmer, F., Mühr, B., and Merz, B.: What
+made the June 2013 ﬂood in Germany an exceptional event? A
+hydro-meteorological evaluation, Hydrol. Earth Syst. Sci., 19,
+309–327, doi:10.5194/hess-19-309-2015, 2015.
+Schumann, G. J.-P., Neal, J. C., V oisin, N., Andreadis, K. M., Pap-
+penberger, F., Phanthuwongpakdee, N., Hall, A. C., and Bates, P.
+D.: A ﬁrst large-scale ﬂood inundation forecasting model, Water
+Resour. Res., 49, 6248–6257, doi:10.1002/wrcr.20521, 2013.
+Swiss Re: Sigma preliminary estimates: natural catastrophes
+and man-made disasters in 2013 cost insurers worldwide
+USD 44 billion, Zurich, available at: http://media.swissre.com/
+documents/nr_20131218_sigma_Nat_Cat_2013_EN.pdf (last
+access: 14 June 2016), 2013.
+te Linde, A. H., Bubeck, P., Dekkers, J. E. C., de Moel, H.,
+and Aerts, J. C. J. H.: Future ﬂood risk estimates along
+the river Rhine, Nat. Hazards Earth Syst. Sci., 11, 459–473,
+doi:10.5194/nhess-11-459-2011, 2011.
+Thielen, J., Bartholmes, J., Ramos, M.-H., and de Roo, A.: The Eu-
+ropean Flood Alert System – Part 1: Concept and development,
+Hydrol. Earth Syst. Sci., 13, 125–140, doi:10.5194/hess-13-125-
+2009, 2009.
+UNISDR: UNISDR Terminology on disaster risk reduction,
+United Nations International Strategy for Disaster Reduc-
+tion (UNISDR), Geneva, Switzerland, 35 pp., 2009.
+van der Knijff, J. M., Younis, J., and de Roo, A. P. J.: LISFLOOD: A
+GIS-based distributed model for river basin scale water balance
+and ﬂood simulation, Int. J. Geogr. Inf. Sci., 24, 189–212, 2010.
+V ogel, R. M. and Fennessey, N. M.: L moment diagrams should re-
+place product moment diagrams, Water Resour. Res., 29, 1745–
+1752, 1993.
+Ward, P. J., Jongman, B., Weiland, F. S., Bouwman, A., van Beek,
+R., Bierkens, M. F. P., Ligtvoet, W., and Winsemius, H. C.: As-
+sessing ﬂood risk at the global scale: model setup, results, and
+sensitivity, Environ. Res. Lett., 8, 044019, doi:10.1088/1748-
+9326/8/4/044019, 2013.
+Wind, H. G., Nierop, T. M., De Blois, C. J., and De Kok, J. L.: Anal-
+ysis of ﬂood damages from the 1993 and 1995 Meuse ﬂoods, Wa-
+ter Resour. Res., 35, 3459–3465, doi:10.1029/1999WR900192,
+1999.
+Winsemius, H. C., Van Beek, L. P. H., Jongman, B., Ward, P.
+J., and Bouwman, A.: A framework for global river ﬂood
+risk assessments, Hydrol. Earth Syst. Sci., 17, 1871–1892,
+doi:10.5194/hess-17-1871-2013, 2013.
+Winsemius, H. C., Aerts, J. C. J. H., van Beek, L. P. H., Bierkens,
+M. F. P., Bouwman, A., Jongman, B., Kwadijk, J. C. J., Ligtvoet,
+W., Lucas, P. L., van Vuuren, D. P., and Ward, P. J.: Global
+drivers of future river ﬂood risk, Nat. Clim. Change, 6, 381–385,
+doi:10.1038/nclimate2893, 2016.
+Zambrano-Bigiarini, M. and Rojas, R.: A model-independent Par-
+ticle Swarm Optimisation software for model calibration, Envi-
+ron. Model. Softw., 43, 5–25, doi:10.1016/j.envsoft.2013.01.004,
+2013.
+Zurich: Risk Nexus, Central European ﬂoods 2013:
+a retrospective, available at: http://www.zurich.
+com/_/media/dbe/corporate/docs/whitepapers/
+risk-nexus-may-2014-central-european-ﬂoods-2013.pdf (last
+access: 14 June 2016), 2014.
+www.nat-hazards-earth-syst-sci.net/16/1401/2016/ Nat. Hazards Earth Syst. Sci., 16, 1401–1411, 2016

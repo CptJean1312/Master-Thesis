@@ -1,0 +1,1557 @@
+[[PAGE 1]]
+Contents lists available at ScienceDirect 
+Ecological Economics 
+journal homepage: www.elsevier.com/locate/ecolecon 
+Analysis 
+Floods, flood policies and changes in welfare and inequality: Evidence from 
+Germany 
+Miguel A. Tovar Reañosa,b,⁎ 
+a Economic and Social Research Institute, Sir John Rogerson's Quay, Dublin, Ireland 
+b Trinity College Dublin, Dublin, Ireland  
+ARTICLE INFO  
+Keywords: 
+Distributional effects 
+Microsimulation 
+Flood risk 
+Government policy   
+JEL-codes: 
+D12 
+H23 
+Q52 
+Q58 
+ABSTRACT  
+Floods in Germany have caused significant economic damage and are expected to become more frequent. The 
+economic damage expected as a result of floods will affect households differently across income levels. A 
+method, rooted in economic theory, is proposed to estimate changes in household welfare and income inequality 
+resulting from expected flood damage. It is found that welfare losses after floods disproportionately harm low 
+income households and increase inequality by 0.14%. Families with dependent children and householders of 
+retirement age in the lowest income quartile are the most affected. In order to collect additional resources to 
+cover the cost of the financial relief, the of additional income, real estate and energy taxes are investigated. 
+These instruments yield a reduction in income inequality. It is also shown that rewarding investment in miti
+-
+gation and insurance, and supporting low income households can be jointly achieved when re-allocating ad-
+ditional energy-tax revenues.   
+1. Introduction 
+In 2013, floods caused economic damage of approx. Eight billion 
+euros in Germany (BMI 2013). The total compensation provided by the 
+federal government accounted for 1.6% of its budget. While there are 
+several studies on the distributional effects of natural disasters, there is 
+little research on the effects of floods. Yamamura (2015) found that 
+floods can increase inequality, but this effect vanishes after 10 years. 
+Regarding existing literature on natural disasters and inequality, re
+-
+search shows that pre-existing inequality levels determine the ability of 
+vulnerable households to respond immediately to the disaster and to 
+recover from the event (see Masozera et al., 2007
+). Miljkovic and 
+Miljkovic (2014) found that hurricanes have heterogeneous impacts 
+across different segments of the population. Similarly, Warr and Aung 
+(2019) found that the cyclone Nargis, which affected Myanmar in 2008, 
+decreased inequality across regions because the affected regions were 
+on average better off than other regions. Keerthiratne and Tol (2018) 
+also show that natural disasters in Sri Lanka affected poorer households 
+working in the agricultural sector. Experiencing extreme events affects 
+multiple dimensions of well-being. Yun and Waldorf (2016) show that 
+hurricanes in the United States (U.S.) have increased inequality among 
+the population in the coastal area and have forced households to mi
+-
+grate to other locations. Bui et al. (2014) show that natural disasters 
+have a negative impact on income and expenditure levels, increasing 
+income inequality. Sekulova and van den Bergh (2013, 2016) ; Hudson 
+et al. (2019) and von Möllendorff and Hirschfeld (2016) have in-
+vestigated the effects of extreme events on other dimensions outside of 
+changes in expenditure and consumption, such as changes in life sa-
+tisfaction and happiness. 
+Floods will become more frequent (see Jongman et al., 2014
+), in-
+creasing the pressure on public finances. The Organization for Eco-
+nomic Cooperation and Development (OECD) has suggested estab-
+lishing a budget to cover the cost of future extreme events (see Phaup 
+and Kirschner, 2010
+). Cevik and Huang (2018) suggest that it is im-
+portant to define how to build the fund and set the rules for its use. On 
+the one hand, offering financial relief can create a charity hazard pro-
+blem where households do not insure themselves, with the expectation 
+that the government will provide financial assistance after the extreme 
+event (see Raschky and Weck-Hannemann, 2007
+). On the other hand, 
+implementation of the wrong instruments to raise additional resources 
+and their use can aggravate the distributional consequences of the ex
+-
+treme event. When extreme events become more frequent and in-
+surance premiums reflect the risk level faced by households, some 
+households will not be able to insure themselves, increasing the burden 
+for low income households. To the best of my knowledge, this is the 
+first study that uses an approach rooted in welfare economics to mea-
+sure welfare changes at household and aggregated level. 
+The insights provided by this paper are threefold. First: a data- 
+https://doi.org/10.1016/j.ecolecon.2020.106879 
+Received 18 October 2019; Received in revised form 5 October 2020; Accepted 5 October 2020    
+⁎ Corresponding author at: Economic and Social Research Institute, Sir John Rogerson's Quay, Dublin, Ireland. 
+E-mail address: miguel.angeltovar@esri.ie
+. 
+Ecological Economics 180 (2021) 106879
+Available online 20 October 2020
+0921-8009/ © 2020 Elsevier B.V. All rights reserved.
+T
+
+[[PAGE 2]]
+driven evaluation of the distributional effects of floods across different 
+household types and income levels is provided. Second, the distribu-
+tional effects of providing relief and funding it through different tax 
+mechanisms is analyzed. Finally, the distributional effects of house
+-
+holds covering the cost of a flood by themselves and getting govern-
+ment transfers that reward investments in risk reduction is analyzed. In 
+this scenario, revenues are generated by energy taxes and, the addi-
+tional revenues are equally allocated in order to increase its social ac-
+ceptance as has been recommended in the literature (see Klenert et al., 
+2018
+). This policy instrument is also designed to protect low income 
+households by allocating additional resources for this purpose. 
+Countries such as Armenia, Indonesia, Japan, Philippines and South 
+Africa have set public funds to face the cost of extreme events that 
+range from 0.36% to 5% of the central government expenditure (see  
+Cevik and Huang, 2018). Deviating public resources from education, 
+health, etc. to create this fund can translate into reductions in non-cash 
+income that can increase inequality (see Aaberge et al., 2010). Using 
+taxes to finance funds against extreme events has already been im-
+plemented in some countries. The Austrian disaster fund (Katas-
+trophenfonds) is financed by 1.1% of the federal share on income taxes, 
+taxes on capital yield, and corporate taxes (see Unterberger et al., 
+2019
+). There are also proposals to link sustainable consumption and 
+adaption policies. For instance, using revenues from carbon taxes to 
+finance an international-adaptation fund has been proposed by Chancel 
+and Piketty (2015). de Villemeur and Leroux (2019) have suggested 
+creating a climate liability market where liable polluters pay, as climate 
+harm materializes. Members of this international market that face 
+losses are compensated with these funds. However, energy taxes will 
+also create a larger burden to low income households (see Poterba, 
+1991; West, 2004, 2005; Fullerton and West, 2000). In order to increase 
+the social acceptability of this policy instrument, re-allocation of the 
+revenue has been suggested (see Klenert et al., 2018). In addition,  
+Kousky and Kunreuther (2014) have analyzed the trade-off between 
+setting insurance premiums that reflect the risk and equity and af-
+fordability issues. Setting a premium that reflects risks could create a 
+high burden for low income households. They proposed to combine a 
+means-tested voucher to cover the cost of the premium, and investment 
+in mitigation measures. In the same line, in order to make insurance 
+more affordable Gruber (2008) suggests a financial framework where 
+individuals or institutions acting as insurers can be sponsored by other 
+entities. In this framework private and public companies work together 
+to reduce the financial burden of compensation after an extreme event. 
+In order to reduce the pressure on the public budget caused by damages 
+to public buildings in Austria, Unterberger et al. (2019) suggest a switch 
+from the current system of governmental relief towards a system where 
+the federal government acts as insurer for the state members and im
+-
+plementation of insurance compensation arrangements offer incentives 
+for risk reduction. Holub and Fuchs (2008) suggest that local invest-
+ment in structural protection, building codes, and information cam-
+paigns can also reduce the pressure on public budgets. 
+Regarding the methodologies used to measure the incidence of flood 
+damage, existing research takes expected changes of income after ex-
+periencing natural events as a proxy to measure welfare. Kind et al. 
+(2017) argue that the concept of utility used in economics to oper-
+ationalise well-being cannot be approximated by income because well- 
+being is non-linearly related to income or consumption. Demand sys-
+tems are derived from economic theory and they are employed to model 
+households' consumption behavior and changes in welfare. The system 
+represents consumption decisions as a system of equations which de
+-
+pend on prices, consumption budgets, and both observed and un-
+observed household characteristics. Demand systems have been used to 
+study households' energy use and carbon emissions (see Baker et al., 
+1989
+; Creedy and Sleeman, 2006; Labandeira et al., 2006; Pashardes 
+et al., 2014; Sommer and Kratena, 2017; Tovar-Reaños and Wölfing, 
+2018). However, to the best of my knowledge, this is the first study that 
+investigates the distributional effects of floods and flood policies using a 
+demand system approach. 
+The research approach used here consists of two steps, as does the 
+methodology: First, the expected annual flood damage is estimated for 
+various household types. In order to compute the metric for the eco
+-
+nomic damage, the following probabilities are estimated: of living in a 
+floodplain, of having insurance, of investing in mitigation measures. In 
+order to estimate these probabilities, the Eval-MAP dataset is used, a 
+unique household panel survey covering more than 10,000 households 
+in Germany over a period of four years. Second, the exact affine Stone 
+index (EASI) developed by Lewbel and Pendakur (2009) is estimated. 
+The EASI demand system is employed because it allows for high flex-
+ibility when modeling the relationship between household budget and 
+commodity demand. Given that changes in income and changes in the 
+price of energy commodities will be simulated, the demand system suits 
+the research purposes as it allows for simulating welfare changes due to 
+changes in income and commodity prices. The waves from 1993 to 
+2013 from the German Einkommens- und Verbrauchsstichprobe (EVS) 
+are used. The proposed model in the study takes into consideration 
+changes in income and expenditure levels on different commodities and 
+their welfare implications. It also identifies which groups face the larger 
+burden after the flood. 
+Results show the first empirical evidence that economic damage 
+after floods in Germany increases inequality. When these losses are 
+translated into the cost that families will face when adjusting their 
+consumption patterns due to the economic losses, it is found that fa-
+milies with children and households with a head at retirement age are 
+the most affected. Raising revenues at the level of the economic da-
+mage, income, real estate and carbon taxes can reduce inequality. When 
+revenues from energy taxes are jointly used to compensate households 
+for the regressive nature of the tax and to incentivise investment in risk 
+reduction, further reductions in inequality can be achieved. The paper 
+proceeds as follows. Section 2 depicts the data sources used in this ar-
+ticle. Section 3 presents the methodological approach. Section 3.6 ex-
+plains the simulated scenarios. The results are shown in Section 4
+.  
+Sections 5 and 6 provides a policy discussion and concludes. 
+2. Data sources and descriptive statistics 
+The German Einkommens- und Verbrauchsstichprobe (survey of 
+income and expenditure, EVS) is used to estimate the EASI demand 
+system and carry out the simulation. It has been recently used to esti-
+mate an EASI demand system by Pothen and Tovar-Reaños (2018)
+. The 
+survey is carried out every five years and provides information on ex-
+penditures across consumer commodities and other socio-economic 
+variables. Coherence in the survey is achieved by interviews at the 
+beginning and at the end of the survey. Moreover, the survey has a short 
+panel structure in which households are followed across a short period 
+of time. This provides consistency of the reported data across time. The 
+waves 1998, 2003, 2008 and 2013 are used for the econometric esti
+-
+mation. This provides a sample of 166,600 observations. The wave 
+2013 is used for the microsimulation with a sample size of 38,634 
+households. 
+Household types are distinguished according to two criteria. First, 
+four expenditure quartiles are differentiated. Second, households with 
+different socioeconomic characteristics are distinguished. Lewbel 
+(1989)
+'s methodology is used to obtain household-specific prices by 
+combining the micro data with prices reported by the German Statis-
+tical Office. 
+For the demand system, six consumption purposes i
+: food, housing, 
+energy, transport, education and others are analyzed. Table A.1 in the 
+Appendix displays the descriptive statistics for expenditure and the 
+price variables used in the estimation. The aggregation of commodities 
+used in the demand system resembles Pothen and Tovar-Reaños (2018). 
+Demand of durable commodities is not included in this analysis because 
+they are not regularly consumed and their demand follows an invest
+-
+ment behavior. 
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+2
+
+[[PAGE 3]]
+Although very detailed expenditure and household information is 
+included, the EVS data does not contain sufficient information on flood 
+insurance (which is voluntary in Germany, with a market penetration of 
+around 40%), flood mitigation, flood risk, and other housing char-
+acteristics relevant for the expected flood damage. Therefore the Eval- 
+MAP dataset is used, a unique and comprehensive household panel 
+survey on these topics (see Osberghaus, 2017). Eval-MAP provides this 
+information for up to 10,000 distinct households in Germany inter-
+viewed between 2012 and, 2015. Table 1 summarises the descriptive 
+statistics of variables used in this study. Note that the insurance cov-
+erage displayed in Table 1 is self-reported. The values are adjusted such 
+that their mean by federal state mirrors the real flood insurance pene-
+tration in the respective state, as reported by (GDV, 2017). The cali-
+brated values are displayed in Table A.2. 
+3. Models and methodology 
+3.1. Model overview 
+Here an overview of the models is provided. In order to measure 
+changes in income and expenditure after floods, data on household 
+income, expenditure, risk of suffering flood damage, probability of 
+being insured against floods, probability of living in a ground floor or 
+basement and data on the damage cost is needed. In addition, a theory- 
+consistent model is also used to measure changes in welfare at the 
+household and aggregate levels resulting from floods and flood policies. 
+To do so, probabilities of experiencing a flood and other flood-related 
+variables are estimated using the Eval-MAP survey, which collects in-
+formation on these matters and other socioeconomic variables. 
+Information on average damage from the German insurance association 
+(GDV, 2017) is used to estimate the expected flood damage at house-
+hold level. These probabilities are then imputed to data on expenditure 
+and income (the so-called Einkommens-und Verbrauchsstichprobe, 
+EVS). The EVS is used to estimate a structural model that allows us to 
+measure changes in welfare and inequality. Fig. 1 provides a descrip-
+tion of the process followed in this research. 
+3.2. Expected flood damage at the household level 
+As mentioned above, a crucial part of the modeling exercise is the 
+estimation of an expected value of the annual flood damage for the 
+households in the EVS dataset. In this section, a description of the data 
+sources, methods, and assumptions on which these estimates are based 
+is provided. The total flood damage is divided into direct damage oc-
+curring at the household level (home and contents), and indirect da-
+mage affecting households through the destruction of public infra-
+structure, such as transport, electricity and communication grids. First, 
+let us turn to the direct damage affecting homes and contents. Given the 
+lack of detailed damage data on the household level, the general 
+strategy relies on (a) aggregate damage statistics of the German 
+insurance association (GDV, 2017) and (b) the distribution of these 
+aggregates on household types based on relevant household para-
+meters, including the following:  
+• estimated flood risk  
+• estimated probability of using ground floor or basement  
+• estimated probability of the implementation of flood mitigation 
+measures  
+• estimated expected insurance coverage, separately for home and 
+contents  
+• reported size of the dwelling 
+The estimated values are predictions based on probit regressions, 
+which are presented in more detail in the appendix. In general, pre-
+dicted probabilities for households (e.g. of living in a floodplain) are 
+computed using the Eval-MAP dataset. The Eval-MAP dataset is a panel 
+survey covering a largely representative sample of households in 
+Germany, focusing inter alia on flood protection, flood insurance, and 
+related variables at the household level. It covers more than 10,000 
+households in four annual waves over the period 2012–2015 (for more 
+information on the Eval-MAP data, refer to Osberghaus (2017) and  
+Osberghaus and Philippi (2015)). For estimating flood risk, the survey 
+data is enriched with objective, GIS-based flood risk data on the exact 
+location of the respondent (BfG, 2015). In the regressions, predictors 
+which are readily available in the EVS dataset are also used. These are 
+income quartiles, household size, employment status, homeownership, 
+type of housing, urbanization category of the place of residence, and 
+age of the household head (see Table A.2 in the appendix). Next, pre-
+dicted probabilities (e.g. of living in a floodplain) are imputed for the 
+households in the EVS dataset, using the regression results from the 
+Eval-MAP data. Table A.3 in the Appendix explains in more detail how 
+these and other parameters are used to derive an estimate of the annual 
+expected flood damage, and what the underlying assumptions are. The 
+variables and estimates to compute expected flood damage are dis-
+played in Table A.4. 
+Besides the damage at the household level, floods in the past have 
+caused severe damage to public infrastructure. In the case of the most 
+recent major flood in Germany in June 2013, damage to public infra
+-
+structure was around five times as high as damage to households 
+(Bundesregierung, 2016). Obviously, infrastructure damage increases 
+the financial burden the government has to carry after a flood and for 
+this reason this type of damage is included when calculating the fiscal 
+consequences for the households. Different household types might, 
+however, also be differently affected by infrastructure failure. Hence, 
+this damage should not be ignored if we are interested in the flood 
+effects on welfare and inequality. When adding infrastructure damage 
+to the estimation of expected annual flood damage, the underlying as
+-
+sumption is that the more persons living in a household, the more it is 
+affected by infrastructure failure. Moreover, households residing in 
+floodplains should be more affected. 
+Table 1 
+Descriptive statistics of the used variables from the Eval-MAP dataset.         
+Mean SD Min Max N  
+Reported insurance coverage (home) 0.680 0.466 0 1 5.330 
+Reported insurance coverage (contents) 0.520 0.490 0 1 8.598 
+Living in a 200 year floodplain (objective 
+measure) 
+0.081 0.279 0 1 20.843 
+Using ground floor or basement 0.936 0.227 0 1 10.385 
+Having installed flood mitigation 0.396 0.460 0 1 9.041 
+Homeowner 0.568 0.501 0 1 10.385 
+Living in a detached home 0.510 0.501 0 1 10.385 
+Income in € per month 2916 1346 250 5750 10.385 
+Household size in persons a 2.16 0.969 1 4 10.385 
+Fully employed 0.590 0.490 0 1 10.385 
+Household head aged under 45 0.270 0.440 0 1 10.385 
+ Fig. 1. Description of the method used in the research.  
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+3
+
+[[PAGE 4]]
+3.3. The Exact Affine Stone Index (EASI) implicit Marshallian demand 
+system 
+The exact affine Stone index was recently proposed by (EASI;  
+Lewbel and Pendakur, 2009; Pendakur, 2009). The methodology has 
+been applied by Pothen and Tovar-Reaños (2018) to estimate own, 
+cross and expenditure elasticities. The fraction of the household budget 
+that is spent on specific commodities is the dependent variable in each 
+equation in the system. It is a function of commodity prices, total ex
+-
+penditure and other socioeconomic variables. The EASI demand system 
+approximates an expenditure function from which one can obtain 
+Marshallian demand functions. The EASI extends its predecessors that 
+assume linear Engel curves (
+Deaton and Muellbauer, 1980) or quadratic 
+curves (Banks et al., 1997). The EASI system allows for any shape be-
+tween expenditure and expenditure budget (the Engels curves). The 
+iterated three-stage least squares (3SLS) estimator is used when esti-
+mating the parameters from the demand system. Once the parameters 
+are estimated, one can estimate an expenditure function and compute 
+changes in welfare. 
+Lewbel and Pendakur (2009) propose the following approximation 
+to the expenditure function: 
+= + +
++ +
+=
+C p y y m y z p a p p z
+b p p y p
+log[ ( , )] ( , ) 1
+2
+1
+2 ,
+i
+i i
+l i j
+i j l i j l
+i j
+i j i j
+i
+i i
+0 ,
+, ,
+,
+,
+(1) 
+where y and m are the implicit utility and a function that controls for 
+non linearity of the Engel curves. pi and pj are commodity prices and zl 
+is the variable for the l household characteristic and ai, j, l and bi, j are 
+the parameters to be estimated. ε i represent unobserved preference 
+heterogeneity. The polynomial function mi is defined as follows: 
+= + +
+=
+m y z b y c z d z y( , ) [ ] ,i
+r
+R
+i r r
+l
+i l l
+l
+i l l
+0
+, , ,
+where R determines degree of the polynomial and it allows for highly 
+flexible Engel curves. bi, r, ci, l, and di, l the parameters to be estimated. 
+Regarding the function y, Lewbel and Pendakur call it implicit utility 
+and it has similar interpretation than the real expenditures from total 
+nominal expenditures X: 
+=
++ =( )y
+X w p a p p z
+b p p1
+i i i l i j i j l i j l
+i j i j i j
+1
+2 0 , , ,
+1
+2 , ,
+(2) 
+where X is total expenditure. 
+When the Shephard's lemma is applied to expression (1), one ob-
+tains the following functions for the budget shares: 
+= +
++ + + +
+=
+=
+w a p z b p y
+b c z d z y .
+i
+l j
+i j l j l
+j
+i j j
+r
+R
+i r y
+l
+i l l
+l
+i l l i
+0
+, , ,
+0
+, , ,
+(3)  
+Symmetry, adding up and homogeneity restrictions ensure the 
+theoretical consistence of the estimated expenditure function: 
+= = =
+= =
+= = =
+=
+= =
+a a a i j I
+b b b
+d c i I
+b r
+b r
+and 0 , 1, 2, ..
+and 0,
+0 1, 2, ..
+0 for 0,
+1 for 0,
+i j j i
+i
+i j
+i j j i
+i
+i j
+i
+i l
+i
+i l
+i
+i r
+i
+i r
+, , ,
+, , ,
+, ,
+,
+,
+where I is the total number of commodities included in the model. 
+3.4. A household welfare metric 
+Equivalent Variation (EV) is used to estimate changes in household 
+welfare resulting from achieving a new level of utility after changes in 
+income or commodity prices (see Tovar-Reaños and Wölfing, 2018). 
+This is defined in terms of the expenditure function as E(p
+0,U1) − E 
+(p0,U0) where U is the level of household utility before and after the tax 
+reform. The indexes 1 and 0 are for before and after the shock in income 
+or commodity prices. Unlike Tovar-Reaños and Wölfing (2018), an in
+-
+teraction between the commodity prices and the measure for real ex-
+penditure y is included. We need to obtain a metric for Hicks equivalent 
+variation for this specification as follows: 
+=
++
+= =
+EV exp p w y p p w y p
+a p p z a p p z X
+X
+( , ) , )]
+1
+2
+1
+2
+,
+i
+i i i
+i
+i i i
+l
+L
+i j
+i j l i j l
+l
+L
+i j
+i j l i j l
+0 0 1 1
+0 ,
+, , 0 0
+0 ,
+, ,
+1 1 1
+0
+(4) 
+where 
+=
+b p p
+b p p
+1
+1
+i j i j i j
+i j i j i j
+1
+2 , , 0 0
+1
+2 , ,
+1 1
+(5)  
+3.5. Social welfare and inequality 
+Tovar-Reaños and Wölfing (2018) also applied this approach where 
+the EASI demand system is extended to compute a metric for ‘equiva-
+lent income’ as defined by King (1983). It is formally defined as xe such 
+that v(p1,xe) = v(pi
+0,x1), where v(⋅) is indirect household utility. In 
+other words, this metric measures the net expenditure level after dis-
+counting welfare losses under the new scenario of commodity prices 
+and expenditure.1 This measure is adopted for the comparison of social 
+welfare and inequality across different price and income regimes.  
+Tovar-Reaños and Wölfing (2018) show that x
+h
+e can be estimated by 
+discounting household expenditure from the welfare loss, Xh+EV h, 
+which is estimated for each household and when aggregated, it can be 
+used to compute a metric for social welfare following Atkinson (1970). 
+=
+=
+W N x1 ,
+hh
+N
+h
+e
+1
+1
+1
+1
+where ε is the Atkinson inequality aversion parameter. This welfare 
+function can be written as follows: 
+=W x A (1 ),e
+where 
+x e is the mean equivalent income and Aε is the Atkinson in-
+equality index. This expression measures the trade off between effi-
+ciency and equity aspects of an income and price reform. 
+3.6. Scenarios 
+In the first scenario, the welfare changes after a flood are estimated. 
+In order to create additional funds with the size of the economic da-
+mage, the distributional effects of three scenarios are explored: 
+Increases in income, real estate and carbon taxes. Regarding the income 
+and real estate taxes, the taxes are set to achieve revenues equal to the 
+1Note that in the economic literature, the term ‘equivalent income’ also refers 
+to a measure of income by household member which accounts for household 
+composition and economies of scale. This is not what it refers to here. 
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+4
+
+[[PAGE 5]]
+total flood damage in the sample; this is discussed further in Section 4. In 
+order to estimate the additional taxes to be collected, the proportion of 
+taxes that each household is paying with respect to the total income tax 
+revenue is estimated, 
+= rTax
+Tax h
+h
+h
+H h . Where Taxh is the tax paid by 
+household h. The new income level after additional taxes have been 
+paid is estimated as follows: New Income_h= In-
+comeh − rh ∗ Totaldamage. Finally, changes in expenditure are esti-
+mated as follows: Xh = NewIncomeh − Savingsh, where Savingsh are kept 
+fixed across scenarios. In the last scenario the price of fuels used for 
+heating, electricity and fuels for private transportation are increased. 
+Two additional scenarios are analyzed regarding revenue re-allo-
+cation. In the scenario ET and risk-reduction allocation (Federal)
+, 
+households face increases in energy taxes, flood damage and they also 
+receive transfers from revenues. These revenues are allocated as fol
+-
+lows: 50% of additional revenues are allocated equally across house-
+holds as in the previous scenario. Unlike scenario 4, Increasing energy 
+taxes
+, households do not receive financial aid after the extreme events 
+to cover the total expected flood cost. They receive a transfer that is 
+allocated in direct proportion to the risk reduction behavior instead. 
+Risk reduction behavior is measured as the product of the probabilities 
+of being home and content insured, and having invested in mitigation. 
+As in the income tax estimation, each household (h) will receive 35% of 
+the revenues following the next proportion: 
+=shareh
+riskr eduction
+risk reduction
+h
+h h . The 
+rest of the additional revenue is allocated equally across low income 
+households. In practice these revenues could be allocated using a 
+voucher system in which a subsidy for the cost of the insurance and 
+grants for the investment in mitigation measures are provided (see  
+Kousky and Kunreuther, 2014). Note that in this scenario, revenues and 
+allocation happen at federal level. That is, the risk metric and revenue 
+re-allocation are calculated for the whole sample. In order to investigate 
+the distributional effects of a similar situation depicted by the previous 
+scenario, but with a state allocation, where the metric for risk reduction 
+and revenue allocation is carried out for each federal state, scenario 6, 
+ET and risk-reduction allocation (State) is provided. Table 2 provides an 
+overview of the scenarios. 
+The damage suffered by households is computed using an estima-
+tion of annual risk of being flooded and average damages reported by 
+the German insurance association (GDV, 2017).2 This estimated da-
+mage is used to calculate the tax to be collected. It is assumed in this 
+study that the collected revenues will be enough to cover the damage at 
+any point in time. While this assumption anticipates a different me-
+chanism in ‘real life’, the analysis of the distributional effects of dif-
+ferent flood policies provides important insights for policy makers. In 
+addition, in the simulated scenarios, the additional revenue is totally 
+used. Consequently, there are no remaining resources that allow for the 
+formation of reserves to build up a fund over time. In our model, re-
+ducing the relief provided by the government will release resources to 
+form a fund, at the expense of increasing inequality levels. 
+In the last column of Table 2
+, the percentage of the expected com-
+pensation is also provided. While under scenarios 1 to 4, households 
+will receive financial assistance, the net effect is not provided in this 
+table. The difference between the received relief and the additional 
+taxes paid by households can be negative. The net effect is quantified 
+and discussed in the subsection 4.2
+. 
+4. Results 
+Table 3 summarises the descriptive statistics for the expected values 
+with and without infrastructure damage. The absolute values seem to 
+be relatively small, given the annual median income. In reality, most 
+households will experience many years without any damage, but when 
+flooded, the damages will be much higher than the numbers presented 
+here. Also note that due to climate change, flood damage is expected to 
+rise in central Europe during the 21st century (Alfieri et al., 2015). 
+Finally, note that the main contribution of this paper is analysing the 
+directions of distributional effects. While the estimated flood damage 
+may be disputable in quantitative terms, it is argued that the relative 
+distribution on household types is well reasoned and justified by de-
+tailed and unique household level data. 
+As explained in Section 3
+, an expected value of annual flood damage 
+for different household types is estimated. To the best of my knowledge, 
+this is the first attempt to derive such estimates on the national scale, 
+taking account of detailed household parameters such as insurance and 
+mitigation probabilities. Hence, the resulting correlations of income, 
+expected annual flood damage, and relevant parameters at household 
+level provide interesting preliminary insights into the distributional 
+implications of flooding in Germany (see Table 4). 
+The correlations suggest that high income households have a higher 
+probability of being insured, living in safe areas, and having im-
+plemented physical or behavioural flood mitigation measures than 
+poorer households. In other words, their adaptive capacity is relatively 
+high, which contributes to lower expected flood damage. At the same 
+time, they tend to be more sensitive to flooding as they are more likely 
+to own a home, and have larger dwellings. The estimates of expected 
+annual flood damage in absolute term, show that the latter effect of 
+higher sensitivity seems to dominate the former effect of higher adap
+-
+tive capacity. In short, richer households face higher absolute values of 
+expected annual flood damage. There is a negative correlation between 
+EAFD and flood risk that can mistakenly lead one to conclude that 
+households facing high risk will face low damages. Dwelling damage is 
+the main component of the estimated EAFD. When households have a 
+high probability of being home insured, the damage will reduce. Note 
+that high flood risk is correlated with the probability of being home 
+insured. Nevertheless, if we consider the relative importance of ex-
+pected flood damage for the households by formulating damages as 
+Table 2 
+Scenario overview.        
+Scenario number Income change Price changes Exp. compensation  
+Flood incidence 1 YES NO 0  
+Revenue equal to the damage size 
+Increasing income taxes 2 YES NO 100% 
+Increasing real estate taxes 3 YES NO 100% 
+Increasing energy taxes (ET) 4 YES YES 100% 
+ET and risk-reduction allocation (Federal) 5 YES YES 0 
+ET and risk-reduction allocation (State) 6 YES YES 0 
+Table 3 
+Expected annual flood damage (€ per year).         
+Mean Min Max SD N  
+… only household damage (home 
+and content) 
+10.379 0.520 19.599 4.000 38,634 
+… including infrastructure 47.601 22.711 71.610 10.110 38,634 
+2 see Table A.3 for more details on the damage estimation. 
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+5
+
+[[PAGE 6]]
+income shares, the picture changes considerably. Figs. 2 and 3, de-
+picting the mean values of expected annual flood damage in absolute 
+and relative terms for ten percentiles of net income, demonstrate that 
+with increasing income, absolute damage rises while relative damage 
+sharply decreases. 
+I would like to add the caveat that while the estimations of expected 
+damage take account of the likelihood of insurance coverage, they 
+neglect the cost of insurance paid by the households that are insured. 
+Given the higher probability of being insured and larger dwelling sizes 
+of high income households, their insurance premiums are probably 
+higher as well. At the same time, richer households tend to be located in 
+safer areas, which is decisive for the premium. The cost of insurance at 
+this point is excluded, because expenditure on insurance (including 
+flood insurance) is already included in the expenditure data of the EVS 
+dataset, and calculating an expected value would imply double 
+counting of these expenditures in the welfare analysis. In addition, note 
+that the expected damage is not the damage suffered and reported in a 
+single random draw of the range of flood losses, and it cannot capture 
+the entire risk spectrum faced as reported data. 
+In order to raise financial resources that account for 1% of the 
+household income in the analyzed survey, it is estimated that income 
+taxes paid by the household have to increase by 3%. If the source of 
+resources come from real estate taxes, they have to increase by 84%. 
+Unlike income and wealth taxes that tend to create a larger burden for 
+wealthy households, carbon taxes are regressive. These regressive ef-
+fects can be overcome by allocating the additional income revenues. In 
+order to create enough resources to cover the cost of the damage, the 
+price of energy commodities need to increase by 3%. It is estimated that 
+this tax will generate resources equal to 2.5% of the income in the 
+analyzed sample. These resources will be enough for the relief and 
+additional revenues to be allocated and compensate for possible re-
+gressive effects. 
+4.1. Household welfare changes 
+The parameters from the demand system are displayed in Table A.5 
+in the Appendix. Estimated own price and expenditure elasticities are 
+displayed in Table 5. These estimates resemble the work of Pothen and 
+Tovar-Reaños (2018) and Nikodinoska and Schröder (2016) who also 
+used German data and a demand system approach. In line with their 
+findings, own price elasticity of food, housing, energy and transport are 
+found to be inelastic, that is, the absolute value of these estimates is less 
+than one. As to the expenditure elasticities, these commodities are 
+found to be necessary goods given that the value of the estimates is less 
+than one. This implies that increases in prices of these commodities via 
+taxes will impose a larger burden to poorer households. With the esti-
+mated parameters from the demand system, metrics for equivalent 
+variation are computed using expression (5). These estimates are dis-
+played in Table 6 and the values are relative to household income. 
+Scenario 1 for the flood incidence shows that households face welfare 
+losses, which disproportionately affect low income households. In this 
+scenario, welfare losses for families with children and households with 
+a head at retirement age are larger than the sample mean of this metric. 
+Note that the metrics are statistically different from the sample mean. In 
+the second scenario the government increases income taxes to fund the 
+relief. One can see that the welfare losses decrease with respect to the 
+previous scenario. Note that this policy is also progressive because the 
+more affluent households face the largest welfare losses. When real 
+estate taxes are used instead of income taxes, tenants have a reduction 
+in welfare losses but households with a head in retirement age face an 
+increase in their losses. This is explained by the fact that this last group 
+own their dwelling. In the sample, 60% of this household types are 
+Table 4 
+Spearman correlation matrix of available household income, expected flood damage and its main determinants. N varies between 15,192 and 26,951.             
+1 2 3 4 5 6 7 8 9   
+1 Income 1          
+2 Flood risk −0.390* 1         
+3 Insured (home) 0.091* 0.152* 1        
+4 Insured (contents) 0.281* −0.051* 0.982* 1       
+5 Mitigation 0.58* −0.231* 0.232* 0.432* 1      
+6 Homeowner 0.512* −0.404* – 0.321* 0.864* 1     
+7 Home size 0.650* −0.410* 0.032* 0.271* 0.650* 0.642* 1    
+8 EAFD without infrastructure 0.320* −0.331* −0.810* −0.254* 0.473* 0.662* 0.541* 1   
+9 EAFD including infrastructure 0.571* −0.221* −0.140* 0.194* 0.512* 0.492* 0.630* 0.520* 1 
+Exp. annual flood damage (EAFD). Stars denote correlations coefficients which are significant on the 1% level.  
+30 35 40 45 50
+Expected total flood damage
+123456789 1 0
+Deciles of i_neto
+99% confidence intervals
+Fig. 2. Means and 99% confidence intervals of expected flood damage in/year 
+per income deciles. 
+.0005 .001 .0015 .002 .0025
+Expected total flood damage relative to income
+123456789 1 0
+Deciles of i_neto
+99% confidence intervals
+Fig. 3. Means and 99% confidence intervals of expected flood damage in da-
+mage/income per income decile. 
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+6
+
+[[PAGE 7]]
+owners. Regarding a 3% increase in energy taxes in residential and 
+transport consumption, the tax revenue doubles the damage cost. One 
+half of the revenue is used to finance the total cost faced by households 
+after the flood. The rest of the tax revenue is re-allocated following a 
+lump sum where each household receives the same amount. Note that 
+when energy taxes are implemented jointly with a revenue re-allocation 
+mechanism, this policy is no longer regressive. However, families with 
+dependent children in low income levels are not fully compensated (see  
+Table 7). In contrast with this scenario, in the fifth and sixth scenarios 
+households face welfare losses from both flood damages and the losses 
+caused by the increase in energy taxes. The revenue from these taxes is 
+distributed as follows: 50% is allocated equally across households, 35% 
+is allocated in proportion to the degree of insurance and investment in 
+mitigation, and 15% is allocated equally across low income households. 
+While in this scenario low income households receive a lump-sum 
+transfer, in practice a voucher system can be implemented where the 
+money is used to reduce risk exposure and purchase of insurance (see  
+Kousky and Kunreuther, 2014). Table 7 shows that low income 
+households improved their situation compared with the fourth scenario. 
+Welfare losses for households in higher income levels of the distribution 
+are very similar to the ones in the fourth scenario. This shows that 
+improvements in distribution and rewarding risk reduction can be 
+achieved jointly. Regarding the last scenario displayed in Table 7, 
+revenues are allocated at state level, instead of at federal level like in 
+the fifth scenario. While the estimates do not show considerable dif
+-
+ferences in the metric of welfare changes, in practice a federal alloca-
+tion might present some problems because federal states are in charge 
+of flood risk management and they would need to agree that revenue 
+allocation is carried out at federal level. Note that floods have much 
+larger welfare/well-being impacts outside of the direct reduction in 
+consumption that are captured by the welfare metric used in this re-
+search. Other dimensions of welfare to consider have been measured in 
+the literature (see Sekulova and van den Bergh, 2013, 2016
+; Hudson 
+et al., 2019; von Möllendorff and Hirschfeld, 2016). 
+4.2. Inequality and social welfare changes 
+Table 8 shows the Atkinson inequality index (AI), equivalent income 
+(EI), social welfare (SW), and the changes in these metrics. These values 
+are provided quarterly. The changes are related to the base scenario of 
+no flood, thus without changes in income and commodity prices. One 
+can see that the expected economic damage after the flood can cause an 
+increase in inequality. In this scenario, an income shock after a flood 
+decreases equivalent income and social welfare. 
+Research on changes in inequality due to floods is narrow.  
+Yamamura (2015) estimates that floods can increase income inequality, 
+measured by a Gini coefficient, by 1%. They used a panel of emerging 
+economies and econometrics for panel data to obtain this metric. The 
+estimate of 0.14% found here can be a low bound estimate. However, 
+insurance coverage and existing infrastructure to mitigate the effects in 
+flood in Germany can also explain the size of the estimated value. Note 
+that general equilibrium effects regarding inequality can be larger than 
+the ones found with our partial equilibrium model. For instance, Leiter 
+Table 5 
+Own price and expenditure elasticities.          
+Food Housing Energy Transport Education Other  
+Own price −0.968*** −0.987*** −0.513*** −0.667*** −1.140*** −1.310*** 
+(0.017) (0.012) (0.016) (0.017) (0.012) (0.030) 
+Expenditure 0.701*** 0.775*** 0.767*** 0.710*** 1.457*** 1.254*** 
+(0.006) (0.005) (0.011) (0.010) (0.008) (0.021) 
+Significance levels: *p  <  0.10, **p  <  0.05, ***p  <  0.01.  
+Table 6 
+Equivalent variation estimates in % of income over scenarios, household types, 
+and income quartiles based on the EASI system in Table A.5.       
+No relief 
+Income quartile 1 st 2nd 3rd 4th  
+All households −0.191 −0.132 −0.107 −0.079 
+Family with children −0.211*** −0.145*** −0.107 −0.078 
+Head more than 65 −0.189 −0.136*** −0.112*** −0.081 
+Tenant −0.196 −0.131 −0.108 −0.081  
+Relief funded with income tax 
+All households −0.042 −0.069 −0.083 −0.114 
+Family with children −0.031*** −0.073** −0.101*** −0.136*** 
+Head more than 65 −0.003*** −0.010*** −0.019*** −0.039*** 
+Tenant −0.043 −0.082*** −0.100*** −0.127***  
+Relief funded with real state tax 
+All households −0.034 −0.087 −0.113 −0.125 
+Family with children −0.023*** −0.058*** −0.084*** −0.099*** 
+Head more than 65 −0.057*** −0.141*** −0.174*** −0.188*** 
+Tenant −0.000*** −0.008*** −0.013*** −0.031***  
+Relief funded with energy tax 
+All households −0.009 −0.194 −0.254 −0.259 
+Family with children −0.108*** −0.221*** −0.264*** −0.254** 
+Head more than 65 0.085*** −0.102*** −0.157*** −0.140*** 
+Tenant 0.024*** −0.151*** −0.178*** −0.159*** 
+Statistically significant wrt the sample mean * p < 0.10, ** p < 0.05, *** 
+p < 0.01.  
+Table 7 
+Equivalent variation estimates in % of income over scenarios, household types, 
+and income quartiles based on the EASI system in Table A.5.       
+Risk-reduction allocation: federal allocation 
+Income quartile 1 st 2nd 3rd 4th  
+All households 0.218 −0.278 −0.279 −0.267 
+Family with children 0.022*** −0.328*** −0.302*** −0.271 
+Head more than 65 0.327*** −0.159*** −0.162*** −0.123*** 
+Tenant 0.234 −0.302*** −0.292*** −0.242***  
+Risk-reduction allocation: federal State allocation 
+All households 0.243 −0.271 −0.290 −0.277 
+Family with children 0.054*** −0.308*** −0.307*** −0.275 
+Head more than 65 0.347*** −0.162*** −0.179*** −0.148*** 
+Tenant 0.271** −0.275 −0.272*** −0.223*** 
+Statistically significant wrt the sample mean * p < 0.10, ** p < 0.05, *** 
+p < 0.01.  
+Table 8 
+Quarterly Social Welfare for different policies (Inequity aversion: 1.2).          
+AI Δ AI in % EI Δ EI in % SW Δ SW in %  
+0 0.110 0.000 7119.335 0.000 6333.295 0.000 
+1 0.111 0.142 7111.333 −0.112 6325.065 −0.130 
+2 0.110 −0.097 7113.092 −0.088 6328.504 −0.076 
+3 0.110 −0.115 7112.187 −0.100 6327.837 −0.086 
+4 0.110 −0.033 7104.535 −0.208 6320.390 −0.204 
+5 0.110 −0.048 7105.220 −0.198 6321.113 −0.1924 
+6 0.110 −0.071 7105.182 −0.199 6321.259 −0.1900 
+AI: Atkinson's Index, EI: Equivalent income, SW: Social Welfare  
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+7
+
+[[PAGE 8]]
+et al. (2009) show that floods can negatively affect accumulation of 
+total assets, employment growth and productivity. 
+Metrics for inequality and social welfare loss are also provided using 
+a smaller inequality aversion in the appendix in Table A.6. While the 
+changes in inequality are smaller, the finding that floods increase in-
+equality still holds. Further robustness of the results are provided by 
+computing the distributional effects of households facing an average 
+damage randomly. Estimated average economic damages for dwelling 
+owners and tenants are estimated with the sample. Distributional ef-
+fects are quantified when half of households in high flood risk and with 
+zero expenditure on insurance for the dwelling are harmed randomly. 
+Households with an annual flood risk higher than the sample mean are 
+considered at high risk. I repeated the experiment 200 times where 
+different households are harmed each time. Table 9 provides the re
+-
+sults. The values are considerably smaller than those displayed in  
+Table 8
+. However, they also suggest that low income households face 
+the larger burden after floods. In addition, the changes in income in-
+equality are smaller than the ones displayed in Table 8 but they also 
+confirmed that floods increase inequality. 
+Regarding the rest of the scenarios, Table 8 shows that using income 
+and real estate taxes to finance the relief decreases inequality as it 
+transfers the burden from low income to high income households. In 
+these scenarios, there is also a reduction in social welfare, but the loss is 
+inferior to the first scenario. Note that the use of real estate taxes has 
+the largest reduction in inequality. As to the increases in energy taxes, 
+inequality also decreases. There is a decrease in social welfare because 
+there is a drop in equivalent income (EI). In accordance with the result 
+presented in the previous section, Table 8 also shows that targeting 
+improvements in sustainable consumption, inequality, and rewarding 
+risk reduction can be achieved jointly. Regarding the difference be
+-
+tween state and federal allocation, strong differences between the two 
+scenarios are not found. Using more targeted re-allocation mechanisms 
+and imposing carbon taxes on other commodities such as air tickets (see  
+Chancel and Piketty, 2015
+) can be used to reduce the regressive effect 
+of the tax. An optimal combination of carbon and income taxes, as 
+suggested by Jacobs and van der Ploeg (2019), could reduce inequality, 
+pollution damages and pressure on public finances. 
+Note that the proposed schemes do not lower the net losses ex
+-
+perienced by households. One can see in the fourth column of Table 8 
+that equivalent income (i.e. EI
+) decreases across all the scenarios. While 
+the proposed schemes reduce inequality, there are losses in average 
+equivalent income. Consequently, households over the distribution of 
+income must still pay for the damage to be recouped. 
+5. Policy discussion 
+The fiscal impact of the flood damage can be sizable when extreme 
+events are expected to become more frequent. This can cause financial 
+deviations leading to a public debt. This calls for the creation of a fiscal 
+buffer to cover the cost of the implementation of strategies that en-
+courage households to insure themselves, and government investment 
+in infrastructure to reduce the risk. Clear rules to manage the additional 
+resources have been suggested by the IMF (see Cevik and Huang, 2018
+). 
+The suggested rules cover transparent use of the resources, and po-
+tential investment of the additional resources on financial instruments 
+for periods of time free of floods. Providing government transfers based 
+on risk-reduction behavior can create the incentives to increase the 
+number of insured households and reduce the damage cost faced by 
+insurers and governments. The design of policy instruments, where 
+sustainable consumption and the promotion of investment are jointly 
+considered, can increase the participation of the financial sector in the 
+transition towards reducing the exposure to flood risk, and affordability 
+of insurance premiums. Public–Private Partnerships (PPPs) are existing 
+examples of cooperation between governments and insurers. It is a 
+scheme where governments and financial companies jointly bear re
+-
+sponsibilities and efficient risk sharing when increasing the number of 
+insured households (see Castellar et al., 2017 ). Mechanisms for the 
+cooperation between governments and insurers to tackle climate 
+change, risk management, and adaptation has been suggested by  
+Dlugolecki (2008). The author suggests that multi-year contracts are an 
+instrument to encourage customers to adopt flood-proofing measures 
+and access to cheap loans that help towards such mitigation invest-
+ments. In addition, Surminski and Thieken (2017) provide examples of 
+existing cooperation between the German government and insurance 
+companies. Insurance companies have driven the development of a 
+hazard zoning system that creates an awareness of the risk faced by 
+households. Regarding affordability of the insurance premium, invest-
+ment in flood protection could reduce the flood damage and might 
+make insurance premiums more affordable. Kousky and Kunreuther 
+(2014) suggest providing subsidies to reduce the flood risk via vouchers 
+to low income households. Gruber (2008) suggests using financial 
+measures such as captive structure and catastrophe bonds, which could 
+make insurance premiums and the burden of compensation against 
+extreme events more affordable. Captive structures allow individuals or 
+institutions acting as insurers to, in some cases be sponsored by other 
+entities. Cat bonds allow insurance companies to sell bonds to investors. 
+In the absence of extreme events, the insurance company pays a coupon 
+to the investor. However, if the event occurs during the duration of the 
+bond (normally during 3 years), the insurance company can use the 
+principal from the bonds to finance the claims. 
+McAneney et al. (2016) acknowledge the existence of a trade-off 
+between an insurance system with risk-reflective premiums and af
+-
+fordability. They argue that in US, France, New Zealand, Spain and the 
+United Kingdom, the intervention of the government by sponsoring 
+insurance pools or providing financial aid after the disaster cannot be 
+financially sustainable. The problem is that this mechanism does not 
+create incentives to reduce the risk faced by households. The scenarios 
+2–4, where there is a financial relief, are close to this mechanism. This 
+mechanism would remove the entire incentive structure to purchase 
+private flood insurance. The scenarios 5–6 proposed a mechanism that 
+encourages risk reduction behavior by offering transfers in proportion 
+to the investment in insurance and mitigation. 
+Poussin et al. (2013) proposes to improve the effectiveness of risk 
+prevention plans and their implementation in France. They recommend 
+improving the monitoring of the adoption of mitigation measures, and 
+the possibility to differentiate premiums and deductibles according to 
+flood risk. This last recommendation to reduce flood risk is close to the 
+simulated scenarios 5 and 6. 
+6. Conclusion 
+The first simulation of the distributional effects of floods and flood 
+policies in Germany is undertaken. A welfare approach consistent with 
+economic theory is used to measure changes in welfare at the household 
+and aggregate levels of the expected-flood damage. It is found that the 
+expected flood damage will disproportionally hurt low income house
+-
+holds. This particularly applies to families with dependent children and 
+households with a head at retirement age. Investing in infrastructure or 
+offering subsidies to cover insurance for low income households will 
+require additional resources. Raising resources that are comparable to 
+the flood damage yields lower levels of inequality. This is the case of 
+Table 9 
+Naive simulation of the effects of flood damages.       
+Income quartile 1st 2nd 3rd 4th  
+EV/Expenditure −0.1125 −0.0341 −0.0193 −0.0119 
+(0.002) (0.00) (0.000) (0.000) 
+ΔAI 0.055    
+(0.002)    
+ΔSW −0.045    
+(0.004)    
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+8
+
+[[PAGE 9]]
+income and real estate taxes. Using revenues from energy taxes and 
+offering financial relief after floods have similar distributional and 
+welfare effects to rewarding investment in mitigation and insurance, 
+and protecting vulnerable households. Consequently, it is shown that it 
+is possible to link policies that address sustainable consumption and 
+mitigation. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influ-
+ence the work reported in this paper. 
+Acknowledgements 
+Tovar Reaños acknowledges funding from the ESRI's Energy Policy 
+Research Centre. I would like to thank Dr. Daniel Osberghaus for his 
+comments. All remaining errors or omissions are my own.   
+Appendix A. Appendix 
+Table A.1 
+Summary statistics.     
+Variable Mean Std. Dev.  
+Budget share for food 0.16 0.07 
+Budget share for housing 0.29 0.1 
+Budget share for energy 0.06 0.04 
+Budget share for transport 0.06 0.04 
+Budget share for education 0.19 0.11 
+Budget share for others 0.23 0.1  
+Individualized consumer prices 
+log(food) 4.47 0.26 
+log(housing) 3.79 0.31 
+log(energy) 3.71 0.43 
+log(transport) 4.09 0.35 
+log(education) 3.93 0.33 
+log(transport) 4.13 0.35 
+log(others) 3.95 0.29 
+Total expenditure 8655.2 4901.6 
+Tenant 0.596 0.491 
+Household size 1.945 1.156 
+(mean) hdd 249.915 165.227 
+N 166,600  
+Table A.2 
+Summary statistics of the mean variables used to estimate flood damage.     
+Variable Mean Std. Dev.  
+Annual flood probability 0.004 0 
+Expected annual total flood damage 42.121 11.585 
+Expected annual uninsured flood damage cont 2.566 0.812 
+Expected annual uninsured flood damage home 8.395 3.495 
+Expected infrastructure damage per HH 35.004 9.882 
+Estimated probability of home insurance coverage 0.359 0.249 
+Estimated probability of contents insurance coverage 0.199 0.147 
+Estimated probability that household uses mitigation measure 0.276 0.211 
+Home owner 0.542 0.498 
+Dwelling size (m2) 100.909 42.366  
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+9
+
+[[PAGE 10]]
+Table A.3 
+Household parameters that are relevant for estimated expected annual flood damage, their definitions in the model and implied assumptions.      
+Parameter Variable name Definition Asssumptions  
+Expected annual uninsured flood 
+damage in € 
+damageh 
++
++
+damage home ins home
+homeowner damage cont i
+ins cont damage infr
+_ (1 _ )
+_ _
+(1 _ ) _
+h h
+h
+h h
+Expected annual damage at housi-
+ng in € 
+damage_homeh 
+dam av home sens
+a home
+_ _
+_
+h h damage_homeh follows the distribution of sens 
+Expected annual damage at con-
+tents in € 
+damage
+_conth 
+dam av home sens
+a cont
+_ _
+_
+h h damage_conth follows the distribution of sens 
+Estimated expected insurance cov-
+erage (home) 
+ins
+_homeh Estimated value, based on household characteristics 
+and regression 1a 
+Valid model of regression 1 
+Estimated expected insurance cov-
+erage (contents) 
+ins
+_conth Estimated value, based on household characteristics 
+and regression 2 
+Valid model of regression 2 
+Average household damage (hom-
+e), contingent on its flooding 
+probability, in € 
+dam
+_av_homeh 
++
+risk ground average
+payout per damage
+(
+500 )
+h h b The average damage of insured household equals the average damage 
+of all households. The average deductible for flood coverage in home 
+insurance policies is 500 €. 
+1 Average household damage (co
+-
+ntents), contingent on its floo-
+ding probability, in € 
+dam
+_av_conth 0.25 ∗ dam_av_homeh On average, contents damages amount to 25% of home damages. 
+Flood sensitivity sensh normalized index of ln(sizeh) ∗ (1 − mitigationh) Flood damage is affected by home size and mitigation 
+Scaling parameter a_home 
+=
+=
+h
+N dam av home h
+h
+N dam av home h sensh
+1 _ _
+1( _ _ ) This parameter is necessary to guarantee that the nominator equals the 
+denominator 
+Scaling parameter a_cont 
+=
+=
+h
+N dam av cont h
+h
+N dam av cont h sensh
+1 _ _
+1( _ _ )
+This parameter is necessary to guarantee that the nominator equals the 
+denominator 
+Annual risk of being flooded risk
+h riskbase + risk200h ∗ 0.005 Households in floodprone areas (HQ200) face an average annual flood 
+probability of 0.005. 
+Basis flood risk parameter risk
+base Calibrated such that the mean of riskh equals the 
+national average of flood risk reported by (GDV, 
+2017) 
+There is a basis risk for all households (also outside floodplains), e.g. 
+regarding heavy rain. 
+Estimated probability of living in a 
+200 yrs. floodplain 
+risk200
+h Estimated value, based on household characteristics 
+and regression 3 
+Valid model of regression 3 
+Estimated probability of using gr
+-
+ound floor or basement 
+groundh Estimated value, based on household characteristics 
+and regression 4 
+Valid model of regression 4 
+Home size size
+h Reported value of home size in m2 in the EVS data  
+Homeowner homeownerh 1 for homeowners, 0 otherwise  
+Estimated probability of having i-
+mplemented at least one miti-
+gation measure 
+mitigationh Estimated value, based on household characteristics 
+and regression 5 
+Valid model of regression xyz 
+Expected annual household da
+-
+mage from infrastructure de-
+struction, in 
+damage
+_infrh 
++
+= +
+ln persons risk
+ln persons
+risk
+dam infr
+( )
+( )
+)
+_
+i h
+h
+N
+i
+h
+total
+1
+1 1 Households are affected by infrastructure damage according to their 
+household size. 
+Household size in persons persons
+h Reported number of persons in the household in the 
+EVS data  
+Total infrastructure damage dam_infr
+total ∑h=1
+N(damage_homeh + damage_conth) ∗ b The relation of infrastructure damage and private damage equals the 
+relation of damages from the flood in 2013 
+Scaling parameter b Sum of infrastructure damage in 2013/Sum of pri
+-
+vate households damage in 2013 as reported by 
+(
+Bundesregierung, 2016)  
+a In case of ins_homeh and ins_conth, the estimated values are scaled such that their mean by federal state mirrors the real flood insurance penetration in the 
+respective state, as reported by (GDV, 2017). 
+b The average payout per damage was calculated on the basis of damage statistics from 1999 to 2016 (GDV, 2017). It amounts to 3279€.  
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+10
+
+[[PAGE 11]]
+Table A.4 
+Result tables of probit regressions (pooled cross-section). Standard errors are clustered on the household level.         
+Regression 1 Regression 2 Regression 3 Regression 4 Regression 5  
+Dependent vari-
+able 
+Reported flood insurance cov-
+erage (home) (
+ins_home) 
+Reported flood insurance cov-
+erage (contents) (
+ins_cont) 
+Living in a 200 yrs. 
+floodplain (risk200) 
+Using ground floor or 
+basement (ground) 
+Implemented at least one miti
+-
+gation measure (
+mitigation) 
+Homeowner omit-
+ted 
+0.274*** −0.032 0.183** 1.389***  
+County class (from most urbanized to most rural county class): 
+1 (urban) reference reference reference reference reference 
+2 −0.264*** −0.153*** −0.286*** −0.154** −0.283*** 
+3 −0.814 −0.068 −0.394*** −0.071 −0.257*** 
+4 −0.096 −0.008 −0.216*** −0.091 −0.227*** 
+5 −0.238*** −0.065 −0.500*** −0.300** −0.335*** 
+6 −0.094 0.014 −0.047 −0.388*** −0.321*** 
+7 (rural) −0.203* −0.010 −0.196 −0.005 −0.426*** 
+Detached home 0.155*** 0.050 −0.126* omitted 0.052 
+Income quartile:     
+1 reference reference reference reference reference 
+2 −0.019 0.049 −0.094 0.185*** 0.096* 
+3 0.023 0.080* −0.091 0.025 0.206*** 
+4 −0.028 0.038 −0.169** −0.170* 0.187*** 
+Household size      
+1 person reference reference reference reference Reference 
+2 persons 0.201*** 0.261*** −0.098 0.231*** 0.115** 
+3 persons 0.283*** 0.304*** −0.032 0.153 0.079 
+4+ persons 0.227*** 0.204*** 0.060 0.202* 0.129** 
+Fully employed 0.167*** 0.179*** −0.025 −0.025 −0.115*** 
+Household head 
+aged under 45 
+0.049 −0.205*** 0.008 −0.133** −0.120*** 
+constant 0.161** −0.369*** −1.000*** 1.202*** −1.483*** 
+N 5330 8598 14,142 5139 9041 
+Pseudo-R2 0.015 0.036 0.021 0.025 0.191 
+Significance levels: *p  <  0.10, **p  <  0.05, ***p  <  0.01.  
+Table A.5 
+Seemingly unrelated regression model results (with standard errors).⁎, ⁎⁎, ⁎⁎⁎         
+EASI      
+ws_food ws_housing ws_energy ws_transport ws_education  
+Coefficients for:      
+polynomial y1 −0.316*** 1.085*** −0.761*** 0.816*** −0.895***  
+(0.119) (0.188) (0.088) (0.074) (0.200) 
+y2 0.066** −0.384*** 0.206*** −0.195*** 0.319***  
+(0.033) (0.053) (0.025) (0.021) (0.056) 
+y3 −0.005 0.054*** −0.025*** 0.020*** −0.045***  
+(0.004) (0.007) (0.003) (0.003) (0.007) 
+y4 0.000 −0.003*** 0.001*** −0.001*** 0.002***  
+(0.000) (0.000) (0.000) (0.000) (0.000) 
+Price effects (aij)     
+np1 0.196*** 0.006 −0.018*** −0.014*** −0.112***  
+(0.007) (0.006) (0.003) (0.004) (0.004) 
+np2 0.006 0.197*** 0.003 0.037*** −0.081***  
+(0.006) (0.009) (0.004) (0.004) (0.006) 
+np3 −0.018*** 0.003 0.111*** −0.026*** −0.035***  
+(0.003) (0.004) (0.003) (0.002) (0.003) 
+np4 −0.014*** 0.037*** −0.026*** 0.058*** −0.009***  
+(0.004) (0.004) (0.002) (0.003) (0.003) 
+np5 −0.112*** −0.081*** −0.035*** −0.009*** 0.492***  
+(0.004) (0.006) (0.003) (0.003) (0.007) 
+Interaction effects (bij)     
+ynp1 −0.034*** −0.002* 0.002*** −0.000 0.020***  
+(0.001) (0.001) (0.001) (0.001) (0.001) 
+ynp2 −0.002* −0.026*** −0.003*** −0.009*** 0.010***  
+(0.001) (0.002) (0.001) (0.001) (0.001) 
+ynp3 0.002*** −0.003*** −0.016*** 0.004*** 0.006***  
+(0.001) (0.001) (0.001) (0.000) (0.001) 
+ynp4 −0.000 −0.009*** 0.004*** −0.007*** 0.003***  
+(0.001) (0.001) (0.000) (0.001) (0.000) 
+ynp5 0.020*** 0.010*** 0.006*** 0.003*** −0.093***  
+(0.001) (0.001) (0.001) (0.000) (0.001) 
+Tenant 0.011*** −0.048*** −0.006*** 0.006*** 0.020***  
+(0.000) (0.001) (0.000) (0.000) (0.001) 
+(continued on next page) 
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+11
+
+[[PAGE 12]]
+Table A.5 (continued)        
+EASI      
+ws_food ws_housing ws_energy ws_transport ws_education  
+(mean) hdd −0.000*** −0.000*** −0.000*** −0.000*** −0.000***  
+(0.000) (0.000) (0.000) (0.000) (0.000) 
+constant 0.706*** −0.563** 1.171*** −1.167*** 0.901***  
+(0.157) (0.249) (0.116) (0.098) (0.263) 
+N 166,600     
+Household-specific price parameters are available from the authors upon request. The price of Others is used as the numeraire. We use the Stata routine developed in  
+Pendakur (2009) to estimate the EASI demand system. 
+⁎ p < 0.10. 
+⁎⁎ p < 0.05. 
+⁎⁎⁎ p < 0.01.  
+Table A.6 
+Social welfare for different policies (Inequity aversion: 0.2).          
+AI Δ AI in % EI Δ EI in % SW Δ SW in %  
+0 0.021 0.0000 7119.335 0.0000 6973.370 0.000 
+1 0.021 0.139 7111.333 −0.112 6965.328 −0.115 
+2 0.021 −0.099 7113.092 −0.088 6967.398 −0.086 
+3 0.021 −0.124 7112.187 −0.100 6966.549 −0.098 
+4 0.021 −0.029 7104.535 −0.208 6958.916 −0.207 
+5 0.021 −0.060 7105.220 −0.198 6959.630 −0.197 
+6 0.021 −0.080 7105.182 −0.199 6959.624 −0.197 
+AI: Atkinson's Index, EI: Equivalent income, SW: Social Welfare.  
+References 
+Bericht zur Flutkatastrophe 2013: Katastrophenhilfe, Entschädigung, Wiederaufbau. 
+Kabinettsbericht vom 04.09.2013, Federal Ministry of the Interior. 
+BfG, 2015. Wasserblick. Technical report, The German Federal Institute of Hydrology. 
+Bundesregierung, 2016. Fluthilfefonds 2013 und genereller umgang mit 
+unwetterschäden. Technical report, Bundesregierung. 
+GDV, 2017. Naturgefahrenreport 2017 die schaden-chronik der deutschen versicherer in 
+zahlen, stimmen und ereignissen. berlin, germany. Technical report, OECD/IEA. 
+Aaberge, R., Bhuller, M., Langørgen, A., Mogstad, M., 2010. The distributional impact of 
+public services when needs differ. J. Public Econ. 94 (9), 549–562. 
+Alfieri, L., Feyen, L., Dottori, F., Bianchi, A., 2015. Ensemble flood risk assessment in 
+Europe under high end climate scenarios. Glob. Environ. Chang. 35, 199–212. 
+Atkinson, A.B., 1970. On the measurement of inequality. J. Econ. Theory 2 (3), 244–263. 
+Baker, P., Blundell, R., Micklewright, J., 1989. Modelling household energy expenditures 
+using micro-data. Econ. J. 99 (397), 720–738. 
+Banks, J., Blundell, R., Lewbel, A., 1997. Quadratic Engel curves and consumer demand. 
+Rev. Econ. Stat. 79 (4), 527–539. 
+Bui, A.T., Dungey, M., Nguyen, C.V., Pham, T.P., 2014. The impact of natural disasters on 
+household income, expenditure, poverty and inequality: evidence from Vietnam. 
+Appl. Econ. 46 (15), 1751–1766. 
+Castellar, S., Kurnik, B., Jol, A., Mysiak, J., 2017. Climate change adaptation and disaster 
+risk reduction in Europe. European Environment Agency, EEA Report No 15/2017. 
+Cevik, S., Huang, G., 2018. How to Manage the Fiscal Costs of Natural Disasters. 
+International Monetary Fund. Fiscal Affairs Department. 
+Chancel, L., Piketty, T., 2015. Carbon and Inequality: From Kyoto to Paris.  (Paris School 
+of Economics). 
+Creedy, J., Sleeman, C., 2006. Carbon taxation, prices and welfare in New Zealand. Ecol. 
+Econ. 57 (3), 333–345. 
+Deaton, A., Muellbauer, J., 1980. An almost ideal demand system. Am. Econ. Rev. 70 (3), 
+312–326. 
+Dlugolecki, A., 2008. Climate change and the insurance sector. Geneva Papers Risk 
+Insurance. Issues Pract. 33 (1), 71–90. 
+Fullerton, D., West, S., 2000. Tax and subsidy combinations for the control of car pol-
+lution. Nat. Bureau Econ. Res. 7774
+. 
+Gruber, M., 2008. Alternative solutions for public and private catastrophe funding in 
+Austria. Nat. Hazards Earth Syst. Sci. 8 (4), 603–616. 
+Holub, M., Fuchs, S., 2008. Benefits of local structural protection to mitigate torrent- 
+related hazards. In: Brebbia, C.A., Beritatos, E. (Eds.), Risk analysis VI.WIT 
+Transactions on Information and Communication Technologies.  39. WIT Press, pp. 
+401–411. 
+Hudson, P., Botzen, W.W., Poussin, J., Poussin, J., Aerts, J.C., 2019. Impacts of flooding 
+and flood preparedness on subjective well-being: a monetisation of the tangible and 
+intangible impacts. J. Happiness Stud. 20, 665–682. 
+Jacobs, B., van der Ploeg, F., 2019. Redistribution and pollution taxes with non-linear 
+Engel curves. J. Environ. Econ. Manag. 95, 198–226. 
+Jongman, B., Hochrainer-Stigler, S., Feyen, L., Aerts, J., Mechler, R., Botzen, W.J.W., 
+Bouwer, L.M., Pflug, G., Rojas, R., Ward, P.J., 2014. Increasing stress on disaster-risk 
+finance due to large floods. Nat. Clim. Chang. 4 (1), 264–268. 
+Keerthiratne, S., Tol, R.S., 2018. Impact of natural disasters on income inequality in Sri 
+Lanka. World Dev. 105, 217–230. 
+Kind, J., Wouter Botzen, W., Aerts, J.C., 2017. Accounting for risk aversion, income 
+distribution and social welfare in cost-benefit analysis for flood risk management. 
+WIREs Climate Change 8 (2), e446. 
+King, M.A., 1983. Welfare analysis of tax reforms using household data. J. Public Econ. 21 
+(2), 183–214. 
+Klenert, D., Mattauch, L., Combet, E., Edenhofer, O., Hepburn, C., Rafaty, R., Stern, N., 
+2018. Making carbon pricing work for citizens. Nat. Clim. Chang. 8 (8), 669–677. 
+Kousky, C., Kunreuther, H., 2014. Addressing affordability in the national flood insurance 
+program. J. Extreme Events 01 (01), 1450001. 
+Labandeira, X., Labeaga, J., Rodriguez, M., 2006. A residential energy demand system for 
+Spain. Energy J. 27 (2), 87–112. 
+Leiter, A., Oberhofer, H., Raschky, P., 2009. Creative disasters? Flooding effects on ca
+-
+pital, labour and productivity within European firms. Environ. Resour. Econ. 43 (3), 
+333–350
+. 
+Lewbel, A., 1989. Identification and estimation of equivalence scales under weak separ-
+ability. Rev. Econ. Stud. 56 (2), 311–316
+. 
+Lewbel, A., Pendakur, K., 2009. Tricks with hicks: the EASI demand system. Am. Econ. 
+Rev. 99 (3), 827–863. 
+Masozera, M., Bailey, M., Kerchner, C., 2007. Distribution of impacts of natural disasters 
+across income groups: a case study of New Orleans. Ecol. Econ. 63 (2), 299–306. 
+McAneney, J., McAneney, D., Musulin, R., Walker, G., Crompton, R., 2016. Government- 
+sponsored natural disaster insurance pools: a view from down-under. Int. J. Disaster 
+Risk Red. 15, 1–9. 
+Miljkovic, T., Miljkovic, D., 2014. Modeling impact of hurricane damages on income 
+distribution in the coastal U.S. Int. J. Disaster Risk Sci. 5 (4), 265–273. 
+von Möllendorff, C., Hirschfeld, J., 2016. Measuring impacts of extreme weather events 
+using the life satisfaction approach. Ecol. Econ. 121, 108–116. 
+Nikodinoska, D., Schröder, C., 2016. On the emissions–inequality and emissions–welfare 
+trade-offs in energy taxation: evidence on the German car fuels tax. Resour. Energy 
+Econ. 44, 206–233. 
+Osberghaus, D., 2017. The effect of flood experience on household mitigation—evidence 
+from longitudinal and insurance data. Glob. Environ. Chang. 43, 126–136. 
+Osberghaus, D., Philippi, A., 2015. Klimawandel in deutschland: Risikowahrnehmung 
+und anpassung in privaten haushalten 2012 und 2014. 
+Pashardes, P., Pashourtidou, N., Zachariadis, T., 2014. Estimating welfare aspects of 
+changes in energy prices from preference heterogeneity. Energy Econ. 42 (C), 58–66. 
+Pendakur, K., 2009. EASI made easier. In: Slottje, D. (Ed.), Quantifying Consumer 
+Preferences, (Contributions in Economic Analysis Series). Emerald Group Publishing, 
+London, pp. 179–206. 
+Phaup, M., Kirschner, C., 2010. Budgeting for disasters: focusing on the good times. OECD 
+M.A. Tovar Reaños   
+Ecological Economics 180 (2021) 106879
+12
+
+[[PAGE 13]]
+J. Budg. 10 (1), 1–24. 
+Poterba, J.M., 1991. Is the gasoline tax regressive? Volume 5 of Tax Policy and the Economy. 
+The MIT Press. 
+Pothen, F., Tovar-Reaños, M.A., 2018. The distribution of material footprints in Germany. 
+Ecol. Econ. 153, 237–251. 
+Poussin, J.K., Botzen, W.W., Aerts, J.C., 2013. Stimulating flood damage mitigation 
+through insurance: an assessment of the french catnat system. Environ. Hazards 12 
+(3–4), 258–277. 
+Raschky, P.A., Weck-Hannemann, H., 2007. Charity hazard—a real hazard to natural 
+disaster insurance? Environ. Hazards 7, 321–329. 
+Sekulova, F., van den Bergh, J.C., 2013. Climate change, income and happiness: an em-
+pirical study for Barcelona. Glob. Environ. Chang. 23 (6), 1467–1475
+. 
+Sekulova, F., van den Bergh, J.C., 2016. Floods and happiness: empirical evidence from 
+Bulgaria. Ecol. Econ. 126, 51–57. 
+Sommer, M., Kratena, K., 2017. The carbon footprint of European households and income 
+distribution. Ecol. Econ. 136, 62–72. 
+Surminski, S., Thieken, A.H., 2017. Promoting flood risk reduction: the role of insurance 
+in Germany and England. Earth Future 5 (10), 979–1001. 
+Tovar-Reaños, M.A., Wölfing, N.M., 2018. Household energy prices and inequality: evi-
+dence from German microdata based on the EASI demand system. Energy Econ. 70, 
+84–97
+. 
+Unterberger, C., Hudson, P., Botzen, W.W., Schroeer, K., Steininger, K.W., 2019. Future 
+public sector flood risk and risk sharing arrangements: an assessment for Austria. 
+Ecol. Econ. 156, 153–163. 
+de Villemeur, E.B., Leroux, J., 2019. Tradable climate liabilities: a thought experiment. 
+Ecol. Econ. 164, 106355. 
+Warr, P., Aung, L.L., 2019. Poverty and inequality impact of a natural disaster: Myanmar’s 
+2008 cyclone Nargis. World Dev. 122, 446–461. 
+West, S.E., 2004. Distributional effects of alternative vehicle pollution control policies. J. 
+Public Econ. 88 (3–4), 735–757. 
+West, S.E., 2005. Equity implications of vehicle emissions taxes. J. Trans. Econ. Policy 39 
+(1), 1–24. 
+Yamamura, E., 2015. The impact of natural disasters on income inequality: analysis using 
+panel data during the period 1970 to 2004. Int. Econ. J. 29 (3), 359–374. 
+Yun, S.D., Waldorf, B.S., 2016. The day after the disaster: forced migration and income 
+loss after hurricanes Katrina and Rita. J. Reg. Sci. 56 (3), 420–441.  
+M.A. Tovar Reaños   Ecological Economics 180 (2021) 106879
+13

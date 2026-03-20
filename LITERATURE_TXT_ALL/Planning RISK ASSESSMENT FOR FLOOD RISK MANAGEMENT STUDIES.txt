@@ -1,0 +1,1794 @@
+[[PAGE 1]]
+ 
+     
+   
+  
+  
+ 
+ 
+   
+ 
+   
+  
+   
+   
+   
+   
+   
+   
+   
+    
+   
+    
+ 
+     
+ 
+    
+    
+   
+    
+    
+    
+   
+ 
+    
+   
+   
+   
+   
+   
+ 
+DEPA
+RTMENT OF THE ARMY ER 1105-2-101 
+U.S. Army Corps of Engineers 
+CECW-CP Washington, DC  20314-1000 
+CECW-CE 
+Regulation 
+No. 1105-2-101 15 July 2019 
+Planning 
+RISK ASSESSMENT FOR FLOOD RISK MANAGEMENT STUDIES 
+TABLE OF CONTENTS 
+Paragraph Page 
+1. Purpose ......................................................................................................................1 
+2. Applicability..............................................................................................................1 
+3. Distribution Statement...............................................................................................1 
+4. References .................................................................................................................1 
+5. Context ......................................................................................................................2 
+6. Background ...............................................................................................................3 
+7. Variables in a Risk Assessment.................................................................................5 
+8. Policy and Required Procedures................................................................................6 
+9. Example Displays of Risk Assessment Results ......................................................11 
+Appendixes 
+Appendix A: Example Displays of Project Engineering and Economic Performance..................13 
+Table List 
+Table 1: Project Performance; AEP, Long Term Exceedance Probability and Assurance ...11 
+Table A1: Expected value and probabilistic values of EAD and EAD reduced ......................12 
+Table A2: Expected value and probabilistic values of costs ....................................................13 
+Table A3: Performance described by AEP and LTEP .............................................................15 
+Table A4: Performance described by AEP and LTEP (alternative display) ............................15 
+Table A5: Probability comparison............................................................................................17 
+Table A6: Life Loss..................................................................................................................19 
+Figure List 
+Figure 1: Risk conceptualized...................................................................................................4 
+Figure A1: Expected value and probabilistic values for net benefits ........................................13 
+Figure A2: Expected value and probabilistic values for Benefit/Cost Ratios ...........................14 
+Figure A3: AEP uncertainty ......................................................................................................16 
+Figure A4: Assurance (also CNP) .............................................................................................18 
+Figure A5: Example scenario ....................................................................................................19 
+Glossary 
+ER
+ 1105-2-101 ● 15 July 2019 i 
+
+[[PAGE 2]]
+ 
+    
+ 
+ THIS PAGE IS LEFT BLANK INTENTIONALLY 
+ER 1105-2-101 ● 15 July 2019 ii 
+
+[[PAGE 3]]
+ 
+     
+   
+  
+      
+    
+  
+   
+    
+ 
+ 
+       
+   
+   
+   
+    
+   
+      
+ 
+     
+ 
+  
+      
+ 
+      
+ 
+     
+   
+      
+ 
+   
+ 
+ 
+1. Purpose. This regulation provides guidance on risk assessment requirements for flood 
+management studies including but not limited to feasibility studies, post-authorization changes, 
+general reevaluation studies, dam and levee safety studies, and major rehabilitation studies.  This 
+regulation is jointly promulgated by Planning and Engineering. The risk framework is a 
+decision-making process that comprises three tasks: risk assessment, risk communication, and 
+risk management, which can be advantageously applied to a variety of water resources 
+management problems. These requirements are part of a broader decision-making process that 
+includes similar assessments for risks to the natural environment as well as the social and 
+cultural well-being of people potentially impacted by flood management activities. 
+2. Applicability. This regulation is applicable to all U.S. Army Corps of Engineers 
+Headquarters (HQUSACE) elements, major subordinate commands, districts, laboratories, and 
+field operating agencies having civil works responsibilities.  This regulation applies to all 
+implementation studies for flood risk management projects: riverine and coastal. 
+3. Distribution Statement. Approved for public release, distribution is unlimited. 
+4. References. 
+a. Engineer Regulation (ER) 5-1-11, U.S. Army Corps of Engineers Business Process. 
+(https://www.publications.usace.army.mil/USACE-Publications/Engineer-Regulations/) 
+b. ER 1105-2-100, Guidance for Conducting Civil Works Planning Studies. 
+(https://www.publications.usace.army.mil/USACE-Publications/Engineer-Regulations/) 
+c. ER 1110-2-401, Operation, Maintenance, Repair, Replacement, and Rehabilitation 
+Manual for Projects and Separable Elements Managed by Project Sponsors. 
+(https://www.publications.usace.army.mil/USACE-Publications/Engineer-Regulations/) 
+d. ER 1110-2-1156, Safety of Dams – Policy and Procedures. 
+(https://www.publications.usace.army.mil/USACE-Publications/Engineer-Regulations/) 
+e. Engineer Manual (EM) 1110-2-1619, Risk Assessment for Flood Risk Management 
+Studies. (https://www.publications.usace.army.mil/USACE-Publications/Engineer-Manuals/) 
+f. Engineer Pamphlet (EP) 1110-2-8, Explaining Flood Risk. 
+(https://www.publications.usace.army.mil/USACE-Publications/Engineer-Pamphlets/) 
+g. Specific Measurable Attainable Risk Informed Timely (SMART) Planning Guide 
+(https://planning.erdc.dren.mil/toolbox/smart.cfm) 
+*This regulation supersedes ER 1105-2-101 dated 17 July 2017. 
+ER 1105-2-101 ● 15 July 2019 1 
+
+[[PAGE 4]]
+ 
+    
+       
+   
+ 
+    
+      
+ 
+  
+   
+    
+    
+    
+  
+ 
+   
+ 
+        
+   
+ 
+      
+   
+  
+   
+     
+    
+    
+  
+  
+ 
+     
+       
+      
+      
+    
+   
+          
+    
+h. U.S. Army Corps of Engineers (USACE), Hydrologic Engineering Center, 2010. “Flood 
+Damage Reduction Analysis (HEC-FDA),” Version 1.2.5.  Davis, CA. 
+(http://www.hec.usace.army.mil/software/hec-fda/) 
+i. National Research Council, 1995. “Flood Risk Management and the American River 
+Basin: An Evaluation.” Washington, DC: National Academy Press. 
+(https://www.nap.edu/catalog/4969/flood-risk-management-and-the-american-river-basin-an-
+evaluation) 
+j. “Transforming the Corps into a Risk Managing Organization,” 26 November 2007.  
+Contributing Authors:  Dr. David Moser, USACE, Institute for Water Resources; Todd Bridges, 
+USACE, Engineer Research and Development Center; Steven Cone, USACE, Institute for Water 
+Resources; Yacov Haimes, University of Virginia; Brian K. Harper, USACE, Institute for Water 
+Resources; Leonard Shabman, Resources for the Future; and Dr. Charles Yoe, College of Notre 
+Dame. 
+(http://www.corpsriskanalysisgateway.us/data/docs/ref/Explore%20Resources/IWR%20Reports/W 
+hite_Paper-Transforming_the_Corps_into_a_Risk_Managing_Org.pdf) 
+k. “USACE Resilience Initiative Roadmap 2016,” 16 May 2016. 
+(http://cdm16021.contentdm.oclc.org/cdm/ref/collection/p16021coll6/id/1617#img_view_containe 
+r) 
+l. U.S. Army Corps of Engineers, Risk Management Center, Best Practices in Dam and 
+Levee Safety Risk Analysis. (https://www.usbr.gov/ssle/damsafety/risk/BestPractices/Chapters/I-
+0-20150612.pdf) 
+5. Context. Since the enactment of the Flood Control Act of 1917, USACE has played a 
+significant federal role in managing flood risk nationwide. Flood risk management is the process 
+of identifying, evaluating, selecting, implementing, monitoring, and modifying actions taken to 
+reduce and manage risk through shared responsibilities.  Scientifically sound, cost-effective, 
+integrated actions are taken to achieve flood risk management. Social, cultural, ethical, 
+environmental, fiscal, political, and legal considerations are accounted for in the process. Still, 
+USACE recognizes that more needs to be done to assess, manage, and communicate flood risks. 
+In 2006, USACE established the National Flood Risk Management Program to advance the goals 
+of flood risk identification, communication, response, and management services across all levels 
+of government to save lives and reduce property damage in the event of floods and coastal 
+storms. All flood risk managers must balance the insights of USACE’s professional staff with 
+stakeholder concerns for such matters as residual risks, life safety, reliability, resiliency, and cost 
+while acknowledging that no single solution will meet all objectives, and tradeoffs must always 
+be made. Resilience is inherent to flood risk management, and it is the overall ability to 
+anticipate, prepare for, and adapt to changing conditions and withstand, respond to, and recover 
+from adverse events, including the ability to avoid, minimize, withstand, and recover from the 
+adverse effects of a flood. Resilience also refers to the capacity or ability of a project or system 
+to absorb disturbance and still retain its basic function and structure. For example, project 
+ER 1105-2-101 ● 15 July 2019 2 
+
+[[PAGE 5]]
+ 
+     
+    
+    
+   
+  
+    
+     
+    
+    
+   
+  
+      
+  
+  
+   
+     
+   
+     
+    
+     
+     
+    
+     
+    
+    
+      
+ 
+        
+    
+   
+  
+     
+  
+  
+     
+    
+    
+    
+       
+ 
+  
+resilience measures for a levee embankment can be provided by various forms of surface 
+hardening, armoring, or resistance to overtopping scour. These measures provide a higher 
+degree of predictability for levee performance. 
+6. Background. 
+a. No project or action that is proposed, evaluated, adopted, and implemented can 
+completely eliminate or mitigate flood risks. Further, the information used to estimate flood risk, 
+formulate and evaluate plans, and determine the results of the analyses is uncertain. All measured 
+or estimated values in project development are to various degrees inaccurate— reflecting both 
+inherent natural variability in flooding phenomena (e.g., cyclical rainfall patterns) and lack of 
+knowledge in estimating various parameters (e.g., estimation of Manning’s n-value) relevant to 
+project works and their performance.  Pursuing the management of flood risk within the risk 
+framework is an explicit means of better understanding both the flooding and associated 
+consequences, and the uncertainty in their estimation, and thus should support development of 
+robust strategies for managing flood risk. 
+b. The risk framework is a decision-making process that comprises three tasks: risk 
+assessment, risk communication, and risk management.  Risk assessment is a systematic approach 
+for describing the nature of the flood risk, including the likelihood and severity of consequences. 
+Risk assessments are quantitative whenever possible; however, qualitative assessments may be 
+appropriate for some activities. Risk assessment includes explicit acknowledgment of the 
+uncertainties in the parameters used to compute risk. Risk management is a decision-making 
+process in which risk-reducing and resilience-increasing actions are identified, evaluated, 
+implemented, and monitored. The purpose of risk management is to take actions to effectively 
+reduce and manage risks identified in the risk assessment. Risk communication is a collaborative 
+exchange of information among the risk assessors and those who will use the risk assessment 
+results and/or those who are affected by the risks and risk management actions.  Open 
+communication improves the understanding of the risks by all parties, and leads to improved risk 
+assessments and risk management decisions and outcomes. Documenting the results of a risk 
+assessment framework is an important part of the process, and examples are included in Appendix 
+A. Clearly presenting the findings of the risk assessment will help inform discussions with 
+sponsors, stakeholders, and others; however, documentation alone will not fully convey the highly 
+technical nature of risk assessment results. Open dialogue will likely be required to ensure a 
+sufficient and common understanding of the risk assessment and mitigation options leading to the 
+selection of most appropriate actions. 
+c. A risk framework process can be advantageously applied to a variety of water resources 
+management problems, including those involving flooding.  The approach captures and quantifies 
+the extent of the risk and uncertainty in the various project development components of an 
+investment decision.  The total effect of uncertainty on the project formulation and consequent 
+performance related to life safety, economic, social, and environmental concerns can be examined 
+and conscious decisions made reflecting an explicit tradeoff between risks, performance, and costs.  
+Risk assessments can be used to compare plans in terms of their physical performance, economic 
+ER 1105-2-101 ● 15 July 2019 3 
+
+[[PAGE 6]]
+ 
+    
+ 
+ 
+    
+        
+    
+   
+   
+ 
+      
+      
+  
+   
+    
+     
+         
+    
+    
+     
+ 
+   
+      
+  
+      
+       
+       
+    
+  
+  
+success, residual risks, and impacts to life, health, and the environment, including their 
+uncertainties. 
+d. Budget constraints for plan selection, increased partner cost-sharing, the public’s interest 
+in project performance, and concern for life safety as well as social and environmental matters 
+must be addressed in the analysis of federal water resources investments.  Explicit consideration of 
+risk and uncertainty can help address these issues and improve investment decisions. 
+e. Risk is broadly defined as a situation or event where something of value is at stake and its 
+gain or loss is uncertain.  Risk is typically expressed as a combination of the likelihood and 
+consequence of an event. Consequences are measured in terms of harm to people, cost, time, 
+environmental harm, property damage, and other metrics. Choosing the appropriate risk metrics 
+and actively using them in decision-making is critical to effective risk management in support of a 
+vibrant economy, thriving ecosystems, and sustainable communities. Flood risk considers 
+explicitly the performance consequences of subjecting people and property to the entire range of 
+likely flood events, given risk management provided by any structural or non-structural measures. 
+One commonly used metric of economic risk is expected annual damage (EAD) or average annual 
+equivalent damage when computed on an annual basis over the period of analysis. 
+f. Flood risk can be conceptualized as a function of the hazard, performance, exposure, 
+vulnerability, and consequences as depicted in Figure 1. 
+Figure 1: Risk conceptualized 
+(1) The “hazard” is what causes the harm: in this case, a flood. The flood hazard is described 
+in terms of frequency, stage, velocity, extent, and depth. 
+(2) “Performance” is the system’s reaction to the hazard. In Figure 1, performance refers to 
+the system features and the capability to contain/manage the flood hazard for the full range of 
+possible events and as a single event or load. In this regulation, this would be termed “system 
+performance.” Performance also refers to the metric that describes the capability of the system to 
+accommodate a single event (Assurance; also Conditional Non-exceedance Probability, CNP) and 
+the full range of events: Annual Exceedance Probability (AEP) and Long-Term Exceedance 
+ER 1105-2-101 ● 15 July 2019 4 
+
+[[PAGE 7]]
+ 
+     
+         
+     
+    
+    
+      
+  
+       
+     
+         
+    
+      
+    
+    
+      
+    
+    
+      
+   
+  
+      
+ 
+  
+   
+   
+    
+    
+      
+      
+   
+   
+  
+  
+    
+     
+        
+Probability (LTEP). There are other definitions of performance in addition to system performance. 
+Performance can also be described by levee breach from loading below the top of levee probability 
+functions, the interior-exterior functions for leveed areas, unregulated-regulated transforms for 
+reservoirs and diversions, and elevation-discharge functions (rating curves) for channels. These 
+also would be considered “system performance.” When the structural integrity of a system or 
+system component is discussed, such as the fragility function, the reference would be termed 
+“structural performance.” When the economics of a system are discussed, the reference would be 
+termed “economic performance” as expressed by EAD and EAD reduced. 
+(3) “Exposure” describes who and what may be harmed by the flood hazard. Exposure 
+incorporates a description of where the flooding occurs at a given frequency and what exists in that 
+area. Tools such as flood inundation maps provide information on the extent and depth of 
+flooding; structure inventories, population data, crop data, and habitat acreage provide information 
+on the population and property that may be affected by the flood hazard. 
+(4) “Vulnerability” is the susceptibility to harm human beings, property, and the 
+environment when exposed to the hazard. Depth-damage functions, depth-mortality functions, and 
+other similar relationships can be used to describe vulnerability. 
+(5) “Consequence” is the harm that results from a single occurrence of the hazard. 
+Consequences are measured in terms of metrics such as economic damage, acreage of habitat lost, 
+value of crops damaged, and lives lost. 
+(6) “Economic risk” is the combination of likelihood and harm to property, infrastructure, 
+and other assets as well as economic systems (all measured in monetary terms). A common metric 
+of economic risk is EAD. 
+(7) “Life loss consequence” is the determination of the population at risk and the estimated 
+statistical life loss. 
+7. Variables in a Risk Assessment. 
+a. The true values of variables and parameters are recognized as important to project 
+development decisions, are frequently not known with certainty, and can take on a range of values.  
+The likelihood of a quantity or parameter taking on a particular value can be described by a 
+probability distribution and the probability distribution may be described by its own parameters, 
+such as mean and variance for a normal distribution. Quantitative risk assessment combines the 
+information about the parameters with underlying uncertainty information within a computational 
+model so that the engineering performance and associated consequences are determined on a 
+statistical basis represented by a probability distribution. Consequences of interest include 
+potential for life loss and economic losses and environmental impacts of a proposed project. 
+b. A variety of variables and their associated uncertainties may be incorporated into the risk 
+assessment of a flood risk management study. For example, economic variables in an urban 
+ER 1105-2-101 ● 15 July 2019 5 
+
+[[PAGE 8]]
+ 
+    
+   
+   
+     
+    
+      
+     
+    
+   
+    
+       
+   
+   
+      
+ 
+  
+   
+    
+   
+    
+        
+       
+    
+  
+  
+       
+   
+      
+     
+   
+      
+  
+  
+      
+       
+      
+   
+   
+    
+   
+      
+      
+situation may include, but are not necessarily limited to depth-damage curves, structure values, 
+content values, structure first-floor elevations, structure types, flood warning times, and flood 
+evacuation effectiveness. Uncertainties in economic variables include building valuations, inexact 
+knowledge of structure type or of actual contents, method of determining first-floor elevations, or 
+timing of initiation of flood warnings. Other key variables and associated uncertainties include the 
+hydrologic and hydraulic conditions of the system. Uncertainties related to changing climate 
+should be addressed using the current USACE policy and technical guidance. Uncertainty in the 
+likelihood of particular discharge and stage exists because record lengths are often short or do not 
+exist where needed, and the effectiveness of flood flow regulation measures is not precisely 
+known. Uncertainty in discharge also comes from estimation of parameters used in rainfall runoff 
+computations, such as precipitation and infiltration. Examples of uncertainty factors that affect 
+stage might include conveyance roughness, cross-section geometry, debris accumulation, ice 
+effects, sediment transport, flow regime, and bed form. Uncertainty factors that affect the safety of 
+human life include the number of routes of egress, time of day, distance to dry land, water 
+temperature, number of multi-storied structures, demographics, and the existence and adherence to 
+an emergency action plan. Not all variables are critical to project justification in every instance. 
+To achieve the ultimate goal, the risk assessment and study effort should concentrate on the 
+uncertainties of those variables having a significant impact on study conclusions and 
+recommendations. SMART Planning Principles (Reference 4g) promotes balancing the level of 
+uncertainty and risk with the level of detail of the study. The level of detail required to make 
+planning decisions will grow over the course of the study, as the study team moves from an array 
+of alternatives to a single recommended alternative. For technical details on how to address these 
+uncertainties, see Reference 4b. 
+8. Policy and Required Procedures. 
+a. All flood risk management studies will adopt the risk framework as described herein.  
+The risk framework approach and results of a risk assessment will be documented in the principal 
+decision document. The types of documents involved include but are not limited to: feasibility 
+reports, general and limited reevaluation reports, and project modification impact reports including 
+water control manuals that reallocate storage requiring reauthorization, and design documentation 
+reports. Project Management Plans (PMPs) will describe the methods to be used to quantify the 
+uncertainties of the key variables, parameters, and components and the approach to combining 
+these uncertainties into higher-level measures for determining overall engineering performance, 
+life loss, and economic and environmental consequences (Reference 4b).  In developing the PMP 
+for a proposed feasibility study, the level of detail of a risk assessment will be developed to the task 
+level and included in the PMP. In cases where a general reevaluation report is proposed and where 
+deterministic assumptions including standard superiority assumptions or other engineering 
+standards were used that are critical to sizing and/or performance of project features, a 
+reformulation of the project using a risk assessment, as described in this regulation, will be 
+undertaken to determine the appropriate project for construction recommendation. 
+b. The ultimate goal of a risk assessment is a comprehensive approach in which the values 
+of all key variables, parameters, and components of flood risk management studies are subject to 
+ER 1105-2-101 ● 15 July 2019 6 
+
+[[PAGE 9]]
+ 
+     
+    
+      
+  
+    
+    
+ 
+     
+    
+    
+  
+     
+  
+    
+   
+ 
+    
+   
+     
+    
+  
+ 
+  
+ 
+    
+    
+  
+      
+ 
+   
+  
+     
+       
+      
+     
+   
+probabilistic analysis.  Not all variables are critical to project justification in every instance. To 
+achieve the ultimate goal, the risk assessment and study effort should evaluate the impact of 
+various variables and their uncertainties, and concentrate on the variables having a significant 
+impact on study conclusions.  When a more detailed assessment is required, at a minimum 
+uncertainty in the following variables and relationships must be explicitly incorporated in the risk 
+assessment: 
+(1) Stage-damage functions from economic studies (with emphasis on structure first-floor 
+elevation, depth-percent damage relationships, and content and structure values for urban studies). 
+For studies in agriculture areas, other variables (e.g., time of year, crop type, costs of production) 
+will be key and should be used in the economic analysis. 
+(2) Discharge-frequency functions from hydrologic studies (with emphasis on the record 
+length or hydrologic modeling parameters). 
+(3) Stage-frequency functions from hydrologic/hydraulic studies (with emphasis on the 
+record length). A stage-frequency analysis may be used when stage gage data is all that is 
+available for a study and/or when there is no unique correspondence between flow and stage such 
+as in locations highly controlled by backwater or tidal conditions or in the case of ice jam floods. 
+Care should be taken in using this approach because in current analysis practice all uncertainties 
+are collapsed into a single uncertainty as defined by the period of record. 
+(4) Regulated-unregulated transform function from reservoir regulation studies (with 
+emphasis on operational uncertainties, inflow hydrographs, and rating uncertainties of outlet 
+works). 
+(5) Stage-discharge functions from hydraulic studies (with emphasis on conveyance 
+roughness and cross-section geometry). 
+(6) Stage-probability of failure or unsatisfactory performance functions (fragility curves, 
+system performance probability curves) for mechanical, electrical, structural, and geotechnical 
+performance of structures as defined in latest guidance. 
+(7) Stage-life loss function from life safety studies (with emphasis on rate and depth of 
+flooding, population at risk, and emergency response plans). 
+(8) Stage-environmental impact considerations (emphasis on the key ecological and other 
+factors impacting the environment). 
+c. Consistent with the Principles and Guidelines the National Economic Development 
+(NED) Plan must be identified. The NED Plan is the alternative plan that reasonably maximizes 
+net economic benefits consistent with protecting the nation’s environment. NED will be calculated 
+explicitly including uncertainties in the key variables specified in the risk register. Consideration 
+of increments in project scale different from the NED Plan, as well as other plans preferred by the 
+ER 1105-2-101 ● 15 July 2019 7 
+
+[[PAGE 10]]
+ 
+    
+    
+   
+       
+      
+       
+ 
+     
+        
+      
+    
+   
+     
+       
+     
+   
+      
+     
+     
+  
+    
+    
+ 
+    
+      
+   
+     
+ 
+      
+      
+ 
+    
+       
+       
+    
+cost-sharing sponsor, may be considered. Flood risk management actions may be part of multi-
+objective plans as described in Reference 4b. 
+d. The estimate of net NED benefits and benefit/cost (B/C) ratio will be reported both as an 
+expected (mean) value and on a probabilistic basis for each alternative. The probability that net 
+benefits are positive and that the B/C ratio is at or above one (1.0) will be presented for each 
+alternative. 
+e. The flood risk management performance of a plan will be presented for the system as a 
+whole over the plan’s given lifecycle and for each component that makes up that system. 
+Typically, the system performance will reflect that of the “weakest” component. Reporting the 
+performance of individual components may assist in the selection of future risk reduction 
+measures, although consequences should be considered in these decisions as well. The risk 
+assessment will quantify the performance, resilience, and risk of all scales of all alternatives 
+considered in formulating the recommendation. The assessment will evaluate and report residual 
+risk, which includes consequences of project performance or capacity exceedance. This 
+assessment requires explicit consideration of the joint effects of the uncertainties associated with 
+key hydrologic, hydraulic, and geotechnical variables and character of floodplain occupancy. This 
+performance will be reported in the following ways (see glossary for definition of terms): 
+(1) AEP (metric, value, and designation of with/without performance) with associated 
+description of uncertainty. 
+(2) LTEP over 10, 30, and 50 years. 
+(3) Assurance (also CNP) for the 0.2, 0.1, 0.02, 0.01, 0.004, and 0.002 events. Assurance 
+can be computed using either a discharge-frequency or stage-frequency function. 
+(4) The Assurance (also CNP) for specific historic floods. 
+(5) Economic average annual and single event damage, potential life loss, and environmental 
+conditions and impacts as required by ER 1105-2-100 (Reference 4b). 
+(6) Qualitative and quantitative statement of residual, transformed, and/or transferred risk 
+(paragraph 8g). 
+f. An assessment of potential life loss, economic, and environmental damage for the 
+without condition, along with all proposed alternatives is required. For studies where life loss 
+plays a significant role in formulating and evaluating alternatives, and selecting the recommended 
+plan, a quantitative assessment of life loss will be performed using accepted USACE methods and 
+tools. As with the economic damage assessment, explicit consideration of the effects of the 
+uncertainties associated with key input variables is required. Key input variables in the life loss 
+estimate include, but are not limited to: warning time, warning effectiveness (both how quickly a 
+ER 1105-2-101 ● 15 July 2019 8 
+
+[[PAGE 11]]
+ 
+     
+ 
+    
+    
+        
+    
+  
+     
+      
+          
+    
+  
+   
+      
+   
+   
+   
+     
+    
+   
+     
+     
+     
+    
+    
+     
+    
+  
+     
+   
+     
+   
+    
+          
+        
+      
+        
+   
+    
+    
+    
+   
+warning spreads among the population at risk (PAR) as well as the response to a warning by PAR), 
+flood arrival time, and fatality rate thresholds. 
+g. The probability distribution of residual flood damage and other relevant aspects of 
+residual risks (transformed or transferred) will also be displayed. Residual flood risk is the flood 
+risk that remains after a proposed flood risk management project is implemented. Residual risk 
+includes the consequence of capacity exceedance as well as consideration of project performance, 
+robustness, and resiliency. Transformed risk is a risk that emerges or increases as a result of 
+mitigating another risk. Conceptually, a transferred risk relocates risk or increases risk from 
+Region A of a system to Region B of the system as a result of action taken in Region A. T he 
+nature of the risk of flooding is different with a levee versus without a levee. A levee reduces the 
+likelihood that existing improved property will be flooded but can often encourage new 
+development, which can lead to an overall increase in risk if not managed effectively through 
+proper land use and building codes. A levee may transform the flood risk from gradual and 
+observable long before action is necessary to sudden and catastrophic. The residual risk, including 
+transformed and/or transferred, will be reported as the expected annual probability of each 
+alternative being exceeded with consideration of unsatisfactory project performance and the 
+associated consequences. For comparison, the without-project risk in terms of the annual 
+probability of flood damage occurring and the annual probability of other property hazards (fire, 
+wind, etc.) will be displayed. To aid this display and to improve the understanding of the residual 
+risk, inundation maps will be provided showing flood depths should the project be exceeded. A 
+narrative scenario for events that result in flooding will be provided (see Figure A-5 for an 
+example). An emergency action plan or community preparedness plan should also be presented as 
+required by ER 1110-2-401 (Reference 4c). The impacts to residual human health, safety risks, 
+and the environment should be discussed. Both the inundation map and the narrative scenario will 
+be provided for each alternative considered for final selection. 
+h. All project increments comprise different risk management alternatives represented by 
+the tradeoffs among engineering performance, project cost, economic and environmental 
+resilience, and life loss consequences. These increments contain differences in flood damage 
+reduced, residual risk, local and federal project cost, impacts to the environment, and life loss. 
+USACE must effectively communicate to local sponsors and residents so they understand these 
+tradeoffs and can participate fully in informing the decision-making process. 
+i. Many existing USACE projects were authorized and/or designed to the Standard Project 
+Flood (SPF). The SPF is defined in several legacy ER and EM guidance documents, but the SPF is 
+no longer a design target. USACE policy (Reference 4b) states that risk analysis (now risk 
+framework) is to be used, to include the evaluation of a full range of floods (including those that 
+would exceed the SPF) that will be used in the formulation and evaluation of alternatives. 
+Comparing performance of the NED Plan and other candidate plans, given the occurrence of the 
+SPF event, (a rare but historically understood flood event) can play a useful role in the assessment 
+of residual risks to inform the decision-making process. As a consequence, while current guidance 
+on project formulation and alternative selection governs, the SPF may have a useful role for 
+evaluating residual risks, for comparing new project proposals with nearby existing projects that 
+ER 1105-2-101 ● 15 July 2019 9 
+
+[[PAGE 12]]
+ 
+    
+    
+ 
+  
+    
+      
+       
+   
+     
+  
+      
+ 
+        
+   
+    
+     
+       
+    
+   
+     
+       
+     
+     
+   
+  
+     
+      
+   
+     
+    
+    
+    
+    
+      
+   
+ 
+were based on the SPF, and as a check and validation of floods computed from statistical 
+frequency analysis. 
+j. Special Guidance. 
+(1) The use of explicit freeboard or similar buffers to account for hydrologic, hydraulic, 
+geotechnical, and other uncertainties will no longer be used for levee planning and design. 
+Similarly, the use of freeboard to account for the same uncertainties will no longer be used in 
+channel planning and design. 
+(2) Risk assessments for dams and levees must also follow other applicable USACE policy 
+guidelines, such as Reference 4d. 
+(3) Evaluation of a levee system for the National Flood Insurance Program must follow 
+current USACE policy and guidelines. 
+(4) Project performance will be described by AEP (metric, value, and description of with/ 
+without performance) with uncertainty, Assurance (also CNP), and LTEP.  The array of all 
+performance indices should be displayed on a system-wide basis and on individual components 
+that make up the system. EP 1110-2-8 (Reference 4f) describes techniques in effectively 
+communicating flood risk to local officials and the public. A legacy term, Level of Protection 
+(LOP) was used as a performance index and a levee design concept that was founded on the 
+principle of providing a high degree of Assurance that the levee system component would neither 
+breach nor overtop when loaded with a specific recurrence interval flood (e.g., providing a 75-year 
+LOP if it could contain that event with 90 percent level of Assurance). The recurrence interval of 
+the flood hazard for this design principle was then used as an expression of the performance of the 
+levee system. The term is no longer used as it did not include residual risk or structural 
+performance. LOP should not be used to judge a set of alternatives or to target a specific project 
+size. 
+(5) Economic analyses will compute the NED Plan utilizing benefits at the mean of the 
+probability distribution consistent with ER 1105-2-100. Once the NED (or other Federally 
+Recommended Plan) has been identified, project performance will be communicated in multiple 
+ways, including but not limited to: AEP, LTEP, and Assurance (CNP) over a variety of flood 
+events as shown in the Table 1, to include at least the 2%, 1%, and 0.4% annual exceedance events. 
+When it is necessary to communicate performance in simpler terms for this plan, then the 
+exceedance probability at which the project performs with 90% Assurance must be used in 
+feasibility, design, and in communications with the public.  Performance for a project having the 
+example data in Table 1 may be communicated as: “Given irreducible uncertainties inherent in 
+flood frequency analysis, the NED Plan will pass the 2% event with 90% assurance.” This is 
+consistent with standard engineering practice and with the risk expectations of the public. 
+ER 1105-2-101 ● 15 July 2019 10 
+
+[[PAGE 13]]
+
+
+[[PAGE 14]]
+ 
+    
+ 
+  
+ 
+  
+      
+   
+   
+    
+  
+   
+ 
+  
+ 
+     
+   
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+    
+        
+        
+        
+        
+        
+        
+                     
+     
+ 
+Appendix A 
+Example Displays of Project Engineering and Economic Performance 
+Results from Risk Assessment 
+To report probabilistic outputs, a selection of these tables and figures, along with an 
+accompanying textual explanation, should be chosen to communicate uncertainty information.  
+This information can be useful in aiding decisions by local sponsors, stakeholders, and Federal 
+officials by helping to increase their understanding of the uncertainty inherent in each alternative. 
+A-1. Table A1 contains the EAD for the without-project condition and the with-project 
+condition for each alternative.  The computed values of EAD are uncertain, and their probability 
+distributions, resulting from the risk and uncertainty assessment described in this ER, are 
+represented in various ways.  The values of EAD reported are each the mean of the probability 
+(uncertainty) distribution of that alternative.  The damage reduced (without-project minus with-
+project EAD) is reported with more information about its probability (uncertainty) distribution. 
+In addition to the mean, the standard deviation and the quartiles of the distribution are included.  
+The standard deviation describes the width of the probability distribution.  The quartiles are the 
+values of the probability distribution with cumulative probabilities of 25, 50, and 75 percent— 
+meaning there is the specified likelihood that the value will be greater than the quartile, so these 
+values describe both the width and the asymmetry of the probability distribution.  There is a 50 
+percent chance that the actual value of damage reduced is between the 0.25 and 0.75 quartiles.  
+The 0.5 quartile is the median estimate, meaning there is a 50 percent chance the actual value is 
+greater, and 50 percent chance it is less.  The median differs from the mean when the probability 
+distribution is asymmetrical. 
+Table A1 
+Expected value and probabilistic values of EAD and EAD reduced 
+Alternati ve 
+EAD 
+($1,000) 
+Damage Reduced 
+($1,000) 
+Uncertainty in EAD Reduced; 
+Probability Distribution 
+Quartiles ($1,000) 
+Without 
+Alternative 
+With 
+Alternative Mean 
+Standard 
+Deviation 0.75 0.50* 0.25 
+20-ft (6-m) levee 575 220 355 57 316 353 393 
+25-ft (8-m) levee 575 75 500 77 451 503 555 
+30-ft (9-m) levee 575 5 570 98 502 573 626 
+Channel 575 200 375 65 328 370 415 
+Detention basin 575 250 325 93 263 325 388 
+Relocation 575 220 355 61 313 353 396 
+* The 0.5 quartile is the median estimate; it differs from the mean when the probability distribution is asymmetrical. 
+A-2. Table A2 provides the same information about annual cost as Table A1 provides for 
+damage reduced. 
+ER 1105-2-101 ● 15 July 2019 12 
+
+[[PAGE 15]]
+ 
+     
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+    
+      
+      
+      
+      
+      
+      
+    
+  
+     
+    
+   
+    
+    
+ 
+     
+Table A2 
+Expected value and probabilistic values of costs 
+Alternative 
+Annual Cost 
+($1000) 
+Uncertainty in Cost; 
+Probability Distribution Quartiles ($1000) 
+Mean 
+Standard 
+Deviation 0.75 0.50 0.25 
+20-ft (6-m) levee 300 40 273 300 327 
+25-ft (8-m) levee 400 45 370 400 430 
+30-ft (9-m) levee 550 60 510 550 590 
+Channel 300 30 280 300 320 
+Detention basin 275 10 268 275 282 
+Relocation 250 20 237 250 263 
+A-3. Figure A1 contains a summary of the expected (mean) values of benefits (damage reduced) 
+and Costs, and more probabilistic information about the Net Benefits (benefits minus costs).  The 
+probability distribution of net benefits is described by the expected (mean) value, the standard 
+deviation, and the quartile values, as described in Table A1.  In addition, the probability that net 
+benefits are in fact greater than zero is included.  The graphs display the entire cumulative 
+probability distribution of net benefits for two of the alternatives (25-ft (8-m) levee, Relocation), 
+with markers for the quartiles, a solid vertical line for the mean, and a horizontal arrow 
+Figure A1. Expected value and probabilist ic values for net benefits 
+ER 1105-2-101 ● 15 July 2019 13 
+
+[[PAGE 16]]
+ 
+    
+   
+  
+      
+   
+   
+ 
+       
+   
+      
+ 
+   
+   
+  
+    
+   
+    
+   
+     
+ 
+    
+      
+     
+noting the probability that Net Benefit is greater than zero.  Notice the inter-quartile range (the 
+horizontal distance between the 0.75 and 0.25 quartile) is wider for the 25-ft (8-m) levee 
+alternative than for the Relocation alternative. This difference demonstrates the greater 
+uncertainty in the net benefits.  Table A1 and Table A2 show greater uncertainty in both the 
+damage reduced and the cost of the 25-ft (8-m) levee alternative, leading to greater uncertainty in 
+the net benefits. 
+A-4. Figure A2 contains the same probabilistic information for the B/C ratio as Figure A1 
+displays for the net benefits.  For actual reporting purposes, each graph should be labeled to 
+include the name of the alternative plan (not shown here and subsequent figures). 
+Figure A2. Expected value and probabilistic values for B/C ratios 
+A-5. The Relocation alternative has the highest mean net benefit, closely followed by the 25-
+foot (8-m) levee alternative.  The range of benefits and costs associated with the Relocation 
+alternative is also substantially smaller than the range seen with the 25-ft (8-m) levee alternative 
+as seen in the standard deviation and the inter-quartile range (difference between 75 and 25 
+percent quartiles).  Also, the Relocation alternative has the largest probability of net benefits 
+being greater than zero (or, B/C ratio being greater than one.) Further note that the mean is not 
+equal to the 50 percent quartile (the median), which a result of the distribution not being 
+symmetrical. 
+A-6. Benefits divided by costs produce B/C ratios.  From this, the probability of maintaining a 
+B/C ratio greater than one is of interest. This example shows that the Relocation alternative has 
+a probability of 97 percent of the B/C ratio being greater than one, while the probability of the 
+ER 1105-2-101 ● 15 July 2019 14 
+
+[[PAGE 17]]
+ 
+     
+    
+ 
+       
+    
+        
+    
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+   
+     
+     
+     
+     
+     
+     
+     
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+   
+     
+     
+     
+     
+     
+      
+     
+        
+       
+    
+   
+     
+25-ft (8-m) levee alternative has a probability of 87 percent of the B/C ratio being greater than 
+one.  At this point only economic justification has been determined.  
+A-7. Table A3 and Table A4 present the expected or mean AEP and LTEPs computed for each 
+alternative.  The LTEP is the likelihood of exceedance at least once in the specified period and is 
+computed as 1 - (1 - AEP)N, where N = number of years.  Table A3 shows the LTEPs in the 
+standard manner, and Table A4 displays LTEP in terms of return periods and odds. 
+Table A3 
+Performance described by AEP and LTEP 
+Alternative 
+Mean 
+AEP 
+LTEP 
+(Probability of Exceedance Over 
+Indicated Time) 
+10 Years 30 Years 50 Years 
+Without 0.250 0.94 1.00 1.00 
+20-ft (6-m) levee 0.020 0.18 0.45 0.64 
+25-ft (8-m) levee 0.010 0.10 0.26 0.39 
+30-ft (9-m) levee 0.001 0.01 0.03 0.05 
+Channel 0.025 0.22 0.53 0.72 
+Detention basin 0.030 0.26 0.60 0.78 
+Relocation 0.020 0.18 0.45 0.64 
+Table A4 
+Performance described by AEP and LTEP (alternative display) 
+Alternative 
+Mean 
+AEP 
+LTEP 
+(Probability of Exceedance Over 
+Indicated Time) 
+10 Years 30 Years 50 Years 
+Without 0.250 1 in 1.1 1 in 1.0 1 in 1.0 
+20-ft (6-m) levee 0.020 1 in 5.5 1 in 2.2 1 in 1.6 
+25-ft (8-m) levee 0.010 1 in 10.5 1 in 3.8 1 in 2.5 
+30-ft (9-m) levee 0.001 1 in 100.5 1 in 33.8 1 in 20.5 
+Channel 0.025 1 in 4.5 1 in 1.9 1 in 1.4 
+Detention basin 0.030 1 in 3.8 1 in 1.7 1 in 1.3 
+Relocation 0.020 1 in 5.5 1 in 2.2 1 in 1.6 
+A-8. AEP and LTEP are useful tools to explain the residual probability of flooding for an 
+alternative.  AEP can represent the probability of any event equaling or exceeding a specified 
+stage in any given year.  With levees present, the stage would be the top of levee or effective top 
+of levee as specified by the geotechnical fragility curves; therefore, AEP represents the 
+probability of water getting into the interior area of the levee in any given year.  In the software 
+HEC-FDA (Reference 4i), for non-leveed reaches the target stage is determined by the 
+ER 1105-2-101 ● 15 July 2019 15 
+
+[[PAGE 18]]
+ 
+    
+  
+     
+  
+    
+    
+   
+  
+   
+ 
+   
+    
+ 
+  
+  
+    
+ 
+  
+exceedance of a percentage of the mean damage associated with a specified event (e.g., the 1 
+percent AEP event). The without-project and the relocation project have different AEP values 
+although the hydrology and hydraulics remain the same.  LTEP is a way of describing the 
+probability of flooding over a long period of time, for instance, the project’s lifecycle or the life 
+of a typical mortgage. As Tables A -3 and A-4 show, percentages or odds can be used to describe 
+the chance of flooding.  As shown in Tables A-3 and A-4, the 30-ft (9-m) levee alternative has 
+the lowest AEP and LTEP of 1 in 20.5 over 50 years.  
+A-9. Figure A3 presents the resultant probability (uncertainty) distribution of the AEP, described 
+by the mean value, the standard deviation, and the quartile values.  The standard deviation 
+describes the width of the probability distribution.  The quartiles are the values of the probability 
+distribution with cumulative probabilities of 25, 50, and 75 percent—meaning there is the 
+specified likelihood that the value will actually be greater than the quartile, so these values 
+Figure A3. AEP uncertainty 
+describe both the width and the asymmetry of the probability distribution.  There is a 50 percent 
+chance that the actual value of damage reduced is between the 0.25 and 0.75 quartiles, while the 
+0.5 quartile is the median estimate, meaning there is a 50 percent chance the actual value is 
+greater, and 50 percent chance it is less.  The median differs from the mean when the probability 
+distribution is asymmetrical. 
+ER 1105-2-101 ● 15 July 2019 16 
+
+[[PAGE 19]]
+ 
+     
+   
+    
+       
+    
+    
+     
+     
+   
+     
+   
+  
+      
+     
+ 
+     
+  
+   
+ 
+  
+  
+  
+   
+   
+   
+  
+  
+  
+ 
+  
+  
+  
+     
+  
+     
+  
+  
+ 
+  
+A-10. As with any risk assessment, not only is the mean of an uncertainty distribution important, 
+the entire probability distribution for the metric should be considered and compared.  A 
+comparison of the mean AEP for each alternative and the 50 percent quartile, or a look at all 
+three quartiles, makes it apparent that the distributions of AEP may not be symmetrical.  Figure 
+A3 displays the entire cumulative probability distribution of AEP for two of the alternatives (25-
+ft (8-m) levee, Relocation), with markers for the quartiles and a dotted vertical line for the mean. 
+The plots in Figure A3 provide information that summarizes the uncertainty.  For example, the 
+25-ft (8-m) levee alternative clearly offers higher performance when considering the mean AEP 
+and the three quartiles, but it also has a longer “tail” so it has a greater chance that the AEP could 
+be much higher.  The Relocation alternative has a shorter tail, and so has less chance that AEP 
+could be much higher.  Another way to understand the uncertainty is if considering the likelihood 
+the AEP is actually greater than 2 percent, for the 25-ft (8-m) levee alternative, the chance is 22 
+percent, and for the Relocation alternative, the chance is 55 percent that AEP is greater than 2 
+percent. 
+A-11. Table A5 presents the mean AEPs for each alternative along with AEPs of other possible 
+natural disasters in the area of interest.  Evaluating risk associated with an area can be hard 
+unless compared to events that people can more readily understand.  
+Table A5 
+Probability comparison 
+Alternative AEP 
+Without 0.250 
+20-ft (6-m) levee 0.020 
+25-ft (8-m) levee 0.010 
+30-ft (9-m) levee 0.001 
+Channel 0.025 
+Detention basin 0.030 
+Relocation 0.020 
+Comparable Probability 
+Fire Damage 0.0031 
+Wind Damage 0.0052 
+Earthquake 0.0012 
+1Average 2002–2010 based on home structure fires National Fire Protection Association and U.S. Census housing unit data. 
+2Annual probabilities for other hazards are region specific. Values provided here are for illustrative purposes only. 
+A-12. Figure A4 contains the Assurance (also CNP) levels, for each alternative for various 
+exceedance probabilities. These values describe the estimated likelihood that the project can 
+prevent damage at the specified exceedance probability.  The Assurance is based on the 
+uncertainty in the actual flow and stage associated with a given exceedance probability event, as 
+well as the geotechnical performance of the project. 
+ER 1105-2-101 ● 15 July 2019 17 
+
+[[PAGE 20]]
+ 
+    
+ 
+ 
+ 
+        
+   
+    
+     
+   
+    
+     
+    
+      
+        
+  
+   
+   
+Figure A4. Assurance (also CNP) 
+A-13. To capture Assurance (also CNP), the upper graphic in Figure A4 shows the uncertainty in 
+the stage versus frequency (exceedance probability) relationship. That probability (uncertainty) 
+distribution is then compared to the target stages associated with each alternative to provide 
+Assurance (also CNP).  The lower graphic in Figure A4 shows the probability (uncertainty) 
+distribution of stage for the 1 percent chance event and compares it to the top of levee stage for 
+the 30-ft (9-m) levee alternative. The area under the Probability Density Function) curve is 
+summed to determine the probability of not exceeding the target stage (i.e., the non-exceedance 
+probability, conditioned on the occurrence of the 1 percent event). 
+A-14. Table A6 presents life loss estimates for each alternative of the study area.  A quantitative 
+assessment of life loss will be required for risk assessment associated with alternatives. To 
+completely discuss the transference and transformations of risk, the changes in life loss 
+associated with all frequency events for each alternative must be discussed.  Although there may 
+be significant decreases in economic losses and life risks for the lower frequency events, there 
+may be significant increases for the same alternatives at the higher frequency events. The 
+probability of flood occurrence times the consequence yields the overall risk reduction, 
+ER 1105-2-101 ● 15 July 2019 18 
+
+[[PAGE 21]]
+ 
+     
+      
+    
+ 
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+     
+      
+      
+      
+     
+      
+     
+ 
+ 
+  
+  
+   
+  
+  
+  
+   
+      
+ 
+       
+  
+     
+ 
+ 
+    
+   
+ 
+ 
+  
+ 
+ 
+  
+   
+transformation, and transfer that are going on within the system. A narrative scenario for events 
+that result in flooding will also be provided, and an example is provided in Figure A5. 
+Table A6 
+Life loss 
+Alternative 
+Expected 
+Life Loss 
+Probable Life Loss for a Given Event 
+100 
+Years 
+250 
+Years 
+500 
+Years 
+Without 3.700 5.300 8.900 22.000 
+20-ft (6-m) levee 1.400 6.000 10.500 28.000 
+25-ft (8-m) levee 1.000 8.500 12.300 33.000 
+30-ft (9-m) levee 0.850 0.300 14.000 56.000 
+Channel 2.500 4.300 7.100 18.000 
+Detention basin 1.500 3.100 4.100 13.000 
+Relocation 0.010 0.250 0.850 1.200 
+Should the levees surrounding My City south of the Your River be loaded by floodwaters, residents 
+could attempt to move to nearby higher ground.  The depth of flooding in the neighborhoods in this 
+area would generally not exceed that at the river's edge although a few areas would experience 
+flooding of more than 10 feet. New Town, on the other hand, is ringed by levees so that residents 
+trying to leave the area would have to find their way across the main highway system to areas of higher 
+ground.  Limited routes of egress would make this difficult and thus negatively impacting life safety. 
+Moreover, because New Town is in a depression, a third of the area would flood to depths over 10 feet. 
+Some areas would flood to as much as 35 feet. Because of the lengthy duration of flooding and the 
+lack of natural drainage from this area, flood water would likely remain in New Town for 2 weeks or 
+more. With the proposed levee, New Town is subject to a 1 in 100 chance of being flooded in any year 
+but a 1 in 2.5 chance in 50 years.  Therefore, the probability of a catastrophic event within the lifetime 
+of most residents is nearly the same as flipping a coin and getting heads.  An emergency action plan 
+(EAP) has been developed for the communities including response training exercises.  Additionally, 
+the low areas contain many acres of environmentally valuable wetlands that would be severely 
+damaged from high velocities generated from a levee failure.  Resiliency measures could be 
+considered for each of these communities. These measures address the ability to avoid, minimize, 
+withstand, and recover from the adverse effects of a flood.  For example, both communities have 
+developed and implemented EAPs including response training exercises.  An EAP speaks to the 
+ability to avoid or minimize damage to structural inventories or reduce the population at risk. 
+Resiliency measures for a levee can be provided by adding superiority increments to the levee in 
+higher hazard areas and surface hardening in planned levee overtopping reaches adjacent to low 
+hazard areas.  Resiliency provides a higher degree of predictability for levee performance that can be 
+useful for floodplain managers and project operators. 
+SOURCE: Adapted from: National Research Council. 1995. Flood Risk Management and the American River Basin: An 
+Evaluation. Washington, DC: National Academy Press. 
+Figure A5. Example scenario 
+ER 1105-2-101 ● 15 July 2019 19 
+
+[[PAGE 22]]
+ 
+    
+ 
+  
+     
+ 
+  
+   
+  
+  
+  
+  
+  
+   
+  
+  
+   
+  
+    
+  
+  
+  
+  
+  
+  
+ 
+Glossary 
+Abbreviations and Terms 
+To describe effectively the concepts of a risk framework for flood risk management studies, this 
+Engineer Regulation uses the following terminology: 
+AEP Annual Exceedance Probability 
+B/C Benefit/Cost 
+CNP Conditional Non-Exceedance Probability 
+EAD Expected Annual Damage 
+EAP Emergency Action Plan 
+EC Engineer Circular 
+EM Engineer Manual 
+EP Engineer Pamphlet 
+ER Engineer Regulation 
+FEMA Federal Emergency Management Agency 
+HEC-FDA (used in reference h. on page 1) 
+HQUSACEU.S. Army Corps of Engineers Headquarters 
+LOP Level of Protection 
+LTEP Long-Term Exceedance Probability 
+NED National Economic Development 
+PAR Population at Risk 
+PMP Project Management Plan 
+SPF Standard Project Flood 
+USACE U.S. Army Corps of Engineers 
+ER 1105-2-101 ● 15 July 2019 20 
+
+[[PAGE 23]]
+ 
+     
+ 
+ 
+   
+  
+  
+  
+  
+   
+  
+  
+   
+   
+ 
+     
+   
+  
+ 
+   
+    
+   
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+    
+  
+ 
+ 
+     
+  
+    
+  
+ 
+Definitions 
+Annual Exceedance Probability (AEP) 
+The probability that a certain threshold may be exceeded at a location in any given year, 
+considering the full range of possible values, and if appropriate, incorporation of project 
+performance.  A threshold consists of a metric and a value, and must be specified for each use of 
+AEP.  If system performance is considered, then performance should be explicitly accounted for 
+in the description of AEP; similarly, if system performance is not considered then it can be 
+omitted in the description of AEP.  Examples of threshold metrics include the stage, flow, surge, 
+and floodplain or flooding extent, and corresponding values may be stated in feet, cfs, depth, etc. 
+Examples of locations include a consequence area index point, a specific grid cell, or a fragility 
+curve location (also referred to as system response probabilities).  An example statement of AEP 
+without performance is: “The boundary of the Federal Emergency Management Agency 
+(FEMA) 100-year floodplain has a 1 percent AEP, and the entire FEMA 100-year floodplain 
+corresponds to the aerial flooding extent where flood depths are greater than 0 feet.” An 
+example of AEP with performance is: “The resultant AEP with a depth greater than 0 feet at 
+location XX is 1% while taking into account levee performance.” 
+Assurance 
+The probability that a target stage will not be exceeded during the occurrence of a flood of 
+specified exceedance probability considering the full range of uncertainties. Term selected to 
+replace “conditional non-exceedance probability” (CNP). 
+Conditional Non-Exceedance Probability (CNP) 
+See Assurance. 
+Consequence 
+The harm that results from a single occurrence of the hazard. Consequences are measured in 
+terms of metrics such as economic damage, acreage of habitat lost, value of crops damaged, and 
+lives lost. 
+Economic Risk 
+The combination of likelihood and harm to property, infrastructure, and other assets as well as 
+economic systems all measured in monetary terms. A common metric of economic risk is 
+expected annual damage (EAD).  EAD is the result of integrating the damage-probability 
+functions. 
+Expected Annual Damage (EAD) 
+EAD is the expected value of storm damages in any given year. Expected annual damage is 
+calculated by computing the area under the damage-frequency curve using a lifecycle approach. 
+Expected annual damage is calculated for the with- and without-project conditions. The 
+difference between the with- and without-project expected annual damage represents the benefit 
+associated with the with-project alternative. 
+ER 1105-2-101 ● 15 July 2019 21 
+
+[[PAGE 24]]
+ 
+    
+ 
+      
+     
+  
+ 
+ 
+ 
+   
+  
+   
+  
+     
+ 
+  
+   
+   
+   
+ 
+  
+  
+    
+    
+ 
+  
+      
+   
+     
+  
+     
+ 
+   
+    
+  
+    
+    
+ 
+ 
+ 
+ 
+       
+Exposure 
+Describes who and what may be harmed by the flood hazard. Exposure incorporates a 
+description of where the flooding occurs at a given frequency, and what exists in that area. Tools 
+such as flood inundation maps provide information on the extent and depth of flooding; structure 
+inventories, population data, crop data, and habitat acreage provide information on the 
+population and property that may be affected by the flood hazard. 
+Hazard (flood) 
+The “hazard” is what causes the harm, in this case, a flood. The flood hazard is described in 
+terms of frequency, stage, velocity, extent, and depth. 
+Level of Protection (LOP) 
+LOP is used as a performance metric and a levee design concept that was founded on the 
+principle of providing a high degree of Assurance that the levee system component would neither 
+breach nor overtop when loaded with a specific recurrence interval flood (e.g., providing a 75-
+year LOP if it could contain that event with 90 percent level of Assurance).  The recurrence 
+interval of the flood hazard for this design principle was then used as an expression of the 
+performance of the levee system.  The term is no longer used as it did not include residual risk or 
+structural performance. LOP should not be used to judge a set of alternatives or to target a 
+specific project size. 
+Long-Term Exceedance Probability (LTEP) 
+The probability of capacity exceedance during a specified period. For example, 30- year 
+exceedance probability refers to the probability of one or more exceedances of the capacity of a 
+measure during a 30-year period; formerly long-term risk. This accounts for the repeated annual 
+exposure to flood risk over time. 
+Project Performance 
+The system’s reaction to a hazard. Performance refers to the system features and the capability 
+to accommodate the flood hazard as a single event or load. In this manual, this would be termed 
+“system performance” (also termed “engineering performance”). Performance also refers to the 
+metric that describes the capability of the system to accommodate a single event (Assurance, also 
+CNP) and the full range of events (AEP and LTEP). In that light, in addition to the levee failure 
+probability functions, performance can also be described by the interior-exterior functions for 
+leveed areas, unregulated-regulated transforms for reservoirs and diversions, and elevation-
+discharge functions (rating curves) for channels. These too would be considered “ system 
+performance.” When the structural integrity of a system or system component is discussed, such 
+as the fragility function, the reference would be termed “structural performance.” When the 
+economics of a system is discussed, the reference would be termed “economic performance.” 
+The performance of an item is described by various elements, such as flood risk management, 
+reliability, capability, efficiency, and maintainability.  Design and operation affect system 
+performance. 
+Probability Distribution 
+A relationship that describes the likelihood of each possible value of a random variable. 
+ER 1105-2-101 ● 15 July 2019 22 
+
+[[PAGE 25]]
+ 
+     
+ 
+   
+  
+  
+ 
+  
+  
+   
+ 
+ 
+   
+   
+   
+ 
+ 
+  
+      
+   
+ 
+  
+ 
+  
+  
+ 
+   
+ 
+ 
+ 
+    
+   
+ 
+  
+  
+   
+ 
+ 
+ 
+   
+Residual Risk 
+The flood risk that remains in the floodplain after a proposed flood risk management project is 
+implemented.  Residual risk includes the consequence of capacity exceedance as well as 
+consideration of project performance. 
+Resilience 
+As per Executive Order 13653, “Preparing the U.S. for the Impacts of Climate Change,” 
+resilience is the ability to anticipate, prepare for, and adapt to changing conditions and withstand, 
+respond to, and recover rapidly from disruptions. 
+Risk 
+The likelihood and severity of adverse outcomes; for this ER the focus is on the risk from 
+flooding.  Risk is often measured as potential or mean life loss, property damage, and/or 
+ecosystem losses and may also include uncertainty over the benefits to be gained from a 
+proposed or actual action taken.  Usually, both the likelihood and the consequence are to some 
+degree uncertain. 
+Risk Assessment 
+A systematic approach for describing the nature of the risk, including the likelihood and severity 
+of consequences. Risk assessments can be qualitative, semi- quantitative, or quantitative. Risk 
+assessment includes explicit acknowledgment of the uncertainties in the flood risk. 
+Risk Communication 
+A two-way exchange of information between risk assessors and those who will use the risk 
+assessment results or those who are affected by the risks and risk management actions.  Open 
+communication improves the understanding of the risks by all parties and leads to improved risk 
+assessments and risk management decisions and outcomes. 
+Risk Framework 
+A decision-making process that comprises three tasks:  risk assessment, risk management, and 
+risk communication. 
+Risk Management 
+A decision-making process in which risk reduction actions are identified, evaluated, 
+implemented, and monitored. The purpose of risk management is to take actions to effectively 
+reduce and manage risks identified in the risk assessment. 
+Robustness 
+The ability of a system to continue to operate correctly across a wide range of operational 
+conditions with minimal damage, alteration, or loss of functionality, and to fail gracefully outside 
+of that range; the wider the range of conditions allowing for good performance, the more robust 
+the system. 
+Safety 
+Thought of as the condition of being free from danger, risk, or injury.  However, safety is not 
+something that can be absolutely achieved or guaranteed.  Instead, safety is the condition to 
+ER 1105-2-101 ● 15 July 2019 23 
+
+[[PAGE 26]]
+ 
+    
+ 
+ 
+   
+     
+  
+ 
+    
+     
+  
+  
+ 
+ 
+   
+    
+ 
+   
+  
+ 
+ 
+ 
+  
+  
+ 
+     
+  
+   
+    
+   
+  
+ 
+ 
+   
+  
+   
+ 
+     
+ 
+which risks are managed to tolerable levels.  Therefore, safety is a subjective concept based upon 
+individual perceptions of risks and their tolerability. 
+Superiority 
+Superiority simply means providing higher levees at all points except where initial overtopping 
+is desired. Superiority is an increment of the levee height that increases the likelihood that when 
+the system approaches capacity, controlled flooding will occur at a specified overtopping section. 
+Transferred Risk 
+A result of an action taken in one region of a system to reduce risk, where that action shifts the 
+risk burden to another region in the system.  For example, if a levee is raised in one reach of a 
+system, thus containing more flow and thereby reducing risk in that reach, that action then results 
+in increased flow downstream to another reach of the system.  Risk has been “transferred” from 
+one location to another. 
+Transformed Risk 
+New risk of flooding that emerges or increases as a result of mitigating another risk.  The 
+magnitude and nature of the risk of flooding is different with a levee compared with conditions 
+without a levee.  A levee reduces the likelihood that originally protected property will be flooded 
+but may set the stage for development that puts new property at risk.  A levee transforms the 
+flood risk from one that may be gradual and observable before emergency action would be 
+necessary for the originally protected properties to flood risk that may be sudden and 
+catastrophic. 
+Uncertainty 
+Uncertainty is the result of imperfect knowledge concerning the present or future state of a 
+system, event, situation, or (sub) population under consideration.  Uncertainty leads to lack of 
+confidence in predictions, inferences, or conclusions.  It is important to distinguish uncertainty 
+that results from a lack of knowledge from the uncertainty that results from natural variability. 
+Knowledge Uncertainty 
+Lack of knowledge regarding the true value of a quantity.  Uncertainty is a consequence of 
+reliance on limited data and on conceptual and mathematical models.  This category of 
+uncertainty is formally labeled epistemic uncertainty.  Uncertainty is a measure of imprecision of 
+knowledge of parameters and functions used to describe the hydraulic, hydrologic, geotechnical, 
+and economic aspects of a project plan. 
+Natural Variability 
+The distribution or spread of values within a natural “population” or data set.  This array of 
+possible values in a population is caused by the inherent randomness of natural or social systems 
+and is formally labeled aleatory uncertainty.  The values in the statistical population have some 
+probability distribution, and only limited knowledge of the entire statistical population and the 
+probability distribution may exist.  Sometimes variability is classed as a type of uncertainty 
+although generally it should not be confused or interchanged with uncertainty as defined above.  
+ER 1105-2-101 ● 15 July 2019 24 
+
+[[PAGE 27]]
+ 
+     
+     
+ 
+ 
+ 
+  
+ 
+Variability is the notion that there is a range of possible values that will occur and not the lack of 
+knowledge about that range or the distribution of those values. 
+Vulnerability 
+The susceptibility of harm to human beings, property, and the environment when exposed to a 
+hazard.  Depth-damage functions, depth-mortality functions, and other similar relationships can 
+be used to describe vulnerability. 
+ER 1105-2-101 ● 15 July 2019 25 

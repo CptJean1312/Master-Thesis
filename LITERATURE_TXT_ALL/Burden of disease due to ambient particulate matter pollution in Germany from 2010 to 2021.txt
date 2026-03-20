@@ -1,0 +1,105 @@
+[[PAGE 1]]
+1.E. Oral presentations: Understanding the health
+implications of environmental challenges
+Abstract citation ID: ckae144.019
+Burden of disease due to ambient particulate matter
+pollution in Germany from 2010 to 2021
+Dietrich Plass
+D Plass 1, S Kienzler 1, D Wintermeyer 1
+1Exposure Assessment and Environmental Health, German Environment Agency,
+Berlin, Germany
+Contact: dietrich.plass@uba.de
+Background: Worldwide, according to the global burden of disease
+(GBD) study, around 118 million disability-adjusted life years
+(DALYs) were attributable to ambient particulate matter (PM2.5)
+in 2019. Further, 97% of Europe ’s urban population are exposed to
+annual average levels of PM2.5 above the World Health
+Organization’s guideline value of 5 µg/m
+3. In Germany, considerable
+efforts have been made to reduce PM2.5-emissions, which resulted
+in a continuous decrease of exposure. We estimated the burden of
+disease attributable to PM2.5-exposure in Germany for a time series
+from 2010 to 2021.
+Methods: We used the environmental burden of disease (EBD)
+methodology developed by the WHO. For the exposure assessment
+we combined annual average measured and modelled PM2.5-con-
+centrations with information on population density at a 2-by-2 km
+2
+grid. Using the exposure-response functions from GBD 2019, we
+estimated the EBD for chronic obstructive pulmonary diseases,
+type 2 diabetes mellitus, lung cancer, stroke and ischemic heart
+diseases (IHD). National surveys and register data were used to
+estimate the baseline burden of disease.
+Results: In total, we estimated 232,863 (95%-CI: 153,716-314,882)
+DALYs attributable to PM2.5 in 2021. We observed a reduction of
+about 50% compared to 2010. The highest attributable burden was
+estimated for IHD with 70,197 (95%-CI: 42,609-101,785) DALYs,
+which is about 8% of the overall IHD-burden. The mortality-to-
+morbidity ratio revealed that years lost due to death (YLLs) had a
+higher share (69.9%) of overall DALYs with 162,561 (95%-CI:
+106,918-222,567) YLLs.
+Discussion: Despite a decreasing trend of the EBD for PM2.5 in
+Germany since 2010, our results show that there is still a long way to
+a pollutant free environment as envisaged by the EU ’s zero pollution
+ambition. Using EBD as a standardized methodology and the
+DALYs as the core measure allows to have a comprehensive and
+comparable overview of the impact of PM2.5 on population health.
+Key messages:
+ Ambient particulate matter pollution is an important environmen-
+tal risk factor in Germany.
+ The decreasing trends is encouraging but there is still a long way
+to go to meet the objectives of the EU ’s zero pollution ambition.
+Abstract citation ID: ckae144.020
+How ambient NO2 impacts the mortality burden of
+ischemic heart disease in Portugal (2011-2021)?
+Background: Air
+ pollution is a major environmental risk to human
+health, contributing to premature death and disease. Nitrogen diox-
+ide (NO2) is a pollutant of significant public health concern, asso-
+ciated with increased risks of all-cause mortality, particularly in
+cardiovascular and respiratory deaths. In 2021, NO2 exposure
+exceeding the World Health Organization Air Quality Guidelines
+resulted in 69,000 deaths in the European Union. This study aims
+to estimate the impact of ambient NO2 exposure on ischemic heart
+disease (IHD) in Portugal, from 2011 to 2021, estimated in years of
+life lost (YLL).
+Methods: Data on ambient NO2 levels were obtained from the
+Portuguese Environment Agency ’s online database QualAr. Only
+monitoring stations that reported valid data for at least 75% of the
+time in a year were considered. The number of IHD mortality cases
+from 2011 to 2021 was sourced from Statistics Portugal. The burden
+of IHD attributed to NO2 exposure was estimated in YLL for the
+Portuguese population aged 25 years and older, categorized by five-
+years age groups, regions of mainland Portugal and sex, using the
+population attributable fraction (PAF).
+Results: Between 2011 and 2021, mainland Portugal experienced a
+declining trend in NO2 mean levels, with occasional fluctuations.
+Regarding IHD YLL attributed to NO2 exposure, the same trend
+was followed with an overall decline over the study period. In total,
+94,843.75 (95% CI 53,408.35-134,766.17) IHD YLL were attributed
+to NO2 exposure, with an estimated number of IHD YLLs higher for
+males than for females.
+Conclusions: These findings underscore the significant impact of air
+pollution on human health. Despite an overall reduction in YLL
+across mainland Portugal, persistent health effects emphasize the
+need to reduce NO2 concentrations, with informed decision-making
+being crucial to mitigate these impacts and protect public health.
+Key messages:
+ Ambient NO2 exposure significantly impacts ischemic heart dis-
+ease mortality in Portugal.
+ These estimates underscore the necessity of well-informed deci-
+sion-making to safeguard public health.
+Abstract citation ID: ckae144.021
+Health burden and costs attributed to the carbon
+Background: Health
+ systems have an environmental impact of
+4.6% of global emissions, contributing to aggravating the
+crisis. However, the health impact of the carbon emissions
+by health systems is not regularly assessed. We aim to
+the health burden and associated costs of the carbon foot-
+of health systems across the European Union (EU).
+We calculated DALYs and associated costs based on
+health damage factors (DALYs/kg-CO2e) by considering
+scenarios. Three scenarios for shared socioeconomic pathways
+17th European Public Health Conference 2024 iii9
+Downloaded from https://academic.oup.com/eurpub/article/34/Supplement_3/ckae144.019/7843447 by octavel user on 04 February 2026

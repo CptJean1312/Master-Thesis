@@ -1,0 +1,1277 @@
+[[PAGE 1]]
+Analysis of a detention basin impact on dike failure probabilities and ﬂood risk
+for a channel-dike-ﬂoodplain system along the river Elbe, Germany
+Sergiy Vorogushyn a,⇑, Karl-Erich Lindenschmidt b, Heidi Kreibich a, Heiko Apel a, Bruno Merz a
+a Deutsches GeoForschungsZentrum GFZ, Section 5.4: Hydrology, Telegrafenberg, 14473 Potsdam, Germany
+b University of Saskatchewan, Global Institute for Water Security, 11 Innovation Boulevard, Saskatoon, SK, S7N 3H5, Canada
+article info
+Article history:
+Received 11 January 2011
+Received in revised form 15 February 2012
+Accepted 6 March 2012
+Available online 15 March 2012
+This manuscript was handled by
+Konstantine P. Georgakakos, Editor-in-Chief,
+with the assistance of Michael Brian Butts,
+Associate Editor
+Keywords:
+Flood hydraulics
+Dike/levee failure
+Damage modelling
+Flood risk
+Flood detention basin
+summary
+Highly concentrated asset values are often protected by dikes stretching along the river course. During
+extreme ﬂoods, dikes may fail due to various breach mechanisms and cause considerable damage. There-
+fore detention basins are often additionally installed to reduce the ﬂood risk for downstream communi-
+ties. In such situations, however, the systemic performance of dikes and spatial redistribution of
+inundation patterns are often unknown. Intuitively expected effects such as more probable breaches
+downstream due to fewer breaches upstream and consequently higher conveyance of upstream reaches
+lack evidential proof. With a coupled probabilistic–deterministic 1D-channel – dike breach – 2D-inunda-
+tion – ﬂood damage model chain the impact of a detention basin on losses to residential buildings and
+agricultural crops is investigated. We demonstrate the changes in dike performance due to systemic load
+and relief along the river course on the Middle Elbe, Germany considering three breach mechanisms:
+overtopping, piping and slope micro-instability. The reduction of overtopping failures due to the deten-
+tion basin resulted in the slightly increased breach probabilities due to piping and micro-instability far-
+ther downstream. Finally, the uncertainty in hazard and damage estimations are analysed using the
+Monte Carlo simulation and applying several damage models. Despite high uncertainties in ﬂood hazard
+and damage estimations, we conclude that the risk reduction to residential buildings downstream of the
+detention basin exceeds the higher losses to agricultural crops within the ﬁlled detention area.
+/C2112012 Elsevier B.V. All rights reserved.
+1. Introduction
+Detention basins represent retention areas, which are sur-
+rounded by dikes and become ﬁlled during ﬂood events in order
+to reduce peak discharges and water levels, aiming at hazard and
+risk reduction for downstream areas. Detention basin ﬁlling can
+be uncontrolled or activated by human intervention and has to fol-
+low a certain strategy in order to achieve an optimum ﬂood peak
+capping effect. Detention basins are widely used for ﬂood protec-
+tion purposes in many countries. Particularly, in China they are
+implemented to cope with ﬂoods on large rivers ( Shu and Finlayson,
+1993; Lin et al., 2010 ). Unfortunately, we face examples, e.g. along
+the Yangtze River, where the originally planned ﬂood detention
+basins experience intensive populating and settlement of industries
+following the demographic and economic pressures ( King et al.,
+2004).
+On the Elbe River in Germany, several detention basins were
+built during the past century. The detention areas on the Lower
+Havel River, which is the tributary of the Elbe, were activated
+during the Elbe ﬂood in August 2002 ( LUA, 2002 ), actually for the
+ﬁrst time since their construction in 1930s. Förster et al. (2005) cal-
+culated a peak water level reduction by about 40 cm in the Elbe
+River. Facing the experience during this ﬂood event, an optimisa-
+tion analysis of the Lower Havel detention areas was undertaken
+in several research projects taking into account hydrological,
+hydrodynamic and ecological aspects ( Bronstert, 2004; WASY,
+2005). The August 2002 ﬂood on the Elbe River also manifested
+that besides an optimisation of control strategies for existing
+detention basins, additional retention capacities are required in or-
+der to alleviate adverse effects of extreme inundations. Potential
+retention areas on the Middle Elbe, considered prior to the 2002
+ﬂood ( Helms et al., 2002 ), again gained actuality afterwards ( IKSE,
+2003; IWK, 2004 ).
+Some of these proposed detention basins were analysed by
+Huang et al. (2007) and Förster et al. (2008a) with the aim to devel-
+op a control strategy for an efﬁcient ﬂood peak reduction. Huang
+et al. (2007) used a quasi-2D modelling approach, where the deten-
+tion basins are represented as a set of storages interconnected by
+1D-channels. Förster et al. (2008a) applied a fully dynamic
+1D–2D coupled model for evaluation of detention basin operation.
+Additionally, Gierk et al. (2008) assessed the ﬂood peak reduction
+along the Elbe considering 4 detention areas and 22 dike shift mea-
+sures deﬁned in IKSE (2003) using a diffusion wave channel model
+0022-1694/$ - see front matter /C2112012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.jhydrol.2012.03.006
+⇑ Corresponding author. Tel.: +49 331 288 1519.
+E-mail address: vorogus@gfz-potsdam.de (S. Vorogushyn).
+Journal of Hydrology 436–437 (2012) 120–131
+Contents lists available at SciVerse ScienceDirect
+Journal of Hydrology
+journal homepage: www.elsevi er.com/locate/jhydrol
+
+
+[[PAGE 2]]
+and simple storage functions for detention basins. For effective
+reduction of peak ﬂood stages, the time of gate opening in relation
+to the phase of a ﬂood wave is crucial ( Jaffe and Sanders, 2001;
+Sanders et al., 2006; Hesselink et al., 2003 ). The optimal activation
+time was found to be slightly prior to the peak time by several
+studies ( Jaffe and Sanders, 2001; Sanders et al., 2006; Huang
+et al., 2007 ). In the optimal case, the ﬂood hydrograph should be
+capped utilizing the full storage capacity of a detention basin.
+The reviewed studies mainly focused on the assessment of peak
+water level reduction in a river channel due to ﬂood detention ba-
+sins using deterministic modelling. The assessment of ﬂood conse-
+quences in terms of risk or risk reduction are rare. Particularly,
+consideration of uncertainties associated with the design ﬂoods
+and dike breaches lack an appropriate treatment, although partly
+considered in a few previous works. Paik (2008) used the probabi-
+listic methods to determine the probability of exceedance of design
+peak outﬂow of a storm water detention basin taking into account
+the uncertainty in seven design parameters. Chen et al. (2007)
+additionally estimated the monetary losses due to ﬂoods and cal-
+culated economic beneﬁts of detention ponds in Taiwan. The
+authors, however, assessed the effect of uncontrolled ponds ﬁlled
+by rainstorm overland ﬂow rather than by overbank channel ﬂow.
+Förster et al. (2008b) estimated the expected annual damage to
+the agricultural sector and road infrastructure inside a planned
+detention area on the Middle Elbe for compensation planning. Re-
+cently, de Kok and Grossmann (2010) analysed deterministically
+the risk reduction in terms of avoided expected annual damage
+along the main trajectory of the German Elbe part due to various
+ﬂood control strategies including detention areas. The authors took
+dike overtopping and breaches due to overtopping into account. In
+non-diked areas, however, a simple planar surface interpolation
+was applied to estimate inundation areas. This methodology disre-
+gards ﬂood volume that can lead to an overestimation of inunda-
+tion areas.
+In the presented paper, we estimate the beneﬁt of a proposed
+detention basin on the Middle Elbe in terms of ﬂood damage
+reduction to residential buildings and agricultural crops along a
+91 km Elbe reach. We do not limit us to the evaluation of peak
+ﬂow/stage reduction but rather consider the ﬂood consequences
+in terms of ﬂood risk. We apply a 1D–2D coupled hydraulic mod-
+elling approach in order to account for the mass transfer between
+the channel and ﬂoodplain in both ﬂow directions. The vast major-
+ity of previous studies use the deterministic approach to hazard/
+risk evaluation. However, in view of considerable uncertainties in
+ﬂood processes and ﬂood risk models, this approach may introduce
+a bias into the decision making process. In contrast to the other
+works, we quantify the uncertainty in risk by considering the
+uncertainty in inundation depth and duration due to different ﬂood
+hydrograph shapes, dike breach locations, breach times and widths
+as well as by taking into account several damage estimation
+models.
+Applying a complex deterministic-probabilistic modelling sys-
+tem, we additionally compute the changes in dike breach probabil-
+ities resulting from the load relief of ﬂood protection structures
+and investigate the systemic effects of the dike performance in
+the channel-dike-detention basin system. Besides overtopping,
+we consider piping and slope micro-instability as additional dike
+failure mechanisms contrary to the previous studies.
+2. Methodology
+2.1. Study site
+For investigation of the impact of a detention basin on dike fail-
+ure probabilities and ﬂood damage, we selected a 91 km river
+reach on the Middle Elbe, Germany, between the gauges Torgau
+and Vockerode ( Fig. 1). The reach is nearly fully protected by dikes
+or is characterized by elevated banks. Two detention basins at
+Mauken proposed by IKSE (2003) and IWK (2004) were considered
+in this study. For the sake of simplicity they were aggregated into
+one entity disregarding an additional control gate between two
+Agricultural land
+Vockerode
+Elbe-km 245.5
+Coswig-Anhalt
+Elbe-km 236.5
+Mauken
+Elbe-km 184.5
+Löben
+Wittenberg
+Elbe-km 214.1
+Torgau
+Elbe-km 154.2
+Detention
+basin inlet
+Schwarze Elster
+Vockerode
+Elbe-km 245.5
+Torgau
+Elbe-km 154.2
+Dresden
+Elbe-km 55.6
+14°0’0"E13°30’0"E13°0’0"E12°30’0"E
+Fig. 1. Study area and location of the detention basin.
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 121
+
+[[PAGE 3]]
+adjacent parts. We assumed only one inlet opening at the
+Elbe-km 180. The total maximum capacity was estimated at about
+105 /C2 106 m3 with a total area of about 28.5 km 2.
+The detention basin is activated upon the achievement of the
+triggering discharge value in the river channel. This discharge was
+determined for ﬁve typical stream hydrograph shapes applying the
+detention basin control strategy developed by Huang et al. (2007)
+for this site. We used a ﬁxed opening width of 50 m as suggested
+by the local authorities and also applied by Förster et al. (2008a) .
+Sanders et al. (2006)investigated the effectiveness of a detention ba-
+sin operation as a function of hydrographs of different durations/
+volumes, basin area, gate opening time and opening width.
+The opening width was found to have an impact on the capping
+effect, but it depends on the other three parameters. We therefore
+relied in the sensitivity analysis done by Huang et al. (2007) , who
+found almost no difference in the capping effect when using the in-
+let width of 50 and 100 m for this detention basin and the extreme
+ﬂood event in 2002. With regards to the inlet opening duration,
+Chatterjee et al. (2008) found very little sensitivity of the river dis-
+charge and the water level in a river channel to the durations be-
+tween 5 and 60 min. We used the value of 1 h to prevent
+hydraulic model instabilities due to hydraulic shock.
+2.2. Flood hazard and damage models
+2.2.1. Inundation Hazard Assessment Model (IHAM)
+For the simulation of the ﬂood hazard along a diked river reach,
+we applied the Inundation Hazard Assessment Model (IHAM)
+(Vorogushyn et al., 2010 ) – a hybrid deterministic-probabilistic
+model for the simulation of channel ﬂow, dike failures and subse-
+quent inundation. IHAM combines a 1D full-dynamic wave model
+(USACE, 1995 ) for river channel and ﬂoodplain between dikes, a
+probabilistic dike breach model and a 2D diffusive wave storage
+cell model for hydraulic simulation of overland ﬂow on dike-pro-
+tected ﬂoodplain areas. The schematic representation of modelling
+domains is shown in Fig. 2 .
+The 1D model solves the full dynamic St.-Venant equations using
+the standard four-point numerical scheme and uses the surveyed
+cross-sections and roughness parametrisation for conveyance
+description. The two-dimensional ﬂow is computed with the storage
+cell model that solves the continuity equation (Eq. (1)) and a simpli-
+ﬁed momentum equation (Eq. (2)) for decoupled ﬂuxes in x and y
+directions based on the diffusive-wave approximation, as follows:
+@h
+i;j
+@t ¼
+Q i/C0 1;j
+x /C0 Q i;j
+x þ Q i;j/C0 1
+y /C0 Q i;j
+y
+DxDy ð1Þ
+where hi,j (m) denotes the water surface elevation at cell ( i, j), t(s) is
+the time. Here, Q i;j
+x and Q i;j
+y (m3 s/C0 1) are ﬂuxes in x and y directions,
+respectively, and Dx, Dy (m) are cell dimensions ( Dx = Dy for equi-
+distant grid).
+Qi;j
+x ¼
+h
+5=3
+flow
+n
+h
+i/C0 1;j
+/C0 h
+i;j
+Dx
+ ! 1=2
+Dy ð2Þ
+where hﬂow (m) is the ﬂow depth between two adjacent raster cells,
+i.e. the difference between the maximum water surface elevation
+and maximum ground elevation of those cells, n (m/C0 1/3 s) is the
+Manning’s roughness coefﬁcient. The equation for the ﬂux in y
+direction is analogous to Eq. (2), where x and y indices are inter-
+changed and the gradient is computed in y direction.
+Although the storage cell model is not capable to adequately
+capture the ﬂow dynamics behind the dike breaches because of
+disregarding the local and convective acceleration terms, it is
+expected to provide a reasonable description of the ﬁlling and
+drainage of the ﬂoodplain over the time scale of the ﬂood, as shown
+in previous studies of ﬂoodplain inundation ( Horritt and Bates,
+2001, 2002 ). Over the shorter time scale associated with the
+breaching process and initial movement of the dam-break ﬂood
+away from the breach, model predictions must be viewed cau-
+tiously but this limitation is expected to have little bearing on
+the ﬁnal ﬂood area shape and depth distribution which is the focus
+here. We apply the ﬂow limiter to counteract the oscillations in the
+numerical solution, which however known for causing some insen-
+sitivity to roughness parametrisation ( Hunter et al., 2005 ).
+Dike breaches are simulated probabilistically based on the pre-
+viously developed fragility functions ( Vorogushyn et al., 2009,
+2010). These functions indicate the failure probability of a dike sec-
+tion depending on hydraulic load (water level and impoundment
+duration). Fragility functions for overtopping, piping and slope
+instability due to seepage ﬂow through the dike core (micro-insta-
+bility) were developed based on the modelling techniques pre-
+sented in details by Apel et al. (2006) and Vorogushyn et al.
+(2009) for dikes along the whole river reach. We used historical
+geometrical and geotechnical dike data partly reﬂecting the dike
+status prior to the August 2002 ﬂood event. Contrary to the model
+setup used in Vorogushyn et al. (2010) , new fragility models were
+used with the recently obtained data on hydraulic conductivity of
+dike material ( LTV, 2010 ). Currently, signiﬁcant portions of the
+dike system are being reinforced or rebuilt by the state authorities.
+All three models (1D – dike breach – 2D) are interactively cou-
+pled and embedded into a Monte Carlo simulation framework that
+treats the ﬂood hydrograph shape and dike breach occurrence as
+random processes. 1D model computes the water stages and dis-
+charges at every node with 5 s temporal resolution. Each dike is
+tested for stability every hour based on the currently computed
+load. In case, a breach is simulated, the outﬂow ﬂuxes through
+the breaches are computed using the drawn weir formula based
+on the current simulated breach width and water levels in the river
+channel and adjacent ﬂoodplain.
+Breach width is stochastically simulated based on predeﬁned
+probability distribution ( Vorogushyn et al., 2010 ). An outﬂow vol-
+ume in the ﬂoodplain direction in every time step (5 s) is evenly
+distributed across the so-called interface cells in the 2D model do-
+main adjacent to the breach location. The number of the interface
+cells ( Nic) is deﬁned as a function of the cell size and the current
+simulated breach width:
+Nic ¼
+1i f BwðtÞ < Dx;
+intðBwðtÞ=DxÞ if BwðtÞ P Dx and
+modðBwðtÞ; DxÞ
+< Dx=2;
+intðBwðtÞ=DxÞþ 1i f BwðtÞ P Dx and
+modðBwðtÞ; DxÞ P Dx=2:
+8
+>>
+>>>
+>
+>><
+>>
+>
+>>>
+>
+>:
+ð3Þ
+1D model domain Dike breach model 2D model
+Fig. 2. Schematic representation of model domains for each compartment model in
+the IHAM system.
+122 S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131
+
+[[PAGE 4]]
+where Bw(t) (m) is the breach width at time t.
+In case of the backwater ﬂow from the ﬂoodplain into the river
+channel, the discharge is assigned as a lateral boundary condition
+to the 1D channel node nearest to the dike breach location. We ac-
+count for continuous interaction between the river channel and
+ﬂoodplain hydraulics, e.g. in case of a ﬁlled ﬂoodplain, the backwa-
+ter ﬂow into the channel is considered. We use a mass-conserva-
+tive solution. However, no momentum transfer from the river
+channel into the ﬂoodplain is considered. It may have a small local
+impact near the dike breaches, particularly, at dikes not parallel to
+the channel ﬂow, however, dissipating further outwards. We as-
+sume the role of momentum transfer to be negligible with respect
+to the ﬁnal shape of the inundation areas, especially for very wide
+and ﬂat ﬂoodplains, where the gravity and pressure forces seem to
+dominate the water ﬂow compared to the momentum supplied by
+the channel ﬂow.
+IHAM was setup for the study reach between gauges Torgau and
+Vockerode. The 1D model geometry was described by the surveyed
+cross-sections spaced at 400–600 m intervals and spanning from
+one dike to another or to the elevated banks. The rating curve at
+gauge Vockerode derived by Nestmann and Büchele (2002) was
+used as the downstream boundary condition. The model was run
+using the steady-state initial conditions with discharge corre-
+sponding to the initial discharge of ﬂood hydrographs.
+The roughness coefﬁcients at every cross-section were deter-
+mined using manual calibration by ﬁtting the steady-state water
+levels to the observed high water marks from four past ﬂood
+events. Finally, the model was validated in the steady-state and
+unsteady mode on the ﬂood event in January 2003. The events ran-
+ged between the 2-years and 7-years ﬂoods at gauge Torgau (Gen-
+eralized Extreme Value (GEV) distribution, L-moment method). No
+further high water marks were available for less frequent events.
+The Manning’s n values were adjusted to minimize the bias and
+root mean square error (RMSE). In addition, the mean absolute er-
+ror (MAE) and maximum difference (MD) in water level were com-
+puted. The calibrated roughness values ranged between 0.017 m
+/C0 1/
+3 s and 0.2 m /C0 1/3 s, with higher values for the widely extended,
+vegetated ﬂoodplain in the areas of strong river meandering. An
+overall bias of a few centimetres was obtained ( Table 1). The RMSE
+did not change signiﬁcantly for the validation run and is in the
+range of values for the calibration events. In the unsteady run,
+the peak water stages were underestimated in the range from
+0.03 m to 0.53 m.
+The detention basin is aimed at peak reduction of severe ﬂoods
+with return period ( T) greater than hundred years. We implicitly
+assumed no damage for ﬂood events with T < 100 years implying
+that the river dikes would withstand the high-probability ﬂoods.
+Floods with T > 1000 have extremely low probabilities and are
+found to contribute little to the annualasied damages for typical
+ﬂoodplains, asset value distribution and vulnerability in Germany
+(Merz et al., 2009 ). Therefore, four return periods of T = 100, 200,
+500, 1000 years were investigated in this study.
+Flow hydrographs corresponding to these return periods were
+developed for the gauge Torgau based on the discharge records
+for the period from 1936 to 2003 adopting the methodology of Apel
+et al. (2004, 2006) . The observed hydrographs of 30 days duration
+corresponding to the annual maximum discharges – 10 days prior
+to the peak discharge and 20 days after – were normalized and clus-
+tered according to their shape ( Vorogushyn et al., 2010 ). The mean
+normalized hydrographs ( Fig. 3 ) from ﬁve selected clusters were
+scaled to discharges corresponding to the deﬁned return periods.
+The latter were determined based on the GEV distribution ﬁtted
+to the annual maximum discharge series using the L-moment
+method. The hydrographs for the tributary Schwarze Elster, which
+correspond to the ﬂood waves in the main channel, were also nor-
+malized and upscaled to the peak discharges resulting from the
+regression analysis of the main channel maximum annual dis-
+charges and tributary peak ﬂows for corresponding events.
+In the Monte Carlo simulation, the input hydrographs were
+sampled according to their frequency resulting from the cluster
+analysis (Fig. 3) which characterizes the occurrence of each typical
+hydrograph shape. Additionally, dike breach locations and times as
+well as breach widths were treated as stochastic components. The
+location of dike breaches and point in time, when breach occurs, is
+determined during the simulation based on actual hydraulic load
+and fragility curves for each dike section. For each value of the
+hydraulic load, the fragility curves indicate the probability of dike
+section failure. Based on this probability, the failure is randomly
+simulated (failed/not failed) at every time step. The ﬁnal breach
+width was sampled from the log-normal distribution function ﬁt-
+ted to the sample of 104 observed breaches in the Elbe catchment
+(Vorogushyn et al., 2010 ). The observed breach widths ranged be-
+tween 5 and 340 m, with mean of about 63 m. The full breach
+width was allowed to develop gradually within one hour.
+The detention basin was activated as soon as a certain discharge
+value at the location of the opening gate was attained. These trig-
+gering discharge values were computed depending on the ﬂood
+wave shape and peak for each hydrograph cluster based on the ap-
+proach of Huang et al. (2007) and summarized in Table 2 . In the
+operational mode, the operator would receive a lead forecast of
+peak ﬂow and hydrograph shape. By identifying the corresponding
+hydrograph cluster, one would obtain the triggering discharge for
+activation of the detention basin.
+The smallest triggering discharges resulted for the hydrograph
+clusters 1 and 4. They exhibit the narrowest peaks ( Fig. 3 ). There-
+fore, in order to achieve the maximum discharge capping, the in-
+Table 1
+Calibration and validation statistics for steady-state 1D hydrodynamic model runs for
+the reach between gauges Dresden and Vockerode. The statistics are computed for
+observed and simulated water stages in metres. The ﬂood events in 1995, 1998, 1999
+and 2002 were used for calibration. The results of model validation in steady-state are
+shown for the ﬂood event in 2003. MAE, mean absolute error; RMSE, root mean
+square error; MD, maximum difference.
+Performance
+statistics
+Flood events
+January
+1995
+November
+1998
+March
+1999
+February
+2002
+January
+2003
+Bias /C0 0.048 /C0 0.004 /C0 0.003 0.032 0.003
+MAE 0.16 0.121 0.118 0.101 0.136
+RMSE 0.218 0.156 0.161 0.134 0.169
+MD /C0 0.719 0.467 0.566 0.5 0.531
+5 10 15 20 25 300
+0.2
+0.4
+0.6
+0.8
+1
+Time (days)
+Normalized discharge (-)
+cluster 1
+cluster 2
+cluster 3
+cluster 4
+cluster 5
+Fig. 3. Normalized mean hydrographs corresponding to the ﬁve selected hydro-
+graph clusters. The probability of occurrence of each characteristic form is for the
+cluster 1 – 0.3677, cluster 2 – 0.2352, cluster 3 – 0.1177, cluster 4 – 0.1471, cluster 5
+– 0.1323.
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 123
+
+[[PAGE 5]]
+ﬂow has to be initiated at lower discharges, compared to hydro-
+graphs with gentler rising and falling limbs.
+For this modelling study, no controlled detention basin empty-
+ing was considered. However, backwater ﬂow into the river can oc-
+cur through the opening and dike breaches, which were allowed
+anytime on the interface between the Elbe channel and detention
+basin. The overtopping ﬂow over the river dikes without dike fail-
+ures was not taken into account.
+Two-dimensional ﬂow inside the detention area as well as inun-
+dation front propagation caused by dike failures were simulated
+with the 2D storage cell code. A 50 m /C2 50 m digital elevation
+model was used in this study. The only available inundation area
+extent from the August 2002 ﬂood event appeared to be insufﬁ-
+cient to constrain the roughness parameter during calibration. This
+inundation resulted from a very complex pattern of the ﬂows
+through dike breaches and tributary backwater. This could hardly
+be replicated in the model due to lack of exact data on breach times
+and development. The distributed roughness parameters were
+therefore deﬁned for different ATKIS (Ofﬁcial Topographic–Carto-
+graphic Information System) land use classes using literature val-
+ues ( Chow, 1959 ). The proposed detention basin was integrated
+into the DEM and surrounded by dikes.
+A set of 500 IHAM simulation runs was carried out for each re-
+turn period with and without the projected detention basin. These
+scenarios are further referred to as 100 y, 200 y, 500 y and 1000 y
+without detention basin, as well as 100 ydb, 200 ydb, 500 ydb and
+1000ydb deploying the detention area.
+2.2.2. Damage modelling and risk calculation
+Inundation patterns indicating water depth distribution and
+inundation duration were supplied as input data to the damage
+assessment models for the private and agricultural sectors. Direct
+economic damages to residential buildings were estimated by four
+different models to take uncertainty of damage estimation into ac-
+count: the multifactorial Flood Loss Estimation MOdel for the pri-
+vate sector — FLEMOps and three different depth-damage curves.
+FLEMOps was developed on basis of empirical damage data from
+the 2002 ﬂood in the Elbe and Danube catchments and was success-
+fully validated at the Elbe river ( Büchele et al., 2006; Thieken et al.,
+2008; Apel et al., 2009 ). It is a rule based model, which calculates
+the damage ratio of residential buildings for ﬁve classes of inunda-
+tion depths (<21 cm, 21–60 cm, 61–100 cm, 101–150 cm,
+>150 cm), three distinct building types (one-family homes, (semi-
+)detached houses, multifamily houses) and two categories of build-
+ing quality (low/medium quality, high quality). Thieken et al.
+(2005) presented a detailed analysis of the inﬂuence of these factors
+on ﬂood damages. For the application of FLEMOps on the meso-
+scale, i.e. on basis of CORINE land cover units ( DLR and UBA,
+2000), a scaling procedure was developed ( Thieken et al., 2006 ).
+By means of geo-marketing data from INFAS Geodaten (2001) and
+cluster analysis, the mean building composition and mean building
+quality per municipality were derived and are available as GIS ras-
+ter data with a resolution of 25 m for whole Germany.
+The depth-damage curves used have been developed for ﬂood
+action plans or in risk mapping projects for the Rhine catchment
+(MURL, 2000; ICPR, 2001; HYDROTEC, 2001, 2002 ). They are com-
+monly used in Germany, however, it remains unclear how they
+were developed and why they are different although they rely on
+the same background data, namely the German ﬂood damage data-
+base HOWAS ( Merz et al., 2004 ). MURL (2000) calculates the dam-
+age ratio of residential buildings by the equation y = 0.02x where x
+is inundation depth (m) and y
+is damage ratio (–). For inundation
+depths of more than 5 m the damage ratio is set to 0.1 (i.e. 10%).
+ICPR (2001) estimates the damage ratios of residential buildings
+by the relation y =( 2x2 +2 x)/100. HYDROTEC (2001, 2002) use
+the root function y ¼ð 27 ﬃﬃﬃxp Þ=100. In the latter two models, dam-
+age ratios >1 are set to 1.
+All models were applied on the basis of CORINE land cover units
+(DLR and UBA, 2000 ) with resolution of 25 m. First, the damage
+models were applied to the inundation scenarios in order to esti-
+mate the damage ratio per grid cell. These ratios were then each
+multiplied by the speciﬁc asset value assigned to the correspond-
+ing grid cell. The total asset value of residential buildings was taken
+from the work of Kleist et al. (2006) , who calculated the replace-
+ment values for the reference year 2000. Since only the total asset
+sum was provided for each municipality, the assets are disaggre-
+gated on the basis of the CORINE land cover data ( DLR and UBA,
+2000) following the approach of Mennis (2003) .
+Using the residential building price index published by the Fed-
+eral Statistical Agency, the asset values were referenced to the year
+2005, which was taken as a basis year for damage calculation. Be-
+sides the total damage values for each particular scenario, an ex-
+pected annual damage (EAD) was computed by integrating the
+area under the risk curve between scenarios corresponding to the
+100-year and 1000-year events (Eq. (4)).
+EAD ¼Pk
+j¼1
+DPjDj ð4Þ
+where DPj and Dj are the exceedance probability increment and the
+average ﬂood damage for the jth interval, respectively, and k is the
+number of increments (here k = 4, since scenarios corresponding to
+the return periods of T = 100, 200, 500, 1000 were used).
+The model used to calculate the expected damages to agricul-
+tural crops was developed by Kuhlmann (2010) . It is based on a
+monthly disaggregation of the agricultural damages. The model
+was already applied by Förster et al. (2008b) to compute the losses
+inside the planned detention area. On the contrary, we apply the
+model to the whole model domain, also to assess the damages out-
+side the detention basin. The model considers damages to crops,
+and the expected damage ( € yr/C0 1) for one scenario is calculated
+by multiplying the probability of occurrence by the damage costs:
+ED ¼ MV /C1 AP12
+m¼1
+PMmDIm ð5Þ
+where ED is expected damage ( € yr/C0 1) for a particular return period
+or scenario, MV is market value ( € ha/C0 1), PMm is probability of ﬂood-
+ing for a certain month each year m (yr/C0 1) and DIm is damage im-
+pact on crops for month m (%), and A is affected area (ha).
+DIm depends on the crop type, month of ﬂood occurrence and
+inundation duration. The differentiation in crop types is necessary
+since some crops are more prone to ﬂood damages than others. For
+example, root crops are more susceptible to ﬂoodwaters than grain
+crops. The degree of impact also depends on the vegetative stage of
+the plant during the time of ﬂooding. The highest damages are ex-
+pected to occur on mature crops close to the beginning of harvest-
+ing since losses cannot be compensated by plant recovery or a
+second seeding. Water saturation of soil for extended periods of
+time inhibits plant growth and compromises the integrity of the
+plant structure. The impact of ﬂoods to root crops and grain crops
+are categorized in four groups of inundation duration: 1–3 days,
+Table 2
+Triggering channel ﬂow ( Qtrig)( m 3 s/C0 1) for each hydrograph cluster and respective
+return period at which the detention basin inlet should be opened.
+Return period 100 y 200y 500y 1000y
+Cluster 1 2412 2900 3476 3995
+Cluster 2 2914 3316 3954 4449
+Cluster 3 2877 3308 3922 4421
+Cluster 4 2669 2966 3508 3932
+Cluster 5 3051 3439 4065 4573
+124 S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131
+
+[[PAGE 6]]
+4–7 days, 8–11 days and >11 days. The damage impact factors
+were taken from LfUG (2005) and are exemplarily listed by Förster
+et al. (2008b) .
+The market value MV in Eq. (5) differs from region to region
+since the crop yield depends on the climatic and soil conditions
+and the type of agricultural management practices used. Germany
+can be subdivided into 38 administrative regions, each of which
+has different MV for each crop. The market values for the adminis-
+trative region of Wittenberg, in which our detention basin study
+site lies, are given in Table 3 for selected crops.
+Since the exact spatial allocation of crops was not known and
+may change from year to year, the crops were distributed ran-
+domly in a Monte Carlo simulation (1000 runs) over the agricul-
+tural land surfaces maintaining the percentage amounts for each
+crop given in Table 3 . Thus, for every raster cell, the median crop
+value was obtained and used for damage assessment.
+Since the vulnerability is accounted on a monthly basis, the
+probability of ﬂooding PM needs to be determined for each month
+m to calculate the expected annual damage for each of the simu-
+lated return periods ( T = 100, 200, 500 and 1000 years). The time
+series of the annual maximum discharge from the gauge at Torgau
+for the time period from 1936 to 2004 was used for the monthly
+ﬂood frequency analysis. The GEV distribution using L-moments
+was ﬁtted to the data.
+Finally, to make the EADs for residential buildings and agricul-
+tural crops comparable, the EAD value integrating all considered
+return periods is calculated by adopting Eq. (6) to the agricultural
+damages considering monthly probabilities:
+EAD ¼ MVP12
+m¼1
+Pk
+j¼1
+DPmjDImAj ð6Þ
+where DPmj is exceedance probability increment for the jth interval
+and month m, and Aj is average affected area for the jth interval.
+3. Results and discussion
+3.1. Impact on river discharge hydrographs
+Discharge hydrographs at four selected locations at various
+distances downstream of the basin inlet were simulated for
+Table 3
+Area, distribution and market value of the main crops for the administrative region of
+Wittenberg averaged over the years 2000–2005.
+Crop Area (ha) Area fraction (%) Market value ( € ha/C0 1)
+Wheat 11,128 15.3 704
+Rye 9994 13.8 459
+Barley 5698 7.8 605
+Corn 8307 11.4 883
+Canola 10,128 14.0 632
+Potatoes 1088 1.5 2339
+Sugar beets 988 1.4 2103
+Grass 13,999 19.3 266
+Vegetables I 298 0.4 11,227
+Vegetables II 298 0.4 15,799
+Time [h]
+100 200 300 400 500 600
+-10
+-5
+0
+5
+10
+Time [h]
+100 200 300 400 500 600
+-10
+-5
+0
+5
+10
+Time [h]
+100 200 300 400 500 600
+-10
+-5
+0
+5
+10
+Time [h]
+Δ Q [%]
+100 200 300 400 500 600
+-10
+-5
+0
+5
+10
+Elbe-km 184.5 Elbe-km 214.0
+Elbe-km 236.5 Elbe-km 245.5
+Δ Q [%] Δ Q [%]
+Δ Q [%]
+Fig. 4. Difference in median discharge between the four ﬂood scenarios with and without the detention basin at four different locations along the study reach . The difference
+is given in (%) compared to the discharge of scenarios without the basin.
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 125
+
+[[PAGE 7]]
+investigated scenarios. The difference in the median discharge be-
+tween scenario sets with and without detention basin is expressed
+in terms of percental change with respect to the scenario without
+basin (Fig. 4). For all scenario sets at Elbe-km 184.5, the difference
+in the median discharge is zero in the ﬁrst approx. 180 h. After ap-
+prox. 180 h, the reduction of the median discharge by a few per-
+cent is attributed to the retention effect of the detention basin.
+The discharge decline at Elbe-km 184.5 appears to be similar for
+all four scenarios, while at the downstream control points the dis-
+charge behaviour is different exhibiting not only decrease but also
+increase. This depends on the performance of dikes.
+The increase of discharge after activation of the detention basin
+in some scenarios and locations (e.g. scenario 500 y at Elbe-km
+214.1) could be interpreted as an indication for enhancement of
+dike stability. At Elbe-km 214.1 for scenarios 100 y and 200y nearly
+no change in median ﬂow is simulated after 300 h. This is a conse-
+quence of almost no inﬂuence of the detention basin on dike stabil-
+ity between Elbe-km 184.5 and 214.1. This is conﬁrmed by little
+changes in breach probabilities at this river stretch shown in
+Fig. 5 a and b. For the 500 y and 1000 y scenarios, the effect of the
+detention basin on breach probabilities is already visible upstream
+of Wittenberg (Elbe-km 214.1) ( Fig. 5 c and d) with some positive
+and some negative differences. This results in changes of median
+discharge at Elbe-km 214.1. Due to capping of the peak discharge,
+dike breach probabilities are mainly reduced downstream of the
+detention basin for all ﬂood magnitudes ( Fig. 5 ). Therefore, higher
+average discharges are modelled in the river channel at downstream
+locations after basin ﬁlling, since more water passes through the
+channel that otherwise would spill into the hinterland.
+The ﬂuctuating behaviour of hydrographs suggests a complex
+interplay between dike failures at different parts of the reach and
+river sides. It is the interaction of loading and relief that explains
+this pattern. However, at this stage we cannot interpret all ﬂuctua-
+tions of discharge along the river channel. It is conjectured that such
+a behaviour results from different temporal redistribution of dike
+failures in the simulation time window. However, the breach fre-
+quency maps ( Fig. 5) are not able to manifest this suggestion, since
+they represent an overall static picture of the system state. Repre-
+sentation of breach frequencies as a function of time, i.e. how often
+breaches at certain location occur at various time windows during
+the course of simulation, would provide an insight into the system
+dynamics and is the subject for future research. Moreover, the stor-
+age volume in the ﬂoodplain compartments behind the dikes inﬂu-
+ences the ﬂow hydrograph, i.e. it is not only necessary to have more
+frequent breaches at some places but also sufﬁcient storage capac-
+ity in order to signiﬁcantly reduce the river discharge.
+3.2. Impact on dike breach probabilities
+Monte Carlo simulations with IHAM resulted in the generation
+of probabilistic dike hazard maps. These maps indicate the proba-
+bility of failure of each dike section for all scenarios ( Fig. 5 ). The
+Monte Carlo runs converge to the level of ±3% points for additional
+10% of runs, i.e. additional 50 runs lead to changes in breach prob-
+abilities of ±3% points. This explains the variable probability
+changes for dike breaches upstream of the detention basin, where
+any inﬂuence is expected.
+(a)
+(c)
+(b)
+(d)
+0482
+Kilometer
+0482
+Kilometer
+0482
+Kilometer
+0482
+Kilometer
+Gauges
+Difference [% points]
+2 - 4.4
+1 - 2
+0 - 1
+0
+-5 - 0
+-15 - -5
+-30 - -15
+-36 - -30
+Vockerode
+Elbe-km 245.5
+Coswig-Anhalt
+Elbe-km 236.5
+Wittenberg
+Elbe-km 214.1
+Mauken
+Elbe-km 184.5
+Fig. 5. Difference in dike failure probabilities between the ﬂood scenarios: (a) 100 ydb and 100 y, (b) 200 ydb and 200 y, (c) 500 ydb and 500 y, and (d) 1000 ydb and 1000 y.
+Legend in (a) applies to (b–d).
+126 S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131
+
+[[PAGE 8]]
+The deployment of the projected detention basin leads primarily
+to a reduction of dike breach probabilities (up to 36% points) for all
+magnitude scenarios ( Fig. 5). The reduction is more pronounced in
+scenarios for T = 200, 500 and 1000 years. The reduction of dike fail-
+ures is mainly clustered on the left-side dike stretch opposite to the
+City of Wittenberg. Additionally, less frequent breaches are de-
+tected for some dike sections opposite to the detention basin. A
+few dike sections are exposed to more frequent failures. However,
+the increase is very weak and nearly at the level of noise of ±3%
+points. The slight increase in dike breach probabilities (up to 4.4%
+points) is spatially clustered at the end of the reach for scenarios
+with T = 500 and 1000 (more frequent breaches indicated in red
+and orange in Fig. 5 c and d), which is due to the higher ﬂows
+(Fig. 4) at this location (Elbe-km 245.5). This is a consequence of in-
+creased stability of upstream dikes. Closer scrutiny of this pattern is
+provided by the disaggregation of probabilities according to breach
+mechanisms exempliﬁed for the 500 db scenario (Fig. 6a–c).
+We question, whether the deployment of the detention basin
+results in shifts in frequency of breach mechanisms, e.g. whether
+the reduction of overtopping frequencies leads to increase of fre-
+quencies of piping and micro-instability. It becomes evident that
+considerable reduction of dike failure probabilities is primarily
+due to overtopping ( Fig. 6 a). It is conjugated with the very weak
+but spatially agglomerated increase of breach frequencies due to
+piping and slope micro-instability ( Fig. 6b and c). Those agglomer-
+ations are detected mainly for the dike sections which are located
+near or farther downstream of dikes with reduced overtopping fre-
+quencies (downstream of Wittenberg). This pattern suggests that
+the decrease in overtopping failure probability, which reacts sensi-
+tively to the detention basin deployment, leads to the lower water
+level extremes. This slightly enhanced stability of non-overtopped
+dikes resulted in the greater average load in terms of water level
+and duration. This impels a very weak but spatially agglomerated
+increase of dike failures due to piping and micro-instability down-
+stream of Wittenberg that is manifested in the total increasing
+breach probabilities ( Fig. 5 b and c).
+This result is further conﬁrmed by the small changes in relative
+frequency of mechanisms responsible for dike failures ( Fig. 6 d).
+The diagram indicates a slight decrease of overtopping failure fre-
+quency in favour of piping and micro-instability, when scenarios of
+corresponding magnitudes with and without the detention basin
+are compared. Generally, there are only little variations in breach
+frequencies across the scenario set. There seems to be no signiﬁ-
+cant impact of ﬂood magnitude on the distribution of failure mech-
+anisms. The simulated mechanism frequency is similar to the one
+observed during the 2002 ﬂood in the Elbe catchment, although
+overtopping is somewhat overestimated.
+The detention basin was shown capable to considerably reduce
+the breach probability due to overtopping for several dike sections,
+typically in the range from 5% to 25% points, locally up to 36%
+points. Simultaneously, very slight but spatially agglomerated in-
+crease in failure probabilities due to piping and slope micro-insta-
+bility were detected. The net effect of the breach frequency
+alteration on the ﬂood hazard is explored in the following section.
+(a)
+(c)
+(b)
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100y 100ydb 200y 200ydb 500y 500ydb 1000y 1000ydb Elbe
+2002
+Frequency [%]
+Scenario/Obseravtion
+Overtopping Piping Micro-instability Other meachanisms
+(d)
+0482
+Kilometer
+0482
+Kilometer
+0482
+Kilometer
+Difference [% points]
+2 - 4.4
+1 - 2
+0 - 1
+0
+-5 - 0
+-15 - -5
+-30 - -15
+-36 - -30
+Fig. 6. Difference in dike failure probabilities between the ﬂood scenarios 500 ydb and 500 y for: (a) overtopping, (b) piping and (c) micro-instability breach mechanisms.
+Legend in (a) applies to (b) and (c). (d) Relative frequency of considered dike breach mechanisms responsible for dike failures in simulated scenario s with and without the
+detention basin. Relative frequency of observed breaches in the Elbe catchment during the 2002 ﬂood event.
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 127
+
+[[PAGE 9]]
+3.3. Impact on ﬂood hazard
+IHAM computes probabilistic ﬂood hazard maps which display,
+for each scenario, the ﬂood intensity indicators (e.g. maximum
+inundation depth and duration) for different percentiles. For each
+raster cell, median and uncertainty range for maximum inundation
+depths and durations are computed in the Monte Carlo framework.
+Fig. 7a and b provides an example of median maximum inundation
+depths and durations for the scenario 500 y as well as correspond-
+ing dike failure probabilities. The impact of detention basin deploy-
+ment on ﬂood hazard was analysed in terms of changes in
+inundation depth and duration. These ﬂood intensity indicators
+are decisive for direct economic damages to residential buildings
+and to agricultural crops.
+The deployment of the detention basin results mainly in the
+reduction of the median maximum inundation depths, as shown
+for the comparison of the 500-year scenarios ( Fig. 7 c). Obviously,
+the area inside the basin experiences much more intensive inunda-
+tion when ﬂooded intentionally which is emphasized in the
+increase of the median maximum depths inside the basin (gener-
+ally up to 0.5–2 m, with higher level of up to >4 m in local depres-
+sions). The comparison of the respective scenarios with and
+without the detention basin indicates a hazard relief for down-
+stream areas in terms of maximum water depth (up to 2.82 m
+for the median maximum depth). The vast majority of the inun-
+dated areas in the downstream half of the reach experienced a
+decline of maximum water depths. The strongest hazard relief is
+attained directly downstream of the detention basin and closely
+to the dike sections with reduced overtopping probability near
+Wittenberg ( Fig. 6 a). The map for median inundation duration
+exhibits widely similar patterns as the map for median maximum
+inundation depth ( Fig. 7 d). Generally, in the areas of decreasing
+maximum water depth, inundation duration also decreases.
+The analysis carried out in this section showed that the deploy-
+ment of the detention basin has a potential to reduce maximum
+inundation depth and duration for downstream parts of the reach.
+However, a more severe hazard is to be expected inside the deten-
+tion basin due to controlled ﬂooding. Whether the redistribution of
+the hazard is economically bearable can be determined by analys-
+ing the expected damages.
+3.4. Uncertainty in loss estimation and impact on ﬂood risk
+Flood risk is deﬁned by the product of the event probability and
+its consequence. We assess the consequence of ﬂood in terms of
+direct economic damages. The damage models for residential
+buildings and agricultural crops described in Section 2.2.2 were
+used to compute the damage in monetary terms. Fig. 8 presents
+the summary of inundation losses across all scenarios and damage
+models for residential buildings.
+The uncertainty in losses represented in Fig. 8 is attributed to
+the uncertainty in hazard and uncertainty in damage modelling.
+The uncertainty in hazard modelling resulting from uncertainty
+in ﬂood wave shape (using a single extreme value model) and dike
+breach stochasticity (dike breach location, breach time and breach
+width) is represented by the 10–90th percentile range of each bar.
+Fig. 7. Dike breach probabilities and median maximum inundation: (a) depth and (b) duration for the scenario 500 y. Difference between the scenarios 500 ydb and 500y in (c)
+median maximum inundation depths and (d) median inundation duration.
+128 S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131
+
+[[PAGE 10]]
+The uncertainty in damage modelling for one scenario is given by
+the maximum range of losses across all bars, i.e. across all damage
+models, for a certain percentile. For example, consider for the
+100y-scenario the median value at all bars corresponding to differ-
+ent damage models ( Fig. 8 ). The value range MURL-median–
+HYDROTEC-median represents the uncertainty due to the selection
+of a damage model.
+It becomes apparent that the uncertainty in ﬂood risk is domi-
+nated by the uncertainty in damage estimation compared to the
+uncertainty in hazard. This conclusion was already drawn by Apel
+et al. (2009) , who considered hydraulic and damage models of dif-
+ferent complexity to estimate the risk. Merz and Thieken (2009)
+found, however, in case of the City of Cologne that uncertainty in
+hazard due to choice of the statistical model for extreme values
+and inundation models exceeds the uncertainty in damage models.
+The uncertainty in losses due to hazard estimation and damage
+models increases with ﬂood magnitude. This is expressed by longer
+bars and larger range of respective percentiles for high-magnitude
+scenarios compared to the lower ones ( Fig. 8 ). The differences in
+loss estimation by different damage models increase with increas-
+ing ﬂood magnitude. This can be explained by the different slopes
+of the damage curves used in different models (see e.g. Apel et al.
+(2009)), i.e. with increasing ﬂood depths the proportional increase
+in damage is different across models. The uncertainty in ﬂood
+losses due to the uncertainty in hazard grows as well with increas-
+ing scenario magnitude ( Fig. 8 ).
+This uncertainty is controlled by the ﬂood wave shape and dike
+breach stochasticity. Upscaling the normalized ﬂood hydrographs
+(Fig. 3 ) to different return periods, one changes the ﬂood volume
+(the area under the ﬂood hydrograph curve) unproportionally for
+different hydrograph clusters. This unproportional change partly
+contributes to the larger interpercentile range (10–90th percen-
+tiles) for higher return periods. The other three uncertainty sources
+– breach location, breach point in time and breach width – are
+responsible for volume redistribution in space. For lower magnitude
+events, dike breaching processes exhibit more randomness and
+have a stronger inﬂuence on uncertainty in hazard ( Vorogushyn
+et al., 2010 ). With increasing ﬂood magnitude, randomness of
+failures reduces, i.e. in a ﬁxed number of Monte Carlo runs breach
+patterns converge faster. Hence, the variability in ﬂood hydrograph
+volume exhibits an increasing inﬂuence on uncertainty in losses
+with increasing ﬂood magnitude.
+The deployment of the detention basin led generally to a reduc-
+tion of damages to residential buildings for all damage models. The
+damages corresponding to high percentiles were stronger reduced
+than those corresponding to the lower percentiles. The result
+seems to be logical, since the detention basin buffers higher dis-
+charges more strongly, discharges that would otherwise cause
+more frequent breaches and high damages.
+Additionally, we computed the avoided expected annual dam-
+age in both asset classes, residential buildings and agricultural
+crops, in order to evaluate the beneﬁt of the detention basin
+(Table 4). In this way, the impact on the different sectors was made
+comparable since the damages to the agricultural sector cannot be
+expressed as single event ﬂood damage in a certain year because of
+the dependence on the month of occurrence. The results manifest
+the already observed stronger reduction of the high-percentile
+damages across all models for the private sector. It becomes evi-
+dent that the deployment of the detention basin leads to an in-
+creased EAD in the agricultural sector in our modelling exercise.
+The losses to agricultural crops in the vicinity of the detention area
+cannot be compensated by the reduction of the ﬂooded areas and
+inundation durations further downstream. However, the savings
+in EAD for the private sector exceed the losses in the agricultural
+sector based on three of the four damage models. Only the median
+of the MURL damage function, known for considerable underesti-
+mation of ﬂood damages ( Thieken et al., 2008 ) indicated lower sav-
+ings than expected loss increases.
+When comparing the avoided EAD using the FLEMOps model –
+the only validated damage model for the Elbe catchment – the sav-
+ings across all percentiles compensate the losses in the agricultural
+sector. Particularly, the median and the 90th percentile of the
+avoided EAD manifest considerable positive balance. It means that
+with the probability of 50%, one would attain a considerable posi-
+tive avoided EAD value.
+4. Conclusions
+The IHAM methodology was applied for the assessment of a
+detention basin impact on ﬂood wave, dike breach probability
+0
+50,000
+100,000
+150,000
+200,000
+250,000
+100y 200y 500y 1000y
+FLEMO
+MURL
+ICPR
+Hydrotec
+th90  percentile
+median
+th10  percentile
+Inundation loss in [thousand Euro]
+Scenarios
+350,000
+300,000
+Fig. 8. Flood losses to residential buildings computed by different damage models. Solid and dashed lines represent scenarios without and with the detentio n basin,
+respectively.
+Table 4
+Reduction in EAD (thousand € yr/C0 1) over all scenarios and percentiles.
+Damage model/sector 10th percentile Median 90th percentile
+MURL 8.19 8.97 16.08
+ICPR 21.51 32.41 59.2
+FLEMOps 54.61 37.13 78.19
+Hydrotec 104.31 75.78 148.82
+Agricultural sector /C0 7.87 /C0 15.42 /C0 4.77
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 129
+
+[[PAGE 11]]
+and inundation hazard. The effect of the detention basin deploy-
+ment was tested for extreme ﬂood scenarios with return periods
+of 100, 200, 500 and 1000 years. Different changes in patterns of
+dike breach probabilities were modelled and are associated with
+the systemic effect of dike load and relief due the deployment of
+the detention basins. With respect to ﬂood damage and risk, resi-
+dential buildings and agricultural crops were taken into account.
+We systematically analysed the uncertainty in the computation
+of hazard and damage taking into account the following aspects.
+The uncertainty in hazard is associated with the uncertainty in
+ﬂood hydrograph shape for a particular return period, dike breach
+location, breach time and ultimate breach width. The investigated
+uncertainty in the damage estimation originates from uncertainty
+in susceptibility represented by different applied damage functions
+or models. Uncertainties associated with exposure were not taken
+into account. Still, differences between the building damage esti-
+mates from the different models are large. It was demonstrated
+that in this case, the uncertainty due to the selection of a damage
+model exceeds the uncertainty in losses due to uncertain hazard
+estimation. Nevertheless, we can conclude that even using very
+simpliﬁed assumptions about the design and operation of the pro-
+posed detention basin, which do not guarantee the highest beneﬁt,
+the tangible beneﬁt in terms of the avoided expected annual dam-
+age for private households exceeds the higher possible damages to
+the agricultural sector. The latter result from a controlled ﬂooding
+of the detention basin and cannot be compensated by the avoided
+damages to the agricultural crops in the downstream part of the
+reach.
+The general result for the ﬂood risk reduction due to the deten-
+tion basin would probably hold or even a stronger reduction would
+be achieved, if further economic sectors (e.g. infrastructure, indus-
+try) are taken into account in damage estimation. Since there is
+only agricultural use inside the detention basin, this is the only sec-
+tor expecting higher ﬂood damages due to the deployment of the
+basin. Flood damage of all other sectors will be reduced due to
+the lower ﬂood intensity, i.e. lower maximum depths and shorter
+inundation durations, downstream.
+In this particular test study, the uncertainty in damage model-
+ling did not substantially affected the ﬁnal conclusion about the
+effectiveness of the detention basin. However, we have demon-
+strated the huge uncertainty range across the damage models
+which may become prohibitive in other cases. We therefore advo-
+cate the use of the multifactorial damage model FLEMOps, which
+has been shown to outperform simple depth-damage functions
+particularly in the Elbe catchment, for which it has been success-
+fully validated ( Thieken et al., 2008; Kreibich and Thieken, 2008 ).
+Additionally, we plea to a more extensive validation of damage
+models across different river basins. At this point, we stress the
+necessity to systematically collect the post-ﬂood damage-related
+data in a consistent form as for instance suggested in the HO-
+WAS21 ﬂood damage database ( Thieken et al., 2009 ) and also
+advocated by Elmer et al. (2010) in order to be used for damage
+model development and validation.
+Despite the fact that it is always difﬁcult to generalise or trans-
+fer the results of a ﬂood risk analysis to another region, one can
+speculate that generally the controlled use of a detention basin will
+lead to a ﬂood risk reduction if it is appropriately planned and
+operated, i.e. asset values downstream of the basin can be saved
+due to the retention of water and if the land use within the basin
+is strictly limited to low value agricultural use over a long time.
+Acknowledgements
+The authors are grateful to the LHW Sachsen-Anhalt, LTV Sach-
+sen and Federal Institute of Hydrology (BfG) for provision of dike
+and detention basin data. Geoinformation (DEM-D-50, DEM-D-
+25, ATKIS) is provided by Vermessungsverwaltung der Bundeslän-
+der und BKG ( www.bkg.bund.de).
+References
+Apel, H., Thieken, A.H., Merz, B., Blöschl, G., 2004. Flood risk assessment and
+associated uncertainty. Natural Hazards and Earth System Sciences 4, 295–308.
+Apel, H., Thieken, A.H., Merz, B., Blöschl, G., 2006. A probabilistic modelling system
+for assessing ﬂood risks. Natural Hazards 38, 79–100. http://dx.doi.org/10.1007/
+s11069-005-8603-7.
+Apel, H., Aronica, G.T., Kreibich, H., Thieken, A.H., 2009. Flood risk analyses – how
+detailed do we need to be? Natural Hazards 49, 79–98. http://dx.doi.org/
+10.1007/s11069-008-9277-8.
+Bronstert, A.E., 2004. Möglichkeiten der Minderung des Hochwasserrisikos durch
+Nutzung von Flutpoldern an Havel und Oder. Schlussbericht zum BMBF-Projekt
+im Rahmen des Vorhabens ‘‘Bewirtschaftungsmöglichkeiten im Einzugsgebiet
+der Havel’’. Institut für Geoökologie, Universität Potsdam (in German).
+Büchele, B., Kreibich, H., Kron, A., Thieken, A.H., Ihringer, J., Oberle, P., Merz, B.,
+Nestmann, F., 2006. Flood-risk mapping: contributions towards an enhanced
+assessment of extreme events and associated risks. Natural Hazards and Earth
+System Sciences 6, 485–503.
+Chatterjee, C., Förster, S., Bronstert, A., 2008. Comparison of hydrodynamic models
+of different complexities to model ﬂoods with emergency storage areas.
+Hydrological Processes 22, 4695–4709. http://dx.doi.org/10.1002/hyp.70792.
+Chen, C.N., Tsai, C.H., Tsai, C.T., 2007. Reduction of discharge hydrograph and ﬂood
+stage resulted from upstream detention ponds. Hydrological Processes 21,
+3492–3506. http://dx.doi.org/10.1002/hyp.6546.
+Chow, V.T., 1959. Open Channel Hydraulics. McGraw-Hill, New York, USA.
+de Kok, J.L., Grossmann, M., 2010. Large-scale assessment of ﬂood risk and the
+effects of mitigation measures along the Elbe River. Natural Hazards 52, 143–
+166.. http://dx.doi.org/10.1007/s11069-009-9363-6.
+DLR and UBA, 2000. CORINE Land Cover 2000. Daten zur Bodenbedeckung
+Deutschland (Data on land cover Germany). German Aerospace Center,
+German Remote Sensing Data Center. The Federal Environment Agency,
+Oberpfaffenhofen, Berlin, Germany.
+Elmer, F., Seifert, I., Kreibich, H., Thieken, A.H., 2010. A Delphi method expert survey
+to derive standards for ﬂood damage data collection. Risk Analysis 30, 107–124.
+http://dx.doi.org/10.1111/j.1539-6924.2009.01325.x.
+Förster, S., Kneis, D., Gocht, M., Bronstert, A., 2005. Flood risk reduction by the use of
+retention areas at the Elbe River. International Journal of River Basin
+Management 3, 21–29.
+Förster, S., Chatterjee, C., Bronstert, A., 2008a. Hydrodynamic simulation of the
+operational management of a proposed ﬂood emergency storage area at the
+Middle Elbe River. River Research and Applications 24, 900–913. http://
+dx.doi.org/10.1002/rra.1090.
+Förster, S., Kuhlmann, B., Lindenschmidt, K.-E., Bronstert, A., 2008b. Assessing ﬂood
+risk for a rural detention area. Natural Hazards and Earth System Sciences 8,
+311–322.
+Gierk, M., Bodis, K., Younis, J., Szabo, J., De Roo, A., 2008. The Impact of Retention
+Polders, Dyke-shifts and Reservoirs on Discharge in the Elbe River. JRC Scientiﬁc
+and Technical Report JRC 49172, JRC Joint Research Centre. doi: http://
+dx.doi.org/10.2788/68635.
+Helms, M., Büchele, B., Merkel, U., Ihringer, J., 2002. Statistical analysis of the ﬂood
+situation and assessment of the impact of diking measures along the Elbe (Labe)
+river. Journal of Hydrology 267, 94–114.
+Hesselink, A.W., Stelling, G.S., Kwadijk, J.C.J., Middelkoop, H., 2003. Inundation of a
+Dutch river polder, sensitivity analysis of a physically based inundation model
+using historic data. Water Resources Research 39, 1234.. http://dx.doi.org/
+10.1029/2002WR001334.
+Horritt, M.S., Bates, P.D., 2001. Predicting ﬂoodplain inundation: raster-based
+modelling versus ﬁnite element approach. Hydrological Processes 15, 825–842.
+Horritt, M.S., Bates, P.D., 2002. Evaluation of 1D and 2D numerical models for
+predicting river ﬂood inundation. Journal of Hydrology 268, 87–99.
+Huang, S., Rauberg, J., Apel, H., Disse, M., Lindenschmidt, K.-E., 2007. The
+effectiveness of polder systems on peak discharge capping of ﬂoods along the
+middle reaches of the Elbe River in Germany. Hydrology and Earth System
+Sciences 11, 1391–1401.
+Hunter, N.M., Bates, P.D., Horritt, M.S., De Roo, P.J., Werner, M.G.F., 2005. Utility of
+different data types for calibrating ﬂood inundation models within a GLUE
+framework. Hydrology and Earth System Sciences 9, 412–430.
+HYDROTEC, 2001. Hochwasser-Aktionsplan Angerbach (Flood action plan for the
+river Angerbach). Teil I: Berichte und Anlagen. Study in order of the National
+Environmental Agency of the city of Düsseldorf, Aachen, Germany (in German).
+HYDROTEC, 2002. Hochwasser-Aktionsplan Lippe (Flood action plan for the river
+Lippe). Teil I: Berichte und Anlagen. Study in order of the National
+Environmental Agency of the city of Lippstadt, Aachen, Germany (in German).
+ICPR, 2001. Atlas on the Risk of Flooding and Potential Damage due to Extreme
+Floods of the Rhine. Technical Report, International Commission for the
+Protection of the Rhein, Koblenz, Germany.
+IKSE, 2003. Aktionsplan Hochwasserschutz Elbe. Technical Report, Internationale
+Kommission zum Schutz der Elbe, 79 pp.
+INFAS Geodaten, 2001. Das Data Wherehouse. INFAS GEOdaten GmbH. Bonn.
+IWK, 2004. Untersuchung von Hochwasserretentionsmaßnahmen entlang der Elbe
+im Bereich der Landkreis Wittenberg und Anhalt-Zerbst (Kurzfassung).
+130 S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131
+
+[[PAGE 12]]
+Technical Report. Institut für Wasserwirtschaft und Kulturtechnik, Universität
+Karlsruhe (in German).
+Jaffe, D.A., Sanders, B.F., 2001. Engineered levee breaches for ﬂood mitigation.
+Journal of Hydraulic Engineering (ASCE) 127, 471–479.
+King, L., Hartmann, H., Gemmer, M., Becker, S., 2004. Der Drei-Schluchten-
+Staudamm am Yangtze – Ein Großbauprojekt und seine Bedeutung für den
+Hochwasserschutz. Petermanns Geographische Mitteilungen 148, 26–33.
+Kleist, L., Thieken, A.H., Köhler, P., Müller, M., Seifert, I., Borst, D., Werner, U., 2006.
+Estimation of the regional stock of residential buildings as a basis for
+comparative risk assessment for Germany. Natural Hazards and Earth System
+Sciences 6, 541–552.
+Kreibich, H., Thieken, A.H., 2008. Assessment of damage caused by high
+groundwater inundation. Water Resources Research 44, W09409. http://
+dx.doi.org/10.1029/2007WR006621.
+Kuhlmann, B., 2010. Schäden in der Landwirtschaft. In: Thieken, A.H., Seifert, I.,
+Merz, B. (Eds.), Hochwasserschäden. Erfassung, Abschätzung und Vermeidung,
+oekom, Munich, Germany, pp. 223–234 (in German).
+LfUG, 2005. Hochwasser in Sachsen. Gefahrenhinweiskarten. Technical Report,
+Sächsisches Landesamt für Umwelt und Geologie (in German).
+Lin, C.A., Wen, L., Lu, G., Wu, Z., Zhang, J., Yang, Y., Zhu, Y., Tong, L., 2010. Real-time
+forecast of the 2005 and 2007 summer severe ﬂoods in the Huaihe River Basin
+of China. Journal of Hydrology 381, 33–41. http://dx.doi.org/10.1016/
+j.jhydrol.2009.11.017.
+LTV, 2010. HWSK-Arbeitsdaten. Landestalsperrenverwaltung Sachsen, unpublished.
+LUA, 2002. Das Elbehochwasser im Sommer 2002. Technical Report Heft 73,
+Landesumweltamt Brandenburg (in German).
+Mennis, J., 2003. Generating surface models of population using dasymetric
+mapping. Professional Geographer 55, 31–42.
+Merz, B., Thieken, A.H., 2009. Flood risk curves and uncertainty bounds. Natural
+Hazards 51, 437–458. http://dx.doi.org/10.1007/s11069-009-9452-6.
+Merz, B., Kreibich, H., Thieken, A.H., Schmidtke, R., 2004. Estimation uncertainty of
+direct monetary ﬂood damage to buildings. Natural Hazards and Earth System
+Sciences 4, 153–163. http://dx.doi.org/10.5194/nhess-4-153-2004.
+Merz, B., Elmer, F., Thieken, A., 2009. Signiﬁcance of ‘‘high probability/low
+damage’’ versus ‘‘low probability/high damage’’ ﬂood events. Natural Hazards
+and Earth System Sciences 9, 1033–1046. http://dx.doi.org/10.5194/nhess-9-
+1033-2009.
+MURL, 2000. Hochwasserschadenspotenziale am Rhein in Nordrhein-Westfalen
+(Flood damage potentials at the river Rhine in North Rhine-Westphalia). Final
+Report. Ministry of the Environment and Conservation, Agriculture and
+Consumer Protection of the German State of North Rhine-Westphalia.
+Düsseldorf, Germany (in German).
+Nestmann, F., Büchele, B., 2002. Morphodynamik der Elbe. Final Report, Institut für
+Wassewirtschaft und Kulturtechnik, Universität Karlsruhe. ISBN: 3-00-008977-2.
+Paik, K., 2008. Analytical derivation of reservoir routing and hydrological risk
+evaluation of detention basins. Journal of Hydrology 352, 191–201. http://
+dx.doi.org/10.1016/j.jhydrol.2008.01.015.
+Sanders, B.F., Pau, J.C., Jaffe, D.A., 2006. Passive and active control of diversions to an
+off-line reservoir for ﬂood stage reduction. Advances in Water Resources 29,
+861–871. http://dx.doi.org/10.1016/j.advwatres.2005.07.015.
+Shu, L., Finlayson, B., 1993. Flood management on the lower Yellow River:
+hydrological and geomorphological perspectives. Sedimentary Geology 85,
+285–296.
+Thieken, A.H., Müller, M., Kreibich, H., Merz, B., 2005. Flood damage and inﬂuencing
+factors: new insights from August 2002 ﬂood in Germany. Water Resources
+Research, 41. http://dx.doi.org/10.1029/2005WR004177.
+Thieken, A.H., Kreibich, H., Merz, B., 2006. Improved modelling of ﬂood losses in
+private households. In: Kundzewicz, Z., Hattermann, F. (Eds.), Natural Systems
+and Global Change. Polish Academy of Sciences and Potsdam Institute of
+Climate Impact Research, Poznan, Poland and Potsdam, Germany, pp. 142–150.
+Thieken, A.H., Olschewski, A., Kreibich, H., Kobsch, S., Merz, B., 2008. Development
+and evaluation of FLEMOps – a new Flood Loss Estimation MOdel for the private
+sector. In: Proverbs, D., Brebbia, C.A., Penning-Rowsell, E. (Eds.), Flood Recovery
+Innovation and Response. WIT Press, Southhampton, UK, pp. 315–324.
+Thieken, A.H., Seifert, I., Elmer, F., Maiwald, F., Haubrock, S., Schwarz, J., Müller, M.,
+Seifert, J.-O., 2009. Standartisierte Erfassung und Bewertung von
+Hochwasserschäden. Hydrologie und Wasserbewirtschaftung 53, 198–207.
+USACE, 1995. CE-QUAL-RIV1: A Dynamic, One-Dimensional (Longitudinal) Water
+Quality Model for Streams. Technical Report. Environmental Laboratory, US
+Army Corps of Engineers. Vicksburg, MS. User’s Manual. Final Report.
+Vorogushyn, S., Merz, B., Apel, H., 2009. Development of dike fragility curves for
+piping and micro-instability breach mechanisms. Natural Hazards and Earth
+System Sciences 9, 1383–1401.
+Vorogushyn, S., Merz, B., Lindenschmidt, K.-E., Apel, H., 2010. A new methodology
+for ﬂood hazard assessment considering dike breaches. Water Resources
+Research 46, W08541. http://dx.doi.org/10.1029/2009WR008475.
+WASY, 2005. Untersuchungen zur Optimierung der Flutung der Havelpolder bei
+Extremhochwässern. Gutachten im Auftrag des Landesumweltamtes
+Brandenburg. WASY Gesellschaft für Wasserwirtschaftliche Planung und
+Systemforschung mbH, unpublished.
+S. Vorogushyn et al. / Journal of Hydrology 436–437 (2012) 120–131 131
