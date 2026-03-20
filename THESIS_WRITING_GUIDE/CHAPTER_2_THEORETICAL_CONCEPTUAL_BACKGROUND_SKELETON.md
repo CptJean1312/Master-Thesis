@@ -4,6 +4,9 @@ Built from:
 - `/Users/maxi_161/Desktop/UNI/Master/THESIS/THESIS.docx`
 - `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/LITERATURE_TXT_ALL`
 
+Companion file:
+- `/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_WRITING_GUIDE/CHAPTER_2_QUOTE_BANK_FULL_LIBRARY_SWEEP.md`
+
 This is **not** running prose. It is a high-detail writing skeleton for Chapter 2. It is designed so that you can write the chapter by connecting the points below, instead of having to invent the theoretical structure while writing.
 
 ---
@@ -25,6 +28,11 @@ This is **not** running prose. It is a high-detail writing skeleton for Chapter 
 
 ## One-sentence chapter logic
 - Because flood exposure and protection are shaped by governance, social structure, and coupled human-water dynamics, the distributive analysis of flood risk in the Elbe context requires both a justice framework and a socio-hydrological understanding of risk.
+
+## Full-library sweep note
+- This chapter skeleton was first built from a targeted core set, but it has now been checked against the full literature library.
+- Use the companion quote bank to avoid relying only on the initially proposed texts.
+- If you feel a paragraph is still too thin, check the `Additional sources surfaced by the full-library sweep` section in the quote-bank file before searching for new literature elsewhere.
 
 ## Things Chapter 2 must not do
 - Do **not** explain your full empirical workflow yet; that belongs to Chapters 3 and 4.
@@ -712,6 +720,12 @@ These are the highest-priority sources for writing this chapter.
 - `Uncertainty Analysis for a Social Vulnerability Index`
 - `A Sensitivity Analysis of the Social Vulnerability Index`
 - `Modeling the Impacts of Urban Flood Risk Management on Social Inequality`
+- `The determinants of private flood mitigation measures in Germany— Evidence from a nationwide survey`
+- `Individual flood risk adaptation in Germany: exploring the role of different types of flooding`
+- `Assessing social capacity and vulnerability of private households to Atmospheric natural hazards – integrating psychological and governance factors`
+- `Social and environmental vulnerability to flooding: Investigating cross-scale hypotheses`
+- `JoHM_2017_02_Entwicklung_Deprivationsindex`
+- `Tailored flood risk management: Accounting for socio-economic and cultural differences when designing strategies`
 
 ### Tier 3 - optional context extras if you need them
 - `Floods, flood policies and changes in welfare and inequality: Evidence from Germany`
