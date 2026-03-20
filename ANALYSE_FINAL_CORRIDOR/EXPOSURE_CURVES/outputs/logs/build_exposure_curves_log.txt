@@ -1,0 +1,7 @@
+2026-03-20 13:21:22 | Loading exposure table, quality checks, and corridor geometry. 
+2026-03-20 13:21:22 | Filled missing AGS/name in exposure table from corridor geometry by matched row order:  1 
+2026-03-20 13:21:22 | Filled missing AGS in quality table from corridor geometry by matched row order:  1 
+2026-03-20 13:21:22 | Computing curve metrics for each municipality. 
+2026-03-20 13:21:24 | Joining metrics back to geometry. 
+2026-03-20 13:21:24 | Creating plots. 
+2026-03-20 13:21:25 | Done. 
