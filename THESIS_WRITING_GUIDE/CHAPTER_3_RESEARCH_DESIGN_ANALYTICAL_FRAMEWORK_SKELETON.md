@@ -94,11 +94,11 @@ The chapter follows the existing thesis structure from `THESIS.docx`, but it is 
 
 ## Recommended internal rhythm
 - `OVERALL APPROACH`: 2 to 3 paragraphs
-- `RESEARCH QUESTION RECAP`: 1 to 2 paragraphs
+- `RESEARCH QUESTIONS`: 1 to 2 paragraphs
 - `CONCEPTUAL MODEL`: 2 to 3 paragraphs
 - `SPATIAL UNIT OF ANALYSIS`: 2 to 3 paragraphs
 - `EQUITY ASSESSMENT LOGIC`: 2 to 3 paragraphs
-- `LIMITATIONS & ASSUMPTIONS`: 2 to 3 paragraphs
+- `SCOPE, ASSUMPTIONS & LIMITS`: 2 to 3 paragraphs
 
 ## How Chapter 3 should connect to Chapter 2
 - Chapter 2 ended with the conceptual triad `exposure - vulnerability - protection`.
@@ -259,7 +259,7 @@ The chapter follows the existing thesis structure from `THESIS.docx`, but it is 
 
 ---
 
-## RESEARCH QUESTION RECAP
+## RESEARCH QUESTIONS
 
 ### Core function of this subsection
 - Restate the two fixed research questions exactly as they stand.
@@ -344,7 +344,7 @@ The chapter follows the existing thesis structure from `THESIS.docx`, but it is 
 **Transition out of subsection**
 - Move from the research questions to the conceptual model that structures the rest of the chapter.
 
-### Mini-checklist for RESEARCH QUESTION RECAP
+### Mini-checklist for RESEARCH QUESTIONS
 - Did you quote the two research questions exactly?
 - Did you explain how the corridor design still serves the basin-framed questions?
 - Did you define the thesis as distributive rather than causal or intentional?
@@ -719,7 +719,7 @@ The chapter follows the existing thesis structure from `THESIS.docx`, but it is 
 
 ---
 
-## LIMITATIONS & ASSUMPTIONS
+## SCOPE, ASSUMPTIONS & LIMITS
 
 ### Core function of this subsection
 - Make the central assumptions of the design explicit.
@@ -871,7 +871,7 @@ The chapter follows the existing thesis structure from `THESIS.docx`, but it is 
 - Move into Chapter 4 with a line like:
   - `The next chapter details the datasets, preprocessing steps, and analytical procedures used to operationalize this research design.`
 
-### Mini-checklist for LIMITATIONS & ASSUMPTIONS
+### Mini-checklist for SCOPE, ASSUMPTIONS & LIMITS
 - Did you distinguish corridor scope from broader Elbe-basin framing?
 - Did you acknowledge area-share exposure vs people/assets?
 - Did you explain vulnerability-index uncertainty clearly?
@@ -940,4 +940,3 @@ Reason:
   - municipality as spatial unit?
 - Does it position the vulnerability index as analytically useful but methodologically constructed and uncertain?
 - Does it prepare Chapter 4 rather than duplicate it?
-
