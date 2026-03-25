@@ -76,6 +76,9 @@ FINAL REMARKS	34
 LITERATURE	35
  
 1.	Introduction
+> "Floods are 'acts of God,' but flood losses are largely acts of man."  
+> (White, 1945)
+
 Motivation & Problem Framing
 Flooding is among the most consequential environmental hazards of contemporary societies. As Jongman et al. (2012) note, flooding of coastal and fluvial systems affects several million people globally each year, while the population and value of assets located in flood-prone areas have increased substantially over recent decades. Their global assessment further suggests that economic exposure to river and coastal flooding has grown sharply and is likely to continue rising in the future. In other words, flood risk is not only a matter of extreme hydrometeorological events. It is also a product of how populations, infrastructures, and economic assets have become increasingly concentrated in vulnerable locations. This makes flooding a problem of both physical hazard and socio-economic development.
 
