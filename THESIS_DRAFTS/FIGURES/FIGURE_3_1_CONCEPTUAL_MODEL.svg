@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980">
+  <defs>
+    <style>
+      .title { font: 700 34px Georgia, 'Times New Roman', serif; fill: #1f1f1f; }
+      .subtitle { font: 400 18px Georgia, 'Times New Roman', serif; fill: #555555; }
+      .box-title { font: 700 24px Georgia, 'Times New Roman', serif; fill: #1f1f1f; }
+      .box-text { font: 400 18px Georgia, 'Times New Roman', serif; fill: #2d2d2d; }
+      .small { font: 400 16px Georgia, 'Times New Roman', serif; fill: #404040; }
+      .arrow-label { font: 600 16px Georgia, 'Times New Roman', serif; fill: #444444; }
+      .caption { font: 400 16px Georgia, 'Times New Roman', serif; fill: #555555; }
+      .frame { fill: #fcfbf7; stroke: #d9d2c3; stroke-width: 2; }
+      .hazard { fill: #dfeef8; stroke: #6f9fbb; stroke-width: 2.5; }
+      .exposure { fill: #f9e6cf; stroke: #c58f55; stroke-width: 2.5; }
+      .vuln { fill: #e4efdf; stroke: #7aa06d; stroke-width: 2.5; }
+      .protect { fill: #ece8f5; stroke: #8d7db0; stroke-width: 2.5; }
+      .assessment { fill: #e3e9f7; stroke: #6d83b5; stroke-width: 2.5; }
+      .solid { stroke: #4d4d4d; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+      .dashed { stroke: #6a5f88; stroke-width: 4; fill: none; stroke-dasharray: 12 10; marker-end: url(#arrow-purple); }
+      .fine { stroke: #6f6f6f; stroke-width: 2; fill: none; stroke-dasharray: 6 6; }
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#4d4d4d"/>
+    </marker>
+    <marker id="arrow-purple" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#6a5f88"/>
+    </marker>
+  </defs>
+
+  <rect x="20" y="20" width="1560" height="940" rx="22" class="frame"/>
+
+  <text x="80" y="90" class="title">Conceptual Model of the Study</text>
+  <text x="80" y="124" class="subtitle">From flood hazard to municipality-level exposure, vulnerability, and distributive assessment</text>
+
+  <rect x="90" y="220" width="350" height="220" rx="20" class="hazard"/>
+  <text x="125" y="275" class="box-title">Hydrological Forcing and</text>
+  <text x="125" y="307" class="box-title">Return-Period Flood Hazard</text>
+  <text x="125" y="352" class="box-text">- multi-return-period hazard base</text>
+  <text x="125" y="382" class="box-text">- RP10, RP20, RP50, RP100,</text>
+  <text x="145" y="410" class="box-text">RP200, RP500</text>
+  <text x="125" y="448" class="small">physical flood signal entering the analysis</text>
+
+  <rect x="565" y="140" width="430" height="170" rx="20" class="protect"/>
+  <text x="600" y="195" class="box-title">Protection / Protection-Related</text>
+  <text x="600" y="227" class="box-title">Differentiation</text>
+  <text x="600" y="270" class="box-text">- conceptually central</text>
+  <text x="600" y="298" class="box-text">- imperfect and staged empirical treatment</text>
+
+  <rect x="540" y="390" width="480" height="240" rx="20" class="exposure"/>
+  <text x="585" y="448" class="box-title">Municipality-Level Exposure</text>
+  <text x="585" y="492" class="box-text">- flooded area (m²)</text>
+  <text x="585" y="522" class="box-text">- flood share per municipality</text>
+  <text x="585" y="552" class="box-text">- multi-return-period exposure curves</text>
+  <text x="585" y="590" class="small">central empirical outcome of the thesis</text>
+
+  <rect x="160" y="620" width="410" height="220" rx="20" class="vuln"/>
+  <text x="195" y="678" class="box-title">Socio-Economic Vulnerability</text>
+  <text x="195" y="722" class="box-text">- multidimensional INKAR-based index</text>
+  <text x="195" y="752" class="box-text">- deprivation, demography,</text>
+  <text x="215" y="780" class="box-text">household structure, accessibility</text>
+  <text x="195" y="818" class="small">social conditioning dimension</text>
+
+  <rect x="1075" y="510" width="390" height="260" rx="20" class="assessment"/>
+  <text x="1110" y="568" class="box-title">Distributive Assessment</text>
+  <text x="1110" y="612" class="box-text">- compare exposure and vulnerability</text>
+  <text x="1110" y="642" class="box-text">- identify uneven flood-related outcomes</text>
+  <text x="1110" y="672" class="box-text">- interpret later protection-related</text>
+  <text x="1130" y="700" class="box-text">differentiation cautiously</text>
+  <text x="1110" y="738" class="small">justice-relevant pattern, not policy intent</text>
+
+  <path d="M440 330 C500 330, 510 470, 540 500" class="solid"/>
+  <text x="455" y="315" class="arrow-label">hazard translated into exposure</text>
+
+  <path d="M780 310 C780 330, 780 340, 780 388" class="dashed"/>
+  <text x="800" y="352" class="arrow-label">modifies / mediates</text>
+
+  <path d="M1020 510 C1040 560, 1050 600, 1075 635" class="solid"/>
+  <text x="1000" y="492" class="arrow-label">empirical comparison</text>
+
+  <path d="M570 730 C760 780, 960 770, 1075 680" class="solid"/>
+  <text x="710" y="840" class="arrow-label">social meaning of exposure</text>
+
+  <path d="M995 260 C1170 280, 1240 410, 1260 510" class="dashed"/>
+  <text x="1140" y="338" class="arrow-label">later interpretive extension</text>
+
+  <line x1="90" y1="885" x2="1510" y2="885" class="fine"/>
+  <text x="90" y="918" class="caption">Figure 3.1. Conceptual model of the study. Flood hazard enters the analysis through multiple return periods, municipality-level exposure acts as the central empirical outcome, socio-economic vulnerability provides the social conditioning dimension, and protection remains a cautious but conceptually central moderating factor.</text>
+</svg>
