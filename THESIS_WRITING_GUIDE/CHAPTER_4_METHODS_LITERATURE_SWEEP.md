@@ -238,7 +238,7 @@ Where to use:
 
 ---
 
-## Tate (2019) - How Valid Are Social Vulnerability Models?
+## Rufat et al. (2019) - How Valid Are Social Vulnerability Models?
 
 Best use in Chapter 4:
 
@@ -443,6 +443,7 @@ Recommended minimal citation spine:
 - `Fekete (2009, 2010)` for German river-flood vulnerability and PCA/factor-analysis logic
 - `Rufat et al. (2015)` for vulnerability measurement caveats
 - `Tate (2013)` and `Schmidtlein et al. (2008)` for uncertainty/sensitivity in vulnerability indices
+- `Rufat et al. (2019)` for validation cautions in social vulnerability models
 - `Poussard et al. (2021)` for exposure inequality and scale
 - `Serra-Llobet et al. (2022)` and `Tobin (1995)` for residual risk and protection caution
 

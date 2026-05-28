@@ -115,7 +115,10 @@ Methodological role:
 
 Source note:
 
-- final source citation and precise download metadata still need to be inserted once the exact dataset title / provider page is confirmed.
+- official JRC catalogue match: Baugh, Calum; Colonese, Juan; D'Angelo, Claudia; Dottori, Francesco; Neal, Jeffrey; Prudhomme, Christel; Salamon, Peter (2026): *River flood hazard maps for Europe and the Mediterranean Basin region*. European Commission, Joint Research Centre [Dataset]. DOI: `10.2905/JRC.WPE5YRR`; `10.2905/1D128B6C-A4EE-4858-9E34-6210707F3C81`. PID: http://data.europa.eu/89h/1d128b6c-a4ee-4858-9e34-6210707f3c81
+- official dataset page describes the maps as gridded flood water-depth maps for nine return periods from 1-in-10 to 1-in-500 years, created as part of the Copernicus Emergency Management Service
+- related methodology references listed by the catalogue: Alfieri et al. (2014) and Dottori et al. (2022)
+- final bibliography should still verify that the locally downloaded `floodmap_EFAS_RP*_C.tif` files correspond to the cited JRC release/version
 
 ---
 
@@ -391,4 +394,3 @@ Source:
 
 - Überschwemmungsgebiete-DE
 - URL: https://geoportal.bafg.de/inspire/download/AM/floodplain/datasetfeed.xml
-

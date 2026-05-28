@@ -279,7 +279,7 @@ Must-have:
 - Rufat et al. (2015): indicator selection, scale, weighting and aggregation are central issues in social vulnerability modelling
 - Tate (2013): uncertainty in vulnerability indices arises from methodological choices
 - Schmidtlein et al. (2008): sensitivity of SoVI to variable selection and modelling choices
-- Tate (2019): social vulnerability models are useful but validity should not be assumed
+- Rufat et al. (2019): social vulnerability models are useful but validity should not be assumed
 
 Optional:
 
@@ -348,7 +348,7 @@ Must-have:
 - Tate (2013): uncertainty in social vulnerability indices
 - Schmidtlein et al. (2008): sensitivity analysis of SoVI
 - Rufat et al. (2015): methodological cautions in social vulnerability measurement
-- Tate (2019): validation of social vulnerability models
+- Rufat et al. (2019): validation of social vulnerability models
 
 ## Placeholder
 
