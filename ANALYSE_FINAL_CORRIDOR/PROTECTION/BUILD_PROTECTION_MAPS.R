@@ -50,7 +50,10 @@ for (dir_path in c(output_root, map_dir, table_dir, gpkg_dir)) {
 
 message("Loading RP500 corridor municipalities ...")
 corridor <- st_read(corridor_path, layer = corridor_layer, quiet = TRUE) %>%
-  mutate(AGS = as.character(AGS))
+  mutate(
+    AGS = coalesce(as.character(AGS), as.character(Gemeindeschlüssel_AGS)),
+    mun_name = coalesce(mun_name, GeografischerName_GEN)
+  )
 
 if (st_crs(corridor)$epsg != 25832) {
   corridor <- st_transform(corridor, 25832)
@@ -82,8 +85,18 @@ map_data <- corridor %>%
     protection_available = !is.na(protection_return_period),
     protection_status = if_else(
       protection_available,
-      "Protection data available",
-      "No protection data in file"
+      "Protection value available",
+      "No modeled loss in portfolio"
+    ),
+    loss_portfolio_status = if_else(
+      protection_available,
+      "in_damage_loss_portfolio",
+      "not_in_damage_loss_portfolio"
+    ),
+    provider_interpretation = if_else(
+      protection_available,
+      "Municipality is included in the provider damage/loss portfolio and has an estimated protection return period.",
+      "Municipality is absent from the provider protection table because it does not experience modeled losses in the provider flood portfolio. No event-count filter was applied."
     ),
     municipality_name_final = coalesce(municipality_name, mun_name)
   )
@@ -119,6 +132,8 @@ all_corridor_table <- map_data %>%
     municipality_name = municipality_name_final,
     protection_available,
     protection_status,
+    loss_portfolio_status,
+    provider_interpretation,
     protection_return_period,
     annual_loss_probability,
     n_nonzero_years
@@ -199,8 +214,8 @@ coverage_map <- ggplot(map_data) +
   elbe_layer_geom +
   scale_fill_manual(
     values = c(
-      "Protection data available" = "#1967a3",
-      "No protection data in file" = "#d8d3c7"
+      "Protection value available" = "#1967a3",
+      "No modeled loss in portfolio" = "#d8d3c7"
     ),
     name = NULL
   ) +
@@ -216,7 +231,7 @@ coverage_map <- ggplot(map_data) +
       " corridor municipalities matched to elbe_protection_level_mun.csv (",
       round(100 * coverage_share, 1), "%)."
     ),
-    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Blue line: Elbe. Missing protection values are coverage gaps, not no-protection claims."
+    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Blue line: Elbe. According to provider clarification, absent municipalities are not in the modeled damage/loss portfolio."
   ) +
   base_map_theme()
 
@@ -271,9 +286,9 @@ rp_map <- ggplot() +
     title = "Protection return period for matched corridor municipalities",
     subtitle = paste0(
       "Protection values shown for ", matched_n,
-      " matched municipalities; grey municipalities have no value in the protection table."
+      " matched municipalities; grey municipalities are absent from the modeled damage/loss portfolio."
     ),
-    caption = "Higher return periods indicate lower annual exceedance/loss probability in the source table. Blue line: Elbe. Missing values are coverage gaps, not no-protection claims."
+    caption = "Higher return periods indicate lower annual exceedance/loss probability in the source table. Blue line: Elbe. Grey municipalities have no modeled losses in the provider portfolio."
   ) +
   base_map_theme()
 
