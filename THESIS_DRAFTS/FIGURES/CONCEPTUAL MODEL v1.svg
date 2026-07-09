@@ -21,8 +21,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.56801746"
-     inkscape:cx="764.06101"
-     inkscape:cy="459.49291"
+     inkscape:cx="764.94127"
+     inkscape:cy="459.49292"
      inkscape:window-width="1470"
      inkscape:window-height="923"
      inkscape:window-x="0"
@@ -103,9 +103,9 @@
        xml:space="preserve"><tspan
          x="90"
          y="90"
-         id="tspan2"><tspan
+         id="tspan24"><tspan
            style="font-weight:bold;font-size:31.4804px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'"
-           id="tspan1">Conceptual Model of the Thesis</tspan></tspan></text>
+           id="tspan23">Conceptual Model of the Thesis</tspan></tspan></text>
     <text
        x="90"
        y="124"
@@ -156,9 +156,9 @@
        xml:space="preserve"><tspan
          x="145"
          y="386"
-         id="tspan4"><tspan
+         id="tspan26"><tspan
            style="font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold'"
-           id="tspan3">Flood Hazard</tspan></tspan></text>
+           id="tspan25">Flood Hazard</tspan></tspan></text>
     <text
        x="137.94147"
        y="405.29514"
@@ -168,14 +168,14 @@
        xml:space="preserve"><tspan
          x="137.94147"
          y="405.29514"
-         id="tspan6"><tspan
+         id="tspan28"><tspan
            style="font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan5">- flood intensity and extent across </tspan></tspan><tspan
+           id="tspan27">- flood intensity and extent across </tspan></tspan><tspan
          x="137.94147"
          y="428.62852"
-         id="tspan8"><tspan
+         id="tspan30"><tspan
            style="font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan7">different return periods
+           id="tspan29">different return periods
 </tspan></tspan></text>
     <text
        x="154.4122"
@@ -316,14 +316,14 @@
        xml:space="preserve"><tspan
          x="198.31003"
          y="725.32898"
-         id="tspan10"><tspan
+         id="tspan32"><tspan
            style="font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan9">- multidimensional social and demographic </tspan></tspan><tspan
+           id="tspan31">- multidimensional social and demographic </tspan></tspan><tspan
          x="198.31003"
          y="748.66234"
-         id="tspan12"><tspan
+         id="tspan34"><tspan
            style="font-size:18.6667px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan11">conditions at municipality level</tspan></tspan></text>
+           id="tspan33">conditions at municipality level</tspan></tspan></text>
     <text
        x="208.11061"
        y="741.42065"
@@ -349,7 +349,7 @@
   </g>
   <g
      id="assessment"
-     transform="matrix(0.99664114,0,0,1.0000121,-25.790796,81.301099)">
+     transform="matrix(0.99664114,0,0,1.0000121,-59.240472,130.59536)">
     <rect
        x="1149.9387"
        y="483.85483"
@@ -377,14 +377,14 @@
          xml:space="preserve"><tspan
            x="1160"
            y="570"
-           id="tspan14"><tspan
+           id="tspan38"><tspan
              style="font-size:18.698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-             id="tspan13">- compare the geography of exposure with </tspan></tspan><tspan
+             id="tspan35">- compare the geography of exposure with </tspan></tspan><tspan
            x="1160"
            y="593.37249"
-           id="tspan16"><tspan
+           id="tspan41"><tspan
              style="font-size:18.698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-             id="tspan15">the geography of vulnerability</tspan></tspan></text>
+             id="tspan40">the geography of vulnerability</tspan></tspan></text>
     </g>
     <text
        x="1180"
@@ -401,19 +401,19 @@
        xml:space="preserve"><tspan
          x="1160"
          y="632"
-         id="tspan18"><tspan
+         id="tspan57"><tspan
            style="font-size:18.698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan17">- identify whether flood-related outcomes </tspan></tspan><tspan
+           id="tspan56">- identify whether flood-related outcomes </tspan></tspan><tspan
          x="1160"
          y="655.37249"
-         id="tspan20"><tspan
+         id="tspan59"><tspan
            style="font-size:18.698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan19">and protection benefits are unevenly </tspan></tspan><tspan
+           id="tspan58">and protection benefits are unevenly </tspan></tspan><tspan
          x="1160"
          y="678.74499"
-         id="tspan22"><tspan
+         id="tspan61"><tspan
            style="font-size:18.698px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal'"
-           id="tspan21">distributed</tspan></tspan></text>
+           id="tspan60">distributed</tspan></tspan></text>
     <text
        x="1180"
        y="662"

@@ -1,0 +1,556 @@
+AGS,municipality_name
+01002000,"Kiel, Landeshauptstadt"
+01051003,Averlak
+01051010,Brickeln
+01051011,"Brunsbüttel, Stadt"
+01051012,Buchholz
+01051016,Burg (Dithmarschen)
+01051021,Diekhusen-Fahrstedt
+01051022,Dingen
+01051024,Eddelak
+01051034,Friedrichskoog
+01051046,Helse
+01051051,Hochdonn
+01051057,Kaiser-Wilhelm-Koog
+01051062,Kronprinzenkoog
+01051064,Kuden
+01051072,"Marne, Stadt"
+01051073,Marnerdeich
+01051076,Neufeld
+01051077,Neufelderkoog
+01051090,Ramhusen
+01051097,Sankt Michaelisdonn
+01051103,Schmedeswurth
+01051118,Trennewurth
+01051119,Volsemenhusen
+01053006,Basedow
+01053012,Börnsen
+01053019,Buchhorst
+01053022,Dalldorf
+01053028,Escheburg
+01053032,"Geesthacht, Stadt"
+01053082,Lanze
+01053083,"Lauenburg/ Elbe, Stadt"
+01053111,Schnakenbek
+01053132,Witzeeze
+01056015,"Elmshorn, Stadt"
+01056016,Groß Nordende
+01056019,Haselau
+01056020,Haseldorf
+01056024,Heist
+01056027,Hetlingen
+01056028,Holm
+01056029,Klein Nordende
+01056033,Seester
+01056036,Moorrege
+01056037,Neuendeich
+01056038,Osterhorn
+01056042,Raa-Besenbek
+01056045,Seestermühe
+01056049,"Uetersen, Stadt"
+01056050,"Wedel, Stadt"
+01056051,Westerhorn
+01058007,Arpsdorf
+01058009,Aukrug
+01058024,Borgstedt
+01058026,Bovenau
+01058029,Breiholz
+01058034,"Büdelsdorf, Stadt"
+01058035,Bünsdorf
+01058044,Ehndorf
+01058075,Hörsten
+01058119,Oldenbüttel
+01058124,Osterrönfeld
+01058132,Rade b. Rendsburg
+01058135,"Rendsburg, Stadt"
+01058140,Schacht-Audorf
+01058148,Schülp b. Rendsburg
+01058158,Tackesdorf
+01058172,Westerrönfeld
+01060063,"Norderstedt, Stadt"
+01061002,Aebtissinwisch
+01061004,Altenmoor
+01061005,Auufer
+01061006,Bahrenfleth
+01061007,Beidenfleth
+01061008,Bekdorf
+01061010,Bekmünde
+01061012,Blomesche Wildnis
+01061014,Bokhorst
+01061015,Borsfleth
+01061016,Breitenberg
+01061017,Breitenburg
+01061018,Brokdorf
+01061019,Brokstedt
+01061020,Büttel
+01061022,Dägeling
+01061023,Dammfleth
+01061025,Ecklak
+01061026,Elskop
+01061027,Engelbrechtsche Wildnis
+01061028,Fitzbek
+01061029,"Glückstadt, Stadt"
+01061030,Grevenkop
+01061031,Gribbohm
+01061034,Heiligenstedten
+01061035,Heiligenstedtenerkamp
+01061037,Herzhorn
+01061039,Hodorf
+01061040,Hohenaspe
+01061041,Hohenfelde
+01061044,Horst (Holstein)
+01061045,Huje
+01061046,"Itzehoe, Stadt"
+01061047,Kaaks
+01061049,"Kellinghusen, Stadt"
+01061050,Kiebitzreihe
+01061052,Kleve
+01061053,Kollmoor
+01061054,Krempdorf
+01061055,"Krempe, Stadt"
+01061056,Kremperheide
+01061057,Krempermoor
+01061058,Kronsmoor
+01061059,Krummendiek
+01061060,Kudensee
+01061061,Lägerdorf
+01061062,Landrecht
+01061063,Landscheide
+01061065,Lohbarbek
+01061068,Moordiek
+01061070,Moorhusen
+01061071,Mühlenbarbek
+01061072,Münsterdorf
+01061073,Neuenbrook
+01061074,Neuendorf b. Elmshorn
+01061077,Nortorf
+01061078,Nutteln
+01061079,Oelixdorf
+01061080,Oeschebüttel
+01061082,Oldendorf
+01061083,Ottenbüttel
+01061088,Quarnstedt
+01061089,Rade
+01061092,Rethwisch
+01061093,Rosdorf
+01061095,Sankt Margarethen
+01061096,Sarlhusen
+01061101,Sommerland
+01061102,Stördorf
+01061103,Störkathen
+01061104,Süderau
+01061105,Vaale
+01061106,Vaalermoor
+01061109,Westermoor
+01061110,Wewelsfleth
+01061112,Willenscharen
+01061113,"Wilster, Stadt"
+01061114,Winseldorf
+01061115,Wittenbergen
+01061116,Wrist
+01061117,Wulfsmoor
+01061118,Kollmar
+01061119,Neuendorf-Sachsenbande
+02000000,"Hamburg, Freie und Hansestadt"
+03154007,Grafhorst
+03352002,Armstorf
+03352004,Belum
+03352008,Bülkau
+03352011,"Cuxhaven, Stadt"
+03352020,Hechthausen
+03352022,"Hemmoor, Stadt"
+03352024,Hollnseth
+03352025,Ihlienworth
+03352029,Lamstedt
+03352036,Mittelstenahe
+03352038,Neuenkirchen
+03352039,"Neuhaus (Oste), Flecken"
+03352041,Nordleda
+03352042,Oberndorf
+03352043,Odisheim
+03352044,Osten
+03352045,Osterbruch
+03352046,"Otterndorf, Stadt"
+03352051,Steinau
+03352052,Stinstedt
+03352055,Wanna
+03352056,Wingst
+03352061,Wurster Nordseeküste
+03352062,"Geestland, Stadt"
+03352063,Cadenberge
+03353007,Drage
+03353023,Marschacht
+03353026,Neu Wulmstorf
+03353031,Seevetal
+03353032,Stelle
+03353033,Tespe
+03353040,"Winsen (Luhe), Stadt"
+03354019,Neu Darchau
+03355003,"Artlenburg, Flecken"
+03355004,"Bardowick, Flecken"
+03355007,Barum
+03355009,"Bleckede, Stadt"
+03355011,Brietlingen
+03355014,Deutsch Evern
+03355015,Echem
+03355017,Handorf
+03355018,Hittbergen
+03355019,Hohnstorf (Elbe)
+03355021,Lüdersburg
+03355022,"Lüneburg, Hansestadt"
+03355024,Melbeck
+03355026,Neetze
+03355028,Radbruch
+03355032,Rullstorf
+03355033,Scharnebeck
+03355042,Wittorf
+03357002,Alfstedt
+03357008,"Bremervörde, Stadt"
+03357016,Gnarrenburg
+03357035,Oerel
+03357036,Ostereistedt
+03357038,Rhade
+03357040,Sandbostel
+03357042,Seedorf
+03357043,Selsingen
+03357057,"Zeven, Stadt"
+03359001,Agathenburg
+03359004,Balje
+03359007,Bliedersdorf
+03359009,Burweg
+03359010,"Buxtehude, Hansestadt"
+03359012,Dollern
+03359013,Drochtersen
+03359015,Engelschoff
+03359016,Estorf
+03359018,"Freiburg (Elbe), Flecken"
+03359019,Großenwörden
+03359020,Grünendeich
+03359021,Guderhandviertel
+03359022,Hammah
+03359023,"Harsefeld, Flecken"
+03359025,Himmelpforten
+03359026,Hollern-Twielenfleth
+03359027,"Horneburg, Flecken"
+03359028,Jork
+03359029,Kranenburg
+03359030,Krummendeich
+03359032,Mittelnkirchen
+03359033,Neuenkirchen
+03359034,Nottensdorf
+03359035,Oederquart
+03359038,"Stade, Hansestadt"
+03359039,Steinkirchen
+03359040,Wischhafen
+03360002,"Bad Bevensen, Stadt"
+03360004,Bienenbüttel
+03360008,Emmendorf
+03360012,Jelmstorf
+03360025,"Uelzen, Hansestadt"
+09464000,Hof
+09475113,Berg
+09475137,Issigau
+09475141,Köditz
+09475181,Töpen
+11000000,"Berlin, Stadt"
+12052000,"Cottbus/Chóśebuz, Stadt"
+12054000,"Potsdam, Stadt"
+12060198,Schorfheide
+12061005,Alt Zauche-Wußwerk/Stara Niwa-Wózwjerch
+12061061,Byhleguhre-Byhlen/Beła Góra-Bělin
+12061112,Eichwalde
+12061192,Groß Köris
+12061217,Heidesee
+12061260,"Königs Wusterhausen, Stadt"
+12061265,Krausnick-Groß Wasserburg
+12061316,"Lübben (Spreewald) / Lubin (Błota), Stadt"
+12061328,"Märkisch Buchholz, Stadt"
+12061329,Märkische Heide/Markojska Góla
+12061332,"Mittenwalde, Stadt"
+12061344,Münchehofe
+12061428,Schlepzig/Słopišća
+12061450,Schwielochsee/Gójacki Jazor
+12061476,Straupitz (Spreewald)/Tšupc (Błota)
+12061510,Unterspreewald
+12061540,"Wildau, Stadt"
+12061572,Zeuthen
+12062282,Kremitzaue
+12062336,Merzdorf
+12062341,"Mühlberg/Elbe, Stadt"
+12062453,Schönborn
+12063088,"Friesack, Stadt"
+12063142,Wiesenaue
+12063148,"Ketzin/Havel, Stadt"
+12063165,Kotzen
+12063189,Milower Land
+12063202,Mühlenberge
+12063208,"Nauen, Stadt"
+12063228,Paulinenaue
+12063293,Stechow-Ferchesar
+12065036,Birkenwerder
+12065084,"Fürstenberg/Havel, Stadt"
+12065100,"Gransee, Stadt"
+12065136,"Hennigsdorf, Stadt"
+12065144,"Hohen Neuendorf, Stadt"
+12065180,Leegebruch
+12065193,"Liebenwalde, Stadt"
+12065198,Löwenberger Land
+12065256,"Oranienburg, Stadt"
+12065332,"Velten, Stadt"
+12065356,"Zehdenick, Stadt"
+12066196,"Lübbenau/Spreewald / Lubnjow/Błota, Stadt"
+12066320,"Vetschau/Spreewald / Wětošow/Błota, Stadt"
+12067024,Bad Saarow
+12067036,"Beeskow, Stadt"
+12067040,Berkenbrück
+12067072,Briesen (Mark)
+12067124,"Erkner, Stadt"
+12067137,"Friedland, Stadt"
+12067144,"Fürstenwalde/Spree, Stadt"
+12067173,Gosen-Neu Zittau
+12067201,Grünheide (Mark)
+12067288,Langewahl
+12067397,Ragow-Merz
+12067408,Rauen
+12067426,Rietz-Neuendorf
+12067469,Spreenhagen
+12067473,Steinhöfel
+12067481,"Storkow (Mark), Stadt"
+12067493,Tauche
+12068117,Fehrbellin
+12068320,"Neuruppin, Stadt"
+12068409,Sieversdorf-Hohenofen
+12068425,Temnitzquell
+12068426,Temnitztal
+12068468,"Wittstock/Dosse, Stadt"
+12068501,Zernitz-Lohm
+12069017,"Beelitz, Stadt"
+12069018,Beetzsee
+12069019,Beetzseeheide
+12069028,Bensdorf
+12069216,Golzow
+12069249,Groß Kreutz (Havel)
+12069270,"Havelsee, Stadt"
+12069306,Kloster Lehnin
+12069454,Nuthetal
+12069460,Päwesin
+12069541,Roskow
+12069590,Schwielowsee
+12069648,Wenzlow
+12069656,"Werder (Havel), Stadt"
+12069688,Wusterwitz
+12069696,"Ziesar, Stadt"
+12070125,Groß Pankow (Prignitz)
+12070296,"Perleberg, Stadt"
+12070302,Plattenburg
+12070416,Weisen
+12071028,Briesen/Brjazyna
+12071032,Burg (Spreewald)/Bórkowy (Błota)
+12071041,Dissen-Striesow/Dešno-Strjažow
+12071052,Drachhausen/Hochoza
+12071060,Drehnow/Drjenow
+12071076,"Forst (Lausitz)/Baršć (Łužyca), Stadt"
+12071164,Guhrow/Góry
+12071176,Heinersbrück/Móst
+12071301,Neuhausen/Spree / Kopańce/Sprjewja
+12071341,Schmogrow-Fehrow/Smogorjow-Prjawoz
+12071372,"Spremberg/Grodk, Stadt"
+12071412,Werben/Wjerbno
+12072232,"Luckenwalde, Stadt"
+12072240,"Ludwigsfelde, Stadt"
+12072312,Nuthe-Urstromtal
+12072426,"Trebbin, Stadt"
+12073384,"Lychen, Stadt"
+12073572,"Templin, Stadt"
+13071001,Alt Schwerin
+13071036,Fünfseen
+13071043,Göhren-Lebbin
+13071045,Gotthun
+13071069,Jabel
+13071077,Klink
+13071093,"Malchow, Inselstadt"
+13071110,"Neustrelitz, Residenzstadt"
+13071119,Priepert
+13071137,Sietow
+13071138,Silz
+13071156,"Waren (Müritz), Stadt"
+13071159,"Wesenberg, Stadt"
+13071176,Südmüritz
+13076006,Barkhagen
+13076008,Belsch
+13076009,Bengerstorf
+13076010,Besitz
+13076012,Blievenstorf
+13076014,"Boizenburg/ Elbe, Stadt"
+13076016,Brahlstorf
+13076017,Brenz
+13076018,Bresegard bei Eldena
+13076019,Bresegard bei Picher
+13076030,Dersenow
+13076037,Eldena
+13076040,Gallin-Kuppentin
+13076046,Göhlen
+13076050,"Grabow, Stadt"
+13076053,Grebs-Niendorf
+13076058,Groß Laasch
+13076067,Karenz
+13076069,Karstädt
+13076075,Kreien
+13076079,Kuhstorf
+13076085,Lewitzrand
+13076088,"Lübtheen, Stadt"
+13076089,"Lübz, Stadt"
+13076090,"Ludwigslust, Stadt"
+13076093,Malk Göhren
+13076094,Malliß
+13076097,Milow
+13076100,Muchow
+13076102,Neu Gülze
+13076105,"Neustadt-Glewe, Stadt"
+13076106,Nostorf
+13076108,"Parchim, Stadt"
+13076109,Passow
+13076114,"Plau am See, Stadt"
+13076119,Redefin
+13076120,Rom
+13076122,Schwanheide
+13076125,Siggelkow
+13076126,Spornitz
+13076136,Teldau
+13076138,Tessin b. Boizenburg
+13076140,Tramm
+13076145,Warlitz
+13076151,Werder
+13076156,Wöbbelin
+13076161,Zierzow
+14521150,Drebach
+14521220,Gornau/Erzgeb.
+14521240,Großolbersdorf
+14521495,"Pockau-Lengefeld, Stadt"
+14521670,"Wolkenstein, Stadt"
+14521690,"Zschopau, Stadt, Motorradstadt"
+14522020,"Augustusburg, Stadt"
+14522060,"Burgstädt, Stadt"
+14522210,"Großschirma, Stadt"
+14522290,Königshain-Wiederau
+14522300,Kriebstein
+14522320,Leubsdorf
+14522330,Lichtenau
+14522360,"Mittweida, Stadt, Hochschulstadt"
+14522420,Niederwiesa
+14522440,"Oederan, Stadt"
+14522480,Reinsberg
+14522500,Rossau
+14522510,"Roßwein, Stadt"
+14522540,Striegistal
+14522570,"Waldheim, Stadt"
+14522600,Zettlitz
+14523320,"Plauen, Stadt"
+14523330,Pöhl
+14523450,Weischlitz
+14524090,"Hartenstein, Stadt"
+14524150,Langenweißbach
+14524180,"Limbach-Oberfrohna, Stadt"
+14524310,"Wildenfels, Stadt"
+14625160,Großdubrau / Wulka Dubrawa
+14625310,"Lauta, Stadt"
+14625330,Lohsa / Łaz
+14625340,Malschwitz / Malešecy
+14625570,Spreetal / Sprjewiny Doł
+14626060,Boxberg/O.L. / Hamor
+14626600,"Weißwasser/O.L., Stadt / Běła Woda"
+14627010,"Coswig, Stadt"
+14627020,Diera-Zehren
+14627030,Ebersbach
+14627100,Klipphausen
+14627170,Niederau
+14627180,"Nossen, Stadt"
+14627310,Weinböhla
+14628210,"Königstein/Sächs. Schw., Stadt"
+14628310,"Rathen, Kurort"
+14628320,Rathmannsdorf
+14628330,Reinhardtsdorf-Schöna
+14628370,"Stadt Wehlen, Stadt"
+14730010,Arzberg
+14730030,Beilrode
+14730045,"Belgern-Schildau, Stadt"
+14730050,Cavertitz
+14730070,"Delitzsch, Stadt"
+14730090,"Dommitzsch, Stadt"
+14730120,Elsnig
+14730310,"Torgau, Stadt"
+15003000,"Magdeburg, Landeshauptstadt"
+15082256,Osternienburger Land
+15083040,Barleben
+15083115,Bülstringen
+15083120,Burgstall
+15083125,Calvörde
+15083270,"Haldensleben, Stadt"
+15083390,Niedere Börde
+15083411,"Oebisfelde-Weferlingen, Stadt"
+15083557,Westheide
+15084150,Gleina
+15084170,Goseck
+15084315,"Lützen, Stadt"
+15084445,Schönburg
+15086040,"Genthin, Stadt"
+15088305,"Querfurt, Stadt"
+15089015,"Aschersleben, Stadt"
+15089042,Bördeland
+15089130,Giersleben
+15089185,Ilberstedt
+15090010,"Arneburg, Stadt"
+15090135,Eichstedt (Altmark)
+15090180,Goldbeck
+15090220,Hassel
+15090435,Rochau
+15090445,"Sandau (Elbe), Stadt"
+15091020,"Bad Schmiedeberg, Stadt"
+15091110,"Gräfenhainichen, Stadt"
+15091160,"Kemberg, Stadt"
+16064004,"Bad Tennstedt, Stadt"
+16064005,Ballhausen
+16064022,Herbsleben
+16065085,Kyffhäuserland
+16067067,Tonna
+16071003,"Bad Berka, Stadt"
+16071009,Buchfart
+16071015,Eberstedt
+16071031,Hetschburg
+16071064,Niedertrebra
+16071069,Obertrebra
+16071071,Oettern
+16073002,Altenbeuthen
+16073035,Hohenwarte
+16073038,Kaulsdorf
+16073077,"Saalfeld/Saale, Stadt"
+16073107,Drognitz
+16073111,Unterwellenborn
+16074021,Freienorla
+16074031,Großeutersdorf
+16074033,Großpürschütz
+16074044,"Kahla, Stadt"
+16074048,Kleineutersdorf
+16074065,"Orlamünde, Stadt"
+16074079,Rothenstein
+16074087,Schöps
+16074095,Sulza
+16075023,Eßbach
+16075035,Gössitz
+16075046,"Hirschberg, Stadt"
+16075062,"Bad Lobenstein, Stadt"
+16075079,Paska
+16075098,"Schleiz, Stadt"
+16075125,Wilhelmsdorf
+16075127,"Ziegenrück, Stadt"
+16075134,Remptendorf
+16075135,"Saalburg-Ebersdorf, Stadt"
+16075136,Rosenthal am Rennsteig
+16076039,Langenwetzendorf
+16076093,Mohlsdorf-Teichwolframsdorf
+16077001,"Altenburg, Stadt"
+16077005,Fockendorf
+16077007,Gerstenberg
+16077036,Nobitz
+16077052,Windischleuba
+NA,NA

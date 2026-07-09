@@ -1,0 +1,836 @@
+AGS,municipality_name,protection_available,protection_status,protection_return_period,annual_loss_probability,n_nonzero_years
+03154012,Jerxheim,TRUE,Protection data available,58.8235294117647,0.017,85
+03154027,Söllingen,TRUE,Protection data available,56.81818181818182,0.0176,88
+03354003,Damnatz,TRUE,Protection data available,7.256894049346879,0.1378,689
+03354004,Dannenberg (Elbe),TRUE,Protection data available,5.714285714285714,0.175,875
+03354005,Gartow,TRUE,Protection data available,20.242914979757085,0.0494,247
+03354007,Gorleben,TRUE,Protection data available,11.061946902654867,0.0904,452
+03354008,Gusborn,TRUE,Protection data available,5.128205128205129,0.195,975
+03354009,Hitzacker (Elbe),TRUE,Protection data available,10.37344398340249,0.0964,482
+03354010,Höhbeck,TRUE,Protection data available,8.80281690140845,0.1136,568
+03354011,Jameln,TRUE,Protection data available,5.330490405117271,0.1876,938
+03354014,Langendorf,TRUE,Protection data available,12.72264631043257,0.0786,393
+03354016,Luckau (Wendland),TRUE,Protection data available,32.467532467532465,0.0308,154
+03354018,Lüchow (Wendland),TRUE,Protection data available,3.82262996941896,0.2616,1308
+03354021,Schnackenburg,TRUE,Protection data available,5.05050505050505,0.198,990
+03354023,Trebel,TRUE,Protection data available,208.33333333333337,0.0048,24
+03354025,Woltersdorf,TRUE,Protection data available,10.75268817204301,0.093,465
+03354026,Wustrow (Wendland),TRUE,Protection data available,4.62962962962963,0.216,1080
+03355049,Amt Neuhaus,TRUE,Protection data available,2.9585798816568047,0.338,1690
+12051000,Brandenburg an der Havel,TRUE,Protection data available,1666.6666666666667,6e-4,3
+12062024,Bad Liebenwerda,TRUE,Protection data available,80.64516129032258,0.0124,62
+12062124,Elsterwerda,TRUE,Protection data available,22.123893805309734,0.0452,226
+12062128,Falkenberg/Elster,TRUE,Protection data available,833.3333333333334,0.0012,6
+12062196,Gröden,TRUE,Protection data available,1666.6666666666667,6e-4,3
+12062224,Herzberg (Elster),TRUE,Protection data available,147.05882352941177,0.0068,34
+12062232,Hirschfeld,TRUE,Protection data available,2500,4e-4,2
+12062240,Hohenleipisch,TRUE,Protection data available,1250,8e-4,4
+12062372,Plessa,TRUE,Protection data available,34.96503496503497,0.0286,143
+12062410,Röderland,TRUE,Protection data available,31.446540880503143,0.0318,159
+12062461,Schönewalde,TRUE,Protection data available,2500,4e-4,2
+12062464,Schraden,TRUE,Protection data available,151.5151515151515,0.0066,33
+12062500,Uebigau-Wahrenbrück,TRUE,Protection data available,46.2962962962963,0.0216,108
+12063094,Gollenberg,TRUE,Protection data available,39.0625,0.0256,128
+12063112,Großderschau,TRUE,Protection data available,80.64516129032258,0.0124,62
+12063134,Havelaue,TRUE,Protection data available,178.57142857142858,0.0056,28
+12063161,Kleßen-Görne,TRUE,Protection data available,172.41379310344828,0.0058,29
+12063244,Premnitz,TRUE,Protection data available,5000,2e-4,1
+12063252,Rathenow,TRUE,Protection data available,333.3333333333333,0.003,15
+12063260,Rhinow,TRUE,Protection data available,52.63157894736842,0.019,95
+12063274,Seeblick,TRUE,Protection data available,208.33333333333337,0.0048,24
+12066064,Frauendorf,TRUE,Protection data available,125,0.008,40
+12066176,Lauchhammer,TRUE,Protection data available,40.32258064516129,0.0248,124
+12066272,Ruhland,TRUE,Protection data available,46.2962962962963,0.0216,108
+12066292,Schwarzbach,TRUE,Protection data available,64.1025641025641,0.0156,78
+12066296,Schwarzheide,TRUE,Protection data available,35.714285714285715,0.028,140
+12066304,Senftenberg,TRUE,Protection data available,74.6268656716418,0.0134,67
+12066316,Tettau,TRUE,Protection data available,156.25,0.0064,32
+12068052,Breddin,TRUE,Protection data available,1250,8e-4,4
+12068109,Dreetz,TRUE,Protection data available,31.64556962025317,0.0316,158
+12068264,Kyritz,TRUE,Protection data available,833.3333333333334,0.0012,6
+12068324,Neustadt (Dosse),TRUE,Protection data available,294.11764705882354,0.0034,17
+12068477,Wusterhausen/Dosse,TRUE,Protection data available,86.20689655172414,0.0116,58
+12069537,Rosenau,TRUE,Protection data available,1666.6666666666667,6e-4,3
+12070008,Bad Wilsnack,TRUE,Protection data available,20.080321285140563,0.0498,249
+12070052,Breese,TRUE,Protection data available,51.02040816326531,0.0196,98
+12070060,Cumlosen,TRUE,Protection data available,38.75968992248062,0.0258,129
+12070236,Lanz,TRUE,Protection data available,14.124293785310735,0.0708,354
+12070241,Legde/Quitzöbel,TRUE,Protection data available,178.57142857142858,0.0056,28
+12070244,Lenzen (Elbe),TRUE,Protection data available,2.918855808523059,0.3426,1713
+12070246,Lenzerwische,TRUE,Protection data available,2.581311306143521,0.3874,1937
+12070348,Rühstädt,TRUE,Protection data available,10.869565217391305,0.092,460
+12070424,Wittenberge,TRUE,Protection data available,35.2112676056338,0.0284,142
+13076034,Dömitz,TRUE,Protection data available,3.115264797507788,0.321,1605
+13076049,Gorlosen,TRUE,Protection data available,55.55555555555556,0.018,90
+13076103,Neu Kaliß,TRUE,Protection data available,20.49180327868853,0.0488,244
+13076143,Vielank,TRUE,Protection data available,8,0.125,625
+14521035,Aue-Bad Schlema,TRUE,Protection data available,1666.6666666666667,6e-4,3
+14521270,Grünhainichen,TRUE,Protection data available,5000,2e-4,1
+14522080,Döbeln,TRUE,Protection data available,52.63157894736842,0.019,95
+14522140,Flöha,TRUE,Protection data available,250,0.004,20
+14522150,Frankenberg/Sa.,TRUE,Protection data available,5000,2e-4,1
+14522220,Großweitzschen,TRUE,Protection data available,79.36507936507937,0.0126,63
+14522250,Hartha,TRUE,Protection data available,1666.6666666666667,6e-4,3
+14522280,Königsfeld,TRUE,Protection data available,294.11764705882354,0.0034,17
+14522310,Leisnig,TRUE,Protection data available,26.737967914438503,0.0374,187
+14522350,Lunzenau,TRUE,Protection data available,833.3333333333334,0.0012,6
+14522460,Penig,TRUE,Protection data available,60.97560975609756,0.0164,82
+14522490,Rochlitz,TRUE,Protection data available,13.227513227513228,0.0756,378
+14522530,Seelitz,TRUE,Protection data available,39.68253968253968,0.0252,126
+14522580,Wechselburg,TRUE,Protection data available,227.27272727272728,0.0044,22
+14523100,Elsterberg,TRUE,Protection data available,7.451564828614009,0.1342,671
+14524050,Dennheritz,TRUE,Protection data available,94.33962264150944,0.0106,53
+14524080,Glauchau,TRUE,Protection data available,106.38297872340424,0.0094,47
+14524200,Mülsen,TRUE,Protection data available,312.5,0.0032,16
+14524260,Remse,TRUE,Protection data available,20.32520325203252,0.0492,246
+14524290,Waldenburg,TRUE,Protection data available,16.129032258064516,0.062,310
+14524320,Wilkau-Haßlau,TRUE,Protection data available,5000,2e-4,1
+14524330,Zwickau,TRUE,Protection data available,52.63157894736842,0.019,95
+14612000,Dresden,TRUE,Protection data available,47.61904761904762,0.021,105
+14625120,Elsterheide,TRUE,Protection data available,294.11764705882354,0.0034,17
+14625240,Hoyerswerda,TRUE,Protection data available,2500,4e-4,2
+14627040,Glaubitz,TRUE,Protection data available,2500,4e-4,2
+14627050,Gröditz,TRUE,Protection data available,1250,8e-4,4
+14627060,Großenhain,TRUE,Protection data available,555.5555555555555,0.0018,9
+14627070,Hirschstein,TRUE,Protection data available,312.5,0.0032,16
+14627140,Meißen,TRUE,Protection data available,5000,2e-4,1
+14627190,Nünchritz,TRUE,Protection data available,833.3333333333334,0.0012,6
+14627210,Radebeul,TRUE,Protection data available,2500,4e-4,2
+14627230,Riesa,TRUE,Protection data available,208.33333333333337,0.0048,24
+14627240,Röderaue,TRUE,Protection data available,1250,8e-4,4
+14627270,Strehla,TRUE,Protection data available,238.0952380952381,0.0042,21
+14627360,Zeithain,TRUE,Protection data available,208.33333333333337,0.0048,24
+14628030,Bad Schandau,TRUE,Protection data available,500,0.002,10
+14628160,Heidenau,TRUE,Protection data available,104.16666666666669,0.0096,48
+14628270,Pirna,TRUE,Protection data available,192.30769230769232,0.0052,26
+14713000,Leipzig,TRUE,Protection data available,11.876484560570072,0.0842,421
+14729030,Bennewitz,TRUE,Protection data available,30.48780487804878,0.0328,164
+14729040,Böhlen,TRUE,Protection data available,47.61904761904762,0.021,105
+14729050,Borna,TRUE,Protection data available,23.923444976076556,0.0418,209
+14729080,Colditz,TRUE,Protection data available,19.607843137254903,0.051,255
+14729100,Elstertrebnitz,TRUE,Protection data available,384.61538461538464,0.0026,13
+14729160,Grimma,TRUE,Protection data available,19.53125,0.0512,256
+14729170,Groitzsch,TRUE,Protection data available,277.77777777777777,0.0036,18
+14729250,Machern,TRUE,Protection data available,200,0.005,25
+14729260,Markkleeberg,TRUE,Protection data available,6.954102920723226,0.1438,719
+14729320,Neukieritzsch,TRUE,Protection data available,56.17977528089887,0.0178,89
+14729350,Pegau,TRUE,Protection data available,500,0.002,10
+14729360,Regis-Breitingen,TRUE,Protection data available,17.857142857142858,0.056,280
+14729370,Rötha,TRUE,Protection data available,54.34782608695652,0.0184,92
+14729380,Thallwitz,TRUE,Protection data available,277.77777777777777,0.0036,18
+14729400,Trebsen/Mulde,TRUE,Protection data available,72.46376811594203,0.0138,69
+14729410,Wurzen,TRUE,Protection data available,51.02040816326531,0.0196,98
+14729430,Zwenkau,TRUE,Protection data available,1666.6666666666667,6e-4,3
+14730020,Bad Düben,TRUE,Protection data available,454.54545454545456,0.0022,11
+14730080,Doberschütz,TRUE,Protection data available,185.1851851851852,0.0054,27
+14730110,Eilenburg,TRUE,Protection data available,238.0952380952381,0.0042,21
+14730140,Jesewitz,TRUE,Protection data available,454.54545454545456,0.0022,11
+14730160,Laußig,TRUE,Protection data available,87.71929824561404,0.0114,57
+14730180,Löbnitz,TRUE,Protection data available,106.38297872340424,0.0094,47
+14730270,Schkeuditz,TRUE,Protection data available,1250,8e-4,4
+14730360,Zschepplin,TRUE,Protection data available,87.71929824561404,0.0114,57
+15001000,Dessau-Roßlau,TRUE,Protection data available,62.5,0.016,80
+15002000,Halle (Saale),TRUE,Protection data available,18.181818181818183,0.055,275
+15081240,Kalbe (Milde),TRUE,Protection data available,10.869565217391305,0.092,460
+15082005,Aken (Elbe),TRUE,Protection data available,5000,2e-4,1
+15082015,Bitterfeld-Wolfen,TRUE,Protection data available,2500,4e-4,2
+15082241,Muldestausee,TRUE,Protection data available,104.16666666666669,0.0096,48
+15082301,Raguhn-Jeßnitz,TRUE,Protection data available,45.45454545454545,0.022,110
+15082430,Zerbst/Anhalt,TRUE,Protection data available,161.29032258064515,0.0062,31
+15083025,Am Großen Bruch,TRUE,Protection data available,1.4363688595231254,0.6962,3481
+15083030,Angern,TRUE,Protection data available,40.32258064516129,0.0248,124
+15083245,Gröningen,TRUE,Protection data available,1.3164823591363877,0.7596,3798
+15083320,Hötensleben,TRUE,Protection data available,16.44736842105263,0.0608,304
+15083361,Loitsche-Heinrichsberg,TRUE,Protection data available,56.81818181818182,0.0176,88
+15083415,Oschersleben (Bode),TRUE,Protection data available,1.1944577161968466,0.8372,4186
+15083440,Rogätz,TRUE,Protection data available,76.92307692307692,0.013,65
+15083565,Wolmirstedt,TRUE,Protection data available,50.505050505050505,0.0198,99
+15083580,Zielitz,TRUE,Protection data available,166.66666666666666,0.006,30
+15084025,Balgstädt,TRUE,Protection data available,2500,4e-4,2
+15084130,Elsteraue,TRUE,Protection data available,94.33962264150944,0.0106,53
+15084135,Freyburg (Unstrut),TRUE,Protection data available,18.939393939393938,0.0528,264
+15084207,Gutenborn,TRUE,Protection data available,33.333333333333336,0.03,150
+15084246,Kaiserpfalz,TRUE,Protection data available,79.36507936507937,0.0126,63
+15084250,Karsdorf,TRUE,Protection data available,384.61538461538464,0.0026,13
+15084275,Kretzschau,TRUE,Protection data available,57.47126436781609,0.0174,87
+15084285,Laucha an der Unstrut,TRUE,Protection data available,17.421602787456447,0.0574,287
+15084355,Naumburg (Saale),TRUE,Protection data available,454.54545454545456,0.0022,11
+15084360,Nebra (Unstrut),TRUE,Protection data available,333.3333333333333,0.003,15
+15084550,Weißenfels,TRUE,Protection data available,2500,4e-4,2
+15084565,Wetterzeube,TRUE,Protection data available,87.71929824561404,0.0114,57
+15084590,Zeitz,TRUE,Protection data available,16.501650165016503,0.0606,303
+15085090,Ditfurt,TRUE,Protection data available,37.59398496240601,0.0266,133
+15085135,Halberstadt,TRUE,Protection data available,3.37154416722859,0.2966,1483
+15085160,Hedersleben,TRUE,Protection data available,49.01960784313726,0.0204,102
+15085185,Huy,TRUE,Protection data available,6.934812760055478,0.1442,721
+15085235,Quedlinburg,TRUE,Protection data available,200,0.005,25
+15085285,Schwanebeck,TRUE,Protection data available,1.851851851851852,0.54,2700
+15085287,Selke-Aue,TRUE,Protection data available,43.85964912280702,0.0228,114
+15085365,Wegeleben,TRUE,Protection data available,2.3277467411545625,0.4296,2148
+15086005,Biederitz,TRUE,Protection data available,6.165228113440198,0.1622,811
+15086015,Burg,TRUE,Protection data available,14.245014245014245,0.0702,351
+15086035,Elbe-Parey,TRUE,Protection data available,5000,2e-4,1
+15086055,Gommern,TRUE,Protection data available,147.05882352941177,0.0068,34
+15086080,Jerichow,TRUE,Protection data available,8.143322475570033,0.1228,614
+15086145,Möser,TRUE,Protection data available,6.793478260869565,0.1472,736
+15087015,Allstedt,TRUE,Protection data available,10.940919037199125,0.0914,457
+15087055,Berga,TRUE,Protection data available,21.73913043478261,0.046,230
+15087101,Brücken-Hackpfüffel,TRUE,Protection data available,32.25806451612903,0.031,155
+15087125,Edersleben,TRUE,Protection data available,34.24657534246575,0.0292,146
+15087165,Gerbstedt,TRUE,Protection data available,625,0.0016,8
+15087250,Kelbra (Kyffhäuser),TRUE,Protection data available,24.271844660194176,0.0412,206
+15087370,Sangerhausen,TRUE,Protection data available,30.120481927710845,0.0332,166
+15087412,Südharz,TRUE,Protection data available,19.23076923076923,0.052,260
+15087440,Wallhausen,TRUE,Protection data available,31.84713375796178,0.0314,157
+15088020,Bad Dürrenberg,TRUE,Protection data available,200,0.005,25
+15088205,Leuna,TRUE,Protection data available,833.3333333333334,0.0012,6
+15088216,Wettin-Löbejün,TRUE,Protection data available,2500,4e-4,2
+15088220,Merseburg,TRUE,Protection data available,22.624434389140273,0.0442,221
+15088295,Petersberg,TRUE,Protection data available,1666.6666666666667,6e-4,3
+15088319,Salzatal,TRUE,Protection data available,263.1578947368421,0.0038,19
+15088330,Schkopau,TRUE,Protection data available,58.8235294117647,0.017,85
+15088365,Teutschenthal,TRUE,Protection data available,1250,8e-4,4
+15089005,Alsleben (Saale),TRUE,Protection data available,18.65671641791045,0.0536,268
+15089026,Barby,TRUE,Protection data available,64.93506493506493,0.0154,77
+15089030,Bernburg (Saale),TRUE,Protection data available,4.0290088638195005,0.2482,1241
+15089041,Bördeaue,TRUE,Protection data available,1.1566042100393246,0.8646,4323
+15089043,Börde-Hakel,TRUE,Protection data available,1.154201292705448,0.8664,4332
+15089055,Calbe (Saale),TRUE,Protection data available,833.3333333333334,0.0012,6
+15089075,Egeln,TRUE,Protection data available,1.1312217194570136,0.884,4420
+15089165,Güsten,TRUE,Protection data available,32.05128205128205,0.0312,156
+15089175,Hecklingen,TRUE,Protection data available,1.3989927252378287,0.7148,3574
+15089195,Könnern,TRUE,Protection data available,18.181818181818183,0.055,275
+15089235,Nienburg (Saale),TRUE,Protection data available,1.1584800741427248,0.8632,4316
+15089245,Plötzkau,TRUE,Protection data available,72.46376811594203,0.0138,69
+15089305,Schönebeck (Elbe),TRUE,Protection data available,87.71929824561404,0.0114,57
+15089310,Staßfurt,TRUE,Protection data available,1.2966804979253113,0.7712,3856
+15089365,Wolmirsleben,TRUE,Protection data available,1.127141568981064,0.8872,4436
+15090003,Aland,TRUE,Protection data available,6.016847172081829,0.1662,831
+15090007,Altmärkische Höhe,TRUE,Protection data available,131.57894736842104,0.0076,38
+15090008,Altmärkische Wische,TRUE,Protection data available,16.233766233766232,0.0616,308
+15090070,Bismark (Altmark),TRUE,Protection data available,11.135857461024498,0.0898,449
+15090225,Havelberg,TRUE,Protection data available,250,0.004,20
+15090245,Hohenberg-Krusemark,TRUE,Protection data available,5000,2e-4,1
+15090270,Iden,TRUE,Protection data available,116.27906976744184,0.0086,43
+15090285,Kamern,TRUE,Protection data available,2500,4e-4,2
+15090310,Klietz,TRUE,Protection data available,45.87155963302752,0.0218,109
+15090415,Osterburg (Altmark),TRUE,Protection data available,10.989010989010987,0.091,455
+15090485,Schollene,TRUE,Protection data available,500,0.002,10
+15090500,Schönhausen (Elbe),TRUE,Protection data available,6.915629322268327,0.1446,723
+15090520,Seehausen (Altmark),TRUE,Protection data available,8.532423208191126,0.1172,586
+15090535,Stendal,TRUE,Protection data available,500,0.002,10
+15090546,Tangerhütte,TRUE,Protection data available,9.84251968503937,0.1016,508
+15090550,Tangermünde,TRUE,Protection data available,10.20408163265306,0.098,490
+15090610,Werben (Elbe),TRUE,Protection data available,125,0.008,40
+15090631,Wust-Fischbeck,TRUE,Protection data available,5.219206680584551,0.1916,958
+15090635,Zehrental,TRUE,Protection data available,166.66666666666666,0.006,30
+15091010,Annaburg,TRUE,Protection data available,147.05882352941177,0.0068,34
+15091060,Coswig (Anhalt),TRUE,Protection data available,128.2051282051282,0.0078,39
+15091145,Jessen (Elster),TRUE,Protection data available,71.42857142857143,0.014,70
+15091241,Oranienbaum-Wörlitz,TRUE,Protection data available,84.7457627118644,0.0118,59
+15091375,Wittenberg,TRUE,Protection data available,106.38297872340424,0.0094,47
+15091391,Zahna-Elster,TRUE,Protection data available,2500,4e-4,2
+16051000,Erfurt,TRUE,Protection data available,17.421602787456447,0.0574,287
+16052000,Gera,TRUE,Protection data available,29.761904761904763,0.0336,168
+16053000,Jena,TRUE,Protection data available,40.65040650406504,0.0246,123
+16055000,Weimar,TRUE,Protection data available,5000,2e-4,1
+16062008,Görsbach,TRUE,Protection data available,8.561643835616438,0.1168,584
+16062064,Heringen/Helme,TRUE,Protection data available,9.157509157509155,0.1092,546
+16064003,Bad Langensalza,TRUE,Protection data available,5000,2e-4,1
+16064019,Großvargula,TRUE,Protection data available,500,0.002,10
+16065003,Bad Frankenhausen/Kyffhäuser,TRUE,Protection data available,5.524861878453039,0.181,905
+16065016,Etzleben,TRUE,Protection data available,8.403361344537815,0.119,595
+16065019,Gehofen,TRUE,Protection data available,26.041666666666668,0.0384,192
+16065042,Kalbsrieth,TRUE,Protection data available,13.227513227513228,0.0756,378
+16065046,Mönchpfiffel-Nikolausrieth,TRUE,Protection data available,15.873015873015872,0.063,315
+16065056,Reinsdorf,TRUE,Protection data available,22.52252252252252,0.0444,222
+16065086,Artern,TRUE,Protection data available,8.503401360544217,0.1176,588
+16065087,Roßleben-Wiehe,TRUE,Protection data available,37.59398496240601,0.0266,133
+16065088,An der Schmücke,TRUE,Protection data available,4.739336492890995,0.211,1055
+16068002,Andisleben,TRUE,Protection data available,22.123893805309734,0.0452,226
+16068005,Büchel,TRUE,Protection data available,13.404825737265416,0.0746,373
+16068009,Elxleben,TRUE,Protection data available,22.123893805309734,0.0452,226
+16068014,Gebesee,TRUE,Protection data available,31.25,0.032,160
+16068015,Griefstedt,TRUE,Protection data available,454.54545454545456,0.0022,11
+16068044,Riethnordhausen,TRUE,Protection data available,49.01960784313726,0.0204,102
+16068045,Ringleben,TRUE,Protection data available,22.727272727272727,0.044,220
+16068049,Schwerstedt,TRUE,Protection data available,5000,2e-4,1
+16068051,Sömmerda,TRUE,Protection data available,13.440860215053764,0.0744,372
+16068053,Straußfurt,TRUE,Protection data available,27.47252747252747,0.0364,182
+16068057,Walschleben,TRUE,Protection data available,20.5761316872428,0.0486,243
+16068058,Weißensee,TRUE,Protection data available,22.727272727272727,0.044,220
+16068059,Werningshausen,TRUE,Protection data available,27.027027027027028,0.037,185
+16068062,Wundersleben,TRUE,Protection data available,24.50980392156863,0.0408,204
+16068064,Kindelbrück,TRUE,Protection data available,5.980861244019139,0.1672,836
+16071001,Apolda,TRUE,Protection data available,454.54545454545456,0.0022,11
+16071004,Bad Sulza,TRUE,Protection data available,36.76470588235294,0.0272,136
+16071022,Großheringen,TRUE,Protection data available,108.69565217391305,0.0092,46
+16071056,Mellingen,TRUE,Protection data available,5000,2e-4,1
+16071101,Ilmtal-Weinstraße,TRUE,Protection data available,50.505050505050505,0.0198,99
+16073076,Rudolstadt,TRUE,Protection data available,135.13513513513513,0.0074,37
+16073109,Uhlstädt-Kirchhasel,TRUE,Protection data available,5000,2e-4,1
+16074011,Dornburg-Camburg,TRUE,Protection data available,21.1864406779661,0.0472,236
+16074012,Crossen an der Elster,TRUE,Protection data available,714.2857142857143,0.0014,7
+16074026,Golmsdorf,TRUE,Protection data available,1666.6666666666667,6e-4,3
+16074063,Neuengönna,TRUE,Protection data available,833.3333333333334,0.0012,6
+16074092,Silbitz,TRUE,Protection data available,416.6666666666667,0.0024,12
+16074112,Wichmar,TRUE,Protection data available,2500,4e-4,2
+16076003,Bad Köstritz,TRUE,Protection data available,138.88888888888889,0.0072,36
+16076012,Caaschwitz,TRUE,Protection data available,208.33333333333337,0.0048,24
+16076022,Greiz,TRUE,Protection data available,7.763975155279503,0.1288,644
+16077048,Treben,TRUE,Protection data available,13.020833333333334,0.0768,384
+01002000,"Kiel, Landeshauptstadt",FALSE,No protection data in file,NA,NA,NA
+01051003,Averlak,FALSE,No protection data in file,NA,NA,NA
+01051010,Brickeln,FALSE,No protection data in file,NA,NA,NA
+01051011,"Brunsbüttel, Stadt",FALSE,No protection data in file,NA,NA,NA
+01051012,Buchholz,FALSE,No protection data in file,NA,NA,NA
+01051016,Burg (Dithmarschen),FALSE,No protection data in file,NA,NA,NA
+01051021,Diekhusen-Fahrstedt,FALSE,No protection data in file,NA,NA,NA
+01051022,Dingen,FALSE,No protection data in file,NA,NA,NA
+01051024,Eddelak,FALSE,No protection data in file,NA,NA,NA
+01051034,Friedrichskoog,FALSE,No protection data in file,NA,NA,NA
+01051046,Helse,FALSE,No protection data in file,NA,NA,NA
+01051051,Hochdonn,FALSE,No protection data in file,NA,NA,NA
+01051057,Kaiser-Wilhelm-Koog,FALSE,No protection data in file,NA,NA,NA
+01051062,Kronprinzenkoog,FALSE,No protection data in file,NA,NA,NA
+01051064,Kuden,FALSE,No protection data in file,NA,NA,NA
+01051072,"Marne, Stadt",FALSE,No protection data in file,NA,NA,NA
+01051073,Marnerdeich,FALSE,No protection data in file,NA,NA,NA
+01051076,Neufeld,FALSE,No protection data in file,NA,NA,NA
+01051077,Neufelderkoog,FALSE,No protection data in file,NA,NA,NA
+01051090,Ramhusen,FALSE,No protection data in file,NA,NA,NA
+01051097,Sankt Michaelisdonn,FALSE,No protection data in file,NA,NA,NA
+01051103,Schmedeswurth,FALSE,No protection data in file,NA,NA,NA
+01051118,Trennewurth,FALSE,No protection data in file,NA,NA,NA
+01051119,Volsemenhusen,FALSE,No protection data in file,NA,NA,NA
+01053006,Basedow,FALSE,No protection data in file,NA,NA,NA
+01053012,Börnsen,FALSE,No protection data in file,NA,NA,NA
+01053019,Buchhorst,FALSE,No protection data in file,NA,NA,NA
+01053022,Dalldorf,FALSE,No protection data in file,NA,NA,NA
+01053028,Escheburg,FALSE,No protection data in file,NA,NA,NA
+01053032,"Geesthacht, Stadt",FALSE,No protection data in file,NA,NA,NA
+01053082,Lanze,FALSE,No protection data in file,NA,NA,NA
+01053083,"Lauenburg/ Elbe, Stadt",FALSE,No protection data in file,NA,NA,NA
+01053111,Schnakenbek,FALSE,No protection data in file,NA,NA,NA
+01053132,Witzeeze,FALSE,No protection data in file,NA,NA,NA
+01056015,"Elmshorn, Stadt",FALSE,No protection data in file,NA,NA,NA
+01056016,Groß Nordende,FALSE,No protection data in file,NA,NA,NA
+01056019,Haselau,FALSE,No protection data in file,NA,NA,NA
+01056020,Haseldorf,FALSE,No protection data in file,NA,NA,NA
+01056024,Heist,FALSE,No protection data in file,NA,NA,NA
+01056027,Hetlingen,FALSE,No protection data in file,NA,NA,NA
+01056028,Holm,FALSE,No protection data in file,NA,NA,NA
+01056029,Klein Nordende,FALSE,No protection data in file,NA,NA,NA
+01056033,Seester,FALSE,No protection data in file,NA,NA,NA
+01056036,Moorrege,FALSE,No protection data in file,NA,NA,NA
+01056037,Neuendeich,FALSE,No protection data in file,NA,NA,NA
+01056038,Osterhorn,FALSE,No protection data in file,NA,NA,NA
+01056042,Raa-Besenbek,FALSE,No protection data in file,NA,NA,NA
+01056045,Seestermühe,FALSE,No protection data in file,NA,NA,NA
+01056049,"Uetersen, Stadt",FALSE,No protection data in file,NA,NA,NA
+01056050,"Wedel, Stadt",FALSE,No protection data in file,NA,NA,NA
+01056051,Westerhorn,FALSE,No protection data in file,NA,NA,NA
+01058007,Arpsdorf,FALSE,No protection data in file,NA,NA,NA
+01058009,Aukrug,FALSE,No protection data in file,NA,NA,NA
+01058024,Borgstedt,FALSE,No protection data in file,NA,NA,NA
+01058026,Bovenau,FALSE,No protection data in file,NA,NA,NA
+01058029,Breiholz,FALSE,No protection data in file,NA,NA,NA
+01058034,"Büdelsdorf, Stadt",FALSE,No protection data in file,NA,NA,NA
+01058035,Bünsdorf,FALSE,No protection data in file,NA,NA,NA
+01058044,Ehndorf,FALSE,No protection data in file,NA,NA,NA
+01058075,Hörsten,FALSE,No protection data in file,NA,NA,NA
+01058119,Oldenbüttel,FALSE,No protection data in file,NA,NA,NA
+01058124,Osterrönfeld,FALSE,No protection data in file,NA,NA,NA
+01058132,Rade b. Rendsburg,FALSE,No protection data in file,NA,NA,NA
+01058135,"Rendsburg, Stadt",FALSE,No protection data in file,NA,NA,NA
+01058140,Schacht-Audorf,FALSE,No protection data in file,NA,NA,NA
+01058148,Schülp b. Rendsburg,FALSE,No protection data in file,NA,NA,NA
+01058158,Tackesdorf,FALSE,No protection data in file,NA,NA,NA
+01058172,Westerrönfeld,FALSE,No protection data in file,NA,NA,NA
+01060063,"Norderstedt, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061002,Aebtissinwisch,FALSE,No protection data in file,NA,NA,NA
+01061004,Altenmoor,FALSE,No protection data in file,NA,NA,NA
+01061005,Auufer,FALSE,No protection data in file,NA,NA,NA
+01061006,Bahrenfleth,FALSE,No protection data in file,NA,NA,NA
+01061007,Beidenfleth,FALSE,No protection data in file,NA,NA,NA
+01061008,Bekdorf,FALSE,No protection data in file,NA,NA,NA
+01061010,Bekmünde,FALSE,No protection data in file,NA,NA,NA
+01061012,Blomesche Wildnis,FALSE,No protection data in file,NA,NA,NA
+01061014,Bokhorst,FALSE,No protection data in file,NA,NA,NA
+01061015,Borsfleth,FALSE,No protection data in file,NA,NA,NA
+01061016,Breitenberg,FALSE,No protection data in file,NA,NA,NA
+01061017,Breitenburg,FALSE,No protection data in file,NA,NA,NA
+01061018,Brokdorf,FALSE,No protection data in file,NA,NA,NA
+01061019,Brokstedt,FALSE,No protection data in file,NA,NA,NA
+01061020,Büttel,FALSE,No protection data in file,NA,NA,NA
+01061022,Dägeling,FALSE,No protection data in file,NA,NA,NA
+01061023,Dammfleth,FALSE,No protection data in file,NA,NA,NA
+01061025,Ecklak,FALSE,No protection data in file,NA,NA,NA
+01061026,Elskop,FALSE,No protection data in file,NA,NA,NA
+01061027,Engelbrechtsche Wildnis,FALSE,No protection data in file,NA,NA,NA
+01061028,Fitzbek,FALSE,No protection data in file,NA,NA,NA
+01061029,"Glückstadt, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061030,Grevenkop,FALSE,No protection data in file,NA,NA,NA
+01061031,Gribbohm,FALSE,No protection data in file,NA,NA,NA
+01061034,Heiligenstedten,FALSE,No protection data in file,NA,NA,NA
+01061035,Heiligenstedtenerkamp,FALSE,No protection data in file,NA,NA,NA
+01061037,Herzhorn,FALSE,No protection data in file,NA,NA,NA
+01061039,Hodorf,FALSE,No protection data in file,NA,NA,NA
+01061040,Hohenaspe,FALSE,No protection data in file,NA,NA,NA
+01061041,Hohenfelde,FALSE,No protection data in file,NA,NA,NA
+01061044,Horst (Holstein),FALSE,No protection data in file,NA,NA,NA
+01061045,Huje,FALSE,No protection data in file,NA,NA,NA
+01061046,"Itzehoe, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061047,Kaaks,FALSE,No protection data in file,NA,NA,NA
+01061049,"Kellinghusen, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061050,Kiebitzreihe,FALSE,No protection data in file,NA,NA,NA
+01061052,Kleve,FALSE,No protection data in file,NA,NA,NA
+01061053,Kollmoor,FALSE,No protection data in file,NA,NA,NA
+01061054,Krempdorf,FALSE,No protection data in file,NA,NA,NA
+01061055,"Krempe, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061056,Kremperheide,FALSE,No protection data in file,NA,NA,NA
+01061057,Krempermoor,FALSE,No protection data in file,NA,NA,NA
+01061058,Kronsmoor,FALSE,No protection data in file,NA,NA,NA
+01061059,Krummendiek,FALSE,No protection data in file,NA,NA,NA
+01061060,Kudensee,FALSE,No protection data in file,NA,NA,NA
+01061061,Lägerdorf,FALSE,No protection data in file,NA,NA,NA
+01061062,Landrecht,FALSE,No protection data in file,NA,NA,NA
+01061063,Landscheide,FALSE,No protection data in file,NA,NA,NA
+01061065,Lohbarbek,FALSE,No protection data in file,NA,NA,NA
+01061068,Moordiek,FALSE,No protection data in file,NA,NA,NA
+01061070,Moorhusen,FALSE,No protection data in file,NA,NA,NA
+01061071,Mühlenbarbek,FALSE,No protection data in file,NA,NA,NA
+01061072,Münsterdorf,FALSE,No protection data in file,NA,NA,NA
+01061073,Neuenbrook,FALSE,No protection data in file,NA,NA,NA
+01061074,Neuendorf b. Elmshorn,FALSE,No protection data in file,NA,NA,NA
+01061077,Nortorf,FALSE,No protection data in file,NA,NA,NA
+01061078,Nutteln,FALSE,No protection data in file,NA,NA,NA
+01061079,Oelixdorf,FALSE,No protection data in file,NA,NA,NA
+01061080,Oeschebüttel,FALSE,No protection data in file,NA,NA,NA
+01061082,Oldendorf,FALSE,No protection data in file,NA,NA,NA
+01061083,Ottenbüttel,FALSE,No protection data in file,NA,NA,NA
+01061088,Quarnstedt,FALSE,No protection data in file,NA,NA,NA
+01061089,Rade,FALSE,No protection data in file,NA,NA,NA
+01061092,Rethwisch,FALSE,No protection data in file,NA,NA,NA
+01061093,Rosdorf,FALSE,No protection data in file,NA,NA,NA
+01061095,Sankt Margarethen,FALSE,No protection data in file,NA,NA,NA
+01061096,Sarlhusen,FALSE,No protection data in file,NA,NA,NA
+01061101,Sommerland,FALSE,No protection data in file,NA,NA,NA
+01061102,Stördorf,FALSE,No protection data in file,NA,NA,NA
+01061103,Störkathen,FALSE,No protection data in file,NA,NA,NA
+01061104,Süderau,FALSE,No protection data in file,NA,NA,NA
+01061105,Vaale,FALSE,No protection data in file,NA,NA,NA
+01061106,Vaalermoor,FALSE,No protection data in file,NA,NA,NA
+01061109,Westermoor,FALSE,No protection data in file,NA,NA,NA
+01061110,Wewelsfleth,FALSE,No protection data in file,NA,NA,NA
+01061112,Willenscharen,FALSE,No protection data in file,NA,NA,NA
+01061113,"Wilster, Stadt",FALSE,No protection data in file,NA,NA,NA
+01061114,Winseldorf,FALSE,No protection data in file,NA,NA,NA
+01061115,Wittenbergen,FALSE,No protection data in file,NA,NA,NA
+01061116,Wrist,FALSE,No protection data in file,NA,NA,NA
+01061117,Wulfsmoor,FALSE,No protection data in file,NA,NA,NA
+01061118,Kollmar,FALSE,No protection data in file,NA,NA,NA
+01061119,Neuendorf-Sachsenbande,FALSE,No protection data in file,NA,NA,NA
+02000000,"Hamburg, Freie und Hansestadt",FALSE,No protection data in file,NA,NA,NA
+03154007,Grafhorst,FALSE,No protection data in file,NA,NA,NA
+03352002,Armstorf,FALSE,No protection data in file,NA,NA,NA
+03352004,Belum,FALSE,No protection data in file,NA,NA,NA
+03352008,Bülkau,FALSE,No protection data in file,NA,NA,NA
+03352011,"Cuxhaven, Stadt",FALSE,No protection data in file,NA,NA,NA
+03352020,Hechthausen,FALSE,No protection data in file,NA,NA,NA
+03352022,"Hemmoor, Stadt",FALSE,No protection data in file,NA,NA,NA
+03352024,Hollnseth,FALSE,No protection data in file,NA,NA,NA
+03352025,Ihlienworth,FALSE,No protection data in file,NA,NA,NA
+03352029,Lamstedt,FALSE,No protection data in file,NA,NA,NA
+03352036,Mittelstenahe,FALSE,No protection data in file,NA,NA,NA
+03352038,Neuenkirchen,FALSE,No protection data in file,NA,NA,NA
+03352039,"Neuhaus (Oste), Flecken",FALSE,No protection data in file,NA,NA,NA
+03352041,Nordleda,FALSE,No protection data in file,NA,NA,NA
+03352042,Oberndorf,FALSE,No protection data in file,NA,NA,NA
+03352043,Odisheim,FALSE,No protection data in file,NA,NA,NA
+03352044,Osten,FALSE,No protection data in file,NA,NA,NA
+03352045,Osterbruch,FALSE,No protection data in file,NA,NA,NA
+03352046,"Otterndorf, Stadt",FALSE,No protection data in file,NA,NA,NA
+03352051,Steinau,FALSE,No protection data in file,NA,NA,NA
+03352052,Stinstedt,FALSE,No protection data in file,NA,NA,NA
+03352055,Wanna,FALSE,No protection data in file,NA,NA,NA
+03352056,Wingst,FALSE,No protection data in file,NA,NA,NA
+03352061,Wurster Nordseeküste,FALSE,No protection data in file,NA,NA,NA
+03352062,"Geestland, Stadt",FALSE,No protection data in file,NA,NA,NA
+03352063,Cadenberge,FALSE,No protection data in file,NA,NA,NA
+03353007,Drage,FALSE,No protection data in file,NA,NA,NA
+03353023,Marschacht,FALSE,No protection data in file,NA,NA,NA
+03353026,Neu Wulmstorf,FALSE,No protection data in file,NA,NA,NA
+03353031,Seevetal,FALSE,No protection data in file,NA,NA,NA
+03353032,Stelle,FALSE,No protection data in file,NA,NA,NA
+03353033,Tespe,FALSE,No protection data in file,NA,NA,NA
+03353040,"Winsen (Luhe), Stadt",FALSE,No protection data in file,NA,NA,NA
+03354019,Neu Darchau,FALSE,No protection data in file,NA,NA,NA
+03355003,"Artlenburg, Flecken",FALSE,No protection data in file,NA,NA,NA
+03355004,"Bardowick, Flecken",FALSE,No protection data in file,NA,NA,NA
+03355007,Barum,FALSE,No protection data in file,NA,NA,NA
+03355009,"Bleckede, Stadt",FALSE,No protection data in file,NA,NA,NA
+03355011,Brietlingen,FALSE,No protection data in file,NA,NA,NA
+03355014,Deutsch Evern,FALSE,No protection data in file,NA,NA,NA
+03355015,Echem,FALSE,No protection data in file,NA,NA,NA
+03355017,Handorf,FALSE,No protection data in file,NA,NA,NA
+03355018,Hittbergen,FALSE,No protection data in file,NA,NA,NA
+03355019,Hohnstorf (Elbe),FALSE,No protection data in file,NA,NA,NA
+03355021,Lüdersburg,FALSE,No protection data in file,NA,NA,NA
+03355022,"Lüneburg, Hansestadt",FALSE,No protection data in file,NA,NA,NA
+03355024,Melbeck,FALSE,No protection data in file,NA,NA,NA
+03355026,Neetze,FALSE,No protection data in file,NA,NA,NA
+03355028,Radbruch,FALSE,No protection data in file,NA,NA,NA
+03355032,Rullstorf,FALSE,No protection data in file,NA,NA,NA
+03355033,Scharnebeck,FALSE,No protection data in file,NA,NA,NA
+03355042,Wittorf,FALSE,No protection data in file,NA,NA,NA
+03357002,Alfstedt,FALSE,No protection data in file,NA,NA,NA
+03357008,"Bremervörde, Stadt",FALSE,No protection data in file,NA,NA,NA
+03357016,Gnarrenburg,FALSE,No protection data in file,NA,NA,NA
+03357035,Oerel,FALSE,No protection data in file,NA,NA,NA
+03357036,Ostereistedt,FALSE,No protection data in file,NA,NA,NA
+03357038,Rhade,FALSE,No protection data in file,NA,NA,NA
+03357040,Sandbostel,FALSE,No protection data in file,NA,NA,NA
+03357042,Seedorf,FALSE,No protection data in file,NA,NA,NA
+03357043,Selsingen,FALSE,No protection data in file,NA,NA,NA
+03357057,"Zeven, Stadt",FALSE,No protection data in file,NA,NA,NA
+03359001,Agathenburg,FALSE,No protection data in file,NA,NA,NA
+03359004,Balje,FALSE,No protection data in file,NA,NA,NA
+03359007,Bliedersdorf,FALSE,No protection data in file,NA,NA,NA
+03359009,Burweg,FALSE,No protection data in file,NA,NA,NA
+03359010,"Buxtehude, Hansestadt",FALSE,No protection data in file,NA,NA,NA
+03359012,Dollern,FALSE,No protection data in file,NA,NA,NA
+03359013,Drochtersen,FALSE,No protection data in file,NA,NA,NA
+03359015,Engelschoff,FALSE,No protection data in file,NA,NA,NA
+03359016,Estorf,FALSE,No protection data in file,NA,NA,NA
+03359018,"Freiburg (Elbe), Flecken",FALSE,No protection data in file,NA,NA,NA
+03359019,Großenwörden,FALSE,No protection data in file,NA,NA,NA
+03359020,Grünendeich,FALSE,No protection data in file,NA,NA,NA
+03359021,Guderhandviertel,FALSE,No protection data in file,NA,NA,NA
+03359022,Hammah,FALSE,No protection data in file,NA,NA,NA
+03359023,"Harsefeld, Flecken",FALSE,No protection data in file,NA,NA,NA
+03359025,Himmelpforten,FALSE,No protection data in file,NA,NA,NA
+03359026,Hollern-Twielenfleth,FALSE,No protection data in file,NA,NA,NA
+03359027,"Horneburg, Flecken",FALSE,No protection data in file,NA,NA,NA
+03359028,Jork,FALSE,No protection data in file,NA,NA,NA
+03359029,Kranenburg,FALSE,No protection data in file,NA,NA,NA
+03359030,Krummendeich,FALSE,No protection data in file,NA,NA,NA
+03359032,Mittelnkirchen,FALSE,No protection data in file,NA,NA,NA
+03359033,Neuenkirchen,FALSE,No protection data in file,NA,NA,NA
+03359034,Nottensdorf,FALSE,No protection data in file,NA,NA,NA
+03359035,Oederquart,FALSE,No protection data in file,NA,NA,NA
+03359038,"Stade, Hansestadt",FALSE,No protection data in file,NA,NA,NA
+03359039,Steinkirchen,FALSE,No protection data in file,NA,NA,NA
+03359040,Wischhafen,FALSE,No protection data in file,NA,NA,NA
+03360002,"Bad Bevensen, Stadt",FALSE,No protection data in file,NA,NA,NA
+03360004,Bienenbüttel,FALSE,No protection data in file,NA,NA,NA
+03360008,Emmendorf,FALSE,No protection data in file,NA,NA,NA
+03360012,Jelmstorf,FALSE,No protection data in file,NA,NA,NA
+03360025,"Uelzen, Hansestadt",FALSE,No protection data in file,NA,NA,NA
+09464000,Hof,FALSE,No protection data in file,NA,NA,NA
+09475113,Berg,FALSE,No protection data in file,NA,NA,NA
+09475137,Issigau,FALSE,No protection data in file,NA,NA,NA
+09475141,Köditz,FALSE,No protection data in file,NA,NA,NA
+09475181,Töpen,FALSE,No protection data in file,NA,NA,NA
+11000000,"Berlin, Stadt",FALSE,No protection data in file,NA,NA,NA
+12052000,"Cottbus/Chóśebuz, Stadt",FALSE,No protection data in file,NA,NA,NA
+12054000,"Potsdam, Stadt",FALSE,No protection data in file,NA,NA,NA
+12060198,Schorfheide,FALSE,No protection data in file,NA,NA,NA
+12061005,Alt Zauche-Wußwerk/Stara Niwa-Wózwjerch,FALSE,No protection data in file,NA,NA,NA
+12061061,Byhleguhre-Byhlen/Beła Góra-Bělin,FALSE,No protection data in file,NA,NA,NA
+12061112,Eichwalde,FALSE,No protection data in file,NA,NA,NA
+12061192,Groß Köris,FALSE,No protection data in file,NA,NA,NA
+12061217,Heidesee,FALSE,No protection data in file,NA,NA,NA
+12061260,"Königs Wusterhausen, Stadt",FALSE,No protection data in file,NA,NA,NA
+12061265,Krausnick-Groß Wasserburg,FALSE,No protection data in file,NA,NA,NA
+12061316,"Lübben (Spreewald) / Lubin (Błota), Stadt",FALSE,No protection data in file,NA,NA,NA
+12061328,"Märkisch Buchholz, Stadt",FALSE,No protection data in file,NA,NA,NA
+12061329,Märkische Heide/Markojska Góla,FALSE,No protection data in file,NA,NA,NA
+12061332,"Mittenwalde, Stadt",FALSE,No protection data in file,NA,NA,NA
+12061344,Münchehofe,FALSE,No protection data in file,NA,NA,NA
+12061428,Schlepzig/Słopišća,FALSE,No protection data in file,NA,NA,NA
+12061450,Schwielochsee/Gójacki Jazor,FALSE,No protection data in file,NA,NA,NA
+12061476,Straupitz (Spreewald)/Tšupc (Błota),FALSE,No protection data in file,NA,NA,NA
+12061510,Unterspreewald,FALSE,No protection data in file,NA,NA,NA
+12061540,"Wildau, Stadt",FALSE,No protection data in file,NA,NA,NA
+12061572,Zeuthen,FALSE,No protection data in file,NA,NA,NA
+12062282,Kremitzaue,FALSE,No protection data in file,NA,NA,NA
+12062336,Merzdorf,FALSE,No protection data in file,NA,NA,NA
+12062341,"Mühlberg/Elbe, Stadt",FALSE,No protection data in file,NA,NA,NA
+12062453,Schönborn,FALSE,No protection data in file,NA,NA,NA
+12063088,"Friesack, Stadt",FALSE,No protection data in file,NA,NA,NA
+12063142,Wiesenaue,FALSE,No protection data in file,NA,NA,NA
+12063148,"Ketzin/Havel, Stadt",FALSE,No protection data in file,NA,NA,NA
+12063165,Kotzen,FALSE,No protection data in file,NA,NA,NA
+12063189,Milower Land,FALSE,No protection data in file,NA,NA,NA
+12063202,Mühlenberge,FALSE,No protection data in file,NA,NA,NA
+12063208,"Nauen, Stadt",FALSE,No protection data in file,NA,NA,NA
+12063228,Paulinenaue,FALSE,No protection data in file,NA,NA,NA
+12063293,Stechow-Ferchesar,FALSE,No protection data in file,NA,NA,NA
+12065036,Birkenwerder,FALSE,No protection data in file,NA,NA,NA
+12065084,"Fürstenberg/Havel, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065100,"Gransee, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065136,"Hennigsdorf, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065144,"Hohen Neuendorf, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065180,Leegebruch,FALSE,No protection data in file,NA,NA,NA
+12065193,"Liebenwalde, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065198,Löwenberger Land,FALSE,No protection data in file,NA,NA,NA
+12065256,"Oranienburg, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065332,"Velten, Stadt",FALSE,No protection data in file,NA,NA,NA
+12065356,"Zehdenick, Stadt",FALSE,No protection data in file,NA,NA,NA
+12066196,"Lübbenau/Spreewald / Lubnjow/Błota, Stadt",FALSE,No protection data in file,NA,NA,NA
+12066320,"Vetschau/Spreewald / Wětošow/Błota, Stadt",FALSE,No protection data in file,NA,NA,NA
+12067024,Bad Saarow,FALSE,No protection data in file,NA,NA,NA
+12067036,"Beeskow, Stadt",FALSE,No protection data in file,NA,NA,NA
+12067040,Berkenbrück,FALSE,No protection data in file,NA,NA,NA
+12067072,Briesen (Mark),FALSE,No protection data in file,NA,NA,NA
+12067124,"Erkner, Stadt",FALSE,No protection data in file,NA,NA,NA
+12067137,"Friedland, Stadt",FALSE,No protection data in file,NA,NA,NA
+12067144,"Fürstenwalde/Spree, Stadt",FALSE,No protection data in file,NA,NA,NA
+12067173,Gosen-Neu Zittau,FALSE,No protection data in file,NA,NA,NA
+12067201,Grünheide (Mark),FALSE,No protection data in file,NA,NA,NA
+12067288,Langewahl,FALSE,No protection data in file,NA,NA,NA
+12067397,Ragow-Merz,FALSE,No protection data in file,NA,NA,NA
+12067408,Rauen,FALSE,No protection data in file,NA,NA,NA
+12067426,Rietz-Neuendorf,FALSE,No protection data in file,NA,NA,NA
+12067469,Spreenhagen,FALSE,No protection data in file,NA,NA,NA
+12067473,Steinhöfel,FALSE,No protection data in file,NA,NA,NA
+12067481,"Storkow (Mark), Stadt",FALSE,No protection data in file,NA,NA,NA
+12067493,Tauche,FALSE,No protection data in file,NA,NA,NA
+12068117,Fehrbellin,FALSE,No protection data in file,NA,NA,NA
+12068320,"Neuruppin, Stadt",FALSE,No protection data in file,NA,NA,NA
+12068409,Sieversdorf-Hohenofen,FALSE,No protection data in file,NA,NA,NA
+12068425,Temnitzquell,FALSE,No protection data in file,NA,NA,NA
+12068426,Temnitztal,FALSE,No protection data in file,NA,NA,NA
+12068468,"Wittstock/Dosse, Stadt",FALSE,No protection data in file,NA,NA,NA
+12068501,Zernitz-Lohm,FALSE,No protection data in file,NA,NA,NA
+12069017,"Beelitz, Stadt",FALSE,No protection data in file,NA,NA,NA
+12069018,Beetzsee,FALSE,No protection data in file,NA,NA,NA
+12069019,Beetzseeheide,FALSE,No protection data in file,NA,NA,NA
+12069028,Bensdorf,FALSE,No protection data in file,NA,NA,NA
+12069216,Golzow,FALSE,No protection data in file,NA,NA,NA
+12069249,Groß Kreutz (Havel),FALSE,No protection data in file,NA,NA,NA
+12069270,"Havelsee, Stadt",FALSE,No protection data in file,NA,NA,NA
+12069306,Kloster Lehnin,FALSE,No protection data in file,NA,NA,NA
+12069454,Nuthetal,FALSE,No protection data in file,NA,NA,NA
+12069460,Päwesin,FALSE,No protection data in file,NA,NA,NA
+12069541,Roskow,FALSE,No protection data in file,NA,NA,NA
+12069590,Schwielowsee,FALSE,No protection data in file,NA,NA,NA
+12069648,Wenzlow,FALSE,No protection data in file,NA,NA,NA
+12069656,"Werder (Havel), Stadt",FALSE,No protection data in file,NA,NA,NA
+12069688,Wusterwitz,FALSE,No protection data in file,NA,NA,NA
+12069696,"Ziesar, Stadt",FALSE,No protection data in file,NA,NA,NA
+12070125,Groß Pankow (Prignitz),FALSE,No protection data in file,NA,NA,NA
+12070296,"Perleberg, Stadt",FALSE,No protection data in file,NA,NA,NA
+12070302,Plattenburg,FALSE,No protection data in file,NA,NA,NA
+12070416,Weisen,FALSE,No protection data in file,NA,NA,NA
+12071028,Briesen/Brjazyna,FALSE,No protection data in file,NA,NA,NA
+12071032,Burg (Spreewald)/Bórkowy (Błota),FALSE,No protection data in file,NA,NA,NA
+12071041,Dissen-Striesow/Dešno-Strjažow,FALSE,No protection data in file,NA,NA,NA
+12071052,Drachhausen/Hochoza,FALSE,No protection data in file,NA,NA,NA
+12071060,Drehnow/Drjenow,FALSE,No protection data in file,NA,NA,NA
+12071076,"Forst (Lausitz)/Baršć (Łužyca), Stadt",FALSE,No protection data in file,NA,NA,NA
+12071164,Guhrow/Góry,FALSE,No protection data in file,NA,NA,NA
+12071176,Heinersbrück/Móst,FALSE,No protection data in file,NA,NA,NA
+12071301,Neuhausen/Spree / Kopańce/Sprjewja,FALSE,No protection data in file,NA,NA,NA
+12071341,Schmogrow-Fehrow/Smogorjow-Prjawoz,FALSE,No protection data in file,NA,NA,NA
+12071372,"Spremberg/Grodk, Stadt",FALSE,No protection data in file,NA,NA,NA
+12071412,Werben/Wjerbno,FALSE,No protection data in file,NA,NA,NA
+12072232,"Luckenwalde, Stadt",FALSE,No protection data in file,NA,NA,NA
+12072240,"Ludwigsfelde, Stadt",FALSE,No protection data in file,NA,NA,NA
+12072312,Nuthe-Urstromtal,FALSE,No protection data in file,NA,NA,NA
+12072426,"Trebbin, Stadt",FALSE,No protection data in file,NA,NA,NA
+12073384,"Lychen, Stadt",FALSE,No protection data in file,NA,NA,NA
+12073572,"Templin, Stadt",FALSE,No protection data in file,NA,NA,NA
+13071001,Alt Schwerin,FALSE,No protection data in file,NA,NA,NA
+13071036,Fünfseen,FALSE,No protection data in file,NA,NA,NA
+13071043,Göhren-Lebbin,FALSE,No protection data in file,NA,NA,NA
+13071045,Gotthun,FALSE,No protection data in file,NA,NA,NA
+13071069,Jabel,FALSE,No protection data in file,NA,NA,NA
+13071077,Klink,FALSE,No protection data in file,NA,NA,NA
+13071093,"Malchow, Inselstadt",FALSE,No protection data in file,NA,NA,NA
+13071110,"Neustrelitz, Residenzstadt",FALSE,No protection data in file,NA,NA,NA
+13071119,Priepert,FALSE,No protection data in file,NA,NA,NA
+13071137,Sietow,FALSE,No protection data in file,NA,NA,NA
+13071138,Silz,FALSE,No protection data in file,NA,NA,NA
+13071156,"Waren (Müritz), Stadt",FALSE,No protection data in file,NA,NA,NA
+13071159,"Wesenberg, Stadt",FALSE,No protection data in file,NA,NA,NA
+13071176,Südmüritz,FALSE,No protection data in file,NA,NA,NA
+13076006,Barkhagen,FALSE,No protection data in file,NA,NA,NA
+13076008,Belsch,FALSE,No protection data in file,NA,NA,NA
+13076009,Bengerstorf,FALSE,No protection data in file,NA,NA,NA
+13076010,Besitz,FALSE,No protection data in file,NA,NA,NA
+13076012,Blievenstorf,FALSE,No protection data in file,NA,NA,NA
+13076014,"Boizenburg/ Elbe, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076016,Brahlstorf,FALSE,No protection data in file,NA,NA,NA
+13076017,Brenz,FALSE,No protection data in file,NA,NA,NA
+13076018,Bresegard bei Eldena,FALSE,No protection data in file,NA,NA,NA
+13076019,Bresegard bei Picher,FALSE,No protection data in file,NA,NA,NA
+13076030,Dersenow,FALSE,No protection data in file,NA,NA,NA
+13076037,Eldena,FALSE,No protection data in file,NA,NA,NA
+13076040,Gallin-Kuppentin,FALSE,No protection data in file,NA,NA,NA
+13076046,Göhlen,FALSE,No protection data in file,NA,NA,NA
+13076050,"Grabow, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076053,Grebs-Niendorf,FALSE,No protection data in file,NA,NA,NA
+13076058,Groß Laasch,FALSE,No protection data in file,NA,NA,NA
+13076067,Karenz,FALSE,No protection data in file,NA,NA,NA
+13076069,Karstädt,FALSE,No protection data in file,NA,NA,NA
+13076075,Kreien,FALSE,No protection data in file,NA,NA,NA
+13076079,Kuhstorf,FALSE,No protection data in file,NA,NA,NA
+13076085,Lewitzrand,FALSE,No protection data in file,NA,NA,NA
+13076088,"Lübtheen, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076089,"Lübz, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076090,"Ludwigslust, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076093,Malk Göhren,FALSE,No protection data in file,NA,NA,NA
+13076094,Malliß,FALSE,No protection data in file,NA,NA,NA
+13076097,Milow,FALSE,No protection data in file,NA,NA,NA
+13076100,Muchow,FALSE,No protection data in file,NA,NA,NA
+13076102,Neu Gülze,FALSE,No protection data in file,NA,NA,NA
+13076105,"Neustadt-Glewe, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076106,Nostorf,FALSE,No protection data in file,NA,NA,NA
+13076108,"Parchim, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076109,Passow,FALSE,No protection data in file,NA,NA,NA
+13076114,"Plau am See, Stadt",FALSE,No protection data in file,NA,NA,NA
+13076119,Redefin,FALSE,No protection data in file,NA,NA,NA
+13076120,Rom,FALSE,No protection data in file,NA,NA,NA
+13076122,Schwanheide,FALSE,No protection data in file,NA,NA,NA
+13076125,Siggelkow,FALSE,No protection data in file,NA,NA,NA
+13076126,Spornitz,FALSE,No protection data in file,NA,NA,NA
+13076136,Teldau,FALSE,No protection data in file,NA,NA,NA
+13076138,Tessin b. Boizenburg,FALSE,No protection data in file,NA,NA,NA
+13076140,Tramm,FALSE,No protection data in file,NA,NA,NA
+13076145,Warlitz,FALSE,No protection data in file,NA,NA,NA
+13076151,Werder,FALSE,No protection data in file,NA,NA,NA
+13076156,Wöbbelin,FALSE,No protection data in file,NA,NA,NA
+13076161,Zierzow,FALSE,No protection data in file,NA,NA,NA
+14521150,Drebach,FALSE,No protection data in file,NA,NA,NA
+14521220,Gornau/Erzgeb.,FALSE,No protection data in file,NA,NA,NA
+14521240,Großolbersdorf,FALSE,No protection data in file,NA,NA,NA
+14521495,"Pockau-Lengefeld, Stadt",FALSE,No protection data in file,NA,NA,NA
+14521670,"Wolkenstein, Stadt",FALSE,No protection data in file,NA,NA,NA
+14521690,"Zschopau, Stadt, Motorradstadt",FALSE,No protection data in file,NA,NA,NA
+14522020,"Augustusburg, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522060,"Burgstädt, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522210,"Großschirma, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522290,Königshain-Wiederau,FALSE,No protection data in file,NA,NA,NA
+14522300,Kriebstein,FALSE,No protection data in file,NA,NA,NA
+14522320,Leubsdorf,FALSE,No protection data in file,NA,NA,NA
+14522330,Lichtenau,FALSE,No protection data in file,NA,NA,NA
+14522360,"Mittweida, Stadt, Hochschulstadt",FALSE,No protection data in file,NA,NA,NA
+14522420,Niederwiesa,FALSE,No protection data in file,NA,NA,NA
+14522440,"Oederan, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522480,Reinsberg,FALSE,No protection data in file,NA,NA,NA
+14522500,Rossau,FALSE,No protection data in file,NA,NA,NA
+14522510,"Roßwein, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522540,Striegistal,FALSE,No protection data in file,NA,NA,NA
+14522570,"Waldheim, Stadt",FALSE,No protection data in file,NA,NA,NA
+14522600,Zettlitz,FALSE,No protection data in file,NA,NA,NA
+14523320,"Plauen, Stadt",FALSE,No protection data in file,NA,NA,NA
+14523330,Pöhl,FALSE,No protection data in file,NA,NA,NA
+14523450,Weischlitz,FALSE,No protection data in file,NA,NA,NA
+14524090,"Hartenstein, Stadt",FALSE,No protection data in file,NA,NA,NA
+14524150,Langenweißbach,FALSE,No protection data in file,NA,NA,NA
+14524180,"Limbach-Oberfrohna, Stadt",FALSE,No protection data in file,NA,NA,NA
+14524310,"Wildenfels, Stadt",FALSE,No protection data in file,NA,NA,NA
+14625160,Großdubrau / Wulka Dubrawa,FALSE,No protection data in file,NA,NA,NA
+14625310,"Lauta, Stadt",FALSE,No protection data in file,NA,NA,NA
+14625330,Lohsa / Łaz,FALSE,No protection data in file,NA,NA,NA
+14625340,Malschwitz / Malešecy,FALSE,No protection data in file,NA,NA,NA
+14625570,Spreetal / Sprjewiny Doł,FALSE,No protection data in file,NA,NA,NA
+14626060,Boxberg/O.L. / Hamor,FALSE,No protection data in file,NA,NA,NA
+14626600,"Weißwasser/O.L., Stadt / Běła Woda",FALSE,No protection data in file,NA,NA,NA
+14627010,"Coswig, Stadt",FALSE,No protection data in file,NA,NA,NA
+14627020,Diera-Zehren,FALSE,No protection data in file,NA,NA,NA
+14627030,Ebersbach,FALSE,No protection data in file,NA,NA,NA
+14627100,Klipphausen,FALSE,No protection data in file,NA,NA,NA
+14627170,Niederau,FALSE,No protection data in file,NA,NA,NA
+14627180,"Nossen, Stadt",FALSE,No protection data in file,NA,NA,NA
+14627310,Weinböhla,FALSE,No protection data in file,NA,NA,NA
+14628210,"Königstein/Sächs. Schw., Stadt",FALSE,No protection data in file,NA,NA,NA
+14628310,"Rathen, Kurort",FALSE,No protection data in file,NA,NA,NA
+14628320,Rathmannsdorf,FALSE,No protection data in file,NA,NA,NA
+14628330,Reinhardtsdorf-Schöna,FALSE,No protection data in file,NA,NA,NA
+14628370,"Stadt Wehlen, Stadt",FALSE,No protection data in file,NA,NA,NA
+14730010,Arzberg,FALSE,No protection data in file,NA,NA,NA
+14730030,Beilrode,FALSE,No protection data in file,NA,NA,NA
+14730045,"Belgern-Schildau, Stadt",FALSE,No protection data in file,NA,NA,NA
+14730050,Cavertitz,FALSE,No protection data in file,NA,NA,NA
+14730070,"Delitzsch, Stadt",FALSE,No protection data in file,NA,NA,NA
+14730090,"Dommitzsch, Stadt",FALSE,No protection data in file,NA,NA,NA
+14730120,Elsnig,FALSE,No protection data in file,NA,NA,NA
+14730310,"Torgau, Stadt",FALSE,No protection data in file,NA,NA,NA
+15003000,"Magdeburg, Landeshauptstadt",FALSE,No protection data in file,NA,NA,NA
+15082256,Osternienburger Land,FALSE,No protection data in file,NA,NA,NA
+15083040,Barleben,FALSE,No protection data in file,NA,NA,NA
+15083115,Bülstringen,FALSE,No protection data in file,NA,NA,NA
+15083120,Burgstall,FALSE,No protection data in file,NA,NA,NA
+15083125,Calvörde,FALSE,No protection data in file,NA,NA,NA
+15083270,"Haldensleben, Stadt",FALSE,No protection data in file,NA,NA,NA
+15083390,Niedere Börde,FALSE,No protection data in file,NA,NA,NA
+15083411,"Oebisfelde-Weferlingen, Stadt",FALSE,No protection data in file,NA,NA,NA
+15083557,Westheide,FALSE,No protection data in file,NA,NA,NA
+15084150,Gleina,FALSE,No protection data in file,NA,NA,NA
+15084170,Goseck,FALSE,No protection data in file,NA,NA,NA
+15084315,"Lützen, Stadt",FALSE,No protection data in file,NA,NA,NA
+15084445,Schönburg,FALSE,No protection data in file,NA,NA,NA
+15086040,"Genthin, Stadt",FALSE,No protection data in file,NA,NA,NA
+15088305,"Querfurt, Stadt",FALSE,No protection data in file,NA,NA,NA
+15089015,"Aschersleben, Stadt",FALSE,No protection data in file,NA,NA,NA
+15089042,Bördeland,FALSE,No protection data in file,NA,NA,NA
+15089130,Giersleben,FALSE,No protection data in file,NA,NA,NA
+15089185,Ilberstedt,FALSE,No protection data in file,NA,NA,NA
+15090010,"Arneburg, Stadt",FALSE,No protection data in file,NA,NA,NA
+15090135,Eichstedt (Altmark),FALSE,No protection data in file,NA,NA,NA
+15090180,Goldbeck,FALSE,No protection data in file,NA,NA,NA
+15090220,Hassel,FALSE,No protection data in file,NA,NA,NA
+15090435,Rochau,FALSE,No protection data in file,NA,NA,NA
+15090445,"Sandau (Elbe), Stadt",FALSE,No protection data in file,NA,NA,NA
+15091020,"Bad Schmiedeberg, Stadt",FALSE,No protection data in file,NA,NA,NA
+15091110,"Gräfenhainichen, Stadt",FALSE,No protection data in file,NA,NA,NA
+15091160,"Kemberg, Stadt",FALSE,No protection data in file,NA,NA,NA
+16064004,"Bad Tennstedt, Stadt",FALSE,No protection data in file,NA,NA,NA
+16064005,Ballhausen,FALSE,No protection data in file,NA,NA,NA
+16064022,Herbsleben,FALSE,No protection data in file,NA,NA,NA
+16065085,Kyffhäuserland,FALSE,No protection data in file,NA,NA,NA
+16067067,Tonna,FALSE,No protection data in file,NA,NA,NA
+16071003,"Bad Berka, Stadt",FALSE,No protection data in file,NA,NA,NA
+16071009,Buchfart,FALSE,No protection data in file,NA,NA,NA
+16071015,Eberstedt,FALSE,No protection data in file,NA,NA,NA
+16071031,Hetschburg,FALSE,No protection data in file,NA,NA,NA
+16071064,Niedertrebra,FALSE,No protection data in file,NA,NA,NA
+16071069,Obertrebra,FALSE,No protection data in file,NA,NA,NA
+16071071,Oettern,FALSE,No protection data in file,NA,NA,NA
+16073002,Altenbeuthen,FALSE,No protection data in file,NA,NA,NA
+16073035,Hohenwarte,FALSE,No protection data in file,NA,NA,NA
+16073038,Kaulsdorf,FALSE,No protection data in file,NA,NA,NA
+16073077,"Saalfeld/Saale, Stadt",FALSE,No protection data in file,NA,NA,NA
+16073107,Drognitz,FALSE,No protection data in file,NA,NA,NA
+16073111,Unterwellenborn,FALSE,No protection data in file,NA,NA,NA
+16074021,Freienorla,FALSE,No protection data in file,NA,NA,NA
+16074031,Großeutersdorf,FALSE,No protection data in file,NA,NA,NA
+16074033,Großpürschütz,FALSE,No protection data in file,NA,NA,NA
+16074044,"Kahla, Stadt",FALSE,No protection data in file,NA,NA,NA
+16074048,Kleineutersdorf,FALSE,No protection data in file,NA,NA,NA
+16074065,"Orlamünde, Stadt",FALSE,No protection data in file,NA,NA,NA
+16074079,Rothenstein,FALSE,No protection data in file,NA,NA,NA
+16074087,Schöps,FALSE,No protection data in file,NA,NA,NA
+16074095,Sulza,FALSE,No protection data in file,NA,NA,NA
+16075023,Eßbach,FALSE,No protection data in file,NA,NA,NA
+16075035,Gössitz,FALSE,No protection data in file,NA,NA,NA
+16075046,"Hirschberg, Stadt",FALSE,No protection data in file,NA,NA,NA
+16075062,"Bad Lobenstein, Stadt",FALSE,No protection data in file,NA,NA,NA
+16075079,Paska,FALSE,No protection data in file,NA,NA,NA
+16075098,"Schleiz, Stadt",FALSE,No protection data in file,NA,NA,NA
+16075125,Wilhelmsdorf,FALSE,No protection data in file,NA,NA,NA
+16075127,"Ziegenrück, Stadt",FALSE,No protection data in file,NA,NA,NA
+16075134,Remptendorf,FALSE,No protection data in file,NA,NA,NA
+16075135,"Saalburg-Ebersdorf, Stadt",FALSE,No protection data in file,NA,NA,NA
+16075136,Rosenthal am Rennsteig,FALSE,No protection data in file,NA,NA,NA
+16076039,Langenwetzendorf,FALSE,No protection data in file,NA,NA,NA
+16076093,Mohlsdorf-Teichwolframsdorf,FALSE,No protection data in file,NA,NA,NA
+16077001,"Altenburg, Stadt",FALSE,No protection data in file,NA,NA,NA
+16077005,Fockendorf,FALSE,No protection data in file,NA,NA,NA
+16077007,Gerstenberg,FALSE,No protection data in file,NA,NA,NA
+16077036,Nobitz,FALSE,No protection data in file,NA,NA,NA
+16077052,Windischleuba,FALSE,No protection data in file,NA,NA,NA
+NA,NA,FALSE,No protection data in file,NA,NA,NA
