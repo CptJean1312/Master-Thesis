@@ -1,0 +1,34 @@
+AGS,municipality_name,city_label,pop_total,protection_available,loss_portfolio_status,protection_return_period,annual_loss_probability,distance_to_elbe_m
+11000000,"Berlin, Stadt",Berlin,3662381,FALSE,not_in_damage_loss_portfolio,NA,NA,65781.49010060147
+02000000,"Hamburg, Freie und Hansestadt",Hamburg,1851596,FALSE,not_in_damage_loss_portfolio,NA,NA,0
+14713000,Leipzig,Leipzig,608013,TRUE,in_damage_loss_portfolio,11.876484560570072,0.0842,36163.84419495507
+14612000,Dresden,Dresden,563019,TRUE,in_damage_loss_portfolio,47.61904761904762,0.021,0
+01002000,"Kiel, Landeshauptstadt",Kiel,251751,FALSE,not_in_damage_loss_portfolio,NA,NA,68308.79988536451
+15003000,"Magdeburg, Landeshauptstadt",Magdeburg,242491,FALSE,not_in_damage_loss_portfolio,NA,NA,0
+15002000,Halle (Saale),Halle (Saale),227639,TRUE,in_damage_loss_portfolio,18.181818181818183,0.055,35204.60545705713
+16051000,Erfurt,Erfurt,219549,TRUE,in_damage_loss_portfolio,17.421602787456447,0.0574,109533.54871852724
+12054000,"Potsdam, Stadt",Potsdam,184290,FALSE,not_in_damage_loss_portfolio,NA,NA,59014.86533941991
+16053000,Jena,Jena,110076,TRUE,in_damage_loss_portfolio,40.65040650406504,0.0246,102563.35766700777
+16052000,Gera,Gera,95695,TRUE,in_damage_loss_portfolio,29.761904761904763,0.0336,86963.7607143801
+12052000,"Cottbus/Chóśebuz, Stadt",Cottbus/Chóśebuz,94778,FALSE,not_in_damage_loss_portfolio,NA,NA,78111.06515755098
+14524330,Zwickau,Zwickau,87793,TRUE,in_damage_loss_portfolio,52.63157894736842,0.019,77682.33240451083
+01060063,"Norderstedt, Stadt",Norderstedt,81834,FALSE,not_in_damage_loss_portfolio,NA,NA,11213.44981946411
+15001000,Dessau-Roßlau,Dessau-Roßlau,76062,TRUE,in_damage_loss_portfolio,62.5,0.016,0
+03355022,"Lüneburg, Hansestadt",Lüneburg,74577,FALSE,not_in_damage_loss_portfolio,NA,NA,11130.73031264205
+12051000,Brandenburg an der Havel,Brandenburg an der Havel,73939,TRUE,in_damage_loss_portfolio,1666.6666666666667,6e-4,24455.60058783821
+14523320,"Plauen, Stadt",Plauen,65954,FALSE,not_in_damage_loss_portfolio,NA,NA,113317.55993986932
+16055000,Weimar,Weimar,65528,TRUE,in_damage_loss_portfolio,5000,2e-4,104124.71586965732
+01056015,"Elmshorn, Stadt",Elmshorn,51486,FALSE,not_in_damage_loss_portfolio,NA,NA,9706.795894504095
+03352011,"Cuxhaven, Stadt",Cuxhaven,49915,FALSE,not_in_damage_loss_portfolio,NA,NA,574.3077284482949
+03359038,"Stade, Hansestadt",Stade,48703,FALSE,not_in_damage_loss_portfolio,NA,NA,354.25503038729624
+15091375,Wittenberg,Wittenberg,45126,TRUE,in_damage_loss_portfolio,106.38297872340424,0.0094,0
+03353031,Seevetal,Seevetal,43997,FALSE,not_in_damage_loss_portfolio,NA,NA,0
+14628270,Pirna,Pirna,40148,TRUE,in_damage_loss_portfolio,192.30769230769232,0.0052,0
+15090535,Stendal,Stendal,37683,TRUE,in_damage_loss_portfolio,500,0.002,1794.2889869958794
+03353040,"Winsen (Luhe), Stadt",Winsen (Luhe),36754,FALSE,not_in_damage_loss_portfolio,NA,NA,0
+01056050,"Wedel, Stadt",Wedel,34716,FALSE,not_in_damage_loss_portfolio,NA,NA,255.7693971262065
+01053032,"Geesthacht, Stadt",Geesthacht,33112,FALSE,not_in_damage_loss_portfolio,NA,NA,0
+14627210,Radebeul,Radebeul,33044,TRUE,in_damage_loss_portfolio,2500,4e-4,0
+15089305,Schönebeck (Elbe),Schönebeck (Elbe),30537,TRUE,in_damage_loss_portfolio,87.71929824561404,0.0114,0
+14627230,Riesa,Riesa,29500,TRUE,in_damage_loss_portfolio,208.33333333333337,0.0048,0
+14627140,Meißen,Meißen,29007,TRUE,in_damage_loss_portfolio,5000,2e-4,0

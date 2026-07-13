@@ -5,6 +5,7 @@ suppressPackageStartupMessages({
   library(dplyr)
   library(readr)
   library(ggplot2)
+  library(stringr)
 })
 
 options(scipen = 999)
@@ -98,7 +99,8 @@ map_data <- corridor %>%
       "Municipality is included in the provider damage/loss portfolio and has an estimated protection return period.",
       "Municipality is absent from the provider protection table because it does not experience modeled losses in the provider flood portfolio. No event-count filter was applied."
     ),
-    municipality_name_final = coalesce(municipality_name, mun_name)
+    municipality_name_final = coalesce(municipality_name, mun_name),
+    pop_total_num = suppressWarnings(as.numeric(pop_total))
   )
 
 matched_n <- sum(map_data$protection_available, na.rm = TRUE)
@@ -130,6 +132,7 @@ all_corridor_table <- map_data %>%
   transmute(
     AGS,
     municipality_name = municipality_name_final,
+    pop_total = pop_total_num,
     protection_available,
     protection_status,
     loss_portfolio_status,
@@ -205,6 +208,91 @@ elbe_layer_geom <- geom_sf(
   inherit.aes = FALSE
 )
 
+make_city_label <- function(x) {
+  x %>%
+    str_replace(", Freie und Hansestadt", "") %>%
+    str_replace(", Landeshauptstadt", "") %>%
+    str_replace(", Hansestadt", "") %>%
+    str_replace(", Lutherstadt", "") %>%
+    str_replace(", Hochschulstadt", "") %>%
+    str_replace(", Stadt", "") %>%
+    str_replace(" / .*", "") %>%
+    str_trim()
+}
+
+elbe_union <- st_union(elbe)
+distance_to_elbe_m <- as.numeric(st_distance(map_data, elbe_union))
+
+city_labels <- map_data %>%
+  mutate(
+    distance_to_elbe_m = distance_to_elbe_m,
+    city_label = make_city_label(municipality_name_final),
+    city_portfolio_status = if_else(
+      protection_available,
+      "Large municipality with modeled loss/protection value",
+      "Large municipality without modeled loss"
+    )
+  ) %>%
+  filter(
+    !is.na(pop_total_num),
+    pop_total_num >= 50000 | (distance_to_elbe_m <= 5000 & pop_total_num >= 25000)
+  ) %>%
+  arrange(desc(pop_total_num)) %>%
+  st_point_on_surface()
+
+large_city_table <- city_labels %>%
+  st_drop_geometry() %>%
+  transmute(
+    AGS,
+    municipality_name = municipality_name_final,
+    city_label,
+    pop_total = pop_total_num,
+    protection_available,
+    loss_portfolio_status,
+    protection_return_period,
+    annual_loss_probability,
+    distance_to_elbe_m
+  ) %>%
+  arrange(desc(pop_total))
+
+write_csv(
+  large_city_table,
+  file.path(table_dir, "large_municipalities_portfolio_status.csv")
+)
+
+city_point_layer <- geom_sf(
+  data = city_labels,
+  aes(color = city_portfolio_status),
+  size = 2.0,
+  alpha = 0.95,
+  inherit.aes = FALSE
+)
+
+city_label_layer <- geom_sf_label(
+  data = city_labels,
+  aes(label = city_label, color = city_portfolio_status),
+  fill = "white",
+  linewidth = 0.12,
+  label.padding = unit(0.08, "lines"),
+  size = 2.45,
+  fontface = "bold",
+  alpha = 0.9,
+  show.legend = FALSE,
+  inherit.aes = FALSE
+)
+
+city_color_scale <- scale_color_manual(
+  values = c(
+    "Large municipality with modeled loss/protection value" = "#08306b",
+    "Large municipality without modeled loss" = "#b2182b"
+  ),
+  labels = c(
+    "Large municipality with modeled loss/protection value" = "City with value",
+    "Large municipality without modeled loss" = "City without loss"
+  ),
+  name = "Large municipalities"
+)
+
 # ---------------------------
 # 6) Coverage map
 # ---------------------------
@@ -212,12 +300,23 @@ elbe_layer_geom <- geom_sf(
 coverage_map <- ggplot(map_data) +
   geom_sf(aes(fill = protection_status), color = "white", linewidth = 0.06) +
   elbe_layer_geom +
+  city_point_layer +
+  city_label_layer +
   scale_fill_manual(
     values = c(
       "Protection value available" = "#1967a3",
       "No modeled loss in portfolio" = "#d8d3c7"
     ),
+    labels = c(
+      "Protection value available" = "Protection value",
+      "No modeled loss in portfolio" = "No modeled loss"
+    ),
     name = NULL
+  ) +
+  city_color_scale +
+  guides(
+    fill = guide_legend(nrow = 1, byrow = TRUE),
+    color = guide_legend(nrow = 1, byrow = TRUE)
   ) +
   coord_sf(
     xlim = c(map_bbox$xmin, map_bbox$xmax),
@@ -231,14 +330,14 @@ coverage_map <- ggplot(map_data) +
       " corridor municipalities matched to elbe_protection_level_mun.csv (",
       round(100 * coverage_share, 1), "%)."
     ),
-    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Blue line: Elbe. According to provider clarification, absent municipalities are not in the modeled damage/loss portfolio."
+    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Dark blue line: Elbe. Red city labels: large municipalities without modeled losses in provider portfolio."
   ) +
   base_map_theme()
 
 ggsave(
   filename = file.path(map_dir, "map_corridor_protection_coverage.png"),
   plot = coverage_map,
-  width = 9.5,
+  width = 11,
   height = 8.5,
   dpi = 320,
   bg = "white"
@@ -263,6 +362,8 @@ rp_map <- ggplot() +
   geom_sf(data = map_data, fill = "#eeeeea", color = "white", linewidth = 0.04) +
   geom_sf(data = rp_map_data, aes(fill = protection_class), color = "white", linewidth = 0.05) +
   elbe_layer_geom +
+  city_point_layer +
+  city_label_layer +
   scale_fill_manual(
     values = c(
       "<10" = "#8c2d04",
@@ -277,6 +378,11 @@ rp_map <- ggplot() +
     drop = FALSE,
     name = "Protection RP"
   ) +
+  city_color_scale +
+  guides(
+    fill = guide_legend(nrow = 2, byrow = TRUE),
+    color = guide_legend(nrow = 1, byrow = TRUE)
+  ) +
   coord_sf(
     xlim = c(map_bbox$xmin, map_bbox$xmax),
     ylim = c(map_bbox$ymin, map_bbox$ymax),
@@ -288,14 +394,14 @@ rp_map <- ggplot() +
       "Protection values shown for ", matched_n,
       " matched municipalities; grey municipalities are absent from the modeled damage/loss portfolio."
     ),
-    caption = "Higher return periods indicate lower annual exceedance/loss probability in the source table. Blue line: Elbe. Grey municipalities have no modeled losses in the provider portfolio."
+    caption = "Higher return periods indicate lower annual exceedance/loss probability. Dark blue line: Elbe. Red city labels: large municipalities without modeled losses."
   ) +
   base_map_theme()
 
 ggsave(
   filename = file.path(map_dir, "map_corridor_protection_return_period.png"),
   plot = rp_map,
-  width = 9.5,
+  width = 11,
   height = 8.5,
   dpi = 320,
   bg = "white"
@@ -306,5 +412,6 @@ message("Coverage map: ", file.path(map_dir, "map_corridor_protection_coverage.p
 message("Return-period map: ", file.path(map_dir, "map_corridor_protection_return_period.png"))
 message("Matched table: ", file.path(table_dir, "corridor_municipalities_with_protection.csv"))
 message("All corridor table: ", file.path(table_dir, "corridor_protection_level_all_corridor_municipalities.csv"))
+message("Large municipality table: ", file.path(table_dir, "large_municipalities_portfolio_status.csv"))
 message("Unmatched table: ", file.path(table_dir, "corridor_municipalities_without_protection.csv"))
 message("Joined GeoPackage: ", joined_gpkg)
