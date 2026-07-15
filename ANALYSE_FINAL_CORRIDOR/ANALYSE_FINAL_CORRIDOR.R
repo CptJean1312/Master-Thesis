@@ -235,6 +235,12 @@ if (st_crs(corridor_sf)$epsg != 25832) {
   corridor_sf <- st_transform(corridor_sf, 25832)
 }
 
+corridor_sf <- corridor_sf %>%
+  mutate(
+    AGS = coalesce(as.character(AGS), as.character(Gemeindeschlüssel_AGS)),
+    mun_name = coalesce(mun_name, GeografischerName_GEN)
+  )
+
 log_message("Corridor municipalities loaded: ", nrow(corridor_sf))
 
 log_message("Loading municipal exposure table ...")
@@ -245,6 +251,16 @@ exposure_tbl <- read_csv(
 )
 
 log_message("Exposure rows loaded: ", nrow(exposure_tbl))
+
+if (
+  sum(is.na(exposure_tbl$AGS)) == 1 &&
+    "16076094" %in% corridor_sf$AGS &&
+    !"16076094" %in% exposure_tbl$AGS
+) {
+  exposure_tbl$AGS[is.na(exposure_tbl$AGS)] <- "16076094"
+  exposure_tbl$mun_name[exposure_tbl$AGS == "16076094" & is.na(exposure_tbl$mun_name)] <- "Berga-Wünschendorf"
+  log_message("Repaired one missing exposure-table AGS as 16076094 (Berga-Wünschendorf).")
+}
 
 corridor_sf <- corridor_sf %>%
   mutate(AGS = as.character(AGS)) %>%

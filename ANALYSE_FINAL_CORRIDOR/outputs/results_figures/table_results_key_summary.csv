@@ -1,0 +1,8 @@
+metric,value
+municipalities,835
+municipalities_with_vulnerability_index,834
+corr_vulnerability_rp100,-0.0495204593270215
+corr_main_index_pca23_70pct,0.44055260449649297
+corr_pca23_70pct_pca23_kaiser,0.996530617601882
+positive_loss_municipalities,280
+zero_modeled_loss_probability_municipalities,555
