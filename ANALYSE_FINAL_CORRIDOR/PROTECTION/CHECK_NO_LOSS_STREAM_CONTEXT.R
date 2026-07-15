@@ -12,7 +12,7 @@ options(scipen = 999)
 
 # ============================================================
 # Check stream context of corridor municipalities without
-# modeled losses in the provider flood portfolio
+# simulated loss events in the provider flood portfolio
 # ------------------------------------------------------------
 # Purpose:
 # Test whether municipalities absent from elbe_protection_level_mun.csv
@@ -113,16 +113,22 @@ mun <- corridor %>%
     protection_available = !is.na(protection_return_period),
     loss_portfolio_status = if_else(
       protection_available,
-      "in_damage_loss_portfolio",
-      "not_in_damage_loss_portfolio"
+      "positive_modeled_loss",
+      "zero_modeled_loss_probability"
     ),
     municipality_name_final = coalesce(municipality_name, mun_name),
-    pop_total_num = suppressWarnings(as.numeric(pop_total))
+    pop_total_num = suppressWarnings(as.numeric(pop_total)),
+    no_simulated_loss_event = !protection_available,
+    annual_loss_probability_model = if_else(
+      protection_available,
+      annual_loss_probability,
+      0
+    )
   )
 
 message("Corridor municipalities: ", nrow(mun))
 message("Protection values available: ", sum(mun$protection_available))
-message("No modeled loss in provider portfolio: ", sum(!mun$protection_available))
+message("No simulated loss event / zero modeled loss probability: ", sum(!mun$protection_available))
 
 # ---------------------------
 # 5) Classify WFD river-body context
@@ -220,6 +226,8 @@ stream_context_table <- mun %>%
     flood_share_rp500,
     protection_return_period,
     annual_loss_probability,
+    annual_loss_probability_model,
+    no_simulated_loss_event,
     n_nonzero_years
   ) %>%
   arrange(protection_available, river_context_class, AGS)
@@ -303,8 +311,8 @@ city_labels <- mun %>%
     city_label = make_city_label(municipality_name_final),
     city_portfolio_status = if_else(
       protection_available,
-      "Large municipality with modeled loss/protection value",
-      "Large municipality without modeled loss"
+      "Large municipality with finite protection RP",
+      "Large municipality without simulated loss event"
     )
   ) %>%
   filter(
@@ -323,12 +331,12 @@ context_colors <- c(
 
 city_color_scale <- scale_color_manual(
   values = c(
-    "Large municipality with modeled loss/protection value" = "#08306b",
-    "Large municipality without modeled loss" = "#b2182b"
+    "Large municipality with finite protection RP" = "#08306b",
+    "Large municipality without simulated loss event" = "#b2182b"
   ),
   labels = c(
-    "Large municipality with modeled loss/protection value" = "City with value",
-    "Large municipality without modeled loss" = "City without loss"
+    "Large municipality with finite protection RP" = "City with finite RP",
+    "Large municipality without simulated loss event" = "City no event"
   ),
   name = "Large municipalities"
 )
@@ -394,9 +402,9 @@ stream_context_map <- ggplot() +
     expand = FALSE
   ) +
   labs(
-    title = "No-loss corridor municipalities by stream context",
-    subtitle = "Colored municipalities are absent from the provider portfolio. Pale blue: major WFD rivers; dark blue: Elbe.",
-    caption = "Classification is a GIS diagnostic, not a hydraulic attribution of the modeled flood source."
+    title = "No-event corridor municipalities by stream context",
+    subtitle = "Colored municipalities have no simulated loss event in the provider output. Pale blue: major WFD rivers; dark blue: Elbe.",
+    caption = "Classification is a GIS diagnostic. Smaller streams are not represented in the provider simulation."
   ) +
   theme_minimal(base_size = 11) +
   theme(
@@ -427,11 +435,11 @@ ggsave(
 # ---------------------------
 
 message("Done.")
-message("No-loss summary:")
+message("No-event summary:")
 print(no_loss_summary)
 message("Summary by portfolio status:")
 print(summary_by_status)
 message("Municipality table: ", file.path(table_dir, "corridor_stream_context_by_municipality.csv"))
-message("No-loss summary table: ", file.path(table_dir, "no_loss_stream_context_summary.csv"))
+message("No-event summary table: ", file.path(table_dir, "no_loss_stream_context_summary.csv"))
 message("Map: ", file.path(map_dir, "map_no_loss_stream_context.png"))
 message("GeoPackage: ", stream_gpkg)

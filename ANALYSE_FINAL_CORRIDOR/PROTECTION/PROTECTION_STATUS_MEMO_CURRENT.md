@@ -2,6 +2,8 @@
 
 Date: 2026-07-13
 
+Updated: 2026-07-15 after final provider clarification from Nivedita.
+
 Purpose: freeze the current interpretation of the newly received municipality-level protection/loss data before writing Chapter 4 and the Results chapter.
 
 ## Data files and scripts
@@ -26,13 +28,16 @@ Main outputs:
 
 ## Provider clarification
 
-The provider table contains all municipalities with modeled damage/loss in the provider flood portfolio. Municipalities absent from the table should currently be interpreted as municipalities without modeled losses in that portfolio.
+The provider table contains all municipalities with positive modeled damage/loss in the provider flood portfolio. Municipalities absent from the table should be interpreted as municipalities without simulated loss events in that portfolio.
 
 Important clarification:
 
 - No municipality was removed because of a minimum event-count threshold.
 - There is currently no 30-event threshold in the provided table.
 - The protection table is derived directly from the loss data without an additional event-count filter.
+- In the final clarification, Nivedita recommended treating municipalities without simulated loss events as having modeled loss probability `0`.
+- For larger cities such as Hamburg and Magdeburg, the suggested interpretation is that the protection level is high enough that no loss events occur in the simulation.
+- For smaller streams, the limitation is that they are not considered in the provider simulation and this should be stated explicitly in the thesis.
 
 Therefore, absence from `elbe_protection_level_mun.csv` must not be interpreted as:
 
@@ -43,7 +48,9 @@ Therefore, absence from `elbe_protection_level_mun.csv` must not be interpreted 
 
 The safest current wording is:
 
-`No modeled loss in the provider flood portfolio.`
+`No simulated loss event in the provider flood portfolio; modeled annual loss probability treated as zero.`
+
+For finite protection return-period analysis, however, only municipalities with positive modeled loss probability and an estimated protection return period should be used. Municipalities with zero modeled loss probability should be treated as right-censored / no-event cases rather than assigned an arbitrary finite return period.
 
 ## Join result with the EFAS/JRC RP500 corridor
 
@@ -69,7 +76,7 @@ The city-labelled maps were added to avoid misreading the unmatched area as only
 - all corridor municipalities with population `>= 50,000`, plus
 - Elbe-near municipalities within `5 km` of the Elbe line with population `>= 25,000`.
 
-Among the `33` labelled large or Elbe-near municipalities, `16` have no modeled loss in the provider portfolio. Examples include:
+Among the `33` labelled large or Elbe-near municipalities, `16` have no simulated loss event in the provider portfolio. Examples include:
 
 - Hamburg
 - Magdeburg
@@ -95,13 +102,13 @@ Several of these are directly on or near the Elbe and have non-trivial EFAS floo
 - Brunsbuettel: `flood_share_rp100 = 0.867`
 - Jork: `flood_share_rp100 = 0.959`
 
-This means the difference cannot be explained only by tiny or irrelevant municipalities.
+This means the difference cannot be explained only by tiny or irrelevant municipalities. After Nivedita's final clarification, these cases are best interpreted as protected/no-event cases within the provider model rather than as simple missing data.
 
 ## Stream-context diagnostic
 
 The stream-context check was created in response to Nivedita's suggestion that absent municipalities might mainly be related to small streams not represented in the provider simulation.
 
-Among the `555` corridor municipalities without modeled losses:
+Among the `555` corridor municipalities without simulated loss events:
 
 - `339` (`61.1%`) intersect only minor/other WFD water bodies.
 - `16` (`2.9%`) do not intersect a WFD river body in the checked layer.
@@ -111,49 +118,55 @@ Among the `555` corridor municipalities without modeled losses:
 
 Interpretation:
 
-The small-stream explanation is partly supported, but it is not complete. Many absent municipalities plausibly fall outside the provider river/loss simulation logic because they relate to smaller streams or water bodies. However, a non-negligible group of absent municipalities lies directly on or close to the Elbe main stem, especially in the lower Elbe / tidal Elbe area, and some of these have high EFAS flood shares.
+The stream-context result should now be read together with the final provider clarification. Many absent municipalities plausibly fall outside the represented river/loss simulation logic because they relate to smaller streams or water bodies. This must be reported as a limitation. However, a non-negligible group of absent municipalities lies directly on or close to the Elbe main stem, including large cities. For these cases, the provider interpretation is that the protection level is high enough that no simulated loss events occur, implying modeled annual loss probability `0`.
 
 ## Current thesis interpretation
 
-The current working interpretation is a model-domain / portfolio-coverage mismatch between:
+The current working interpretation is no longer a simple data-gap interpretation. Instead, the provider table should be read as a positive-loss table derived from a process-based flood-loss simulation:
 
-1. the thesis-defined EFAS/JRC RP500 exposure corridor, and
-2. the provider flood loss/protection portfolio.
+1. municipalities in the table have simulated losses and finite protection return-period estimates;
+2. municipalities absent from the table have no simulated losses and should be assigned modeled annual loss probability `0`;
+3. the absence of smaller-stream municipalities partly reflects the fact that smaller streams are not represented in the provider simulation.
 
 This should be treated as a methodological feature and limitation, not as a simple data error.
 
 For the thesis, the defensible structure is:
 
 - Main exposure-vulnerability analysis: all `835` EFAS/JRC RP500 corridor municipalities.
-- Protection return-period analysis: only the `280` corridor municipalities with modeled loss/protection values.
-- Remaining `555` municipalities: coded and discussed as `no modeled loss in provider flood portfolio`.
+- Finite protection return-period analysis: only the `280` corridor municipalities with modeled loss/protection values.
+- Modeled annual loss probability interpretation: the remaining `555` municipalities can be coded as `0` modeled annual loss probability / no simulated loss event.
+- Limitations: smaller streams are not considered in the provider simulation; EFAS exposure and provider loss/protection outputs are not identical hazard/loss concepts.
 
 The protection table should therefore not replace the corridor definition. It is an additional loss/protection module with its own coverage boundary.
 
-## Open questions after follow-up email
+## Resolved and remaining questions after final provider email
 
-The following points remain open until Nivedita/Tan/Phillip reply:
+Resolved:
 
-1. Does the provider portfolio cover the lower Elbe / Hamburg / tidal or storm-surge-influenced section?
-2. Is the absence of Hamburg/lower-Elbe municipalities mainly caused by model domain, river-network coverage, loss/exposure representation, or hazard-process definition?
-3. Should the thesis describe the unmatched municipalities as outside the provider loss portfolio, no modeled loss, or both?
-4. Is there provider-recommended wording for this limitation?
-5. Will Tan's provider exposure-municipality list clarify which municipalities are in their exposure/loss domain?
+- For large cities such as Hamburg and Magdeburg, no loss event in the provider table can be interpreted as protection level high enough that no simulated loss event is observed.
+- The modeled annual loss probability for municipalities without simulated loss events should be treated as `0`.
+- Smaller streams are not considered and this should be written as a limitation.
+- Sairam et al. (2021) should be cited for the simulation characteristics and limitations.
+
+Still useful to check if Tan sends the exposure-municipality list:
+
+1. Whether all no-event municipalities are inside the provider exposure domain but have zero loss, or whether some are absent because they are outside the represented river network.
+2. Whether the lower Elbe / Hamburg section has any special tidal/coastal-process limitation beyond the general no-event interpretation.
 
 ## Chapter 4 consequence
 
-Chapter 4 should include the protection data as a separate damage/loss-based module. It should explicitly state that protection return periods are available only for the matched loss-portfolio subset.
+Chapter 4 should include the protection data as a separate damage/loss-based module. It should explicitly state that finite protection return periods are available only for the positive-loss subset, while municipalities without loss events are assigned modeled annual loss probability `0`.
 
 Suggested wording:
 
-`Because the protection return-period table is derived from modeled losses, it is not available for every municipality in the EFAS/JRC RP500 corridor. Municipalities absent from the table are not interpreted as unprotected or risk-free. Following provider clarification, they are coded as municipalities with no modeled loss in the provider flood portfolio. Protection-return-period analyses are therefore restricted to the matched loss-portfolio subset, while the full corridor remains the basis for the exposure-vulnerability analysis.`
+`Because the protection return-period table is derived from modeled losses, finite protection return periods are available only where at least one simulated loss event occurs. Municipalities absent from the table are not interpreted as unprotected or risk-free. Following provider clarification, they are treated as municipalities with no simulated loss event and modeled annual loss probability zero in the provider flood portfolio. Finite protection-return-period analyses are therefore restricted to the positive-loss subset, while the full corridor remains the basis for the exposure-vulnerability analysis. Smaller streams are not represented in the provider simulation and are reported as a limitation.`
 
 ## Results and discussion consequence
 
-The coverage pattern itself is a result worth reporting, but it should be framed carefully:
+The coverage / no-event pattern itself is a result worth reporting, but it should be framed carefully:
 
-- It shows that the protection/loss module has a narrower effective coverage than the EFAS/JRC exposure corridor.
-- It raises an important limitation for lower Elbe / Hamburg interpretation.
+- It shows where the provider simulation produces positive modeled losses and where it produces no simulated loss events.
+- It supports the interpretation that large cities may have very high protection levels in the simulation.
 - It does not prove that those municipalities have no flood risk or no flood protection.
-- It may reflect differences between riverine EFAS exposure, provider flood/loss portfolio, tidal/coastal processes, and represented assets/losses.
-
+- It also reflects a limitation: smaller streams are not considered in the provider simulation.
+- It may reflect differences between riverine EFAS exposure, provider flood/loss portfolio, represented flood processes, and represented assets/losses.

@@ -1,9 +1,9 @@
 loss_portfolio_status,protection_available,river_context_class,n,share_within_status
-in_damage_loss_portfolio,TRUE,intersects major WFD river/tributary,136,0.4857142857142857
-in_damage_loss_portfolio,TRUE,only minor/other WFD water bodies,78,0.2785714285714286
-in_damage_loss_portfolio,TRUE,directly on/within 1 km of Elbe main stem,65,0.23214285714285715
-in_damage_loss_portfolio,TRUE,no WFD river body intersects municipality,1,0.0035714285714285713
-not_in_damage_loss_portfolio,FALSE,only minor/other WFD water bodies,339,0.6108108108108108
-not_in_damage_loss_portfolio,FALSE,intersects major WFD river/tributary,138,0.24864864864864866
-not_in_damage_loss_portfolio,FALSE,directly on/within 1 km of Elbe main stem,62,0.11171171171171171
-not_in_damage_loss_portfolio,FALSE,no WFD river body intersects municipality,16,0.02882882882882883
+positive_modeled_loss,TRUE,intersects major WFD river/tributary,136,0.4857142857142857
+positive_modeled_loss,TRUE,only minor/other WFD water bodies,78,0.2785714285714286
+positive_modeled_loss,TRUE,directly on/within 1 km of Elbe main stem,65,0.23214285714285715
+positive_modeled_loss,TRUE,no WFD river body intersects municipality,1,0.0035714285714285713
+zero_modeled_loss_probability,FALSE,only minor/other WFD water bodies,339,0.6108108108108108
+zero_modeled_loss_probability,FALSE,intersects major WFD river/tributary,138,0.24864864864864866
+zero_modeled_loss_probability,FALSE,directly on/within 1 km of Elbe main stem,62,0.11171171171171171
+zero_modeled_loss_probability,FALSE,no WFD river body intersects municipality,16,0.02882882882882883

@@ -86,21 +86,27 @@ map_data <- corridor %>%
     protection_available = !is.na(protection_return_period),
     protection_status = if_else(
       protection_available,
-      "Protection value available",
-      "No modeled loss in portfolio"
+      "Finite protection RP available",
+      "No simulated loss event"
     ),
     loss_portfolio_status = if_else(
       protection_available,
-      "in_damage_loss_portfolio",
-      "not_in_damage_loss_portfolio"
+      "positive_modeled_loss",
+      "zero_modeled_loss_probability"
     ),
     provider_interpretation = if_else(
       protection_available,
-      "Municipality is included in the provider damage/loss portfolio and has an estimated protection return period.",
-      "Municipality is absent from the provider protection table because it does not experience modeled losses in the provider flood portfolio. No event-count filter was applied."
+      "Municipality has positive modeled loss in the provider output and an estimated finite protection return period.",
+      "Municipality has no simulated loss event in the provider output. Following provider clarification, modeled annual loss probability is treated as zero; small streams are not represented and should be noted as a limitation."
     ),
     municipality_name_final = coalesce(municipality_name, mun_name),
-    pop_total_num = suppressWarnings(as.numeric(pop_total))
+    pop_total_num = suppressWarnings(as.numeric(pop_total)),
+    no_simulated_loss_event = !protection_available,
+    annual_loss_probability_model = if_else(
+      protection_available,
+      annual_loss_probability,
+      0
+    )
   )
 
 matched_n <- sum(map_data$protection_available, na.rm = TRUE)
@@ -137,6 +143,8 @@ all_corridor_table <- map_data %>%
     protection_status,
     loss_portfolio_status,
     provider_interpretation,
+    no_simulated_loss_event,
+    annual_loss_probability_model,
     protection_return_period,
     annual_loss_probability,
     n_nonzero_years
@@ -229,8 +237,8 @@ city_labels <- map_data %>%
     city_label = make_city_label(municipality_name_final),
     city_portfolio_status = if_else(
       protection_available,
-      "Large municipality with modeled loss/protection value",
-      "Large municipality without modeled loss"
+      "Large municipality with finite protection RP",
+      "Large municipality without simulated loss event"
     )
   ) %>%
   filter(
@@ -250,6 +258,7 @@ large_city_table <- city_labels %>%
     protection_available,
     loss_portfolio_status,
     protection_return_period,
+    annual_loss_probability_model,
     annual_loss_probability,
     distance_to_elbe_m
   ) %>%
@@ -283,12 +292,12 @@ city_label_layer <- geom_sf_label(
 
 city_color_scale <- scale_color_manual(
   values = c(
-    "Large municipality with modeled loss/protection value" = "#08306b",
-    "Large municipality without modeled loss" = "#b2182b"
+    "Large municipality with finite protection RP" = "#08306b",
+    "Large municipality without simulated loss event" = "#b2182b"
   ),
   labels = c(
-    "Large municipality with modeled loss/protection value" = "City with value",
-    "Large municipality without modeled loss" = "City without loss"
+    "Large municipality with finite protection RP" = "City with finite RP",
+    "Large municipality without simulated loss event" = "City no event"
   ),
   name = "Large municipalities"
 )
@@ -304,12 +313,12 @@ coverage_map <- ggplot(map_data) +
   city_label_layer +
   scale_fill_manual(
     values = c(
-      "Protection value available" = "#1967a3",
-      "No modeled loss in portfolio" = "#d8d3c7"
+      "Finite protection RP available" = "#1967a3",
+      "No simulated loss event" = "#d8d3c7"
     ),
     labels = c(
-      "Protection value available" = "Protection value",
-      "No modeled loss in portfolio" = "No modeled loss"
+      "Finite protection RP available" = "Finite protection RP",
+      "No simulated loss event" = "No simulated loss event"
     ),
     name = NULL
   ) +
@@ -330,7 +339,7 @@ coverage_map <- ggplot(map_data) +
       " corridor municipalities matched to elbe_protection_level_mun.csv (",
       round(100 * coverage_share, 1), "%)."
     ),
-    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Dark blue line: Elbe. Red city labels: large municipalities without modeled losses in provider portfolio."
+    caption = "Data: EFAS/JRC-derived RP500 corridor; elbe_protection_level_mun.csv. Dark blue line: Elbe. Red city labels: large municipalities with no simulated loss event."
   ) +
   base_map_theme()
 
@@ -389,12 +398,12 @@ rp_map <- ggplot() +
     expand = FALSE
   ) +
   labs(
-    title = "Protection return period for matched corridor municipalities",
+    title = "Protection return period for positive-loss corridor municipalities",
     subtitle = paste0(
-      "Protection values shown for ", matched_n,
-      " matched municipalities; grey municipalities are absent from the modeled damage/loss portfolio."
+      matched_n,
+      " municipalities with finite RP estimates; grey = no simulated loss event."
     ),
-    caption = "Higher return periods indicate lower annual exceedance/loss probability. Dark blue line: Elbe. Red city labels: large municipalities without modeled losses."
+    caption = "Higher return periods indicate lower annual exceedance/loss probability among positive-loss municipalities. Dark blue line: Elbe. Red city labels: no simulated loss event."
   ) +
   base_map_theme()
 
