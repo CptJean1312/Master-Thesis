@@ -130,7 +130,7 @@ Role in thesis:
 
 - main municipality-level socio-economic dataset
 - basis for socio-economic vulnerability indicator selection
-- basis for PCA-derived vulnerability index
+- basis for the socio-economic vulnerability index and PCA diagnostics
 
 Description:
 

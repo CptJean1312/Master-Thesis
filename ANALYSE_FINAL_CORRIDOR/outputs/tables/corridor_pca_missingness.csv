@@ -1,52 +1,24 @@
-variable,n_missing,share_missing
-share_bg_5plus,13,0.015568862275449102
-share_bg_single_parent,13,0.015568862275449102
-share_bg_with_children,13,0.015568862275449102
-share_alg2_sgb2,10,0.011976047904191617
-share_sgb2_with_housing_costs,10,0.011976047904191617
-dist_gp_m,1,0.0011976047904191617
-dist_pharmacy_m,1,0.0011976047904191617
-dist_primary_school_m,1,0.0011976047904191617
-dist_public_transport_m,1,0.0011976047904191617
-dist_supermarket_m,1,0.0011976047904191617
-doctors_total_per_1000,1,0.0011976047904191617
-employment_density_per_km2,1,0.0011976047904191617
-gp_general_per_1000,1,0.0011976047904191617
-gp_primary_per_1000,1,0.0011976047904191617
-income_tax_per_capita,1,0.0011976047904191617
-internists_per_1000,1,0.0011976047904191617
-migration_balance,1,0.0011976047904191617
-natural_pop_change,1,0.0011976047904191617
-old_age_dependency,1,0.0011976047904191617
-pediatricians_per_1000_children,1,0.0011976047904191617
-pop_density_per_km2,1,0.0011976047904191617
-purchasing_power,1,0.0011976047904191617
-share_4g,1,0.0011976047904191617
-share_age_0_3,1,0.0011976047904191617
-share_age_18_25,1,0.0011976047904191617
-share_age_25_30,1,0.0011976047904191617
-share_age_30_50,1,0.0011976047904191617
-share_age_3_6,1,0.0011976047904191617
-share_age_50_65,1,0.0011976047904191617
-share_age_65_75,1,0.0011976047904191617
-share_age_65plus,1,0.0011976047904191617
-share_age_6_18,1,0.0011976047904191617
-share_age_75plus,1,0.0011976047904191617
-share_bb_1000mbit,1,0.0011976047904191617
-share_bb_100mbit,1,0.0011976047904191617
-share_bb_50mbit,1,0.0011976047904191617
-share_hh_income_high,1,0.0011976047904191617
-share_hh_income_low,1,0.0011976047904191617
-share_hh_income_medium,1,0.0011976047904191617
-share_households_with_children,1,0.0011976047904191617
-share_longterm_unemp,1,0.0011976047904191617
-share_single_households,1,0.0011976047904191617
-students_18_25_per_1000,1,0.0011976047904191617
-students_fh_per_1000,1,0.0011976047904191617
-students_total_per_1000,1,0.0011976047904191617
-tax_revenue_total,1,0.0011976047904191617
-trade_tax_per_capita,1,0.0011976047904191617
-unemp_55plus_per_1000,1,0.0011976047904191617
-unemp_u25_per_1000,1,0.0011976047904191617
-young_old_ratio,1,0.0011976047904191617
-youth_dependency,1,0.0011976047904191617
+variable,n_missing_all_corridor,share_missing_all_corridor,n_missing_inkar_matched,share_missing_inkar_matched,dimension,indicator_label,expected_direction,reverse_for_index
+a_bb_4G,1,0.0011976047904191617,0,0,access_adaptive_capacity,4G mobile broadband availability,higher capacity,TRUE
+a_bb_50Mbits,1,0.0011976047904191617,0,0,access_adaptive_capacity,Fixed broadband availability at least 50 Mbit/s,higher capacity,TRUE
+m_G02_SUP_DIST,1,0.0011976047904191617,0,0,access_adaptive_capacity,Distance to supermarket/discounter,higher vulnerability,FALSE
+m_OEV20_DIST,1,0.0011976047904191617,0,0,access_adaptive_capacity,Distance to public transport stop,higher vulnerability,FALSE
+m_P01_PRIM_DIST,1,0.0011976047904191617,0,0,access_adaptive_capacity,Distance to primary school,higher vulnerability,FALSE
+m_Q01_APO_DIST,1,0.0011976047904191617,0,0,access_adaptive_capacity,Distance to pharmacy,higher vulnerability,FALSE
+m_Q07_HA_DIST,1,0.0011976047904191617,0,0,access_adaptive_capacity,Distance to general practitioner,higher vulnerability,FALSE
+q_ärzte_bev,1,0.0011976047904191617,0,0,access_adaptive_capacity,"Doctors per 10,000 residents",higher capacity,TRUE
+a_bev65um,1,0.0011976047904191617,0,0,demographic_household,Residents aged 65 years and older,higher vulnerability,FALSE
+a_bev_0006,1,0.0011976047904191617,0,0,demographic_household,Residents under 6 years,higher vulnerability,FALSE
+a_ewfBG_allein,12,0.01437125748502994,11,0.013189448441247002,demographic_household,Single-parent employable SGB-II recipients,higher vulnerability,FALSE
+a_hh_kind,1,0.0011976047904191617,0,0,demographic_household,Households with children,higher vulnerability,FALSE
+q_HH1,1,0.0011976047904191617,0,0,demographic_household,Single-person households,higher vulnerability,FALSE
+a_ALGII_SGBII,10,0.011976047904191617,9,0.01079136690647482,deprivation_labour,ALG-II share within SGB-II benefits,higher vulnerability,FALSE
+a_Minijobs,1,0.0011976047904191617,0,0,deprivation_labour,Marginal employment,higher vulnerability,FALSE
+a_aloLang,1,0.0011976047904191617,0,0,deprivation_labour,Long-term unemployed,higher vulnerability,FALSE
+a_hheink_niedrig,1,0.0011976047904191617,0,0,deprivation_labour,Low-income households,higher vulnerability,FALSE
+q_alo_u25_einw,1,0.0011976047904191617,0,0,deprivation_labour,Unemployed under 25,higher vulnerability,FALSE
+q_alo_ü55_einw,1,0.0011976047904191617,0,0,deprivation_labour,Unemployed aged 55 and older,higher vulnerability,FALSE
+q_einkst_bev,1,0.0011976047904191617,0,0,deprivation_labour,Income tax per capita,higher capacity,TRUE
+q_kaufkraft,1,0.0011976047904191617,0,0,deprivation_labour,Purchasing power per capita,higher capacity,TRUE
+q_newfBGu15_bev,1,0.0011976047904191617,0,0,deprivation_labour,Child poverty,higher vulnerability,FALSE
+q_svw,1,0.0011976047904191617,0,0,deprivation_labour,Employment rate,higher capacity,TRUE

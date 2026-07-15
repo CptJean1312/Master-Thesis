@@ -33,6 +33,8 @@ corridor_layer <- "municipalities_corridor"
 
 exposure_csv <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/analysev2/outputs_exposure_pipeline/tables/municipality_flood_exposure_all_RPs.csv"
 
+corridor_inkar_original_codes_csv <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/INKAR_FULL_CORRIDOR/outputs/tables/corridor_full_inkar_original_codes.csv"
+
 basin_municipalities_path <- "/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/ANALYSIS.nosync/gemeinden_elbe_landonly_basin_inkar.gpkg"
 basin_municipalities_layer <- "gemeinden_elbe_landonly_basin_inkar"
 
@@ -140,6 +142,76 @@ build_weighted_index <- function(spatial_data, n_components, variance_table) {
   list(raw = raw_index, z = z_index)
 }
 
+scale_to_z <- function(x) {
+  x <- as.numeric(x)
+  if (all(is.na(x)) || stats::sd(x, na.rm = TRUE) == 0) {
+    return(rep(NA_real_, length(x)))
+  }
+  as.numeric(scale(x))
+}
+
+build_direction_coded_inputs <- function(data_imputed, reverse_variables) {
+  scaled <- as.data.frame(scale(data_imputed))
+  direction_coded <- scaled
+  direction_coded[reverse_variables] <- lapply(direction_coded[reverse_variables], function(x) -x)
+  direction_coded
+}
+
+build_dimension_balanced_index <- function(direction_coded_data, dimensions) {
+  dimension_scores <- setNames(lapply(names(dimensions), function(dimension_name) {
+    vars <- dimensions[[dimension_name]]
+    raw_score <- rowMeans(direction_coded_data[, vars, drop = FALSE], na.rm = TRUE)
+    scale_to_z(raw_score)
+  }), names(dimensions))
+
+  dimension_scores <- as_tibble(dimension_scores)
+  names(dimension_scores) <- paste0("vuln_dim_", names(dimensions), "_z")
+
+  raw_index <- rowMeans(dimension_scores, na.rm = TRUE)
+
+  list(
+    raw = raw_index,
+    z = scale_to_z(raw_index),
+    dimension_scores = dimension_scores
+  )
+}
+
+build_aligned_pca_index <- function(direction_coded_data, anchor_index, n_components) {
+  pca <- prcomp(direction_coded_data)
+  eigenvalues <- pca$sdev^2
+  variance_share <- eigenvalues / sum(eigenvalues)
+
+  component_scores <- as.data.frame(pca$x)
+  names(component_scores) <- paste0("PC", seq_len(ncol(component_scores)))
+
+  retained_pcs <- paste0("PC", seq_len(n_components))
+  pc_alignment <- sapply(retained_pcs, function(pc) {
+    pc_correlation <- suppressWarnings(cor(component_scores[[pc]], anchor_index, use = "complete.obs"))
+    ifelse(!is.na(pc_correlation) && pc_correlation < 0, -1, 1)
+  })
+
+  aligned_scores <- sweep(
+    as.matrix(component_scores[, retained_pcs, drop = FALSE]),
+    2,
+    pc_alignment,
+    `*`
+  )
+
+  weights <- variance_share[seq_len(n_components)]
+  raw_index <- as.numeric(aligned_scores %*% (weights / sum(weights)))
+
+  list(
+    pca = pca,
+    scores = component_scores,
+    aligned_scores = aligned_scores,
+    eigenvalues = eigenvalues,
+    variance_share = variance_share,
+    alignment = pc_alignment,
+    raw = raw_index,
+    z = scale_to_z(raw_index)
+  )
+}
+
 write_gpkg_layer <- function(x, dsn, layer, replace_dsn = FALSE) {
   if (replace_dsn && file.exists(dsn)) {
     unlink(dsn)
@@ -195,97 +267,149 @@ log_message("RP100 exposure joined successfully.")
 # 4) Wide PCA inputs
 # ---------------------------
 
-pca_columns <- c(
-  "share_alg2_sgb2",
-  "share_bg_single_parent",
-  "share_bg_5plus",
-  "share_bg_with_children",
-  "share_sgb2_with_housing_costs",
-  "share_longterm_unemp",
-  "unemp_u25_per_1000",
-  "unemp_55plus_per_1000",
-  "income_tax_per_capita",
-  "purchasing_power",
-  "trade_tax_per_capita",
-  "tax_revenue_total",
-  "share_age_0_3",
-  "share_age_3_6",
-  "share_age_6_18",
-  "share_age_18_25",
-  "share_age_25_30",
-  "share_age_30_50",
-  "share_age_50_65",
-  "share_age_65_75",
-  "share_age_65plus",
-  "share_age_75plus",
-  "natural_pop_change",
-  "migration_balance",
-  "old_age_dependency",
-  "youth_dependency",
-  "young_old_ratio",
-  "share_single_households",
-  "share_households_with_children",
-  "share_hh_income_high",
-  "share_hh_income_medium",
-  "share_hh_income_low",
-  "students_total_per_1000",
-  "students_18_25_per_1000",
-  "students_fh_per_1000",
-  "gp_general_per_1000",
-  "gp_primary_per_1000",
-  "internists_per_1000",
-  "pediatricians_per_1000_children",
-  "doctors_total_per_1000",
-  "share_bb_1000mbit",
-  "share_bb_100mbit",
-  "share_bb_50mbit",
-  "share_4g",
-  "dist_supermarket_m",
-  "dist_pharmacy_m",
-  "dist_gp_m",
-  "dist_public_transport_m",
-  "dist_primary_school_m",
-  "pop_density_per_km2",
-  "employment_density_per_km2"
+vulnerability_variables <- tribble(
+  ~variable, ~dimension, ~indicator_label, ~expected_direction, ~reverse_for_index,
+  "a_bev65um", "demographic_household", "Residents aged 65 years and older", "higher vulnerability", FALSE,
+  "a_hh_kind", "demographic_household", "Households with children", "higher vulnerability", FALSE,
+  "q_HH1", "demographic_household", "Single-person households", "higher vulnerability", FALSE,
+  "a_bev_0006", "demographic_household", "Residents under 6 years", "higher vulnerability", FALSE,
+  "a_ewfBG_allein", "demographic_household", "Single-parent employable SGB-II recipients", "higher vulnerability", FALSE,
+  "a_ALGII_SGBII", "deprivation_labour", "ALG-II share within SGB-II benefits", "higher vulnerability", FALSE,
+  "a_hheink_niedrig", "deprivation_labour", "Low-income households", "higher vulnerability", FALSE,
+  "q_einkst_bev", "deprivation_labour", "Income tax per capita", "higher capacity", TRUE,
+  "q_kaufkraft", "deprivation_labour", "Purchasing power per capita", "higher capacity", TRUE,
+  "q_newfBGu15_bev", "deprivation_labour", "Child poverty", "higher vulnerability", FALSE,
+  "a_aloLang", "deprivation_labour", "Long-term unemployed", "higher vulnerability", FALSE,
+  "q_alo_u25_einw", "deprivation_labour", "Unemployed under 25", "higher vulnerability", FALSE,
+  "a_Minijobs", "deprivation_labour", "Marginal employment", "higher vulnerability", FALSE,
+  "q_alo_ü55_einw", "deprivation_labour", "Unemployed aged 55 and older", "higher vulnerability", FALSE,
+  "q_svw", "deprivation_labour", "Employment rate", "higher capacity", TRUE,
+  "m_G02_SUP_DIST", "access_adaptive_capacity", "Distance to supermarket/discounter", "higher vulnerability", FALSE,
+  "m_OEV20_DIST", "access_adaptive_capacity", "Distance to public transport stop", "higher vulnerability", FALSE,
+  "m_Q01_APO_DIST", "access_adaptive_capacity", "Distance to pharmacy", "higher vulnerability", FALSE,
+  "m_Q07_HA_DIST", "access_adaptive_capacity", "Distance to general practitioner", "higher vulnerability", FALSE,
+  "q_ärzte_bev", "access_adaptive_capacity", "Doctors per 10,000 residents", "higher capacity", TRUE,
+  "a_bb_4G", "access_adaptive_capacity", "4G mobile broadband availability", "higher capacity", TRUE,
+  "a_bb_50Mbits", "access_adaptive_capacity", "Fixed broadband availability at least 50 Mbit/s", "higher capacity", TRUE,
+  "m_P01_PRIM_DIST", "access_adaptive_capacity", "Distance to primary school", "higher vulnerability", FALSE
 )
+
+pca_columns <- vulnerability_variables$variable
+reverse_index_columns <- vulnerability_variables %>%
+  filter(reverse_for_index) %>%
+  pull(variable)
+
+vulnerability_dimensions <- split(vulnerability_variables$variable, vulnerability_variables$dimension)
+
+log_message("Loading final corridor INKAR table with original indicator codes ...")
+inkar_original_tbl <- read_csv(
+  corridor_inkar_original_codes_csv,
+  col_types = cols(AGS = col_character()),
+  show_col_types = FALSE
+) %>%
+  select(AGS, all_of(pca_columns))
+
+corridor_sf <- corridor_sf %>%
+  select(-any_of(pca_columns)) %>%
+  left_join(inkar_original_tbl, by = "AGS")
 
 missing_pca_columns <- setdiff(pca_columns, names(corridor_sf))
 if (length(missing_pca_columns) > 0) {
   stop("Missing PCA columns: ", paste(missing_pca_columns, collapse = ", "))
 }
 
-wide_pca_data <- corridor_sf %>%
+vulnerability_raw_data <- corridor_sf %>%
   st_drop_geometry() %>%
   select(all_of(pca_columns)) %>%
   mutate(across(everything(), as.numeric))
 
+has_inkar_record <- rowSums(!is.na(vulnerability_raw_data)) > 0
+corridor_sf$has_inkar_vulnerability_record <- has_inkar_record
+
+log_message("Municipalities with INKAR records for vulnerability index: ", sum(has_inkar_record))
+log_message("Municipalities without INKAR records for vulnerability index: ", sum(!has_inkar_record))
+
 missingness_tbl <- tibble(
-  variable = names(wide_pca_data),
-  n_missing = colSums(is.na(wide_pca_data)),
-  share_missing = colMeans(is.na(wide_pca_data))
+  variable = names(vulnerability_raw_data),
+  n_missing_all_corridor = colSums(is.na(vulnerability_raw_data)),
+  share_missing_all_corridor = colMeans(is.na(vulnerability_raw_data)),
+  n_missing_inkar_matched = colSums(is.na(vulnerability_raw_data[has_inkar_record, , drop = FALSE])),
+  share_missing_inkar_matched = colMeans(is.na(vulnerability_raw_data[has_inkar_record, , drop = FALSE]))
 ) %>%
-  arrange(desc(share_missing), variable)
+  left_join(vulnerability_variables, by = "variable") %>%
+  arrange(dimension, variable)
 
 save_table(missingness_tbl, "corridor_pca_missingness.csv")
+save_table(vulnerability_variables, "corridor_vulnerability_index_variables.csv")
 
-wide_pca_imputed <- wide_pca_data %>%
+vulnerability_imputed <- vulnerability_raw_data[has_inkar_record, , drop = FALSE] %>%
   mutate(across(everything(), impute_median))
 
-wide_pca_scaled <- scale(wide_pca_imputed)
-wide_pca <- prcomp(wide_pca_scaled)
+vulnerability_direction_coded <- build_direction_coded_inputs(
+  data_imputed = vulnerability_imputed,
+  reverse_variables = reverse_index_columns
+)
 
-component_scores <- as.data.frame(wide_pca$x)
-names(component_scores) <- paste0("PC", seq_len(ncol(component_scores)))
-corridor_sf <- bind_cols(corridor_sf, component_scores)
+main_index <- build_dimension_balanced_index(
+  direction_coded_data = vulnerability_direction_coded,
+  dimensions = vulnerability_dimensions
+)
 
-eigenvalues <- wide_pca$sdev^2
-variance_share <- eigenvalues / sum(eigenvalues)
+pca_preliminary <- prcomp(vulnerability_direction_coded)
+prelim_eigenvalues <- pca_preliminary$sdev^2
+prelim_variance_share <- prelim_eigenvalues / sum(prelim_eigenvalues)
+n_components_70pct <- which(cumsum(prelim_variance_share) >= 0.7)[1]
+n_components_kaiser <- sum(prelim_eigenvalues > 1)
+
+pca_sensitivity_70pct <- build_aligned_pca_index(
+  direction_coded_data = vulnerability_direction_coded,
+  anchor_index = main_index$z,
+  n_components = n_components_70pct
+)
+
+pca_sensitivity_kaiser <- build_aligned_pca_index(
+  direction_coded_data = vulnerability_direction_coded,
+  anchor_index = main_index$z,
+  n_components = n_components_kaiser
+)
+
+component_scores <- pca_sensitivity_70pct$scores
+component_cols <- paste0("PC", seq_len(ncol(component_scores)))
+for (pc_name in component_cols) {
+  corridor_sf[[pc_name]] <- NA_real_
+  corridor_sf[[pc_name]][has_inkar_record] <- component_scores[[pc_name]]
+}
+
+dimension_score_cols <- names(main_index$dimension_scores)
+for (dimension_col in dimension_score_cols) {
+  corridor_sf[[dimension_col]] <- NA_real_
+  corridor_sf[[dimension_col]][has_inkar_record] <- main_index$dimension_scores[[dimension_col]]
+}
+
+corridor_sf$vuln_index_main <- NA_real_
+corridor_sf$vuln_index_main_z <- NA_real_
+corridor_sf$vuln_index_pca23_70pct <- NA_real_
+corridor_sf$vuln_index_pca23_70pct_z <- NA_real_
+corridor_sf$vuln_index_pca23_kaiser <- NA_real_
+corridor_sf$vuln_index_pca23_kaiser_z <- NA_real_
+
+corridor_sf$vuln_index_main[has_inkar_record] <- main_index$raw
+corridor_sf$vuln_index_main_z[has_inkar_record] <- main_index$z
+corridor_sf$vuln_index_pca23_70pct[has_inkar_record] <- pca_sensitivity_70pct$raw
+corridor_sf$vuln_index_pca23_70pct_z[has_inkar_record] <- pca_sensitivity_70pct$z
+corridor_sf$vuln_index_pca23_kaiser[has_inkar_record] <- pca_sensitivity_kaiser$raw
+corridor_sf$vuln_index_pca23_kaiser_z[has_inkar_record] <- pca_sensitivity_kaiser$z
+
+eigenvalues <- pca_sensitivity_70pct$eigenvalues
+variance_share <- pca_sensitivity_70pct$variance_share
 
 scree_table <- tibble(
   PC = seq_along(eigenvalues),
   Eigenvalue = eigenvalues,
   Variance = variance_share,
-  Cumulative = cumsum(variance_share)
+  Cumulative = cumsum(variance_share),
+  retained_70pct = PC <= n_components_70pct,
+  retained_kaiser = Eigenvalue > 1
 )
 
 save_table(scree_table, "corridor_scree_table.csv")
@@ -294,20 +418,20 @@ scree_plot <- ggplot(scree_table, aes(x = PC, y = Eigenvalue)) +
   geom_line() +
   geom_point() +
   geom_hline(yintercept = 1, linetype = "dashed") +
-  labs(title = "Scree Plot (Kaiser)", x = "PC", y = "Eigenvalue") +
+  labs(title = "Scree Plot: final 23-variable vulnerability PCA sensitivity", x = "PC", y = "Eigenvalue") +
   theme_classic()
 
 cumulative_variance_plot <- ggplot(scree_table, aes(x = PC, y = Cumulative)) +
   geom_line() +
   geom_point() +
   geom_hline(yintercept = 0.7, linetype = "dashed") +
-  labs(title = "Cumulative Variance", x = "PC", y = "Cumulative") +
+  labs(title = "Cumulative variance: final 23-variable PCA sensitivity", x = "PC", y = "Cumulative") +
   theme_classic()
 
 save_plot(scree_plot, "scree_kaiser_corridor.png", width = 8, height = 5, subdir = "plots")
 save_plot(cumulative_variance_plot, "cumulative_variance_corridor.png", width = 8, height = 5, subdir = "plots")
 
-loading_table <- as.data.frame(wide_pca$rotation)
+loading_table <- as.data.frame(pca_sensitivity_70pct$pca$rotation)
 loading_table$variable <- rownames(loading_table)
 
 top_loadings <- loading_table %>%
@@ -322,41 +446,82 @@ top_loadings <- loading_table %>%
 save_table(top_loadings, "corridor_pca_top_loadings_top8_per_pc.csv")
 save_table(tibble(variable = pca_columns), "corridor_wide_pca_variables.csv")
 
-# ---------------------------
-# 5) Vulnerability index
-# ---------------------------
+pc_alignment_table <- tibble(
+  PC = paste0("PC", seq_len(n_components_70pct)),
+  alignment = as.numeric(pca_sensitivity_70pct$alignment),
+  variance = variance_share[seq_len(n_components_70pct)],
+  cumulative = cumsum(variance_share)[seq_len(n_components_70pct)]
+)
+save_table(pc_alignment_table, "corridor_pca23_component_alignment.csv")
 
-main_index <- build_weighted_index(corridor_sf, n_components = 8, variance_table = scree_table)
-corridor_sf$vuln_index_main <- main_index$raw
-corridor_sf$vuln_index_main_z <- main_index$z
+dimension_summary <- main_index$dimension_scores %>%
+  summarise(across(everything(), list(mean = ~ mean(.x, na.rm = TRUE), sd = ~ sd(.x, na.rm = TRUE)))) %>%
+  pivot_longer(everything(), names_to = "metric", values_to = "value")
 
-sensitivity_index <- build_weighted_index(corridor_sf, n_components = 12, variance_table = scree_table)
-corridor_sf$vuln_index_sens12 <- sensitivity_index$raw
-corridor_sf$vuln_index_sens12_z <- sensitivity_index$z
+save_table(dimension_summary, "corridor_vulnerability_dimension_summary.csv")
 
-anchor_correlation <- suppressWarnings(
-  cor(corridor_sf$vuln_index_main_z, wide_pca_imputed$share_alg2_sgb2, use = "complete.obs")
+dimension_correlation <- cor(main_index$dimension_scores, use = "complete.obs") %>%
+  as.data.frame() %>%
+  rownames_to_column("dimension")
+
+save_table(dimension_correlation, "corridor_vulnerability_dimension_correlations.csv")
+
+index_variable_correlations <- tibble(
+  variable = pca_columns,
+  corr_with_main_index = sapply(
+    pca_columns,
+    function(variable_name) cor(
+      main_index$z,
+      vulnerability_imputed[[variable_name]],
+      use = "complete.obs"
+    )
+  ),
+  corr_with_pca23_70pct_index = sapply(
+    pca_columns,
+    function(variable_name) cor(
+      pca_sensitivity_70pct$z,
+      vulnerability_imputed[[variable_name]],
+      use = "complete.obs"
+    )
+  )
+) %>%
+  left_join(vulnerability_variables, by = "variable")
+
+save_table(index_variable_correlations, "corridor_vulnerability_index_variable_correlations.csv")
+
+pca_sensitivity_summary <- tibble(
+  comparison = c(
+    "main_vs_pca23_70pct_pearson",
+    "main_vs_pca23_70pct_spearman",
+    "pca23_70pct_vs_kaiser_pearson",
+    "pca23_70pct_vs_kaiser_spearman"
+  ),
+  value = c(
+    cor(corridor_sf$vuln_index_main_z, corridor_sf$vuln_index_pca23_70pct_z, use = "complete.obs"),
+    cor(corridor_sf$vuln_index_main_z, corridor_sf$vuln_index_pca23_70pct_z, use = "complete.obs", method = "spearman"),
+    cor(corridor_sf$vuln_index_pca23_70pct_z, corridor_sf$vuln_index_pca23_kaiser_z, use = "complete.obs"),
+    cor(corridor_sf$vuln_index_pca23_70pct_z, corridor_sf$vuln_index_pca23_kaiser_z, use = "complete.obs", method = "spearman")
+  )
 )
 
-if (!is.na(anchor_correlation) && anchor_correlation < 0) {
-  corridor_sf$vuln_index_main <- -corridor_sf$vuln_index_main
-  corridor_sf$vuln_index_main_z <- -corridor_sf$vuln_index_main_z
-  corridor_sf$vuln_index_sens12 <- -corridor_sf$vuln_index_sens12
-  corridor_sf$vuln_index_sens12_z <- -corridor_sf$vuln_index_sens12_z
-  log_message("Index flipped so that higher values indicate higher vulnerability.")
-} else {
-  log_message("Index direction OK.")
-}
+save_table(pca_sensitivity_summary, "corridor_vulnerability_index_sensitivity_summary.csv")
+
+log_message("Main vulnerability index: direction-coded, dimension-balanced 23-variable composite.")
+log_message("PCA sensitivity components retained by 70% cumulative variance: ", n_components_70pct)
+log_message("PCA sensitivity components retained by Kaiser criterion: ", n_components_kaiser)
 
 index_summary <- corridor_sf %>%
   st_drop_geometry() %>%
   summarise(
     municipalities = n(),
+    municipalities_with_vulnerability_index = sum(!is.na(vuln_index_main_z)),
     rp100_mean = mean(flood_share_rp100, na.rm = TRUE),
     rp100_median = median(flood_share_rp100, na.rm = TRUE),
     vuln_mean = mean(vuln_index_main_z, na.rm = TRUE),
     vuln_sd = sd(vuln_index_main_z, na.rm = TRUE),
-    corr_vuln_rp100 = cor(vuln_index_main_z, flood_share_rp100, use = "complete.obs")
+    corr_vuln_rp100 = cor(vuln_index_main_z, flood_share_rp100, use = "complete.obs"),
+    corr_main_pca23_70pct = cor(vuln_index_main_z, vuln_index_pca23_70pct_z, use = "complete.obs"),
+    corr_pca23_70pct_pca23_kaiser = cor(vuln_index_pca23_70pct_z, vuln_index_pca23_kaiser_z, use = "complete.obs")
   )
 
 save_table(index_summary, "corridor_rp100_index_summary.csv")
@@ -373,11 +538,15 @@ analysis_table <- corridor_sf %>%
     municipality_area_m2,
     starts_with("flood_area_rp"),
     starts_with("flood_share_rp"),
+    has_inkar_vulnerability_record,
+    starts_with("vuln_dim_"),
     starts_with("PC"),
     vuln_index_main,
     vuln_index_main_z,
-    vuln_index_sens12,
-    vuln_index_sens12_z
+    vuln_index_pca23_70pct,
+    vuln_index_pca23_70pct_z,
+    vuln_index_pca23_kaiser,
+    vuln_index_pca23_kaiser_z
   )
 
 save_table(analysis_table, "corridor_analysis_rp100.csv")
@@ -431,9 +600,9 @@ map_vulnerability <- ggplot(corridor_sf) +
   map_annotations() +
   labs(
     title = "Socio-economic vulnerability index in the EFAS corridor",
-    subtitle = "Wide PCA recalculated on the RP500 corridor municipalities only",
+    subtitle = "Direction-coded, dimension-balanced composite from 23 screened INKAR indicators",
     fill = "Index (z)",
-    caption = "Source: INKAR (BBSR), EFAS corridor definition. Own processing."
+    caption = "Source: INKAR (BBSR), EFAS corridor definition. Own processing. One corridor municipality lacks INKAR data."
   ) +
   scale_fill_viridis_c(option = "C") +
   map_theme()
@@ -457,17 +626,17 @@ map_rp100 <- ggplot(corridor_sf) +
 save_plot(map_rp100, "map_rp100_exposure_corridor.png", width = 9, height = 7, subdir = "maps")
 
 pc_titles <- c(
-  PC1 = "PC1: Socio-economic disadvantage and welfare dependency",
-  PC2 = "PC2: Urbanisation, density and accessibility",
-  PC3 = "PC3: Demographic ageing and dependency",
-  PC4 = "PC4: Education, students and human capital"
+  PC1 = "PCA sensitivity PC1: household and accessibility contrast",
+  PC2 = "PCA sensitivity PC2: income and service-access gradient",
+  PC3 = "PCA sensitivity PC3: labour and deprivation structure",
+  PC4 = "PCA sensitivity PC4: age and household composition"
 )
 
 pc_subtitles <- c(
-  PC1 = "High loadings: ALG II, low income, unemployment, single households",
-  PC2 = "High loadings: population density, transport access, broadband",
-  PC3 = "High loadings: 65+, old-age dependency, low youth share",
-  PC4 = "High loadings: students, higher income, education indicators"
+  PC1 = "Direction-coded 23-variable PCA; see loading table for exact signs",
+  PC2 = "Direction-coded 23-variable PCA; see loading table for exact signs",
+  PC3 = "Direction-coded 23-variable PCA; see loading table for exact signs",
+  PC4 = "Direction-coded 23-variable PCA; see loading table for exact signs"
 )
 
 for (pc_name in paste0("PC", 1:4)) {

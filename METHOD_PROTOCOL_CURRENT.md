@@ -7,6 +7,13 @@ Project: **Elbe Flood Exposure, Vulnerability & Inferred Protection Analysis**
 Status note:
 This document records the current processing logic as a working protocol. It is not yet the final Chapter 4 text. Some steps were completed during earlier workflow stages and need to be audited before they are used in the final methods chapter.
 
+Update 2026-07-15:
+The vulnerability-index workflow has been updated after the INKAR/PCA review. The active specification is now documented in:
+
+`/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/VULNERABILITY_INDEX_FINAL_SPEC.md`
+
+In short, the old broad `original_51` PCA is no longer the active main vulnerability index. The main index now uses the screened `thesis_candidate_23` indicator set and is constructed as a direction-coded, dimension-balanced composite across three dimensions: demographic and household structure, deprivation and labour-market position, and access and adaptive capacity. PCA is retained as a diagnostic and robustness tool. Older notes in Sections 13 and 14 that describe the `original_51` PCA as the active working index should be read as historical documentation of the previous implementation.
+
 ---
 
 # A. GIS / Spatial Data Preparation
@@ -616,43 +623,45 @@ Interpretation:
 - `thesis_candidate_23` is currently the most balanced working set for the thesis
 - `student_sensitivity_26` is used to evaluate the impact of adding student-concentration variables
 
-### 13.8 Current Broad Corridor PCA in the Active Analysis Script
+### 13.8 Active Vulnerability Input in the Corridor Analysis Script
 
-In the currently implemented corridor analysis script, the PCA still uses the broad 51-variable exploratory input set as the active working version.
+The active corridor analysis script has been updated to use the screened `thesis_candidate_23` set.
 
-Thus, the 23-variable candidate set is conceptually prepared and documented, but not yet fully substituted into the main corridor analysis script.
+The broad 51-variable PCA is retained only as historical exploratory context and is no longer the active main vulnerability implementation.
 
 ### 13.9 Interpretation
 
 The first principal components were interpreted substantively using their dominant loadings.
 
-At the current stage, the leading dimensions are interpreted approximately as:
-
-- `PC1`: socio-economic disadvantage and welfare dependency
-- `PC2`: urbanisation, density and accessibility
-- `PC3`: demographic ageing and dependency
-- `PC4`: education, students and human capital
-
-These interpretations remain exploratory and may later be refined.
+The final main vulnerability index is not taken directly from these components. PCA is retained as a diagnostic and robustness tool because the corridor PCA strongly reflects the dominant spatial covariance structure, especially accessibility and settlement-periphery patterns.
 
 ---
 
 ## 14. Composite Vulnerability Index
 
-Status: `UPDATED / DONE, CURRENT WORKING VERSION`
+Status: `UPDATED / DONE, SEMI-FINAL`
 
-A corridor-specific composite vulnerability index was constructed from the currently active wide PCA.
+A corridor-specific composite vulnerability index was constructed from the screened 23-variable INKAR set.
 
 ### 14.1 Current Implementation
 
-The active analysis script currently computes the composite vulnerability index from the broad 51-variable corridor PCA.
+The active analysis script computes the main vulnerability index as a direction-coded, dimension-balanced composite.
+
+The specification is documented in:
+
+`/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/VULNERABILITY_INDEX_FINAL_SPEC.md`
 
 ### 14.2 Main Index
 
 The current working index is based on:
 
-- the first 8 principal components
-- weighted by their explained variance share
+- the screened `thesis_candidate_23` indicator set
+- z-standardisation of all indicators
+- reverse-coding of capacity indicators
+- three equally weighted dimensions:
+  - demographic and household structure
+  - deprivation and labour-market position
+  - access and adaptive capacity
 
 This produces:
 
@@ -661,39 +670,34 @@ This produces:
 
 ### 14.3 Sensitivity Version
 
-A second sensitivity index was also calculated using:
+PCA sensitivity indices are calculated using the same direction-coded 23-variable matrix:
 
-- the first 12 principal components
+- 8 components retained by the 70% cumulative-variance rule
+- 6 components retained by the Kaiser criterion
 
 This produces:
 
-- `vuln_index_sens12`
-- `vuln_index_sens12_z`
+- `vuln_index_pca23_70pct`
+- `vuln_index_pca23_70pct_z`
+- `vuln_index_pca23_kaiser`
+- `vuln_index_pca23_kaiser_z`
 
 ### 14.4 Direction Anchoring
 
-To ensure interpretability, index direction was checked against a deprivation anchor variable:
-
-- `share_alg2_sgb2`
-
-If necessary, the index sign was flipped so that:
-
-- higher values = higher vulnerability
+Capacity indicators are reverse-coded before aggregation so that higher values consistently indicate higher social vulnerability or lower adaptive capacity.
 
 ### 14.5 Relation to the Thesis Candidate Set
 
-The current 23-variable thesis candidate set represents a refined next-stage PCA design and is documented as the preferred conceptual candidate set for the thesis.
-
-However, the presently active composite index still reflects the wide exploratory 51-variable implementation.
+The `thesis_candidate_23` set is now the active main input set.
 
 ### 14.6 Current Interpretation
 
 The current vulnerability index should be understood as:
 
-- a broad exploratory corridor-specific vulnerability measure
-- useful for first-stage exposure-vulnerability analysis
-- not yet the final locked thesis index
-- open to refinement after further conceptual consolidation
+- a descriptive corridor-specific socio-economic vulnerability measure
+- suitable for exposure-vulnerability and protection-related distributive comparisons
+- conceptually balanced across three dimensions
+- separate from protection/loss variables, which are analysed as flood-risk outcomes
 
 ---
 

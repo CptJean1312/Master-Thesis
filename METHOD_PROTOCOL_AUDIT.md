@@ -25,6 +25,9 @@ The current thesis workflow is coherent, but Chapter 4 must be disciplined about
 
 The final methods chapter should therefore not read like a full diary of every explored path. It should explain the active final workflow and use the older steps only where they justify methodological choices.
 
+Update 2026-07-15:
+The vulnerability index is no longer a placeholder. The active specification is the `thesis_candidate_23` direction-coded, dimension-balanced composite documented in `ANALYSE_FINAL_CORRIDOR/VULNERABILITY_INDEX_FINAL_SPEC.md`. Audit notes below that describe the final PCA choice as still open should be interpreted as historical pre-decision notes.
+
 ---
 
 # 2. Final Core Components
@@ -188,26 +191,23 @@ Important:
 
 ---
 
-## 2.10 PCA-Based Vulnerability Index
+## 2.10 Vulnerability Index and PCA Diagnostics
 
-Status: `REVISE / PLACEHOLDER`
+Status: `FINAL CORE / UPDATED`
 
 Current situation:
 
-- active corridor script still uses the original broad 51-variable PCA
-- the 23-variable thesis candidate set is documented and likely more defensible
-- final index choice is not locked
+- active corridor script uses the screened `thesis_candidate_23` set
+- the main vulnerability index is direction-coded and dimension-balanced
+- PCA is retained as a diagnostic and robustness tool rather than the main weighting engine
+- the final specification is documented in `ANALYSE_FINAL_CORRIDOR/VULNERABILITY_INDEX_FINAL_SPEC.md`
 
 Use in Chapter 4 now:
 
-- write as a placeholder section with current options
-- do not claim the 23-variable set is already the final implemented index unless we update the script
-
-Required next step:
-
-- finalise PCA input set
-- rerun final vulnerability pipeline
-- update Chapter 4 accordingly
+- describe the 23-variable input set as the main specification
+- explain why the main index is dimension-balanced rather than mechanically PCA-weighted
+- report the PCA diagnostics as sensitivity evidence
+- state clearly that protection variables are excluded from the vulnerability index
 
 ---
 
