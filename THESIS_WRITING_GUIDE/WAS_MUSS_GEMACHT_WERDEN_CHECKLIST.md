@@ -86,10 +86,10 @@ Status: partly done
 
 Checklist:
 
-- [ ] Confirm DLR Land Cover DE is outside the Git repository.
-- [ ] Add or check `.gitignore` for large raster/zip patterns if needed.
-- [ ] Keep only scripts, metadata notes, and derived small outputs in the repo.
-- [ ] Document external raw-data path in the land-use script.
+- [x]irm DLR Land Cover DE is outside the Git repository.
+- [x] Add or check `.gitignore` for large raster/zip patterns if needed.
+- [x]Keep only scripts, metadata notes, and derived small outputs in the repo.
+- [x] Document external raw-data path in the land-use script.
 
 Why it matters:
 
