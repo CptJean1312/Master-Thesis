@@ -1,0 +1,6 @@
+metric,value
+corridor_municipalities,835
+municipalities_with_artificial_land,834
+municipalities_without_artificial_land,1
+mean_landcover_area_ratio_to_municipality,0.9999999242054274
+median_landcover_area_ratio_to_municipality,0.999999923877426

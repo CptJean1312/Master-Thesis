@@ -1,0 +1,5 @@
+artificial_exposure_tercile,municipalities,positive_loss_municipalities,positive_loss_share,mean_annual_loss_probability_model,median_finite_protection_return_period
+Low artificial-land exposure,278,68,0.2446043165467626,0.024396402877697853,49.01960784313726
+Medium artificial-land exposure,278,125,0.44964028776978415,0.0321158273381295,56.17977528089887
+High artificial-land exposure,278,87,0.3129496402877698,0.01704964028776978,52.63157894736842
+NA,1,0,0,0,NA

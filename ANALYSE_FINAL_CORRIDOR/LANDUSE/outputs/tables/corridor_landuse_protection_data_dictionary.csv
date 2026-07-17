@@ -1,0 +1,9 @@
+field,meaning
+rp100_artificial_flood_share_of_group,Share of DLR Artificial Land within a municipality intersecting RP100 modeled flood cells.
+rp100_artificial_flooded_area_m2,Area of DLR Artificial Land intersecting RP100 modeled flood cells.
+rp100_artificial_share_of_lc_flooded_area,Share of all flooded land-cover area within a municipality that is DLR Artificial Land.
+vuln_quintile,Quintile of the final socio-economic vulnerability index.
+artificial_exposure_tercile,Tercile classification of RP100 artificial-land flood share.
+high_high_artificial_vulnerability,TRUE if municipality is in the high artificial-land exposure tercile and high vulnerability tercile.
+protection_available,TRUE if the provider loss/protection table contains a positive modeled loss and finite protection return-period estimate.
+annual_loss_probability_model,Annual loss probability from the provider table; no-event municipalities retained as modeled zero following provider clarification.

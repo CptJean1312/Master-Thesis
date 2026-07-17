@@ -103,7 +103,7 @@ These are the tasks that most directly move the thesis toward a very good grade.
 
 ## P1.1 Add DLR land-use exposure analysis
 
-Status: urgent, must do
+Status: done for RP100; optional extension to all return periods remains open
 
 Core idea:
 
@@ -126,19 +126,19 @@ Input:
 
 Outputs to build:
 
-- [ ] Land-cover area per municipality.
-- [ ] Flooded land-cover area per municipality for RP100.
+- [x] Land-cover area per municipality.
+- [x] Flooded land-cover area per municipality for RP100.
 - [ ] If feasible, flooded land-cover area per municipality for RP10, RP20, RP50, RP100, RP200, RP500.
-- [ ] `artificial_total_m2`.
-- [ ] `artificial_flooded_rp100_m2`.
-- [ ] `artificial_flood_share_rp100 = artificial_flooded_rp100_m2 / artificial_total_m2`.
-- [ ] `flooded_area_artificial_share_rp100 = artificial_flooded_rp100_m2 / total_flooded_area_rp100_m2`.
-- [ ] grouped land-cover categories:
+- [x] `artificial_total_m2`.
+- [x] `artificial_flooded_rp100_m2`.
+- [x] `artificial_flood_share_rp100 = artificial_flooded_rp100_m2 / artificial_total_m2`.
+- [x] `flooded_area_artificial_share_rp100 = artificial_flooded_rp100_m2 / total_flooded_area_rp100_m2`.
+- [x] grouped land-cover categories:
   - `artificial`;
   - `open_or_seasonal`;
   - `perennial_vegetation`;
   - `water`.
-- [ ] QA table with missing/no-artificial-land municipalities.
+- [x] QA table with missing/no-artificial-land municipalities.
 
 Main question:
 
@@ -154,29 +154,29 @@ Expected thesis use:
 Decision after outputs:
 
 - [ ] If the land-use result materially changes the story, include as a main Results subsection.
-- [ ] If it confirms the existing story, include as a robustness/substantive refinement.
+- [x] If it confirms the existing story, include as a robustness/substantive refinement.
 - [ ] If data quality is problematic, include only as limitation/future work and do not force it.
 
 ## P1.2 Rebuild or extend the master analysis table
 
-Status: must do after land-use outputs
+Status: done for RP100 land-use/protection/vulnerability table
 
 Checklist:
 
-- [ ] Add land-use exposure indicators to the final corridor analysis table.
-- [ ] Keep original RP100 flood share for comparability.
-- [ ] Add artificial-land exposure metrics.
-- [ ] Add grouped land-cover exposure metrics.
-- [ ] Add vulnerability index and vulnerability dimensions.
-- [ ] Add protection/loss status.
-- [ ] Add no-event status.
-- [ ] Add large-city labels if used in maps.
+- [x] Add land-use exposure indicators to the final corridor analysis table.
+- [x] Keep original RP100 flood share for comparability.
+- [x] Add artificial-land exposure metrics.
+- [x] Add grouped land-cover exposure metrics.
+- [x] Add vulnerability index and vulnerability dimensions.
+- [x] Add protection/loss status.
+- [x] Add no-event status.
+- [x] Add large-city labels if used in maps.
 
 Required output:
 
-- [ ] Updated CSV.
-- [ ] Updated GPKG.
-- [ ] Short data dictionary.
+- [x] Updated CSV.
+- [x] Updated GPKG.
+- [x] Short data dictionary.
 
 Why it matters:
 
@@ -184,24 +184,24 @@ The thesis needs one clean empirical backbone. No scattered tables that tell sli
 
 ## P1.3 Rerun key Results with land-use exposure
 
-Status: must do after P1.1 and P1.2
+Status: mostly done; final figure polish remains
 
 Checklist:
 
-- [ ] Correlation: vulnerability index vs RP100 total-area flood share.
-- [ ] Correlation: vulnerability index vs RP100 artificial-land flood share.
-- [ ] Correlation: vulnerability dimensions vs artificial-land flood share.
-- [ ] Quintile comparison using artificial-land flood share.
-- [ ] High-high classification using vulnerability and artificial-land flood share.
-- [ ] Compare high total-area exposure vs high artificial-land exposure.
-- [ ] Check whether protection/loss positive cases align more strongly with artificial-land exposure than total-area exposure.
+- [x] Correlation: vulnerability index vs RP100 total-area flood share.
+- [x] Correlation: vulnerability index vs RP100 artificial-land flood share.
+- [x] Correlation: vulnerability dimensions vs artificial-land flood share.
+- [x] Quintile comparison using artificial-land flood share.
+- [x] High-high classification using vulnerability and artificial-land flood share.
+- [x] Compare high total-area exposure vs high artificial-land exposure.
+- [x] Check whether protection/loss positive cases align more strongly with artificial-land exposure than total-area exposure.
 
 Minimum outputs:
 
-- [ ] Scatterplot vulnerability vs artificial-land flood share.
-- [ ] Boxplot artificial-land flood share by vulnerability quintile.
-- [ ] Bivariate map: artificial-land exposure and vulnerability.
-- [ ] Table comparing area-based and artificial-land-based results.
+- [x] Scatterplot vulnerability vs artificial-land flood share.
+- [x] Boxplot artificial-land flood share by vulnerability quintile.
+- [x] Bivariate map: artificial-land exposure and vulnerability.
+- [x] Table comparing area-based and artificial-land-based results.
 
 Why it matters:
 
@@ -383,16 +383,16 @@ This is the conceptual anchor. It should not look weaker than the empirical maps
 
 ## P2.4 Chapter 4 update after land-use module
 
-Status: should do immediately after land-use outputs
+Status: insert drafted; main draft still needs integration
 
 Checklist:
 
-- [ ] Add DLR Land Cover DE to data sources.
-- [ ] Explain class grouping.
-- [ ] Explain CRS harmonization from EPSG:3035 to analysis CRS or vice versa.
-- [ ] Explain overlay method.
-- [ ] Explain why `artificial land` is used as built/settlement-related exposure proxy.
-- [ ] State limitations:
+- [x] Add DLR Land Cover DE to data sources.
+- [x] Explain class grouping.
+- [x] Explain CRS harmonization from EPSG:3035 to analysis CRS or vice versa.
+- [x] Explain overlay method.
+- [x] Explain why `artificial land` is used as built/settlement-related exposure proxy.
+- [x] State limitations:
   - 2015 land-cover timing vs later exposure/vulnerability data;
   - land-cover class is not cadastral building footprint;
   - artificial land includes roads/industrial/urban surfaces, not only residential buildings.
@@ -403,13 +403,13 @@ If the land-use result goes into Results, Methods must make it reproducible.
 
 ## P2.5 Chapter 5 to 7 update after new outputs
 
-Status: should do
+Status: insert drafted; main draft still needs integration
 
 Checklist:
 
-- [ ] Insert land-use result where it logically belongs in Chapter 5.
-- [ ] Update Discussion to reflect whether artificial-land exposure changes the story.
-- [ ] Update Limitations so area-based exposure critique is handled as partly addressed, not only acknowledged.
+- [x] Insert land-use result where it logically belongs in Chapter 5.
+- [x] Update Discussion to reflect whether artificial-land exposure changes the story.
+- [x] Update Limitations so area-based exposure critique is handled as partly addressed, not only acknowledged.
 - [ ] Update Conclusion with the final refined finding.
 
 Why it matters:
@@ -603,7 +603,8 @@ This is a stronger, more mature argument than forcing a simple "poor municipalit
 
 Do this next:
 
-- [ ] Build the DLR land-use exposure script.
-- [ ] Produce the first land-use exposure table and a quick diagnostic summary.
-- [ ] Decide from the actual output whether land-use exposure becomes a main Results block or a robustness block.
-
+- [x] Build the DLR land-use exposure script.
+- [x] Produce the first land-use exposure table and a quick diagnostic summary.
+- [x] Decide from the actual output whether land-use exposure becomes a main Results block or a robustness block.
+- [ ] Integrate the land-use insert into the main thesis draft and renumber figures.
+- [ ] Polish the new bivariate map if it will be used as a final thesis figure.
