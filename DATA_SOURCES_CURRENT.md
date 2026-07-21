@@ -122,7 +122,54 @@ Source note:
 
 ---
 
-# 3. Current Core Socio-Economic Data
+# 3. Current Core Land-Cover Data
+
+## DLR Land Cover DE
+
+Role in thesis:
+
+- RP100 land-cover-sensitive exposure refinement
+- composition of modeled flooded land by land-cover group
+- flooded share of Artificial Land by municipality
+- robustness test for the total municipal-area exposure result
+
+Dataset:
+
+- German Aerospace Center (DLR) (2020): *Land Cover DE - Sentinel-2 - Germany, 2015*
+- DOI: https://doi.org/10.15489/1ccmlap3mn39
+- official dataset page: https://geoservice.dlr.de/web/datasets/landcover
+- official download directory: https://download.geoservice.dlr.de/LCC_DE/files/
+
+Source characteristics:
+
+- 10 m x 10 m categorical raster
+- source CRS: `EPSG:3035` (ETRS89 / LAEA Europe)
+- derived from Sentinel-2 imagery acquired between 2015 and 2017 and LUCAS 2015 reference data
+- seven classes: Artificial Land, Open Soil, High Seasonal Vegetation, High Perennial Vegetation, Low Seasonal Vegetation, Low Perennial Vegetation, and Water
+- license: CC BY-NC 4.0
+
+Local external input:
+
+- `/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/LANDUSE/data_raw/Land_Cover_DE_2015.tif`
+- metadata: `/Users/maxi_161/Desktop/UNI/Master/THESIS/DATEN + GIS/LANDUSE/data_raw/Land_Cover_DE_2015_ISO_Metadata_8205e1c9-14c3-47a7-ac12-8c890225680a.xml`
+- the large raster remains outside the Git repository
+
+Processing and interpretation:
+
+- cropped to the RP500 corridor processing extent
+- each source class converted to a binary raster and reprojected to the 100 m EFAS/JRC template in `EPSG:25832` using area-weighted averaging
+- class fractions multiplied by cell area and intersected with the RP100 flood mask
+- DLR class 1, Artificial Land, used as a built/artificial land-cover proxy
+- not interpreted as a cadastral building footprint, residential land alone, exposed population, or exposed asset value
+- processed for RP100 in the current thesis workflow
+
+Recommended dataset citation:
+
+- German Aerospace Center (DLR). (2020). *Land Cover DE - Sentinel-2 - Germany, 2015*. https://doi.org/10.15489/1ccmlap3mn39
+
+---
+
+# 4. Current Core Socio-Economic Data
 
 ## INKAR
 
@@ -159,7 +206,7 @@ Current use:
 
 ---
 
-# 4. Optional / Validation Socio-Economic Data
+# 5. Optional / Validation Socio-Economic Data
 
 ## German Index of Socioeconomic Deprivation (GISD)
 
@@ -198,7 +245,7 @@ Current status:
 
 ---
 
-# 5. Background / Potentially Relevant Physical Data
+# 6. Background / Potentially Relevant Physical Data
 
 These datasets are relevant background sources or potential extensions, but they are not currently central to the active flood exposure workflow unless explicitly reintroduced.
 
@@ -279,7 +326,7 @@ URL:
 
 ---
 
-# 6. Superseded or Contextual Flood and Protection Data
+# 7. Superseded or Contextual Flood and Protection Data
 
 These datasets were explored or may remain conceptually relevant, but they are not the current main exposure workflow.
 

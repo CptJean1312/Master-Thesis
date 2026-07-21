@@ -1,6 +1,6 @@
 # Was Muss Gemacht Werden
 
-Updated: 2026-07-16
+Updated: 2026-07-21
 
 Purpose: turn the current Elbe flood-justice thesis into a very strong, defensible submission draft. The realistic working target is to have a near-final thesis by the end of next week, but the quality target is higher than speed alone. If one methodological upgrade genuinely improves the thesis, it is worth doing.
 
@@ -51,7 +51,8 @@ Checklist:
 - [ ] Build final bibliography/reference list.
 - [ ] Ensure every in-text citation appears in the bibliography.
 - [ ] Ensure every dataset has a citation or clear source note.
-- [ ] Add DLR Land Cover DE citation if land-use analysis is included.
+- [x] Add DLR Land Cover DE source, DOI, and citation to Chapter 4 and the active data-source inventory.
+- [ ] Add the DLR dataset citation to the final bibliography.
 - [ ] Add BBSR/INKAR citation.
 - [ ] Add BKG/VG250 citation.
 - [ ] Add EFAS/JRC/Copernicus/JRC flood hazard map citations.
@@ -86,9 +87,9 @@ Status: partly done
 
 Checklist:
 
-- [x]irm DLR Land Cover DE is outside the Git repository.
+- [x] DLR Land Cover DE is outside the Git repository.
 - [x] Add or check `.gitignore` for large raster/zip patterns if needed.
-- [x]Keep only scripts, metadata notes, and derived small outputs in the repo.
+- [x] Keep only scripts, metadata notes, and derived small outputs in the repo.
 - [x] Document external raw-data path in the land-use script.
 
 Why it matters:
@@ -103,7 +104,7 @@ These are the tasks that most directly move the thesis toward a very good grade.
 
 ## P1.1 Add DLR land-use exposure analysis
 
-Status: done for RP100; optional extension to all return periods remains open
+Status: done for RP100 and integrated into Chapters 4 to 7; optional extension to all return periods remains open
 
 Core idea:
 
@@ -153,9 +154,9 @@ Expected thesis use:
 
 Decision after outputs:
 
-- [ ] If the land-use result materially changes the story, include as a main Results subsection.
+- [x] Include the land-cover result as a main Results subsection and interpret it as a robustness refinement.
 - [x] If it confirms the existing story, include as a robustness/substantive refinement.
-- [ ] If data quality is problematic, include only as limitation/future work and do not force it.
+- [x] Document the remaining conceptual limits without downgrading the internally consistent output to future work only.
 
 ## P1.2 Rebuild or extend the master analysis table
 
@@ -184,7 +185,7 @@ The thesis needs one clean empirical backbone. No scattered tables that tell sli
 
 ## P1.3 Rerun key Results with land-use exposure
 
-Status: mostly done; final figure polish remains
+Status: done for the final RP100 land-cover analysis
 
 Checklist:
 
@@ -209,7 +210,7 @@ This is the cleanest answer to the reviewer critique that the exposure metric ma
 
 ## P1.4 Map redesign and visual consistency
 
-Status: must do
+Status: done for the active thesis figures
 
 Problem:
 
@@ -217,31 +218,31 @@ The existing maps are useful, but they do not yet feel like one thesis figure sy
 
 Checklist:
 
-- [ ] Create one shared map theme for all maps.
-- [ ] Use consistent fonts, legend positions, line widths, and color logic.
-- [ ] Add Elbe river line where relevant.
-- [ ] Add Bundesländer boundaries to the overview map.
-- [ ] Add labels for major cities where useful:
+- [x] Create one shared map theme for all maps.
+- [x] Use consistent fonts, legend positions, line widths, and color logic.
+- [x] Add Elbe river line where relevant.
+- [x] Add Bundesländer boundaries to the overview map.
+- [x] Add labels for major cities where useful:
   - Hamburg;
   - Magdeburg;
   - Dresden;
   - Leipzig;
   - Berlin;
   - possibly Wittenberge, Dessau-Roßlau, Lutherstadt Wittenberg, Riesa, Torgau, Cuxhaven depending on map extent.
-- [ ] Avoid clutter: large cities on all maps only if they improve orientation.
-- [ ] Use the same corridor outline and background style.
-- [ ] Re-export all result maps at consistent resolution.
+- [x] Avoid clutter: large cities on all maps only if they improve orientation.
+- [x] Use the same corridor outline and background style.
+- [x] Re-export all result maps at consistent resolution.
 
 Minimum maps to standardize:
 
-- [ ] Study area/corridor overview.
-- [ ] RP100 exposure map.
-- [ ] Vulnerability index map.
-- [ ] Bivariate exposure-vulnerability map.
-- [ ] Protection coverage map.
-- [ ] Protection return-period map.
-- [ ] Modeled annual loss probability map.
-- [ ] New land-use/artificial exposure map if included.
+- [x] Study area/corridor overview.
+- [x] RP100 exposure map.
+- [x] Vulnerability index map.
+- [x] Bivariate exposure-vulnerability map.
+- [x] Protection coverage map.
+- [x] Protection return-period map.
+- [x] Modeled annual loss probability map.
+- [x] New land-cover/artificial exposure map.
 
 Why it matters:
 
@@ -249,19 +250,19 @@ Maps are not decoration in this thesis. They carry the geographical argument. If
 
 ## P1.5 Protection/no-event robustness and wording
 
-Status: must do
+Status: completed in the analysis and active draft; a compact table can still be added in Word if useful
 
 Checklist:
 
-- [ ] Keep no-event municipalities as `no simulated loss event`, not as real-world risk-free.
-- [ ] Keep zero annual loss probability wording strictly model-bound.
-- [ ] Add sensitivity table:
+- [x] Keep no-event municipalities as `no simulated loss event`, not as real-world risk-free.
+- [x] Keep zero annual loss probability wording strictly model-bound.
+- [x] Separate the sensitivity views in Results:
   - full corridor with no-event as zero modeled annual loss probability;
   - positive-loss subset only;
   - no-event municipalities discussed separately.
-- [ ] Check whether no-event municipalities with high artificial-land exposure exist.
-- [ ] If they exist, use them as important limitation/model-visibility cases.
-- [ ] Keep provider clarification in Methods and Discussion.
+- [x] Check whether no-event municipalities with high Artificial Land exposure exist.
+- [x] Use these cases as important limitation and model-visibility evidence.
+- [x] Keep provider clarification in Methods and Discussion.
 
 Why it matters:
 
