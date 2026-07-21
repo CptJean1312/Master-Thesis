@@ -121,8 +121,8 @@ The wording of the thesis title is used in this operational sense. The title ref
 Thesis Outline
 -	Chapter 2 develops the theoretical and conceptual foundations of the thesis, including German flood risk management, the Elbe case context, flood justice, socio-hydrology, and the conceptual framing of exposure, vulnerability, and protection.
 -	Chapter 3 translates this conceptual foundation into the research design and analytical framework by defining the overall approach, the study area, the spatial unit of analysis, the equity logic, and the main analytical limits of the study.
--	Chapter 4 presents the data and methods, including the construction of the flood exposure dataset, the development of the socio-economic indicator framework, and the statistical and spatial procedures used in the analysis.
--	Chapter 5 reports the empirical results, focusing on the study area, the spatial distribution of flood exposure, the socio-economic structure of the corridor, and the relationship between vulnerability and flood-related outcomes.
+-	Chapter 4 presents the data and methods, including the construction of the flood exposure dataset, the DLR land-cover refinement, the socio-economic vulnerability framework, and the protection/loss analysis.
+-	Chapter 5 reports the empirical results, moving from total-area and Artificial Land exposure to socio-economic vulnerability, multi-return-period exposure dynamics, and modeled protection/loss outcomes.
 -	Chapter 6 discusses the results in relation to the literature, interprets them in the context of flood justice and German flood risk management, and reflects critically on limitations and implications.
 -	Chapter 7 concludes the thesis by summarizing the main findings, outlining the contribution of the study, and identifying avenues for future research and practice.
 
