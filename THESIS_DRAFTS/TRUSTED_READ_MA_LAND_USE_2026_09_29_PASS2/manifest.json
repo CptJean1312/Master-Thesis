@@ -1,0 +1,59 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2",
+  "target": {
+    "documentId": "1oiwRoSeIK6w0Zr-5O-beYYlBB4-89KmMv1vVHz6HC1Q",
+    "title": "MA + Land Use",
+    "revisionId": "ANLCKQlCmbOo_XekHWNxcpThYnY6dae0ziYIVpXBNyxv5LGGmDqFH8GEIdlEE7pZ1sY5zGuIuj1tOfG8GEGsdu1-Lnegal0BnWZUVfDkkSY",
+    "documentUrl": "https://docs.google.com/document/d/1oiwRoSeIK6w0Zr-5O-beYYlBB4-89KmMv1vVHz6HC1Q",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "inlineObjectElement": 19
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2/document-result.json",
+      "bytes": 1012031,
+      "sha256": "349061bf623f312ed0e5b5eb24b324812fefb3b28ea5b002973e460c48db2d14"
+    },
+    "control_inventory": {
+      "path": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2/control-inventory.json",
+      "bytes": 12832,
+      "sha256": "0df0241dbc40fd14dbbfce4a5c2ca4f8afe41da24b65c1d58b04058802f57704"
+    },
+    "document_outline": {
+      "path": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2/document-outline.json",
+      "bytes": 471456,
+      "sha256": "ac99b73abf6e0b4d14686f9fbb330fc3936da3e9e71e7db1c3b30d69aa348d73"
+    },
+    "document_text": {
+      "path": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2/document-text.md",
+      "bytes": 224857,
+      "sha256": "1703ebc9090727a3a316c635a82711fe2dab7e4f31516ed1232982cc9170bd46"
+    },
+    "receipt": {
+      "path": "/Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/THESIS_DRAFTS/TRUSTED_READ_MA_LAND_USE_2026_09_29_PASS2/receipt.json",
+      "bytes": 987,
+      "sha256": "024bcfcd394440e1e6ef1e9dead09eddf59ac970776cc2b6af0646fc79d86111"
+    }
+  },
+  "error": null
+}
