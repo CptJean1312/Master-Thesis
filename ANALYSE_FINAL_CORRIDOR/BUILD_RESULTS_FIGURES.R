@@ -144,6 +144,13 @@ analysis <- corridor %>%
 
 analysis_tbl <- analysis %>% st_drop_geometry()
 
+safe_cor <- function(x, y, method = "pearson") {
+  if (sum(complete.cases(x, y)) < 3) {
+    return(NA_real_)
+  }
+  cor(x, y, use = "complete.obs", method = method)
+}
+
 # ---------------------------
 # 1) Vulnerability dimension map
 # ---------------------------
@@ -429,6 +436,52 @@ write_csv(
 write_csv(
   curve_long,
   file.path(paths$output_dir, "table_mean_exposure_curves_by_vulnerability_quintile.csv")
+)
+
+loss_exposure_associations <- tibble(
+  relationship = c(
+    "annual_loss_probability_vs_rp100_total_area_flood_share_full_corridor",
+    "finite_loss_occurrence_rp_vs_rp100_total_area_flood_share_positive_loss_only"
+  ),
+  pearson = c(
+    safe_cor(
+      analysis_tbl$annual_loss_probability_model,
+      analysis_tbl$flood_share_rp100,
+      "pearson"
+    ),
+    safe_cor(
+      analysis_tbl$protection_return_period,
+      analysis_tbl$flood_share_rp100,
+      "pearson"
+    )
+  ),
+  spearman = c(
+    safe_cor(
+      analysis_tbl$annual_loss_probability_model,
+      analysis_tbl$flood_share_rp100,
+      "spearman"
+    ),
+    safe_cor(
+      analysis_tbl$protection_return_period,
+      analysis_tbl$flood_share_rp100,
+      "spearman"
+    )
+  ),
+  n_complete = c(
+    sum(complete.cases(
+      analysis_tbl$annual_loss_probability_model,
+      analysis_tbl$flood_share_rp100
+    )),
+    sum(complete.cases(
+      analysis_tbl$protection_return_period,
+      analysis_tbl$flood_share_rp100
+    ))
+  )
+)
+
+write_csv(
+  loss_exposure_associations,
+  file.path(paths$output_dir, "table_loss_exposure_associations.csv")
 )
 
 result_summary <- tibble(

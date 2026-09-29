@@ -1,0 +1,3 @@
+relationship,pearson,spearman,n_complete
+annual_loss_probability_vs_rp100_total_area_flood_share_full_corridor,-0.026811567919909206,0.042840242408796345,835
+finite_loss_occurrence_rp_vs_rp100_total_area_flood_share_positive_loss_only,-0.11669452620965932,-0.2019908186262785,280
