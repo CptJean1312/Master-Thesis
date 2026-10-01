@@ -1,18 +1,14 @@
 # Final Thesis Revision Protocol
 
-## Working Principle
+## Authoritative Working Version
 
-The Word document remains the authoritative thesis text. This Markdown file does not reproduce complete chapters. It records only passages that should be moved, deleted, corrected, or replaced.
+This review refers exclusively to:
 
-Each revision entry contains:
+`/Users/maxi_161/Desktop/MA_FINAL AI CHECK.docx`
 
-- the exact location in the Word document;
-- the opening words of the affected paragraph or sentence;
-- the reason for the change;
-- the required action;
-- a copy-ready replacement where necessary.
+The Word document remains the authoritative thesis text. This Markdown file contains only passages that require correction, deletion, movement, or replacement. It is not a parallel thesis draft.
 
-Changes should only be transferred to Word after they have been checked there in context.
+Each entry provides the section, the opening words of the affected passage, the reason for the change, and a copy-ready proposal. Changes should be checked in context before they are transferred to Word.
 
 ---
 
@@ -28,306 +24,292 @@ The structure of Chapter 2 should remain unchanged:
 4. 2.4 Socio-Hydrology and the Human Dimension of Risk
 5. 2.5 Conceptual Framing of This Study
 
-The chapter contains the necessary theoretical material. The main task is to assign each recurring argument to one section:
-
-| Topic | Main location |
-|---|---|
-| German policy change and governance | 2.1 |
-| Physical, historical, and socio-economic Elbe context | 2.2 |
-| Normative and distributive justice framework | 2.3 |
-| Feedbacks, learning, preparedness, and residual risk | 2.4 |
-| Concise synthesis for this thesis | 2.5 |
+The current version already contains several improvements that were missing from the previous file. The basin-corridor distinction now precedes Figure 2.1, basic Elbe facts have been added, river engineering and East-West differences receive more attention, and 2.1 has already been partly shortened. The entries below therefore address only problems that remain in `MA_FINAL AI CHECK.docx`.
 
 ---
 
 ## 2.1 Flood Risk Management in Germany
 
-### C2-01: Floods Directive Is Introduced Twice
+### C2-01: Replace the First Paragraph
 
-**Location:** First paragraph, beginning `Flood risk management in Germany has changed substantially...`
+**Location:** First paragraph, beginning `The European Floods Directive subsequently established...`
 
-**Problem:** The European Floods Directive is introduced here and then introduced again in the third paragraph. The first occurrence also relies on secondary sources although the Directive itself is available as the primary source.
+**Problems:**
 
-**Action:** Keep the first introduction, but replace the sentence beginning `In this context, the European Floods Directive...` with the following sentence.
+- The Floods Directive appears in the opening sentence and is introduced again later in the same paragraph.
+- The paragraph begins with the Directive before explaining the historical shift it formalised.
+- `Sairam et al. (2021), similarly observe` contains an incorrect comma.
+- The Directive itself should be cited as the primary source.
 
-**Replacement:**
-
-> The European Floods Directive subsequently established a common framework for assessing and managing flood risks across member states and required the preparation of flood risk management plans (European Parliament and Council, 2007).
-
-**Location:** Third paragraph, beginning `German flood risk management operates across multiple governance levels...`
-
-**Action:** Replace its first two sentences with the following opening. Continue afterwards with `This multi-level structure means...`
+**Action:** Replace the complete paragraph.
 
 **Replacement:**
 
-> Implementation nevertheless remains distributed across federal, state, regional, and municipal institutions, which retain substantial responsibility for planning, financing, and implementation in practice (Sairam et al., 2021).
+> Flood risk management in Germany has changed substantially over recent decades. Earlier approaches concentrated mainly on technical flood defence and the control of water through structural measures. More recent policy and research treat flooding as a broader risk management problem that also involves spatial planning, preparedness, emergency response, damage reduction, and long-term adaptation. This shift was strongly shaped by experience. Thieken et al. (2016) identify the 2002 flood as an important turning point, while Sairam et al. (2021) relate the development of more systemic approaches to the major flood events of 1993, 1995, and 2002. The European Floods Directive subsequently established a common framework for assessing and managing flood risks across member states and required the preparation of flood risk management plans (European Parliament and Council, 2007). German flood policy therefore no longer rests formally on flood defence alone, even though structural measures remain an important part of it.
 
-- [ ] Primary citation to Directive 2007/60/EC added in Word.
-- [ ] Repeated explanation of the Directive removed from paragraph 3.
+- [ ] Duplicate Floods Directive sentence removed.
+- [ ] Directive 2007/60/EC cited directly.
 
-### C2-02: Private Adaptation Is Repeated in 2.1 and 2.4
+### C2-02: Repair the Second Paragraph
 
-**Location:** Third paragraph, from `More recent work also shows that flood risk management increasingly includes...` to the end of the paragraph.
+**Location:** Paragraph beginning `Major flood events make this shift easier to trace...`
 
-**Problem:** Insurance and household mitigation are discussed here and then explained in substantially greater detail in 2.4. The detailed argument belongs to the human-dimension section.
+**Problems:**
 
-**Action:** Replace the final three sentences of the paragraph with one short governance sentence.
+- `Elbe-flood` and `Elbe-Flood` are inconsistent and unnecessary compounds.
+- `The next Elbe-Flood in 2013 flood caused again...` is grammatically broken.
+- `flodd risk management` is a spelling error.
+- `damages of 11.6 billion EUR` should be expressed as `EUR 11.6 billion in damage`.
+- The paragraph is longer than needed because several sentences restate that the events produced institutional learning.
 
-**Replacement:**
-
-> The resulting system combines public protection with insurance, private precaution, and risk communication, although access to and uptake of these measures remain uneven (Surminski and Thieken, 2017; Osberghaus, 2015).
-
-**Location:** Fourth paragraph, final two sentences beginning `Recent research on household adaptation in Germany...`
-
-**Problem:** Osberghaus (2015) and Dillenardt and Thieken (2025) are used again in 2.4 for the same argument.
-
-**Action:** Delete both sentences. End the paragraph after the discussion of reactive and anticipatory approaches, using the following closing sentence.
+**Action:** Replace the complete paragraph.
 
 **Replacement:**
 
-> The gap between an integrated policy ideal and spatially uneven implementation therefore remains a central tension in German flood risk management.
+> Major flood events make this shift easier to trace. Thieken et al. (2016) describe the 2002 flood as the most expensive natural hazard event in Germany up to that point, with EUR 11.6 billion in damage and 21 fatalities. The 2013 flood again caused very high losses, estimated at EUR 6 to 8 billion, but also showed that improvements in warning, emergency coordination, property-level mitigation, and the maintenance of flood defence systems had taken effect since 2002 (Thieken et al., 2016). Grabs (2016) identifies both Elbe floods as important catalysts for the Elbe Flood Protection Action Plan and the wider acceptance of integrated flood risk management. The events exposed weaknesses in existing arrangements and established flood governance as a long-term political task.
 
-- [ ] Detailed household-adaptation discussion retained only in 2.4.
+- [ ] Grammar and spelling errors removed.
+- [ ] National policy-learning function retained.
 
-### C2-03: Function of the 2002 and 2013 Floods
+### C2-03: Revise the Tension Paragraph
 
-**Locations:**
+**Location:** Paragraph beginning `Despite broader framing, German flood risk management still contains tensions...`
 
-- 2.1, paragraph beginning `Major flood events make this shift easier to trace...`
-- 2.2, paragraph beginning `The Elbe is also a strong case because...`
-- 2.4, paragraph beginning `The socio-hydrological perspective also helps explain...`
+**Problems:**
 
-**Problem:** All three passages currently use the same events to explain institutional or social learning.
+- The opening requires `this broader framing`.
+- `structural engineering remains politically dominant due to its visibility` is a strong causal assertion that is not directly demonstrated by the cited source.
+- `defenses` conflicts with the British English used elsewhere.
 
-**Action:** Keep the 2.1 paragraph as the national policy account. Use the shortened Elbe-specific version under C2-09 in 2.2. Keep the Dresden learning mechanism exclusively in 2.4 under C2-14.
-
-- [ ] 2.1 retains national damages and policy learning.
-- [ ] 2.2 retains Elbe-specific flood history without the Dresden preparedness argument.
-- [ ] 2.4 retains the Barendrecht preparedness argument.
-
-### C2-04: Final Paragraph of 2.1
-
-**Location:** Paragraph beginning `For this thesis, the German context is relevant in two ways...`
-
-**Problem:** The existing paragraph again explains that infrastructure is not observed directly. This is necessary later in 2.5, but interrupts the conclusion of the governance section.
-
-**Action:** Replace the paragraph with a shorter bridge to the Elbe case.
+**Action:** Replace the complete paragraph with a more defensible version.
 
 **Replacement:**
 
-> This governance setting shapes the context in which municipal exposure and modelled losses are interpreted. Remaining flood burdens do not reflect hydrology alone. They emerge within a system of past interventions, current planning choices, institutional capacities, and uneven opportunities for adaptation. The German case therefore provides more than a national backdrop: it explains why the distribution of flood-related burdens across municipalities is a meaningful question in the first place.
+> Despite this broader framing, German flood risk management still contains important tensions. Public policy increasingly recognises that absolute protection is neither technically nor economically feasible, yet structural measures remain politically and practically central. Grabs (2016) argues that engineering measures can reduce flood hazards but cannot eliminate them, and that reliance on technical protection alone may increase residual risk if defences fail. This creates a persistent tension between reactive and anticipatory approaches. Surminski and Thieken (2017) describe flood risk management in Germany and England as still strongly reactive and event-driven even though anticipatory approaches are widely discussed. The gap between an integrated policy ideal and spatially uneven implementation therefore remains a central tension in German flood risk management.
 
-- [ ] Direct infrastructure limitation removed here and retained in 2.5.
+- [ ] Unsupported claim about political dominance softened.
+- [ ] British spelling used consistently.
+
+### Passages to Keep
+
+The third paragraph beginning `Implementation nevertheless remains distributed...` is now correctly focused on multi-level governance and should remain.
+
+The final paragraph beginning `This governance setting shapes the context...` is concise and should remain.
 
 ---
 
 ## 2.2 Area of Interest
 
-### Intended Paragraph Order
+### C2-04: Correct the Source for the Elbe Facts
 
-The subsection heading and overall chapter structure remain unchanged. Within 2.2, use this paragraph order:
+**Location:** First paragraph, beginning `The Elbe is one of the major river systems in Central Europe...`
 
-1. Physical geography of the Elbe
-2. Basin versus empirical RP500 corridor
-3. Figure 2.1
-4. River engineering and floodplain modification
-5. Former inner-German border
-6. Present socio-economic differences
-7. Elbe flood history
-8. Short bridge to the justice section
+**Problem:** The geographical content is useful, but `Hatz et al. (2018)` could not be verified as the source supporting the stated length, basin area, national shares, and tributaries. These exact facts are documented by Pfeiffer and Ionita (2017). Unless the full Hatz reference can be checked against the original source, it should not remain here.
 
-### C2-05: Replace the Current Opening With Basic Elbe Geography
-
-**Location:** First paragraph, beginning `The Elbe is one of the major river systems in Germany...`
-
-**Problem:** The current opening immediately repeats the 2002 and 2013 flood-policy argument from 2.1. It does not first establish where the Elbe originates, its length, catchment size, main sections, or important tributaries.
-
-**Action:** Replace the complete paragraph.
+**Action:** Retain the substance but replace the paragraph and citation.
 
 **Replacement:**
 
-> The Elbe is one of the major river systems of Central Europe. It rises in the Giant Mountains in the Czech Republic and reaches the North Sea near Cuxhaven after approximately 1,094 km. Its catchment covers about 148,268 km², of which roughly two thirds lie in Germany and most of the remainder in the Czech Republic. The river is commonly divided into an upper, middle, and lower section. Within Germany, major tributaries include the Schwarze Elster, Mulde, Saale, and Havel (BfG, 2016; Metin et al., 2020). This large and internally varied basin connects mountainous headwaters, broad lowland floodplains, major cities, rural municipalities, and the tidal estuary around Hamburg.
+> The Elbe is one of the major river systems of Central Europe. It rises in the Krkonoše Mountains in the Czech Republic and reaches the North Sea near Cuxhaven after approximately 1,094 km. Its transboundary basin covers 148,268 km², of which around two thirds lie in Germany and one third in the Czech Republic, with smaller shares in Austria and Poland. Major tributaries include the Vltava, Ohře, Mulde, Saale, Schwarze Elster, and Havel. Across its course, the Elbe connects mountainous headwaters, broad lowland floodplains, major cities, rural municipalities, and the tidal estuary rather than forming a uniform river corridor (Pfeiffer and Ionita, 2017).
 
-- [ ] Repeated flood-policy introduction removed.
-- [ ] Basic river geography added.
+- [ ] Hatz et al. (2018) checked against the actual publication or removed.
+- [ ] Pfeiffer and Ionita (2017) added to EndNote if used.
 
-### C2-06: Move the Basin-Corridor Clarification Before Figure 2.1
+### C2-05: Correct the Figure Number
 
-**Current location:** Final paragraph of 2.2, beginning `While the thesis remains framed in terms of the Elbe river basin...`
+**Locations:**
 
-**Problem:** The text explains the RP500 corridor only after the figure and the complete case discussion, although Figure 2.1 already shows this distinction.
+- Final sentence of the corridor paragraph: `Figure 1 situates these municipalities...`
+- Caption: `Figure 1. Study area and RP500 corridor municipalities...`
 
-**Action:** Delete the paragraph from its current position. Insert the following version directly after the new geographical opening and immediately before the sentence introducing Figure 2.1.
+**Problem:** Chapter numbering requires `Figure 2.1`, and the figure was previously referenced under that number.
 
-**Replacement:**
+**Action:** Change both occurrences from `Figure 1` to `Figure 2.1`.
 
-> The Elbe basin provides the hydrological, historical, and institutional setting of this thesis. The empirical study population is narrower. It consists of municipalities that intersect the modelled RP500 flood extent and therefore form the flood-relevant Elbe corridor. This distinction prevents the analysis from treating every municipality within the wider catchment as equally relevant to a comparison of flood exposure. The basin remains the geographical frame, while the RP500 corridor identifies the municipalities included in the statistical analysis.
+- [ ] Text reference reads `Figure 2.1`.
+- [ ] Caption reads `Figure 2.1`.
 
-**Figure introduction:**
+### C2-06: Replace the Second River-Engineering Paragraph
 
-> Figure 2.1 shows the relationship between the wider Elbe context and the selected flood-relevant corridor.
-
-- [ ] Basin-corridor paragraph moved before Figure 2.1.
-- [ ] Old final paragraph removed from the end of 2.2.
-
-### C2-07: Replace the River-Engineering Paragraph
-
-**Location:** Paragraph beginning `Historically, the Elbe has been shaped by a long interaction...`
-
-**Problem:** The Jüpner evidence is relevant, but the final Grabs argument repeats the integrated-management discussion from 2.1. The paragraph also needs the distinction between extensive river modification and the largely free-flowing German inland Elbe.
-
-**Action:** Replace the complete paragraph.
-
-**Replacement:**
-
-> The present river landscape is the result of a long interaction between settlement, navigation, agriculture, and hydraulic engineering. Population growth and increasing pressure on floodplains encouraged the construction of extensive dike systems. More than 500 km of the German Elbe are now almost continuously bordered by dikes, and over 83% of its natural floodplains have been lost (Jüpner, 2018). The German inland Elbe is not impounded by a continuous sequence of barrages. It remains free-flowing from the Czech border to Geesthacht, where the only barrage on the German inland river separates the free-flowing section from the tidal Elbe (BfG, 2016). Nevertheless, dikes, groynes, bank protection, navigation works, and altered floodplain use have substantially modified the river. The Elbe should therefore be understood neither as an unaltered natural river nor as a fully impounded waterway. It is an engineered river landscape in which flood exposure and residual risk have developed together with settlement and land use.
-
-- [ ] Repeated Grabs argument removed from this paragraph.
-- [ ] Diking, floodplain loss, and impoundment status distinguished accurately.
-
-### C2-08: Add the Former Inner-German Border
-
-**Location:** Insert directly after the revised river-engineering paragraph.
-
-**Reason:** This history is relevant to the corridor's political geography and to the later discussion of regional differences. It should not be folded into the socio-economic paragraph as if the Elbe were a simple East-West dividing line.
-
-**Insertion:**
-
-> The river also carries a distinctive political geography. Sections of the Elbe formed part of the border between the Federal Republic of Germany and the German Democratic Republic until 1990. Restrictions on access and development along parts of the former border contributed to the preservation of valuable habitats that are now associated with Germany's Green Belt (BfN, n.d.). The Elbe consequently links regions with different political and economic histories as well as different trajectories of settlement and infrastructure development. This history remains relevant without implying that the river forms a simple dividing line between two internally uniform parts of Germany.
-
-- [ ] Border history inserted without presenting the entire Elbe as the former border.
-
-### C2-09: Replace the Socio-Economic Heterogeneity Paragraph
-
-**Location:** Paragraph beginning `The Elbe corridor is not only hydrologically heterogeneous...`
-
-**Problem:** The paragraph is broadly correct, but it presents the East-West contrast before clearly stating that current disparities are more complex and also include urban-rural and centre-periphery differences.
-
-**Action:** Replace the complete paragraph.
-
-**Replacement:**
-
-> Socio-economic differences between eastern and western Germany have narrowed since reunification, but they have not disappeared. Differences remain in income, employment structures, wealth, demographic change, and the location of economically dynamic regions (Der Beauftragte der Bundesregierung für Ostdeutschland, 2024). The spatial pattern is more complex than a binary East-West contrast. Urban and rural disparities, regional centres, peripheral municipalities, and demographic change intersect with the legacy of reunification (Heider et al., 2023; Helbig, 2023). The Elbe corridor passes through wealthy metropolitan areas, large and medium-sized cities, industrial regions, agricultural landscapes, and sparsely populated rural municipalities. These differences make the corridor a socially heterogeneous study area rather than a single socio-economic region.
-
-- [ ] East-West claim retained but qualified.
-- [ ] Urban-rural and centre-periphery differences included.
-
-### C2-10: Replace the Repeated Flood-History Paragraph
-
-**Location:** Paragraph beginning `The Elbe is also a strong case because it has repeatedly been affected...`
+**Location:** Paragraph beginning `However, hydraulic engineering on the German Elbe does not imply...`
 
 **Problems:**
 
-- The Dresden preparedness argument is repeated in 2.4.
-- `Barendrecht et al. (2018)` refers to a conference abstract; the full article is from 2019.
-- Lindenschmidt et al. (2006) on the early state of large-basin risk assessment does not support the main purpose of this case-context paragraph.
+- `channelization.Compared` is missing a space.
+- The paragraph combines several large claims about the German main stem, Czech barrages, and tributary structures under two sources whose precise support is unclear.
+- The distinction between an extensively regulated river and a continuously impounded river can be stated more precisely using BfG information.
 
-**Action:** Replace the complete paragraph. Keep the Barendrecht study only in 2.4.
-
-**Replacement:**
-
-> Severe floods have repeatedly shaped the river and its governance. The events of 2002 and 2013 were among the most damaging floods in the German Elbe basin in recent decades (Metin et al., 2020). They exposed the consequences of extensive floodplain development and the limits of technical protection. The 2013 event included major dike failures and inundation behind structures that had been expected to provide safety (Jüpner, 2018). Both events also accelerated institutional reform and the development of the Elbe Flood Protection Action Plan (Grabs, 2016). The Elbe is therefore a flood-experienced river corridor whose current risk landscape reflects repeated interventions as well as repeated disasters.
-
-- [ ] Barendrecht removed from 2.2.
-- [ ] Lindenschmidt removed from this context paragraph.
-- [ ] Elbe-specific event history retained.
-
-### C2-11: Replace the Current Justice Conclusion of 2.2
-
-**Location:** Paragraph beginning `This socio-spatial heterogeneity is one of the main reasons...`
-
-**Problem:** Odersky and Löffler (2024) are introduced again in 2.3, where the empirical flood-inequality literature belongs. Fekete (2010) is needed later for the vulnerability framework. Using both here creates source recycling and begins the justice review before Section 2.3.
-
-**Action:** Replace the complete paragraph with a short transition. This should become the final paragraph of 2.2 after the revised flood-history paragraph.
+**Action:** Replace the complete paragraph.
 
 **Replacement:**
 
-> This combination of physical exposure, extensive river modification, contrasting regional histories, and socio-economic diversity makes the Elbe well suited to a justice-oriented analysis. The corridor does not provide a controlled comparison in which every factor other than social vulnerability remains constant. It instead offers a real and internally differentiated setting in which the spatial distribution of modelled flooding and loss can be compared with municipal social conditions. The following section develops the justice perspective that guides this comparison.
+> Hydraulic engineering on the German Elbe does not amount to continuous impoundment. The inland river remains free-flowing from the Czech border to Geesthacht, where the only barrage on the German main stem separates the free-flowing section from the tidal Elbe (BfG, 2016). Nevertheless, the river has been extensively regulated through dikes, groynes, guide works, bank reinforcement, and navigation measures. The Czech upper section and several tributaries contain additional barrages and reservoirs that also affect the wider basin. The Elbe should therefore be understood neither as an unaltered natural river nor as a fully impounded waterway, but as a strongly engineered river landscape.
 
-- [ ] Odersky and Löffler retained only in 2.3.
-- [ ] Fekete retained for the vulnerability framework in 2.5 and methods.
+- [ ] Missing space corrected through replacement.
+- [ ] Main-stem impoundment and wider basin regulation distinguished.
+
+### C2-07: Tighten the Political and Socio-Economic Geography
+
+**Locations:** Two consecutive paragraphs beginning:
+
+- `The river was also shaped by political history...`
+- `This spatial heterogeneity matters because...`
+
+**Problem:** Both paragraphs explain East-West, urban-rural, metropolitan, and peripheral differences. The first already ends with internal variation, and the second then introduces the same variation again. Some claims about municipal revenues and development opportunities are also more specific than the cited report passage needs to support.
+
+**Action:** Replace the two current paragraphs with the following two more clearly separated paragraphs.
+
+**Replacement paragraph 1, historical geography:**
+
+> The river also carries a distinctive political geography. Sections of the Middle Elbe formed part of the border between the Federal Republic of Germany and the German Democratic Republic until 1990. Restricted access and development along parts of the former border also contributed to the preservation of habitats now associated with Germany's Green Belt (BfN, n.d.). Reunification removed the state border, but the river still connects regions with different political and economic histories.
+
+**Replacement paragraph 2, present socio-economic geography:**
+
+> Socio-economic differences between eastern and western Germany have narrowed since reunification, but they have not disappeared. Differences remain in average income, wealth, economic performance, and demographic development (Der Beauftragte der Bundesregierung für Ostdeutschland, 2024). The pattern is more complex than a binary East-West divide: urban-rural inequalities and contrasts between metropolitan centres, regional cities, and peripheral municipalities intersect with this historical legacy (Heider et al., 2023; Helbig, 2023). The Elbe corridor therefore connects municipalities with markedly different social profiles and capacities for preparation, adaptation, and recovery.
+
+- [ ] Historical border and current socio-economic pattern separated analytically.
+- [ ] Green Belt source added if the sentence is retained.
+- [ ] East-West difference qualified rather than treated as deterministic.
+
+### C2-08: Remove Barendrecht From the Flood-History Paragraph
+
+**Location:** Paragraph beginning `Repeated flood events have further shaped the Elbe...`
+
+**Problem:** The paragraph repeats policy learning from 2.1 and the Dresden preparedness mechanism from 2.4. Barendrecht should appear only in 2.4, where the socio-hydrological mechanism is explained.
+
+**Action:** Replace the complete paragraph.
+
+**Replacement:**
+
+> Severe floods have repeatedly shaped the Elbe and its governance. The events of 2002 and 2013 caused extensive damage and exposed both the consequences of floodplain development and the limits of technical protection. Jüpner (2018) shows how major dike failures during the 2013 event produced extensive inundation behind structures that had been expected to provide safety. The Elbe is therefore a flood-experienced river corridor whose current risk landscape reflects repeated interventions as well as repeated disasters.
+
+- [ ] Grabs policy argument retained in 2.1 rather than repeated here.
+- [ ] Barendrecht learning mechanism retained only in 2.4.
+
+### C2-09: Replace the Final Paragraph of 2.2
+
+**Location:** Paragraph beginning `These intersecting hydrological, political, and socio-economic dynamics...`
+
+**Problems:**
+
+- `assessed.Odersky` is missing a space.
+- Odersky and Löffler (2024) are discussed again in 2.3.
+- Fekete (2010) is needed for the vulnerability framework in 2.5 and the methods chapter.
+- `ideal setting` is unnecessarily absolute.
+- The paragraph begins the literature review that belongs to the next section.
+
+**Action:** Replace the complete paragraph with a short bridge.
+
+**Replacement:**
+
+> This combination of physical exposure, extensive river modification, contrasting regional histories, and socio-economic diversity makes the Elbe particularly suitable for a justice-oriented analysis. The corridor does not provide a controlled comparison in which every factor other than social vulnerability remains constant. It offers an internally differentiated setting in which the spatial distribution of modelled flooding and loss can be compared with municipal social conditions. The following section develops the justice perspective that guides this comparison.
+
+- [ ] Odersky and Löffler removed from 2.2 and retained in 2.3.
+- [ ] Fekete removed from 2.2 and retained in 2.5 and Chapter 4.
+
+### Passages to Keep
+
+The corridor paragraph beginning `While the thesis is framed in terms of the Elbe River Basin...` is now correctly positioned before the figure and should remain after the figure-number correction.
+
+The first river-engineering paragraph beginning `Spatial development along the Elbe is shaped...` provides relevant evidence on settlement, dikes, and floodplain loss and should remain.
 
 ---
 
 ## 2.3 Environmental and Flood Justice
 
-### C2-12: Remove the Johnson Direct Quote
+### C2-10: Paraphrase the Johnson Statement
 
 **Location:** Second paragraph, sentence beginning `Johnson et al. (2007) similarly argue that flooding is “not fair per se”...`
 
-**Problem:** The sentence uses a direct quotation without a page number. The phrase is also less precise than the underlying argument, which links natural spatial unevenness to the legacy of differential interventions.
+**Problem:** This is a direct quotation without a page number. A paraphrase is clearer and avoids an unnecessary quotation.
 
-**Action:** Replace the complete sentence with a paraphrase.
+**Action:** Replace the sentence.
 
 **Replacement:**
 
-> Johnson et al. (2007) similarly show that the physical unevenness of flooding interacts with the inherited effects of past interventions, meaning that public action can mitigate spatial inequality but can also reproduce or intensify it.
+> Johnson et al. (2007) similarly show that the physical unevenness of flooding interacts with the inherited effects of past interventions, meaning that public action can reduce spatial inequality but can also reproduce or intensify it.
 
 - [ ] Direct quotation removed.
-- [ ] No page-number problem remains.
 
-### C2-13: Keep the Empirical Inequality Evidence Here
+### C2-11: Repair and Bound the Critical Political-Economy Paragraph
 
-**Location:** Paragraph beginning `This perspective is supported by an increasing body of empirical work...`
+**Location:** Paragraph beginning `A more critical reading of flood protection also requires...`
 
-**Assessment:** This is the correct location for Fielding (2012), Qiang (2019), Poussard et al. (2021), and Odersky and Löffler (2024). Do not remove this paragraph merely because individual sources appeared elsewhere in the old version. Their duplicate use in 2.2 should be removed instead.
+**Problems:**
 
-- [ ] Empirical flood-inequality paragraph retained in 2.3.
+- `issue.Where` is missing a space.
+- The paragraph currently moves from a plausible theoretical argument to the thesis interpretation without stating clearly that investment histories and capital flows are not observed.
+- The critical perspective should remain, but it must stay within the evidence available to the thesis.
 
-### C2-14: Shorten the Final Paragraph of 2.3
-
-**Location:** Final paragraph, beginning `Environmental and flood justice connect the physical geography...`
-
-**Problem:** The current paragraph repeats the distributive definition, limitations concerning political intent, and the empirical comparison that are all stated again in 2.5 and Chapter 3.
-
-**Action:** Replace the complete paragraph with a bounded transition.
+**Action:** Replace the complete paragraph.
 
 **Replacement:**
 
-> For this thesis, the justice framework defines a bounded empirical question: whether municipalities with different socio-economic profiles also differ systematically in flood exposure and modelled loss outcomes. This identifies distributive patterns, but it cannot establish procedural fairness, recognition, policy intent, or causality. The socio-hydrological perspective developed next explains why these physical, social, and modelled outcomes may diverge over time.
+> A more critical reading of flood protection also requires asking how safety becomes tied to land values, settlement development, and the uneven capacity of places to attract political attention and investment. This does not mean that protection decisions follow market value alone. It does mean that they are made within uneven territorial conditions rather than outside them. Where valuable assets, dense infrastructure, administrative capacity, and political visibility are concentrated, flood risk may be more likely to become a planning, insurance, and investment priority. Less affluent or less visible places may face disadvantages through lower investment, weaker representation, or risks that remain outside established models and policy instruments. The present thesis cannot reconstruct protection investment, trace capital flows, or test whether these mechanisms produced the observed municipal patterns. It uses this literature to identify a plausible structural context and to avoid treating modelled loss visibility as socially neutral (Johnson et al., 2007; Thaler and Hartmann, 2016; O'Hare and White, 2018; Moulds et al., 2021).
 
-- [ ] Full justice theory remains in 2.3.
-- [ ] Operational repetition deferred to the concise synthesis in 2.5.
+- [ ] Missing space removed.
+- [ ] Critical interpretation explicitly bounded by the data.
+
+### C2-12: Remove the Duplicate Final Sentence Pair
+
+**Location:** Final paragraph, beginning `Environmental and flood justice connect...`
+
+**Problem:** The first two substantive sentences make the same point twice:
+
+- `the distributive question is whether municipalities...`
+- `The primary distributive inquiry examines whether municipal...`
+
+**Action:** Replace the complete paragraph with a concise transition.
+
+**Replacement:**
+
+> For this thesis, the justice framework defines a bounded empirical question: whether municipalities with different socio-economic profiles also differ systematically in flood exposure and modelled loss outcomes. This identifies distributive patterns but cannot establish procedural fairness, recognition, policy intent, or causality. The socio-hydrological perspective developed next explains why physical exposure, social vulnerability, and modelled losses may diverge over time.
+
+- [ ] Duplicate distributive sentence removed.
+- [ ] Transition to 2.4 retained.
+
+### Passages to Keep
+
+The paragraphs on the justice dimensions, flood disadvantage, empirical exposure inequalities, and social vulnerability are correctly located in 2.3. Apart from the Johnson sentence, they do not require substantive restructuring.
 
 ---
 
 ## 2.4 Socio-Hydrology and the Human Dimension of Risk
 
-### C2-15: Correct and Retain the Dresden Learning Example
+### C2-13: Correct the Barendrecht Reference
 
 **Location:** Third paragraph, beginning `The socio-hydrological perspective also helps explain...`
 
-**Problem:** The Word draft cites `Barendrecht et al. (2018)`. The extracted library file is a 2018 conference abstract. The full peer-reviewed article was published in 2019 and should be cited instead.
+**Problem:** The text cites `Barendrecht et al. (2018)`, which is the conference abstract. The full peer-reviewed Dresden study was published in 2019.
 
-**Action:** Replace the first part of the paragraph through the explanation of the Dresden case. Continue afterwards with the Kreibich et al. (2017) comparison.
+**Action:** Replace the first three sentences with the following version. Continue afterwards with the Kreibich et al. (2017) comparison.
 
 **Replacement:**
 
 > Flood experience can alter these relationships over time. Barendrecht et al. (2019) analyse long-term flood dynamics in Dresden and show how awareness and preparedness help explain why the 2013 flood caused less damage than the 2002 event despite continued exposure.
 
-- [ ] Citation changed from Barendrecht et al. (2018) to Barendrecht et al. (2019).
-- [ ] Full journal article added to EndNote.
+- [ ] Barendrecht et al. (2018) replaced with Barendrecht et al. (2019).
+- [ ] Full journal article used in EndNote.
 
-### C2-16: Correct the Coping-Appraisal Citation
+### C2-14: Correct the Coping-Appraisal Citation
 
 **Location:** Fourth paragraph, sentence beginning `Werg et al. (2013) provide a complementary psychological perspective...`
 
-**Problem:** The paper *Detailed insights into the influence of flood-coping appraisals on mitigation behaviour* is authored by Bubeck, Botzen, Kreibich, and Aerts, not Werg et al.
+**Problem:** The cited paper *Detailed insights into the influence of flood-coping appraisals on mitigation behaviour* was written by Bubeck, Botzen, Kreibich, and Aerts. `Werg et al. (2013)` is the wrong attribution.
 
-**Action:** Replace the sentence and citation.
+**Action:** Replace the two sentences concerning coping appraisal.
 
 **Replacement:**
 
-> Bubeck et al. (2013) show that risk perception alone does not necessarily lead to precautionary action. Coping appraisal also matters, particularly whether households consider protective measures effective, feasible, and worth the required effort.
+> Bubeck et al. (2013) show that risk perception alone is often insufficient to explain precautionary action. Coping appraisal also matters, particularly whether households consider protective measures effective, feasible, and worth the required effort.
 
-- [ ] `Werg et al. (2013)` replaced with `Bubeck et al. (2013)`.
-- [ ] EndNote entry checked against the paper title and DOI.
+- [ ] Werg et al. (2013) replaced with Bubeck et al. (2013).
 
-### C2-17: Shorten the Final Paragraph of 2.4
+### C2-15: Shorten the Final Paragraph
 
 **Location:** Final paragraph, beginning `For the present thesis, the main implication of socio-hydrology...`
 
-**Problem:** The paragraph restates the relationship between exposure, vulnerability, protection, and loss at length. Section 2.5 must provide that synthesis.
+**Problem:** The paragraph restates the relationship between exposure, vulnerability, protection, and loss at length. Section 2.5 provides the formal synthesis.
 
 **Action:** Replace the complete paragraph.
 
@@ -335,87 +317,100 @@ The subsection heading and overall chapter structure remain unchanged. Within 2.
 
 > Socio-hydrology explains why exposure, vulnerability, and modelled loss should be examined as related but distinct aspects of flood risk. Settlement and protection influence where losses can occur, while awareness, preparedness, and recovery capacity influence their social consequences. The municipality-level analysis cannot observe all of these feedbacks directly, but it can compare their spatially aggregated outcomes without assuming that a flood map alone represents risk or that the absence of a modelled loss event proves the absence of hazard.
 
-- [ ] Detailed synthesis removed from 2.4.
-- [ ] Transition into 2.5 remains explicit.
+- [ ] Detailed empirical framework left to 2.5.
+
+### Passages to Keep
+
+The opening definition of socio-hydrology, the discussion of levee effects and residual risk, and the paragraph on repeated flood experience and psychological recovery should remain.
 
 ---
 
 ## 2.5 Conceptual Framing of This Study
 
-### C2-18: Replace the Section With a Concise Synthesis
+### C2-16: Keep the First Two Paragraphs
 
-**Location:** Complete Section 2.5.
+The first paragraph correctly distinguishes exposure, vulnerability, and modelled loss outcomes. The second paragraph correctly defines the distributive comparison. They should remain, subject only to ordinary language polishing later.
 
-**Problem:** The existing five paragraphs repeatedly define distributive justice, residual risk, protection, index uncertainty, and the three analytical layers. These points are all necessary, but several have already been established in 2.3 and 2.4. Section 2.5 should synthesize rather than reopen the literature review.
+- [ ] First two paragraphs retained.
 
-**Action:** Replace the complete text of 2.5 while retaining the heading.
+### C2-17: Shorten the Vulnerability-Index Caution
+
+**Location:** Third paragraph, beginning `This framing also implies a particular understanding of vulnerability measurement...`
+
+**Problem:** The conceptual caution is relevant, but the paragraph repeats several methodological details that are explained again in Chapters 3 and 4.
+
+**Action:** Replace the paragraph with a shorter conceptual version.
 
 **Replacement:**
 
-> The empirical framework distinguishes three related but non-equivalent layers: flood exposure, socio-economic vulnerability, and modelled loss outcomes. Exposure describes the share of municipal territory, and in the land-cover refinement the share of Artificial Land, that intersects a modelled flood extent. Vulnerability refers to the social conditions that shape the capacity to anticipate, cope with, and recover from flooding. It is treated as a multidimensional concept rather than a single attribute (Rufat et al., 2015). German research by Fekete (2009, 2010) further demonstrates how socio-demographic indicators can identify spatially differentiated constraints and capacities in relation to river floods. The third layer records whether and how frequently the supplied loss portfolio produces municipal losses. It describes outcomes within a simulation and is not an inventory of dikes, flood walls, or other protective infrastructure.
->
-> These layers form the basis of the distributive comparison. The analysis asks whether municipalities with greater socio-economic vulnerability also experience higher modelled exposure or more frequent modelled losses. Following Thaler and Hartmann (2016) and de Goër de Herve (2022), such an alignment is justice-relevant because it would indicate that social disadvantage and flood-related burdens overlap spatially. An uneven distribution does not by itself establish injustice, political intent, or a single causal mechanism. The strength and direction of the empirical relationship must be established before a wider interpretation is made.
->
-> The use of a vulnerability index requires particular caution. Composite indicators make multidimensional social conditions comparable across space, but their results depend on indicator selection, normalisation, weighting, aggregation, and spatial scale. Schmidtlein et al. (2008) and Tate (2013) demonstrate the sensitivity of social vulnerability indices to these decisions, while Rufat et al. (2019) warn that such models are primarily descriptive and should not be treated as self-validating explanations. The vulnerability index in this thesis is therefore used as a transparent analytical measure of municipal social conditions, not as a complete or immutable ranking of communities.
->
-> Protection remains relevant when differences between flood exposure and modelled loss are interpreted. Protective measures can reduce frequent losses and leave residual risk when design standards are exceeded or structures fail (Fu et al., 2023; Serra-Llobet et al., 2022; Tobin, 1995). Yet the supplied loss outcomes cannot isolate this effect from the distribution of assets, vulnerability functions, represented river processes, and other model assumptions. A finite loss-occurrence return period or a no-event result may be consistent with effective protection, but neither directly measures infrastructure. The framework therefore keeps flooded area and simulated loss separate. Chapter 3 translates this distinction into the research design, and Chapter 4 explains how each layer is operationalised for the Elbe corridor.
+> Composite vulnerability indices make multidimensional social conditions visible and comparable across space, but they are sensitive to indicator selection, normalisation, weighting, aggregation, and scale (Schmidtlein et al., 2008; Tate, 2013). Rufat et al. (2019) further warn that such models are primarily descriptive and should not be treated as self-validating explanations. The index used in this thesis is therefore understood as a transparent analytical measure of municipal social conditions rather than a complete or immutable ranking of communities. Chapter 4 documents the specific construction choices and sensitivity checks.
 
-- [ ] Repeated opening phrase `The previous sections suggest... conceptual triad...` removed.
-- [ ] Distributive framework stated once.
-- [ ] Vulnerability-index caution retained once.
-- [ ] Protection limitation retained once.
-- [ ] Repetitive final summary paragraph removed.
+- [ ] Conceptual caution retained.
+- [ ] Detailed index methodology deferred to Chapter 4.
 
----
+### C2-18: Merge the Final Two Paragraphs
 
-## Passages That Do Not Need Substantive Rewriting
+**Locations:**
 
-The following material is well placed and should only receive ordinary language polishing:
+- Paragraph beginning `Protection remains important for interpreting...`
+- Final paragraph beginning `The resulting framework compares...`
 
-- 2.1: the paragraph on the national consequences of the 2002 and 2013 floods;
-- 2.3: the distinction between distributive, procedural, and recognition justice, apart from the Johnson sentence in C2-12;
-- 2.3: the flood-disadvantage paragraph using Thaler and Hartmann, O'Hare and White, and Moulds et al.;
-- 2.3: the critical political-economy paragraph, provided its limits remain explicit;
-- 2.3: the empirical exposure-inequality paragraph;
-- 2.3: the social-vulnerability paragraph;
-- 2.4: the opening definition of socio-hydrology;
-- 2.4: the levee-effect and residual-risk paragraph;
-- 2.4: the household-adaptation paragraph after the citation correction in C2-16;
-- 2.4: the paragraph on repeated experience and psychological recovery.
+**Problem:** The final paragraph repeats that exposure and loss are separate, protection is not directly measured, and Chapters 3 and 4 operationalise the framework. These points are already stated in the preceding paragraph.
+
+**Action:** Replace both paragraphs with one concluding paragraph.
+
+**Replacement:**
+
+> Protection remains relevant when differences between flood exposure and modelled loss are interpreted. Protective measures can reduce frequent losses and leave residual risk when design standards are exceeded or structures fail, but the supplied loss outcomes cannot isolate this effect from asset exposure, vulnerability functions, represented river processes, and other model assumptions (Fu et al., 2023; Serra-Llobet et al., 2022; Tobin, 1995). A finite loss-occurrence return period or a no-event result may be consistent with effective protection, but neither directly measures infrastructure. The framework therefore keeps flooded area and simulated loss separate. Chapters 3 and 4 translate this distinction into the research design and methods used for the Elbe corridor.
+
+- [ ] Repetitive final summary removed.
+- [ ] Protection limitation stated once.
+- [ ] Transition to Chapters 3 and 4 retained.
 
 ---
 
 ## Citation and EndNote Actions
 
-### Add or Update
+### Add or Verify
 
 - [ ] European Parliament and Council (2007), Directive 2007/60/EC: <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007L0060>
-- [ ] Metin et al. (2020), *The role of spatial dependence for large-scale flood risk estimation*: <https://doi.org/10.5194/nhess-20-967-2020>
-- [ ] Barendrecht et al. (2019), *The Value of Empirical Data for Estimating the Parameters of a Sociohydrological Flood Risk Model*: <https://doi.org/10.1029/2018WR024128>
-- [ ] BfG (2016), report containing the free-flowing Elbe and Geesthacht information: <https://doi.bafg.de/BfG/2016/BfG-1893.pdf>
+- [ ] Pfeiffer, M. and Ionita, M. (2017), *Assessment of Hydrologic Alterations in Elbe and Rhine Rivers, Germany*: <https://doi.org/10.3390/w9090684>
+- [ ] BfG (2016), *Metastudie Sedimentdurchgängigkeit der Bundeswasserstraßen im Binnenbereich*: <https://doi.bafg.de/BfG/2016/BfG-1893.pdf>
 - [ ] BfN, Green Belt background: <https://www.bfn.de/gruenes-band>
-- [ ] Bubeck et al. (2013), *Detailed insights into the influence of flood-coping appraisals on mitigation behaviour*.
+- [ ] Barendrecht et al. (2019), *The Value of Empirical Data for Estimating the Parameters of a Sociohydrological Flood Risk Model*: <https://doi.org/10.1029/2018WR024128>
+- [ ] Bubeck et al. (2013), *Detailed insights into the influence of flood-coping appraisals on mitigation behaviour*: <https://doi.org/10.1016/j.gloenvcha.2013.05.009>
 
 ### Correct or Remove
 
+- [ ] Verify what publication `Hatz et al. (2018)` refers to. Do not use it for the basic Elbe facts unless the original source supports them directly.
 - [ ] Replace Barendrecht et al. (2018) with Barendrecht et al. (2019).
 - [ ] Replace Werg et al. (2013) with Bubeck et al. (2013) for the coping-appraisal paper.
-- [ ] Remove the uncited Johnson direct quotation and use the paraphrase in C2-12.
 - [ ] Remove Odersky and Löffler (2024) from 2.2; retain it in 2.3.
-- [ ] Remove Fekete (2010) from 2.2; retain Fekete in 2.5 and the methods chapter.
-- [ ] Remove Lindenschmidt et al. (2006) from the Elbe case-context paragraph unless it is used later for a specific methodological claim.
+- [ ] Remove Fekete (2010) from 2.2; retain Fekete in 2.5 and Chapter 4.
+- [ ] Use the Johnson et al. (2007) paraphrase instead of the direct quotation.
+
+---
+
+## Mechanical Corrections Found in the Current File
+
+- [ ] `The next Elbe-Flood in 2013 flood caused again` corrected through C2-02.
+- [ ] `flodd risk management` corrected through C2-02.
+- [ ] `channelization.Compared` corrected through C2-06.
+- [ ] `issue.Where` corrected through C2-11.
+- [ ] `assessed.Odersky` removed through C2-09.
+- [ ] Figure 1 changed to Figure 2.1 in text and caption.
+- [ ] British English checked consistently: `defence`, `modelled`, `recognises`, `normalisation`, `behaviour`.
 
 ---
 
 ## Chapter 2 Completion Check
 
-- [ ] C2-01 to C2-18 checked against the current Word text.
-- [ ] Only confirmed changes transferred to Word.
+- [ ] C2-01 to C2-18 checked against `MA_FINAL AI CHECK.docx`.
+- [ ] Only confirmed changes transferred manually to Word.
 - [ ] Figure 2.1 remains directly after the basin-corridor explanation.
-- [ ] Figure 2.1 is explicitly introduced in the preceding sentence.
-- [ ] No Barendrecht et al. (2018) citation remains.
-- [ ] No Werg et al. (2013) citation remains for the Bubeck paper.
-- [ ] Odersky and Löffler appear only where empirical inequality evidence is reviewed.
+- [ ] Odersky and Löffler appear only in the empirical inequality discussion in 2.3.
+- [ ] Barendrecht appears only in the socio-hydrological learning discussion in 2.4.
+- [ ] Fekete appears in the vulnerability framework rather than the area description.
 - [ ] Protection is not described as directly measured infrastructure.
-- [ ] `Against this background`, `Taken together`, and similar generic transitions have not been reintroduced.
-- [ ] Chapter 2 leads directly into the research design without repeating Chapter 3.
+- [ ] Critical political-economy interpretation remains explicit but data-bound.
+- [ ] Chapter 2 leads into Chapter 3 without restating the complete research design.
