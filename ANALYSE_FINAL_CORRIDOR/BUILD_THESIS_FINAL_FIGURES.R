@@ -576,7 +576,7 @@ composition_plot <- ggplot(landuse_summary_plot, aes(thesis_group, flooded_area_
     expand = expansion(mult = c(0, 0.30))
   ) +
   labs(
-    title = "Land-cover composition of modeled RP100 flooding",
+    title = "Land-cover composition of modelled RP100 flooding",
     subtitle = "Artificial land accounts for 6.0% of flooded land-cover area",
     x = NULL,
     y = "Flooded area (km²)",
@@ -713,14 +713,14 @@ curve_plot <- ggplot(
 save_figure(curve_plot, "plot_exposure_curves_by_vulnerability_quintile")
 
 # ---------------------------
-# 7) Protection and modeled loss
+# 7) Modelled loss outcomes
 # ---------------------------
 
 protection <- protection %>%
   mutate(
     protection_status_display = factor(
-      if_else(protection_available, "Finite protection RP", "No simulated loss event"),
-      levels = c("No simulated loss event", "Finite protection RP")
+      if_else(protection_available, "Positive modelled loss", "No simulated loss event"),
+      levels = c("No simulated loss event", "Positive modelled loss")
     )
   )
 
@@ -730,14 +730,14 @@ coverage_map <- ggplot(protection) +
   coord_corridor() +
   map_annotations() +
   scale_fill_manual(
-    values = c("No simulated loss event" = colors$no_event, "Finite protection RP" = colors$teal),
+    values = c("No simulated loss event" = colors$no_event, "Positive modelled loss" = colors$teal),
     drop = FALSE,
     name = "Portfolio status"
   ) +
   labs(
-    title = "Modeled loss/protection portfolio coverage",
-    subtitle = "280 municipalities have positive modeled losses; 555 have no simulated loss event",
-    caption = "Data: provider loss/protection portfolio and RP500 corridor municipalities. Own processing."
+    title = "Modelled loss portfolio coverage",
+    subtitle = "280 municipalities have positive modelled losses; 555 have no simulated loss event",
+    caption = "Data: supplied municipality-level loss portfolio and RP500 corridor municipalities. Own processing."
   ) +
   theme_thesis_map()
 
@@ -767,13 +767,13 @@ rp_map <- ggplot() +
       "500-1000" = "#3E8FA3", ">=1000" = "#285A8C"
     ),
     drop = FALSE,
-    name = "Finite protection RP (years)"
+    name = "Loss-occurrence RP (years)"
   ) +
   guides(fill = guide_legend(nrow = 2, byrow = TRUE)) +
   labs(
-    title = "Finite protection return periods",
+    title = "Finite loss-occurrence return periods",
     subtitle = "Positive-loss municipalities only; grey indicates no simulated loss event",
-    caption = "Higher return periods imply less frequent modeled loss occurrence. Data: provider loss/protection portfolio. Own processing."
+    caption = "Higher return periods imply less frequent modelled loss occurrence. Data: supplied municipality-level loss portfolio. Own processing."
   ) +
   theme_thesis_map()
 
@@ -823,9 +823,9 @@ annual_loss_map <- ggplot(analysis_protection) +
     name = "Annual loss probability"
   ) +
   labs(
-    title = "Modeled annual loss probability",
-    subtitle = "No-event municipalities are retained as zero within the provider portfolio",
-    caption = "Data: provider loss/protection portfolio and RP500 corridor municipalities. Own processing."
+    title = "Modelled annual loss probability",
+    subtitle = "No-event municipalities are retained as zero within the supplied portfolio",
+    caption = "Data: supplied municipality-level loss portfolio and RP500 corridor municipalities. Own processing."
   ) +
   theme_thesis_map()
 
@@ -840,8 +840,8 @@ portfolio_summary <- analysis_protection %>%
   ungroup() %>%
   mutate(
     status = factor(
-      if_else(protection_available, "Positive modeled loss", "No simulated loss event"),
-      levels = c("No simulated loss event", "Positive modeled loss")
+      if_else(protection_available, "Positive modelled loss", "No simulated loss event"),
+      levels = c("No simulated loss event", "Positive modelled loss")
     )
   )
 
@@ -849,15 +849,15 @@ portfolio_plot <- ggplot(portfolio_summary, aes(vuln_quintile, share, fill = sta
   geom_col(color = "white", linewidth = 0.25, width = 0.76) +
   scale_y_continuous(labels = percent_format(accuracy = 1), limits = c(0, 1), expand = expansion(mult = c(0, 0))) +
   scale_fill_manual(
-    values = c("No simulated loss event" = colors$no_event, "Positive modeled loss" = colors$teal),
+    values = c("No simulated loss event" = colors$no_event, "Positive modelled loss" = colors$teal),
     name = "Portfolio status"
   ) +
   labs(
-    title = "Modeled loss occurrence by vulnerability quintile",
+    title = "Modelled loss occurrence by vulnerability quintile",
     subtitle = "Positive-loss status is more common in the upper vulnerability groups",
     x = "Vulnerability quintile",
     y = "Share of municipalities",
-    caption = "Data: provider loss/protection portfolio and final INKAR vulnerability index. Own processing."
+    caption = "Data: supplied municipality-level loss portfolio and final INKAR vulnerability index. Own processing."
   ) +
   theme_thesis()
 
@@ -874,8 +874,8 @@ annual_loss_plot <- ggplot(
     title = "Annual loss probability by vulnerability quintile",
     subtitle = "Rust circles show means; no-event municipalities are retained as zero",
     x = "Vulnerability quintile",
-    y = "Modeled annual loss probability",
-    caption = "Data: provider loss/protection portfolio and final INKAR vulnerability index. Own processing."
+    y = "Modelled annual loss probability",
+    caption = "Data: supplied municipality-level loss portfolio and final INKAR vulnerability index. Own processing."
   ) +
   theme_thesis()
 
@@ -891,11 +891,11 @@ rp_quintile_plot <- ggplot(
   stat_summary(fun = median, geom = "point", shape = 23, size = 2.7, fill = colors$rust, color = "white", stroke = 0.5) +
   scale_y_log10(labels = label_number(big.mark = ",")) +
   labs(
-    title = "Finite protection return period by vulnerability quintile",
+    title = "Finite loss-occurrence return period by vulnerability quintile",
     subtitle = "Positive-loss municipalities only; rust diamonds show medians",
     x = "Vulnerability quintile",
-    y = "Finite protection return period (years, log scale)",
-    caption = "No-event municipalities are not assigned an artificial finite return period. Data: provider portfolio and INKAR."
+    y = "Finite loss-occurrence return period (years, log scale)",
+    caption = "No-event municipalities are not assigned an artificial finite return period. Data: supplied municipality-level loss portfolio and INKAR."
   ) +
   theme_thesis()
 
@@ -974,11 +974,11 @@ manifest <- tribble(
   "5.10", "map_exposure_curve_types", "Exposure-curve types",
   "5.11", "plot_exposure_curves_by_vulnerability_quintile", "Mean exposure curves by vulnerability quintile",
   "5.12", "map_corridor_protection_coverage", "Provider portfolio coverage",
-  "5.13", "map_corridor_protection_return_period", "Finite protection return periods",
-  "5.14", "map_modeled_annual_loss_probability", "Modeled annual loss probability",
+  "5.13", "map_corridor_protection_return_period", "Finite loss-occurrence return periods",
+  "5.14", "map_modeled_annual_loss_probability", "Modelled annual loss probability",
   "5.15", "plot_protection_status_by_vulnerability_quintile", "Portfolio status by vulnerability quintile",
   "5.16", "plot_annual_loss_probability_by_vulnerability_quintile", "Annual loss probability by vulnerability quintile",
-  "5.17", "plot_protection_return_period_by_vulnerability_quintile", "Finite protection return period by vulnerability quintile",
+  "5.17", "plot_protection_return_period_by_vulnerability_quintile", "Finite loss-occurrence return period by vulnerability quintile",
   "support", "map_no_loss_stream_context", "No-event stream-context diagnostic"
 ) %>%
   mutate(
