@@ -1,0 +1,8 @@
+class_code,class_name,class_slug,thesis_group
+1,Artificial Land,artificial_land,artificial
+2,Open Soil,open_soil,open_or_seasonal
+3,High Seasonal Vegetation,high_seasonal_vegetation,open_or_seasonal
+4,High Perennial Vegetation,high_perennial_vegetation,perennial_vegetation
+5,Low Seasonal Vegetation,low_seasonal_vegetation,open_or_seasonal
+6,Low Perennial Vegetation,low_perennial_vegetation,perennial_vegetation
+7,Water,water,water

@@ -1,0 +1,2 @@
+municipalities,share_tolerance,area_tolerance_m2,all_share_bounds_ok,all_area_bounds_ok,monotonicity_violations,suspicious_municipalities
+835,1e-8,1,TRUE,TRUE,2,2

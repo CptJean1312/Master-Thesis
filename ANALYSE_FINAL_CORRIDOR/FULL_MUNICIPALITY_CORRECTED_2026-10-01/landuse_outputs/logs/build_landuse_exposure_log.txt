@@ -19,3 +19,11 @@
 2026-10-01 18:07:05 |   Extracting flooded class area for rp100. 
 2026-10-01 18:09:58 | Projecting DLR class 5 (Low Seasonal Vegetation) to EFAS grid as area fraction. 
 2026-10-01 18:14:11 |   Extracting flooded class area for rp100. 
+2026-10-01 18:16:28 | Projecting DLR class 6 (Low Perennial Vegetation) to EFAS grid as area fraction. 
+2026-10-01 18:20:28 |   Extracting flooded class area for rp100. 
+2026-10-01 18:22:46 | Projecting DLR class 7 (Water) to EFAS grid as area fraction. 
+2026-10-01 18:26:37 |   Extracting flooded class area for rp100. 
+2026-10-01 18:28:53 | Joining final vulnerability analysis table for diagnostic summaries. 
+2026-10-01 18:28:54 | Land-use exposure module complete. 
+2026-10-01 18:28:54 | Wide table: /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/FULL_MUNICIPALITY_CORRECTED_2026-10-01/landuse_outputs/tables/corridor_landuse_exposure_wide.csv 
+2026-10-01 18:28:54 | GPKG: /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/FULL_MUNICIPALITY_CORRECTED_2026-10-01/landuse_outputs/gpkg/corridor_landuse_exposure.gpkg 

@@ -1,0 +1,6 @@
+variable,definition
+positive_modelled_loss,"TRUE when at least one non-zero modelled loss year occurs in the 5,000-year catalogue."
+catalogue_nonzero_loss_years,Number of non-zero modelled loss years; zero for corridor municipalities absent from the positive-loss extract.
+catalogue_annual_loss_probability,"Catalogue frequency n/5,000; zero for no-event corridor municipalities."
+finite_loss_occurrence_return_period,"5,000/n for positive-loss municipalities only; undefined for no-event cases."
+modelled_loss_status,Two-category catalogue outcome. It is not an observation of an engineering protection standard or zero real-world flood risk.

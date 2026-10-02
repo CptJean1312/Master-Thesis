@@ -1,0 +1,10 @@
+x,y,complete_cases,pearson,spearman
+vuln_index_main_z,positive_modelled_loss,834,0.20160976882186193,0.21199726358985954
+vuln_index_main_z,catalogue_annual_loss_probability,834,0.11781257164675553,0.22966756686979609
+vuln_index_main_z,finite_loss_occurrence_return_period,280,-0.0666382511454958,-0.19830835262530055
+flood_share_rp100,positive_modelled_loss,835,-0.12473366106334356,0.029651310641978776
+flood_share_rp100,catalogue_annual_loss_probability,835,-0.024562485673761746,0.05061474694219504
+flood_share_rp100,finite_loss_occurrence_return_period,280,-0.11664942148086711,-0.20169914085751275
+rp100_artificial_flood_share_of_group,positive_modelled_loss,835,-0.15314273905979328,0.04359470223284208
+rp100_artificial_flood_share_of_group,catalogue_annual_loss_probability,835,-0.06568308026533114,0.04737498139139003
+rp100_artificial_flood_share_of_group,finite_loss_occurrence_return_period,280,0.008912146067702935,-0.045657107327327855

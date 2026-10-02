@@ -1,0 +1,22 @@
+2026-10-01 18:29:04 | Loading corridor municipalities. 
+2026-10-01 18:29:05 | Analysis template CRS: EPSG:25832 
+2026-10-01 18:29:05 | Analysis template resolution: 100 x 100 
+2026-10-01 18:29:05 | Analysis template dimensions: 4601 x 4376 x 1 
+2026-10-01 18:29:05 | Analysis template extent: 461900, 899500, 5572300, 6032400 
+2026-10-01 18:29:05 | Loading DLR Land Cover DE raster. 
+2026-10-01 18:29:06 | DLR raster CRS: 3035 
+2026-10-01 18:29:06 | DLR raster resolution: 10 x 10 
+2026-10-01 18:29:06 | All requested class results are cached; skipping DLR crop and reprojection. 
+2026-10-01 18:29:07 | Corridor municipalities: 835 
+2026-10-01 18:29:07 | Return periods requested: rp100 
+2026-10-01 18:29:07 | Reading cached DLR class 1 (Artificial Land) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 2 (Open Soil) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 3 (High Seasonal Vegetation) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 4 (High Perennial Vegetation) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 5 (Low Seasonal Vegetation) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 6 (Low Perennial Vegetation) results. 
+2026-10-01 18:29:07 | Reading cached DLR class 7 (Water) results. 
+2026-10-01 18:29:07 | Joining final vulnerability analysis table for diagnostic summaries. 
+2026-10-01 18:29:09 | Land-use exposure module complete. 
+2026-10-01 18:29:09 | Wide table: /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/FULL_MUNICIPALITY_PROJECTED_AREA_FINAL_2026-10-01/LANDUSE/outputs/tables/corridor_landuse_exposure_wide.csv 
+2026-10-01 18:29:09 | GPKG: /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/FULL_MUNICIPALITY_PROJECTED_AREA_FINAL_2026-10-01/LANDUSE/outputs/gpkg/corridor_landuse_exposure.gpkg 

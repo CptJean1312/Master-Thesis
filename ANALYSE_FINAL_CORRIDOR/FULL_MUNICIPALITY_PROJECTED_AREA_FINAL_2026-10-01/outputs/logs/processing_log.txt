@@ -1,0 +1,14 @@
+2026-10-01 18:12:56 | Loading corridor municipalities ... 
+2026-10-01 18:12:57 | Corridor municipalities loaded:  835 
+2026-10-01 18:12:57 | Loading municipal exposure table ... 
+2026-10-01 18:12:57 | Exposure rows loaded:  835 
+2026-10-01 18:12:57 | RP100 exposure joined successfully. 
+2026-10-01 18:12:57 | Loading final corridor INKAR table with original indicator codes ... 
+2026-10-01 18:12:57 | Municipalities with INKAR records for vulnerability index:  834 
+2026-10-01 18:12:57 | Municipalities without INKAR records for vulnerability index:  1 
+2026-10-01 18:12:57 | Main vulnerability index: direction-coded, dimension-balanced 23-variable composite. 
+2026-10-01 18:12:57 | PCA sensitivity components retained by 70% cumulative variance:  8 
+2026-10-01 18:12:57 | PCA sensitivity components retained by Kaiser criterion:  6 
+2026-10-01 18:12:57 | Building study area map ... 
+2026-10-01 18:13:05 | Corridor PCA pipeline finished successfully. 
+2026-10-01 18:13:05 | Final analysis GPKG:  /Users/maxi_161/Desktop/UNI/Master/THESIS/Master-Thesis/ANALYSE_FINAL_CORRIDOR/FULL_MUNICIPALITY_PROJECTED_AREA_FINAL_2026-10-01/outputs/gpkg/corridor_wide_pca_rp100_analysis.gpkg 
