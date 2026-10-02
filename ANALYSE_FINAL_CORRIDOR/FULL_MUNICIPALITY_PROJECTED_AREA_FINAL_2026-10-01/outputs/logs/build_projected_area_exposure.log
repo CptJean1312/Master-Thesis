@@ -1,0 +1,15 @@
+Loading complete corridor municipality geometries. 
+Calculating flooded area with projected 100 m by 100 m cells. 
+Finished  RP10 . 
+Finished  RP20 . 
+Finished  RP50 . 
+Finished  RP100 . 
+Finished  RP200 . 
+Finished  RP500 . 
+Quality summary: 
+# A tibble: 1 × 6
+  municipalities projected_cell_area_m2 all_share_bounds_ok all_area_bounds_ok
+           <int>                  <dbl> <lgl>               <lgl>             
+1            835                  10000 TRUE                FALSE             
+# ℹ 2 more variables: monotonicity_violations <int>,
+#   suspicious_municipalities <int>

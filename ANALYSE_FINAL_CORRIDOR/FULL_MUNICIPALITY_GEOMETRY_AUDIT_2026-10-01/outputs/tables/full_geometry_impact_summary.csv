@@ -1,0 +1,13 @@
+metric,value
+municipalities,835
+municipalities_old_area_ratio_below_0.999,51
+municipalities_old_area_ratio_below_0.95,36
+old_rp100_mean,0.25350810985139033
+new_rp100_mean,0.25045880984884383
+old_rp100_median,0.12943755364483
+new_rp100_median,0.12796074540018848
+old_vulnerability_rp100_pearson,-0.0495204593270215
+new_vulnerability_rp100_pearson,-0.05322831632317768
+old_vulnerability_rp100_spearman,-0.05004647327162698
+new_vulnerability_rp100_spearman,-0.05260326989288436
+maximum_absolute_rp100_share_change_pp,65.5847263173114

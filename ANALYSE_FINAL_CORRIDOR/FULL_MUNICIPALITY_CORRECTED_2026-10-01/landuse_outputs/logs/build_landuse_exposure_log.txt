@@ -1,0 +1,21 @@
+2026-10-01 17:42:56 | Loading corridor municipalities. 
+2026-10-01 17:42:56 | Analysis template CRS: EPSG:25832 
+2026-10-01 17:42:56 | Analysis template resolution: 100 x 100 
+2026-10-01 17:42:56 | Analysis template dimensions: 4601 x 4376 x 1 
+2026-10-01 17:42:56 | Analysis template extent: 461900, 899500, 5572300, 6032400 
+2026-10-01 17:42:56 | Loading DLR Land Cover DE raster. 
+2026-10-01 17:42:58 | DLR raster CRS: 3035 
+2026-10-01 17:42:58 | DLR raster resolution: 10 x 10 
+2026-10-01 17:43:24 | Cropped DLR raster dimensions: 46596 x 44390 x 1 
+2026-10-01 17:43:24 | Corridor municipalities: 835 
+2026-10-01 17:43:24 | Return periods requested: rp100 
+2026-10-01 17:43:24 | Projecting DLR class 1 (Artificial Land) to EFAS grid as area fraction. 
+2026-10-01 17:47:15 |   Extracting flooded class area for rp100. 
+2026-10-01 17:49:29 | Projecting DLR class 2 (Open Soil) to EFAS grid as area fraction. 
+2026-10-01 17:53:15 |   Extracting flooded class area for rp100. 
+2026-10-01 17:55:32 | Projecting DLR class 3 (High Seasonal Vegetation) to EFAS grid as area fraction. 
+2026-10-01 17:59:45 |   Extracting flooded class area for rp100. 
+2026-10-01 18:02:25 | Projecting DLR class 4 (High Perennial Vegetation) to EFAS grid as area fraction. 
+2026-10-01 18:07:05 |   Extracting flooded class area for rp100. 
+2026-10-01 18:09:58 | Projecting DLR class 5 (Low Seasonal Vegetation) to EFAS grid as area fraction. 
+2026-10-01 18:14:11 |   Extracting flooded class area for rp100. 

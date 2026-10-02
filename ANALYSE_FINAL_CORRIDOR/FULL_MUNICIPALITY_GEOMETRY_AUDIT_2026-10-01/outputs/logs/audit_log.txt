@@ -1,0 +1,11 @@
+Loading existing basin-clipped corridor geometry. 
+Loading complete BKG VG250 municipality geometry. 
+Municipalities with old/full area ratio below 0.999:  51 
+Recalculating exposure with complete municipality geometries. 
+Extracting  RP10 . 
+Extracting  RP20 . 
+Extracting  RP50 . 
+Extracting  RP100 . 
+Extracting  RP200 . 
+Extracting  RP500 . 
+Audit completed without modifying existing outputs. 
